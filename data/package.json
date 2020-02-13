@@ -5,5 +5,12 @@
   "main": "index.js",
   "author": "OpenRiksdag Team",
   "license": "apache license, 2.0",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "flow": "^0.2.3",
+    "flow-bin": "^0.118.0"
+  },
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "name": "OpenRiksdag",
+  "version": "0.1.0",
+  "description": "Visually explore Sweden's Riksdag",
+  "main": "index.js",
+  "repository": "git@github.com:openriksdag/openriksdag.git",
+  "author": "OpenRiksdag <https://github.com/openriksdag>",
+  "license": "Apache License, 2.0",
+  "private": false,
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  },
+  "dependencies": {
+    "d3": "^5.15.0"
+  }
+}

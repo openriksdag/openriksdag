@@ -1,0 +1,9 @@
+{
+  "name": "openriksdag-data",
+  "version": "0.1.0",
+  "description": "Data processing code for OpenRiksdag",
+  "main": "index.js",
+  "author": "OpenRiksdag Team",
+  "license": "apache license, 2.0",
+  "private": false
+}

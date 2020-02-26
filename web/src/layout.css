@@ -1,0 +1,61 @@
+.layout {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+.title {
+  display: block;
+  background-color: transparent;
+  position: fixed;
+  top: 8%;
+  left: 5%;
+  z-index: 10;
+  text-align: left;
+  font-size: calc(25pt);
+  color: black;
+}
+
+.description {
+  font-size: 10pt;
+  width: 60%;
+}
+
+.navbar {
+  background-color: black;
+  padding-top: 35px;
+  color: white;
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: 50px;
+  z-index: 10;
+}
+.rotation-wrapper-outer {
+  display: table;
+}
+.rotation-wrapper-inner {
+  padding: 50% 0;
+}
+.link {
+  display: block;
+  transform-origin: top left;
+  transform: rotate(90deg) translate(0, -100%);
+  margin-left: 15px;
+  white-space: nowrap;
+}
+
+#git {
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  margin-bottom: 20px;
+}
+
+img {
+  width: 55%;
+}

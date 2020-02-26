@@ -1,14 +1,8 @@
 import React from "react";
-import "./App.css";
+import Layout from "./layout.js";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <p>Open Riksdag</p>
-      </header>
-    </div>
-  );
+  return <Layout>Beautiful content</Layout>;
 }
 
 export default App;

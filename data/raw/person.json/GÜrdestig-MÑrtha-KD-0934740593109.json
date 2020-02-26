@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "7076d8c4-fd56-4967-8c8a-f28dbf1e584d",
+    "sourceid": "57847f96-81fc-421d-94d8-7f377b74c3bc",
+    "intressent_id": "0934740593109",
+    "hangar_id": "2341988",
+    "fodd_ar": "1938",
+    "kon": "kvinna",
+    "efternamn": "Gårdestig",
+    "tilltalsnamn": "Märtha",
+    "sorteringsnamn": "Gårdestig,Märtha",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/57847f96-81fc-421d-94d8-7f377b74c3bc",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/57847f96-81fc-421d-94d8-7f377b74c3bc_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/57847f96-81fc-421d-94d8-7f377b74c3bc_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/57847f96-81fc-421d-94d8-7f377b74c3bc_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1992-06-10",
+          "tom": "1994-10-02",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0934740593109",
+          "hangar_id": "2341988",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0934740593109",
+          "hangar_id": "2341988",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "leg. sjuksköterska",
+          "typ": "titlar",
+          "intressent_id": "0934740593109",
+          "hangar_id": "2341988"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0934740593109",
+          "hangar_id": "2341988"
+        }
+      ]
+    }
+  }
+}

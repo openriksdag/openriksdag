@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "bbe549c5-b4b2-4fa7-a4f3-1290cd1546e0",
+    "sourceid": "d9e2e13d-8482-4ebb-ae1f-5211d7c87f88",
+    "intressent_id": "0977557986415",
+    "hangar_id": "2342822",
+    "fodd_ar": "1954",
+    "kon": "kvinna",
+    "efternamn": "Söderberg",
+    "tilltalsnamn": "Gunnel",
+    "sorteringsnamn": "Söderberg,Gunnel",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Dalarnas län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/d9e2e13d-8482-4ebb-ae1f-5211d7c87f88",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d9e2e13d-8482-4ebb-ae1f-5211d7c87f88_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d9e2e13d-8482-4ebb-ae1f-5211d7c87f88_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d9e2e13d-8482-4ebb-ae1f-5211d7c87f88_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "134",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2010-01-11",
+          "tom": "2010-04-05",
+          "uppgift": "Patrik Forslund",
+          "intressent_id": "0977557986415",
+          "hangar_id": "2342822",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-01-18",
+          "tom": "2010-04-05",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0977557986415",
+          "hangar_id": "2342822",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-01-18",
+          "tom": "2010-04-05",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0977557986415",
+          "hangar_id": "2342822",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Egen företagare",
+          "typ": "titlar",
+          "intressent_id": "0977557986415",
+          "hangar_id": "2342822"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0977557986415",
+          "hangar_id": "2342822"
+        }
+      ]
+    }
+  }
+}

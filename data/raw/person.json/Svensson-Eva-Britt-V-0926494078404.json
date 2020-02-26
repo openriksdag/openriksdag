@@ -1,0 +1,66 @@
+{
+  "person": {
+    "hangar_guid": "666434cc-3fec-4589-9d03-b88b5fa13f1d",
+    "sourceid": "e1a4a6cd-fcc8-4038-a9f4-cd4145139b62",
+    "intressent_id": "0926494078404",
+    "hangar_id": "2821578",
+    "fodd_ar": "1946",
+    "kon": "kvinna",
+    "efternamn": "Svensson",
+    "tilltalsnamn": "Eva-Britt",
+    "sorteringsnamn": "Svensson,Eva-Britt",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "",
+    "status": "Tidigare europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/e1a4a6cd-fcc8-4038-a9f4-cd4145139b62",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e1a4a6cd-fcc8-4038-a9f4-cd4145139b62_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e1a4a6cd-fcc8-4038-a9f4-cd4145139b62_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e1a4a6cd-fcc8-4038-a9f4-cd4145139b62_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "EP",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "Europaparlamentet",
+          "from": "2009-07-14",
+          "tom": "2011-08-31",
+          "uppgift": "Europaparlamentet",
+          "intressent_id": "0926494078404",
+          "hangar_id": "2821578",
+          "sortering": "30",
+          "organ_sortering": "100",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EP",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "Europaparlamentet",
+          "from": "2004-07-20",
+          "tom": "2009-07-14",
+          "uppgift": "Europaparlamentet",
+          "intressent_id": "0926494078404",
+          "hangar_id": "2821578",
+          "sortering": "30",
+          "organ_sortering": "100",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "true",
+        "typ": "val",
+        "intressent_id": "0926494078404",
+        "hangar_id": "2821578"
+      }
+    }
+  }
+}

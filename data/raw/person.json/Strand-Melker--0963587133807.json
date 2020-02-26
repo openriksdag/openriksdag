@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "511e7fcb-03ac-4938-a3bd-9687b09e7abc",
+    "sourceid": "2c564437-c084-41f3-9863-8ece650ecf96",
+    "intressent_id": "0963587133807",
+    "hangar_id": "2341768",
+    "fodd_ar": "1930",
+    "kon": "man",
+    "efternamn": "Strand",
+    "tilltalsnamn": "Melker",
+    "sorteringsnamn": "Strand,Melker",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/2c564437-c084-41f3-9863-8ece650ecf96",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2c564437-c084-41f3-9863-8ece650ecf96_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2c564437-c084-41f3-9863-8ece650ecf96_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2c564437-c084-41f3-9863-8ece650ecf96_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1986-10-15",
+          "tom": "1986-11-14",
+          "uppgift": "Karl-Erik Svartberg",
+          "intressent_id": "0963587133807",
+          "hangar_id": "2341768",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1985-10-15",
+          "tom": "1985-11-15",
+          "uppgift": "Karl-Erik Svartberg",
+          "intressent_id": "0963587133807",
+          "hangar_id": "2341768",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

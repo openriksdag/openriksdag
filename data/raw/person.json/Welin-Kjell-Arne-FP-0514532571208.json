@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "5b579113-af9e-4fb5-a256-cdffcacdbbc8",
+    "sourceid": "c838920a-57b5-4fbc-9627-82f670187878",
+    "intressent_id": "0514532571208",
+    "hangar_id": "2342184",
+    "fodd_ar": "1942",
+    "kon": "man",
+    "efternamn": "Welin",
+    "tilltalsnamn": "Kjell-Arne",
+    "sorteringsnamn": "Welin,Kjell-Arne",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/c838920a-57b5-4fbc-9627-82f670187878",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c838920a-57b5-4fbc-9627-82f670187878_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c838920a-57b5-4fbc-9627-82f670187878_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c838920a-57b5-4fbc-9627-82f670187878_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "170",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1994-02-07",
+          "tom": "1994-05-29",
+          "uppgift": "Olle Schmidt",
+          "intressent_id": "0514532571208",
+          "hangar_id": "2342184",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "167",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0514532571208",
+          "hangar_id": "2342184",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0514532571208",
+          "hangar_id": "2342184",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0514532571208",
+          "hangar_id": "2342184",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0514532571208",
+          "hangar_id": "2342184",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-02-07",
+          "tom": "1994-05-29",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "0514532571208",
+          "hangar_id": "2342184",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "arbetsförmedlare",
+          "typ": "titlar",
+          "intressent_id": "0514532571208",
+          "hangar_id": "2342184"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0514532571208",
+          "hangar_id": "2342184"
+        }
+      ]
+    }
+  }
+}

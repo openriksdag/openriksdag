@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "5923f083-68c1-4dad-9353-54a3d5462a5c",
+    "sourceid": "4b8b217b-4c5e-46b3-90be-bda1f6bb7fad",
+    "intressent_id": "012786308404",
+    "hangar_id": "2341714",
+    "fodd_ar": "1927",
+    "kon": "man",
+    "efternamn": "Ekström",
+    "tilltalsnamn": "Allan",
+    "sorteringsnamn": "Ekström,Allan",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Avliden  2017-10-14",
+    "person_url_xml": "http://data.riksdagen.se/person/4b8b217b-4c5e-46b3-90be-bda1f6bb7fad",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4b8b217b-4c5e-46b3-90be-bda1f6bb7fad_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4b8b217b-4c5e-46b3-90be-bda1f6bb7fad_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4b8b217b-4c5e-46b3-90be-bda1f6bb7fad_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "39",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "012786308404",
+          "hangar_id": "2341714",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "012786308404",
+          "hangar_id": "2341714",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1983-04-07",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "012786308404",
+          "hangar_id": "2341714",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "1983-03-01",
+          "tom": "1983-04-06",
+          "uppgift": "Inger Koch 1983-03-01 - 1983-03-31, Inger Koch 1983-04-01 - 1983-04-06",
+          "intressent_id": "012786308404",
+          "hangar_id": "2341714",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1983-02-28",
+          "uppgift": "",
+          "intressent_id": "012786308404",
+          "hangar_id": "2341714",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "BN",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1989-10-04",
+          "tom": "1991-09-30",
+          "uppgift": "Besvärsnämnden",
+          "intressent_id": "012786308404",
+          "hangar_id": "2341714",
+          "sortering": "30",
+          "organ_sortering": "399",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "hovrättsråd",
+          "typ": "titlar",
+          "intressent_id": "012786308404",
+          "hangar_id": "2341714"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "012786308404",
+          "hangar_id": "2341714"
+        }
+      ]
+    }
+  }
+}

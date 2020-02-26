@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "832fec3c-08a9-4f88-854c-1c973bae33a3",
+    "sourceid": "15c41efd-f3e2-4568-a7ea-9f1c01145b36",
+    "intressent_id": "021208424208",
+    "hangar_id": "2341824",
+    "fodd_ar": "1933",
+    "kon": "man",
+    "efternamn": "Björk",
+    "tilltalsnamn": "Ingvar",
+    "sorteringsnamn": "Björk,Ingvar",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Avliden  2018-08-04",
+    "person_url_xml": "http://data.riksdagen.se/person/15c41efd-f3e2-4568-a7ea-9f1c01145b36",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/15c41efd-f3e2-4568-a7ea-9f1c01145b36_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/15c41efd-f3e2-4568-a7ea-9f1c01145b36_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/15c41efd-f3e2-4568-a7ea-9f1c01145b36_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "88",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "021208424208",
+          "hangar_id": "2341824",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "94",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "021208424208",
+          "hangar_id": "2341824",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "021208424208",
+          "hangar_id": "2341824",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "021208424208",
+          "hangar_id": "2341824",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-02",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "021208424208",
+          "hangar_id": "2341824",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "021208424208",
+          "hangar_id": "2341824",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "folkhögskollärare",
+          "typ": "titlar",
+          "intressent_id": "021208424208",
+          "hangar_id": "2341824"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "021208424208",
+          "hangar_id": "2341824"
+        }
+      ]
+    }
+  }
+}

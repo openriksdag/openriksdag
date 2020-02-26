@@ -1,0 +1,146 @@
+{
+  "person": {
+    "hangar_guid": "3d7814e3-274c-49c6-91b2-277d5726fdaa",
+    "sourceid": "886569d7-8f62-4723-8bdf-52a2e27d08f1",
+    "intressent_id": "0560258077929",
+    "hangar_id": "2369454",
+    "fodd_ar": "1982",
+    "kon": "man",
+    "efternamn": "Drummond",
+    "tilltalsnamn": "Bino",
+    "sorteringsnamn": "Drummond,Bino",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/886569d7-8f62-4723-8bdf-52a2e27d08f1",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/886569d7-8f62-4723-8bdf-52a2e27d08f1_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/886569d7-8f62-4723-8bdf-52a2e27d08f1_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/886569d7-8f62-4723-8bdf-52a2e27d08f1_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "112",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2013-01-01",
+          "tom": "2014-09-29",
+          "uppgift": "Hillevi Engström",
+          "intressent_id": "0560258077929",
+          "hangar_id": "2369454",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "55",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2012-08-16",
+          "tom": "2012-12-31",
+          "uppgift": "Karin Enström",
+          "intressent_id": "0560258077929",
+          "hangar_id": "2369454",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "248",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2012-04-19",
+          "tom": "2012-08-15",
+          "uppgift": "Mikael Sandström",
+          "intressent_id": "0560258077929",
+          "hangar_id": "2369454",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "249",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2012-03-19",
+          "tom": "2012-04-18",
+          "uppgift": "Eliza Roszkowska Öberg",
+          "intressent_id": "0560258077929",
+          "hangar_id": "2369454",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-04-25",
+          "tom": "2014-09-29",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0560258077929",
+          "hangar_id": "2369454",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-03-19",
+          "tom": "2012-04-19",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0560258077929",
+          "hangar_id": "2369454",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "bino.drummond[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0560258077929",
+          "hangar_id": "2369454"
+        },
+        {
+          "kod": "Övriga webbsidor",
+          "uppgift": "http://norrteljetidning.se/lasarnytt/bloggar/binodrummond",
+          "typ": "eadress",
+          "intressent_id": "0560258077929",
+          "hangar_id": "2369454"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "64847",
+          "typ": "telefonnummer",
+          "intressent_id": "0560258077929",
+          "hangar_id": "2369454"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,85 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5023269</hangar_id>
+    <dok_id datatype="string">H601JuU35</dok_id>
+    <rm datatype="string">2018/19</rm>
+    <beteckning datatype="string">JuU35</beteckning>
+    <typ datatype="string">bet</typ>
+    <subtyp datatype="string">bet</subtyp>
+    <doktyp datatype="string">bet</doktyp>
+    <typrubrik datatype="string">Betänkande 2018/19:JuU35</typrubrik>
+    <dokumentnamn datatype="string">Betänkande</dokumentnamn>
+    <debattnamn datatype="string">Debatt om förslag</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">JuU</organ>
+    <mottagare datatype="string"></mottagare>
+    <nummer datatype="int32">35</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2019-02-28 00:00:00</datum>
+    <systemdatum datatype="datetime">2019-02-28 14:01:54</systemdatum>
+    <publicerad datatype="datetime">2019-02-28 14:01:53</publicerad>
+    <titel datatype="string">Genomförande av 2017 års ändringsdirektiv till EU:s vapendirektiv</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">planerat</status>
+    <htmlformat datatype="string"></htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">Brus</source>
+    <sourceid datatype="string">766c2789-dc48-4fb1-9b0c-57db6c4db31a</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H601JuU35/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H601JuU35</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H601JuU35</dokumentstatus_url_xml>
+    <utskottsforslag_url_xml datatype="stext">http://data.riksdagen.se/utskottsforslag/H601JuU35</utskottsforslag_url_xml>
+    <html datatype="text">&lt;h2&gt;Genomförande av 2017 års ändringsdirektiv till EU:s vapendirektiv&lt;/h2&gt;
+Dokumentet är inte publicerat</html>
+  </dokument>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">UBE</kod>
+<namn datatype="string">Beredning</namn>
+<datum datatype="datetime">2019-05-16 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">JUS</kod>
+<namn datatype="string">Justering</namn>
+<datum datatype="datetime">2019-06-11 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">TRY</kod>
+<namn datatype="string">Trycklov</namn>
+<datum datatype="datetime">2019-06-12 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">B</kod>
+<namn datatype="string">Bordläggning</namn>
+<datum datatype="datetime">2019-06-17 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">BEH</kod>
+<namn datatype="string">Behandling</namn>
+<datum datatype="datetime">2019-06-18 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">BES</kod>
+<namn datatype="string">Beslut</namn>
+<datum datatype="datetime">2019-06-18 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+</dokaktivitet>
+<debatt /></dokumentstatus>

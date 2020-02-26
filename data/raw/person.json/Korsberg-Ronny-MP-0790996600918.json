@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "b3fc57bc-2542-4d40-9dd2-0798ac3ac3e2",
+    "sourceid": "47b0f7e7-aa03-4c8d-a5da-0c8de80e4d80",
+    "intressent_id": "0790996600918",
+    "hangar_id": "2342738",
+    "fodd_ar": "1952",
+    "kon": "man",
+    "efternamn": "Korsberg",
+    "tilltalsnamn": "Ronny",
+    "sorteringsnamn": "Korsberg,Ronny",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/47b0f7e7-aa03-4c8d-a5da-0c8de80e4d80",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/47b0f7e7-aa03-4c8d-a5da-0c8de80e4d80_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/47b0f7e7-aa03-4c8d-a5da-0c8de80e4d80_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/47b0f7e7-aa03-4c8d-a5da-0c8de80e4d80_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "113",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1994-10-03",
+          "tom": "1998-10-05",
+          "uppgift": "",
+          "intressent_id": "0790996600918",
+          "hangar_id": "2342738",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1996-11-27",
+          "tom": "1998-10-04",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0790996600918",
+          "hangar_id": "2342738",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1998-10-04",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0790996600918",
+          "hangar_id": "2342738",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1998-10-04",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0790996600918",
+          "hangar_id": "2342738",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "civilekonom",
+          "typ": "titlar",
+          "intressent_id": "0790996600918",
+          "hangar_id": "2342738"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0790996600918",
+          "hangar_id": "2342738"
+        }
+      ]
+    }
+  }
+}

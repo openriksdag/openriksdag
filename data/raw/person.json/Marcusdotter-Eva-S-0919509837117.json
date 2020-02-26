@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "1d57a67e-4d62-42ee-a3ca-fc326d76cb97",
+    "sourceid": "b3f4a232-9931-4373-8c99-c3991ad474e6",
+    "intressent_id": "0919509837117",
+    "hangar_id": "2343088",
+    "fodd_ar": "1959",
+    "kon": "kvinna",
+    "efternamn": "Marcusdotter",
+    "tilltalsnamn": "Eva",
+    "sorteringsnamn": "Marcusdotter,Eva",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Örebro län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/b3f4a232-9931-4373-8c99-c3991ad474e6",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b3f4a232-9931-4373-8c99-c3991ad474e6_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b3f4a232-9931-4373-8c99-c3991ad474e6_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b3f4a232-9931-4373-8c99-c3991ad474e6_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "269",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2001-03-26",
+          "tom": "2001-04-29",
+          "uppgift": "Inger Lundberg",
+          "intressent_id": "0919509837117",
+          "hangar_id": "2343088",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2001-03-26",
+          "tom": "2001-04-29",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0919509837117",
+          "hangar_id": "2343088",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

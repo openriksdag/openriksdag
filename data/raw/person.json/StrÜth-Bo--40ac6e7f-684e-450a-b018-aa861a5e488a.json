@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "e64eaa8d-4fe9-4f5c-90dc-8876c963f4da",
+    "sourceid": "40ac6e7f-684e-450a-b018-aa861a5e488a",
+    "intressent_id": "",
+    "hangar_id": "4788854",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Stråth",
+    "tilltalsnamn": "Bo",
+    "sorteringsnamn": "Stråth,Bo",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ledamot i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/40ac6e7f-684e-450a-b018-aa861a5e488a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/40ac6e7f-684e-450a-b018-aa861a5e488a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/40ac6e7f-684e-450a-b018-aa861a5e488a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/40ac6e7f-684e-450a-b018-aa861a5e488a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RJ",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "8",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2014-11-01",
+        "tom": "2018-10-31",
+        "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+        "intressent_id": "",
+        "hangar_id": "4788854",
+        "sortering": "30",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

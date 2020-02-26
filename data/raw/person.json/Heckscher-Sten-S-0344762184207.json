@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "8a54ba12-462c-4ab5-9978-f7886ad67d89",
+    "sourceid": "d1ec7c4f-c800-4731-81b1-25c6eb2e276b",
+    "intressent_id": "0344762184207",
+    "hangar_id": "2342171",
+    "fodd_ar": "1942",
+    "kon": "man",
+    "efternamn": "Heckscher",
+    "tilltalsnamn": "Sten",
+    "sorteringsnamn": "Heckscher,Sten",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare näringsminister",
+    "person_url_xml": "http://data.riksdagen.se/person/d1ec7c4f-c800-4731-81b1-25c6eb2e276b",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d1ec7c4f-c800-4731-81b1-25c6eb2e276b_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d1ec7c4f-c800-4731-81b1-25c6eb2e276b_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d1ec7c4f-c800-4731-81b1-25c6eb2e276b_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "N",
+        "roll_kod": "Näringsminister",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "Departement",
+        "from": "1994-10-07",
+        "tom": "1996-02-05",
+        "uppgift": "Näringsdepartementet",
+        "intressent_id": "0344762184207",
+        "hangar_id": "2342171",
+        "sortering": "50",
+        "organ_sortering": "",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

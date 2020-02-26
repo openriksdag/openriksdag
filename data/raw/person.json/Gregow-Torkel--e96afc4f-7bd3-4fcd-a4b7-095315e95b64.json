@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "e51b1be7-0d8d-494e-9d77-80fd2fd15d70",
+    "sourceid": "e96afc4f-7bd3-4fcd-a4b7-095315e95b64",
+    "intressent_id": "",
+    "hangar_id": "4788831",
+    "fodd_ar": "0",
+    "kon": "okänt",
+    "efternamn": "Gregow",
+    "tilltalsnamn": "Torkel",
+    "sorteringsnamn": "Gregow,Torkel",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ordförande i Partibidragsnämnden",
+    "person_url_xml": "http://data.riksdagen.se/person/e96afc4f-7bd3-4fcd-a4b7-095315e95b64",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e96afc4f-7bd3-4fcd-a4b7-095315e95b64_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e96afc4f-7bd3-4fcd-a4b7-095315e95b64_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e96afc4f-7bd3-4fcd-a4b7-095315e95b64_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "PN",
+        "roll_kod": "Ordförande",
+        "ordningsnummer": "1",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2008-03-26",
+        "tom": "2014-03-26",
+        "uppgift": "Partibidragsnämnden",
+        "intressent_id": "",
+        "hangar_id": "4788831",
+        "sortering": "10",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

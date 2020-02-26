@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "2b7e9fd5-04ac-465e-8d43-4c9599d0885f",
+    "sourceid": "eaf546e0-333a-4543-a79d-a35871de3a3f",
+    "intressent_id": "0829071574102",
+    "hangar_id": "2878607",
+    "fodd_ar": "1941",
+    "kon": "man",
+    "efternamn": "Mertzig",
+    "tilltalsnamn": "Hans",
+    "sorteringsnamn": "Mertzig,Hans",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ledamot i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/eaf546e0-333a-4543-a79d-a35871de3a3f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/eaf546e0-333a-4543-a79d-a35871de3a3f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/eaf546e0-333a-4543-a79d-a35871de3a3f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/eaf546e0-333a-4543-a79d-a35871de3a3f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RJ",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "12",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2013-09-26",
+        "tom": "2016-04-19",
+        "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+        "intressent_id": "0829071574102",
+        "hangar_id": "2878607",
+        "sortering": "30",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

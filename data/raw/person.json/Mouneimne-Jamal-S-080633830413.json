@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "b3cbee93-617b-4dc2-acc7-96ad71286f23",
+    "sourceid": "12fec0e0-b73e-43c0-8007-9a84cc5bd824",
+    "intressent_id": "080633830413",
+    "hangar_id": "2369720",
+    "fodd_ar": "1971",
+    "kon": "man",
+    "efternamn": "Mouneimne",
+    "tilltalsnamn": "Jamal",
+    "sorteringsnamn": "Mouneimne,Jamal",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Västerbottens län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/12fec0e0-b73e-43c0-8007-9a84cc5bd824",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/12fec0e0-b73e-43c0-8007-9a84cc5bd824_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/12fec0e0-b73e-43c0-8007-9a84cc5bd824_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/12fec0e0-b73e-43c0-8007-9a84cc5bd824_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "79",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2015-10-29",
+          "tom": "2017-09-12",
+          "uppgift": "Katarina Köhler",
+          "intressent_id": "080633830413",
+          "hangar_id": "2369720",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-08-31",
+          "tom": "2017-09-12",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "080633830413",
+          "hangar_id": "2369720",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-01-13",
+          "tom": "2017-06-30",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "080633830413",
+          "hangar_id": "2369720",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-10-16",
+          "tom": "2017-01-12",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "080633830413",
+          "hangar_id": "2369720",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-05-01",
+          "tom": "2016-10-15",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "080633830413",
+          "hangar_id": "2369720",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2015-11-03",
+          "tom": "2016-04-30",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "080633830413",
+          "hangar_id": "2369720",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Energirådgivare/Byggnadsinspektör",
+          "typ": "titlar",
+          "intressent_id": "080633830413",
+          "hangar_id": "2369720"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "080633830413",
+          "hangar_id": "2369720"
+        }
+      ]
+    }
+  }
+}

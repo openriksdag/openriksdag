@@ -1,0 +1,153 @@
+{
+  "person": {
+    "hangar_guid": "5cce3ef6-5601-4055-b6b6-64273c88f360",
+    "sourceid": "5b6bef5c-75ce-4f53-894d-e89afd3b6799",
+    "intressent_id": "0526748040023",
+    "hangar_id": "5003695",
+    "fodd_ar": "1983",
+    "kon": "man",
+    "efternamn": "Aspling",
+    "tilltalsnamn": "Ludvig",
+    "sorteringsnamn": "Aspling,Ludvig",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Stockholms län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/5b6bef5c-75ce-4f53-894d-e89afd3b6799",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5b6bef5c-75ce-4f53-894d-e89afd3b6799_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5b6bef5c-75ce-4f53-894d-e89afd3b6799_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5b6bef5c-75ce-4f53-894d-e89afd3b6799_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "319",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2019-06-28",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0526748040023",
+          "hangar_id": "5003695",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "319",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "2019-05-28",
+          "tom": "2019-06-27",
+          "uppgift": "Katarina Olofsson 2019-05-28 - 2019-06-27  Föräldraledighet",
+          "intressent_id": "0526748040023",
+          "hangar_id": "5003695",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "319",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2019-05-27",
+          "uppgift": "",
+          "intressent_id": "0526748040023",
+          "hangar_id": "5003695",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0526748040023",
+          "hangar_id": "5003695",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-11-14",
+          "tom": "2019-12-17",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0526748040023",
+          "hangar_id": "5003695",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-10-04",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0526748040023",
+          "hangar_id": "5003695",
+          "sortering": "30",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "ludvig.aspling[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0526748040023",
+          "hangar_id": "5003695"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "65992",
+          "typ": "telefonnummer",
+          "intressent_id": "0526748040023",
+          "hangar_id": "5003695"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Jur.stud.",
+          "typ": "titlar",
+          "intressent_id": "0526748040023",
+          "hangar_id": "5003695"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0526748040023",
+          "hangar_id": "5003695"
+        }
+      ]
+    }
+  }
+}

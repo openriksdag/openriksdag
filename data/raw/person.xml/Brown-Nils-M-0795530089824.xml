@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">33ccc5b4-7d30-4855-8f2f-313bf28c24a6</hangar_guid>
+<sourceid datatype="string">ae360046-2892-4199-a1af-bd684ff70c8c</sourceid>
+<intressent_id datatype="string">0795530089824</intressent_id>
+<hangar_id datatype="int32">2369483</hangar_id>
+<fodd_ar datatype="int16">1986</fodd_ar>
+<kon datatype="string">man</kon>
+<efternamn datatype="string">Brown</efternamn>
+<tilltalsnamn datatype="string">Nils</tilltalsnamn>
+<sorteringsnamn datatype="string">Brown,Nils</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">M</parti>
+<valkrets datatype="string">Södermanlands län</valkrets>
+<status datatype="string">Tidigare ersättare</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/ae360046-2892-4199-a1af-bd684ff70c8c</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/ae360046-2892-4199-a1af-bd684ff70c8c_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/ae360046-2892-4199-a1af-bd684ff70c8c_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/ae360046-2892-4199-a1af-bd684ff70c8c_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Ersättare</roll_kod>
+<ordningsnummer datatype="int32">250</ordningsnummer>
+<status datatype="string">Ersättare</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2012-11-16</from>
+<tom datatype="datetime">2013-06-28</tom>
+<uppgift datatype="string">Walburga Habsburg Douglas</uppgift>
+<intressent_id datatype="string">0795530089824</intressent_id>
+<hangar_id datatype="int32">2369483</hangar_id>
+<sortering datatype="int32">45</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">20</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">EUN</organ_kod>
+<roll_kod datatype="string">Extra suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2012-12-10</from>
+<tom datatype="datetime">2013-06-28</tom>
+<uppgift datatype="string">EU-nämnden</uppgift>
+<intressent_id datatype="string">0795530089824</intressent_id>
+<hangar_id datatype="int32">2369483</hangar_id>
+<sortering datatype="int32">55</sortering>
+<organ_sortering datatype="int32">170</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+<uppgift>
+<kod datatype="string">Officiell e-postadress</kod>
+<uppgift datatype="string">nils.brown[på]riksdagen.se</uppgift>
+<typ datatype="string">eadress</typ>
+<intressent_id datatype="string">0795530089824</intressent_id>
+<hangar_id datatype="int32">2369483</hangar_id>
+</uppgift>
+<uppgift>
+<kod datatype="string">Tjänstetelefon</kod>
+<uppgift datatype="string">66702</uppgift>
+<typ datatype="string">telefonnummer</typ>
+<intressent_id datatype="string">0795530089824</intressent_id>
+<hangar_id datatype="int32">2369483</hangar_id>
+</uppgift>
+</personuppgift>
+</person>

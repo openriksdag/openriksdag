@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "a2124180-9b03-48ce-927d-ee59c4b6f4b8",
+    "sourceid": "4886f71d-d76e-46cc-9d44-9e67d192277a",
+    "intressent_id": "0286498639614",
+    "hangar_id": "2342934",
+    "fodd_ar": "1956",
+    "kon": "kvinna",
+    "efternamn": "Carlsson",
+    "tilltalsnamn": "Willemo",
+    "sorteringsnamn": "Carlsson,Willemo",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Kronobergs län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/4886f71d-d76e-46cc-9d44-9e67d192277a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4886f71d-d76e-46cc-9d44-9e67d192277a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4886f71d-d76e-46cc-9d44-9e67d192277a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4886f71d-d76e-46cc-9d44-9e67d192277a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "291",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2008-11-01",
+          "tom": "2009-04-30",
+          "uppgift": "Anna Tenje",
+          "intressent_id": "0286498639614",
+          "hangar_id": "2342934",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2008-11-13",
+          "tom": "2009-04-30",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0286498639614",
+          "hangar_id": "2342934",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2008-11-13",
+          "tom": "2009-04-30",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0286498639614",
+          "hangar_id": "2342934",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Fil.mag./Leg.sjuksköt.",
+          "typ": "titlar",
+          "intressent_id": "0286498639614",
+          "hangar_id": "2342934"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0286498639614",
+          "hangar_id": "2342934"
+        }
+      ]
+    }
+  }
+}

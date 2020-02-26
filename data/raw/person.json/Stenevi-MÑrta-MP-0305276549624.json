@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "7a6f3dbd-094c-46e0-9246-0ecedb7822e0",
+    "sourceid": "8b50805c-ec24-4631-8f12-6d02cb385456",
+    "intressent_id": "0305276549624",
+    "hangar_id": "5037192",
+    "fodd_ar": "1976",
+    "kon": "kvinna",
+    "efternamn": "Stenevi",
+    "tilltalsnamn": "Märta",
+    "sorteringsnamn": "Stenevi,Märta",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "",
+    "status": "",
+    "person_url_xml": "http://data.riksdagen.se/person/8b50805c-ec24-4631-8f12-6d02cb385456",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8b50805c-ec24-4631-8f12-6d02cb385456_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8b50805c-ec24-4631-8f12-6d02cb385456_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8b50805c-ec24-4631-8f12-6d02cb385456_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "MP",
+        "roll_kod": "Partisekreterare",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "partiuppdrag",
+        "from": "2019-05-04",
+        "tom": "",
+        "uppgift": "Miljöpartiet",
+        "intressent_id": "0305276549624",
+        "hangar_id": "5037192",
+        "sortering": "35",
+        "organ_sortering": "",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

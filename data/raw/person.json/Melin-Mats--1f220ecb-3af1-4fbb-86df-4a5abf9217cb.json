@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "bf267c96-6e8c-405d-a334-507567ade27b",
+    "sourceid": "1f220ecb-3af1-4fbb-86df-4a5abf9217cb",
+    "intressent_id": "",
+    "hangar_id": "4788812",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Melin",
+    "tilltalsnamn": "Mats",
+    "sorteringsnamn": "Melin,Mats",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare chefsjustitieombudsman i Riksdagens ombudsmän",
+    "person_url_xml": "http://data.riksdagen.se/person/1f220ecb-3af1-4fbb-86df-4a5abf9217cb",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1f220ecb-3af1-4fbb-86df-4a5abf9217cb_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1f220ecb-3af1-4fbb-86df-4a5abf9217cb_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1f220ecb-3af1-4fbb-86df-4a5abf9217cb_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "JO",
+        "roll_kod": "Chefsjustitieombudsman",
+        "ordningsnummer": "1",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2004-02-01",
+        "tom": "2011-01-02",
+        "uppgift": "Riksdagens ombudsmän",
+        "intressent_id": "",
+        "hangar_id": "4788812",
+        "sortering": "",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

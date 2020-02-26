@@ -1,0 +1,82 @@
+{
+  "person": {
+    "hangar_guid": "787ca516-2689-4dea-9e0b-681bf07c0ca2",
+    "sourceid": "1aee54b8-edd5-4d45-bbea-818c2e78cd42",
+    "intressent_id": "0424684306815",
+    "hangar_id": "2369453",
+    "fodd_ar": "1971",
+    "kon": "man",
+    "efternamn": "Dogru",
+    "tilltalsnamn": "Sedat",
+    "sorteringsnamn": "Dogru,Sedat",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/1aee54b8-edd5-4d45-bbea-818c2e78cd42",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1aee54b8-edd5-4d45-bbea-818c2e78cd42_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1aee54b8-edd5-4d45-bbea-818c2e78cd42_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1aee54b8-edd5-4d45-bbea-818c2e78cd42_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "248",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2013-01-01",
+          "tom": "2014-09-29",
+          "uppgift": "Mikael Sandström",
+          "intressent_id": "0424684306815",
+          "hangar_id": "2369453",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2013-01-24",
+          "tom": "2013-02-19",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0424684306815",
+          "hangar_id": "2369453",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2013-02-14",
+          "tom": "2014-09-29",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0424684306815",
+          "hangar_id": "2369453",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "true",
+        "typ": "val",
+        "intressent_id": "0424684306815",
+        "hangar_id": "2369453"
+      }
+    }
+  }
+}

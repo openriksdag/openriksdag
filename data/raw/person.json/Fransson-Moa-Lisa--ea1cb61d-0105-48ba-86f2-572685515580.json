@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "85cfabf1-280b-4492-8049-92d30ccf7a08",
+    "sourceid": "ea1cb61d-0105-48ba-86f2-572685515580",
+    "intressent_id": "",
+    "hangar_id": "4788859",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Fransson",
+    "tilltalsnamn": "Moa-Lisa",
+    "sorteringsnamn": "Fransson,Moa-Lisa",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Status saknas",
+    "person_url_xml": "http://data.riksdagen.se/person/ea1cb61d-0105-48ba-86f2-572685515580",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ea1cb61d-0105-48ba-86f2-572685515580_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ea1cb61d-0105-48ba-86f2-572685515580_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ea1cb61d-0105-48ba-86f2-572685515580_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "VPN",
+        "roll_kod": "Suppleant",
+        "ordningsnummer": "5",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2015-02-18",
+        "tom": "2017-10-17",
+        "uppgift": "Valprövningsnämnden",
+        "intressent_id": "",
+        "hangar_id": "4788859",
+        "sortering": "50",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

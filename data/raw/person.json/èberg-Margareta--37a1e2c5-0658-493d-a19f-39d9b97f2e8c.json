@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "76bf8622-9384-4007-b712-d647dd3ca14d",
+    "sourceid": "37a1e2c5-0658-493d-a19f-39d9b97f2e8c",
+    "intressent_id": "",
+    "hangar_id": "4788844",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Åberg",
+    "tilltalsnamn": "Margareta",
+    "sorteringsnamn": "Åberg,Margareta",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare riksrevisor med administrativt ansvar i Riksrevisorerna",
+    "person_url_xml": "http://data.riksdagen.se/person/37a1e2c5-0658-493d-a19f-39d9b97f2e8c",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/37a1e2c5-0658-493d-a19f-39d9b97f2e8c_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/37a1e2c5-0658-493d-a19f-39d9b97f2e8c_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/37a1e2c5-0658-493d-a19f-39d9b97f2e8c_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "RR",
+          "roll_kod": "Riksrevisor med administrativt ansvar",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2015-07-01",
+          "tom": "2017-03-14",
+          "uppgift": "Riksrevisorerna",
+          "intressent_id": "",
+          "hangar_id": "4788844",
+          "sortering": "",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RR",
+          "roll_kod": "Riksrevisor",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2014-06-01",
+          "tom": "2015-06-30",
+          "uppgift": "Riksrevisorerna",
+          "intressent_id": "",
+          "hangar_id": "4788844",
+          "sortering": "",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

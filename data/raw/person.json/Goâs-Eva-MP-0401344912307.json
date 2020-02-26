@@ -1,0 +1,171 @@
+{
+  "person": {
+    "hangar_guid": "c42ed7e9-3fe2-4562-87ea-9d7552de9b2f",
+    "sourceid": "1d94d7b1-b48a-4224-920f-133024c392c0",
+    "intressent_id": "0401344912307",
+    "hangar_id": "2342458",
+    "fodd_ar": "1947",
+    "kon": "kvinna",
+    "efternamn": "Goës",
+    "tilltalsnamn": "Eva",
+    "sorteringsnamn": "Goës,Eva",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/1d94d7b1-b48a-4224-920f-133024c392c0",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1d94d7b1-b48a-4224-920f-133024c392c0_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1d94d7b1-b48a-4224-920f-133024c392c0_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1d94d7b1-b48a-4224-920f-133024c392c0_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "19",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1994-10-21",
+          "tom": "1998-10-05",
+          "uppgift": "",
+          "intressent_id": "0401344912307",
+          "hangar_id": "2342458",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "65",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-04",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0401344912307",
+          "hangar_id": "2342458",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-27",
+          "tom": "1998-10-04",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0401344912307",
+          "hangar_id": "2342458",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0401344912307",
+          "hangar_id": "2342458",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-27",
+          "tom": "1998-10-04",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0401344912307",
+          "hangar_id": "2342458",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-12-15",
+          "tom": "1998-10-04",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0401344912307",
+          "hangar_id": "2342458",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0401344912307",
+          "hangar_id": "2342458",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-10-04",
+          "tom": "1991-09-29",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "0401344912307",
+          "hangar_id": "2342458",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "mellanstadielärare",
+          "typ": "titlar",
+          "intressent_id": "0401344912307",
+          "hangar_id": "2342458"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0401344912307",
+          "hangar_id": "2342458"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "37faa4f0-dd66-4308-b115-7103a8b4f93e",
+    "sourceid": "fa87107d-5874-4c2f-99a3-ebc4b6f7e189",
+    "intressent_id": "0393820702706",
+    "hangar_id": "2341958",
+    "fodd_ar": "1937",
+    "kon": "man",
+    "efternamn": "Rignell",
+    "tilltalsnamn": "John",
+    "sorteringsnamn": "Rignell,John",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/fa87107d-5874-4c2f-99a3-ebc4b6f7e189",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fa87107d-5874-4c2f-99a3-ebc4b6f7e189_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fa87107d-5874-4c2f-99a3-ebc4b6f7e189_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fa87107d-5874-4c2f-99a3-ebc4b6f7e189_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "200",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1990-02-12",
+          "tom": "1990-03-23",
+          "uppgift": "Sonja Rembo",
+          "intressent_id": "0393820702706",
+          "hangar_id": "2341958",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-02-12",
+          "tom": "1990-03-23",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0393820702706",
+          "hangar_id": "2341958",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "politisk sekreterare",
+          "typ": "titlar",
+          "intressent_id": "0393820702706",
+          "hangar_id": "2341958"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0393820702706",
+          "hangar_id": "2341958"
+        }
+      ]
+    }
+  }
+}

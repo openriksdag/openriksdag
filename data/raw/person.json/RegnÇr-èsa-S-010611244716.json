@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "cb70be64-f90b-4772-96bf-f4d193ee5021",
+    "sourceid": "0797cbaa-fcd9-4286-9f92-250daf7debfe",
+    "intressent_id": "010611244716",
+    "hangar_id": "3059468",
+    "fodd_ar": "1964",
+    "kon": "kvinna",
+    "efternamn": "Regnér",
+    "tilltalsnamn": "Åsa",
+    "sorteringsnamn": "Regnér,Åsa",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare statsråd",
+    "person_url_xml": "http://data.riksdagen.se/person/0797cbaa-fcd9-4286-9f92-250daf7debfe",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0797cbaa-fcd9-4286-9f92-250daf7debfe_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0797cbaa-fcd9-4286-9f92-250daf7debfe_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0797cbaa-fcd9-4286-9f92-250daf7debfe_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "S",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "Departement",
+          "from": "2016-05-25",
+          "tom": "2018-03-08",
+          "uppgift": "Socialdepartementet",
+          "intressent_id": "010611244716",
+          "hangar_id": "3059468",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "S",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "11",
+          "status": "",
+          "typ": "Departement",
+          "from": "2014-10-03",
+          "tom": "2016-05-25",
+          "uppgift": "Socialdepartementet",
+          "intressent_id": "010611244716",
+          "hangar_id": "3059468",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "person": {
+    "hangar_guid": "8a808d1f-0f5e-4e5d-a049-d913293ae988",
+    "sourceid": "997ffdd9-964a-48e4-8dd3-202b36a5cd86",
+    "intressent_id": "0867950366726",
+    "hangar_id": "3057143",
+    "fodd_ar": "1986",
+    "kon": "man",
+    "efternamn": "Koliev",
+    "tilltalsnamn": "Faradj",
+    "sorteringsnamn": "Koliev,Faradj",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Stockholms län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/997ffdd9-964a-48e4-8dd3-202b36a5cd86",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/997ffdd9-964a-48e4-8dd3-202b36a5cd86_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/997ffdd9-964a-48e4-8dd3-202b36a5cd86_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/997ffdd9-964a-48e4-8dd3-202b36a5cd86_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "249",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2017-01-09",
+          "tom": "2017-06-30",
+          "uppgift": "Leif Nysmed",
+          "intressent_id": "0867950366726",
+          "hangar_id": "3057143",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-01-09",
+          "tom": "2017-06-30",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0867950366726",
+          "hangar_id": "3057143",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-01-09",
+          "tom": "2017-06-30",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0867950366726",
+          "hangar_id": "3057143",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "true",
+        "typ": "val",
+        "intressent_id": "0867950366726",
+        "hangar_id": "3057143"
+      }
+    }
+  }
+}

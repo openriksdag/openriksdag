@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "002b9f0a-d63f-423c-82b4-0c7466635303",
+    "sourceid": "41587b4a-09fd-4ea8-964c-3de7e1526702",
+    "intressent_id": "0369065037402",
+    "hangar_id": "2341704",
+    "fodd_ar": "1926",
+    "kon": "man",
+    "efternamn": "Allmér",
+    "tilltalsnamn": "Göran",
+    "sorteringsnamn": "Allmér,Göran",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/41587b4a-09fd-4ea8-964c-3de7e1526702",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/41587b4a-09fd-4ea8-964c-3de7e1526702_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/41587b4a-09fd-4ea8-964c-3de7e1526702_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/41587b4a-09fd-4ea8-964c-3de7e1526702_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "81",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0369065037402",
+          "hangar_id": "2341704",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0369065037402",
+          "hangar_id": "2341704",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0369065037402",
+          "hangar_id": "2341704",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0369065037402",
+          "hangar_id": "2341704",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-10-04",
+          "tom": "1991-09-29",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0369065037402",
+          "hangar_id": "2341704",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-10-19",
+          "tom": "1991-09-29",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0369065037402",
+          "hangar_id": "2341704",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "rektor",
+          "typ": "titlar",
+          "intressent_id": "0369065037402",
+          "hangar_id": "2341704"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0369065037402",
+          "hangar_id": "2341704"
+        }
+      ]
+    }
+  }
+}

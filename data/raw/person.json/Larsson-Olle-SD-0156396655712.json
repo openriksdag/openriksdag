@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "6c2f9715-0303-420a-9b73-e8e4874700e5",
+    "sourceid": "6b20c534-31e5-4f4c-b701-c402739f665b",
+    "intressent_id": "0156396655712",
+    "hangar_id": "2824486",
+    "fodd_ar": "1953",
+    "kon": "man",
+    "efternamn": "Larsson",
+    "tilltalsnamn": "Olle",
+    "sorteringsnamn": "Larsson,Olle",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Stockholms län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/6b20c534-31e5-4f4c-b701-c402739f665b",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6b20c534-31e5-4f4c-b701-c402739f665b_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6b20c534-31e5-4f4c-b701-c402739f665b_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6b20c534-31e5-4f4c-b701-c402739f665b_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "331",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2013-03-11",
+          "tom": "2013-09-24",
+          "uppgift": "Julia Kronlid",
+          "intressent_id": "0156396655712",
+          "hangar_id": "2824486",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "NR",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "16",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2013-05-31",
+          "tom": "2013-09-16",
+          "uppgift": "Nordiska rådets svenska delegation",
+          "intressent_id": "0156396655712",
+          "hangar_id": "2824486",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "23",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2013-03-20",
+          "tom": "2013-09-24",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0156396655712",
+          "hangar_id": "2824486",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "olle.larsson[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0156396655712",
+          "hangar_id": "2824486"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "66255",
+          "typ": "telefonnummer",
+          "intressent_id": "0156396655712",
+          "hangar_id": "2824486"
+        }
+      ]
+    }
+  }
+}

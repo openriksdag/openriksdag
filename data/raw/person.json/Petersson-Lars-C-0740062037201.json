@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "efc35412-241a-49cb-a879-d83655b0a784",
+    "sourceid": "731a7896-fc5a-4a23-8b1b-2657ea26f22f",
+    "intressent_id": "0740062037201",
+    "hangar_id": "2342232",
+    "fodd_ar": "1943",
+    "kon": "man",
+    "efternamn": "Petersson",
+    "tilltalsnamn": "Lars",
+    "sorteringsnamn": "Petersson,Lars",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/731a7896-fc5a-4a23-8b1b-2657ea26f22f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/731a7896-fc5a-4a23-8b1b-2657ea26f22f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/731a7896-fc5a-4a23-8b1b-2657ea26f22f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/731a7896-fc5a-4a23-8b1b-2657ea26f22f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "147",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1992-11-16",
+          "tom": "1992-12-18",
+          "uppgift": "Karl Erik Olsson",
+          "intressent_id": "0740062037201",
+          "hangar_id": "2342232",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1992-11-16",
+          "tom": "1992-12-18",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0740062037201",
+          "hangar_id": "2342232",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1992-11-16",
+          "tom": "1992-12-18",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0740062037201",
+          "hangar_id": "2342232",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "informationschef",
+          "typ": "titlar",
+          "intressent_id": "0740062037201",
+          "hangar_id": "2342232"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0740062037201",
+          "hangar_id": "2342232"
+        }
+      ]
+    }
+  }
+}

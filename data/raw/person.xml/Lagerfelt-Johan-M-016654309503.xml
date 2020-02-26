@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">a5896e5e-1f5f-4f86-a650-36d6e1b07e1d</hangar_guid>
+<sourceid datatype="string">e91a3f7c-9214-4dee-8b22-8bfb23ef0efa</sourceid>
+<intressent_id datatype="string">016654309503</intressent_id>
+<hangar_id datatype="int32">2342561</hangar_id>
+<fodd_ar datatype="int16">1949</fodd_ar>
+<kon datatype="string">man</kon>
+<efternamn datatype="string">Lagerfelt</efternamn>
+<tilltalsnamn datatype="string">Johan</tilltalsnamn>
+<sorteringsnamn datatype="string">Lagerfelt,Johan</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">M</parti>
+<valkrets datatype="string">Örebro län</valkrets>
+<status datatype="string">Tidigare riksdagsledamot</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/e91a3f7c-9214-4dee-8b22-8bfb23ef0efa</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/e91a3f7c-9214-4dee-8b22-8bfb23ef0efa_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/e91a3f7c-9214-4dee-8b22-8bfb23ef0efa_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/e91a3f7c-9214-4dee-8b22-8bfb23ef0efa_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Ersättare</roll_kod>
+<ordningsnummer datatype="int32">272</ordningsnummer>
+<status datatype="string">Ersättare</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2002-01-21</from>
+<tom datatype="datetime">2002-02-22</tom>
+<uppgift datatype="string">Ola Karlsson</uppgift>
+<intressent_id datatype="string">016654309503</intressent_id>
+<hangar_id datatype="int32">2342561</hangar_id>
+<sortering datatype="int32">45</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">20</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+<uppgift>
+<kod datatype="string">sv</kod>
+<uppgift datatype="string">leg. läkare</uppgift>
+<typ datatype="string">titlar</typ>
+<intressent_id datatype="string">016654309503</intressent_id>
+<hangar_id datatype="int32">2342561</hangar_id>
+</uppgift>
+<uppgift>
+<kod datatype="string">en</kod>
+<uppgift datatype="string"></uppgift>
+<typ datatype="string">titlar</typ>
+<intressent_id datatype="string">016654309503</intressent_id>
+<hangar_id datatype="int32">2342561</hangar_id>
+</uppgift>
+</personuppgift>
+</person>

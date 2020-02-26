@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "c7a4d472-f4f7-4325-9fdb-9712fe388d88",
+    "sourceid": "66c50e37-05a5-4d22-8b9f-4807ab7e19b6",
+    "intressent_id": "0575313291605",
+    "hangar_id": "2369426",
+    "fodd_ar": "1944",
+    "kon": "man",
+    "efternamn": "Bojerud",
+    "tilltalsnamn": "Stellan",
+    "sorteringsnamn": "Bojerud,Stellan",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Dalarnas län",
+    "status": "Avliden  2015-07-19",
+    "person_url_xml": "http://data.riksdagen.se/person/66c50e37-05a5-4d22-8b9f-4807ab7e19b6",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/66c50e37-05a5-4d22-8b9f-4807ab7e19b6_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/66c50e37-05a5-4d22-8b9f-4807ab7e19b6_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/66c50e37-05a5-4d22-8b9f-4807ab7e19b6_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "165",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2012-09-04",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0575313291605",
+          "hangar_id": "2369426",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "331",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-12",
+          "tom": "2011-04-17",
+          "uppgift": "Julia Kronlid",
+          "intressent_id": "0575313291605",
+          "hangar_id": "2369426",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "24",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-11-09",
+          "tom": "2014-09-29",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0575313291605",
+          "hangar_id": "2369426",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "21",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2013-02-22",
+          "tom": "2014-09-29",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0575313291605",
+          "hangar_id": "2369426",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "16",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-11-26",
+          "tom": "2011-04-17",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0575313291605",
+          "hangar_id": "2369426",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "16",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-03-31",
+          "tom": "2011-04-01",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0575313291605",
+          "hangar_id": "2369426",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Författare",
+          "typ": "titlar",
+          "intressent_id": "0575313291605",
+          "hangar_id": "2369426"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0575313291605",
+          "hangar_id": "2369426"
+        }
+      ]
+    }
+  }
+}

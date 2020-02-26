@@ -1,0 +1,171 @@
+{
+  "person": {
+    "hangar_guid": "9c9af1f1-557d-4793-8585-21983dad830b",
+    "sourceid": "9582a1f0-fdb6-4f0e-a066-bc410e032160",
+    "intressent_id": "0591055036519",
+    "hangar_id": "2342625",
+    "fodd_ar": "1950",
+    "kon": "man",
+    "efternamn": "Rojas",
+    "tilltalsnamn": "Mauricio",
+    "sorteringsnamn": "Rojas,Mauricio",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "Stockholms län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/9582a1f0-fdb6-4f0e-a066-bc410e032160",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9582a1f0-fdb6-4f0e-a066-bc410e032160_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9582a1f0-fdb6-4f0e-a066-bc410e032160_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9582a1f0-fdb6-4f0e-a066-bc410e032160_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "4",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-06",
+          "tom": "2008-11-10",
+          "uppgift": "Lars Leijonborg",
+          "intressent_id": "0591055036519",
+          "hangar_id": "2342625",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "20",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2002-09-30",
+          "tom": "2006-10-02",
+          "uppgift": "",
+          "intressent_id": "0591055036519",
+          "hangar_id": "2342625",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2008-11-10",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0591055036519",
+          "hangar_id": "2342625",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0591055036519",
+          "hangar_id": "2342625",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-01-16",
+          "tom": "2008-10-22",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0591055036519",
+          "hangar_id": "2342625",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-15",
+          "tom": "2006-01-17",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0591055036519",
+          "hangar_id": "2342625",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2004-09-20",
+          "tom": "2006-10-02",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0591055036519",
+          "hangar_id": "2342625",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KUU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-03-27",
+          "tom": "2008-11-10",
+          "uppgift": "Sammansatta konstitutions- och utrikesutskottet",
+          "intressent_id": "0591055036519",
+          "hangar_id": "2342625",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Docent, verkstadsmaskinreparatör",
+          "typ": "titlar",
+          "intressent_id": "0591055036519",
+          "hangar_id": "2342625"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0591055036519",
+          "hangar_id": "2342625"
+        }
+      ]
+    }
+  }
+}

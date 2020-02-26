@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">f5462799-682e-4941-ba9d-37b87828739d</hangar_guid>
+<sourceid datatype="string">92c700a2-28ce-4de3-8706-83c2b2530bf5</sourceid>
+<intressent_id datatype="string">0339624201100</intressent_id>
+<hangar_id datatype="int32">5020196</hangar_id>
+<fodd_ar datatype="int16">1948</fodd_ar>
+<kon datatype="string">man</kon>
+<efternamn datatype="string">Dahlgren</efternamn>
+<tilltalsnamn datatype="string">Hans</tilltalsnamn>
+<sorteringsnamn datatype="string">Dahlgren,Hans</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">S</parti>
+<valkrets datatype="string"></valkrets>
+<status datatype="string">Statsråd</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/92c700a2-28ce-4de3-8706-83c2b2530bf5</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/92c700a2-28ce-4de3-8706-83c2b2530bf5_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/92c700a2-28ce-4de3-8706-83c2b2530bf5_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/92c700a2-28ce-4de3-8706-83c2b2530bf5_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">SB</organ_kod>
+<roll_kod datatype="string">Statsråd</roll_kod>
+<ordningsnummer datatype="int32">16</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Departement</typ>
+<from datatype="datetime">2019-10-01</from>
+<tom datatype="datetime">2022-09-26</tom>
+<uppgift datatype="string">Statsrådsberedningen</uppgift>
+<intressent_id datatype="string">0339624201100</intressent_id>
+<hangar_id datatype="int32">5020196</hangar_id>
+<sortering datatype="int32">100</sortering>
+<organ_sortering datatype="int32">400</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">SB</organ_kod>
+<roll_kod datatype="string">Statsråd</roll_kod>
+<ordningsnummer datatype="int32">17</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Departement</typ>
+<from datatype="datetime">2019-09-10</from>
+<tom datatype="datetime">2019-10-01</tom>
+<uppgift datatype="string">Statsrådsberedningen</uppgift>
+<intressent_id datatype="string">0339624201100</intressent_id>
+<hangar_id datatype="int32">5020196</hangar_id>
+<sortering datatype="int32">100</sortering>
+<organ_sortering datatype="int32">400</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">SB</organ_kod>
+<roll_kod datatype="string">Statsråd</roll_kod>
+<ordningsnummer datatype="int32">19</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Departement</typ>
+<from datatype="datetime">2019-01-21</from>
+<tom datatype="datetime">2019-09-10</tom>
+<uppgift datatype="string">Statsrådsberedningen</uppgift>
+<intressent_id datatype="string">0339624201100</intressent_id>
+<hangar_id datatype="int32">5020196</hangar_id>
+<sortering datatype="int32">100</sortering>
+<organ_sortering datatype="int32">400</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+<uppgift>
+<kod datatype="string">sv</kod>
+<uppgift datatype="string">Civilekonom.</uppgift>
+<typ datatype="string">titlar</typ>
+<intressent_id datatype="string">0339624201100</intressent_id>
+<hangar_id datatype="int32">5020196</hangar_id>
+</uppgift>
+<uppgift>
+<kod datatype="string">en</kod>
+<uppgift datatype="string"></uppgift>
+<typ datatype="string">titlar</typ>
+<intressent_id datatype="string">0339624201100</intressent_id>
+<hangar_id datatype="int32">5020196</hangar_id>
+</uppgift>
+</personuppgift>
+</person>

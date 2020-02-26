@@ -1,0 +1,171 @@
+{
+  "person": {
+    "hangar_guid": "ae97953b-3a4c-49ce-87f8-bec8613f41ab",
+    "sourceid": "83b5647b-ccf4-4398-aefb-6d93152f951b",
+    "intressent_id": "0530425150220",
+    "hangar_id": "3059469",
+    "fodd_ar": "1975",
+    "kon": "kvinna",
+    "efternamn": "Strandhäll",
+    "tilltalsnamn": "Annika",
+    "sorteringsnamn": "Strandhäll,Annika",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Stockholms kommun",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/83b5647b-ccf4-4398-aefb-6d93152f951b",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/83b5647b-ccf4-4398-aefb-6d93152f951b_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/83b5647b-ccf4-4398-aefb-6d93152f951b_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/83b5647b-ccf4-4398-aefb-6d93152f951b_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "S",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "Departement",
+          "from": "2019-09-10",
+          "tom": "2019-10-01",
+          "uppgift": "Socialdepartementet",
+          "intressent_id": "0530425150220",
+          "hangar_id": "3059469",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "S",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "Departement",
+          "from": "2019-01-21",
+          "tom": "2019-09-10",
+          "uppgift": "Socialdepartementet",
+          "intressent_id": "0530425150220",
+          "hangar_id": "3059469",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "S",
+          "roll_kod": "Socialminister",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "Departement",
+          "from": "2017-07-27",
+          "tom": "2019-01-21",
+          "uppgift": "Socialdepartementet",
+          "intressent_id": "0530425150220",
+          "hangar_id": "3059469",
+          "sortering": "50",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "S",
+          "roll_kod": "Socialförsäkringsminister",
+          "ordningsnummer": "17",
+          "status": "",
+          "typ": "Departement",
+          "from": "2016-05-25",
+          "tom": "2017-07-27",
+          "uppgift": "Socialdepartementet",
+          "intressent_id": "0530425150220",
+          "hangar_id": "3059469",
+          "sortering": "",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "S",
+          "roll_kod": "Socialförsäkringsminister",
+          "ordningsnummer": "20",
+          "status": "",
+          "typ": "Departement",
+          "from": "2014-10-03",
+          "tom": "2016-05-25",
+          "uppgift": "Socialdepartementet",
+          "intressent_id": "0530425150220",
+          "hangar_id": "3059469",
+          "sortering": "",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "281",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2019-10-01",
+          "tom": "2022-09-26",
+          "uppgift": "Elsemarie Bjellqvist 2019-09-05 - 2019-10-01",
+          "intressent_id": "0530425150220",
+          "hangar_id": "3059469",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "281",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2019-10-01",
+          "uppgift": "Sultan Kayhan 2018-09-24 - 2019-09-05, Elsemarie Bjellqvist 2019-09-05 - 2019-10-01  Statsråd",
+          "intressent_id": "0530425150220",
+          "hangar_id": "3059469",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-12-16",
+          "tom": "2022-09-26",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0530425150220",
+          "hangar_id": "3059469",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "annika.strandhall[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0530425150220",
+          "hangar_id": "3059469"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0530425150220",
+          "hangar_id": "3059469"
+        }
+      ]
+    }
+  }
+}

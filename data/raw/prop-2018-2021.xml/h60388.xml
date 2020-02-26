@@ -1,0 +1,1714 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5030750</hangar_id>
+    <dok_id datatype="string">H60388</dok_id>
+    <rm datatype="string">2018/19</rm>
+    <beteckning datatype="string">88</beteckning>
+    <typ datatype="string">prop</typ>
+    <subtyp datatype="string">prop</subtyp>
+    <doktyp datatype="string">prop</doktyp>
+    <typrubrik datatype="string">Proposition 2018/19:88</typrubrik>
+    <dokumentnamn datatype="string">Proposition</dokumentnamn>
+    <debattnamn datatype="string">Proposition</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">Finansdepartementet</organ>
+    <mottagare datatype="string">SkU</mottagare>
+    <nummer datatype="int32">88</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2019-04-09 00:00:00</datum>
+    <systemdatum datatype="datetime">2019-06-04 15:47:35</systemdatum>
+    <publicerad datatype="datetime">2019-04-09 00:00:00</publicerad>
+    <titel datatype="string">Vissa inkomstskatteändringar</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">Klar</status>
+    <htmlformat datatype="string">html-ec</htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">prop-RIM</source>
+    <sourceid datatype="string">b5f6e96a-abda-470c-a8dd-8e71bb9daa8e</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H60388/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H60388</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H60388</dokumentstatus_url_xml>
+    <html datatype="text">&lt;div style="margin:3px;"&gt;
+&lt;STYLE type="text/css"&gt;
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:10px 0px 52px 10px ;padding: 0px;border: none;width: 902px;}
+
+#page_1 #p1dimg1 {position:absolute;top:0px;left:462px;z-index:-1;width:56px;height:98px;}
+#page_1 #p1dimg1 #p1img1 {width:56px;height:98px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 902px;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 902px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:14px 0px 21px 10px ;padding: 0px;border: none;width: 902px;}
+
+#page_4 #p4dimg1 {position:absolute;top:416px;left:105px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_4 #p4dimg1 #p4img1 {width:123px;height:1px;}
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:15px 0px 51px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+#page_6 #id_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_6 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 766px;}
+#page_7 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_7 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+
+#page_7 #p7dimg1 {position:absolute;top:163px;left:0px;z-index:-1;width:70px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_7 #p7dimg1 #p7img1 {width:70px;height:1px;}
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:14px 0px 52px 10px ;padding: 0px;border: none;width: 586px;}
+
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 766px;}
+#page_9 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_9 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:14px 0px 52px 10px ;padding: 0px;border: none;width: 631px;}
+
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+#page_13 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_13 #id_1 #id_1_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 405px;overflow: hidden;}
+#page_13 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_13 #id_2 {border:none;z:b;margin:4px 0px 0px 10px ;padding: 0px;border:none;width: 766px;overflow: hidden;}
+
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+#page_14 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 766px;overflow: hidden;}
+#page_14 #id_1 #id_1_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_14 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_14 #id_2 {border:none;z:b;margin:11px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 586px;}
+#page_15 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_15 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+
+#page_15 #p15dimg1 {position:absolute;top:47px;left:0px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_15 #p15dimg1 #p15img1 {width:123px;height:1px;}
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+#page_16 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_16 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+#page_16 #p16dimg1 {position:absolute;top:163px;left:105px;z-index:-1;width:70px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_16 #p16dimg1 #p16img1 {width:70px;height:1px;}
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+#page_17 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_17 #id_1 #id_1_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_17 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_17 #id_2 {border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 766px;overflow: hidden;}
+
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+#page_18 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_18 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+
+
+
+
+#page_19 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_19 #p19dimg1 {position:absolute;top:237px;left:147px;z-index:-1;width:112px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_19 #p19dimg1 #p19img1 {width:112px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  18px 'Verdana' !important;l-h: 32px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft2{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft3{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft4{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft5{font:  12px 'Verdana' !important;l-h: 17px;}
+.ft6{font: italic  12px 'Verdana' !important;l-h: 17px;}
+.ft7{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft8{font:  12px 'Verdana' !important;l-h: 15px;position: relative; bottom: 7px;}
+.ft9{font:  12px 'Verdana' !important;margin-left: 32px;l-h: 15px;}
+.ft10{font:  12px 'Verdana' !important;margin-left: 20px;l-h: 15px;}
+.ft11{font:  12px 'Verdana' !important;margin-left: 33px;l-h: 17px;}
+.ft12{font:  12px 'Verdana' !important;margin-left: 9px;l-h: 15px;}
+.ft13{font:  12px 'Verdana' !important;margin-left: 9px;l-h: 18px;}
+.ft14{font:  12px 'Verdana' !important;l-h: 18px;}
+.ft15{font:  14px 'Verdana' !important;l-h: 22px;position: relative; bottom: -6px;}
+.ft16{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft17{font:  14px 'Verdana' !important;margin-left: 39px;l-h: 19px;}
+.ft18{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft19{font:  10px 'Verdana' !important;l-h: 12px;position: relative; bottom: 5px;}
+.ft20{font: italic  12px 'Verdana' !important;l-h: 18px;}
+.ft21{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 15px;}
+.ft22{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 17px;}
+.ft23{font:  10px 'Verdana' !important;l-h: 6px;}
+.ft24{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 14px;}
+.ft25{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft26{font: italic  12px 'Verdana' !important;l-h: 14px;}
+.ft27{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft28{font:  12px 'Verdana' !important;margin-left: 6px;l-h: 15px;}
+.ft29{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 15px;}
+.ft30{font:  10px 'Verdana' !important;l-h: 8px;position: relative; bottom: 4px;}
+.ft31{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft32{font:  10px 'Verdana' !important;l-h: 8px;}
+.ft33{font:  12px 'Verdana' !important;margin-left: 2px;l-h: 14px;}
+.ft34{font:  14px 'Verdana' !important;margin-left: 38px;l-h: 22px;}
+.ft35{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft36{font:  14px 'Verdana' !important;l-h: 21px;}
+.ft37{font:  10px 'Verdana' !important;l-h: 13px;}
+.ft38{font:  10px 'Verdana' !important;l-h: 12px;}
+.ft39{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft40{font:  10px 'Verdana' !important;l-h: 3px;}
+.ft41{font:  10px 'Verdana' !important;l-h: 2px;}
+.ft42{font:  10px 'Verdana' !important;l-h: 8px;}
+.ft43{font:  10px 'Verdana' !important;l-h: 14px;}
+.ft44{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft45{font:  10px 'Verdana' !important;l-h: 7px;}
+.ft46{font:  14px 'Verdana' !important;margin-left: 50px;l-h: 22px;}
+.ft47{font:  12px 'Verdana' !important;margin-left: 10px;l-h: 17px;}
+.ft48{font: italic  12px 'Verdana' !important;l-h: 16px;}
+.ft49{font:  14px 'Verdana' !important;margin-left: 51px;l-h: 22px;}
+.ft50{font:  14px 'Verdana' !important;l-h: 26px;}
+.ft51{font:  14px 'Verdana' !important;l-h: 23px;}
+.ft52{font:  10px 'Verdana' !important;l-h: 13px;position: relative; bottom: 5px;}
+.ft53{font:  10px 'Verdana' !important;l-h: 12px;}
+.ft54{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 17px;}
+.ft55{font: bold  12px 'Verdana' !important;l-h: 18px;}
+.ft56{font:  12px 'Verdana' !important;text-decoration: underline;l-h: 15px;}
+
+.p0{text-align: left;padding-right: 651px;margin-top: 22px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p4{text-align: left;margin-top: 18px;margin-bottom: 0px !important;}
+.p5{text-align: left;margin-top: 15px;margin-bottom: 0px !important;}
+.p6{text-align: left;margin-top: 32px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 0px;padding-right: 609px;margin-top: 20px;margin-bottom: 0px !important;}
+.p8{text-align: left;margin-top: 47px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-right: 168px;margin-top: 26px;margin-bottom: 0px !important;}
+.p10{text-align: left;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p11{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p12{text-align: left;padding-left: 460px;margin-top: 245px;margin-bottom: 0px !important;}
+.p13{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p14{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p15{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p17{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p18{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p19{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p20{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p21{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p22{text-align: left;padding-left: 0px;margin-top: 4px;margin-bottom: 0px !important;}
+.p23{text-align: left;padding-left: 180px;padding-right: 189px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.68px;}
+.p24{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p25{text-align: left;padding-left: 0px;margin-top: 343px;margin-bottom: 0px !important;}
+.p26{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p27{text-align: left;margin-top: 10px;margin-bottom: 0px !important;}
+.p28{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 0.19px;}
+.p29{text-align: left;padding-left: 460px;margin-top: 662px;margin-bottom: 0px !important;}
+.p30{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p31{text-align: left;padding-left: 0px;margin-top: 32px;margin-bottom: 0px !important;}
+.p32{text-align: left;padding-left: 0px;padding-right: 378px;padding-top: 2px;margin-top: 10px;margin-bottom: 0px !important;text-indent: 0.10px;}
+.p33{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p34{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 8px;margin-bottom: 0px !important;text-indent: 11px;}
+.p35{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p36{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 13px;margin-bottom: 0px !important;text-indent: 11px;}
+.p37{text-align: left;padding-left: 0px;margin-top: 28px;margin-bottom: 0px !important;}
+.p38{text-align: left;padding-left: 0px;margin-top: 328px;margin-bottom: 0px !important;}
+.p39{text-align: left;padding-left: 0px;margin-top: 196px;margin-bottom: 0px !important;}
+.p40{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p41{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p42{text-align: left;padding-right: 336px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p43{text-align: left;margin-top: 4px;margin-bottom: 0px !important;}
+.p44{text-align: left;margin-top: 753px;margin-bottom: 0px !important;}
+.p45{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p46{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p47{text-align: left;margin-top: 648px;margin-bottom: 0px !important;}
+.p48{text-align: left;padding-left: 0px;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p49{text-align: left;padding-right: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p50{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p51{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p52{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p53{text-align: left;padding-right: 0px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p54{text-align: right;padding-right: 126px;margin-top: 752px;margin-bottom: 0px !important;}
+.p55{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p56{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p57{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p58{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p59{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p60{text-align: left;padding-right: 0px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p61{text-align: left;margin-top: 11px;margin-bottom: 0px !important;}
+.p62{text-align: left;padding-right: 0px;margin-top: 6px;margin-bottom: 0px !important;}
+.p63{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p64{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p65{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p66{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p67{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p68{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p69{text-align: left;padding-right: 336px;margin-top: 0px;margin-bottom: 0px !important;}
+.p70{text-align: left;padding-right: 336px;margin-top: 5px;margin-bottom: 0px !important;}
+.p71{text-align: left;margin-top: 21px;margin-bottom: 0px !important;}
+.p72{text-align: left;padding-right: 336px;margin-top: 18px;margin-bottom: 0px !important;}
+.p73{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 28px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p74{text-align: left;padding-right: 336px;margin-top: 3px;margin-bottom: 0px !important;}
+.p75{text-align: left;padding-right: 336px;margin-top: 0px;margin-bottom: 0px !important;}
+.p76{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 28px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p77{text-align: left;margin-top: 5px;margin-bottom: 0px !important;}
+.p78{text-align: left;padding-right: 336px;margin-top: 2px;margin-bottom: 0px !important;}
+.p79{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p80{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 19px;margin-bottom: 0px !important;text-indent: 11px;}
+.p81{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p82{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 2px;margin-bottom: 0px !important;}
+.p83{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 11px;margin-bottom: 0px !important;}
+.p84{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p85{text-align: left;padding-left: 0px;margin-top: 18px;margin-bottom: 0px !important;}
+.p86{text-align: left;padding-left: 0px;margin-top: 34px;margin-bottom: 0px !important;}
+.p87{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 12px;margin-bottom: 0px !important;}
+.p88{text-align: left;margin-top: 60px;margin-bottom: 0px !important;}
+.p89{text-align: left;padding-left: 120px;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;}
+.p90{text-align: left;padding-left: 120px;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p91{text-align: right;margin-top: 563px;margin-bottom: 0px !important;}
+.p92{text-align: left;padding-right: 273px;margin-top: 33px;margin-bottom: 0px !important;}
+.p93{text-align: left;padding-left: 0px;padding-right: 147px;padding-top: 2px;margin-top: 3px;margin-bottom: 0px !important;}
+.p94{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p95{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p96{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p97{text-align: center;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p98{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p99{text-align: right;padding-right: 3px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p100{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p101{text-align: center;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p102{text-align: left;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p103{text-align: left;padding-left: 180px;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p104{text-align: left;margin-top: 28px;margin-bottom: 0px !important;}
+.p105{text-align: left;padding-right: 6px;margin-top: 0px;margin-bottom: 0px !important;}
+.p106{text-align: right;margin-top: 734px;margin-bottom: 0px !important;}
+.p107{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;}
+.p108{text-align: left;margin-top: 734px;margin-bottom: 0px !important;}
+.p109{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p110{text-align: left;padding-right: 147px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p111{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p112{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p113{text-align: left;padding-right: 147px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 12px;}
+.p114{text-align: left;padding-left: 120px;padding-right: 105px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p115{text-align: right;margin-top: 572px;margin-bottom: 0px !important;}
+.p116{text-align: left;padding-right: 273px;margin-top: 15px;margin-bottom: 0px !important;}
+.p117{text-align: left;padding-right: 147px;margin-top: 16px;margin-bottom: 0px !important;}
+.p118{text-align: left;margin-top: 8px;margin-bottom: 0px !important;}
+.p119{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p120{text-align: left;padding-right: 147px;margin-top: 12px;margin-bottom: 0px !important;}
+.p121{text-align: left;margin-top: 12px;margin-bottom: 0px !important;}
+.p122{text-align: left;padding-left: 520px;margin-top: 0px;margin-bottom: 0px !important;}
+.p123{text-align: left;padding-left: 120px;margin-top: 32px;margin-bottom: 0px !important;}
+.p124{text-align: left;padding-left: 120px;margin-top: 14px;margin-bottom: 0px !important;}
+.p125{text-align: left;padding-left: 120px;margin-top: 0px;margin-bottom: 0px !important;}
+.p126{text-align: left;padding-left: 120px;margin-top: 1px;margin-bottom: 0px !important;}
+.p127{text-align: left;padding-left: 120px;margin-top: 2px;margin-bottom: 0px !important;}
+.p128{text-align: left;padding-left: 120px;margin-top: 16px;margin-bottom: 0px !important;}
+.p129{text-align: left;padding-left: 120px;margin-top: 76px;margin-bottom: 0px !important;}
+.p130{text-align: right;padding-right: 126px;margin-top: 470px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 333px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 193px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 333px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 193px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 6px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 397px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 33px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 25px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 65px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 332px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 366px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 442px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 21px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 404px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 37px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 376px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 7px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 396px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 14px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 318px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 16px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 380px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 73px;vertical-align: bottom;}
+.td23{padding: 0px;margin: 0px;width: 78px;vertical-align: bottom;}
+.td24{padding: 0px;margin: 0px;width: 391px;vertical-align: bottom;}
+.td25{padding: 0px;margin: 0px;width: 36px;vertical-align: bottom;}
+.td26{padding: 0px;margin: 0px;width: 389px;vertical-align: bottom;}
+.td27{padding: 0px;margin: 0px;width: 97px;vertical-align: bottom;}
+.td28{padding: 0px;margin: 0px;width: 182px;vertical-align: bottom;}
+.td29{padding: 0px;margin: 0px;width: 64px;vertical-align: bottom;}
+.td30{padding: 0px;margin: 0px;width: 215px;vertical-align: bottom;}
+.td31{padding: 0px;margin: 0px;width: 307px;vertical-align: bottom;}
+.td32{padding: 0px;margin: 0px;width: 323px;vertical-align: bottom;}
+.td33{padding: 0px;margin: 0px;width: 206px;vertical-align: bottom;}
+.td34{padding: 0px;margin: 0px;width: 198px;vertical-align: bottom;}
+.td35{padding: 0px;margin: 0px;width: 119px;vertical-align: bottom;}
+.td36{padding: 0px;margin: 0px;width: 10px;vertical-align: bottom;}
+.td37{padding: 0px;margin: 0px;width: 403px;vertical-align: bottom;}
+.td38{padding: 0px;margin: 0px;width: 413px;vertical-align: bottom;}
+.td39{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 413px;vertical-align: bottom;}
+.td40{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 118px;vertical-align: bottom;}
+.td41{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 412px;vertical-align: bottom;}
+.td42{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 402px;vertical-align: bottom;}
+.td43{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 10px;vertical-align: bottom;}
+.td44{border-right: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 402px;vertical-align: bottom;}
+.td45{padding: 0px;margin: 0px;width: 59px;vertical-align: bottom;}
+.td46{padding: 0px;margin: 0px;width: 244px;vertical-align: bottom;}
+.td47{padding: 0px;margin: 0px;width: 109px;vertical-align: bottom;}
+.td48{padding: 0px;margin: 0px;width: 353px;vertical-align: bottom;}
+.td49{padding: 0px;margin: 0px;width: 304px;vertical-align: bottom;}
+.td50{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 108px;vertical-align: bottom;}
+.td51{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 304px;vertical-align: bottom;}
+.td52{border-right: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 108px;vertical-align: bottom;}
+.td53{padding: 0px;margin: 0px;width: 69px;vertical-align: bottom;}
+.td54{padding: 0px;margin: 0px;width: 469px;vertical-align: bottom;}
+.td55{padding: 0px;margin: 0px;width: 464px;vertical-align: bottom;}
+.td56{padding: 0px;margin: 0px;width: 66px;vertical-align: bottom;}
+.td57{padding: 0px;margin: 0px;width: 111px;vertical-align: bottom;}
+.td58{padding: 0px;margin: 0px;width: 12px;vertical-align: bottom;}
+.td59{padding: 0px;margin: 0px;width: 29px;vertical-align: bottom;}
+.td60{padding: 0px;margin: 0px;width: 19px;vertical-align: bottom;}
+.td61{padding: 0px;margin: 0px;width: 42px;vertical-align: bottom;}
+.td62{padding: 0px;margin: 0px;width: 67px;vertical-align: bottom;}
+.td63{padding: 0px;margin: 0px;width: 44px;vertical-align: bottom;}
+.td64{padding: 0px;margin: 0px;width: 91px;vertical-align: bottom;}
+.td65{padding: 0px;margin: 0px;width: 74px;vertical-align: bottom;}
+.td66{padding: 0px;margin: 0px;width: 61px;vertical-align: bottom;}
+.td67{padding: 0px;margin: 0px;width: 13px;vertical-align: bottom;}
+.td68{padding: 0px;margin: 0px;width: 116px;vertical-align: bottom;}
+.td69{padding: 0px;margin: 0px;width: 123px;vertical-align: bottom;}
+
+.tr0{heightzzz: 31px;}
+.tr1{heightzzz: 23px;}
+.tr2{heightzzz: 20px;}
+.tr3{heightzzz: 15px;}
+.tr4{heightzzz: 18px;}
+.tr5{heightzzz: 21px;}
+.tr6{heightzzz: 22px;}
+.tr7{heightzzz: 28px;}
+.tr8{heightzzz: 47px;}
+.tr9{heightzzz: 27px;}
+.tr10{heightzzz: 24px;}
+.tr11{heightzzz: 30px;}
+.tr12{heightzzz: 14px;}
+.tr13{heightzzz: 34px;}
+.tr14{heightzzz: 16px;}
+.tr15{heightzzz: 45px;}
+.tr16{heightzzz: 13px;}
+.tr17{heightzzz: 12px;}
+.tr18{heightzzz: 3px;}
+.tr19{heightzzz: 2px;}
+.tr20{heightzzz: 26px;}
+.tr21{heightzzz: 8px;}
+.tr22{heightzzz: 17px;}
+.tr23{heightzzz: 7px;}
+.tr24{heightzzz: 25px;}
+.tr25{heightzzz: 29px;}
+
+.t0{width: 552px;margin-leftZ: 1px;margin-top: 5px;f:20px 'Verdana' !important;}
+.t1{width: 485px;margin-leftZ: 114px;margin-top: 16px;f:13px 'Verdana' !important;}
+.t2{width: 485px;margin-leftZ: 114px;f:13px 'Verdana' !important;}
+.t3{width: 402px;margin-leftZ: 140px;margin-top: 3px;f:13px 'Verdana' !important;}
+.t4{width: 431px;margin-leftZ: 114px;margin-top: 3px;f:13px 'Verdana' !important;}
+.t5{width: 348px;margin-leftZ: 189px;f:13px 'Verdana' !important;}
+.t6{width: 492px;margin-leftZ: 114px;f:13px 'Verdana' !important;}
+.t7{width: 548px;f:20px 'Verdana' !important;}
+.t8{width: 258px;f:20px 'Verdana' !important;}
+.t9{width: 547px;f:italic 13px 'Verdana' !important;}
+.t10{width: 555px;margin-top: 461px;f:7px 'Verdana' !important;}
+.t11{width: 433px;f:italic 13px 'Verdana' !important;}
+.t12{width: 558px;f:13px 'Verdana' !important;}
+.t13{width: 558px;margin-leftZ: 6px;f:13px 'Verdana' !important;}
+.t14{width: 564px;f:13px 'Verdana' !important;}
+.t15{width: 555px;margin-top: 6px;f:italic 13px 'Verdana' !important;}
+.t16{width: 433px;margin-top: 7px;f:italic 13px 'Verdana' !important;}
+.t17{width: 433px;f:13px 'Verdana' !important;}
+.t18{width: 266px;f:7px 'Verdana' !important;}
+
+&lt;/STYLE&gt;
+
+
+
+&lt;DIV id="page_1"&gt;
+&lt;DIV id="p1dimg1"&gt;
+&lt;INGENBILD zsrc="H603881x1.jpg/" id="p1img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV class="dclr"&gt;&lt;/DIV&gt;
+&lt;P class="p0 ft0"&gt;Regeringens proposition 2018/19:88&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t0"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr0 td0"&gt;&lt;SPAN class="p1 ft1"&gt;Vissa inkomstskatteändringar&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td1"&gt;&lt;SPAN class="p2 ft1"&gt;Prop.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td2"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td3"&gt;&lt;SPAN class="p2 ft1"&gt;2018/19:88&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p4 ft3"&gt;Regeringen överlämnar denna proposition till riksdagen.&lt;/P&gt;
+&lt;P class="p5 ft3"&gt;Stockholm den 4 april 2019&lt;/P&gt;
+&lt;P class="p6 ft4"&gt;Stefan Löfven&lt;/P&gt;
+&lt;P class="p7 ft6"&gt;Magdalena Andersson &lt;SPAN class="ft5"&gt;(Finansdepartementet)&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p8 ft1"&gt;Propositionens huvudsakliga innehåll&lt;/P&gt;
+&lt;P class="p9 ft7"&gt;I propositionen föreslås en ändring i bestämmelserna om omräkning av representationsavdraget för företag som har sin redovisning i euro med anledning av att reglerna för representationsavdrag i inkomstskattelagen har ändrats.&lt;/P&gt;
+&lt;P class="p10 ft3"&gt;Ändringen föreslås träda i kraft den 1 juli 2019 och tillämpas första gången för beskattningsår som börjar efter den 30 juni 2019.&lt;/P&gt;
+&lt;P class="p10 ft3"&gt;Propositionen innehåller även ett förslag som innebär att vid beräkning av den justerade anskaffningsutgiften för delägare i handelsbolag ska nivån på skattesatsen för expansionsfond överensstämma med den faktiskt gällande skattesatsen.&lt;/P&gt;
+&lt;P class="p11 ft3"&gt;Ändringen föreslås träda i kraft den 1 juli 2019.&lt;/P&gt;
+&lt;P class="p12 ft3"&gt;1&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_2"&gt;
+
+
+&lt;P class="p13 ft1"&gt;&lt;SPAN class="ft8"&gt;Prop. 2018/19:88 &lt;/SPAN&gt;Innehållsförteckning&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t1"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td4"&gt;&lt;SPAN class="p14 ft3"&gt;1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr1 td5"&gt;&lt;SPAN class="p15 ft3"&gt;Förslag till riksdagsbeslut .................................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td6"&gt;&lt;SPAN class="p16 ft3"&gt;3&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td7"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td4"&gt;&lt;SPAN class="p14 ft3"&gt;2&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td8"&gt;&lt;SPAN class="p15 ft3"&gt;Lagtext&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td9"&gt;&lt;SPAN class="p14 ft3"&gt;..............................................................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td6"&gt;&lt;SPAN class="p16 ft3"&gt;4&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td7"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td4"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td8"&gt;&lt;SPAN class="p15 ft3"&gt;2.1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td10"&gt;&lt;SPAN class="p17 ft3"&gt;Förslag till lag om ändring i inkomstskattelagen (1999:1229)&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td7"&gt;&lt;SPAN class="p14 ft3"&gt;4&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p18 ft3"&gt;&lt;SPAN class="ft3"&gt;2.2&lt;/SPAN&gt;&lt;SPAN class="ft9"&gt;Förslag till lag om ändring i lagen (2000:46) om omräkningsförfarande vid&lt;/SPAN&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t2"&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td11"&gt;&lt;SPAN class="p19 ft3"&gt;beskattningen för företag som har sin redovisning i euro, m.m.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td12"&gt;&lt;SPAN class="p14 ft3"&gt;7&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p3 ft3"&gt;3 Ärendet och dess beredning ..............................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td14"&gt;&lt;SPAN class="p20 ft3"&gt;8&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td12"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p21 ft3"&gt;&lt;SPAN class="ft3"&gt;4&lt;/SPAN&gt;&lt;SPAN class="ft10"&gt;Ändring av bestämmelserna om omräkning av representationsavdraget för företag som har sin&lt;/SPAN&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t3"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p3 ft3"&gt;redovisning i euro .............................................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p14 ft3"&gt;8&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p22 ft3"&gt;&lt;SPAN class="ft3"&gt;5&lt;/SPAN&gt;&lt;SPAN class="ft10"&gt;Beräkningen av justerad anskaffningsutgift för andel i handelsbolag ändras 10&lt;/SPAN&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t4"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td17"&gt;&lt;SPAN class="p3 ft3"&gt;6 Konsekvensanalys...........................................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td18"&gt;&lt;SPAN class="p14 ft3"&gt;11&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p18 ft3"&gt;&lt;SPAN class="ft3"&gt;6.1&lt;/SPAN&gt;&lt;SPAN class="ft9"&gt;Ändring av bestämmelserna om omräkning av representationsavdraget för företag&lt;/SPAN&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t5"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td19"&gt;&lt;SPAN class="p3 ft3"&gt;som har sin redovisning i euro .........................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td18"&gt;&lt;SPAN class="p14 ft3"&gt;11&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p23 ft5"&gt;&lt;SPAN class="ft3"&gt;6.2&lt;/SPAN&gt;&lt;SPAN class="ft11"&gt;Beräkningen av justerad anskaffningsutgift för andel i handelsbolag 11&lt;/SPAN&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t6"&gt;
+&lt;TR height=0&gt;
+	&lt;TD width=16px&gt;&lt;/TD&gt;
+	&lt;TD width=59px&gt;&lt;/TD&gt;
+	&lt;TD width=303px&gt;&lt;/TD&gt;
+	&lt;TD width=70px&gt;&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td20"&gt;&lt;SPAN class="p3 ft3"&gt;7&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr6 td21"&gt;&lt;SPAN class="p14 ft3"&gt;Författningskommentar...................................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td22"&gt;&lt;SPAN class="p24 ft3"&gt;12&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td23"&gt;&lt;SPAN class="p3 ft3"&gt;Bilaga 1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td24"&gt;&lt;SPAN class="p14 ft3"&gt;Sammanfattning av promemorian Vissa inkomstskatteändringar 13&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr6 td23"&gt;&lt;SPAN class="p3 ft3"&gt;Bilaga 2&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td19"&gt;&lt;SPAN class="p14 ft3"&gt;Promemorians lagförslag..................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td22"&gt;&lt;SPAN class="p24 ft3"&gt;14&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr6 td23"&gt;&lt;SPAN class="p3 ft3"&gt;Bilaga 3&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td19"&gt;&lt;SPAN class="p14 ft3"&gt;Förteckning över remissinstanserna .................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td22"&gt;&lt;SPAN class="p24 ft3"&gt;17&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr6 td23"&gt;&lt;SPAN class="p3 ft3"&gt;Bilaga 4&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td19"&gt;&lt;SPAN class="p14 ft3"&gt;Lagrådets yttrande ............................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td22"&gt;&lt;SPAN class="p24 ft3"&gt;18&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr6 td17"&gt;&lt;SPAN class="p3 ft3"&gt;Utdrag ur protokoll vid regeringssammanträde den 4 april 2019 ...........&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td22"&gt;&lt;SPAN class="p24 ft3"&gt;19&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p25 ft3"&gt;2&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_3"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t7"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td25"&gt;&lt;SPAN class="p16 ft1"&gt;1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td26"&gt;&lt;SPAN class="p26 ft1"&gt;Förslag till riksdagsbeslut&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td27"&gt;&lt;SPAN class="p3 ft3"&gt;Prop. 2018/19:88&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p27 ft3"&gt;Regeringens förslag:&lt;/P&gt;
+&lt;P class="p13 ft3"&gt;&lt;SPAN class="ft3"&gt;1.&lt;/SPAN&gt;&lt;SPAN class="ft12"&gt;Riksdagen antar regeringens förslag till lag om ändring i inkomstskattelagen (1999:1229).&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p28 ft14"&gt;&lt;SPAN class="ft3"&gt;2.&lt;/SPAN&gt;&lt;SPAN class="ft13"&gt;Riksdagen antar regeringens förslag till lag om ändring i lagen (2000:46) om omräkningsförfarande vid beskattningen för företag som har sin redovisning i euro, m.m.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p29 ft3"&gt;3&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_4"&gt;
+&lt;DIV id="p4dimg1"&gt;
+&lt;INGENBILD zsrc="H603884x1.jpg/" id="p4img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t8"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td28"&gt;&lt;SPAN class="p3 ft3"&gt;Prop. 2018/19:88 &lt;SPAN class="ft15"&gt;2&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td29"&gt;&lt;SPAN class="p3 ft1"&gt;Lagtext&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p30 ft3"&gt;Regeringen har följande förslag till lagtext.&lt;/P&gt;
+&lt;P class="p31 ft18"&gt;&lt;SPAN class="ft16"&gt;2.1&lt;/SPAN&gt;&lt;SPAN class="ft17"&gt;Förslag till lag om ändring i inkomstskattelagen (1999:1229)&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p32 ft3"&gt;Härigenom föreskrivs i fråga om inkomstskattelagen (1999:1229)&lt;SPAN class="ft19"&gt;1 &lt;/SPAN&gt;&lt;SPAN class="ft4"&gt;dels &lt;/SPAN&gt;att bilaga 24.1 och 24.2 ska ha följande lydelse,&lt;/P&gt;
+&lt;P class="p33 ft14"&gt;&lt;SPAN class="ft20"&gt;dels &lt;/SPAN&gt;att punkt 2 och 7 i ikraftträdande- och övergångsbestämmelserna till lagen (2018:1206) om ändring i den lagen ska ha följande lydelse.&lt;/P&gt;
+&lt;P class="p34 ft3"&gt;&lt;SPAN class="ft3"&gt;2.&lt;/SPAN&gt;&lt;SPAN class="ft21"&gt;Bestämmelserna i 9 kap. 5 §, 14 kap. 16 a §, 17 kap. 33 §, 18 kap. 12 §, 19 kap. 15 §, 20 kap. 13 §, 24 kap. &lt;/SPAN&gt;&lt;NOBR&gt;1–4,&lt;/NOBR&gt; 10, &lt;NOBR&gt;15–29,&lt;/NOBR&gt; &lt;NOBR&gt;31–37&lt;/NOBR&gt; och &lt;NOBR&gt;39–41&lt;/NOBR&gt; §§, 25 kap. 2 och 12 §§, 25 a kap. 23 och 23 a §§, 30 kap. 6 a §, 37 kap. 26 a och 28 §§, 38 kap. 17 §, 38 a kap. 17 och 23 §§, 39 kap. 8 a, 14 och 23 §§, 40 kap. 18 §, 48 kap. 17 och 27 §§, 56 kap. 8 § och 65 kap. 10 § i den nya lydelsen och de nya bestämmelserna i 24 a kap. tillämpas första gången för beskattningsår, eller i fråga om svenska handelsbolag räkenskapsår, som börjar efter den 31 december 2018.&lt;/P&gt;
+&lt;P class="p35 ft7"&gt;För beskattningsår som omfattar längre tid än tolv månader och som börjar före den 1 januari 2019 och avslutas efter den 31 december 2018 får ett negativt räntenetto enligt 24 kap. &lt;NOBR&gt;21–29&lt;/NOBR&gt; §§ som belöper sig på perioden från och med den 1 januari 2019 till utgången av det beskattningsåret, eller i fråga om svenska handelsbolag räkenskapsåret, inte dras av.&lt;/P&gt;
+&lt;P class="p36 ft5"&gt;&lt;SPAN class="ft3"&gt;7.&lt;/SPAN&gt;&lt;SPAN class="ft22"&gt;Bestämmelserna i 34 kap. 6, 18 och 20 §§&lt;/SPAN&gt;&lt;SPAN class="ft6"&gt;, 50 kap. 5 § &lt;/SPAN&gt;och 65 kap. 8 § i den nya lydelsen tillämpas första gången för beskattningsår som börjar efter den 31 december 2020.&lt;/P&gt;
+&lt;P class="p37 ft3"&gt;Denna lag träder i kraft den 1 juli 2019.&lt;/P&gt;
+&lt;P class="p38 ft3"&gt;4&lt;/P&gt;
+&lt;P class="p39 ft25"&gt;&lt;SPAN class="ft23"&gt;1&lt;/SPAN&gt;&lt;SPAN class="ft24"&gt;Lagen omtryckt 2008:803.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_5"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t9"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td30"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td31"&gt;&lt;SPAN class="p40 ft3"&gt;&lt;SPAN class="ft4"&gt;Bilaga 24.1&lt;/SPAN&gt;&lt;SPAN class="ft19"&gt;2 &lt;/SPAN&gt;Prop. 2018/19:88&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td30"&gt;&lt;SPAN class="p3 ft4"&gt;Nuvarande lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td31"&gt;&lt;SPAN class="p3 ft4"&gt;Föreslagen lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td30"&gt;&lt;SPAN class="p41 ft3"&gt;Associationsformer som avses i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td31"&gt;&lt;SPAN class="p41 ft3"&gt;Associationsformer som avses i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td30"&gt;&lt;SPAN class="p3 ft27"&gt;24 kap. &lt;SPAN class="ft26"&gt;16 &lt;/SPAN&gt;§ andra stycket 1:&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td31"&gt;&lt;SPAN class="p3 ft27"&gt;24 kap. &lt;SPAN class="ft26"&gt;34 &lt;/SPAN&gt;§ andra stycket 1:&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p42 ft3"&gt;&lt;SPAN class="ft3"&gt;–&lt;/SPAN&gt;&lt;SPAN class="ft28"&gt;bolag som enligt belgisk rättsordning kallas ”société anonyme”/ ”naamloze vennootschap”, ”société en commandite par actions”/ ”commanditaire vennootschap op aandelen”, ”société privée à responsabilité limitée”/ ”besloten vennootschap met beperkte aansprakelijkheid”, ”société coopérative à responsabilité limitée”/”coöperatieve vennootschap met beperkte aansprakelijkheid”, ”société coopérative à responsabilité illimitée”/ ”coöperatieve vennootschap met onbeperkte aansprakelijkheid”, ”société en nom collectif”/ ”vennootschap onder firma” eller ”société en commandite simple”/ ”gewone commanditaire vennootschap” samt offentliga företag som antagit någon av de ovan nämnda associationsformerna och andra bolag som bildats i enlighet med belgisk lagstiftning och som omfattas av belgisk bolagsskatt,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p43 ft3"&gt;&lt;SPAN class="ft3"&gt;–&lt;/SPAN&gt;&lt;SPAN class="ft29"&gt;– – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – –&lt;/SPAN&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t10"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td32"&gt;&lt;SPAN class="p3 ft25"&gt;&lt;SPAN class="ft30"&gt;2 &lt;/SPAN&gt;Senaste lydelse 2015:886.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td33"&gt;&lt;SPAN class="p14 ft3"&gt;5&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_6"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p13 ft3"&gt;Prop. 2018/19:88&lt;/P&gt;
+&lt;P class="p44 ft3"&gt;6&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t11"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td30"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td34"&gt;&lt;SPAN class="p14 ft4"&gt;Bilaga 24.2&lt;SPAN class="ft19"&gt;3&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td30"&gt;&lt;SPAN class="p3 ft4"&gt;Nuvarande lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td34"&gt;&lt;SPAN class="p3 ft4"&gt;Föreslagen lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td30"&gt;&lt;SPAN class="p45 ft3"&gt;Skatter som avses i 24 kap. &lt;SPAN class="ft4"&gt;16 &lt;/SPAN&gt;§&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td34"&gt;&lt;SPAN class="p14 ft3"&gt;Skatter som avses i 24 kap. &lt;SPAN class="ft4"&gt;34 &lt;/SPAN&gt;§&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td30"&gt;&lt;SPAN class="p3 ft27"&gt;andra stycket 3:&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td34"&gt;&lt;SPAN class="p3 ft27"&gt;andra stycket 3:&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p46 ft3"&gt;&lt;SPAN class="ft31"&gt;–&lt;/SPAN&gt;&lt;SPAN class="ft21"&gt;impôt des sociétés/vennootschapsbelasting i Belgien,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p13 ft3"&gt;&lt;SPAN class="ft3"&gt;–&lt;/SPAN&gt;&lt;SPAN class="ft29"&gt;– – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – –&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p47 ft25"&gt;&lt;SPAN class="ft32"&gt;3&lt;/SPAN&gt;&lt;SPAN class="ft33"&gt;Senaste lydelse 2013:787.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_7"&gt;
+&lt;DIV id="p7dimg1"&gt;
+&lt;INGENBILD zsrc="H603887x1.jpg/" id="p7img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p48 ft35"&gt;&lt;SPAN class="ft18"&gt;2.2&lt;/SPAN&gt;&lt;SPAN class="ft34"&gt;Förslag till lag om ändring i lagen (2000:46) om omräkningsförfarande vid beskattningen för företag som har sin redovisning i euro, m.m.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p49 ft7"&gt;Härigenom föreskrivs i fråga om lagen (2000:46) om omräkningsförfarande vid beskattningen för företag som har sin redovisning i euro, m.m.&lt;/P&gt;
+&lt;P class="p50 ft3"&gt;&lt;SPAN class="ft4"&gt;dels &lt;/SPAN&gt;att 12 § ska upphöra att gälla,&lt;/P&gt;
+&lt;P class="p51 ft3"&gt;&lt;SPAN class="ft4"&gt;dels &lt;/SPAN&gt;att rubriken närmast före 12 § ska utgå.&lt;/P&gt;
+&lt;P class="p52 ft3"&gt;&lt;SPAN class="ft3"&gt;1.&lt;/SPAN&gt;&lt;SPAN class="ft21"&gt;Denna lag träder i kraft den 1 juli 2019.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p53 ft5"&gt;&lt;SPAN class="ft3"&gt;2.&lt;/SPAN&gt;&lt;SPAN class="ft22"&gt;Lagen tillämpas första gången för beskattningsår som börjar efter den 30 juni 2019.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p13 ft3"&gt;Prop. 2018/19:88&lt;/P&gt;
+&lt;P class="p54 ft3"&gt;7&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_8"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t12"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Prop. 2018/19:88&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td36"&gt;&lt;SPAN class="p14 ft36"&gt;3&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td37"&gt;&lt;SPAN class="p55 ft1"&gt;Ärendet och dess beredning&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr7 td38"&gt;&lt;SPAN class="p3 ft3"&gt;Inom Finansdepartementet har promemorian Vissa inkomstskatte-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr14 td38"&gt;&lt;SPAN class="p3 ft3"&gt;ändringar tagits fram.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td36"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td37"&gt;&lt;SPAN class="p1 ft3"&gt;En sammanfattning av promemorians förslag finns i &lt;SPAN class="ft4"&gt;bilaga 1 &lt;/SPAN&gt;och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;promemorians lagförslag i &lt;SPAN class="ft4"&gt;bilaga 2&lt;/SPAN&gt;. Promemorian har remissbehandlats&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr14 td38"&gt;&lt;SPAN class="p3 ft3"&gt;och en förteckning över remissinstanserna finns i &lt;SPAN class="ft4"&gt;bilaga 3&lt;/SPAN&gt;. Remissvaren&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td38"&gt;&lt;SPAN class="p3 ft3"&gt;finns tillgängliga i Finansdepartementet (Fi2019/00097/S1).&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr7 td38"&gt;&lt;SPAN class="p3 ft4"&gt;Lagrådet&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr2 td38"&gt;&lt;SPAN class="p3 ft3"&gt;Regeringen beslutade den 14 mars 2019 att inhämta Lagrådets yttrande&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;över lagförslag som är likalydande med lagförslagen i denna proposition.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;Lagrådet lämnade förslaget utan erinran. Lagrådets yttrande finns i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td38"&gt;&lt;SPAN class="p3 ft4"&gt;bilaga 4&lt;SPAN class="ft3"&gt;.&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr15 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr15 td36"&gt;&lt;SPAN class="p14 ft36"&gt;4&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr15 td37"&gt;&lt;SPAN class="p55 ft1"&gt;Ändring av bestämmelserna om&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td36"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td37"&gt;&lt;SPAN class="p55 ft1"&gt;omräkning av representationsavdraget&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td36"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td37"&gt;&lt;SPAN class="p55 ft1"&gt;för företag som har sin redovisning i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td36"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td37"&gt;&lt;SPAN class="p55 ft1"&gt;euro&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr16 td35"&gt;&lt;SPAN class="p3 ft37"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr17 td39"&gt;&lt;SPAN class="p3 ft38"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td40"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td41"&gt;&lt;SPAN class="p56 ft3"&gt;&lt;SPAN class="ft39"&gt;Regeringens förslag: &lt;/SPAN&gt;Den särskilda regeln om avdrag för måltid i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td40"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td41"&gt;&lt;SPAN class="p56 ft3"&gt;samband med representation i lagen om omräkningsförfarande vid&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td40"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td41"&gt;&lt;SPAN class="p56 ft3"&gt;beskattningen för företag som har sin redovisning i euro, m.m. upphävs.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td40"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td36"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td42"&gt;&lt;SPAN class="p57 ft3"&gt;Ändringen träder i kraft den 1 juli 2019 och tillämpas första gången&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td40"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td41"&gt;&lt;SPAN class="p56 ft3"&gt;för beskattningsår som börjar efter den 30 juni 2019.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr18 td40"&gt;&lt;SPAN class="p3 ft40"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr19 td43"&gt;&lt;SPAN class="p3 ft41"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr19 td44"&gt;&lt;SPAN class="p3 ft41"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td36"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td37"&gt;&lt;SPAN class="p1 ft3"&gt;&lt;SPAN class="ft39"&gt;Promemorians förslag &lt;/SPAN&gt;överensstämmer med regeringens.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td36"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td37"&gt;&lt;SPAN class="p1 ft3"&gt;&lt;SPAN class="ft39"&gt;Remissinstanserna: &lt;/SPAN&gt;Samtliga remissinstanser som har yttrat sig har&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;inget att invända eller tillstyrker förslaget.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td36"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td37"&gt;&lt;SPAN class="p1 ft3"&gt;&lt;SPAN class="ft39"&gt;Skälen för regeringens förslag: &lt;/SPAN&gt;Enligt 16 kap. 2 § inkomstskattelagen&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;(1999:1229), förkortad IL, får utgifter för representation och liknande&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr14 td38"&gt;&lt;SPAN class="p3 ft3"&gt;ändamål bara dras av om de har omedelbart samband med närings-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;verksamheten. Detta gäller då det uteslutande är fråga om att inleda eller&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;upprätthålla affärsförbindelser eller liknande eller då utgifterna avser&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr14 td38"&gt;&lt;SPAN class="p3 ft31"&gt;jubileum eller personalvård. Avdraget får inte överstiga vad som kan anses&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;skäligt. Till och med 2016 fanns en uttrycklig beloppsmässig begränsning&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;avseende utgifter för lunch, middag eller supé. För sådana utgifter fick&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr14 td38"&gt;&lt;SPAN class="p3 ft3"&gt;avdraget inte överstiga 90 kronor per person och måltid med tillägg för&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;mervärdesskatt, till den del denna inte skulle dras av enligt 8 kap. eller&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;återbetalas enligt 10 kap. mervärdesskattelagen (1994:200), förkortad ML.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td36"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td37"&gt;&lt;SPAN class="p1 ft3"&gt;Från och med den 1 januari 2017 har den uttryckliga belopps-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;begränsningen tagits bort (prop. 2016/17:1 avsnitt 6.11 s. &lt;NOBR&gt;240–247).&lt;/NOBR&gt; Fram&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;till och med lagändringen gällde samma beloppsgräns för mervärdesskatt&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr14 td38"&gt;&lt;SPAN class="p3 ft31"&gt;och inkomstskatt. I och med ändringen höjdes det mervärdesskatterättsliga&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td38"&gt;&lt;SPAN class="p3 ft31"&gt;beloppet, men motsvarande höjning gjordes inte avseende inkomstskatten.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;Den inkomstskatterättsliga regeln ändrades i stället på så sätt att belopps-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD rowspan=2 class="tr20 td35"&gt;&lt;SPAN class="p3 ft3"&gt;8&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td38"&gt;&lt;SPAN class="p3 ft31"&gt;gränsen på 90 kronor avskaffades och ersattes med en regel om att utgifter&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr21 td36"&gt;&lt;SPAN class="p3 ft42"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr21 td37"&gt;&lt;SPAN class="p3 ft42"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_9"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p58 ft7"&gt;för förtäring bara ska dras av om det är fråga om förfriskningar och annan enklare förtäring som inte kan anses som en måltid och som är av mindre värde. Detta överensstämmer med vad som gäller för skattefria personalvårdsförmåner enligt 11 kap. 12 § IL.&lt;/P&gt;
+&lt;P class="p59 ft3"&gt;Sedan 2001 gäller att aktiebolag, ekonomiska föreningar och vissa andra företagskategorier har rätt att ha sin redovisning i euro i stället för i kronor (prop. 1999/2000:23 Redovisning och aktiekapital i euro). Ett företag som väljer euro som redovisningsvaluta ska ändå deklarera i kronor. I lagen (2000:46) om omräkningsförfarande vid beskattningen för företag som har sin redovisning i euro, m.m. (i fortsättningen omräkningslagen) finns de särregler som ska tillämpas när företagen räknar om sin euroredovisning till kronor för beskattningsändamål. Omräkningslagen bygger på ett schabloniserat omräkningsförfarande från euro till kronor som översiktligt innebär att resultatposter räknas om enligt beskattningsårets genomsnittskurs (5 §) och balansräkningsposter enligt kursen vid beskattningsårets utgång (6 §). Förutom de generella omräkningsreglerna innehåller lagen ett antal bestämmelser för att hantera vissa specifika situationer. En av dessa bestämmelser gäller avdrag för måltid i samband med representation. Enligt 12 § gäller att avdrag för lunch, middag eller supé i samband med sådan representation som avses i 16 kap. 2 § IL inte får överstiga det belopp i euro som motsvarar 90 kronor per person med tillägg för mervärdesskatt till den del denna inte ska dras av enligt 8 kap. ML eller återbetalas enligt 10 kap. samma lag. Det belopp som får dras av ska beräknas för varje kalenderår utifrån den genomsnittliga växelkursen under november året före kalenderåret.&lt;/P&gt;
+&lt;P class="p60 ft3"&gt;Eftersom den uttryckliga beloppsbegränsningen för representationsmåltid togs bort i inkomstskattelagen från och med 2017 bör en följdändring göras som innebär att 12 § omräkningslagen upphävs. Omräkning av utgifter för förtäring som får dras av ska i stället göras enligt huvudregeln i 5 § omräkningslagen (dvs. genomsnittskurs).&lt;/P&gt;
+&lt;P class="p60 ft5"&gt;Ändringen föreslås träda i kraft den 1 juli 2019 och tillämpas första gången för beskattningsår som börjar efter den 30 juni 2019.&lt;/P&gt;
+&lt;P class="p61 ft4"&gt;Lagförslag&lt;/P&gt;
+&lt;P class="p62 ft7"&gt;Förslaget föranleder ändringar i lagen (2000:46) om omräkningsförfarande vid beskattningen för företag som har sin redovisning i euro, m.m.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p13 ft3"&gt;Prop. 2018/19:88&lt;/P&gt;
+&lt;P class="p54 ft3"&gt;9&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_10"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t13"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr0 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Prop. 2018/19:88&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td45"&gt;&lt;SPAN class="p63 ft36"&gt;5&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td46"&gt;&lt;SPAN class="p64 ft1"&gt;Beräkningen av justerad&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td47"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td45"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr1 td48"&gt;&lt;SPAN class="p64 ft1"&gt;anskaffningsutgift för andel i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td45"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td46"&gt;&lt;SPAN class="p64 ft1"&gt;handelsbolag ändras&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td47"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td35"&gt;&lt;SPAN class="p3 ft43"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr16 td39"&gt;&lt;SPAN class="p3 ft37"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr22 td40"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr22 td41"&gt;&lt;SPAN class="p56 ft3"&gt;&lt;SPAN class="ft39"&gt;Regeringens förslag: &lt;/SPAN&gt;Beräkningen av den justerade anskaffnings-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td40"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr3 td41"&gt;&lt;SPAN class="p56 ft3"&gt;utgiften för andel i handelsbolag i inkomstskattelagen ändras så att&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td40"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr3 td41"&gt;&lt;SPAN class="p56 ft3"&gt;nivån på skattesatsen för expansionsfond ska överensstämma med den&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td40"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr14 td49"&gt;&lt;SPAN class="p56 ft3"&gt;faktiskt gällande skattesatsen.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td50"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td40"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr2 td51"&gt;&lt;SPAN class="p65 ft3"&gt;Ändringen ska träda i kraft den 1 juli 2019.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td52"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr2 td38"&gt;&lt;SPAN class="p41 ft3"&gt;&lt;SPAN class="ft39"&gt;Promemorians förslag &lt;/SPAN&gt;överensstämmer med regeringens.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr14 td38"&gt;&lt;SPAN class="p66 ft3"&gt;&lt;SPAN class="ft39"&gt;Remissinstanserna: &lt;/SPAN&gt;De remissinstanser som har yttrat sig tillstyrker&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;eller har inga invändningar mot att beräkningen av den justerade&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr3 td38"&gt;&lt;SPAN class="p3 ft31"&gt;anskaffningsutgiften för andel i handelsbolag ändras. &lt;SPAN class="ft44"&gt;Juridiska fakulteten&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr14 td38"&gt;&lt;SPAN class="p3 ft3"&gt;&lt;SPAN class="ft4"&gt;vid Uppsala universitet &lt;/SPAN&gt;anser dock att expansionsfondsskatten borde&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;sänkas till 21,4 procent under beskattningsåren 2019 och 2020 för att inte&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td49"&gt;&lt;SPAN class="p3 ft3"&gt;avvika från bolagsskattesatsen.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td47"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td45"&gt;&lt;SPAN class="p41 ft39"&gt;Skälen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td46"&gt;&lt;SPAN class="p3 ft39"&gt;för regeringens förslag: &lt;SPAN class="ft3"&gt;I 50 kap. 5 §&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td47"&gt;&lt;SPAN class="p66 ft3"&gt;inkomstskattelagen&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;(1999:1229), förkortad IL, anges hur den justerade anskaffningsutgiften&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;för andelar i handelsbolag ska beräknas. Anskaffningsutgiften ska ökas&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr14 td38"&gt;&lt;SPAN class="p3 ft3"&gt;med bl.a. 22 procent av avdrag för avsättning till expansionsfond och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;78 procent av expansionsfond som förs över från andel i handelsbolag till&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;enskild näringsverksamhet. Anskaffningsutgiften ska också minskas med&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr14 td38"&gt;&lt;SPAN class="p3 ft3"&gt;bl.a. 22 procent av återförda avdrag för avsättning till expansionsfond och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;78 procent av expansionsfond som förs över från enskild närings-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;verksamhet till andel i handelsbolag. Beräkningen av den justerade&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr14 td38"&gt;&lt;SPAN class="p3 ft3"&gt;anskaffningsutgiften är kopplad till nivån på expansionsfondsskatten. För&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;att anskaffningsutgiften ska bli korrekt beräknad bör reglerna för&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;beräkningen vara utformade i överensstämmelse med nivån på skatte-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr14 td38"&gt;&lt;SPAN class="p3 ft3"&gt;satsen för expansionsfondsskatt. Vidare påverkar den justerade&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;anskaffningsutgiften i sin tur bl.a. kapitalvinstberäkningen vid försäljning&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;av andelar, avsättning till expansionsfond och räntefördelning.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr14 td38"&gt;&lt;SPAN class="p66 ft3"&gt;Från och med den 1 januari 2021 sänks expansionsfondsskatten från 22&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;till 20,6 procent (prop. 2017/18:245 Nya skatteregler för företagssektorn,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td49"&gt;&lt;SPAN class="p3 ft3"&gt;bet. 2017/18:SkU25, rskr. 2017/18:398). Som&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td47"&gt;&lt;SPAN class="p66 ft3"&gt;framgår av den&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr3 td38"&gt;&lt;SPAN class="p3 ft3"&gt;propositionen (s. 155) är bedömningen att expansionsfondsskatten endast&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t14"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td53"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td54"&gt;&lt;SPAN class="p14 ft3"&gt;bör sänkas i ett steg och inte i två steg, vilket gäller för bolagsskattesatsen.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td53"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td54"&gt;&lt;SPAN class="p14 ft3"&gt;I ikraftträdande- och övergångsbestämmelserna till lagen (2018:1206)&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td53"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td54"&gt;&lt;SPAN class="p14 ft3"&gt;om ändring i inkomstskattelagen (punkt 2) anges att tillämpningen av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td53"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td54"&gt;&lt;SPAN class="p14 ft3"&gt;50 kap. 5 § IL i dess nya lydelse ska ske första gången i fråga om&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td53"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td54"&gt;&lt;SPAN class="p14 ft3"&gt;räkenskapsår som börjar efter den 31 december 2018. Eftersom&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td53"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td54"&gt;&lt;SPAN class="p14 ft3"&gt;beräkningen från och med den 1 januari 2019 då baseras på 20,6 i stället&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td53"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td54"&gt;&lt;SPAN class="p14 ft3"&gt;för 22 procent blir den justerade anskaffningsutgiften inte korrekt.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td53"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td54"&gt;&lt;SPAN class="p14 ft3"&gt;Regeringen föreslår därför att bestämmelsen ändras på ett sådant sätt att&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td53"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td54"&gt;&lt;SPAN class="p14 ft3"&gt;den justerade anskaffningsutgiften fram till och med 31 december 2020&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td53"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td54"&gt;&lt;SPAN class="p14 ft3"&gt;ska beräknas utifrån den gällande expansionsfondsskatten på 22 procent.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td53"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td54"&gt;&lt;SPAN class="p14 ft3"&gt;Detta sker genom att ikraftträdande- och övergångsbestämmelserna (punkt&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td53"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td54"&gt;&lt;SPAN class="p14 ft3"&gt;2 och 7) ändras. Det innebär att beräkningen av den justerade&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD rowspan=2 class="tr10 td53"&gt;&lt;SPAN class="p67 ft3"&gt;10&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr22 td54"&gt;&lt;SPAN class="p14 ft3"&gt;anskaffningsutgiften efter den 31 december 2020 kommer att vara 20,6&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr23 td54"&gt;&lt;SPAN class="p3 ft45"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_11"&gt;
+
+
+&lt;P class="p68 ft7"&gt;procent, vilket motsvarar den då gällande nivån på skattesatsen för Prop. 2018/19:88 expansionsfond. Några övriga ändringar av de övergångsbestämmelser&lt;/P&gt;
+&lt;P class="p69 ft7"&gt;som gäller avsättningar till och återföringar från expansionsfond behövs inte.&lt;/P&gt;
+&lt;P class="p50 ft3"&gt;Den nya bestämmelsen föreslås träda i kraft den 1 juli 2019.&lt;/P&gt;
+&lt;P class="p5 ft4"&gt;Lagförslag&lt;/P&gt;
+&lt;P class="p70 ft7"&gt;Förslaget föranleder ändringar i punkt 2 och 7 i ikraftträdande- och övergångsbestämmelserna till lagen (2018:1206) om ändring i inkomstskattelagen (1999:1229).&lt;/P&gt;
+&lt;P class="p71 ft1"&gt;&lt;SPAN class="ft1"&gt;6&lt;/SPAN&gt;&lt;SPAN class="ft46"&gt;Konsekvensanalys&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p72 ft5"&gt;&lt;SPAN class="ft6"&gt;Regelrådet &lt;/SPAN&gt;konstaterar att förslaget inte får effekter av sådan betydelse för företag att det finns anledning att yttra sig.&lt;/P&gt;
+&lt;P class="p73 ft35"&gt;&lt;SPAN class="ft18"&gt;6.1&lt;/SPAN&gt;&lt;SPAN class="ft34"&gt;Ändring av bestämmelserna om omräkning av representationsavdraget för företag som har sin redovisning i euro&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p74 ft7"&gt;I propositionen föreslås att den särskilda regeln om avdrag för måltid i samband med representation i 12 § lagen (2000:46) om omräkningsförfarande vid beskattningen för företag som har sin redovisning i euro,&lt;/P&gt;
+&lt;P class="p75 ft5"&gt;&lt;SPAN class="ft3"&gt;m.m.&lt;/SPAN&gt;&lt;SPAN class="ft47"&gt;upphävs. Den föreslagna ändringen förväntas inte få några offentligfinansiella konsekvenser.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p76 ft35"&gt;&lt;SPAN class="ft18"&gt;6.2&lt;/SPAN&gt;&lt;SPAN class="ft34"&gt;Beräkningen av justerad anskaffningsutgift för andel i handelsbolag&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p77 ft4"&gt;Syfte och alternativa lösningar&lt;/P&gt;
+&lt;P class="p78 ft7"&gt;Syftet med den föreslagna ändringen är att justera bestämmelsen så att expansionsfondsskatt som betalas av eller återbetalas till delägare i handelsbolag tas med vid beräkningen av det justerade anskaffningsvärdet med en nivå som motsvarar den faktiskt gällande skattesatsen. Ändringen medför att anskaffningsvärdet vid beräkning av kapitalvinst eller kapitalförlust vid framtida försäljning av handelsbolagsandelen blir korrekt. Den medför även att underlagen för kommande års avsättningar till expansionsfond och räntefördelning blir korrekta. Något alternativ till att justera bestämmelsen finns inte.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t15"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td55"&gt;&lt;SPAN class="p3 ft4"&gt;Offentligfinansiella effekter&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td56"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td55"&gt;&lt;SPAN class="p3 ft3"&gt;I promemorian gjordes bedömningen att förslaget innebär att syftet med&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td56"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td55"&gt;&lt;SPAN class="p3 ft3"&gt;lagstiftningen upprätthålls och medför därmed ingen offentligfinansiell&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td56"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td55"&gt;&lt;SPAN class="p3 ft3"&gt;effekt.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td56"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td55"&gt;&lt;SPAN class="p41 ft3"&gt;&lt;SPAN class="ft4"&gt;Svenskt Näringsliv &lt;/SPAN&gt;menar att en senareläggning av skattesatsen för&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td56"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td55"&gt;&lt;SPAN class="p3 ft3"&gt;expansionsfond rimligtvis får en påverkan på de offentliga finanserna och&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD rowspan=2 class="tr24 td56"&gt;&lt;SPAN class="p14 ft3"&gt;11&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr23 td55"&gt;&lt;SPAN class="p3 ft45"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_12"&gt;
+
+
+&lt;P class="p79 ft3"&gt;Prop. 2018/19:88 för beskattningen av handelsbolagen även om den kan vara svår att beräkna.&lt;/P&gt;
+&lt;P class="p80 ft3"&gt;Förslaget i denna proposition har som syfte att justera ikraftträdande- och övergångsbestämmelserna till lagen (2018:1206) om ändring i inkomstskattelagen (1999:1229) så att expansionsfondskatten påverkar justerad anskaffningsutgift för handelsbolag på ett korrekt sätt. I likhet med bedömningen i promemorian gör regeringen bedömningen att förslaget inte medför någon offentligfinansiell effekt då det innebär att syftet med lagstiftningen upprätthålls. Differensen mellan expansionsfondskatten och bolagsskatten under åren 2019 och 2020 beslutades genom prop. 2017/18:245 och påverkas inte av den förslagna ändringen i denna proposition.&lt;/P&gt;
+&lt;P class="p81 ft4"&gt;Effekter för företag och enskilda&lt;/P&gt;
+&lt;P class="p82 ft5"&gt;Justeringen av bestämmelsen medför ingen förändring av administrativa kostnader för företag och enskilda. Justeringen medför heller ingen påverkan på företag och enskilda i något annat avseende.&lt;/P&gt;
+&lt;P class="p83 ft48"&gt;Effekter för Skatteverket och allmänna förvaltningsdomstolar &lt;SPAN class="ft7"&gt;Justeringen medför ett visst merarbete för Skatteverket. Den totala kostnaden för detta bedöms vara försumbar och kan därför hanteras inom befintliga ekonomiska ramar. Förvaltningsdomstolarna bedöms inte påverkas.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p84 ft4"&gt;Övriga effekter&lt;/P&gt;
+&lt;P class="p82 ft5"&gt;Justeringen bedöms inte medföra några effekter för offentlig sektor i övrigt, miljön, sysselsättningen, den ekonomiska jämställdheten mellan kvinnor och män eller fördelningen av ekonomiska resurser.&lt;/P&gt;
+&lt;P class="p85 ft1"&gt;&lt;SPAN class="ft1"&gt;7&lt;/SPAN&gt;&lt;SPAN class="ft49"&gt;Författningskommentar&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p86 ft18"&gt;Förslaget till lag om ändring i inkomstskattelagen&lt;/P&gt;
+&lt;P class="p87 ft3"&gt;&lt;SPAN class="ft4"&gt;Andra &lt;/SPAN&gt;och &lt;SPAN class="ft4"&gt;sjunde punkten &lt;/SPAN&gt;i ikraftträdande- och övergångsbestämmelserna till lagen (2018:1206) om ändring i inkomstskattelagen (1999:1229) ändras genom att hänvisningen till 50 kap. 5 § tas bort från andra punkten och läggs till i sjunde punkten. Det innebär att den justerade anskaffningsutgiften enligt 50 kap. 5 § fram till och med den 31 december 2020 beräknas utifrån en expansionsfondsskatt på 22 procent. Efter den 31 december 2020 kommer beräkningen att ske utifrån en expansionsfondsskatt på 20,6 procent (prop. 2017/18:245, bet. 2017/18:SkU25, rskr. 2017/18:398).&lt;/P&gt;
+&lt;P class="p85 ft3"&gt;I &lt;SPAN class="ft4"&gt;bilagorna 24.1 &lt;/SPAN&gt;och &lt;SPAN class="ft4"&gt;24.2 &lt;/SPAN&gt;har vissa ändringar gjorts av rättelsekaraktär.&lt;/P&gt;
+&lt;P class="p88 ft3"&gt;12&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_13"&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;DIV id="id_1_1"&gt;
+&lt;P class="p13 ft50"&gt;Sammanfattning av promemorian Vissa inkomstskatteändringar&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_1_2"&gt;
+&lt;P class="p13 ft5"&gt;Prop. 2018/19:88 Bilaga 1&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p89 ft7"&gt;En särskild regel om avdrag för måltid i samband med representation för företag som har sin redovisning i euro ska upphävas. Ändringen föreslås träda i kraft den 1 juli 2019 och tillämpas första gången för beskattningsår som börjar efter den 30 juni 2019.&lt;/P&gt;
+&lt;P class="p90 ft7"&gt;Promemorian innehåller även ett förslag som innebär att vid beräkning av den justerade anskaffningsutgiften för delägare i handelsbolag ska nivån på skattesatsen för expansionsfond överensstämma med den faktiskt gällande skattesatsen, vilket sker genom en ändring av övergångsbestämmelser. Ändringen föreslås träda i kraft den 1 juli 2019.&lt;/P&gt;
+&lt;P class="p91 ft3"&gt;13&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_14"&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;DIV id="id_1_1"&gt;
+&lt;P class="p13 ft5"&gt;Prop. 2018/19:88 Bilaga 2&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_1_2"&gt;
+&lt;P class="p13 ft1"&gt;Promemorians lagförslag&lt;/P&gt;
+&lt;P class="p92 ft51"&gt;Förslag till lag om ändring i inkomstskattelagen (1999:1229)&lt;/P&gt;
+&lt;P class="p93 ft7"&gt;Härigenom föreskrivs i fråga om inkomstskattelagen (1999:1229)&lt;SPAN class="ft52"&gt;1 &lt;/SPAN&gt;&lt;SPAN class="ft48"&gt;dels &lt;/SPAN&gt;att rubriken i bilaga 24.1 ska lyda ”Associationsformer som avses i&lt;/P&gt;
+&lt;P class="p13 ft3"&gt;24 kap. 34 § andra stycket 1:”,&lt;/P&gt;
+&lt;P class="p94 ft3"&gt;&lt;SPAN class="ft4"&gt;dels &lt;/SPAN&gt;att rubriken i bilaga 24.2 ska lyda ”Skatter som avses i 24 kap. 34 § andra stycket 3:”,&lt;/P&gt;
+&lt;P class="p94 ft5"&gt;&lt;SPAN class="ft6"&gt;dels &lt;/SPAN&gt;att punkt 2 och 7 i ikraftträdande- och övergångsbestämmelserna till lagen (2018:1206) om ändring i den lagen ska ha följande lydelse.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t16"&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr1 td57"&gt;&lt;SPAN class="p3 ft4"&gt;Nuvarande lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td58"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td59"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td60"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td61"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr1 td57"&gt;&lt;SPAN class="p3 ft4"&gt;Föreslagen lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td58"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td59"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td60"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td7"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=6 class="tr25 td30"&gt;&lt;SPAN class="p95 ft3"&gt;2.&lt;SPAN class="ft19"&gt;2 &lt;/SPAN&gt;Bestämmelserna i 9 kap. 5 §,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr25 td34"&gt;&lt;SPAN class="p14 ft3"&gt;2. Bestämmelserna i 9 kap. 5 §,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=6 class="tr14 td30"&gt;&lt;SPAN class="p3 ft3"&gt;14 kap. 16 a §, 17 kap. 33 §, 18 kap.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr14 td34"&gt;&lt;SPAN class="p3 ft3"&gt;14 kap. 16 a §, 17 kap. 33 §, 18 kap.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=6 class="tr3 td30"&gt;&lt;SPAN class="p3 ft3"&gt;12 §, 19 kap. 15 §, 20 kap. 13 §, 24&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr3 td34"&gt;&lt;SPAN class="p3 ft3"&gt;12 §, 19 kap. 15 §, 20 kap. 13 §, 24&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=6 class="tr3 td30"&gt;&lt;SPAN class="p3 ft3"&gt;kap. &lt;NOBR&gt;1–4,&lt;/NOBR&gt; 10, &lt;NOBR&gt;15–29,&lt;/NOBR&gt; &lt;NOBR&gt;31–37&lt;/NOBR&gt; och&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr3 td34"&gt;&lt;SPAN class="p3 ft3"&gt;kap. &lt;NOBR&gt;1–4,&lt;/NOBR&gt; 10, &lt;NOBR&gt;15–29,&lt;/NOBR&gt; &lt;NOBR&gt;31–37&lt;/NOBR&gt; och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=6 class="tr14 td30"&gt;&lt;SPAN class="p3 ft3"&gt;&lt;NOBR&gt;39–41&lt;/NOBR&gt; §§, 25 kap. 2 och 12 §§,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr14 td34"&gt;&lt;SPAN class="p3 ft3"&gt;&lt;NOBR&gt;39–41&lt;/NOBR&gt; §§, 25 kap. 2 och 12 §§,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=6 class="tr3 td30"&gt;&lt;SPAN class="p3 ft3"&gt;25 a kap. 23 och 23 a §§, 30 kap.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr3 td34"&gt;&lt;SPAN class="p3 ft3"&gt;25 a kap. 23 och 23 a §§, 30 kap.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr3 td57"&gt;&lt;SPAN class="p3 ft3"&gt;6 a §, 37 kap. 26&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td58"&gt;&lt;SPAN class="p96 ft3"&gt;a&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td59"&gt;&lt;SPAN class="p97 ft31"&gt;och&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td60"&gt;&lt;SPAN class="p14 ft3"&gt;28&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td61"&gt;&lt;SPAN class="p95 ft3"&gt;§§,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td57"&gt;&lt;SPAN class="p3 ft3"&gt;6 a §, 37 kap. 26&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td58"&gt;&lt;SPAN class="p96 ft3"&gt;a&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td59"&gt;&lt;SPAN class="p97 ft31"&gt;och&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td60"&gt;&lt;SPAN class="p14 ft3"&gt;28&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td7"&gt;&lt;SPAN class="p66 ft3"&gt;§§,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td62"&gt;&lt;SPAN class="p3 ft3"&gt;38 kap. 17&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td63"&gt;&lt;SPAN class="p98 ft3"&gt;§, 38&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td58"&gt;&lt;SPAN class="p3 ft3"&gt;a&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td59"&gt;&lt;SPAN class="p1 ft3"&gt;kap.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td60"&gt;&lt;SPAN class="p99 ft3"&gt;17&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td61"&gt;&lt;SPAN class="p95 ft3"&gt;och&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td62"&gt;&lt;SPAN class="p3 ft3"&gt;38 kap. 17&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td63"&gt;&lt;SPAN class="p98 ft3"&gt;§, 38&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td58"&gt;&lt;SPAN class="p3 ft3"&gt;a&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td59"&gt;&lt;SPAN class="p1 ft3"&gt;kap.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td60"&gt;&lt;SPAN class="p99 ft3"&gt;17&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td7"&gt;&lt;SPAN class="p66 ft3"&gt;och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=6 class="tr3 td30"&gt;&lt;SPAN class="p3 ft3"&gt;23 §§, 39 kap. 8 a, 14 och 23 §§,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr3 td34"&gt;&lt;SPAN class="p3 ft3"&gt;23 §§, 39 kap. 8 a, 14 och 23 §§,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=6 class="tr3 td30"&gt;&lt;SPAN class="p3 ft3"&gt;40 kap. 18 §, 48 kap. 17 och 27 §§,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr3 td34"&gt;&lt;SPAN class="p3 ft3"&gt;40 kap. 18 §, 48 kap. 17 och 27 §§,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=6 class="tr14 td30"&gt;&lt;SPAN class="p3 ft3"&gt;&lt;SPAN class="ft4"&gt;50 kap. 5 §&lt;/SPAN&gt;, 56 kap. 8 § och 65 kap.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr14 td34"&gt;&lt;SPAN class="p3 ft3"&gt;56 kap. 8 § och 65 kap. 10 § i den&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=6 class="tr3 td30"&gt;&lt;SPAN class="p3 ft3"&gt;10 § i den nya lydelsen och de nya&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr3 td34"&gt;&lt;SPAN class="p3 ft3"&gt;nya lydelsen och de nya&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr3 td57"&gt;&lt;SPAN class="p3 ft3"&gt;bestämmelserna&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td58"&gt;&lt;SPAN class="p100 ft3"&gt;i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr3 td64"&gt;&lt;SPAN class="p95 ft3"&gt;24 a kap.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td57"&gt;&lt;SPAN class="p3 ft3"&gt;bestämmelserna&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td58"&gt;&lt;SPAN class="p100 ft3"&gt;i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr3 td65"&gt;&lt;SPAN class="p14 ft3"&gt;24 a kap.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td62"&gt;&lt;SPAN class="p3 ft3"&gt;tillämpas&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td63"&gt;&lt;SPAN class="p98 ft3"&gt;första&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr14 td66"&gt;&lt;SPAN class="p101 ft31"&gt;gången&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td61"&gt;&lt;SPAN class="p95 ft3"&gt;för&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td62"&gt;&lt;SPAN class="p3 ft3"&gt;tillämpas&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td63"&gt;&lt;SPAN class="p64 ft3"&gt;första&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr14 td66"&gt;&lt;SPAN class="p101 ft31"&gt;gången&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td7"&gt;&lt;SPAN class="p14 ft3"&gt;för&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=6 class="tr3 td30"&gt;&lt;SPAN class="p3 ft3"&gt;beskattningsår, eller i fråga om&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr3 td34"&gt;&lt;SPAN class="p3 ft3"&gt;beskattningsår, eller i fråga om&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td62"&gt;&lt;SPAN class="p3 ft3"&gt;svenska&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td63"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td58"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr3 td64"&gt;&lt;SPAN class="p95 ft31"&gt;handelsbolag&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td62"&gt;&lt;SPAN class="p3 ft3"&gt;svenska&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td63"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td58"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr3 td65"&gt;&lt;SPAN class="p14 ft31"&gt;handelsbolag&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=6 class="tr14 td30"&gt;&lt;SPAN class="p3 ft3"&gt;räkenskapsår, som börjar efter den&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr14 td34"&gt;&lt;SPAN class="p3 ft3"&gt;räkenskapsår, som börjar efter den&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr12 td57"&gt;&lt;SPAN class="p3 ft27"&gt;31 december 2018.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td58"&gt;&lt;SPAN class="p3 ft43"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td59"&gt;&lt;SPAN class="p3 ft43"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td60"&gt;&lt;SPAN class="p3 ft43"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td61"&gt;&lt;SPAN class="p3 ft43"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr12 td57"&gt;&lt;SPAN class="p3 ft27"&gt;31 december 2018.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td58"&gt;&lt;SPAN class="p3 ft43"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td59"&gt;&lt;SPAN class="p3 ft43"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td60"&gt;&lt;SPAN class="p3 ft43"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td7"&gt;&lt;SPAN class="p3 ft43"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p102 ft3"&gt;För beskattningsår som omfattar längre tid än tolv månader och som börjar före den 1 januari 2019 och avslutas efter den 31 december 2018 får ett negativt räntenetto enligt 24 kap. &lt;NOBR&gt;21–29&lt;/NOBR&gt; §§ som belöper sig på perioden från och med den 1 januari 2019 till utgången av det beskattningsåret, eller i fråga om svenska handelsbolag räkenskapsåret,&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t17"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td30"&gt;&lt;SPAN class="p3 ft3"&gt;inte dras av.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td34"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr25 td30"&gt;&lt;SPAN class="p45 ft3"&gt;7. Bestämmelserna i 34 kap. 6, 18&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr25 td34"&gt;&lt;SPAN class="p14 ft3"&gt;7. Bestämmelserna i 34 kap. 6, 18&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td30"&gt;&lt;SPAN class="p3 ft3"&gt;och 20 §§ och 65 kap. 8 § i den nya&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td34"&gt;&lt;SPAN class="p14 ft3"&gt;och 20 §§, &lt;SPAN class="ft4"&gt;50 kap. 5 § &lt;/SPAN&gt;och 65 kap.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td30"&gt;&lt;SPAN class="p3 ft3"&gt;lydelsen tillämpas första gången för&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td34"&gt;&lt;SPAN class="p66 ft3"&gt;8 § i den nya lydelsen tillämpas&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td30"&gt;&lt;SPAN class="p3 ft3"&gt;beskattningsår som börjar efter den&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td34"&gt;&lt;SPAN class="p14 ft3"&gt;första gången för beskattningsår&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr22 td30"&gt;&lt;SPAN class="p3 ft3"&gt;31 december 2020.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr22 td34"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t18"&gt;
+&lt;TR&gt;
+	&lt;TD rowspan=2 class="tr11 td67"&gt;&lt;SPAN class="p14 ft3"&gt;14&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td68"&gt;&lt;SPAN class="p66 ft32"&gt;1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td69"&gt;&lt;SPAN class="p1 ft53"&gt;Lagen omtryckt 2008:803.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td68"&gt;&lt;SPAN class="p66 ft32"&gt;2&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td69"&gt;&lt;SPAN class="p1 ft53"&gt;Senaste lydelse 2018:1206.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_15"&gt;
+&lt;DIV id="p15dimg1"&gt;
+&lt;INGENBILD zsrc="H6038815x1.jpg/" id="p15img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV class="dclr"&gt;&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p103 ft5"&gt;som börjar efter den 31 december 2020.&lt;/P&gt;
+&lt;P class="p104 ft3"&gt;1. Denna lag träder i kraft den 1 juli 2019.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p105 ft5"&gt;Prop. 2018/19:88 Bilaga 2&lt;/P&gt;
+&lt;P class="p106 ft3"&gt;15&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_16"&gt;
+&lt;DIV id="p16dimg1"&gt;
+&lt;INGENBILD zsrc="H6038816x1.jpg/" id="p16img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p107 ft5"&gt;Prop. 2018/19:88 Bilaga 2&lt;/P&gt;
+&lt;P class="p108 ft3"&gt;16&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p109 ft35"&gt;Förslag till lag om ändring i lagen (2000:46) om omräkningsförfarande vid beskattningen för företag som har sin redovisning i euro, m.m.&lt;/P&gt;
+&lt;P class="p110 ft7"&gt;Härigenom föreskrivs i fråga om lagen (2000:46) om omräkningsförfarande vid beskattningen för företag som har sin redovisning i euro, m.m.&lt;/P&gt;
+&lt;P class="p46 ft3"&gt;&lt;SPAN class="ft4"&gt;dels &lt;/SPAN&gt;att 12 § ska upphöra att gälla,&lt;/P&gt;
+&lt;P class="p111 ft3"&gt;&lt;SPAN class="ft4"&gt;dels &lt;/SPAN&gt;att rubriken närmast före 12 § ska utgå.&lt;/P&gt;
+&lt;P class="p112 ft3"&gt;&lt;SPAN class="ft3"&gt;1.&lt;/SPAN&gt;&lt;SPAN class="ft29"&gt;Denna lag träder i kraft den 1 juli 2019.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p113 ft5"&gt;&lt;SPAN class="ft3"&gt;2.&lt;/SPAN&gt;&lt;SPAN class="ft54"&gt;Lagen tillämpas första gången för beskattningsår som börjar efter den 30 juni 2019.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_17"&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;DIV id="id_1_1"&gt;
+&lt;P class="p13 ft1"&gt;Förteckning över remissinstanserna&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_1_2"&gt;
+&lt;P class="p13 ft5"&gt;Prop. 2018/19:88 Bilaga 3&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p89 ft3"&gt;Efter remiss har yttranden kommit in från Bokföringsnämnden, Bolagsverket, FAR, Föreningen Svenskt Näringsliv, Förvaltningsrätten i Malmö, Juridiska fakulteten vid Uppsala universitet, Kammarrätten i Göteborg, Regelrådet, Skatteverket, Småföretagarnas Riksförbund, SRF konsulterna.&lt;/P&gt;
+&lt;P class="p114 ft7"&gt;Följande remissinstanser har inte svarat eller angett att de avstår från att lämna några synpunkter. Företagarna, Lantbrukarnas Riksförbund, Näringslivets regelnämnd. Svensk Industriförening, Sveriges advokatsamfund, Sveriges Handelskamrar, Sveriges kommuner och landsting.&lt;/P&gt;
+&lt;P class="p115 ft3"&gt;17&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_18"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p107 ft5"&gt;Prop. 2018/19:88 Bilaga 4&lt;/P&gt;
+&lt;P class="p108 ft3"&gt;18&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p13 ft1"&gt;Lagrådets yttrande&lt;/P&gt;
+&lt;P class="p4 ft3"&gt;Utdrag ur protokoll vid sammanträde &lt;NOBR&gt;2019-03-21&lt;/NOBR&gt;&lt;/P&gt;
+&lt;P class="p116 ft14"&gt;&lt;SPAN class="ft55"&gt;Närvarande: &lt;/SPAN&gt;F.d. justitierådet Ella Nyström samt justitieråden Erik Nymansson och Thomas Bull&lt;/P&gt;
+&lt;P class="p27 ft39"&gt;Vissa inkomstskatteändringar&lt;/P&gt;
+&lt;P class="p117 ft5"&gt;Enligt en lagrådsremiss den 14 mars 2019 har regeringen (Finansdepartementet) beslutat inhämta Lagrådets yttrande över förslag till&lt;/P&gt;
+&lt;P class="p118 ft3"&gt;&lt;SPAN class="ft3"&gt;1.&lt;/SPAN&gt;&lt;SPAN class="ft21"&gt;lag om ändring i inkomstskattelagen (1999:1229),&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p119 ft5"&gt;&lt;SPAN class="ft3"&gt;2.&lt;/SPAN&gt;&lt;SPAN class="ft54"&gt;lag om ändring i lagen (2000:46) om omräkningsförfarande vid beskattningen för företag som har sin redovisning i euro, m.m.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p120 ft5"&gt;Förslagen har inför Lagrådet föredragits av kanslirådet Bo Lindén och rättssakkunnige Henrik Hasslemark.&lt;/P&gt;
+&lt;P class="p121 ft3"&gt;&lt;SPAN class="ft56"&gt;Lagrådet&lt;/SPAN&gt; lämnar förslagen utan erinran.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_19"&gt;
+&lt;DIV id="p19dimg1"&gt;
+&lt;INGENBILD zsrc="H6038819x1.jpg/" id="p19img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p122 ft3"&gt;Prop. 2018/19:88&lt;/P&gt;
+&lt;P class="p123 ft1"&gt;Finansdepartementet&lt;/P&gt;
+&lt;P class="p124 ft3"&gt;Utdrag ur protokoll vid regeringssammanträde den 4 april 2019&lt;/P&gt;
+&lt;P class="p124 ft3"&gt;Närvarande: statsminister Löfven, ordförande, och statsråden Lövin,&lt;/P&gt;
+&lt;P class="p125 ft3"&gt;Wallström, M Johansson, Baylan, Hallengren, Hultqvist, Andersson,&lt;/P&gt;
+&lt;P class="p126 ft3"&gt;Bolund, Damberg, Eriksson, Linde, Ekström, Eneroth, Dahlgren,&lt;/P&gt;
+&lt;P class="p127 ft3"&gt;Nilsson, Ernkrans, Lindhagen, Lind&lt;/P&gt;
+&lt;P class="p128 ft3"&gt;Föredragande: statsrådet Andersson&lt;/P&gt;
+&lt;P class="p129 ft3"&gt;Regeringen beslutar proposition Vissa inkomstskatteändringar&lt;/P&gt;
+&lt;P class="p130 ft3"&gt;19&lt;/P&gt;
+&lt;/DIV&gt;
+
+&lt;/div&gt;&lt;style&gt;
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+&lt;/style&gt;
+</html>
+  </dokument>
+<dokforslag>
+<forslag>
+<nummer datatype="int32">1</nummer>
+<beteckning datatype="string">1</beteckning>
+<lydelse datatype="string">Riksdagen antar regeringens förslag till lag om ändring i inkomstskattelagen (1999:1229).</lydelse>
+<lydelse2 datatype="string" />
+<utskottet datatype="string">Bifall</utskottet>
+<kammaren datatype="string">Bifall</kammaren>
+<behandlas_i datatype="string">2018/19:SkU19</behandlas_i>
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string">SkU</intressent>
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">2</nummer>
+<beteckning datatype="string">2</beteckning>
+<lydelse datatype="string">Riksdagen antar regeringens förslag till lag om ändring i lagen (2000:46) om omräkningsförfarande vid beskattningen för företag som har sin redovisning i euro, m.m.</lydelse>
+<lydelse2 datatype="string" />
+<utskottet datatype="string">Bifall</utskottet>
+<kammaren datatype="string">Bifall</kammaren>
+<behandlas_i datatype="string">2018/19:SkU19</behandlas_i>
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string">SkU</intressent>
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+</dokforslag>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">INL</kod>
+<namn datatype="string">Inlämnad</namn>
+<datum datatype="datetime">2019-04-09 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">B</kod>
+<namn datatype="string">Bordlagd</namn>
+<datum datatype="datetime">2019-04-09 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">HÄN</kod>
+<namn datatype="string">Hänvisad</namn>
+<datum datatype="datetime">2019-04-10 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">MOT</kod>
+<namn datatype="string">Motionstid slutar</namn>
+<datum datatype="datetime">2019-04-24 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+</dokaktivitet>
+<dokintressent>
+<intressent>
+<intressent_id datatype="string">0218878014918</intressent_id>
+<namn datatype="string">Stefan Löfven</namn>
+<partibet datatype="string">S</partibet>
+<ordning datatype="int16">1</ordning>
+<roll datatype="string">Statsråd1</roll>
+</intressent>
+<intressent>
+<intressent_id datatype="string">098412828516</intressent_id>
+<namn datatype="string">Magdalena Andersson</namn>
+<partibet datatype="string">S</partibet>
+<ordning datatype="int16">2</ordning>
+<roll datatype="string">Statsråd2</roll>
+</intressent>
+</dokintressent>
+<dokuppgift>
+<uppgift>
+<kod datatype="string">inlamnatav</kod>
+<namn datatype="string">Inlämnat av</namn>
+<text datatype="string">Finansdepartementet</text>
+<dok_id datatype="string">H60388</dok_id>
+<systemdatum datatype="datetime">2019-06-04 15:47:36</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">tilldelat</kod>
+<namn datatype="string">Tilldelat</namn>
+<text datatype="string">Skatteutskottet</text>
+<dok_id datatype="string">H60388</dok_id>
+<systemdatum datatype="datetime">2019-06-04 15:47:36</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">statustext</kod>
+<namn datatype="string">statustext</namn>
+<text datatype="string">Propositionen bereds i utskott</text>
+<dok_id datatype="string">H60388</dok_id>
+<systemdatum datatype="datetime">2019-04-10 08:31:35</systemdatum>
+</uppgift>
+</dokuppgift>
+<dokbilaga>
+<bilaga>
+<dok_id datatype="string">H60388</dok_id>
+<titel datatype="string">Vissa inkomstskatteändringar</titel>
+<subtitel datatype="string" />
+<filnamn datatype="string">prop_201819__88.pdf</filnamn>
+<filstorlek datatype="int32">204766</filstorlek>
+<filtyp datatype="string">pdf</filtyp>
+<fil_url datatype="string">http://data.riksdagen.se/fil/D57D26C9-C00A-4CBD-913A-B1385E314D6B</fil_url>
+</bilaga>
+</dokbilaga>
+<dokreferens>
+<referens>
+<referenstyp datatype="string">behandlas_i</referenstyp>
+<uppgift datatype="string">2018/19:SkU19</uppgift>
+<ref_dok_id datatype="string">H601SkU19</ref_dok_id>
+<ref_dok_typ datatype="string">bet</ref_dok_typ>
+<ref_dok_rm datatype="string">2018/19</ref_dok_rm>
+<ref_dok_bet datatype="string">SkU19</ref_dok_bet>
+<ref_dok_titel datatype="string">Vissa inkomstskatteändringar</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">bet</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Betänkande</ref_dok_dokumentnamn>
+</referens>
+</dokreferens>
+<debatt /></dokumentstatus>

@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "06855047-0412-49d3-a91a-6c922ac78536",
+    "sourceid": "e2382a69-750a-4d49-baf6-083cba570539",
+    "intressent_id": "0642824296805",
+    "hangar_id": "2342420",
+    "fodd_ar": "1947",
+    "kon": "kvinna",
+    "efternamn": "Julin",
+    "tilltalsnamn": "Eva",
+    "sorteringsnamn": "Julin,Eva",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/e2382a69-750a-4d49-baf6-083cba570539",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e2382a69-750a-4d49-baf6-083cba570539_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e2382a69-750a-4d49-baf6-083cba570539_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e2382a69-750a-4d49-baf6-083cba570539_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "309",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1995-10-10",
+          "tom": "1995-11-15",
+          "uppgift": "Thomas Julin",
+          "intressent_id": "0642824296805",
+          "hangar_id": "2342420",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1995-10-10",
+          "tom": "1995-11-15",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0642824296805",
+          "hangar_id": "2342420",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1995-10-10",
+          "tom": "1995-11-15",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0642824296805",
+          "hangar_id": "2342420",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "mellanstadielärare",
+          "typ": "titlar",
+          "intressent_id": "0642824296805",
+          "hangar_id": "2342420"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0642824296805",
+          "hangar_id": "2342420"
+        }
+      ]
+    }
+  }
+}

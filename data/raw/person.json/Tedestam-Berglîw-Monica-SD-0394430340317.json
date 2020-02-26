@@ -1,0 +1,66 @@
+{
+  "person": {
+    "hangar_guid": "18879809-c50c-4d0f-a652-0c04ba4a06b1",
+    "sourceid": "8a6ac062-6910-4437-a856-5f6c3d6951d7",
+    "intressent_id": "0394430340317",
+    "hangar_id": "3245715",
+    "fodd_ar": "1962",
+    "kon": "kvinna",
+    "efternamn": "Tedestam Berglöw",
+    "tilltalsnamn": "Monica",
+    "sorteringsnamn": "Tedestam Berglöw,Monica",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Stockholms län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/8a6ac062-6910-4437-a856-5f6c3d6951d7",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8a6ac062-6910-4437-a856-5f6c3d6951d7_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8a6ac062-6910-4437-a856-5f6c3d6951d7_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8a6ac062-6910-4437-a856-5f6c3d6951d7_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "101",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2015-02-05",
+          "tom": "2015-03-10",
+          "uppgift": "Margareta Gunsdotter",
+          "intressent_id": "0394430340317",
+          "hangar_id": "3245715",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2015-02-17",
+          "tom": "2015-03-10",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0394430340317",
+          "hangar_id": "3245715",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "monica.tedestam.berglow[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0394430340317",
+        "hangar_id": "3245715"
+      }
+    }
+  }
+}

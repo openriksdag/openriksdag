@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "400023b5-9692-457e-8fad-922ac81cae81",
+    "sourceid": "016da219-d08d-4833-846b-57e185db73fa",
+    "intressent_id": "039371311407",
+    "hangar_id": "2342076",
+    "fodd_ar": "1940",
+    "kon": "kvinna",
+    "efternamn": "Watz",
+    "tilltalsnamn": "Marianne",
+    "sorteringsnamn": "Watz,Marianne",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/016da219-d08d-4833-846b-57e185db73fa",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/016da219-d08d-4833-846b-57e185db73fa_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/016da219-d08d-4833-846b-57e185db73fa_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/016da219-d08d-4833-846b-57e185db73fa_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "110",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2008-05-08",
+          "tom": "2010-10-04",
+          "uppgift": "Beatrice Ask",
+          "intressent_id": "039371311407",
+          "hangar_id": "2342076",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "206",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2007-09-18",
+          "tom": "2008-05-07",
+          "uppgift": "Lena Adelsohn Liljeroth",
+          "intressent_id": "039371311407",
+          "hangar_id": "2342076",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "51",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2006-11-16",
+          "tom": "2007-09-17",
+          "uppgift": "Mikael Odenberg",
+          "intressent_id": "039371311407",
+          "hangar_id": "2342076",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-12-01",
+          "tom": "2010-10-04",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "039371311407",
+          "hangar_id": "2342076",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-12-01",
+          "tom": "2010-10-04",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "039371311407",
+          "hangar_id": "2342076",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Fil. mag.",
+          "typ": "titlar",
+          "intressent_id": "039371311407",
+          "hangar_id": "2342076"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "039371311407",
+          "hangar_id": "2342076"
+        }
+      ]
+    }
+  }
+}

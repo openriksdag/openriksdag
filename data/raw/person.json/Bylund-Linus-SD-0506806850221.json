@@ -1,0 +1,82 @@
+{
+  "person": {
+    "hangar_guid": "2a894e3e-8102-415d-b152-5d4c89d7d0a2",
+    "sourceid": "c97b1897-90bf-4e3d-b9bb-97887b022661",
+    "intressent_id": "0506806850221",
+    "hangar_id": "3057267",
+    "fodd_ar": "1978",
+    "kon": "man",
+    "efternamn": "Bylund",
+    "tilltalsnamn": "Linus",
+    "sorteringsnamn": "Bylund,Linus",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Stockholms kommun",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/c97b1897-90bf-4e3d-b9bb-97887b022661",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c97b1897-90bf-4e3d-b9bb-97887b022661_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c97b1897-90bf-4e3d-b9bb-97887b022661_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c97b1897-90bf-4e3d-b9bb-97887b022661_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "96",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0506806850221",
+          "hangar_id": "3057267",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0506806850221",
+          "hangar_id": "3057267",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "linus.bylund[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0506806850221",
+          "hangar_id": "3057267"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "66228",
+          "typ": "telefonnummer",
+          "intressent_id": "0506806850221",
+          "hangar_id": "3057267"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0506806850221",
+          "hangar_id": "3057267"
+        }
+      ]
+    }
+  }
+}

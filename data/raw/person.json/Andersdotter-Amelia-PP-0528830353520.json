@@ -1,0 +1,48 @@
+{
+  "person": {
+    "hangar_guid": "d1227eb7-dff4-4a95-9134-4e8bff6f622d",
+    "sourceid": "60f468dd-1052-49c8-bf6d-05b0e1a4dac5",
+    "intressent_id": "0528830353520",
+    "hangar_id": "2821456",
+    "fodd_ar": "1987",
+    "kon": "kvinna",
+    "efternamn": "Andersdotter",
+    "tilltalsnamn": "Amelia",
+    "sorteringsnamn": "Andersdotter,Amelia",
+    "iort": "",
+    "parti": "PP",
+    "valkrets": "",
+    "status": "Tidigare europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/60f468dd-1052-49c8-bf6d-05b0e1a4dac5",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/60f468dd-1052-49c8-bf6d-05b0e1a4dac5_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/60f468dd-1052-49c8-bf6d-05b0e1a4dac5_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/60f468dd-1052-49c8-bf6d-05b0e1a4dac5_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "EP",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "20",
+        "status": "",
+        "typ": "Europaparlamentet",
+        "from": "2011-12-01",
+        "tom": "2014-07-01",
+        "uppgift": "Europaparlamentet",
+        "intressent_id": "0528830353520",
+        "hangar_id": "2821456",
+        "sortering": "30",
+        "organ_sortering": "100",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Webbsida",
+        "uppgift": "http://www.europarl.europa.eu/meps/sv/108570/AMELIA_ANDERSDOTTER.html",
+        "typ": "eadress",
+        "intressent_id": "0528830353520",
+        "hangar_id": "2821456"
+      }
+    }
+  }
+}

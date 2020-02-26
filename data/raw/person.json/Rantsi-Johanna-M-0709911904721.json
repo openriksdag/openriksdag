@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "70785efe-610d-4f13-a96a-b480f406245e",
+    "sourceid": "0e87a191-cc1d-47c5-b4dd-4f8e5e2a03a6",
+    "intressent_id": "0709911904721",
+    "hangar_id": "5003958",
+    "fodd_ar": "1990",
+    "kon": "kvinna",
+    "efternamn": "Rantsi",
+    "tilltalsnamn": "Johanna",
+    "sorteringsnamn": "Rantsi,Johanna",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Västra Götalands läns västra",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/0e87a191-cc1d-47c5-b4dd-4f8e5e2a03a6",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0e87a191-cc1d-47c5-b4dd-4f8e5e2a03a6_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0e87a191-cc1d-47c5-b4dd-4f8e5e2a03a6_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0e87a191-cc1d-47c5-b4dd-4f8e5e2a03a6_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "266",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2019-02-18",
+          "tom": "2019-04-11",
+          "uppgift": "Ellen Juntti",
+          "intressent_id": "0709911904721",
+          "hangar_id": "5003958",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-02-26",
+          "tom": "2019-04-11",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0709911904721",
+          "hangar_id": "5003958",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Gymnasielärare.",
+          "typ": "titlar",
+          "intressent_id": "0709911904721",
+          "hangar_id": "5003958"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0709911904721",
+          "hangar_id": "5003958"
+        }
+      ]
+    }
+  }
+}

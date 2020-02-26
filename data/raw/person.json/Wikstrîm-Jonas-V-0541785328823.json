@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "dccc2c77-3003-4ea1-8430-9424bd10f9a7",
+    "sourceid": "a970a403-d50e-4ac8-aa4e-0939cd5bd4cb",
+    "intressent_id": "0541785328823",
+    "hangar_id": "2343611",
+    "fodd_ar": "1976",
+    "kon": "man",
+    "efternamn": "Wikström",
+    "tilltalsnamn": "Jonas",
+    "sorteringsnamn": "Wikström,Jonas",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "Uppsala län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/a970a403-d50e-4ac8-aa4e-0939cd5bd4cb",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a970a403-d50e-4ac8-aa4e-0939cd5bd4cb_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a970a403-d50e-4ac8-aa4e-0939cd5bd4cb_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a970a403-d50e-4ac8-aa4e-0939cd5bd4cb_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2005-02-02",
+          "tom": "2005-03-06",
+          "uppgift": "Ingrid Burman",
+          "intressent_id": "0541785328823",
+          "hangar_id": "2343611",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2005-02-03",
+          "tom": "2005-03-06",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0541785328823",
+          "hangar_id": "2343611",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

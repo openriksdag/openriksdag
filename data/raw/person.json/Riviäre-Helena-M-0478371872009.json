@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "fa9ebc4a-2eeb-45fe-8a09-1b75bada9af9",
+    "sourceid": "b7d080e4-399f-42bd-a924-872fac7afdd9",
+    "intressent_id": "0478371872009",
+    "hangar_id": "2342090",
+    "fodd_ar": "1940",
+    "kon": "kvinna",
+    "efternamn": "Rivière",
+    "tilltalsnamn": "Helena",
+    "sorteringsnamn": "Rivière,Helena",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/b7d080e4-399f-42bd-a924-872fac7afdd9",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b7d080e4-399f-42bd-a924-872fac7afdd9_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b7d080e4-399f-42bd-a924-872fac7afdd9_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b7d080e4-399f-42bd-a924-872fac7afdd9_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "317",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-11-16",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0478371872009",
+          "hangar_id": "2342090",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "81",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-06",
+          "tom": "2006-11-15",
+          "uppgift": "Fredrik Reinfeldt",
+          "intressent_id": "0478371872009",
+          "hangar_id": "2342090",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0478371872009",
+          "hangar_id": "2342090",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0478371872009",
+          "hangar_id": "2342090"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Bokförläggare",
+          "typ": "titlar",
+          "intressent_id": "0478371872009",
+          "hangar_id": "2342090"
+        }
+      ]
+    }
+  }
+}

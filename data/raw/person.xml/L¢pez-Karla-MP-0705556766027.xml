@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">6db5bf14-b9d7-4f13-9f83-ab0a4d893b41</hangar_guid>
+<sourceid datatype="string">16da9423-9747-46aa-b024-e63ad6dfff62</sourceid>
+<intressent_id datatype="string">0705556766027</intressent_id>
+<hangar_id datatype="int32">2343633</hangar_id>
+<fodd_ar datatype="int16">1977</fodd_ar>
+<kon datatype="string">kvinna</kon>
+<efternamn datatype="string">López</efternamn>
+<tilltalsnamn datatype="string">Karla</tilltalsnamn>
+<sorteringsnamn datatype="string">López,Karla</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">MP</parti>
+<valkrets datatype="string">Göteborgs kommun</valkrets>
+<status datatype="string">Tidigare riksdagsledamot</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/16da9423-9747-46aa-b024-e63ad6dfff62</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/16da9423-9747-46aa-b024-e63ad6dfff62_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/16da9423-9747-46aa-b024-e63ad6dfff62_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/16da9423-9747-46aa-b024-e63ad6dfff62_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">333</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2006-10-02</from>
+<tom datatype="datetime">2007-11-13</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0705556766027</intressent_id>
+<hangar_id datatype="int32">2343633</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">FöU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2006-10-10</from>
+<tom datatype="datetime">2007-11-13</tom>
+<uppgift datatype="string">Försvarsutskottet</uppgift>
+<intressent_id datatype="string">0705556766027</intressent_id>
+<hangar_id datatype="int32">2343633</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">UU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2007-04-18</from>
+<tom datatype="datetime">2007-11-13</tom>
+<uppgift datatype="string">Utrikesutskottet</uppgift>
+<intressent_id datatype="string">0705556766027</intressent_id>
+<hangar_id datatype="int32">2343633</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">UFöU</organ_kod>
+<roll_kod datatype="string">Deputerad</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2007-10-18</from>
+<tom datatype="datetime">2007-11-13</tom>
+<uppgift datatype="string">Sammansatta utrikes- och försvarsutskottet</uppgift>
+<intressent_id datatype="string">0705556766027</intressent_id>
+<hangar_id datatype="int32">2343633</hangar_id>
+<sortering datatype="int32">40</sortering>
+<organ_sortering datatype="int32">160</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+<uppgift>
+<kod datatype="string">sv</kod>
+<uppgift datatype="string">mångsysslare</uppgift>
+<typ datatype="string">titlar</typ>
+<intressent_id datatype="string">0705556766027</intressent_id>
+<hangar_id datatype="int32">2343633</hangar_id>
+</uppgift>
+<uppgift>
+<kod datatype="string">en</kod>
+<uppgift datatype="string"></uppgift>
+<typ datatype="string">titlar</typ>
+<intressent_id datatype="string">0705556766027</intressent_id>
+<hangar_id datatype="int32">2343633</hangar_id>
+</uppgift>
+</personuppgift>
+</person>

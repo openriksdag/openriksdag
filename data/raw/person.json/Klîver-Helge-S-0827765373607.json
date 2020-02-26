@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "4970e801-d69d-4808-9c14-662dc17bcd30",
+    "sourceid": "54056cce-0318-4aff-9add-cc1c83787cc7",
+    "intressent_id": "0827765373607",
+    "hangar_id": "2341686",
+    "fodd_ar": "1925",
+    "kon": "man",
+    "efternamn": "Klöver",
+    "tilltalsnamn": "Helge",
+    "sorteringsnamn": "Klöver,Helge",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/54056cce-0318-4aff-9add-cc1c83787cc7",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/54056cce-0318-4aff-9add-cc1c83787cc7_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/54056cce-0318-4aff-9add-cc1c83787cc7_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/54056cce-0318-4aff-9add-cc1c83787cc7_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0827765373607",
+          "hangar_id": "2341686",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0827765373607",
+          "hangar_id": "2341686",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0827765373607",
+          "hangar_id": "2341686",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1976-10-04",
+          "tom": "1979-10-01",
+          "uppgift": "",
+          "intressent_id": "0827765373607",
+          "hangar_id": "2341686",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "järnvägsexpeditör",
+          "typ": "titlar",
+          "intressent_id": "0827765373607",
+          "hangar_id": "2341686"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0827765373607",
+          "hangar_id": "2341686"
+        }
+      ]
+    }
+  }
+}

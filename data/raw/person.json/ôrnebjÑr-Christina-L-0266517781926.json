@@ -1,0 +1,208 @@
+{
+  "person": {
+    "hangar_guid": "a23e8bb2-b1bf-49d3-8d8a-2e1cea6a643f",
+    "sourceid": "165a1fcd-57f6-4f98-8f0d-9f45313dedf9",
+    "intressent_id": "0266517781926",
+    "hangar_id": "3057385",
+    "fodd_ar": "1979",
+    "kon": "kvinna",
+    "efternamn": "Örnebjär",
+    "tilltalsnamn": "Christina",
+    "sorteringsnamn": "Örnebjär,Christina",
+    "iort": "",
+    "parti": "L",
+    "valkrets": "Örebro län",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/165a1fcd-57f6-4f98-8f0d-9f45313dedf9",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/165a1fcd-57f6-4f98-8f0d-9f45313dedf9_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/165a1fcd-57f6-4f98-8f0d-9f45313dedf9_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/165a1fcd-57f6-4f98-8f0d-9f45313dedf9_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "196",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2015-04-20",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0266517781926",
+          "hangar_id": "3057385",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "25",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0266517781926",
+          "hangar_id": "3057385",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "14",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2015-04-22",
+          "tom": "2018-09-24",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0266517781926",
+          "hangar_id": "3057385",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "14",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-01-26",
+          "tom": "2018-09-24",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0266517781926",
+          "hangar_id": "3057385",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "24",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-11-09",
+          "tom": "2018-01-26",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0266517781926",
+          "hangar_id": "3057385",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "14",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2015-04-22",
+          "tom": "2018-09-24",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0266517781926",
+          "hangar_id": "3057385",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "14",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-01-14",
+          "tom": "2016-09-08",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0266517781926",
+          "hangar_id": "3057385",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "26",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0266517781926",
+          "hangar_id": "3057385",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "CKrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "14",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-03-13",
+          "tom": "2018-05-24",
+          "uppgift": "Sammansatta civil- och kulturutskottet",
+          "intressent_id": "0266517781926",
+          "hangar_id": "3057385",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "christina.ornebjar[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0266517781926",
+          "hangar_id": "3057385"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "64576",
+          "typ": "telefonnummer",
+          "intressent_id": "0266517781926",
+          "hangar_id": "3057385"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Lärare",
+          "typ": "titlar",
+          "intressent_id": "0266517781926",
+          "hangar_id": "3057385"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0266517781926",
+          "hangar_id": "3057385"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0266517781926",
+          "hangar_id": "3057385"
+        }
+      ]
+    }
+  }
+}

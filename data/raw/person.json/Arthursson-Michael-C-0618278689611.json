@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "2b3939e7-0f94-4192-b12d-27c3f47b391a",
+    "sourceid": "32a23826-6fd4-4a82-bcef-6bc64df3007d",
+    "intressent_id": "0618278689611",
+    "hangar_id": "4467795",
+    "fodd_ar": "1958",
+    "kon": "man",
+    "efternamn": "Arthursson",
+    "tilltalsnamn": "Michael",
+    "sorteringsnamn": "Arthursson,Michael",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "",
+    "status": "",
+    "person_url_xml": "http://data.riksdagen.se/person/32a23826-6fd4-4a82-bcef-6bc64df3007d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/32a23826-6fd4-4a82-bcef-6bc64df3007d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/32a23826-6fd4-4a82-bcef-6bc64df3007d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/32a23826-6fd4-4a82-bcef-6bc64df3007d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "C",
+        "roll_kod": "Partisekreterare",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "partiuppdrag",
+        "from": "2010-11-17",
+        "tom": "",
+        "uppgift": "Centerpartiet",
+        "intressent_id": "0618278689611",
+        "hangar_id": "4467795",
+        "sortering": "35",
+        "organ_sortering": "",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

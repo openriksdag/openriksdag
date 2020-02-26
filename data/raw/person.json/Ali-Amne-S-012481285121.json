@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "54ae226c-5e63-41a7-9401-75028bc28781",
+    "sourceid": "2a3b7185-7802-4993-ba21-c592db4df350",
+    "intressent_id": "012481285121",
+    "hangar_id": "3057106",
+    "fodd_ar": "1990",
+    "kon": "kvinna",
+    "efternamn": "Ali",
+    "tilltalsnamn": "Amne",
+    "sorteringsnamn": "Ali,Amne",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Stockholms kommun",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/2a3b7185-7802-4993-ba21-c592db4df350",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2a3b7185-7802-4993-ba21-c592db4df350_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2a3b7185-7802-4993-ba21-c592db4df350_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2a3b7185-7802-4993-ba21-c592db4df350_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "281",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2018-03-01",
+          "tom": "2018-05-31",
+          "uppgift": "Emanuel Öz",
+          "intressent_id": "012481285121",
+          "hangar_id": "3057106",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-03-01",
+          "tom": "2018-05-31",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "012481285121",
+          "hangar_id": "3057106",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-03-01",
+          "tom": "2018-05-31",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "012481285121",
+          "hangar_id": "3057106",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "amne.ali[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "012481285121",
+          "hangar_id": "3057106"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "64826",
+          "typ": "telefonnummer",
+          "intressent_id": "012481285121",
+          "hangar_id": "3057106"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "012481285121",
+          "hangar_id": "3057106"
+        }
+      ]
+    }
+  }
+}

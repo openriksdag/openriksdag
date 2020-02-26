@@ -1,0 +1,48 @@
+{
+  "person": {
+    "hangar_guid": "9be20ef4-56e1-42fd-83fd-2bad62142fea",
+    "sourceid": "0a5b917a-eb86-47e9-bee8-11dd69718a69",
+    "intressent_id": "0394664838002",
+    "hangar_id": "2821455",
+    "fodd_ar": "1948",
+    "kon": "man",
+    "efternamn": "Nilsson",
+    "tilltalsnamn": "Jens",
+    "sorteringsnamn": "Nilsson,Jens",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/0a5b917a-eb86-47e9-bee8-11dd69718a69",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0a5b917a-eb86-47e9-bee8-11dd69718a69_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0a5b917a-eb86-47e9-bee8-11dd69718a69_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0a5b917a-eb86-47e9-bee8-11dd69718a69_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "EP",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "11",
+        "status": "",
+        "typ": "Europaparlamentet",
+        "from": "2011-12-01",
+        "tom": "2018-03-12",
+        "uppgift": "Europaparlamentet",
+        "intressent_id": "0394664838002",
+        "hangar_id": "2821455",
+        "sortering": "30",
+        "organ_sortering": "100",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Webbsida",
+        "uppgift": "http://www.europarl.europa.eu/meps/sv/111024/JENS_NILSSON.html",
+        "typ": "eadress",
+        "intressent_id": "0394664838002",
+        "hangar_id": "2821455"
+      }
+    }
+  }
+}

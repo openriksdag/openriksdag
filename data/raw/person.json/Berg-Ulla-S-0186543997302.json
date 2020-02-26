@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "7bf516c5-40d5-4271-af25-7d2bcf25a275",
+    "sourceid": "658f32a5-c6ab-473f-92b6-b70391f65dac",
+    "intressent_id": "0186543997302",
+    "hangar_id": "2342395",
+    "fodd_ar": "1946",
+    "kon": "kvinna",
+    "efternamn": "Berg",
+    "tilltalsnamn": "Ulla",
+    "sorteringsnamn": "Berg,Ulla",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/658f32a5-c6ab-473f-92b6-b70391f65dac",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/658f32a5-c6ab-473f-92b6-b70391f65dac_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/658f32a5-c6ab-473f-92b6-b70391f65dac_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/658f32a5-c6ab-473f-92b6-b70391f65dac_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "278",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0186543997302",
+          "hangar_id": "2342395",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0186543997302",
+          "hangar_id": "2342395",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "0186543997302",
+          "hangar_id": "2342395",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

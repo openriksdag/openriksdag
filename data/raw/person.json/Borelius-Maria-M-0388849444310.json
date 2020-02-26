@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "19f9810d-46fa-4f93-a47a-691a95716e14",
+    "sourceid": "c0faea23-edbe-416e-9b07-bc36087613d0",
+    "intressent_id": "0388849444310",
+    "hangar_id": "2343115",
+    "fodd_ar": "1960",
+    "kon": "kvinna",
+    "efternamn": "Borelius",
+    "tilltalsnamn": "Maria",
+    "sorteringsnamn": "Borelius,Maria",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/c0faea23-edbe-416e-9b07-bc36087613d0",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c0faea23-edbe-416e-9b07-bc36087613d0_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c0faea23-edbe-416e-9b07-bc36087613d0_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c0faea23-edbe-416e-9b07-bc36087613d0_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "UD",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Departement",
+          "from": "2006-10-06",
+          "tom": "2006-10-13",
+          "uppgift": "Utrikesdepartementet",
+          "intressent_id": "0388849444310",
+          "hangar_id": "2343115",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "282",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-12",
+          "tom": "2006-10-17",
+          "uppgift": "Mikael Sandström 2006-10-06 - 2006-10-12, Eva Öhbom Ekdahl 2006-10-12 - 2006-10-17",
+          "intressent_id": "0388849444310",
+          "hangar_id": "2343115",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "282",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-06",
+          "tom": "2006-10-12",
+          "uppgift": "Mikael Sandström 2006-10-06 - 2006-10-12",
+          "intressent_id": "0388849444310",
+          "hangar_id": "2343115",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "282",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2006-10-05",
+          "uppgift": "",
+          "intressent_id": "0388849444310",
+          "hangar_id": "2343115",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Journalist/Företagare",
+          "typ": "titlar",
+          "intressent_id": "0388849444310",
+          "hangar_id": "2343115"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0388849444310",
+          "hangar_id": "2343115"
+        }
+      ]
+    }
+  }
+}

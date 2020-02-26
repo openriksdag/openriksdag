@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "5da922b2-ee5d-41ae-8919-901b8c1d638e",
+    "sourceid": "49b4c754-dce0-43fd-8eda-d0e5b5e1f276",
+    "intressent_id": "0992508932009",
+    "hangar_id": "2341828",
+    "fodd_ar": "1933",
+    "kon": "man",
+    "efternamn": "Johansson",
+    "tilltalsnamn": "Kjell",
+    "sorteringsnamn": "Johansson,Kjell",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/49b4c754-dce0-43fd-8eda-d0e5b5e1f276",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/49b4c754-dce0-43fd-8eda-d0e5b5e1f276_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/49b4c754-dce0-43fd-8eda-d0e5b5e1f276_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/49b4c754-dce0-43fd-8eda-d0e5b5e1f276_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "79",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1992-04-10",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0992508932009",
+          "hangar_id": "2341828",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "79",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "1992-03-09",
+          "tom": "1992-04-09",
+          "uppgift": "Conny Sandholm 1992-03-09 - 1992-04-09",
+          "intressent_id": "0992508932009",
+          "hangar_id": "2341828",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "79",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1992-03-08",
+          "uppgift": "",
+          "intressent_id": "0992508932009",
+          "hangar_id": "2341828",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "86",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0992508932009",
+          "hangar_id": "2341828",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0992508932009",
+          "hangar_id": "2341828",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0992508932009",
+          "hangar_id": "2341828",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "fabrikör",
+          "typ": "titlar",
+          "intressent_id": "0992508932009",
+          "hangar_id": "2341828"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0992508932009",
+          "hangar_id": "2341828"
+        }
+      ]
+    }
+  }
+}

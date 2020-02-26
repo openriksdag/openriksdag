@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "aa8d6a9a-0692-44b5-b9d8-e62739111e38",
+    "sourceid": "c19356a0-ed63-4226-aaa7-3764dd633d4d",
+    "intressent_id": "0252645348808",
+    "hangar_id": "2341690",
+    "fodd_ar": "1925",
+    "kon": "man",
+    "efternamn": "Eriksson",
+    "tilltalsnamn": "Jens",
+    "sorteringsnamn": "Eriksson,Jens",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/c19356a0-ed63-4226-aaa7-3764dd633d4d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c19356a0-ed63-4226-aaa7-3764dd633d4d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c19356a0-ed63-4226-aaa7-3764dd633d4d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c19356a0-ed63-4226-aaa7-3764dd633d4d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "219",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1989-01-08",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0252645348808",
+          "hangar_id": "2341690",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "219",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "1988-11-07",
+          "tom": "1989-01-07",
+          "uppgift": "Thor Mattisson 1988-11-07 - 1989-01-07",
+          "intressent_id": "0252645348808",
+          "hangar_id": "2341690",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "219",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1988-11-06",
+          "uppgift": "",
+          "intressent_id": "0252645348808",
+          "hangar_id": "2341690",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0252645348808",
+          "hangar_id": "2341690",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0252645348808",
+          "hangar_id": "2341690",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0252645348808",
+          "hangar_id": "2341690",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "fiskare",
+          "typ": "titlar",
+          "intressent_id": "0252645348808",
+          "hangar_id": "2341690"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0252645348808",
+          "hangar_id": "2341690"
+        }
+      ]
+    }
+  }
+}

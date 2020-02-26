@@ -1,0 +1,48 @@
+{
+  "person": {
+    "hangar_guid": "3a345bfc-def6-4e19-8f63-ab313fd49b0a",
+    "sourceid": "973c0c69-971b-46e6-9c79-dd211f599288",
+    "intressent_id": "0206034257412",
+    "hangar_id": "2343546",
+    "fodd_ar": "1973",
+    "kon": "man",
+    "efternamn": "Sandgren",
+    "tilltalsnamn": "Jacob",
+    "sorteringsnamn": "Sandgren,Jacob",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Södermanlands län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/973c0c69-971b-46e6-9c79-dd211f599288",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/973c0c69-971b-46e6-9c79-dd211f599288_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/973c0c69-971b-46e6-9c79-dd211f599288_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/973c0c69-971b-46e6-9c79-dd211f599288_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Riksdagsledamot",
+        "ordningsnummer": "251",
+        "status": "Tjänstgörande",
+        "typ": "kammaruppdrag",
+        "from": "2018-05-14",
+        "tom": "2018-05-17",
+        "uppgift": "",
+        "intressent_id": "0206034257412",
+        "hangar_id": "2343546",
+        "sortering": "10",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "10"
+      }
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "true",
+        "typ": "val",
+        "intressent_id": "0206034257412",
+        "hangar_id": "2343546"
+      }
+    }
+  }
+}

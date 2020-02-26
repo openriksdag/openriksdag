@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "bfc68c4b-08c6-473a-9ed4-546892f7d847",
+    "sourceid": "efe11633-2205-4f47-a9eb-6707b60d86e1",
+    "intressent_id": "0829600202519",
+    "hangar_id": "2343208",
+    "fodd_ar": "1962",
+    "kon": "kvinna",
+    "efternamn": "Lundström",
+    "tilltalsnamn": "Anna-Karin",
+    "sorteringsnamn": "Lundström,Anna-Karin",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Stockholms län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/efe11633-2205-4f47-a9eb-6707b60d86e1",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/efe11633-2205-4f47-a9eb-6707b60d86e1_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/efe11633-2205-4f47-a9eb-6707b60d86e1_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/efe11633-2205-4f47-a9eb-6707b60d86e1_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Ersättare",
+        "ordningsnummer": "0",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "2006-05-31",
+        "tom": "2006-07-15",
+        "uppgift": "Cinnika Beiming",
+        "intressent_id": "0829600202519",
+        "hangar_id": "2343208",
+        "sortering": "45",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Kommunalråd",
+          "typ": "titlar",
+          "intressent_id": "0829600202519",
+          "hangar_id": "2343208"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0829600202519",
+          "hangar_id": "2343208"
+        }
+      ]
+    }
+  }
+}

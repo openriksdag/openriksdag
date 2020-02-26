@@ -1,0 +1,49 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5047201</hangar_id>
+    <dok_id datatype="string">H701JuU31</dok_id>
+    <rm datatype="string">2019/20</rm>
+    <beteckning datatype="string">JuU31</beteckning>
+    <typ datatype="string">bet</typ>
+    <subtyp datatype="string">bet</subtyp>
+    <doktyp datatype="string">bet</doktyp>
+    <typrubrik datatype="string">Betänkande 2019/20:JuU31</typrubrik>
+    <dokumentnamn datatype="string">Betänkande</dokumentnamn>
+    <debattnamn datatype="string">Debatt om förslag</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">JuU</organ>
+    <mottagare datatype="string"></mottagare>
+    <nummer datatype="int32">31</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2019-11-15 00:00:00</datum>
+    <systemdatum datatype="datetime">2019-12-12 12:19:32</systemdatum>
+    <publicerad datatype="datetime">2019-11-15 11:14:05</publicerad>
+    <titel datatype="string">Omständigheter som särskilt ska beaktas som skäl för livstids fängelse för mord</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">planerat</status>
+    <htmlformat datatype="string"></htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">Brus</source>
+    <sourceid datatype="string">eea291ea-8922-4634-9a01-9fe71af8b637</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H701JuU31/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H701JuU31</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H701JuU31</dokumentstatus_url_xml>
+    <utskottsforslag_url_xml datatype="stext">http://data.riksdagen.se/utskottsforslag/H701JuU31</utskottsforslag_url_xml>
+    <html datatype="text">&lt;h2&gt;Omständigheter som särskilt ska beaktas som skäl för livstids fängelse för mord&lt;/h2&gt;
+Dokumentet är inte publicerat</html>
+  </dokument>
+<dokreferens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:50 med anledning av prop. 2018/19:138 Straffet för mord</uppgift>
+<ref_dok_id datatype="string">H70250</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">50</ref_dok_bet>
+<ref_dok_titel datatype="string">med anledning av prop. 2018/19:138 Straffet för mord</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+</dokreferens>
+<debatt /></dokumentstatus>

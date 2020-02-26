@@ -1,0 +1,114 @@
+{
+  "person": {
+    "hangar_guid": "5776dbcd-11b8-4eec-93d9-e319b6b7046b",
+    "sourceid": "b9274a25-5d39-48cf-a015-103b3f41e385",
+    "intressent_id": "0921688244311",
+    "hangar_id": "2343029",
+    "fodd_ar": "1958",
+    "kon": "kvinna",
+    "efternamn": "Johnsson",
+    "tilltalsnamn": "Eva",
+    "sorteringsnamn": "Johnsson,Eva",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Kronobergs län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/b9274a25-5d39-48cf-a015-103b3f41e385",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b9274a25-5d39-48cf-a015-103b3f41e385_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b9274a25-5d39-48cf-a015-103b3f41e385_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b9274a25-5d39-48cf-a015-103b3f41e385_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "255",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0921688244311",
+          "hangar_id": "2343029",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2009-02-09",
+          "tom": "2010-10-04",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0921688244311",
+          "hangar_id": "2343029",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "22",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0921688244311",
+          "hangar_id": "2343029",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0921688244311",
+          "hangar_id": "2343029",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Grundskollärare",
+          "typ": "titlar",
+          "intressent_id": "0921688244311",
+          "hangar_id": "2343029"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0921688244311",
+          "hangar_id": "2343029"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0921688244311",
+          "hangar_id": "2343029"
+        }
+      ]
+    }
+  }
+}

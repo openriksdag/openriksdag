@@ -1,0 +1,114 @@
+{
+  "person": {
+    "hangar_guid": "78d309e1-7545-46b6-862c-ef0892ea077c",
+    "sourceid": "c8fd3a7a-0a24-4694-96e0-491028bf2b5d",
+    "intressent_id": "0314880166319",
+    "hangar_id": "2369445",
+    "fodd_ar": "1962",
+    "kon": "kvinna",
+    "efternamn": "Karlsson",
+    "tilltalsnamn": "Agneta",
+    "sorteringsnamn": "Karlsson,Agneta",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Stockholms län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/c8fd3a7a-0a24-4694-96e0-491028bf2b5d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c8fd3a7a-0a24-4694-96e0-491028bf2b5d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c8fd3a7a-0a24-4694-96e0-491028bf2b5d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c8fd3a7a-0a24-4694-96e0-491028bf2b5d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "115",
+          "status": "Ledig Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2014-10-14",
+          "tom": "2018-09-24",
+          "uppgift": "Ibrahim Baylan   Offentligt uppdrag",
+          "intressent_id": "0314880166319",
+          "hangar_id": "2369445",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "115",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2014-10-03",
+          "tom": "2014-10-13",
+          "uppgift": "Ibrahim Baylan",
+          "intressent_id": "0314880166319",
+          "hangar_id": "2369445",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "143",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2013-11-04",
+          "tom": "2013-12-31",
+          "uppgift": "Ardalan Shekarabi",
+          "intressent_id": "0314880166319",
+          "hangar_id": "2369445",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "8",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2014-11-25",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0314880166319",
+          "hangar_id": "2369445",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2013-11-04",
+          "tom": "2013-12-31",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0314880166319",
+          "hangar_id": "2369445",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "false",
+        "typ": "val",
+        "intressent_id": "0314880166319",
+        "hangar_id": "2369445"
+      }
+    }
+  }
+}

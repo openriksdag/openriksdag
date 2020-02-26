@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "8790ec84-04cb-421a-8659-b88f9911acb0",
+    "sourceid": "15aca749-df06-40e1-8382-f79773d8595c",
+    "intressent_id": "",
+    "hangar_id": "4788852",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Lundholm",
+    "tilltalsnamn": "Mikael",
+    "sorteringsnamn": "Lundholm,Mikael",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Ledamot i Riksbanksfullmäktige",
+    "person_url_xml": "http://data.riksdagen.se/person/15aca749-df06-40e1-8382-f79773d8595c",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/15aca749-df06-40e1-8382-f79773d8595c_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/15aca749-df06-40e1-8382-f79773d8595c_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/15aca749-df06-40e1-8382-f79773d8595c_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "RB",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-10-09",
+          "tom": "2022-10-09",
+          "uppgift": "Riksbanksfullmäktige",
+          "intressent_id": "",
+          "hangar_id": "4788852",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RB",
+          "roll_kod": "Vice ordförande",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2014-10-24",
+          "tom": "2018-10-09",
+          "uppgift": "Riksbanksfullmäktige",
+          "intressent_id": "",
+          "hangar_id": "4788852",
+          "sortering": "20",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RB",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2014-10-14",
+          "tom": "2014-10-24",
+          "uppgift": "Riksbanksfullmäktige",
+          "intressent_id": "",
+          "hangar_id": "4788852",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

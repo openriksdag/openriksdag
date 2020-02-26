@@ -1,0 +1,105 @@
+{
+  "person": {
+    "hangar_guid": "29ed1da5-c33c-4b3d-8bcd-ec7ca500bb03",
+    "sourceid": "b1f40608-359e-4d41-99f1-9ca9fa6c1fdf",
+    "intressent_id": "082139988919",
+    "hangar_id": "2343109",
+    "fodd_ar": "1960",
+    "kon": "kvinna",
+    "efternamn": "Hermansson",
+    "tilltalsnamn": "Kerstin",
+    "sorteringsnamn": "Hermansson,Kerstin",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Västra Götalands läns södra",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/b1f40608-359e-4d41-99f1-9ca9fa6c1fdf",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b1f40608-359e-4d41-99f1-9ca9fa6c1fdf_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b1f40608-359e-4d41-99f1-9ca9fa6c1fdf_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b1f40608-359e-4d41-99f1-9ca9fa6c1fdf_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "266",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2007-01-01",
+          "tom": "2007-03-31",
+          "uppgift": "Claes Västerteg",
+          "intressent_id": "082139988919",
+          "hangar_id": "2343109",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-01-01",
+          "tom": "2007-03-31",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "082139988919",
+          "hangar_id": "2343109",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-01-01",
+          "tom": "2007-03-31",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "082139988919",
+          "hangar_id": "2343109",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Webbsida",
+          "uppgift": "http://www.centerpartiet.se/kerstin.hermansson",
+          "typ": "eadress",
+          "intressent_id": "082139988919",
+          "hangar_id": "2343109"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "familjeföretagare",
+          "typ": "titlar",
+          "intressent_id": "082139988919",
+          "hangar_id": "2343109"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "082139988919",
+          "hangar_id": "2343109"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "082139988919",
+          "hangar_id": "2343109"
+        }
+      ]
+    }
+  }
+}

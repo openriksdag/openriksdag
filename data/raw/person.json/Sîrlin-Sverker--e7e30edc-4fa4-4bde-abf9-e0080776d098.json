@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "452aa557-61c6-495e-b2d8-7a55a1846fc6",
+    "sourceid": "e7e30edc-4fa4-4bde-abf9-e0080776d098",
+    "intressent_id": "",
+    "hangar_id": "5054700",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Sörlin",
+    "tilltalsnamn": "Sverker",
+    "sorteringsnamn": "Sörlin,Sverker",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Ledamot i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/e7e30edc-4fa4-4bde-abf9-e0080776d098",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e7e30edc-4fa4-4bde-abf9-e0080776d098_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e7e30edc-4fa4-4bde-abf9-e0080776d098_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e7e30edc-4fa4-4bde-abf9-e0080776d098_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RJ",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "8",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2020-02-05",
+        "tom": "2022-10-31",
+        "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+        "intressent_id": "",
+        "hangar_id": "5054700",
+        "sortering": "30",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

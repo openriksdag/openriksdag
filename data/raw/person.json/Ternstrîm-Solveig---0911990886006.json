@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "0cc3df48-d814-4300-91bf-5345d4c22c66",
+    "sourceid": "cee84ede-7ee0-41f5-8f24-8612ad791788",
+    "intressent_id": "0911990886006",
+    "hangar_id": "2341965",
+    "fodd_ar": "1937",
+    "kon": "kvinna",
+    "efternamn": "Ternström",
+    "tilltalsnamn": "Solveig",
+    "sorteringsnamn": "Ternström,Solveig",
+    "iort": "",
+    "parti": "-",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/cee84ede-7ee0-41f5-8f24-8612ad791788",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cee84ede-7ee0-41f5-8f24-8612ad791788_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cee84ede-7ee0-41f5-8f24-8612ad791788_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cee84ede-7ee0-41f5-8f24-8612ad791788_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "209",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0911990886006",
+          "hangar_id": "2341965",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-07-22",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0911990886006",
+          "hangar_id": "2341965",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "24",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-06-18",
+          "tom": "2010-07-22",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0911990886006",
+          "hangar_id": "2341965",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Skådespelare och producent",
+          "typ": "titlar",
+          "intressent_id": "0911990886006",
+          "hangar_id": "2341965"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0911990886006",
+          "hangar_id": "2341965"
+        }
+      ]
+    }
+  }
+}

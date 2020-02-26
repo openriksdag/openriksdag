@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "00fa2b1e-01bf-446e-8400-3c8b8d7df16c",
+    "sourceid": "7af9e12f-26f7-4712-b20f-05647991f50a",
+    "intressent_id": "0322353141309",
+    "hangar_id": "2342331",
+    "fodd_ar": "1945",
+    "kon": "man",
+    "efternamn": "Eriksson",
+    "tilltalsnamn": "Ulf",
+    "sorteringsnamn": "Eriksson,Ulf",
+    "iort": "",
+    "parti": "NYD",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/7af9e12f-26f7-4712-b20f-05647991f50a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7af9e12f-26f7-4712-b20f-05647991f50a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7af9e12f-26f7-4712-b20f-05647991f50a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7af9e12f-26f7-4712-b20f-05647991f50a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "310",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0322353141309",
+          "hangar_id": "2342331",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1992-03-22",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0322353141309",
+          "hangar_id": "2342331",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1992-03-23",
+          "tom": "1994-10-02",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0322353141309",
+          "hangar_id": "2342331",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0322353141309",
+          "hangar_id": "2342331",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "ekonom",
+          "typ": "titlar",
+          "intressent_id": "0322353141309",
+          "hangar_id": "2342331"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0322353141309",
+          "hangar_id": "2342331"
+        }
+      ]
+    }
+  }
+}

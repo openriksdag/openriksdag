@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "df8a7e1d-a2d7-4703-afdc-0ca2a0515916",
+    "sourceid": "4613760b-8d74-4751-be25-cb64830892e7",
+    "intressent_id": "0979278953316",
+    "hangar_id": "2342971",
+    "fodd_ar": "1957",
+    "kon": "man",
+    "efternamn": "Frid",
+    "tilltalsnamn": "Egon",
+    "sorteringsnamn": "Frid,Egon",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "Västra Götalands läns östra",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/4613760b-8d74-4751-be25-cb64830892e7",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4613760b-8d74-4751-be25-cb64830892e7_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4613760b-8d74-4751-be25-cb64830892e7_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4613760b-8d74-4751-be25-cb64830892e7_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "160",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0979278953316",
+          "hangar_id": "2342971",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "V",
+          "roll_kod": "Kvittningsman",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "partiuppdrag",
+          "from": "2006-10-02",
+          "tom": "2010-10-04",
+          "uppgift": "Vänsterpartiet",
+          "intressent_id": "0979278953316",
+          "hangar_id": "2342971",
+          "sortering": "",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "14",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0979278953316",
+          "hangar_id": "2342971",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "14",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0979278953316",
+          "hangar_id": "2342971",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Socionom/Enhetschef",
+          "typ": "titlar",
+          "intressent_id": "0979278953316",
+          "hangar_id": "2342971"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0979278953316",
+          "hangar_id": "2342971"
+        }
+      ]
+    }
+  }
+}

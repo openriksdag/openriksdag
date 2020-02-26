@@ -1,0 +1,82 @@
+{
+  "person": {
+    "hangar_guid": "360372b4-9d69-4652-9224-46cc934e5e01",
+    "sourceid": "d7c3286f-83e4-11d4-ae60-0050040c9b55",
+    "intressent_id": "0463667731519",
+    "hangar_id": "2342873",
+    "fodd_ar": "1955",
+    "kon": "kvinna",
+    "efternamn": "Oscarsson",
+    "tilltalsnamn": "Yvonne",
+    "sorteringsnamn": "Oscarsson,Yvonne",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "Gävleborgs län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/d7c3286f-83e4-11d4-ae60-0050040c9b55",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c3286f-83e4-11d4-ae60-0050040c9b55_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c3286f-83e4-11d4-ae60-0050040c9b55_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c3286f-83e4-11d4-ae60-0050040c9b55_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "313",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1998-10-05",
+          "tom": "2002-09-30",
+          "uppgift": "",
+          "intressent_id": "0463667731519",
+          "hangar_id": "2342873",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "2002-09-30",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0463667731519",
+          "hangar_id": "2342873",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "behandlingsassisten/lärare",
+          "typ": "titlar",
+          "intressent_id": "0463667731519",
+          "hangar_id": "2342873"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Care Worker/Teacher",
+          "typ": "titlar",
+          "intressent_id": "0463667731519",
+          "hangar_id": "2342873"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0463667731519",
+          "hangar_id": "2342873"
+        }
+      ]
+    }
+  }
+}

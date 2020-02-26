@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "bfeda7e0-c74f-4944-84b3-ebcd70aba529",
+    "sourceid": "38188438-da44-45eb-a239-2dbce78a32a0",
+    "intressent_id": "",
+    "hangar_id": "5005120",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "I. Lindberg",
+    "tilltalsnamn": "Staffan",
+    "sorteringsnamn": "I. Lindberg,Staffan",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Personlig suppleant i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/38188438-da44-45eb-a239-2dbce78a32a0",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/38188438-da44-45eb-a239-2dbce78a32a0_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/38188438-da44-45eb-a239-2dbce78a32a0_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/38188438-da44-45eb-a239-2dbce78a32a0_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RJ",
+        "roll_kod": "Personlig suppleant",
+        "ordningsnummer": "7",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2018-11-01",
+        "tom": "2020-10-31",
+        "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+        "intressent_id": "",
+        "hangar_id": "5005120",
+        "sortering": "48",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

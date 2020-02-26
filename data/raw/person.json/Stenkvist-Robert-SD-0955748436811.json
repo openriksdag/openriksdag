@@ -1,0 +1,185 @@
+{
+  "person": {
+    "hangar_guid": "d841375b-7eae-4913-9c4a-24ae4911e071",
+    "sourceid": "0cb27c59-4f9e-4d84-a8e2-f45325b5a93c",
+    "intressent_id": "0955748436811",
+    "hangar_id": "3057117",
+    "fodd_ar": "1958",
+    "kon": "man",
+    "efternamn": "Stenkvist",
+    "tilltalsnamn": "Robert",
+    "sorteringsnamn": "Stenkvist,Robert",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Stockholms län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/0cb27c59-4f9e-4d84-a8e2-f45325b5a93c",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0cb27c59-4f9e-4d84-a8e2-f45325b5a93c_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0cb27c59-4f9e-4d84-a8e2-f45325b5a93c_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0cb27c59-4f9e-4d84-a8e2-f45325b5a93c_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "176",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0955748436811",
+          "hangar_id": "3057117",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "131",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-30",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0955748436811",
+          "hangar_id": "3057117",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0955748436811",
+          "hangar_id": "3057117",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0955748436811",
+          "hangar_id": "3057117",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2015-04-24",
+          "tom": "2018-09-24",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0955748436811",
+          "hangar_id": "3057117",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2015-04-24",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0955748436811",
+          "hangar_id": "3057117",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-05-15",
+          "tom": "2018-06-14",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0955748436811",
+          "hangar_id": "3057117",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "34",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-09",
+          "tom": "2022-10-04",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0955748436811",
+          "hangar_id": "3057117",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "robert.stenkvist[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0955748436811",
+          "hangar_id": "3057117"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Fritidspedagog.",
+          "typ": "titlar",
+          "intressent_id": "0955748436811",
+          "hangar_id": "3057117"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0955748436811",
+          "hangar_id": "3057117"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0955748436811",
+          "hangar_id": "3057117"
+        }
+      ]
+    }
+  }
+}

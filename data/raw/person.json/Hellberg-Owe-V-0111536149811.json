@@ -1,0 +1,171 @@
+{
+  "person": {
+    "hangar_guid": "5c1e580b-d169-4377-a456-d3a5fa646a8a",
+    "sourceid": "d7c322c5-83e4-11d4-ae60-0050040c9b55",
+    "intressent_id": "0111536149811",
+    "hangar_id": "2342779",
+    "fodd_ar": "1953",
+    "kon": "man",
+    "efternamn": "Hellberg",
+    "tilltalsnamn": "Owe",
+    "sorteringsnamn": "Hellberg,Owe",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "Gävleborgs län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/d7c322c5-83e4-11d4-ae60-0050040c9b55",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c322c5-83e4-11d4-ae60-0050040c9b55_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c322c5-83e4-11d4-ae60-0050040c9b55_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c322c5-83e4-11d4-ae60-0050040c9b55_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "304",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2002-09-30",
+          "tom": "2006-10-02",
+          "uppgift": "",
+          "intressent_id": "0111536149811",
+          "hangar_id": "2342779",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "306",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1998-10-05",
+          "tom": "2002-09-30",
+          "uppgift": "",
+          "intressent_id": "0111536149811",
+          "hangar_id": "2342779",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "310",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1994-10-03",
+          "tom": "1998-10-05",
+          "uppgift": "",
+          "intressent_id": "0111536149811",
+          "hangar_id": "2342779",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1995-10-11",
+          "tom": "1998-10-04",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0111536149811",
+          "hangar_id": "2342779",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-18",
+          "tom": "1995-10-10",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0111536149811",
+          "hangar_id": "2342779",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Förste vice ordförande",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "0111536149811",
+          "hangar_id": "2342779",
+          "sortering": "15",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "2002-09-30",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "0111536149811",
+          "hangar_id": "2342779",
+          "sortering": "30",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1998-10-04",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "0111536149811",
+          "hangar_id": "2342779",
+          "sortering": "30",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "lärare",
+          "typ": "titlar",
+          "intressent_id": "0111536149811",
+          "hangar_id": "2342779"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Teacher",
+          "typ": "titlar",
+          "intressent_id": "0111536149811",
+          "hangar_id": "2342779"
+        }
+      ]
+    }
+  }
+}

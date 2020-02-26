@@ -1,0 +1,130 @@
+{
+  "person": {
+    "hangar_guid": "5e4da014-4aa7-4fa9-9b17-e9d4df4b783a",
+    "sourceid": "7baf1b6b-1ec5-4aee-8d2a-3403fec1d080",
+    "intressent_id": "0783865993627",
+    "hangar_id": "2369550",
+    "fodd_ar": "1974",
+    "kon": "man",
+    "efternamn": "Avenborg",
+    "tilltalsnamn": "Tomas",
+    "sorteringsnamn": "Avenborg,Tomas",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Skåne läns södra",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/7baf1b6b-1ec5-4aee-8d2a-3403fec1d080",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7baf1b6b-1ec5-4aee-8d2a-3403fec1d080_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7baf1b6b-1ec5-4aee-8d2a-3403fec1d080_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7baf1b6b-1ec5-4aee-8d2a-3403fec1d080_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "223",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2012-03-12",
+          "tom": "2012-06-22",
+          "uppgift": "Linda Wemmert",
+          "intressent_id": "0783865993627",
+          "hangar_id": "2369550",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "223",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2011-10-10",
+          "tom": "2011-12-23",
+          "uppgift": "Linda Wemmert",
+          "intressent_id": "0783865993627",
+          "hangar_id": "2369550",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "258",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2011-01-11",
+          "tom": "2011-03-04",
+          "uppgift": "Anders Hansson",
+          "intressent_id": "0783865993627",
+          "hangar_id": "2369550",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-01-26",
+          "tom": "2011-03-04",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0783865993627",
+          "hangar_id": "2369550",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-03-12",
+          "tom": "2012-06-22",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0783865993627",
+          "hangar_id": "2369550",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-10-10",
+          "tom": "2011-12-23",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0783865993627",
+          "hangar_id": "2369550",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "tomas.avenborg[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0783865993627",
+        "hangar_id": "2369550"
+      }
+    }
+  }
+}

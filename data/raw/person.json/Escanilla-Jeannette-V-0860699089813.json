@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "a282251d-1c4e-4c1d-8551-0a4051b21bfb",
+    "sourceid": "e51b1ecf-b62b-4ecf-93f6-94b550b1f62c",
+    "intressent_id": "0860699089813",
+    "hangar_id": "3057159",
+    "fodd_ar": "1961",
+    "kon": "kvinna",
+    "efternamn": "Escanilla",
+    "tilltalsnamn": "Jeannette",
+    "sorteringsnamn": "Escanilla,Jeannette",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "Uppsala län",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/e51b1ecf-b62b-4ecf-93f6-94b550b1f62c",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e51b1ecf-b62b-4ecf-93f6-94b550b1f62c_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e51b1ecf-b62b-4ecf-93f6-94b550b1f62c_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e51b1ecf-b62b-4ecf-93f6-94b550b1f62c_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Riksdagsledamot",
+        "ordningsnummer": "116",
+        "status": "Tjänstgörande",
+        "typ": "kammaruppdrag",
+        "from": "2018-06-07",
+        "tom": "2018-09-24",
+        "uppgift": "",
+        "intressent_id": "0860699089813",
+        "hangar_id": "3057159",
+        "sortering": "10",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "10"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "jeannette.escanilla[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0860699089813",
+          "hangar_id": "3057159"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0860699089813",
+          "hangar_id": "3057159"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "person": {
+    "hangar_guid": "8ac81864-72de-4cfd-8872-020576abcff2",
+    "sourceid": "994eee01-a983-4409-9455-cd915c86d94d",
+    "intressent_id": "0645111757928",
+    "hangar_id": "5003884",
+    "fodd_ar": "1989",
+    "kon": "kvinna",
+    "efternamn": "Gustafsson",
+    "tilltalsnamn": "Elin",
+    "sorteringsnamn": "Gustafsson,Elin",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Skåne läns södra",
+    "status": "Tjänstgörande statsrådsersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/994eee01-a983-4409-9455-cd915c86d94d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/994eee01-a983-4409-9455-cd915c86d94d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/994eee01-a983-4409-9455-cd915c86d94d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/994eee01-a983-4409-9455-cd915c86d94d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "15",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "Morgan Johansson",
+          "intressent_id": "0645111757928",
+          "hangar_id": "5003884",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0645111757928",
+          "hangar_id": "5003884",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "elin.a.gustafsson[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0645111757928",
+          "hangar_id": "5003884"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Kock/Fil.kand.",
+          "typ": "titlar",
+          "intressent_id": "0645111757928",
+          "hangar_id": "5003884"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0645111757928",
+          "hangar_id": "5003884"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "cbd1d553-7dc9-476f-92a6-da3817bbc20c",
+    "sourceid": "4c06cf83-d52e-4297-9b17-b027a34635c1",
+    "intressent_id": "0968100864203",
+    "hangar_id": "2342023",
+    "fodd_ar": "1939",
+    "kon": "man",
+    "efternamn": "Eliasson",
+    "tilltalsnamn": "Ingemar",
+    "sorteringsnamn": "Eliasson,Ingemar",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/4c06cf83-d52e-4297-9b17-b027a34635c1",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4c06cf83-d52e-4297-9b17-b027a34635c1_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4c06cf83-d52e-4297-9b17-b027a34635c1_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4c06cf83-d52e-4297-9b17-b027a34635c1_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "50",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1990-06-30",
+          "uppgift": "",
+          "intressent_id": "0968100864203",
+          "hangar_id": "2342023",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0968100864203",
+          "hangar_id": "2342023",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0968100864203",
+          "hangar_id": "2342023",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0968100864203",
+          "hangar_id": "2342023"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "civilekonom",
+          "typ": "titlar",
+          "intressent_id": "0968100864203",
+          "hangar_id": "2342023"
+        }
+      ]
+    }
+  }
+}

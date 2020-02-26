@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "23d61041-dd1f-4a50-af61-1336abdf3a9d",
+    "sourceid": "2d211f58-34b9-44c9-b2f0-def45ed3e03c",
+    "intressent_id": "0793372891224",
+    "hangar_id": "5003833",
+    "fodd_ar": "1991",
+    "kon": "kvinna",
+    "efternamn": "Manouchi",
+    "tilltalsnamn": "Noria",
+    "sorteringsnamn": "Manouchi,Noria",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Malmö kommun",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/2d211f58-34b9-44c9-b2f0-def45ed3e03c",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2d211f58-34b9-44c9-b2f0-def45ed3e03c_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2d211f58-34b9-44c9-b2f0-def45ed3e03c_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2d211f58-34b9-44c9-b2f0-def45ed3e03c_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "257",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0793372891224",
+          "hangar_id": "5003833",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "17",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-06-17",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0793372891224",
+          "hangar_id": "5003833",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-06-17",
+          "tom": "2022-09-26",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0793372891224",
+          "hangar_id": "5003833",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0793372891224",
+          "hangar_id": "5003833",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "noria.manouchi[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0793372891224",
+        "hangar_id": "5003833"
+      }
+    }
+  }
+}

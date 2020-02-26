@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "bf738643-eb8f-4223-8809-5604cece1296",
+    "sourceid": "a61582d0-62b3-439c-8bd2-a6c6aee4cb34",
+    "intressent_id": "0491930525700",
+    "hangar_id": "2341993",
+    "fodd_ar": "1938",
+    "kon": "kvinna",
+    "efternamn": "Wichne",
+    "tilltalsnamn": "Birgitta",
+    "sorteringsnamn": "Wichne,Birgitta",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Västra Götalands läns södra",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/a61582d0-62b3-439c-8bd2-a6c6aee4cb34",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a61582d0-62b3-439c-8bd2-a6c6aee4cb34_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a61582d0-62b3-439c-8bd2-a6c6aee4cb34_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a61582d0-62b3-439c-8bd2-a6c6aee4cb34_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "237",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1994-10-03",
+          "tom": "1998-10-05",
+          "uppgift": "",
+          "intressent_id": "0491930525700",
+          "hangar_id": "2341993",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1998-10-04",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0491930525700",
+          "hangar_id": "2341993",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1995-01-16",
+          "tom": "1998-10-04",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0491930525700",
+          "hangar_id": "2341993",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1995-01-15",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0491930525700",
+          "hangar_id": "2341993",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "småskollärare",
+          "typ": "titlar",
+          "intressent_id": "0491930525700",
+          "hangar_id": "2341993"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0491930525700",
+          "hangar_id": "2341993"
+        }
+      ]
+    }
+  }
+}

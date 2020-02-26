@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "9105f86b-629d-4487-8a7d-911fdd17f5e1",
+    "sourceid": "97f8de6e-6930-415e-9f5c-05ca3bb407ee",
+    "intressent_id": "0576806909014",
+    "hangar_id": "2342688",
+    "fodd_ar": "1951",
+    "kon": "man",
+    "efternamn": "Kero",
+    "tilltalsnamn": "Ulf",
+    "sorteringsnamn": "Kero,Ulf",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/97f8de6e-6930-415e-9f5c-05ca3bb407ee",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/97f8de6e-6930-415e-9f5c-05ca3bb407ee_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/97f8de6e-6930-415e-9f5c-05ca3bb407ee_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/97f8de6e-6930-415e-9f5c-05ca3bb407ee_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "347",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1994-10-03",
+          "tom": "1998-10-05",
+          "uppgift": "",
+          "intressent_id": "0576806909014",
+          "hangar_id": "2342688",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1998-10-04",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0576806909014",
+          "hangar_id": "2342688",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1998-10-04",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "0576806909014",
+          "hangar_id": "2342688",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "sågverksarbetare",
+          "typ": "titlar",
+          "intressent_id": "0576806909014",
+          "hangar_id": "2342688"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0576806909014",
+          "hangar_id": "2342688"
+        }
+      ]
+    }
+  }
+}

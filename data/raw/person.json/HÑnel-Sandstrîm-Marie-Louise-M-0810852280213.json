@@ -1,0 +1,130 @@
+{
+  "person": {
+    "hangar_guid": "c3deb494-59f0-401a-9b80-f5b07e9f622c",
+    "sourceid": "ddbc56dc-35aa-4c01-828c-5a117e4f2682",
+    "intressent_id": "0810852280213",
+    "hangar_id": "5003921",
+    "fodd_ar": "1968",
+    "kon": "kvinna",
+    "efternamn": "Hänel Sandström",
+    "tilltalsnamn": "Marie-Louise",
+    "sorteringsnamn": "Hänel Sandström,Marie-Louise",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Göteborgs kommun",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/ddbc56dc-35aa-4c01-828c-5a117e4f2682",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ddbc56dc-35aa-4c01-828c-5a117e4f2682_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ddbc56dc-35aa-4c01-828c-5a117e4f2682_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ddbc56dc-35aa-4c01-828c-5a117e4f2682_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "227",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0810852280213",
+          "hangar_id": "5003921",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-06-17",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0810852280213",
+          "hangar_id": "5003921",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "17",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-06-17",
+          "tom": "2022-09-26",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0810852280213",
+          "hangar_id": "5003921",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "17",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-06-17",
+          "tom": "2022-09-26",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0810852280213",
+          "hangar_id": "5003921",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0810852280213",
+          "hangar_id": "5003921",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "95",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2020-02-05",
+          "tom": "2022-09-26",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0810852280213",
+          "hangar_id": "5003921",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "marie-louise.hanel.sandstrom[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0810852280213",
+        "hangar_id": "5003921"
+      }
+    }
+  }
+}

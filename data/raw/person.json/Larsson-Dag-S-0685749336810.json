@@ -1,0 +1,146 @@
+{
+  "person": {
+    "hangar_guid": "aba273d5-7942-4c35-a4cc-ca8ce87ca2b0",
+    "sourceid": "56a35546-926b-4ac3-a101-a157de119e00",
+    "intressent_id": "0685749336810",
+    "hangar_id": "5003673",
+    "fodd_ar": "1960",
+    "kon": "man",
+    "efternamn": "Larsson",
+    "tilltalsnamn": "Dag",
+    "sorteringsnamn": "Larsson,Dag",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Stockholms kommun",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/56a35546-926b-4ac3-a101-a157de119e00",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/56a35546-926b-4ac3-a101-a157de119e00_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/56a35546-926b-4ac3-a101-a157de119e00_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/56a35546-926b-4ac3-a101-a157de119e00_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "243",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0685749336810",
+          "hangar_id": "5003673",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "IPU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2020-01-28",
+          "tom": "2022-10-24",
+          "uppgift": "Riksdagens delegation till Interparlamentariska unionen",
+          "intressent_id": "0685749336810",
+          "hangar_id": "5003673",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "OSSE",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "8",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2019-03-01",
+          "tom": "2022-10-09",
+          "uppgift": "OSSE-delegationen",
+          "intressent_id": "0685749336810",
+          "hangar_id": "5003673",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0685749336810",
+          "hangar_id": "5003673",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0685749336810",
+          "hangar_id": "5003673",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-11-25",
+          "tom": "2022-10-04",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0685749336810",
+          "hangar_id": "5003673",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "dag.larsson[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0685749336810",
+          "hangar_id": "5003673"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Gymnasielärare.",
+          "typ": "titlar",
+          "intressent_id": "0685749336810",
+          "hangar_id": "5003673"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0685749336810",
+          "hangar_id": "5003673"
+        }
+      ]
+    }
+  }
+}

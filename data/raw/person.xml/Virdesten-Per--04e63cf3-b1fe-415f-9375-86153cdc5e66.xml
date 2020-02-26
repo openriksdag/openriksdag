@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">0ebce784-d957-47fc-ac6d-e52a8520edcb</hangar_guid>
+<sourceid datatype="string">04e63cf3-b1fe-415f-9375-86153cdc5e66</sourceid>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">4788801</hangar_id>
+<fodd_ar datatype="int16">0</fodd_ar>
+<kon datatype="string">man</kon>
+<efternamn datatype="string">Virdesten</efternamn>
+<tilltalsnamn datatype="string">Per</tilltalsnamn>
+<sorteringsnamn datatype="string">Virdesten,Per</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string"></parti>
+<valkrets datatype="string"></valkrets>
+<status datatype="string">Tidigare ersättare för ordföranden i Riksdagens överklagandenämnd</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/04e63cf3-b1fe-415f-9375-86153cdc5e66</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/04e63cf3-b1fe-415f-9375-86153cdc5e66_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/04e63cf3-b1fe-415f-9375-86153cdc5e66_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/04e63cf3-b1fe-415f-9375-86153cdc5e66_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">VPN</organ_kod>
+<roll_kod datatype="string">Ordförande</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">2015-02-18</from>
+<tom datatype="datetime">2016-01-11</tom>
+<uppgift datatype="string">Valprövningsnämnden</uppgift>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">4788801</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">VPN</organ_kod>
+<roll_kod datatype="string">Ersättare för ordföranden</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">2011-04-06</from>
+<tom datatype="datetime">2015-02-18</tom>
+<uppgift datatype="string">Valprövningsnämnden</uppgift>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">4788801</hangar_id>
+<sortering datatype="int32">21</sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">ÖN</organ_kod>
+<roll_kod datatype="string">Ersättare för ordföranden</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">2014-10-14</from>
+<tom datatype="datetime">2016-01-11</tom>
+<uppgift datatype="string">Riksdagens överklagandenämnd</uppgift>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">4788801</hangar_id>
+<sortering datatype="int32">21</sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">ÖN</organ_kod>
+<roll_kod datatype="string">Ersättare för ordföranden</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">2010-10-19</from>
+<tom datatype="datetime">2014-10-14</tom>
+<uppgift datatype="string">Riksdagens överklagandenämnd</uppgift>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">4788801</hangar_id>
+<sortering datatype="int32">21</sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">ÖN</organ_kod>
+<roll_kod datatype="string">Ersättare för ordföranden</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">2006-10-17</from>
+<tom datatype="datetime">2010-10-19</tom>
+<uppgift datatype="string">Riksdagens överklagandenämnd</uppgift>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">4788801</hangar_id>
+<sortering datatype="int32">21</sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+</personuppgift>
+</person>

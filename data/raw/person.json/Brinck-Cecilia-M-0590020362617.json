@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "d230550e-8470-4a11-8387-337e64290eab",
+    "sourceid": "ce973e30-70f3-4b46-83f2-f0345fb12839",
+    "intressent_id": "0590020362617",
+    "hangar_id": "2369437",
+    "fodd_ar": "1962",
+    "kon": "kvinna",
+    "efternamn": "Brinck",
+    "tilltalsnamn": "Cecilia",
+    "sorteringsnamn": "Brinck,Cecilia",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/ce973e30-70f3-4b46-83f2-f0345fb12839",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ce973e30-70f3-4b46-83f2-f0345fb12839_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ce973e30-70f3-4b46-83f2-f0345fb12839_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ce973e30-70f3-4b46-83f2-f0345fb12839_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "80",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-26",
+          "tom": "2014-09-29",
+          "uppgift": "Beatrice Ask",
+          "intressent_id": "0590020362617",
+          "hangar_id": "2369437",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "141",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-19",
+          "tom": "2010-10-25",
+          "uppgift": "Lena Adelsohn Liljeroth",
+          "intressent_id": "0590020362617",
+          "hangar_id": "2369437",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "280",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-05",
+          "tom": "2010-10-18",
+          "uppgift": "HG Wessberg",
+          "intressent_id": "0590020362617",
+          "hangar_id": "2369437",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-04-20",
+          "tom": "2014-09-29",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0590020362617",
+          "hangar_id": "2369437",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2012-04-19",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0590020362617",
+          "hangar_id": "2369437",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-12-14",
+          "tom": "2014-09-29",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0590020362617",
+          "hangar_id": "2369437",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2012-12-13",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0590020362617",
+          "hangar_id": "2369437",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Redaktör",
+          "typ": "titlar",
+          "intressent_id": "0590020362617",
+          "hangar_id": "2369437"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0590020362617",
+          "hangar_id": "2369437"
+        }
+      ]
+    }
+  }
+}

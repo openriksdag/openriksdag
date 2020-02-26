@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "796beddb-dacc-44de-b1a0-895db6209690",
+    "sourceid": "9fc34dde-20c1-4039-89bf-bd6bb1beeb93",
+    "intressent_id": "0416079977115",
+    "hangar_id": "2343065",
+    "fodd_ar": "1959",
+    "kon": "man",
+    "efternamn": "Orback",
+    "tilltalsnamn": "Jens",
+    "sorteringsnamn": "Orback,Jens",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare statsråd",
+    "person_url_xml": "http://data.riksdagen.se/person/9fc34dde-20c1-4039-89bf-bd6bb1beeb93",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9fc34dde-20c1-4039-89bf-bd6bb1beeb93_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9fc34dde-20c1-4039-89bf-bd6bb1beeb93_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9fc34dde-20c1-4039-89bf-bd6bb1beeb93_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "Ju",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Departement",
+          "from": "2006-10-02",
+          "tom": "2006-10-06",
+          "uppgift": "Justitiedepartementet",
+          "intressent_id": "0416079977115",
+          "hangar_id": "2343065",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "Ju",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Departement",
+          "from": "2002-09-30",
+          "tom": "2006-10-02",
+          "uppgift": "Justitiedepartementet",
+          "intressent_id": "0416079977115",
+          "hangar_id": "2343065",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

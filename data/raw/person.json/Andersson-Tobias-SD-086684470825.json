@@ -1,0 +1,114 @@
+{
+  "person": {
+    "hangar_guid": "db94e2f8-4a4e-418f-a2a8-8dc8c9ce1a25",
+    "sourceid": "5763c159-5105-47b3-82fb-9cc7dc20dc7d",
+    "intressent_id": "086684470825",
+    "hangar_id": "5003994",
+    "fodd_ar": "1996",
+    "kon": "man",
+    "efternamn": "Andersson",
+    "tilltalsnamn": "Tobias",
+    "sorteringsnamn": "Andersson,Tobias",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Västra Götalands läns östra",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/5763c159-5105-47b3-82fb-9cc7dc20dc7d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5763c159-5105-47b3-82fb-9cc7dc20dc7d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5763c159-5105-47b3-82fb-9cc7dc20dc7d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5763c159-5105-47b3-82fb-9cc7dc20dc7d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "341",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "086684470825",
+          "hangar_id": "5003994",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "086684470825",
+          "hangar_id": "5003994",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "086684470825",
+          "hangar_id": "5003994",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "47",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-09",
+          "tom": "2022-10-04",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "086684470825",
+          "hangar_id": "5003994",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "tobias.andersson[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "086684470825",
+          "hangar_id": "5003994"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Ekonom.",
+          "typ": "titlar",
+          "intressent_id": "086684470825",
+          "hangar_id": "5003994"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "086684470825",
+          "hangar_id": "5003994"
+        }
+      ]
+    }
+  }
+}

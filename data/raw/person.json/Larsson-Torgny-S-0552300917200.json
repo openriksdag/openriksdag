@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "7ba1b3ba-188d-40bf-afb5-c8ee2dc56fec",
+    "sourceid": "33d10621-0d8b-434f-b8c5-583bbb12fb45",
+    "intressent_id": "0552300917200",
+    "hangar_id": "2341995",
+    "fodd_ar": "1938",
+    "kon": "man",
+    "efternamn": "Larsson",
+    "tilltalsnamn": "Torgny",
+    "sorteringsnamn": "Larsson,Torgny",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/33d10621-0d8b-434f-b8c5-583bbb12fb45",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/33d10621-0d8b-434f-b8c5-583bbb12fb45_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/33d10621-0d8b-434f-b8c5-583bbb12fb45_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/33d10621-0d8b-434f-b8c5-583bbb12fb45_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "204",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0552300917200",
+          "hangar_id": "2341995",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "210",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0552300917200",
+          "hangar_id": "2341995",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1987-10-06",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0552300917200",
+          "hangar_id": "2341995",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1987-10-06",
+          "uppgift": "",
+          "intressent_id": "0552300917200",
+          "hangar_id": "2341995",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1984-12-20",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0552300917200",
+          "hangar_id": "2341995",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1984-11-19",
+          "tom": "1984-12-19",
+          "uppgift": "Jan Bergqvist",
+          "intressent_id": "0552300917200",
+          "hangar_id": "2341995",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "kyrkoherde",
+          "typ": "titlar",
+          "intressent_id": "0552300917200",
+          "hangar_id": "2341995"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0552300917200",
+          "hangar_id": "2341995"
+        }
+      ]
+    }
+  }
+}

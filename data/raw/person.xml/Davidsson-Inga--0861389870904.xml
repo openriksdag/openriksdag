@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">d5a560f3-2aa1-4f26-946f-8665ed02751b</hangar_guid>
+<sourceid datatype="string">365ec6ba-fa32-4d0a-aeee-286898b8d796</sourceid>
+<intressent_id datatype="string">0861389870904</intressent_id>
+<hangar_id datatype="int32">2341864</hangar_id>
+<fodd_ar datatype="int16">1934</fodd_ar>
+<kon datatype="string">kvinna</kon>
+<efternamn datatype="string">Davidsson</efternamn>
+<tilltalsnamn datatype="string">Inga</tilltalsnamn>
+<sorteringsnamn datatype="string">Davidsson,Inga</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string"></parti>
+<valkrets datatype="string"></valkrets>
+<status datatype="string">Tidigare ersättare</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/365ec6ba-fa32-4d0a-aeee-286898b8d796</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/365ec6ba-fa32-4d0a-aeee-286898b8d796_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/365ec6ba-fa32-4d0a-aeee-286898b8d796_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/365ec6ba-fa32-4d0a-aeee-286898b8d796_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Ersättare</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string">Ersättare</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1983-03-01</from>
+<tom datatype="datetime">1983-04-09</tom>
+<uppgift datatype="string">Anders Svärd</uppgift>
+<intressent_id datatype="string">0861389870904</intressent_id>
+<hangar_id datatype="int32">2341864</hangar_id>
+<sortering datatype="int32">45</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">20</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+</personuppgift>
+</person>

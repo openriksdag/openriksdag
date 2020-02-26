@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "96b959ec-1346-4328-8dd5-cd97c65753bf",
+    "sourceid": "e4806196-7d0e-42ef-81e2-af5d75460217",
+    "intressent_id": "0320950917801",
+    "hangar_id": "2342001",
+    "fodd_ar": "1938",
+    "kon": "kvinna",
+    "efternamn": "Nordlander",
+    "tilltalsnamn": "Inger",
+    "sorteringsnamn": "Nordlander,Inger",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/e4806196-7d0e-42ef-81e2-af5d75460217",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e4806196-7d0e-42ef-81e2-af5d75460217_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e4806196-7d0e-42ef-81e2-af5d75460217_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e4806196-7d0e-42ef-81e2-af5d75460217_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "8",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2004-07-20",
+          "tom": "2006-10-02",
+          "uppgift": "",
+          "intressent_id": "0320950917801",
+          "hangar_id": "2342001",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "19",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2002-09-30",
+          "tom": "2004-07-19",
+          "uppgift": "Bosse Ringholm",
+          "intressent_id": "0320950917801",
+          "hangar_id": "2342001",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2005-10-19",
+          "tom": "2006-10-02",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0320950917801",
+          "hangar_id": "2342001",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2004-05-03",
+          "tom": "2005-10-18",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0320950917801",
+          "hangar_id": "2342001",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0320950917801",
+          "hangar_id": "2342001",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2003-09-25",
+          "tom": "2006-10-02",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0320950917801",
+          "hangar_id": "2342001",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2004-06-18",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0320950917801",
+          "hangar_id": "2342001",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "ekonom",
+          "typ": "titlar",
+          "intressent_id": "0320950917801",
+          "hangar_id": "2342001"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Economist",
+          "typ": "titlar",
+          "intressent_id": "0320950917801",
+          "hangar_id": "2342001"
+        }
+      ]
+    }
+  }
+}

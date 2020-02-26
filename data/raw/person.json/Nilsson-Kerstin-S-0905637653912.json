@@ -1,0 +1,178 @@
+{
+  "person": {
+    "hangar_guid": "d805d620-25a1-4641-9872-fa53d1571567",
+    "sourceid": "56904e29-dc44-483d-a4d8-4c39626e27b8",
+    "intressent_id": "0905637653912",
+    "hangar_id": "2369338",
+    "fodd_ar": "1956",
+    "kon": "kvinna",
+    "efternamn": "Nilsson",
+    "tilltalsnamn": "Kerstin",
+    "sorteringsnamn": "Nilsson,Kerstin",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Skåne läns södra",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/56904e29-dc44-483d-a4d8-4c39626e27b8",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/56904e29-dc44-483d-a4d8-4c39626e27b8_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/56904e29-dc44-483d-a4d8-4c39626e27b8_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/56904e29-dc44-483d-a4d8-4c39626e27b8_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "186",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0905637653912",
+          "hangar_id": "2369338",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "294",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-04",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0905637653912",
+          "hangar_id": "2369338",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "OSSE",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2014-10-14",
+          "tom": "2018-09-24",
+          "uppgift": "OSSE-delegationen",
+          "intressent_id": "0905637653912",
+          "hangar_id": "2369338",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0905637653912",
+          "hangar_id": "2369338",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0905637653912",
+          "hangar_id": "2369338",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-02-04",
+          "tom": "2012-07-31",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0905637653912",
+          "hangar_id": "2369338",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0905637653912",
+          "hangar_id": "2369338",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "8",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0905637653912",
+          "hangar_id": "2369338",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Försäkringsutredare",
+          "typ": "titlar",
+          "intressent_id": "0905637653912",
+          "hangar_id": "2369338"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0905637653912",
+          "hangar_id": "2369338"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "false",
+          "typ": "val",
+          "intressent_id": "0905637653912",
+          "hangar_id": "2369338"
+        }
+      ]
+    }
+  }
+}

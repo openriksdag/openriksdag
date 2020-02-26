@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "cc576825-976c-4e55-a446-fbfe0345718c",
+    "sourceid": "2ca560a2-f02c-4cdd-bd49-96a4d942d905",
+    "intressent_id": "0980247880005",
+    "hangar_id": "2341751",
+    "fodd_ar": "1929",
+    "kon": "man",
+    "efternamn": "Göransson",
+    "tilltalsnamn": "Olle",
+    "sorteringsnamn": "Göransson,Olle",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/2ca560a2-f02c-4cdd-bd49-96a4d942d905",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2ca560a2-f02c-4cdd-bd49-96a4d942d905_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2ca560a2-f02c-4cdd-bd49-96a4d942d905_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2ca560a2-f02c-4cdd-bd49-96a4d942d905_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0980247880005",
+          "hangar_id": "2341751",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-11-22",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0980247880005",
+          "hangar_id": "2341751",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-21",
+          "tom": "1982-11-21",
+          "uppgift": "Göran Magnusson 1982-10-21 - 1982-11-21",
+          "intressent_id": "0980247880005",
+          "hangar_id": "2341751",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1982-10-20",
+          "uppgift": "",
+          "intressent_id": "0980247880005",
+          "hangar_id": "2341751",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0980247880005",
+          "hangar_id": "2341751",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1976-10-04",
+          "tom": "1979-10-01",
+          "uppgift": "",
+          "intressent_id": "0980247880005",
+          "hangar_id": "2341751",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "verkmästare",
+          "typ": "titlar",
+          "intressent_id": "0980247880005",
+          "hangar_id": "2341751"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0980247880005",
+          "hangar_id": "2341751"
+        }
+      ]
+    }
+  }
+}

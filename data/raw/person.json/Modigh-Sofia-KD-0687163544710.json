@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "346740a4-d4d3-4ae4-8959-f11a17dcaceb",
+    "sourceid": "34c86f1b-2c88-4ad2-8659-92c728971622",
+    "intressent_id": "0687163544710",
+    "hangar_id": "3057102",
+    "fodd_ar": "1970",
+    "kon": "kvinna",
+    "efternamn": "Modigh",
+    "tilltalsnamn": "Sofia",
+    "sorteringsnamn": "Modigh,Sofia",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Stockholms kommun",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/34c86f1b-2c88-4ad2-8659-92c728971622",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/34c86f1b-2c88-4ad2-8659-92c728971622_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/34c86f1b-2c88-4ad2-8659-92c728971622_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/34c86f1b-2c88-4ad2-8659-92c728971622_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "208",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2017-01-02",
+          "tom": "2017-04-30",
+          "uppgift": "Caroline Szyber",
+          "intressent_id": "0687163544710",
+          "hangar_id": "3057102",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-01-02",
+          "tom": "2017-04-30",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0687163544710",
+          "hangar_id": "3057102",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-01-02",
+          "tom": "2017-04-30",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0687163544710",
+          "hangar_id": "3057102",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "sofia.modigh[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0687163544710",
+          "hangar_id": "3057102"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "64291",
+          "typ": "telefonnummer",
+          "intressent_id": "0687163544710",
+          "hangar_id": "3057102"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0687163544710",
+          "hangar_id": "3057102"
+        }
+      ]
+    }
+  }
+}

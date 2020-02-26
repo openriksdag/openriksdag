@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "90addde0-ed4b-436a-8829-7ca9218447e3",
+    "sourceid": "20dc3eba-6831-4283-b7dc-366651abc383",
+    "intressent_id": "0685433188501",
+    "hangar_id": "2342367",
+    "fodd_ar": "1946",
+    "kon": "kvinna",
+    "efternamn": "Bouvin",
+    "tilltalsnamn": "Ulla",
+    "sorteringsnamn": "Bouvin,Ulla",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "",
+    "status": "Status saknas",
+    "person_url_xml": "http://data.riksdagen.se/person/20dc3eba-6831-4283-b7dc-366651abc383",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/20dc3eba-6831-4283-b7dc-366651abc383_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/20dc3eba-6831-4283-b7dc-366651abc383_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/20dc3eba-6831-4283-b7dc-366651abc383_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-04-18",
+          "tom": "1990-05-18",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0685433188501",
+          "hangar_id": "2342367",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-04-18",
+          "tom": "1990-05-18",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0685433188501",
+          "hangar_id": "2342367",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0685433188501",
+          "hangar_id": "2342367"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "fil.kand",
+          "typ": "titlar",
+          "intressent_id": "0685433188501",
+          "hangar_id": "2342367"
+        }
+      ]
+    }
+  }
+}

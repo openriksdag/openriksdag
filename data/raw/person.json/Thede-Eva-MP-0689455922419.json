@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "2e52a94e-6a4f-4697-b3cd-0ff9b15ed138",
+    "sourceid": "a2579dc8-bf68-4ba8-a649-39b1af4c228d",
+    "intressent_id": "0689455922419",
+    "hangar_id": "2342626",
+    "fodd_ar": "1950",
+    "kon": "kvinna",
+    "efternamn": "Thede",
+    "tilltalsnamn": "Eva",
+    "sorteringsnamn": "Thede,Eva",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/a2579dc8-bf68-4ba8-a649-39b1af4c228d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a2579dc8-bf68-4ba8-a649-39b1af4c228d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a2579dc8-bf68-4ba8-a649-39b1af4c228d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a2579dc8-bf68-4ba8-a649-39b1af4c228d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "175",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1998-04-03",
+          "tom": "1998-05-06",
+          "uppgift": "Bodil Francke Ohlsson",
+          "intressent_id": "0689455922419",
+          "hangar_id": "2342626",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-04-14",
+          "tom": "1998-05-06",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0689455922419",
+          "hangar_id": "2342626",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-04-14",
+          "tom": "1998-05-06",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "0689455922419",
+          "hangar_id": "2342626",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "speciallärare",
+          "typ": "titlar",
+          "intressent_id": "0689455922419",
+          "hangar_id": "2342626"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0689455922419",
+          "hangar_id": "2342626"
+        }
+      ]
+    }
+  }
+}

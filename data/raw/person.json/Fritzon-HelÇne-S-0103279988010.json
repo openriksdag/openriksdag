@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "08143a37-a278-4a14-a31f-e437ba576c4a",
+    "sourceid": "fd7f2b47-e70d-46c2-8558-a6c3f81f2790",
+    "intressent_id": "0103279988010",
+    "hangar_id": "4750580",
+    "fodd_ar": "1960",
+    "kon": "kvinna",
+    "efternamn": "Fritzon",
+    "tilltalsnamn": "Heléne",
+    "sorteringsnamn": "Fritzon,Heléne",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/fd7f2b47-e70d-46c2-8558-a6c3f81f2790",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fd7f2b47-e70d-46c2-8558-a6c3f81f2790_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fd7f2b47-e70d-46c2-8558-a6c3f81f2790_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fd7f2b47-e70d-46c2-8558-a6c3f81f2790_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "Ju",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "22",
+          "status": "",
+          "typ": "Departement",
+          "from": "2017-07-27",
+          "tom": "2019-01-21",
+          "uppgift": "Justitiedepartementet",
+          "intressent_id": "0103279988010",
+          "hangar_id": "4750580",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EP",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "Europaparlamentet",
+          "from": "2019-07-02",
+          "tom": "2024-07-02",
+          "uppgift": "Europaparlamentet",
+          "intressent_id": "0103279988010",
+          "hangar_id": "4750580",
+          "sortering": "30",
+          "organ_sortering": "100",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "person": {
+    "hangar_guid": "4edf7ef7-2f20-4316-a16b-5e551317a92f",
+    "sourceid": "c56ca975-bfc4-4266-a5bc-53bde1f798d2",
+    "intressent_id": "0665360289423",
+    "hangar_id": "5004107",
+    "fodd_ar": "1988",
+    "kon": "man",
+    "efternamn": "Stenberg",
+    "tilltalsnamn": "Fredrik",
+    "sorteringsnamn": "Stenberg,Fredrik",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Västerbottens län",
+    "status": "Tjänstgörande ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/c56ca975-bfc4-4266-a5bc-53bde1f798d2",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c56ca975-bfc4-4266-a5bc-53bde1f798d2_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c56ca975-bfc4-4266-a5bc-53bde1f798d2_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c56ca975-bfc4-4266-a5bc-53bde1f798d2_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "203",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2019-12-20",
+          "tom": "2020-08-17",
+          "uppgift": "Björn Wiechel",
+          "intressent_id": "0665360289423",
+          "hangar_id": "5004107",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "203",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2018-12-01",
+          "tom": "2019-01-01",
+          "uppgift": "Björn Wiechel",
+          "intressent_id": "0665360289423",
+          "hangar_id": "5004107",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-12-20",
+          "tom": "2020-08-17",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0665360289423",
+          "hangar_id": "5004107",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-12-01",
+          "tom": "2019-01-01",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0665360289423",
+          "hangar_id": "5004107",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-12-20",
+          "tom": "2020-08-17",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0665360289423",
+          "hangar_id": "5004107",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-12-20",
+          "tom": "2020-08-17",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0665360289423",
+          "hangar_id": "5004107",
+          "sortering": "55",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "fredrik.stenberg[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0665360289423",
+        "hangar_id": "5004107"
+      }
+    }
+  }
+}

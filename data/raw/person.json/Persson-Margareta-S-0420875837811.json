@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "c3bf80d7-6c0f-434e-9f1e-371d7a41eab1",
+    "sourceid": "6eca6877-11f6-48b2-84c0-b80c1a841ee9",
+    "intressent_id": "0420875837811",
+    "hangar_id": "2342648",
+    "fodd_ar": "1950",
+    "kon": "kvinna",
+    "efternamn": "Persson",
+    "tilltalsnamn": "Margareta",
+    "sorteringsnamn": "Persson,Margareta",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/6eca6877-11f6-48b2-84c0-b80c1a841ee9",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6eca6877-11f6-48b2-84c0-b80c1a841ee9_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6eca6877-11f6-48b2-84c0-b80c1a841ee9_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6eca6877-11f6-48b2-84c0-b80c1a841ee9_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "7",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1990-07-01",
+          "tom": "1991-09-30",
+          "uppgift": "Anita Gradin",
+          "intressent_id": "0420875837811",
+          "hangar_id": "2342648",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "7",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1988-11-08",
+          "tom": "1989-10-02",
+          "uppgift": "Anita Gradin",
+          "intressent_id": "0420875837811",
+          "hangar_id": "2342648",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1983-01-01",
+          "tom": "1985-09-30",
+          "uppgift": "Sten Andersson",
+          "intressent_id": "0420875837811",
+          "hangar_id": "2342648",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1989-10-04",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0420875837811",
+          "hangar_id": "2342648",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-10-15",
+          "tom": "1991-09-29",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0420875837811",
+          "hangar_id": "2342648",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-10-04",
+          "tom": "1991-09-29",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0420875837811",
+          "hangar_id": "2342648",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "informationssekreterare",
+          "typ": "titlar",
+          "intressent_id": "0420875837811",
+          "hangar_id": "2342648"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0420875837811",
+          "hangar_id": "2342648"
+        }
+      ]
+    }
+  }
+}

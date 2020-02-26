@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "4e16314b-8dab-4972-9df7-6fff3febc3ea",
+    "sourceid": "9393a620-3f03-4fb0-a8c2-9cc09d32f70a",
+    "intressent_id": "0305328279505",
+    "hangar_id": "2341803",
+    "fodd_ar": "1932",
+    "kon": "man",
+    "efternamn": "Andersson",
+    "tilltalsnamn": "Hans-Eric",
+    "sorteringsnamn": "Andersson,Hans-Eric",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/9393a620-3f03-4fb0-a8c2-9cc09d32f70a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9393a620-3f03-4fb0-a8c2-9cc09d32f70a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9393a620-3f03-4fb0-a8c2-9cc09d32f70a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9393a620-3f03-4fb0-a8c2-9cc09d32f70a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1988-06-08",
+          "tom": "1988-10-03",
+          "uppgift": "Ulf Lönnqvist",
+          "intressent_id": "0305328279505",
+          "hangar_id": "2341803",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-06-07",
+          "uppgift": "Anna-Greta Leijon",
+          "intressent_id": "0305328279505",
+          "hangar_id": "2341803",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "kommunalråd",
+          "typ": "titlar",
+          "intressent_id": "0305328279505",
+          "hangar_id": "2341803"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0305328279505",
+          "hangar_id": "2341803"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">ae07ac20-8152-4ea0-a8dc-bec388a26c88</hangar_guid>
+<sourceid datatype="string">ae8543cf-a7b3-44d2-94df-c3edab707475</sourceid>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">4788786</hangar_id>
+<fodd_ar datatype="int16">0</fodd_ar>
+<kon datatype="string">man</kon>
+<efternamn datatype="string">Tolstoy</efternamn>
+<tilltalsnamn datatype="string">Stephan</tilltalsnamn>
+<sorteringsnamn datatype="string">Tolstoy,Stephan</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string"></parti>
+<valkrets datatype="string"></valkrets>
+<status datatype="string">Status saknas</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/ae8543cf-a7b3-44d2-94df-c3edab707475</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/ae8543cf-a7b3-44d2-94df-c3edab707475_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/ae8543cf-a7b3-44d2-94df-c3edab707475_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/ae8543cf-a7b3-44d2-94df-c3edab707475_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">RB</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">4</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">2002-10-15</from>
+<tom datatype="datetime">2010-10-19</tom>
+<uppgift datatype="string">Riksbanksfullmäktige</uppgift>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">4788786</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+</personuppgift>
+</person>

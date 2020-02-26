@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "0ea8cbcc-2cd8-4a52-9bd2-ae40009e00d0",
+    "sourceid": "3ce8f147-129f-412c-b6ad-db566d53b1db",
+    "intressent_id": "0779329190517",
+    "hangar_id": "5003690",
+    "fodd_ar": "1959",
+    "kon": "man",
+    "efternamn": "Jansson",
+    "tilltalsnamn": "Kjell",
+    "sorteringsnamn": "Jansson,Kjell",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/3ce8f147-129f-412c-b6ad-db566d53b1db",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3ce8f147-129f-412c-b6ad-db566d53b1db_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3ce8f147-129f-412c-b6ad-db566d53b1db_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3ce8f147-129f-412c-b6ad-db566d53b1db_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "213",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0779329190517",
+          "hangar_id": "5003690",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "17",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-06-17",
+          "tom": "2022-09-26",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0779329190517",
+          "hangar_id": "5003690",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "17",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0779329190517",
+          "hangar_id": "5003690",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "kjell.jansson[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0779329190517",
+          "hangar_id": "5003690"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Kommunalråd/Företagare.",
+          "typ": "titlar",
+          "intressent_id": "0779329190517",
+          "hangar_id": "5003690"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0779329190517",
+          "hangar_id": "5003690"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "ee7eac5e-07a3-4ee7-8b09-ec1348478d17",
+    "sourceid": "d3e2799a-c64f-4696-9ee6-ab506a90308a",
+    "intressent_id": "08289753603",
+    "hangar_id": "2341940",
+    "fodd_ar": "1936",
+    "kon": "man",
+    "efternamn": "Persson",
+    "tilltalsnamn": "Carl Olov",
+    "sorteringsnamn": "Persson,Carl Olov",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/d3e2799a-c64f-4696-9ee6-ab506a90308a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d3e2799a-c64f-4696-9ee6-ab506a90308a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d3e2799a-c64f-4696-9ee6-ab506a90308a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d3e2799a-c64f-4696-9ee6-ab506a90308a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "286",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "08289753603",
+          "hangar_id": "2341940",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "08289753603",
+          "hangar_id": "2341940",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-15",
+          "tom": "1994-10-02",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "08289753603",
+          "hangar_id": "2341940",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "08289753603",
+          "hangar_id": "2341940",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "egen företagare",
+          "typ": "titlar",
+          "intressent_id": "08289753603",
+          "hangar_id": "2341940"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "08289753603",
+          "hangar_id": "2341940"
+        }
+      ]
+    }
+  }
+}

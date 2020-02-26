@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "964711eb-7127-4b6e-8911-788c99cb8fa8",
+    "sourceid": "bb72753f-407b-4888-bc91-a9d06b1a4f84",
+    "intressent_id": "0455181302203",
+    "hangar_id": "2342125",
+    "fodd_ar": "1941",
+    "kon": "man",
+    "efternamn": "Sandholm",
+    "tilltalsnamn": "Conny",
+    "sorteringsnamn": "Sandholm,Conny",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Avliden  1996-02-22",
+    "person_url_xml": "http://data.riksdagen.se/person/bb72753f-407b-4888-bc91-a9d06b1a4f84",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/bb72753f-407b-4888-bc91-a9d06b1a4f84_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/bb72753f-407b-4888-bc91-a9d06b1a4f84_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/bb72753f-407b-4888-bc91-a9d06b1a4f84_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "82",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1994-10-03",
+          "tom": "1996-02-22",
+          "uppgift": "",
+          "intressent_id": "0455181302203",
+          "hangar_id": "2342125",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "79",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1992-03-09",
+          "tom": "1992-04-09",
+          "uppgift": "Kjell Johansson",
+          "intressent_id": "0455181302203",
+          "hangar_id": "2342125",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-09-30",
+          "tom": "1992-04-09",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0455181302203",
+          "hangar_id": "2342125",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-03-09",
+          "tom": "1991-09-29",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0455181302203",
+          "hangar_id": "2342125",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1996-02-22",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0455181302203",
+          "hangar_id": "2342125",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "kommunalråd, ing.",
+          "typ": "titlar",
+          "intressent_id": "0455181302203",
+          "hangar_id": "2342125"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0455181302203",
+          "hangar_id": "2342125"
+        }
+      ]
+    }
+  }
+}

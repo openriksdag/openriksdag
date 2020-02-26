@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "3cdc0982-5f6b-4aec-bca2-b969c1995dc9",
+    "sourceid": "84d28ee8-a52a-4d57-b840-fc8829ec2c16",
+    "intressent_id": "0123545007825",
+    "hangar_id": "2343571",
+    "fodd_ar": "1974",
+    "kon": "man",
+    "efternamn": "Cederschiöld",
+    "tilltalsnamn": "Sebastian",
+    "sorteringsnamn": "Cederschiöld,Sebastian",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/84d28ee8-a52a-4d57-b840-fc8829ec2c16",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/84d28ee8-a52a-4d57-b840-fc8829ec2c16_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/84d28ee8-a52a-4d57-b840-fc8829ec2c16_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/84d28ee8-a52a-4d57-b840-fc8829ec2c16_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Riksdagsledamot",
+        "ordningsnummer": "314",
+        "status": "Tjänstgörande",
+        "typ": "kammaruppdrag",
+        "from": "2006-10-02",
+        "tom": "2006-10-03",
+        "uppgift": "",
+        "intressent_id": "0123545007825",
+        "hangar_id": "2343571",
+        "sortering": "10",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "10"
+      }
+    },
+    "personuppgift": ""
+  }
+}

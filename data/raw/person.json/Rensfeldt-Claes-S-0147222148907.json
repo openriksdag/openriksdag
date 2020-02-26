@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "673d5eab-1461-4c3b-bfbd-c2dc94408725",
+    "sourceid": "3388bab9-829b-4d7d-b8ea-e557c36c99e2",
+    "intressent_id": "0147222148907",
+    "hangar_id": "2342180",
+    "fodd_ar": "1942",
+    "kon": "man",
+    "efternamn": "Rensfeldt",
+    "tilltalsnamn": "Claes",
+    "sorteringsnamn": "Rensfeldt,Claes",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/3388bab9-829b-4d7d-b8ea-e557c36c99e2",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3388bab9-829b-4d7d-b8ea-e557c36c99e2_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3388bab9-829b-4d7d-b8ea-e557c36c99e2_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3388bab9-829b-4d7d-b8ea-e557c36c99e2_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Riksdagsledamot",
+        "ordningsnummer": "0",
+        "status": "Tjänstgörande",
+        "typ": "kammaruppdrag",
+        "from": "1987-10-06",
+        "tom": "1988-10-03",
+        "uppgift": "",
+        "intressent_id": "0147222148907",
+        "hangar_id": "2342180",
+        "sortering": "10",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "10"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "mellanstadielärare",
+          "typ": "titlar",
+          "intressent_id": "0147222148907",
+          "hangar_id": "2342180"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0147222148907",
+          "hangar_id": "2342180"
+        }
+      ]
+    }
+  }
+}

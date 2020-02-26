@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "1e33c854-fc1d-440e-b576-1e96e3b75417",
+    "sourceid": "26cc589d-9450-4b41-a1d2-708e7074bf7d",
+    "intressent_id": "",
+    "hangar_id": "4788876",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Djupsund",
+    "tilltalsnamn": "Göran",
+    "sorteringsnamn": "Djupsund,Göran",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Personlig suppleant i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/26cc589d-9450-4b41-a1d2-708e7074bf7d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/26cc589d-9450-4b41-a1d2-708e7074bf7d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/26cc589d-9450-4b41-a1d2-708e7074bf7d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/26cc589d-9450-4b41-a1d2-708e7074bf7d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RJ",
+        "roll_kod": "Personlig suppleant",
+        "ordningsnummer": "9",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2016-11-01",
+        "tom": "2020-10-31",
+        "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+        "intressent_id": "",
+        "hangar_id": "4788876",
+        "sortering": "48",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

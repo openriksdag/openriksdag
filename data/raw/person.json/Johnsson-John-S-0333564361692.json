@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "33f214d8-f4bb-4376-b5cc-792f8ef1aab1",
+    "sourceid": "1f214f89-a526-43ae-8921-fdbe4615647e",
+    "intressent_id": "0333564361692",
+    "hangar_id": "2341670",
+    "fodd_ar": "1924",
+    "kon": "man",
+    "efternamn": "Johnsson",
+    "tilltalsnamn": "John",
+    "sorteringsnamn": "Johnsson,John",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/1f214f89-a526-43ae-8921-fdbe4615647e",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1f214f89-a526-43ae-8921-fdbe4615647e_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1f214f89-a526-43ae-8921-fdbe4615647e_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1f214f89-a526-43ae-8921-fdbe4615647e_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0333564361692",
+          "hangar_id": "2341670",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0333564361692",
+          "hangar_id": "2341670",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1980-11-13",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0333564361692",
+          "hangar_id": "2341670",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1980-05-12",
+          "tom": "1980-11-12",
+          "uppgift": "Åke Gustavsson",
+          "intressent_id": "0333564361692",
+          "hangar_id": "2341670",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1976-10-04",
+          "tom": "1979-10-01",
+          "uppgift": "",
+          "intressent_id": "0333564361692",
+          "hangar_id": "2341670",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "ombudsman",
+          "typ": "titlar",
+          "intressent_id": "0333564361692",
+          "hangar_id": "2341670"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0333564361692",
+          "hangar_id": "2341670"
+        }
+      ]
+    }
+  }
+}

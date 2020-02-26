@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "9e7a1652-e4a5-41da-9843-ea7e1e0a11f5",
+    "sourceid": "ccab911a-7d55-45e0-8d3e-67cc997e5898",
+    "intressent_id": "0921399331707",
+    "hangar_id": "2341884",
+    "fodd_ar": "1935",
+    "kon": "man",
+    "efternamn": "Eliasson",
+    "tilltalsnamn": "Lennart",
+    "sorteringsnamn": "Eliasson,Lennart",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "Örebro län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/ccab911a-7d55-45e0-8d3e-67cc997e5898",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ccab911a-7d55-45e0-8d3e-67cc997e5898_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ccab911a-7d55-45e0-8d3e-67cc997e5898_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ccab911a-7d55-45e0-8d3e-67cc997e5898_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "272",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1990-11-10",
+          "tom": "1990-12-09",
+          "uppgift": "Lars Ernestam",
+          "intressent_id": "0921399331707",
+          "hangar_id": "2341884",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-11-12",
+          "tom": "1990-12-09",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0921399331707",
+          "hangar_id": "2341884",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-11-12",
+          "tom": "1990-12-09",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0921399331707",
+          "hangar_id": "2341884",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "yrkesvalslärare",
+          "typ": "titlar",
+          "intressent_id": "0921399331707",
+          "hangar_id": "2341884"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0921399331707",
+          "hangar_id": "2341884"
+        }
+      ]
+    }
+  }
+}

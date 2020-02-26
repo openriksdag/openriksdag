@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "ceb8ce37-b1b8-406b-802f-f35b52e400b9",
+    "sourceid": "a15506a3-e981-4b91-9169-bc0c3f636f81",
+    "intressent_id": "",
+    "hangar_id": "4788829",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Bernevång Forsberg",
+    "tilltalsnamn": "Tommy",
+    "sorteringsnamn": "Bernevång Forsberg,Tommy",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Status saknas",
+    "person_url_xml": "http://data.riksdagen.se/person/a15506a3-e981-4b91-9169-bc0c3f636f81",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a15506a3-e981-4b91-9169-bc0c3f636f81_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a15506a3-e981-4b91-9169-bc0c3f636f81_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a15506a3-e981-4b91-9169-bc0c3f636f81_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "VPN",
+        "roll_kod": "Suppleant",
+        "ordningsnummer": "5",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2011-04-06",
+        "tom": "2015-02-18",
+        "uppgift": "Valprövningsnämnden",
+        "intressent_id": "",
+        "hangar_id": "4788829",
+        "sortering": "50",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

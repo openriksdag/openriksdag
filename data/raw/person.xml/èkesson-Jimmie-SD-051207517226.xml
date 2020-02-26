@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">8d8dfb57-d0d3-45aa-8e3f-87b28bbfad75</hangar_guid>
+<sourceid datatype="string">5ecb17ba-ebbe-4958-a142-a5134aff9808</sourceid>
+<intressent_id datatype="string">051207517226</intressent_id>
+<hangar_id datatype="int32">2369324</hangar_id>
+<fodd_ar datatype="int16">1979</fodd_ar>
+<kon datatype="string">man</kon>
+<efternamn datatype="string">Åkesson</efternamn>
+<tilltalsnamn datatype="string">Jimmie</tilltalsnamn>
+<sorteringsnamn datatype="string">Åkesson,Jimmie</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">SD</parti>
+<valkrets datatype="string">Jönköpings län</valkrets>
+<status datatype="string">Tjänstgörande riksdagsledamot</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/5ecb17ba-ebbe-4958-a142-a5134aff9808</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/5ecb17ba-ebbe-4958-a142-a5134aff9808_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/5ecb17ba-ebbe-4958-a142-a5134aff9808_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/5ecb17ba-ebbe-4958-a142-a5134aff9808_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">253</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2018-09-24</from>
+<tom datatype="datetime">2022-09-26</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">051207517226</intressent_id>
+<hangar_id datatype="int32">2369324</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">290</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2015-04-01</from>
+<tom datatype="datetime">2018-09-24</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">051207517226</intressent_id>
+<hangar_id datatype="int32">2369324</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">290</ordningsnummer>
+<status datatype="string">Ledig</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2014-10-22</from>
+<tom datatype="datetime">2015-03-31</tom>
+<uppgift datatype="string">Fredrik Eriksson 2014-10-22 - 2014-12-21, Heidi Karlsson 2014-12-22 - 2015-03-31  Sjukledighet</uppgift>
+<intressent_id datatype="string">051207517226</intressent_id>
+<hangar_id datatype="int32">2369324</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">30</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">290</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2014-09-29</from>
+<tom datatype="datetime">2014-10-21</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">051207517226</intressent_id>
+<hangar_id datatype="int32">2369324</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">327</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2010-10-04</from>
+<tom datatype="datetime">2014-09-29</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">051207517226</intressent_id>
+<hangar_id datatype="int32">2369324</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">SD</organ_kod>
+<roll_kod datatype="string">Partiledare</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">partiuppdrag</typ>
+<from datatype="datetime">2005-05-07</from>
+<tom datatype="datetime"></tom>
+<uppgift datatype="string">Sverigedemokraterna</uppgift>
+<intressent_id datatype="string">051207517226</intressent_id>
+<hangar_id datatype="int32">2369324</hangar_id>
+<sortering datatype="int32">20</sortering>
+<organ_sortering datatype="int32"></organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">KD</organ_kod>
+<roll_kod datatype="string">Ledamot</roll_kod>
+<ordningsnummer datatype="int32">10</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">2018-10-09</from>
+<tom datatype="datetime">2022-10-09</tom>
+<uppgift datatype="string">Krigsdelegationen</uppgift>
+<intressent_id datatype="string">051207517226</intressent_id>
+<hangar_id datatype="int32">2369324</hangar_id>
+<sortering datatype="int32">30</sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">KD</organ_kod>
+<roll_kod datatype="string">Ledamot</roll_kod>
+<ordningsnummer datatype="int32">6</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">2014-10-14</from>
+<tom datatype="datetime">2018-10-09</tom>
+<uppgift datatype="string">Krigsdelegationen</uppgift>
+<intressent_id datatype="string">051207517226</intressent_id>
+<hangar_id datatype="int32">2369324</hangar_id>
+<sortering datatype="int32">30</sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">KD</organ_kod>
+<roll_kod datatype="string">Ledamot</roll_kod>
+<ordningsnummer datatype="int32">16</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">2010-10-19</from>
+<tom datatype="datetime">2014-10-14</tom>
+<uppgift datatype="string">Krigsdelegationen</uppgift>
+<intressent_id datatype="string">051207517226</intressent_id>
+<hangar_id datatype="int32">2369324</hangar_id>
+<sortering datatype="int32">30</sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+<uppgift>
+<kod datatype="string">Officiell e-postadress</kod>
+<uppgift datatype="string">jimmie.akesson[på]riksdagen.se</uppgift>
+<typ datatype="string">eadress</typ>
+<intressent_id datatype="string">051207517226</intressent_id>
+<hangar_id datatype="int32">2369324</hangar_id>
+</uppgift>
+<uppgift>
+<kod datatype="string">KandiderarINastaVal</kod>
+<uppgift datatype="string">true</uppgift>
+<typ datatype="string">val</typ>
+<intressent_id datatype="string">051207517226</intressent_id>
+<hangar_id datatype="int32">2369324</hangar_id>
+</uppgift>
+</personuppgift>
+</person>

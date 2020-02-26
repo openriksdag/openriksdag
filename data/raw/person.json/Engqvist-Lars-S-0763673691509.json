@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "e19f6681-5dec-422e-ac6e-a16ba1c118b8",
+    "sourceid": "d7c324aa-83e4-11d4-ae60-0050040c9b55",
+    "intressent_id": "0763673691509",
+    "hangar_id": "2342334",
+    "fodd_ar": "1945",
+    "kon": "man",
+    "efternamn": "Engqvist",
+    "tilltalsnamn": "Lars",
+    "sorteringsnamn": "Engqvist,Lars",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/d7c324aa-83e4-11d4-ae60-0050040c9b55",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c324aa-83e4-11d4-ae60-0050040c9b55_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c324aa-83e4-11d4-ae60-0050040c9b55_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c324aa-83e4-11d4-ae60-0050040c9b55_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Riksdagsledamot",
+        "ordningsnummer": "119",
+        "status": "Ledig",
+        "typ": "kammaruppdrag",
+        "from": "2002-09-30",
+        "tom": "2004-09-30",
+        "uppgift": "Helene Petersson 2002-09-30 - 2004-09-30",
+        "intressent_id": "0763673691509",
+        "hangar_id": "2342334",
+        "sortering": "10",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "30"
+      }
+    },
+    "personuppgift": ""
+  }
+}

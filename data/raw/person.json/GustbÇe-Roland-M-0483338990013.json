@@ -1,0 +1,66 @@
+{
+  "person": {
+    "hangar_guid": "12935922-6c64-476a-a1f1-5a24fcef8d59",
+    "sourceid": "24ce10dd-f0ea-48b5-811c-5808ff0d4252",
+    "intressent_id": "0483338990013",
+    "hangar_id": "3057204",
+    "fodd_ar": "1958",
+    "kon": "man",
+    "efternamn": "Gustbée",
+    "tilltalsnamn": "Roland",
+    "sorteringsnamn": "Gustbée,Roland",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Kronobergs län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/24ce10dd-f0ea-48b5-811c-5808ff0d4252",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/24ce10dd-f0ea-48b5-811c-5808ff0d4252_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/24ce10dd-f0ea-48b5-811c-5808ff0d4252_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/24ce10dd-f0ea-48b5-811c-5808ff0d4252_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "254",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2016-09-12",
+          "tom": "2017-02-26",
+          "uppgift": "Johan Hultberg",
+          "intressent_id": "0483338990013",
+          "hangar_id": "3057204",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-09-12",
+          "tom": "2017-02-26",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0483338990013",
+          "hangar_id": "3057204",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "true",
+        "typ": "val",
+        "intressent_id": "0483338990013",
+        "hangar_id": "3057204"
+      }
+    }
+  }
+}

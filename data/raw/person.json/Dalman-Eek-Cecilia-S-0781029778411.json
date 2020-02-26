@@ -1,0 +1,82 @@
+{
+  "person": {
+    "hangar_guid": "e29b5630-d707-4375-a454-e4d040d80bad",
+    "sourceid": "71cf4c0f-c22a-4ae8-9e17-442655e6557f",
+    "intressent_id": "0781029778411",
+    "hangar_id": "2343130",
+    "fodd_ar": "1960",
+    "kon": "kvinna",
+    "efternamn": "Dalman Eek",
+    "tilltalsnamn": "Cecilia",
+    "sorteringsnamn": "Dalman Eek,Cecilia",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Göteborgs kommun",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/71cf4c0f-c22a-4ae8-9e17-442655e6557f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/71cf4c0f-c22a-4ae8-9e17-442655e6557f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/71cf4c0f-c22a-4ae8-9e17-442655e6557f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/71cf4c0f-c22a-4ae8-9e17-442655e6557f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "260",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2012-10-04",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0781029778411",
+          "hangar_id": "2343130",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-10-04",
+          "tom": "2014-09-29",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0781029778411",
+          "hangar_id": "2343130",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Regionsekreterare",
+          "typ": "titlar",
+          "intressent_id": "0781029778411",
+          "hangar_id": "2343130"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0781029778411",
+          "hangar_id": "2343130"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0781029778411",
+          "hangar_id": "2343130"
+        }
+      ]
+    }
+  }
+}

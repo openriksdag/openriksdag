@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "4250a91b-56e7-4cf7-b271-3c8b0ec79333",
+    "sourceid": "8d512372-93ca-4514-922a-286760f236f9",
+    "intressent_id": "0962261029919",
+    "hangar_id": "3057140",
+    "fodd_ar": "1965",
+    "kon": "kvinna",
+    "efternamn": "Hjerling",
+    "tilltalsnamn": "Annica",
+    "sorteringsnamn": "Hjerling,Annica",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "Stockholms län",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/8d512372-93ca-4514-922a-286760f236f9",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8d512372-93ca-4514-922a-286760f236f9_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8d512372-93ca-4514-922a-286760f236f9_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8d512372-93ca-4514-922a-286760f236f9_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "283",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2019-01-21",
+          "uppgift": "Karolina Skog",
+          "intressent_id": "0962261029919",
+          "hangar_id": "3057140",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "16",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-01-21",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0962261029919",
+          "hangar_id": "3057140",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "16",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-01-21",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0962261029919",
+          "hangar_id": "3057140",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "26",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-12-05",
+          "tom": "2019-01-21",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0962261029919",
+          "hangar_id": "3057140",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "16",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-01-21",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0962261029919",
+          "hangar_id": "3057140",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Deputerad",
+          "ordningsnummer": "16",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-11-15",
+          "tom": "2018-12-05",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0962261029919",
+          "hangar_id": "3057140",
+          "sortering": "40",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "annica.hjerling[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0962261029919",
+          "hangar_id": "3057140"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0962261029919",
+          "hangar_id": "3057140"
+        }
+      ]
+    }
+  }
+}

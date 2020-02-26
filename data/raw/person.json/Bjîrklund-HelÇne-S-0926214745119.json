@@ -1,0 +1,146 @@
+{
+  "person": {
+    "hangar_guid": "61275c85-5807-4e91-b975-26b88ad791dc",
+    "sourceid": "a4581b8d-78fd-41c1-a55d-7fe9ed93c878",
+    "intressent_id": "0926214745119",
+    "hangar_id": "5003824",
+    "fodd_ar": "1972",
+    "kon": "kvinna",
+    "efternamn": "Björklund",
+    "tilltalsnamn": "Heléne",
+    "sorteringsnamn": "Björklund,Heléne",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Blekinge län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/a4581b8d-78fd-41c1-a55d-7fe9ed93c878",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a4581b8d-78fd-41c1-a55d-7fe9ed93c878_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a4581b8d-78fd-41c1-a55d-7fe9ed93c878_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a4581b8d-78fd-41c1-a55d-7fe9ed93c878_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "93",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0926214745119",
+          "hangar_id": "5003824",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0926214745119",
+          "hangar_id": "5003824",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0926214745119",
+          "hangar_id": "5003824",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0926214745119",
+          "hangar_id": "5003824",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-05-09",
+          "tom": "2019-06-12",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0926214745119",
+          "hangar_id": "5003824",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "11",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-11-15",
+          "tom": "2018-12-05",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0926214745119",
+          "hangar_id": "5003824",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "helene.bjorklund[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0926214745119",
+          "hangar_id": "5003824"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Lärare.",
+          "typ": "titlar",
+          "intressent_id": "0926214745119",
+          "hangar_id": "5003824"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0926214745119",
+          "hangar_id": "5003824"
+        }
+      ]
+    }
+  }
+}

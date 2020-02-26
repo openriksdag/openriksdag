@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "77a6b200-9d3e-4505-b8f8-a6dd218098a1",
+    "sourceid": "e5eada7d-9b51-4fdd-9860-e7c4ed6ef8a3",
+    "intressent_id": "",
+    "hangar_id": "4788857",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Gullberg",
+    "tilltalsnamn": "Marianne",
+    "sorteringsnamn": "Gullberg,Marianne",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare personlig suppleant i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/e5eada7d-9b51-4fdd-9860-e7c4ed6ef8a3",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e5eada7d-9b51-4fdd-9860-e7c4ed6ef8a3_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e5eada7d-9b51-4fdd-9860-e7c4ed6ef8a3_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e5eada7d-9b51-4fdd-9860-e7c4ed6ef8a3_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RJ",
+        "roll_kod": "Personlig suppleant",
+        "ordningsnummer": "8",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2014-11-01",
+        "tom": "2018-10-31",
+        "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+        "intressent_id": "",
+        "hangar_id": "4788857",
+        "sortering": "48",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

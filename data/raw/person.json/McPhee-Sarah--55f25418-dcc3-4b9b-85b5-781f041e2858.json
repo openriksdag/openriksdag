@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "e4a2d713-e417-43a6-a16c-ba5fb5a969d1",
+    "sourceid": "55f25418-dcc3-4b9b-85b5-781f041e2858",
+    "intressent_id": "",
+    "hangar_id": "4788792",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "McPhee",
+    "tilltalsnamn": "Sarah",
+    "sorteringsnamn": "McPhee,Sarah",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ledamot i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/55f25418-dcc3-4b9b-85b5-781f041e2858",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/55f25418-dcc3-4b9b-85b5-781f041e2858_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/55f25418-dcc3-4b9b-85b5-781f041e2858_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/55f25418-dcc3-4b9b-85b5-781f041e2858_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "RJ",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2012-11-01",
+          "tom": "2013-09-25",
+          "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+          "intressent_id": "",
+          "hangar_id": "4788792",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RJ",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2008-11-01",
+          "tom": "2012-10-31",
+          "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+          "intressent_id": "",
+          "hangar_id": "4788792",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

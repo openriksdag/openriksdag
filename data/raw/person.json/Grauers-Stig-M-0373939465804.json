@@ -1,0 +1,130 @@
+{
+  "person": {
+    "hangar_guid": "597074c2-61da-42ad-b2a9-e4b701f55521",
+    "sourceid": "e2408805-f8b1-4d53-ad01-a0cb0087b8f3",
+    "intressent_id": "0373939465804",
+    "hangar_id": "2341856",
+    "fodd_ar": "1934",
+    "kon": "man",
+    "efternamn": "Grauers",
+    "tilltalsnamn": "Stig",
+    "sorteringsnamn": "Grauers,Stig",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/e2408805-f8b1-4d53-ad01-a0cb0087b8f3",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e2408805-f8b1-4d53-ad01-a0cb0087b8f3_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e2408805-f8b1-4d53-ad01-a0cb0087b8f3_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e2408805-f8b1-4d53-ad01-a0cb0087b8f3_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "215",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1994-10-03",
+          "tom": "1998-10-05",
+          "uppgift": "",
+          "intressent_id": "0373939465804",
+          "hangar_id": "2341856",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "219",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0373939465804",
+          "hangar_id": "2341856",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0373939465804",
+          "hangar_id": "2341856",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1998-10-04",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0373939465804",
+          "hangar_id": "2341856",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0373939465804",
+          "hangar_id": "2341856",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1998-10-04",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "0373939465804",
+          "hangar_id": "2341856",
+          "sortering": "30",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Webbsida",
+        "uppgift": "http://www.moderat.se/rdled/s_grauer.htm",
+        "typ": "eadress",
+        "intressent_id": "0373939465804",
+        "hangar_id": "2341856"
+      }
+    }
+  }
+}

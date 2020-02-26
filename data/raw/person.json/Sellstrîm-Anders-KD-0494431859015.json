@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "cf9fc508-e949-4c0e-a4f0-2ee3c286d70a",
+    "sourceid": "15dd1b21-c061-4278-b1c5-13d3f3b898e8",
+    "intressent_id": "0494431859015",
+    "hangar_id": "2369386",
+    "fodd_ar": "1964",
+    "kon": "man",
+    "efternamn": "Sellström",
+    "tilltalsnamn": "Anders",
+    "sorteringsnamn": "Sellström,Anders",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Västerbottens län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/15dd1b21-c061-4278-b1c5-13d3f3b898e8",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/15dd1b21-c061-4278-b1c5-13d3f3b898e8_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/15dd1b21-c061-4278-b1c5-13d3f3b898e8_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/15dd1b21-c061-4278-b1c5-13d3f3b898e8_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "EP",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "Europaparlamentet",
+          "from": "2018-10-03",
+          "tom": "2019-07-02",
+          "uppgift": "Europaparlamentet",
+          "intressent_id": "0494431859015",
+          "hangar_id": "2369386",
+          "sortering": "30",
+          "organ_sortering": "100",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "168",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-04",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0494431859015",
+          "hangar_id": "2369386",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "21",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-12-20",
+          "tom": "2014-09-29",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0494431859015",
+          "hangar_id": "2369386",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0494431859015",
+          "hangar_id": "2369386",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0494431859015",
+          "hangar_id": "2369386",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Civilekonom",
+          "typ": "titlar",
+          "intressent_id": "0494431859015",
+          "hangar_id": "2369386"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0494431859015",
+          "hangar_id": "2369386"
+        }
+      ]
+    }
+  }
+}

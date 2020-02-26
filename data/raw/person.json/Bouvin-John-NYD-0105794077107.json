@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "bb9dc182-eabc-4691-9869-e5c27cc35ac3",
+    "sourceid": "cfc319fd-f8a4-4101-b7a6-d6f8e987d6b0",
+    "intressent_id": "0105794077107",
+    "hangar_id": "2342471",
+    "fodd_ar": "1947",
+    "kon": "man",
+    "efternamn": "Bouvin",
+    "tilltalsnamn": "John",
+    "sorteringsnamn": "Bouvin,John",
+    "iort": "",
+    "parti": "NYD",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/cfc319fd-f8a4-4101-b7a6-d6f8e987d6b0",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cfc319fd-f8a4-4101-b7a6-d6f8e987d6b0_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cfc319fd-f8a4-4101-b7a6-d6f8e987d6b0_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cfc319fd-f8a4-4101-b7a6-d6f8e987d6b0_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "61",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0105794077107",
+          "hangar_id": "2342471",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0105794077107",
+          "hangar_id": "2342471",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "LU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1993-03-18",
+          "uppgift": "Lagutskottet",
+          "intressent_id": "0105794077107",
+          "hangar_id": "2342471",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

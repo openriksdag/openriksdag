@@ -1,0 +1,114 @@
+{
+  "person": {
+    "hangar_guid": "9dae3c97-04f0-4cfb-a74d-f96432523f22",
+    "sourceid": "21b618da-1998-4174-b4a5-e3fd896ea0fd",
+    "intressent_id": "0626451252310",
+    "hangar_id": "2343302",
+    "fodd_ar": "1965",
+    "kon": "man",
+    "efternamn": "Janson",
+    "tilltalsnamn": "Mikael",
+    "sorteringsnamn": "Janson,Mikael",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/21b618da-1998-4174-b4a5-e3fd896ea0fd",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/21b618da-1998-4174-b4a5-e3fd896ea0fd_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/21b618da-1998-4174-b4a5-e3fd896ea0fd_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/21b618da-1998-4174-b4a5-e3fd896ea0fd_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "206",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1997-10-20",
+          "tom": "1997-12-19",
+          "uppgift": "Eva Flyborg",
+          "intressent_id": "0626451252310",
+          "hangar_id": "2343302",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1997-10-22",
+          "tom": "1997-12-19",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0626451252310",
+          "hangar_id": "2343302",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1997-10-22",
+          "tom": "1997-12-19",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0626451252310",
+          "hangar_id": "2343302",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2000-02-20",
+          "tom": "2002-09-29",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0626451252310",
+          "hangar_id": "2343302",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "studerande",
+          "typ": "titlar",
+          "intressent_id": "0626451252310",
+          "hangar_id": "2343302"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0626451252310",
+          "hangar_id": "2343302"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0626451252310",
+          "hangar_id": "2343302"
+        }
+      ]
+    }
+  }
+}

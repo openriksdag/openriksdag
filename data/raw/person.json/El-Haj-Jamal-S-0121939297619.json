@@ -1,0 +1,121 @@
+{
+  "person": {
+    "hangar_guid": "8c9a4aa9-99e8-423c-bcc6-0e051f3d65e3",
+    "sourceid": "6a1b02dd-bdc4-4019-ab3e-dfeb133018ed",
+    "intressent_id": "0121939297619",
+    "hangar_id": "2343113",
+    "fodd_ar": "1960",
+    "kon": "man",
+    "efternamn": "El-Haj",
+    "tilltalsnamn": "Jamal",
+    "sorteringsnamn": "El-Haj,Jamal",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Malmö kommun",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/6a1b02dd-bdc4-4019-ab3e-dfeb133018ed",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6a1b02dd-bdc4-4019-ab3e-dfeb133018ed_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6a1b02dd-bdc4-4019-ab3e-dfeb133018ed_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6a1b02dd-bdc4-4019-ab3e-dfeb133018ed_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "184",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0121939297619",
+          "hangar_id": "2343113",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "36",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2016-06-15",
+          "tom": "2018-09-24",
+          "uppgift": "Leif Jakobsson",
+          "intressent_id": "0121939297619",
+          "hangar_id": "2343113",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-06-28",
+          "tom": "2018-09-24",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0121939297619",
+          "hangar_id": "2343113",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0121939297619",
+          "hangar_id": "2343113",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "jamal.el-haj[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0121939297619",
+          "hangar_id": "2343113"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Industriarbetare.",
+          "typ": "titlar",
+          "intressent_id": "0121939297619",
+          "hangar_id": "2343113"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0121939297619",
+          "hangar_id": "2343113"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0121939297619",
+          "hangar_id": "2343113"
+        }
+      ]
+    }
+  }
+}

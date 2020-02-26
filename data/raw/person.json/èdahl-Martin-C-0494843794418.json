@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "011ef576-e07c-4802-8ce6-7d231febb396",
+    "sourceid": "1e70f7df-dd11-410b-941a-bcac14e919a8",
+    "intressent_id": "0494843794418",
+    "hangar_id": "3057107",
+    "fodd_ar": "1969",
+    "kon": "man",
+    "efternamn": "Ådahl",
+    "tilltalsnamn": "Martin",
+    "sorteringsnamn": "Ådahl,Martin",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Stockholms kommun",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/1e70f7df-dd11-410b-941a-bcac14e919a8",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1e70f7df-dd11-410b-941a-bcac14e919a8_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1e70f7df-dd11-410b-941a-bcac14e919a8_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1e70f7df-dd11-410b-941a-bcac14e919a8_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "278",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0494843794418",
+          "hangar_id": "3057107",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0494843794418",
+          "hangar_id": "3057107",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "62",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-16",
+          "tom": "2022-10-04",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0494843794418",
+          "hangar_id": "3057107",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "martin.adahl[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0494843794418",
+          "hangar_id": "3057107"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "66601",
+          "typ": "telefonnummer",
+          "intressent_id": "0494843794418",
+          "hangar_id": "3057107"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0494843794418",
+          "hangar_id": "3057107"
+        }
+      ]
+    }
+  }
+}

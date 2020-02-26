@@ -1,0 +1,130 @@
+{
+  "person": {
+    "hangar_guid": "c13cebd0-fcab-4966-ba34-4a0e92318ba7",
+    "sourceid": "4da8bb6b-fc06-4f3a-ba25-f70dfe5eb5a7",
+    "intressent_id": "0497217816024",
+    "hangar_id": "5003699",
+    "fodd_ar": "1978",
+    "kon": "man",
+    "efternamn": "Selin",
+    "tilltalsnamn": "Markus",
+    "sorteringsnamn": "Selin,Markus",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Stockholms län",
+    "status": "Tjänstgörande statsrådsersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/4da8bb6b-fc06-4f3a-ba25-f70dfe5eb5a7",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4da8bb6b-fc06-4f3a-ba25-f70dfe5eb5a7_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4da8bb6b-fc06-4f3a-ba25-f70dfe5eb5a7_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4da8bb6b-fc06-4f3a-ba25-f70dfe5eb5a7_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "52",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2019-02-01",
+          "tom": "2022-09-26",
+          "uppgift": "Ibrahim Baylan",
+          "intressent_id": "0497217816024",
+          "hangar_id": "5003699",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "174",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2019-01-22",
+          "tom": "2019-01-31",
+          "uppgift": "Alexandra Völker",
+          "intressent_id": "0497217816024",
+          "hangar_id": "5003699",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "115",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2019-01-21",
+          "uppgift": "Ibrahim Baylan",
+          "intressent_id": "0497217816024",
+          "hangar_id": "5003699",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0497217816024",
+          "hangar_id": "5003699",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-10-04",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0497217816024",
+          "hangar_id": "5003699",
+          "sortering": "30",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "markus.selin[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0497217816024",
+          "hangar_id": "5003699"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Civilingenjör/civilekonom.",
+          "typ": "titlar",
+          "intressent_id": "0497217816024",
+          "hangar_id": "5003699"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0497217816024",
+          "hangar_id": "5003699"
+        }
+      ]
+    }
+  }
+}

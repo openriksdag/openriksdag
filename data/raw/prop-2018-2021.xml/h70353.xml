@@ -1,0 +1,1418 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5049523</hangar_id>
+    <dok_id datatype="string">H70353</dok_id>
+    <rm datatype="string">2019/20</rm>
+    <beteckning datatype="string">53</beteckning>
+    <typ datatype="string">prop</typ>
+    <subtyp datatype="string">prop</subtyp>
+    <doktyp datatype="string">prop</doktyp>
+    <typrubrik datatype="string">Proposition 2019/20:53</typrubrik>
+    <dokumentnamn datatype="string">Proposition</dokumentnamn>
+    <debattnamn datatype="string">Proposition</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">Infrastrukturdepartementet</organ>
+    <mottagare datatype="string">NU</mottagare>
+    <nummer datatype="int32">53</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2019-12-10 00:00:00</datum>
+    <systemdatum datatype="datetime">2020-01-23 14:26:11</systemdatum>
+    <publicerad datatype="datetime">2019-12-10 00:00:00</publicerad>
+    <titel datatype="string">Underskott i förhållande till elnätsföretagens intäktsramar för tillsynsperioden 2012-2015</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">Hänvisad</status>
+    <htmlformat datatype="string">html-ec</htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">prop-RIM</source>
+    <sourceid datatype="string">f7b78a5d-187b-4c6c-a2e4-6fe32efa2f94</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H70353/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H70353</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H70353</dokumentstatus_url_xml>
+    <html datatype="text">&lt;div style="margin:3px;"&gt;
+&lt;STYLE type="text/css"&gt;
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:10px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_1 #p1dimg1 {position:absolute;top:0px;left:546px;z-index:-1;width:54px;height:97px;}
+#page_1 #p1dimg1 #p1img1 {width:54px;height:97px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_2 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_2 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:14px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+#page_4 #p4dimg1 {position:absolute;top:269px;left:105px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_4 #p4dimg1 #p4img1 {width:123px;height:1px;}
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_6 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_6 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_7 #p7dimg1 {position:absolute;top:331px;left:63px;z-index:-1;width:393px;height:70px;}
+#page_7 #p7dimg1 #p7img1 {width:393px;height:70px;}
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_8 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_8 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_9 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_9 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_12 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_12 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_13 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_13 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_15 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_15 #id_2 {float:left;border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+#page_16 #p16dimg1 {position:absolute;top:119px;left:105px;z-index:-1;width:394px;height:23px;}
+#page_16 #p16dimg1 #p16img1 {width:394px;height:23px;}
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_19 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_19 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_19 #id_1 #id_1_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_19 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_19 #id_2 {border:none;z:b;margin:5px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+
+#page_19 #p19dimg1 {position:absolute;top:334px;left:63px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_19 #p19dimg1 #p19img1 {width:123px;height:1px;}
+
+
+
+
+#page_20 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_20 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_20 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_21 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_21 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_21 #id_1 #id_1_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_21 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_21 #id_2 {border:none;z:b;margin:9px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+
+#page_21 #p21dimg1 {position:absolute;top:410px;left:63px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_21 #p21dimg1 #p21img1 {width:123px;height:1px;}
+
+
+
+
+#page_22 {position:relative; overflow: hidden;z:b;margin:14px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_23 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_23 #id_1 {float:left;border:none;z:b;margin:10px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_23 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+
+#page_23 #p23dimg1 {position:absolute;top:221px;left:0px;z-index:-1;width:112px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_23 #p23dimg1 #p23img1 {width:112px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  18px 'Verdana' !important;l-h: 32px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft2{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft3{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft4{font:  12px 'Verdana' !important;l-h: 17px;}
+.ft5{font: italic  12px 'Verdana' !important;l-h: 17px;}
+.ft6{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft7{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft8{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft9{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft10{font: italic  12px 'Verdana' !important;l-h: 16px;}
+.ft11{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft12{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 15px;}
+.ft13{font:  14px 'Verdana' !important;margin-left: 50px;l-h: 26px;}
+.ft14{font:  14px 'Verdana' !important;l-h: 26px;}
+.ft15{font: bold  12px 'Verdana' !important;l-h: 16px;}
+.ft16{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft17{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft18{font: italic  12px 'Verdana' !important;l-h: 16px;}
+.ft19{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 16px;}
+.ft20{font:  12px 'Verdana' !important;l-h: 17px;}
+.ft21{font: bold  12px 'Verdana' !important;l-h: 16px;}
+.ft22{font:  10px 'Verdana' !important;l-h: 5px;}
+.ft23{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft24{font: italic  12px 'Verdana' !important;margin-left: 4px;l-h: 15px;}
+.ft25{font:  12px 'Verdana' !important;color: #808080;l-h: 15px;}
+.ft26{font: italic  12px 'Verdana' !important;margin-left: 4px;l-h: 15px;}
+.ft27{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 15px;}
+
+.p0{text-align: left;padding-left: 0px;padding-right: 420px;margin-top: 22px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p4{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 0px;margin-top: 32px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 180px;padding-right: 357px;margin-top: 19px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 0px;margin-top: 47px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 27px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p10{text-align: right;padding-right: 42px;margin-top: 305px;margin-bottom: 0px !important;}
+.p11{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p12{text-align: left;margin-top: 752px;margin-bottom: 0px !important;}
+.p13{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p14{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p15{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p17{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p18{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p19{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p20{text-align: right;padding-right: 42px;margin-top: 698px;margin-bottom: 0px !important;}
+.p21{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 11px;margin-bottom: 0px !important;}
+.p22{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p23{text-align: left;padding-left: 0px;margin-top: 28px;margin-bottom: 0px !important;}
+.p24{text-align: left;margin-top: 475px;margin-bottom: 0px !important;}
+.p25{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 10px;margin-bottom: 0px !important;}
+.p26{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p27{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p28{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 5px;margin-bottom: 0px !important;}
+.p29{text-align: left;padding-left: 0px;margin-top: 44px;margin-bottom: 0px !important;}
+.p30{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 6px;margin-bottom: 0px !important;}
+.p31{text-align: right;padding-right: 42px;margin-top: 12px;margin-bottom: 0px !important;}
+.p32{text-align: left;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p33{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 7px;margin-bottom: 0px !important;}
+.p34{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 10px;}
+.p35{text-align: left;padding-right: 63px;margin-top: 8px;margin-bottom: 0px !important;}
+.p36{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p37{text-align: left;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p38{text-align: left;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p39{text-align: left;padding-right: 63px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 11px;}
+.p40{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 10px;margin-bottom: 0px !important;}
+.p41{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;}
+.p42{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p43{text-align: left;padding-left: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p44{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 5px;margin-bottom: 0px !important;}
+.p45{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 50px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p46{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 14px;margin-bottom: 0px !important;}
+.p47{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p48{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p49{text-align: left;padding-left: 0px;margin-top: 40px;margin-bottom: 0px !important;}
+.p50{text-align: left;padding-left: 0px;margin-top: 5px;margin-bottom: 0px !important;}
+.p51{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;}
+.p52{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;}
+.p53{text-align: left;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;}
+.p54{text-align: left;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p55{text-align: left;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p56{text-align: left;margin-top: 11px;margin-bottom: 0px !important;}
+.p57{text-align: left;padding-right: 63px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p58{text-align: left;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;}
+.p59{text-align: left;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p60{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p61{text-align: left;margin-top: 12px;margin-bottom: 0px !important;}
+.p62{text-align: left;padding-right: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p63{text-align: left;padding-right: 0px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p64{text-align: left;padding-right: 0px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p65{text-align: left;padding-right: 0px;margin-top: 21px;margin-bottom: 0px !important;text-indent: 11px;}
+.p66{text-align: left;padding-right: 0px;margin-top: 5px;margin-bottom: 0px !important;}
+.p67{text-align: right;padding-right: 42px;margin-top: 752px;margin-bottom: 0px !important;}
+.p68{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p69{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p70{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p71{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;}
+.p72{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p73{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p74{text-align: left;padding-left: 0px;margin-top: 12px;margin-bottom: 0px !important;}
+.p75{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;}
+.p76{text-align: left;margin-top: 4px;margin-bottom: 0px !important;}
+.p77{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;}
+.p78{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p79{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p80{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 2px;margin-bottom: 0px !important;}
+.p81{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p82{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p83{text-align: left;padding-left: 0px;margin-top: 9px;margin-bottom: 0px !important;}
+.p84{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 5px;margin-bottom: 0px !important;}
+.p85{text-align: right;padding-right: 42px;margin-top: 30px;margin-bottom: 0px !important;}
+.p86{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p87{text-align: left;padding-right: 63px;margin-top: 18px;margin-bottom: 0px !important;text-indent: 11px;}
+.p88{text-align: left;padding-right: 63px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p89{text-align: left;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p90{text-align: left;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p91{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p92{text-align: left;padding-right: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p93{text-align: left;padding-right: 0px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p94{text-align: left;padding-right: 0px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p95{text-align: left;padding-right: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p96{text-align: left;padding-right: 0px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p97{text-align: left;padding-right: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p98{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p99{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;}
+.p100{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p101{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p102{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p103{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p104{text-align: left;margin-top: 3px;margin-bottom: 0px !important;}
+.p105{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p106{text-align: left;padding-right: 0px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p107{text-align: left;padding-right: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p108{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p109{text-align: left;padding-right: 0px;margin-top: 22px;margin-bottom: 0px !important;text-indent: 11px;}
+.p110{text-align: left;padding-left: 0px;margin-top: 44px;margin-bottom: 0px !important;}
+.p111{text-align: left;padding-left: 0px;margin-top: 21px;margin-bottom: 0px !important;}
+.p112{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 8px;margin-bottom: 0px !important;text-indent: 11px;}
+.p113{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p114{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 16px;margin-bottom: 0px !important;}
+.p115{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p116{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p117{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p118{text-align: left;padding-left: 0px;padding-right: 6px;margin-top: 0px;margin-bottom: 0px !important;}
+.p119{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;}
+.p120{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p121{text-align: right;margin-top: 611px;margin-bottom: 0px !important;}
+.p122{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 11px;margin-bottom: 0px !important;}
+.p123{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 7px;margin-bottom: 0px !important;}
+.p124{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p125{text-align: left;padding-left: 0px;margin-top: 5px;margin-bottom: 0px !important;}
+.p126{text-align: left;margin-top: 303px;margin-bottom: 0px !important;}
+.p127{text-align: left;margin-top: 33px;margin-bottom: 0px !important;}
+.p128{text-align: left;padding-right: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p129{text-align: left;padding-left: 240px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p130{text-align: left;padding-left: 0px;margin-top: 34px;margin-bottom: 0px !important;}
+.p131{text-align: right;padding-right: 42px;margin-top: 405px;margin-bottom: 0px !important;}
+.p132{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p133{text-align: left;margin-top: 738px;margin-bottom: 0px !important;}
+.p134{text-align: left;padding-right: 63px;margin-top: 16px;margin-bottom: 0px !important;}
+.p135{text-align: left;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p136{text-align: left;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;}
+.p137{text-align: left;margin-top: 17px;margin-bottom: 0px !important;}
+.p138{text-align: left;padding-left: 0px;margin-top: 28px;margin-bottom: 0px !important;}
+.p139{text-align: right;padding-right: 42px;margin-top: 329px;margin-bottom: 0px !important;}
+.p140{text-align: left;padding-left: 120px;padding-right: 63px;margin-top: 8px;margin-bottom: 0px !important;}
+.p141{text-align: left;margin-top: 123px;margin-bottom: 0px !important;}
+.p142{text-align: left;margin-top: 15px;margin-bottom: 0px !important;}
+.p143{text-align: left;padding-right: 42px;margin-top: 15px;margin-bottom: 0px !important;}
+.p144{text-align: left;margin-top: 13px;margin-bottom: 0px !important;}
+.p145{text-align: left;padding-right: 0px;margin-top: 76px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 396px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 130px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 396px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 130px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 16px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 380px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 14px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 52px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 344px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 35px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 36px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 389px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 97px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 156px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 327px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 214px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 198px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 69px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 469px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 182px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 215px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 106px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 197px;vertical-align: bottom;}
+.td23{padding: 0px;margin: 0px;width: 119px;vertical-align: bottom;}
+.td24{padding: 0px;margin: 0px;width: 412px;vertical-align: bottom;}
+
+.tr0{heightzzz: 31px;}
+.tr1{heightzzz: 25px;}
+.tr2{heightzzz: 21px;}
+.tr3{heightzzz: 22px;}
+.tr4{heightzzz: 18px;}
+.tr5{heightzzz: 20px;}
+.tr6{heightzzz: 27px;}
+.tr7{heightzzz: 32px;}
+.tr8{heightzzz: 29px;}
+.tr9{heightzzz: 15px;}
+.tr10{heightzzz: 16px;}
+.tr11{heightzzz: 17px;}
+.tr12{heightzzz: 30px;}
+.tr13{heightzzz: 19px;}
+.tr14{heightzzz: 23px;}
+.tr15{heightzzz: 5px;}
+.tr16{heightzzz: 28px;}
+
+.t0{width: 552px;margin-leftZ: 69px;margin-top: 5px;f:20px 'Verdana' !important;}
+.t1{width: 431px;margin-top: 17px;f:13px 'Verdana' !important;}
+.t2{width: 548px;margin-leftZ: 68px;f:20px 'Verdana' !important;}
+.t3{width: 507px;f:20px 'Verdana' !important;}
+.t4{width: 432px;margin-leftZ: 114px;margin-top: 25px;f:italic 12px 'Verdana' !important;}
+.t5{width: 564px;f:13px 'Verdana' !important;}
+.t6{width: 399px;margin-leftZ: 6px;f:20px 'Verdana' !important;}
+.t7{width: 336px;margin-top: 13px;f:italic 13px 'Verdana' !important;}
+.t8{width: 432px;margin-leftZ: 68px;f:italic 12px 'Verdana' !important;}
+.t9{width: 557px;margin-leftZ: 6px;f:13px 'Verdana' !important;}
+
+&lt;/STYLE&gt;
+
+
+
+&lt;DIV id="page_1"&gt;
+&lt;DIV id="p1dimg1"&gt;
+&lt;INGENBILD zsrc="H703531x1.jpg/" id="p1img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV class="dclr"&gt;&lt;/DIV&gt;
+&lt;P class="p0 ft0"&gt;Regeringens proposition 2019/20:53&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t0"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr0 td0"&gt;&lt;SPAN class="p1 ft1"&gt;Underskott i förhållande till elnätsföretagens&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td1"&gt;&lt;SPAN class="p2 ft1"&gt;Prop.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td2"&gt;&lt;SPAN class="p1 ft1"&gt;intäktsramar för tillsynsperioden &lt;NOBR&gt;2012–2015&lt;/NOBR&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td3"&gt;&lt;SPAN class="p2 ft1"&gt;2019/20:53&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p3 ft2"&gt;Regeringen överlämnar denna proposition till riksdagen.&lt;/P&gt;
+&lt;P class="p4 ft2"&gt;Stockholm den 5 december 2019&lt;/P&gt;
+&lt;P class="p5 ft3"&gt;Stefan Löfven&lt;/P&gt;
+&lt;P class="p6 ft5"&gt;Anders Ygeman &lt;SPAN class="ft4"&gt;(Infrastrukturdepartementet)&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p7 ft1"&gt;Propositionens huvudsakliga innehåll&lt;/P&gt;
+&lt;P class="p8 ft2"&gt;I propositionen föreslås att ett nätföretag inte ska kunna tillgodoräknas flera tillsynsperioders underskott när de nya bestämmelserna i ellagen om underskott i förhållande till intäktsramen tillämpas för första gången efter utgången av tillsynsperioden &lt;NOBR&gt;2016–2019.&lt;/NOBR&gt;&lt;/P&gt;
+&lt;P class="p9 ft2"&gt;Lagändringen föreslås träda i kraft den 1 april 2020.&lt;/P&gt;
+&lt;P class="p10 ft2"&gt;1&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_2"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p11 ft2"&gt;Prop. 2019/20:53&lt;/P&gt;
+&lt;P class="p12 ft2"&gt;2&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft1"&gt;Innehållsförteckning&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t1"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td4"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_3"&gt;1&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr2 td5"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_3"&gt;Förslag till riksdagsbeslut .................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td6"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_3"&gt;3&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td4"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_4"&gt;2&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td5"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_4"&gt;Förslag till lag om ändring i ellagen (1997:857)...............................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_4"&gt;4&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td4"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_5"&gt;3&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td5"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_5"&gt;Ärendet och dess beredning ..............................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_5"&gt;5&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td4"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_5"&gt;4&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td5"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_5"&gt;Bakgrund...........................................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_5"&gt;5&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td4"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_7"&gt;5&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr2 td5"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_7"&gt;Underskott i förhållande till intäktsramen för tillsynsperioden&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td6"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td4"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td5"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;NOBR&gt;&lt;A href="#page_7"&gt;2012–2015 ........................................................................................&lt;/A&gt;&lt;/NOBR&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_7"&gt;7&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td4"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_16"&gt;6&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr2 td5"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_16"&gt;Ikraftträdande..................................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td6"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_16"&gt;16&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td4"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_16"&gt;7&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td5"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_16"&gt;Förslagets konsekvenser .................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_16"&gt;16&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td4"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_18"&gt;8&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td5"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_18"&gt;Författningskommentar...................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_18"&gt;18&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr3 td7"&gt;&lt;SPAN class="p13 ft2"&gt;Bilaga 1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td8"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_19"&gt;Promemorians lagförslag..................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_19"&gt;19&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr3 td7"&gt;&lt;SPAN class="p13 ft2"&gt;Bilaga 2&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td8"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_20"&gt;Förteckning över remissinstanserna .................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_20"&gt;20&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr3 td7"&gt;&lt;SPAN class="p13 ft2"&gt;Bilaga 3&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td8"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_21"&gt;Lagrådsremissens lagförslag ............................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_21"&gt;21&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr3 td7"&gt;&lt;SPAN class="p13 ft2"&gt;Bilaga 4&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td8"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_22"&gt;Lagrådets yttrande ............................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_22"&gt;22&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr5 td0"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_23"&gt;Utdrag ur protokoll vid regeringssammanträde den 5 december&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td4"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td9"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td8"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_23"&gt;2019 .......................................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_23"&gt;23&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_3"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t2"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td10"&gt;&lt;SPAN class="p17 ft1"&gt;1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td11"&gt;&lt;SPAN class="p18 ft1"&gt;Förslag till riksdagsbeslut&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td12"&gt;&lt;SPAN class="p13 ft2"&gt;Prop. 2019/20:53&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p19 ft2"&gt;Regeringens förslag:&lt;/P&gt;
+&lt;P class="p9 ft2"&gt;Riksdagen antar regeringens förslag till lag om ändring i ellagen (1997:857).&lt;/P&gt;
+&lt;P class="p20 ft2"&gt;3&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_4"&gt;
+&lt;DIV id="p4dimg1"&gt;
+&lt;INGENBILD zsrc="H703534x1.jpg/" id="p4img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t3"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td13"&gt;&lt;SPAN class="p13 ft2"&gt;Prop. 2019/20:53 &lt;SPAN class="ft1"&gt;2&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p18 ft1"&gt;Förslag till lag om ändring i ellagen&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td13"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td14"&gt;&lt;SPAN class="p18 ft1"&gt;(1997:857)&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p21 ft7"&gt;Härigenom föreskrivs i fråga om ellagen (1997:857) att det i ikraftträdande- och övergångsbestämmelserna till lagen (2018:1448) om ändring i den lagen ska införas en ny punkt, 6, av följande lydelse.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t4"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td15"&gt;&lt;SPAN class="p13 ft3"&gt;Nuvarande lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td16"&gt;&lt;SPAN class="p13 ft3"&gt;Föreslagen lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td16"&gt;&lt;SPAN class="p22 ft3"&gt;6. Om intäktsramen för tillsyns-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td16"&gt;&lt;SPAN class="p13 ft8"&gt;perioden &lt;NOBR&gt;2016–2019&lt;/NOBR&gt; har ökats med&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td15"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td16"&gt;&lt;SPAN class="p13 ft8"&gt;tillämpning av 5 kap. 20 § i den äldre&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td16"&gt;&lt;SPAN class="p13 ft8"&gt;lydelsen, ska den ökningen inte beak-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td15"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td16"&gt;&lt;SPAN class="p13 ft8"&gt;tas vid tillämpningen av 5 kap. 29 §.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p23 ft2"&gt;Denna lag träder i kraft den 1 april 2020.&lt;/P&gt;
+&lt;P class="p24 ft2"&gt;4&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_5"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t2"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td10"&gt;&lt;SPAN class="p17 ft1"&gt;3&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td11"&gt;&lt;SPAN class="p18 ft1"&gt;Ärendet och dess beredning&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td12"&gt;&lt;SPAN class="p13 ft2"&gt;Prop. 2019/20:53&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p25 ft7"&gt;I 5 kap. ellagen (1997:857) finns bestämmelser om intäktsram för nätverksamhet. Bestämmelserna fick sin nuvarande lydelse sedan riksdagen antagit regeringens förslag i propositionen Elmarknadsfrågor (prop. 2017/18:237). Lagändringarna trädde i kraft den 1 januari 2019.&lt;/P&gt;
+&lt;P class="p26 ft9"&gt;Med anledning av en dom som meddelades av Kammarrätten i Jönköping den 11 februari 2019 (mål nr &lt;NOBR&gt;2700-18&lt;/NOBR&gt; m.fl.) har frågan uppkommit hur de nya bestämmelserna om avvikelser från intäktsramen bör tillämpas efter den tillsynsperiod som tar slut vid utgången av 2019. Frågan är närmare bestämt om underskott från tillsynsperioden &lt;NOBR&gt;2012–2015&lt;/NOBR&gt; ska kunna överföras till tillsynsperioden &lt;NOBR&gt;2020–2023.&lt;/NOBR&gt; Detta behandlas i en promemoria som tagits fram i Regeringskansliet. Promemorians lagförslag finns i &lt;SPAN class="ft8"&gt;bilaga 1&lt;/SPAN&gt;. Förslaget har remissbehandlats. En förteckning över remissinstanserna finns i &lt;SPAN class="ft8"&gt;bilaga 2&lt;/SPAN&gt;. Remissvaren och en sammanställning av svaren finns tillgängliga i Infrastrukturdepartementet (dnr I2019/01128/E).&lt;/P&gt;
+&lt;P class="p27 ft3"&gt;Lagrådet&lt;/P&gt;
+&lt;P class="p28 ft7"&gt;Regeringen beslutade den 14 november 2019 att inhämta Lagrådets yttrande över det lagförslag som finns i &lt;SPAN class="ft10"&gt;bilaga 3&lt;/SPAN&gt;. Lagrådets yttrande finns i &lt;SPAN class="ft10"&gt;bilaga 4&lt;/SPAN&gt;. Regeringen har följt Lagrådets synpunkter. Synpunkterna behandlas i avsnitt 5 och i författningskommentaren.&lt;/P&gt;
+&lt;P class="p29 ft1"&gt;4 Bakgrund&lt;/P&gt;
+&lt;P class="p3 ft3"&gt;Förhandsprövning av elnätsföretagens intäkter&lt;/P&gt;
+&lt;P class="p30 ft2"&gt;Bestämmelserna om intäktsram för nätverksamhet innebär att nätmyndigheten (Energimarknadsinspektionen) ska göra en förhandsprövning av elnätsföretagens intäkter från nätverksamheten. Förhandsprövningen innebär att de samlade intäkter som en nätkoncessionshavare (ett nätföretag) högst får uppbära från nätverksamheten under en tillsynsperiod ska rymmas inom en intäktsram. Intäkterna består främst av nätavgifter. Tillsynsperioden är normalt fyra år, men Energimarknadsinspektionen kan besluta om en annan tidsperiod om det finns särskilda skäl. Förhandsprövningen infördes 2010, och den första tillsynsperioden började löpa den 1 januari 2012 (prop. 2008/09:141). Bestämmelserna om intäktsram för nätverksamhet infördes för att genomföra artikel 37.6 i Europaparlamentets och rådets direktiv 2009/72/EG av den 13 juli 2009 om gemensamma regler för den inre marknaden för el och om upphävande av direktiv 2003/54/EG (elmarknadsdirektivet).&lt;/P&gt;
+&lt;P class="p27 ft3"&gt;Avvikelser från intäktsramen&lt;/P&gt;
+&lt;P class="p30 ft7"&gt;Efter varje tillsynsperiod ska Energimarknadsinspektionen kontrollera om nätföretagets intäkter från nätverksamheten varit större eller mindre än intäktsramen för perioden.&lt;/P&gt;
+&lt;P class="p31 ft2"&gt;5&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_6"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p11 ft2"&gt;Prop. 2019/20:53&lt;/P&gt;
+&lt;P class="p12 ft2"&gt;6&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p32 ft7"&gt;Om ett nätföretags samlade intäkter från nätverksamheten under tillsynsperioden hade avvikit från intäktsramen, skulle enligt de bestämmelser som gällde före den 1 januari 2019 det belopp med vilket intäkterna överstigit eller understigit intäktsramen minska respektive öka ramen för den påföljande tillsynsperioden (5 kap. 20 § ellagen i den dåvarande lydelsen). I propositionen Förhandsprövning av nättariffer (prop. 2008/09:141 s. 46) anförde regeringen följande.&lt;/P&gt;
+&lt;P class="p33 ft9"&gt;Om intäkterna från nätverksamheten har understigit intäktsramen bör nätföretaget få höja avgifterna för överföringstjänsterna under nästpåföljande tillsynsperiod. Annars kan nätföretaget för säkerhets skull kontinuerligt prissätta sina överföringstjänster så att avgiften ligger över den godtagbara nivån i syfte att undvika att intäktsramen underskrids.&lt;/P&gt;
+&lt;P class="p34 ft7"&gt;Ett nätföretag bör inte kunna få samla på sig flera tillsynsperioders underskott för att senare eventuellt kraftigt höja intäkterna. Ett underskott bör därför bara kunna utnyttjas påföljande tillsynsperiod.&lt;/P&gt;
+&lt;P class="p35 ft11"&gt;I författningskommentaren angavs att ett nätföretag inte kunde samla på sig flera tillsynsperioders underskott och att underskottet således gick förlorat om det inte utnyttjades påföljande period (prop. 2008/09:141 s. 112). Även i propositionen Elmarknadsfrågor konstaterade regeringen att ett nätföretag inte kunde samla på sig flera tillsynsperioders underskott (prop. 2017/18:237&lt;/P&gt;
+&lt;P class="p11 ft2"&gt;&lt;SPAN class="ft9"&gt;s.&lt;/SPAN&gt;&lt;SPAN class="ft12"&gt;61).&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p36 ft2"&gt;Regeringen bedömde att det fanns skäl att förtydliga hur ett underskott un-&lt;/P&gt;
+&lt;P class="p37 ft9"&gt;der en tillsynsperiod skulle hanteras med hänsyn till att det kunde medföra komplikationer att en avvikelse från intäktsramen föranledde en ändring av den redan beslutade intäktsramen för den följande tillsynsperioden. Därför infördes bestämmelser som innebär att nätföretaget under den närmast följande tillsynsperioden får uppbära beloppet utan att det anses omfattas av intäktsramen för den nya tillsynsperioden (5 kap. 29 § ellagen). Enligt regeringen skulle en sådan förenkling inte väsentligt förändra förutsättningarna för att utnyttja underskottet jämfört med den gällande bestämmelsen.&lt;/P&gt;
+&lt;P class="p38 ft9"&gt;De nya bestämmelserna innebär att om de samlade intäkterna från nätverksamheten under en tillsynsperiod har varit mindre än intäktsramen, ska Energimarknadsinspektionen besluta att nätföretaget under den närmast följande tillsynsperioden från nätverksamheten får uppbära ett belopp som motsvarar underskottet. Det belopp som nätmyndigheten beslutar ska inte anses vara intäkter från nätverksamheten vid avstämning mot intäktsramen för den närmast följande tillsynsperioden. Detta ska dock gälla endast i den utsträckning intäkterna från nätverksamheten annars skulle överstiga intäktsramen. I författningskommentaren anförde regeringen att nätföretaget måste utnyttja underskottet under den närmast följande tillsynsperioden och att möjligheten annars gick förlorad (prop. 2017/18:237 s. 101).&lt;/P&gt;
+&lt;P class="p39 ft4"&gt;Regeringen ansåg inte att det fanns skäl att införa en möjlighet att utnyttja ett underskott från en tillsynsperiod under flera tillsynsperioder därefter. I den frågan anförde regeringen (prop. 2017/18:237 s. 62):&lt;/P&gt;
+&lt;P class="p40 ft9"&gt;Konsekvenserna av att tillåta en ”överrullning” av underskott under två tillsynsperioder bör analyseras ytterligare. Regeringen bedömer att nätföretagen bör utnyttja eventuella underskott som uppstår under tillsynsperioden &lt;NOBR&gt;2016–2019&lt;/NOBR&gt; under den närmast följande tillsynsperioden utan&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_7"&gt;
+&lt;DIV id="p7dimg1"&gt;
+&lt;INGENBILD zsrc="H703537x1.jpg/" id="p7img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p41 ft7"&gt;möjlighet till fortsatt överrullning. Det kan dock finnas skäl att välja en Prop. 2019/20:53 annan ordning för tiden därefter. Regeringen avser att följa utvecklingen&lt;/P&gt;
+&lt;P class="p42 ft2"&gt;och kan återkomma till frågan när den är aktuell.&lt;/P&gt;
+&lt;P class="p43 ft3"&gt;Avvikelser för tillsynsperioden &lt;NOBR&gt;2016–2019&lt;/NOBR&gt;&lt;/P&gt;
+&lt;P class="p44 ft9"&gt;Efter utgången av 2019 kommer Energimarknadsinspektionen att slutligt ta ställning till storleken på intäktsramen för tillsynsperioden &lt;NOBR&gt;2016–2019.&lt;/NOBR&gt; In- spektionen kommer också att kontrollera om nätföretagens intäkter från nätverksamheten har avvikit från intäktsramen och fatta beslut med anledning av de avvikelser som konstateras. Besluten kan innebära att nätföretag som haft för höga intäkter får en minskad intäktsram för perioden &lt;NOBR&gt;2020–2023.&lt;/NOBR&gt; De kan också innebära att företag som haft intäkter som varit mindre än ramen får en möjlighet att höja nätavgifterna utöver det som ryms inom den redan beslutade intäktsramen för den nya tillsynsperioden.&lt;/P&gt;
+&lt;P class="p45 ft14"&gt;&lt;SPAN class="ft1"&gt;5&lt;/SPAN&gt;&lt;SPAN class="ft13"&gt;Underskott i förhållande till intäktsramen för tillsynsperioden &lt;/SPAN&gt;&lt;NOBR&gt;2012–2015&lt;/NOBR&gt;&lt;/P&gt;
+&lt;P class="p46 ft7"&gt;&lt;SPAN class="ft15"&gt;Regeringens förslag: &lt;/SPAN&gt;Om intäktsramen för tillsynsperioden &lt;NOBR&gt;2016–2019&lt;/NOBR&gt; har ökats med tillämpning av äldre bestämmelser om avvikelser från intäktsramen, ska den ökningen inte beaktas vid tillämpningen av de nya bestämmelserna om underskott i förhållande till intäktsramen.&lt;/P&gt;
+&lt;P class="p47 ft7"&gt;&lt;SPAN class="ft15"&gt;Promemorians förslag &lt;/SPAN&gt;överensstämmer i sak med regeringens. Promemorians lagförslag har dock en annan utformning än regeringens.&lt;/P&gt;
+&lt;P class="p48 ft8"&gt;&lt;SPAN class="ft16"&gt;Remissinstanserna: &lt;/SPAN&gt;Hyresgästföreningen&lt;SPAN class="ft9"&gt;, &lt;/SPAN&gt;Lantbrukarnas Riksförbund&lt;SPAN class="ft9"&gt;, &lt;/SPAN&gt;Umeå universitet&lt;SPAN class="ft9"&gt;, &lt;/SPAN&gt;Oberoende Elhandlare&lt;SPAN class="ft9"&gt;, &lt;/SPAN&gt;Skogen, Kemin, Gruvorna och Stålet (SKGS)&lt;SPAN class="ft9"&gt;, &lt;/SPAN&gt;Statens energimyndighet&lt;SPAN class="ft9"&gt;, &lt;/SPAN&gt;Statens fastighetsverk&lt;SPAN class="ft9"&gt;, &lt;/SPAN&gt;Svenska elnätsupproret&lt;SPAN class="ft9"&gt;, &lt;/SPAN&gt;Sveriges Allmännytta&lt;SPAN class="ft9"&gt;, &lt;/SPAN&gt;Sveriges Kommuner och Landsting &lt;SPAN class="ft9"&gt;och &lt;/SPAN&gt;Villaägarnas Riksförbund &lt;SPAN class="ft9"&gt;tillstyrker förslaget. &lt;/SPAN&gt;Energiföretagen Sverige, Elinorr&lt;SPAN class="ft9"&gt;, &lt;/SPAN&gt;E.ON Sverige AB&lt;SPAN class="ft9"&gt;, &lt;/SPAN&gt;Kraftringen Energi AB&lt;SPAN class="ft9"&gt;, &lt;/SPAN&gt;Lerum Energi AB&lt;SPAN class="ft9"&gt;, &lt;/SPAN&gt;Lidköpings kommun&lt;SPAN class="ft9"&gt;, &lt;/SPAN&gt;Lokalkraft Sverige&lt;SPAN class="ft9"&gt;, &lt;/SPAN&gt;Sveriges Elkraftentreprenörer&lt;SPAN class="ft9"&gt;, &lt;/SPAN&gt;Swedegas AB &lt;SPAN class="ft9"&gt;och &lt;/SPAN&gt;Weum Gas Aktiebolag &lt;SPAN class="ft9"&gt;avstyrker förslaget, liksom &lt;/SPAN&gt;Ellevio AB&lt;SPAN class="ft9"&gt;, &lt;/SPAN&gt;Luleå Energi elnät AB&lt;SPAN class="ft9"&gt;, &lt;/SPAN&gt;Tekniska verken Linköping Nät AB&lt;SPAN class="ft9"&gt;, &lt;/SPAN&gt;Ulricehamns Energi AB&lt;SPAN class="ft9"&gt;, &lt;/SPAN&gt;Vattenfall Eldistribution AB&lt;SPAN class="ft9"&gt;, &lt;/SPAN&gt;Västerbergslagens Elnät AB &lt;SPAN class="ft9"&gt;och ett antal andra elnätsföretag. &lt;/SPAN&gt;Förvaltningsrätten i Linköping &lt;SPAN class="ft9"&gt;anser att det av de nya bestämmelserna bör framgå att det ska göras en beräkning av intäktsramen. &lt;/SPAN&gt;Sveriges advokatsamfund &lt;SPAN class="ft9"&gt;anser inte att förslaget i dess nuvarande utformning bör läggas till grund för lagstiftning. Övriga remissinstanser har inga invändningar mot förslaget.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p49 ft17"&gt;Skälen för regeringens förslag&lt;/P&gt;
+&lt;P class="p50 ft3"&gt;Lagstiftarens avsikt&lt;/P&gt;
+&lt;P class="p51 ft7"&gt;Som framgår av de förarbetsuttalanden som nämns i avsnitt 4 har lagstiftarens avsikt varit att ett nätföretag inte ska kunna samla på sig flera tillsynsperioders underskott.&lt;/P&gt;
+&lt;P class="p52 ft2"&gt;7&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_8"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p11 ft2"&gt;Prop. 2019/20:53&lt;/P&gt;
+&lt;P class="p12 ft2"&gt;8&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft3"&gt;Förvaltningsdomstolarnas prövning&lt;/P&gt;
+&lt;P class="p53 ft9"&gt;Energimarknadsinspektionen beslutade under 2017 att öka intäktsramarna för ett stort antal nätföretag med tillämpning av 5 kap. 20 § ellagen (1997:857) i dess dåvarande lydelse. Genom Energimarknadsinspektionens beslut ökades intäktsramarna för tillsynsperioden &lt;NOBR&gt;2016–2019&lt;/NOBR&gt; med anledning av att nätföretagens intäkter hade understigit intäktsramen för tillsynsperioden &lt;NOBR&gt;2012–2015.&lt;/NOBR&gt; I besluten angav inspektionen att beloppet som ökat intäktsramen inte kunde föras vidare till tillsynsperioden &lt;NOBR&gt;2020–2023.&lt;/NOBR&gt;&lt;/P&gt;
+&lt;P class="p54 ft2"&gt;Nätföretagen överklagade Energimarknadsinspektionens beslut till Förvaltningsrätten i Linköping. Efter prövning i sak upphävde förvaltningsrätten besluten i den del som avsåg att beloppet som ökat intäktsramen för tillsynsperioden &lt;NOBR&gt;2016–2019&lt;/NOBR&gt; inte kunde föras vidare till tillsynsperioden &lt;NOBR&gt;2020–2023&lt;/NOBR&gt; (Förvaltningsrätten i Linköpings dom den 3 september 2018 i mål nr &lt;NOBR&gt;1964-18&lt;/NOBR&gt; m.fl.). Förvaltningsrätten ansåg inte att ellagen i dess dåvarande lydelse gav stöd för att ett s.k. underskott som inte utnyttjas under påföljande tillsynsperiod går förlorat.&lt;/P&gt;
+&lt;P class="p55 ft7"&gt;Energimarknadsinspektionen överklagade förvaltningsrättens dom. Kammarrätten i Jönköping avslog överklagandet i en dom den 11 februari 2019. Liksom förvaltningsrätten ansåg kammarrätten att den ekonomiska begränsning för ett nätföretag som skulle ligga i att ett underskott gick förlorat om det inte utnyttjades påföljande period inte kom till uttryck i lagtexten (Kammarrätten i Jönköpings dom den 11 februari 2019 i mål nr &lt;NOBR&gt;2700-18&lt;/NOBR&gt; m.fl.). Kammarrättens dom har fått laga kraft.&lt;/P&gt;
+&lt;P class="p56 ft3"&gt;En ändring av de nya bestämmelserna är motiverad&lt;/P&gt;
+&lt;P class="p53 ft9"&gt;Förvaltningsdomstolarnas prövning gällde tillämpningen av bestämmelser som fr.o.m. den 1 januari 2019 har ersatts av nya bestämmelser om avvikelser från intäktsramen. En konsekvens av domstolarnas bedömning är dock att det belopp som enligt de aktuella besluten ökat intäktsramarna för tillsynsperioden &lt;NOBR&gt;2016–2019&lt;/NOBR&gt; kan få betydelse när de nya bestämmelserna om avvikelser från intäktsramen tillämpas för första gången. Nätföretagen skulle på det sättet få möjlighet att rulla över underskott från tillsynsperioden &lt;NOBR&gt;2012–2015&lt;/NOBR&gt; till perioden &lt;NOBR&gt;2020–2023.&lt;/NOBR&gt; Som framgår ovan är detta en tillämpning som går emot intentionerna bakom de nya bestämmelserna. Att någon överrullning inte ska kunna ske från den första tillsynsperioden till den tredje har varit en utgångspunkt för utformningen av regelverket.&lt;/P&gt;
+&lt;P class="p57 ft7"&gt;Mot denna bakgrund är en lagändring motiverad för att säkerställa att regelverket tillämpas på det sätt som lagstiftaren har avsett och som även kommer till uttryck i de nya bestämmelserna (5 kap. 29 § ellagen). I det sammanhanget har lagstiftaren även beaktat kundernas intresse av låga och stabila nättariffer.&lt;/P&gt;
+&lt;P class="p56 ft3"&gt;Hur påverkas elnätsavgifterna?&lt;/P&gt;
+&lt;P class="p58 ft9"&gt;Generellt medför förslaget att kundernas avgifter under den tillsynsperiod som börjar år 2020 kommer att bli lägre än vad som skulle ha varit fallet utan en lagändring. Det gäller dock endast kunder hos de nätföretag som har kvar outnyttjat utrymme inom intäktsramarna för tillsynsperioden &lt;NOBR&gt;2012–2015.&lt;/NOBR&gt;&lt;/P&gt;
+&lt;P class="p59 ft7"&gt;&lt;SPAN class="ft10"&gt;Ulricehamns Energi AB &lt;/SPAN&gt;anför att om underintäkter från &lt;NOBR&gt;2012–2015&lt;/NOBR&gt; inte får sparas, kan bolaget tvingas att maximera uttaget under perioden 2020– 2023 för att säkra en annars förlorad kapitalreserv som kan behövas för att&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_9"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p60 ft7"&gt;klara exempelvis framtida och ännu oförutsedda investeringsbehov. Regeringen konstaterar dock att det inte är meningen att ett nätföretag ska kunna samla på sig flera perioders underskott som en sorts kapitalreserv (jfr prop. 2008/09:141 s. 46). Att ett nätföretag utnyttjar intäktsramen fullt ut under en tillsynsperiod är däremot förenligt med regleringens syfte.&lt;/P&gt;
+&lt;P class="p61 ft3"&gt;En förutsebar reglering&lt;/P&gt;
+&lt;P class="p62 ft9"&gt;Ett stort antal remissinstanser, främst elnätsföretag, framhåller vikten av en reglering som är långsiktig och förutsebar. De anför också att promemorians förslag kommer att leda till att nätföretagen måste revidera sina investeringsplaner för tillsynsperioden &lt;NOBR&gt;2020–2023.&lt;/NOBR&gt; &lt;SPAN class="ft8"&gt;Sveriges Elkraftentreprenörer &lt;/SPAN&gt;anför att bristen på stabilitet och förutsägbarhet motverkar elkraftentreprenörernas arbete för att säkerställa kompetensförsörjningen inom branschen. I ett rättsutlåtande som åberopas av &lt;SPAN class="ft8"&gt;Ellevio AB &lt;/SPAN&gt;anförs också att förslaget står i strid med elmarknadsdirektivets krav att tariffer eller metoder för att beräkna tariffer ska utformas så att nödvändiga investeringar i elnäten kan göras på ett sätt som gör det möjligt att säkra nätens funktion (artikel 37.6 a i elmarknadsdirektivet).&lt;/P&gt;
+&lt;P class="p63 ft2"&gt;Som regeringen framhåller ovan är förslaget i linje med de intentioner som framgår av lagens förarbeten. Förvaltningsdomstolarnas prövning avslutades dessutom så sent som i början av 2019. Dessförinnan har nätföretagen inte utan vidare kunnat förutsätta att det skulle vara möjligt att föra över underskott från den första tillsynsperioden till den tredje.&lt;/P&gt;
+&lt;P class="p64 ft9"&gt;När det gäller utrymmet för investeringar kan det tilläggas att intäktsramen ska beräknas så att den ger utrymme för en sådan avkastning på kapitalbasen som behövs för att i konkurrens med alternativa placeringar med motsvarande risk få tillgång till kapital för investeringar (5 kap. 1 § första stycket 3 ellagen). En utgångspunkt för regleringen är alltså att nätföretagen normalt kan få kapital till investeringar på andra sätt än genom kundernas avgifter, exempelvis genom lån. En utebliven möjlighet att ta med sig underskott över flera tillsynsperioder måste alltså inte innebära att nätföretagets investeringsnivåer kommer att behöva fluktuera mer över tid, något som &lt;SPAN class="ft8"&gt;Tekniska verken Linköping Nät AB &lt;/SPAN&gt;varnar för.&lt;/P&gt;
+&lt;P class="p65 ft7"&gt;&lt;SPAN class="ft10"&gt;Luleå Energi Elnät AB &lt;/SPAN&gt;ser ett framtida behov av att kunna rulla över flera perioders underintäkter. Frågan ligger utanför ramarna för det nu aktuella lagstiftningsärendet, som endast gäller underskott från tillsynsperioden &lt;NOBR&gt;2012–2015.&lt;/NOBR&gt; Som framgår ovan avser dock regeringen att följa utvecklingen och kan återkomma till frågan om den blir aktuell.&lt;/P&gt;
+&lt;P class="p61 ft3"&gt;Vilken betydelse bör tillmätas utdragna domstolsprocesser?&lt;/P&gt;
+&lt;P class="p66 ft9"&gt;Flera remissinstanser framhåller att ett nätföretag som inte utnyttjat hela intäktsramen för perioden &lt;NOBR&gt;2012–2015&lt;/NOBR&gt; kan drabbas hårdare än nätföretag som utnyttjat hela eller större delar av sina intäktsramar före utgången av 2019. &lt;SPAN class="ft8"&gt;Vattenfall Eldistribution AB &lt;/SPAN&gt;och &lt;SPAN class="ft8"&gt;Västerbergslagens Elnät AB &lt;/SPAN&gt;pekar på den korta tid som återstår av den andra tillsynsperioden och att företagen har begränsade möjligheter att ta ut den outnyttjade intäktsramen. Regeringen ifrågasätter inte att promemorians förslag i och för sig kan få sådana konsekvenser men konstaterar samtidigt att en sådan begränsning kan sägas vara i enlighet med lagstiftarens ursprungliga intentioner. Detta är alltså någonting som nätföretagen har haft anledning att beakta när de har bestämt sina avgifts-&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft2"&gt;Prop. 2019/20:53&lt;/P&gt;
+&lt;P class="p67 ft2"&gt;9&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_10"&gt;
+
+
+&lt;P class="p68 ft7"&gt;Prop. 2019/20:53 nivåer. Det finns dock förhållanden som bör beaktas särskilt när det gäller den första tillsynsperioden.&lt;/P&gt;
+&lt;P class="p69 ft9"&gt;Ett stort antal elnätsföretag överklagade Energimarknadsinspektionens beslut om intäktsram för tillsynsperioden &lt;NOBR&gt;2012–2015.&lt;/NOBR&gt; Som &lt;SPAN class="ft8"&gt;E.ON Sverige AB &lt;/SPAN&gt;påpekar sträckte sig den juridiska processen fram till september 2016, när den påföljande tillsynsperioden redan hade börjat. Förvaltningsdomstolarna fastställde dessutom intäktsramar som var väsentligt större än de ramar som Energimarknadsinspektionen hade beslutat. De utdragna domstolsprocesserna medförde att en del nätföretag inte hade någon reell möjlighet att utnyttja den intäktsram som slutligt bestämdes för tillsynsperioden &lt;NOBR&gt;2012–2015.&lt;/NOBR&gt; Sammantaget kan förhållandena anses vara så speciella att det finns skäl att överväga en särskild ordning för att hantera ett underskott i förhållande till intäktsramen för den första tillsynsperioden.&lt;/P&gt;
+&lt;P class="p70 ft3"&gt;Krav på investeringar i elnätet&lt;/P&gt;
+&lt;P class="p71 ft2"&gt;Regeringen ser dock inte skäl att förutsättningslöst överge de ursprungliga intentionerna bakom bestämmelserna om avvikelser för intäktsramen. Om nätföretagen får möjlighet att utnyttja underskott som är hänförliga till den första tillsynsperioden, bör möjligheten vara knuten till villkor om att intäkterna ska användas till de investeringar i elnäten som krävs för att möta växande behov när det gäller kapacitet, leveranssäkerhet och efterfrågeflexibilitet. Som flera remissinstanser betonar är investeringar i elnäten viktiga för att omställningen av energisystemet ska kunna fortsätta. Det bör då röra sig om investeringar utöver dem som under alla förhållanden krävs för att nätföretagen ska leva upp till ellagens krav på hur nätverksamhet ska bedrivas.&lt;/P&gt;
+&lt;P class="p72 ft2"&gt;Det finns för närvarande inte något underlag som gör det möjligt för regeringen att i detalj redovisa hur en sådan författningsreglering bör utformas. I Regeringskansliet pågår emellertid ett arbete för att ta fram ett författningsförslag som ger ett särskilt investeringsutrymme till nätföretag som har outnyttjade underskott. Arbetet har följande utgångspunkter.&lt;/P&gt;
+&lt;P class="p69 ft9"&gt;Ett nätföretag som har ett särskilt investeringsutrymme bör kunna tillgodoräknas investeringar som görs under tillsynsperioderna &lt;NOBR&gt;2020–2023&lt;/NOBR&gt; och 2024– 2027. Vissa begränsningar bör dock gälla. Det särskilda investeringsutrymmet bör gälla investeringar endast till den del de sammantaget överstiger en procent av det kapital som krävs för att bedriva elnätsverksamheten (kapitalbasen) och endast 75 procent av det överskjutande beloppet. Investeringar bör inte omfattas till den del de finansieras genom anslutningsavgifter. Ett nätföretag som gör investeringar inom ramen för det särskilda investeringsutrymmet ska få möjlighet att ta ut större intäkter, som motsvarar det investeringsbelopp som tillgodoräknas företaget.&lt;/P&gt;
+&lt;P class="p73 ft4"&gt;Regeringen avser alltså att återkomma med ett lagförslag som i stora drag har detta innehåll.&lt;/P&gt;
+&lt;P class="p74 ft3"&gt;Egendomsskyddet&lt;/P&gt;
+&lt;P class="p75 ft18"&gt;Energiföretagen Sverige&lt;SPAN class="ft11"&gt;, flera elnätsföretag, &lt;/SPAN&gt;Swedegas AB &lt;SPAN class="ft11"&gt;och &lt;/SPAN&gt;Weum Gas Aktiebolag &lt;SPAN class="ft11"&gt;anser att promemorians förslag är oförenligt med det egendomsskydd som föreskrivs i 2 kap. 15 § regeringsformen, artikel 1 i första tilläggsprotokollet till den europeiska konventionen om skydd för de mänskliga&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p76 ft2"&gt;10&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_11"&gt;
+
+
+&lt;P class="p77 ft7"&gt;rättigheterna och de grundläggande friheterna (Europakonventionen) och Prop. 2019/20:53 artikel 17 i EU:s stadga om de grundläggande rättigheterna (rättighetsstadgan).&lt;/P&gt;
+&lt;P class="p78 ft2"&gt;Som redan nämnts har regeringen för avsikt att lägga fram ett lagförslag som gör det möjligt för nätföretagen att utnyttja underskott från tillsynsperioden &lt;NOBR&gt;2012–2015.&lt;/NOBR&gt; Möjligheten kommer dock att vara begränsad på det sättet att den förutsätter att nätföretaget genomför vissa investeringar. Det är därför nödvändigt att ta ställning till om den nu aktuella regleringen kan stå i strid med egendomsskyddet på det sätt som remissinstanserna gör gällande.&lt;/P&gt;
+&lt;P class="p79 ft9"&gt;Egendomsskyddet enligt regeringsformen åberopas av de aktuella remissinstanserna till den del det innebär att vars och ens egendom är tryggad genom att ingen kan tvingas avstå sin egendom till det allmänna eller till någon enskild genom expropriation eller något annat sådant förfogande utom när det krävs för att tillgodose angelägna allmänna intressen (2 kap.&lt;/P&gt;
+&lt;P class="p80 ft7"&gt;&lt;SPAN class="ft2"&gt;15&lt;/SPAN&gt;&lt;SPAN class="ft19"&gt;§ första stycket regeringsformen). Skyddet gäller enbart i fråga om tvångsöverföring av egendom och bara för faktiskt existerade rättigheter (RÅ 2001 ref. 72).&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p81 ft9"&gt;Av artikel 1 första stycket i det första tilläggsprotokollet till Europakonventionen följer att varje fysisk eller juridisk person ska ha rätt till respekt för sin egendom samt att ingen får berövas sin egendom annat än i det allmännas intresse och under de förutsättningar som anges i lag och i folkrättens allmänna grundsatser. Bestämmelsen gäller även som svensk lag, eftersom konventionen har inkorporerats i svensk rätt (prop. 1993/94:117). Begreppet egendom i artikel 1 har en autonom och vidsträckt innebörd. Med egendom avses således inte bara fast och lös egendom utan också begränsade sakrätter samt fordringar och immateriella rättigheter. Även ekonomiska intressen och förväntningar avseende utövande av näringsverksamhet omfattas av skyddet.&lt;/P&gt;
+&lt;P class="p82 ft7"&gt;Enligt artikel 17.1 i rättighetsstadgan har var och en rätt att besitta lagligen förvärvad egendom, att nyttja den, att förfoga över den och att testamentera bort den. Ingen får berövas sin egendom utom då samhällsnyttan kräver det, i de fall och under de förutsättningar som föreskrivs i lag och mot rättmätig ersättning för sin förlust i rätt tid. I artikel 52.3 stadgas att i den mån stadgan omfattar rättigheter som motsvarar rättigheter som garanteras av Europakonventionen ska rättigheterna ha samma innebörd och räckvidd som i konventionen. Bestämmelsen hindrar inte unionsrätten från att tillförsäkra ett mer långtgående skydd.&lt;/P&gt;
+&lt;P class="p83 ft3"&gt;Är det fråga om tvångsöverföring av egendom?&lt;/P&gt;
+&lt;P class="p84 ft9"&gt;Som framgår ovan innebär regleringen i 2 kap. 15 § första stycket regeringsformen att var och en är skyddad mot tvångsvis överföring av en egendomsrätt till det allmänna eller någon annan enskild genom expropriation eller annat sådant förfogande. En lagbestämmelse som innebär att en tidigare outnyttjad intäktsram bara får utnyttjas under en begränsad tid på fyra år efter en myndighets fattade beslut om sådan ram utgör inte ett sådant expropriatoriskt ingrepp mot den enskilde som grundlagsbestämmelsen tar sikte på. Med andra ord tillförs inte det allmänna eller någon annan enskild genom en tvångsåtgärd egendom som tillhör nätföretaget. Redan på den grunden utgör förslaget inte någon begränsning av den grundlagsskyddade äganderätten.&lt;/P&gt;
+&lt;P class="p85 ft2"&gt;11&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_12"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p86 ft2"&gt;Prop. 2019/20:53&lt;/P&gt;
+&lt;P class="p12 ft2"&gt;12&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft3"&gt;Är underskottet existerande egendom?&lt;/P&gt;
+&lt;P class="p53 ft9"&gt;De remissinstanser som menar att det outnyttjade underskottet från den första tillsynsperioden är existerande egendom – och alltså inte endast en förväntan om framtida intäkter – bygger sitt resonemang på att intäktsramen skulle vara en rättighet som tillerkänts nätföretaget. &lt;SPAN class="ft8"&gt;Swedegas AB &lt;/SPAN&gt;menar att intäktsramen utgör ett latent anspråk på kundkollektivet. Den uppfattningen förs också fram i ett rättsutlåtande som åberopas av &lt;SPAN class="ft8"&gt;Vattenfall Eldistribution AB&lt;/SPAN&gt;. I ett rättsutlåtande som åberopas av &lt;SPAN class="ft8"&gt;Ellevio AB &lt;/SPAN&gt;anförs att underskotten från tillsynsperioden &lt;NOBR&gt;2012–2015&lt;/NOBR&gt; är att anse som en framtida inkomst som redan har intjänats. I utlåtandena framhålls att Kammarrätten i Jönköping anförde att det får ses som ”en sorts ekonomisk tillgång för företagen” att kunna föra vidare ökningsbelopp.&lt;/P&gt;
+&lt;P class="p87 ft9"&gt;Beslutet om intäktsram innebär dock inte att nätföretaget tillerkänns en rättighet utan att företagets möjligheter att tillgodogöra sig intäkter från nätverksamheten begränsas (1 kap. 5 a § och 5 kap. 1 § ellagen). Nätföretagens rätt att kräva kunderna på betalning följer inte av intäktsramen utan uppkommer enligt vanliga civilrättsliga regler genom att nätföretaget ingår ett avtal med kunden om anslutning till elnätet eller överföring av el och sedan tillhandahåller tjänster i enlighet med avtalet. Intäktsramen kan alltså inte anses utgöra en fordran mot kundkollektivet. Eftersom intäktsramen inte grundar någon fordran mot kunderna, är underskottet från den första tillsynsperioden inte heller en framtida inkomst som redan har intjänats.&lt;/P&gt;
+&lt;P class="p88 ft11"&gt;I ett rättsutlåtande berörs också förhållandet att om en nätkoncession överlåts, ska den intäktsram som gäller för koncessionen fortsätta att gälla efter överlåtelsen och den nya nätkoncessionshavaren träda in i överlåtarens ställe (5 kap. 33 § ellagen). Det nätföretag som övertar nätkoncessionen får alltså samma skyldighet som överlåtaren att inte ta ut högre intäkter från nätverksamheten än vad intäktsramen ger utrymme för. Detta innebär dock inte att intäktsramen i sig är en tillgång som kan överlåtas.&lt;/P&gt;
+&lt;P class="p56 ft3"&gt;Har nätföretagen legitima förväntningar?&lt;/P&gt;
+&lt;P class="p53 ft2"&gt;Framtida inkomster kan under vissa förhållanden anses vara egendom trots att de inte redan har intjänats eller utgör föremål för en säker fordran. Av rättspraxis från Europeiska domstolen för mänskliga rättigheter (Europadomstolen) framgår att det kan finnas särskilda omständigheter som motiverar att den berörde har en legitim förväntan att få ett visst förmögenhetsvärde. Frågan är då om nätföretagen på rimliga grunder kan hävda sådana legitima förväntningar som innebär att de aktuella underskotten kan anses representera egendom i Europakonventionens mening.&lt;/P&gt;
+&lt;P class="p89 ft2"&gt;Som redan framgått innebär beslutet om intäktsram inte att ett nätföretag får en rätt till ett visst belopp från staten eller någon enskild. Även om ett nätföretag i kraft av sitt monopol har en stark ställning i förhållande till kunderna är det samlade avgiftsuttaget inte heller en fråga endast om hur stor intäktsramen är. Inkomsterna är också beroende av sådana faktorer som hur många kunder företaget har och kundernas möjlighet att betala. Regeringen anser att det inte finns stöd i Europadomstolens praxis för att nätföretagen har legitima förväntningar i den mening som nu är aktuell.&lt;/P&gt;
+&lt;P class="p90 ft4"&gt;Mot denna bakgrund anser regeringen att nätföretagens möjlighet att utnyttja underskott från tillsynsperioden &lt;NOBR&gt;2012–2015&lt;/NOBR&gt; under tillsynsperioden&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_13"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p91 ft20"&gt;&lt;NOBR&gt;2020–2023&lt;/NOBR&gt; inte utgör egendom som är skyddad enligt artikel 1 i första tillläggsprotokollet till Europakonventionen eller artikel 17 i rättighetsstadgan.&lt;/P&gt;
+&lt;P class="p61 ft3"&gt;Rätten till en rättvis rättegång&lt;/P&gt;
+&lt;P class="p92 ft3"&gt;Vattenfall Eldistribution AB &lt;SPAN class="ft2"&gt;och &lt;/SPAN&gt;Kraftringen Energi AB &lt;SPAN class="ft2"&gt;anser att förslaget strider mot kravet på en rättvis rättegång enligt artikel 6.1 i Europakonventionen. Vattenfall hänvisar till att det fortfarande pågår mål som gäller storleken på intäktsramen för tillsynsperioden &lt;/SPAN&gt;&lt;NOBR&gt;&lt;SPAN class="ft2"&gt;2012–2015.&lt;/SPAN&gt;&lt;/NOBR&gt;&lt;SPAN class="ft2"&gt; Först efter det att målen är avgjorda kan de exakta underskotten för perioden beräknas för de aktuella nätföretagen. Kraftringen Energi AB menar att lagförslaget i praktiken upphäver kammarrättens dom.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p93 ft2"&gt;Regeringen vill framhålla att lagändringen inte gäller de bestämmelser som domstolarna ska tillämpa i fråga om storleken på intäktsramen för den första tillsynsperioden. Lagförslaget kan alltså inte påverka målens utgång. Den föreslagna lagändringen kan emellertid påverka vilken praktisk betydelse utgången i de aktuella målen får för nätföretagen. Regeringen vill dock i det sammanhanget peka på att avsikten, som nämns ovan, är att nätföretagen genom kommande lagändringar ska kunna tillgodoräknas underskott för tillsynsperioden &lt;NOBR&gt;2012–2015,&lt;/NOBR&gt; om än under förutsättning att företaget gör vissa investeringar i elnätet.&lt;/P&gt;
+&lt;P class="p94 ft2"&gt;När det gäller frågan om hur lagförslaget förhåller sig till kammarrättens dom noterar regeringen att förvaltningsdomstolarna enbart har upphävt Energimarknadsinspektionens beslut i den del som avser överföring av underskott. Domarna innefattar inte något beslut i sak i fråga om intäktsramen för efterföljande tillsynsperioder.&lt;/P&gt;
+&lt;P class="p63 ft4"&gt;Regeringen anser mot denna bakgrund att förslaget inte står i strid med kravet på en rättvis rättegång.&lt;/P&gt;
+&lt;P class="p61 ft3"&gt;Rättsstatliga och &lt;NOBR&gt;EU-rättsliga&lt;/NOBR&gt; principer&lt;/P&gt;
+&lt;P class="p95 ft8"&gt;Ellevio AB&lt;SPAN class="ft9"&gt;, &lt;/SPAN&gt;Energiföretagen Sverige &lt;SPAN class="ft9"&gt;och &lt;/SPAN&gt;E.ON Sverige AB &lt;SPAN class="ft9"&gt;anför att förslaget står i strid med rättsstatliga principer eller sådana &lt;/SPAN&gt;&lt;NOBR&gt;&lt;SPAN class="ft9"&gt;EU-rättsliga&lt;/SPAN&gt;&lt;/NOBR&gt;&lt;SPAN class="ft9"&gt; principer som en medlemsstat måste iaktta när den genomför &lt;/SPAN&gt;&lt;NOBR&gt;&lt;SPAN class="ft9"&gt;EU-direktiv.&lt;/SPAN&gt;&lt;/NOBR&gt;&lt;SPAN class="ft9"&gt; Remissinstanserna pekar särskilt på den &lt;/SPAN&gt;&lt;NOBR&gt;&lt;SPAN class="ft9"&gt;EU-rättsliga&lt;/SPAN&gt;&lt;/NOBR&gt;&lt;SPAN class="ft9"&gt; proportionalitetsprincipen och på rättssäkerhetsprincipen och de med rättssäkerhetsprincipen sammanhängande principerna om förbud mot retroaktiv lagstiftning och om skydd för berättigade förväntningar. Remissynpunkterna behandlas nedan med utgångspunkten att principerna är tillämpliga.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p96 ft18"&gt;Sveriges advokatsamfund &lt;SPAN class="ft11"&gt;och &lt;/SPAN&gt;Lerum Energi AB &lt;SPAN class="ft11"&gt;efterlyser överväganden i frågan om huruvida det är förenligt med de kriterier som gäller för en rättsstat att införa en bestämmelse som medför att de ekonomiska effekterna av enskilda domar som har gått en statlig myndighet emot undanröjs.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p61 ft3"&gt;Proportionalitetsprincipen&lt;/P&gt;
+&lt;P class="p97 ft9"&gt;Den &lt;NOBR&gt;EU-rättsliga&lt;/NOBR&gt; proportionalitetsprincipen innebär att en åtgärd inte får gå utöver vad som är ändamålsenligt och nödvändigt för att uppnå de legitima mål som eftersträvas. När det finns flera ändamålsenliga åtgärder att välja mellan, ska den åtgärd väljas som är minst ingripande. De olägenheter som vållas får inte vara orimliga i förhållande till de eftersträvade målen.&lt;/P&gt;
+&lt;P class="p94 ft20"&gt;Förslaget syftar till att förhindra stora avgiftshöjningar utan någon motsvarande nytta för nätkunderna. Det kommer dessutom att kombineras med&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft2"&gt;Prop. 2019/20:53&lt;/P&gt;
+&lt;P class="p67 ft2"&gt;13&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_14"&gt;
+
+
+&lt;P class="p98 ft7"&gt;Prop. 2019/20:53 bestämmelser som gör det möjligt för nätföretagen att, om än med vissa begränsningar, utnyttja gamla underskott. I praktiken saknas andra möjligheter att uppnå den intressebalansering som regeringen har som målsättning. Under sådana förhållanden är förslaget förenligt med kravet på proportionalitet.&lt;/P&gt;
+&lt;P class="p74 ft3"&gt;Retroaktivitet&lt;/P&gt;
+&lt;P class="p99 ft7"&gt;Lagförslaget gäller den framtida tillämpningen av de nya bestämmelserna om hur underskott ska påverka nätföretagens möjligheter att uppbära intäkter från nätverksamheten under kommande tillsynsperioder. Brister i tidigare gällande bestämmelser bör enligt regeringen inte hindra att de nya reglerna justeras för att svara mot intentionerna bakom lagstiftningen.&lt;/P&gt;
+&lt;P class="p74 ft3"&gt;Principen om skydd för berättigade förväntningar&lt;/P&gt;
+&lt;P class="p71 ft2"&gt;Enligt den &lt;NOBR&gt;EU-rättsliga&lt;/NOBR&gt; rättssäkerhetsprincipen, och den därmed sammanhängande principen om skydd för berättigade förväntningar, krävs det att rättsregler, särskilt sådana som kan få negativa konsekvenser för enskilda, ska vara klara och precisa samt att tillämpningen av dem ska vara förutsägbar.&lt;/P&gt;
+&lt;P class="p100 ft2"&gt;Principen om skydd för berättigade förväntningar innebär att en person ska vara tillåten att handla och bedriva sin näringsverksamhet i berättigad förväntning om att den existerade unionslagstiftningen ska fortsätta att gälla (se Bernitz och Kjellgren, Europarättens grunder, 6 uppl. s. 170). Principen innebär dock inte att ett företag kan ha berättigade förväntningar på att det inte kommer att göras några lagändringar över huvud taget utan endast att företaget kan ifrågasätta det sätt på vilket en sådan ändring görs. För att ett företag med framgång ska kunna åberopa principen om skydd för berättigade förväntningar krävs att en myndighet har väckt grundade förhoppningar hos företaget genom att ge tydliga försäkringar. Sådana förväntningar kan uppkomma genom tydliga, ovillkorliga och samstämmiga uppgifter från behöriga och tillförlitliga källor.&lt;/P&gt;
+&lt;P class="p101 ft2"&gt;Som redan framgått är förarbetena till de aktuella bestämmelserna tydliga när det gäller att lagstiftarens avsikt varit att ett nätföretag inte ska kunna samla på sig underskott från flera tillsynsperioder. Detta gäller både i fråga om de bestämmelser som gällde före den 1 januari 2019 – och som var utgångspunkten för förvaltningsdomstolarnas prövning – och för de nya bestämmelser om avvikelser från intäktsramen som kommer att tillämpas för första gången efter utgången av tillsynsperioden &lt;NOBR&gt;2016–2019.&lt;/NOBR&gt;&lt;/P&gt;
+&lt;P class="p102 ft2"&gt;Förvaltningsdomstolarna har inte tagit ställning till hur eventuella avvikelser från intäktsramen för den första eller andra tillsynsperioden ska behandlas efter utgången av 2019 enligt de bestämmelser som är tillämpliga då. Förvaltningsrätten konstaterade i sina domskäl att de överklagade besluten avsåg tillsynsperioden &lt;NOBR&gt;2016–2019,&lt;/NOBR&gt; som inte hade gått till ända, och att uttalanden om intäktsramen för efterföljande tillsynsperioder inte borde göras. Inte heller kammarrätten uttalade sig om kommande tillsynsperioder, utöver konstaterandet att lagtextens ordalydelse inte gav stöd för Energimarknadsinspektionens ställningstagande.&lt;/P&gt;
+&lt;P class="p103 ft20"&gt;Till detta kommer att domstolsprocessen avslutades först genom den dom som fick laga kraft i mars 2019. Dessförinnan hade nätföretagen fortfarande&lt;/P&gt;
+&lt;P class="p104 ft2"&gt;14&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_15"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p60 ft7"&gt;anledning att ta hänsyn till förarbetsuttalandena och den uppfattning som Energimarknadsinspektionen hade om bestämmelsernas innebörd.&lt;/P&gt;
+&lt;P class="p105 ft9"&gt;Nätföretagen har inte heller kunnat förutsätta att inga lagändringar skulle ske efter kammarrättens dom. När det gäller den sistnämnda frågan finns skäl att peka särskilt på att en uttalad utgångspunkt för de lagändringar som trädde i kraft den 1 januari 2019 var att ett nätföretag inte skulle kunna samla på sig flera tillsynsperioders underskott (prop. 2017/18:237 s. 61).&lt;/P&gt;
+&lt;P class="p106 ft4"&gt;Regeringen anser mot denna bakgrund att lagförslaget är förenligt med EU:s rättssäkerhetsprincip och därmed sammanhängande principer.&lt;/P&gt;
+&lt;P class="p61 ft3"&gt;Energistadgefördraget&lt;/P&gt;
+&lt;P class="p107 ft10"&gt;E.ON Sverige AB &lt;SPAN class="ft7"&gt;och &lt;/SPAN&gt;Vattenfall Eldistribution AB &lt;SPAN class="ft7"&gt;menar att förslaget står i strid med Sveriges åtaganden enligt energistadgefördraget. E.ON Sverige AB framhåller att bolaget ytterst ägs av E.ON SE, ett europeiskt börsnoterat bolag med säte i Tyskland.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p108 ft9"&gt;I artikel 10.1 i energistadgefördraget föreskrivs bl.a. att alla fördragsslutande parter ska skapa stabila, rättvisa, förmånliga och klara villkor för andra avtalsslutande parters investerare för investeringar inom deras områden. Bestämmelserna i artikeln ska tillförsäkra investeringar som görs av investerare från andra fördragsslutande parter en skälig och rättvis behandling och förhindra att en fördragsslutande part genom ”oskäliga och diskriminerande åtgärder” hindrar deras drift, underhåll, användning, utnyttjande eller avyttrande. I artikel 13 finns ett förbud mot expropriation som inte åtföljs av ”prompt, adekvat och effektiv ersättning”.&lt;/P&gt;
+&lt;P class="p106 ft7"&gt;Regeringen bedömer att lagförslaget är förenligt med Sveriges åtaganden enligt energistadgefördraget. Som redan konstaterats innebär förslaget inte att nätföretagen berövas egendom. Dessutom kommer regeringen att återkomma med ett lagförslag som ger nätföretagen en möjlighet att utnyttja underskott från den första tillsynsperioden.&lt;/P&gt;
+&lt;P class="p56 ft3"&gt;En ny övergångsbestämmelse&lt;/P&gt;
+&lt;P class="p97 ft9"&gt;Det bör alltså inte vara möjligt att utnyttja underskott i förhållande till intäktsramen för tillsynsperioden &lt;NOBR&gt;2012–2015&lt;/NOBR&gt; utan några särskilda begränsningar. Ellagens utformning fr.o.m. den 1 januari 2019 innebär att ett nätföretag inte kan utnyttja flera tillsynsperioders underskott efter utgången av tillsynsperioden &lt;NOBR&gt;2020–2023&lt;/NOBR&gt; (prop. 2017/18:237 s. 101). Den nu aktuella lagändringen bör alltså ta sikte endast på den tillsynsperioden. Det framstår därför som lämpligt att komplettera de övergångsbestämmelser som beslutades i samband med de nyssnämnda lagändringarna. En ny övergångsbestämmelse bör införas med innebörden att ett underskott som uppstått i förhållande till intäktsramen för tillsynsperioden &lt;NOBR&gt;2012–2015&lt;/NOBR&gt; inte ska beaktas av Energimarknadsinspektionen när myndigheten meddelar beslut enligt de nya bestämmelserna om underskott i förhållande till intäktsramen för tillsynsperioden &lt;NOBR&gt;2016–2019.&lt;/NOBR&gt;&lt;/P&gt;
+&lt;P class="p109 ft11"&gt;Vid bedömningen av om intäkterna har varit mindre än intäktsramen för tillsynsperioden &lt;NOBR&gt;2016–2019&lt;/NOBR&gt; bör Energimarknadsinspektionen alltså utgå från en intäktsram som inte påverkas av ett eventuellt underskott för den föregående tillsynsperioden. Om intäktsramen har ökats enligt äldre bestämmelser, bör alltså den ökningen inte beaktas vid tillämpningen av de nya bestäm-&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft2"&gt;Prop. 2019/20:53&lt;/P&gt;
+&lt;P class="p67 ft2"&gt;15&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_16"&gt;
+&lt;DIV id="p16dimg1"&gt;
+&lt;INGENBILD zsrc="H7035316x1.jpg/" id="p16img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p68 ft4"&gt;Prop. 2019/20:53 melserna om underskott i förhållande till intäktsramen. Övergångsbestämmelsen bör formuleras i enlighet med &lt;SPAN class="ft5"&gt;Lagrådets &lt;/SPAN&gt;förslag.&lt;/P&gt;
+&lt;P class="p110 ft1"&gt;6 Ikraftträdande&lt;/P&gt;
+&lt;P class="p111 ft2"&gt;&lt;SPAN class="ft17"&gt;Regeringens förslag: &lt;/SPAN&gt;Lagändringen ska träda i kraft den 1 april 2020.&lt;/P&gt;
+&lt;P class="p112 ft11"&gt;&lt;SPAN class="ft21"&gt;Promemorians förslag &lt;/SPAN&gt;överensstämmer inte med regeringens. Promemorians förslag innebär att lagändringen ska träda i kraft den 1 januari 2020.&lt;/P&gt;
+&lt;P class="p113 ft7"&gt;&lt;SPAN class="ft15"&gt;Remissinstanserna &lt;/SPAN&gt;tillstyrker förslaget eller har inte några särskilda invändningar mot det.&lt;/P&gt;
+&lt;P class="p113 ft7"&gt;&lt;SPAN class="ft15"&gt;Skälen för regeringens förslag: &lt;/SPAN&gt;De nya bestämmelserna om avvikelser från intäktsramen kommer att tillämpas för första gången efter utgången av tillsynsperioden &lt;NOBR&gt;2016–2019.&lt;/NOBR&gt; Energimarknadsinspektionen kommer under hösten 2020 att fatta beslut med anledning av avvikelserna. Det är därför lämpligt att lagändringen träder i kraft den 1 april 2020.&lt;/P&gt;
+&lt;P class="p110 ft1"&gt;7 Förslagets konsekvenser&lt;/P&gt;
+&lt;P class="p114 ft2"&gt;Förslaget innebär att bestämmelserna om avvikelser från intäktsramen kommer att tillämpas på det sätt som regeringen förutsatt när den lade fram förslagen i propositionen Elmarknadsfrågor. När det gäller förslagets konsekvenser hänvisas därför till den konsekvensanalys som finns i den propositionen (prop. 2017/18:237 s. &lt;NOBR&gt;76–79).&lt;/NOBR&gt;&lt;/P&gt;
+&lt;P class="p100 ft9"&gt;Regeringen avser att återkomma med förslag om hur nätföretagen ska få möjlighet att använda underskotten från tillsynsperioden &lt;NOBR&gt;2012–2015,&lt;/NOBR&gt; förutsatt att detta leder till ökade investeringar i elnäten. Konsekvenserna av det förslaget måste analyseras och kommer att redovisas i samband med att för-&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t5"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td17"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td18"&gt;&lt;SPAN class="p115 ft2"&gt;slaget tas fram.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td17"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td18"&gt;&lt;SPAN class="p115 ft3"&gt;Konsekvenser för kunderna om förslaget inte genomförs&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td17"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td18"&gt;&lt;SPAN class="p115 ft2"&gt;Det nuvarande regelverket begränsar inte enligt förvaltningsdomstolarnas&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td17"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td18"&gt;&lt;SPAN class="p115 ft9"&gt;ovan nämnda domar nätföretagens intäkter från nätverksamheten på det sätt&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td18"&gt;&lt;SPAN class="p115 ft9"&gt;som är avsett. Om regeringens förslag till ny övergångsbestämmelse inte ge-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td18"&gt;&lt;SPAN class="p115 ft9"&gt;nomförs, blir det möjligt för elnätsföretagen att ta ut högre avgifter under till-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td17"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td18"&gt;&lt;SPAN class="p115 ft9"&gt;synsperioden &lt;NOBR&gt;2020–2023.&lt;/NOBR&gt; Sammantagna kan beloppen uppskattas till 28 mil-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td18"&gt;&lt;SPAN class="p115 ft2"&gt;jarder kronor. Avgiftshöjningarna kommer inte att fördelas lika över kund-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td18"&gt;&lt;SPAN class="p115 ft9"&gt;kollektivet, eftersom vissa elnätsföretag bara har små eller inga outnyttjade&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td17"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td18"&gt;&lt;SPAN class="p115 ft2"&gt;delar av intäktsramarna för &lt;NOBR&gt;2012–2015&lt;/NOBR&gt; att rulla över, medan andra har ut-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td18"&gt;&lt;SPAN class="p115 ft9"&gt;rymme motsvarande en betydande andel av den ursprungliga intäktsramen.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td18"&gt;&lt;SPAN class="p115 ft2"&gt;Det är inte möjligt att på förhand avgöra i vilken utsträckning elnätsföre-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td17"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td18"&gt;&lt;SPAN class="p115 ft2"&gt;tagen kommer att utnyttja möjligheten att rulla över äldre underskott, men&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td18"&gt;&lt;SPAN class="p115 ft9"&gt;det är uppenbart att det finns ett starkt ekonomiskt incitament att göra det.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td18"&gt;&lt;SPAN class="p116 ft2"&gt;Inom de nät där de outnyttjade underskotten kommer att tas ut av kund-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD rowspan=2 class="tr14 td17"&gt;&lt;SPAN class="p117 ft2"&gt;16&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td18"&gt;&lt;SPAN class="p115 ft2"&gt;kollektivet kommer emellertid kostnaden att fördelas proportionellt mellan&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr15 td18"&gt;&lt;SPAN class="p13 ft22"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_17"&gt;
+
+
+&lt;P class="p118 ft7"&gt;kunderna. Typiskt sett har framför allt mindre elnätsföretag haft stora out- Prop. 2019/20:53 nyttjade delar av sina intäktsramar, medan de större företagen i högre grad&lt;/P&gt;
+&lt;P class="p119 ft9"&gt;har utnyttjat ramen inom tillsynsperioden. Det finns dock inte några tydliga skillnader mellan vilka kundtyper som finns i olika nät, varför såväl konsumenter som företag av olika storlekar får förväntas dela på kostnaden i ungefär motsvarande förhållanden som gäller nationellt för nätavgifterna.&lt;/P&gt;
+&lt;P class="p120 ft7"&gt;Kostnaden för kunderna blir alltså betydande om de outnyttjade delarna av intäktsramarna för perioden &lt;NOBR&gt;2012–2015&lt;/NOBR&gt; förutsättningslöst får rullas över och kunder kommer att drabbas mycket olika enbart baserat på deras geografiska placering.&lt;/P&gt;
+&lt;P class="p121 ft2"&gt;17&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_18"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t6"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr16 td19"&gt;&lt;SPAN class="p13 ft2"&gt;Prop. 2019/20:53 &lt;SPAN class="ft1"&gt;8&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr16 td16"&gt;&lt;SPAN class="p13 ft1"&gt;Författningskommentar&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p74 ft23"&gt;Förslaget till lag om ändring i ellagen (1997:857)&lt;/P&gt;
+&lt;P class="p122 ft15"&gt;Ikraftträdande- och övergångsbestämmelserna till lagen (2018:1448) om ändring i ellagen&lt;/P&gt;
+&lt;P class="p101 ft8"&gt;&lt;SPAN class="ft8"&gt;6.&lt;/SPAN&gt;&lt;SPAN class="ft24"&gt;Om intäktsramen för tillsynsperioden &lt;/SPAN&gt;&lt;NOBR&gt;2016–2019&lt;/NOBR&gt; har ökats med tillämpning av 5 kap. 20 § i den äldre lydelsen, ska den ökningen inte beaktas vid tillämpningen av 5 kap. 29 §.&lt;/P&gt;
+&lt;P class="p123 ft7"&gt;Punkten är ny. Den reglerar övergångsvis hur bestämmelserna om avvikelser från intäktsramen ska tillämpas när det gäller ett eventuellt underskott i förhållande till intäktsramen för tillsynsperioden &lt;NOBR&gt;2016–2019.&lt;/NOBR&gt; Övervägandena finns i avsnitt 5.&lt;/P&gt;
+&lt;P class="p124 ft2"&gt;Efter tillsynsperiodens slut vid utgången av år 2019 kontrollerar nätmyndigheten (Energimarknadsinspektionen) om nätföretagets intäkter avvikit från den intäktsram som gäller för perioden. Om de samlade intäkterna från nätverksamheten har varit mindre än intäktsramen, ska Energimarknadsinspektionen besluta att nätföretaget under den närmast följande tillsynsperioden från nätverksamheten får uppbära ett belopp som motsvarar underskottet (5 kap. 29 § första stycket).&lt;/P&gt;
+&lt;P class="p113 ft2"&gt;Övergångsbestämmelsen innebär att Energimarknadsinspektionen när det gäller intäktsramen för tillsynsperioden &lt;NOBR&gt;2016–2019&lt;/NOBR&gt; ska bortse från en ökning av ramen som har beslutats med anledning av att intäkterna från nätverksamheten understigit intäktsramen för en tidigare tillsynsperiod. När 5 kap. 29 § tillämpas utgår alltså jämförelsen mellan nätföretagets intäkter och intäktsramen i ett sådant fall från en justerad intäktsram för tillsynsperioden 2016– 2019. Nätföretaget får därför inte utnyttja ett underskott som är hänförligt till tillsynsperioden &lt;NOBR&gt;2012–2015.&lt;/NOBR&gt;&lt;/P&gt;
+&lt;P class="p125 ft2"&gt;Paragrafen har utformats i enlighet med &lt;SPAN class="ft3"&gt;Lagrådets &lt;/SPAN&gt;förslag.&lt;/P&gt;
+&lt;P class="p126 ft2"&gt;18&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_19"&gt;
+&lt;DIV id="p19dimg1"&gt;
+&lt;INGENBILD zsrc="H7035319x1.jpg/" id="p19img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;DIV id="id_1_1"&gt;
+&lt;P class="p11 ft1"&gt;Promemorians lagförslag&lt;/P&gt;
+&lt;P class="p127 ft23"&gt;Förslag till lag om ändring i ellagen (1997:857)&lt;/P&gt;
+&lt;P class="p128 ft7"&gt;Härigenom föreskrivs i fråga om ellagen (1997:857) att det i ikraftträdande- och övergångsbestämmelserna till lagen (2018:1448) om ändring i den lagen ska införas en ny punkt, 6, av följande lydelse.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t7"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td20"&gt;&lt;SPAN class="p13 ft3"&gt;Nuvarande lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td21"&gt;&lt;SPAN class="p13 ft8"&gt;Föreslagen lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_1_2"&gt;
+&lt;P class="p11 ft2"&gt;Prop. 2019/20:53&lt;/P&gt;
+&lt;P class="p104 ft2"&gt;Bilaga &lt;SPAN class="ft25"&gt;1&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p129 ft3"&gt;&lt;SPAN class="ft3"&gt;6.&lt;/SPAN&gt;&lt;SPAN class="ft26"&gt;När 5 kap. &lt;/SPAN&gt;&lt;NOBR&gt;27–29&lt;/NOBR&gt; §§ tillämpas för första gången ska det vid beräkningen av intäktsramen för den tillsynsperiod som avvikelsen avser inte tas hänsyn till om nätkoncessionshavarens samlade intäkter från nätverksamheten har varit mindre än intäktsramen för en tidigare tillsynsperiod.&lt;/P&gt;
+&lt;P class="p130 ft2"&gt;Denna lag träder i kraft den 1 januari 2020.&lt;/P&gt;
+&lt;P class="p131 ft2"&gt;19&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_20"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p86 ft2"&gt;Prop. 2019/20:53&lt;/P&gt;
+&lt;P class="p132 ft2"&gt;Bilaga 2&lt;/P&gt;
+&lt;P class="p133 ft2"&gt;20&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft1"&gt;Förteckning över remissinstanserna&lt;/P&gt;
+&lt;P class="p134 ft2"&gt;Efter remiss har yttranden över promemorian Ny övergångsbestämmelse till ellagen när det gäller intäktsram för nätverksamhet lämnats av Affärsverket svenska kraftnät, Ellevio AB, Energiföretagen Sverige, Energimarknadsinspektionen, E.ON Sverige AB, Fastighetsägarna Sverige, Förvaltningsrätten i Linköping, Hyresgästföreningen, Kommerskollegium, Konjunkturinstitutet, Konkurrensverket, Konsumentverket, Lantbrukarnas riksförbund, Umeå universitet, Uppsala universitet (juridiska fakultetsnämnden), Oberoende elhandlare, Skogen, Kemin, Gruvorna och Stålet (SKGS), Statens energimyndighet, Statens fastighetsverk, Svenska elnätsupproret, Sveriges advokatsamfund, Sveriges Allmännyttiga Bostadsföretag (SABO), Sveriges Kommuner och Landsting, Vattenfall Eldistribution AB och Villaägarnas Riksförbund.&lt;/P&gt;
+&lt;P class="p135 ft7"&gt;Finansinspektionen, Kammarrätten i Jönköping, Kungl. Tekniska högskolan och Riksrevisionen har avstått från att yttra sig.&lt;/P&gt;
+&lt;P class="p38 ft2"&gt;Bostadsrätterna, Ekonomihögskolan vid Lunds universitet, Företagarna, HSB Riksförbund, Konsumenternas Energimarknadsbyrå, Svenskt näringsliv, Sveriges Energiföreningars Riksorganisation (SERO) och Sveriges Konsumenter har beretts tillfälle att yttra sig men har inte hörts av.&lt;/P&gt;
+&lt;P class="p136 ft2"&gt;Yttranden har också inkommit från Elinorr, Sveriges Elkraftentreprenörer, Lokalkraft Sverige, Swedegas AB, Boden Energi Nät AB, Bergs Tingslags Elektriska AB, Olofströms Kraft AB, Hedemora Energi AB, Upplands Energi ek. för., Övik Energi Nät AB, Arvika Teknik AB, Vaggeryds El- verk, Ljungby Energinät AB, Leva i Lysekil AB, Rödeby Elverk ek. för., Bjäre Kraft AB, AB Piteenergi, Dala Energi AB, Luleå Energi Elnät AB, Ale El Ekonomisk förening, Elektra nät AB, Ulricehamns Energi AB, Telge Nät AB, Töre Energi ekonomisk förening, Härjeåns Nät AB, Em- maboda Elnät AB, Umeå Energi Elnät AB, Landskrona Energi AB, Mälarenergi Elnät AB, Falbygdens Energi Nät AB, Affärsverken Elnät AB, Tekniska verken Linköping Nät AB, Halmstad Energi och Miljö Nät AB, Jönköping Energi Nät AB, Växjö Energi Elnät AB, Karlshamn Energi AB, Kraftringen Energi AB, Boo Energi ekonomisk förening, Göteborg Energi Nät AB, Brittedals Elnät ekonomisk förening, Karlskoga Elnät AB, Habo Kraft AB, Västerbergslagens Elnät AB, Gotlands Elnät AB, Värnamo Nät AB, Ystad Energi AB, Skellefteå Kraft Elnät AB, Oskarshamn Energi El- nät AB, Weum Gas Aktiebolag, Sala Heby Energi Elnät AB, Alingsås Energi Nät AB, C4 Elnät AB, Gislaved Energi Elnät AB, Härryda Energi AB, Kalmar Energi Elnät AB, Kristinehamns Elnät AB, Lerum Energi AB, Lidköpings kommun och Skånska Energi Nät AB.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_21"&gt;
+&lt;DIV id="p21dimg1"&gt;
+&lt;INGENBILD zsrc="H7035321x1.jpg/" id="p21img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;DIV id="id_1_1"&gt;
+&lt;P class="p11 ft1"&gt;Lagrådsremissens lagförslag&lt;/P&gt;
+&lt;P class="p137 ft23"&gt;Förslag till lag om ändring i ellagen (1997:857)&lt;/P&gt;
+&lt;P class="p128 ft7"&gt;Härigenom föreskrivs i fråga om ellagen (1997:857) att det i ikraftträdande- och övergångsbestämmelserna till lagen (2018:1448) om ändring i den lagen ska införas en ny punkt, 6, av följande lydelse.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_1_2"&gt;
+&lt;P class="p11 ft2"&gt;Prop. 2019/20:53&lt;/P&gt;
+&lt;P class="p104 ft2"&gt;Bilaga &lt;SPAN class="ft25"&gt;3&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t8"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td20"&gt;&lt;SPAN class="p13 ft3"&gt;Nuvarande lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td22"&gt;&lt;SPAN class="p13 ft3"&gt;Föreslagen lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr16 td20"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr16 td22"&gt;&lt;SPAN class="p16 ft3"&gt;6. Om intäktsramen för en tillsyns-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td20"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td22"&gt;&lt;SPAN class="p16 ft8"&gt;period som löpt ut före den 1 januari&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td20"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td22"&gt;&lt;SPAN class="p16 ft8"&gt;2020 har ökats med tillämpning av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td20"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td22"&gt;&lt;SPAN class="p16 ft8"&gt;5 kap. 20 § i den äldre lydelsen, ska&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td20"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td22"&gt;&lt;SPAN class="p16 ft3"&gt;a) intäktsramen beräknas särskilt&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td20"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td22"&gt;&lt;SPAN class="p16 ft8"&gt;när intäkterna under tillsynsperioden&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td20"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td22"&gt;&lt;SPAN class="p13 ft3"&gt;ska stämmas av mot ramen,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td20"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td22"&gt;&lt;SPAN class="p16 ft8"&gt;b) i den beräkningen intäktsramen&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td20"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td22"&gt;&lt;SPAN class="p16 ft8"&gt;justeras så att hänsyn inte tas till den&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td20"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td22"&gt;&lt;SPAN class="p13 ft3"&gt;aktuella ökningen, och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td20"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td22"&gt;&lt;SPAN class="p16 ft3"&gt;c) beräkningen enligt 5 kap. 29 §&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td20"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td22"&gt;&lt;SPAN class="p16 ft8"&gt;av om det finns ett underskott och det&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td20"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td22"&gt;&lt;SPAN class="p16 ft8"&gt;belopp som motsvarar underskottet&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td20"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td22"&gt;&lt;SPAN class="p16 ft8"&gt;utgå från den justerade intäktsramen.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p138 ft2"&gt;Denna lag träder i kraft den 1 april 2020.&lt;/P&gt;
+&lt;P class="p139 ft2"&gt;21&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_22"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t9"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td23"&gt;&lt;SPAN class="p13 ft2"&gt;Prop. 2019/20:53&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td24"&gt;&lt;SPAN class="p13 ft1"&gt;Lagrådets yttrande&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td23"&gt;&lt;SPAN class="p13 ft2"&gt;Bilaga &lt;SPAN class="ft25"&gt;4&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td24"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td24"&gt;&lt;SPAN class="p13 ft2"&gt;Utdrag ur protokoll vid sammanträde &lt;NOBR&gt;2019-11-25&lt;/NOBR&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td24"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;SPAN class="ft17"&gt;Närvarande: &lt;/SPAN&gt;F.d. justitierådet Ella Nyström samt justitieråden&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td24"&gt;&lt;SPAN class="p13 ft2"&gt;Per Classon och Stefan Johansson&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr16 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr16 td24"&gt;&lt;SPAN class="p13 ft17"&gt;Underskott i förhållande till elnätsföretagens intäktsramar&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td24"&gt;&lt;SPAN class="p13 ft17"&gt;för tillsynsperioden &lt;NOBR&gt;2012–2015&lt;/NOBR&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr16 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr16 td24"&gt;&lt;SPAN class="p13 ft2"&gt;Enligt en lagrådsremiss den 14 november 2019 har regeringen (Infra-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td24"&gt;&lt;SPAN class="p13 ft2"&gt;strukturdepartementet) beslutat inhämta Lagrådets yttrande över förslag&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td24"&gt;&lt;SPAN class="p13 ft2"&gt;till lag om ändring i ellagen (1997:857).&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td24"&gt;&lt;SPAN class="p13 ft9"&gt;Förslaget har inför Lagrådet föredragits av ämnesrådet Andreas Lindholm.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td24"&gt;&lt;SPAN class="p13 ft2"&gt;Förslaget föranleder följande yttrande.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td24"&gt;&lt;SPAN class="p13 ft9"&gt;I lagrådsremissen föreslås en ny övergångsbestämmelse till lagen (2018:1448)&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td24"&gt;&lt;SPAN class="p13 ft2"&gt;om ändring i ellagen (1997:857). Ändringen syftar till att förhindra att un-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td24"&gt;&lt;SPAN class="p13 ft2"&gt;derskott i förhållande till elnätsföretagens intäktsramar från tillsyns-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td24"&gt;&lt;SPAN class="p13 ft2"&gt;perioden &lt;NOBR&gt;2012–2015&lt;/NOBR&gt; ska kunna överföras till tillsynsperioden &lt;NOBR&gt;2020–2023.&lt;/NOBR&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td24"&gt;&lt;SPAN class="p13 ft9"&gt;Lagrådet anser att den föreslagna övergångsbestämmelsen har getts en kom-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td24"&gt;&lt;SPAN class="p13 ft2"&gt;plicerad utformning som inte är ändamålsenlig.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr16 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr16 td24"&gt;&lt;SPAN class="p13 ft2"&gt;Regeln i 5 kap. 29 § ellagen förutsätter att prövningen utgår från en för&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td24"&gt;&lt;SPAN class="p13 ft2"&gt;varje tillsynsperiod slutlig intäktsram, som i förekommande fall har ökats&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td24"&gt;&lt;SPAN class="p13 ft2"&gt;med stöd av 5 kap. 20 § i den äldre lydelsen av lagen. Enligt Lagrådet är&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td24"&gt;&lt;SPAN class="p13 ft2"&gt;det tillräckligt att föreskriva att en ökning av intäktsramen som gjorts med&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td24"&gt;&lt;SPAN class="p13 ft2"&gt;tillämpning av 5 kap. 20 § i den äldre lydelsen inte ska beaktas vid till-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td24"&gt;&lt;SPAN class="p13 ft2"&gt;lämpningen av 5 kap. 29 §.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr16 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr16 td24"&gt;&lt;SPAN class="p13 ft2"&gt;Eftersom tillämpningen av bestämmelsen endast avser underskott från till-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td24"&gt;&lt;SPAN class="p13 ft2"&gt;synsperioden &lt;NOBR&gt;2012–2015&lt;/NOBR&gt; som har ökat intäktsramen för tillsynsperioden&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td23"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td24"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;NOBR&gt;2016–2019&lt;/NOBR&gt; bör detta klart framgå.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p74 ft2"&gt;Lagrådet föreslår därför följande formulering.&lt;/P&gt;
+&lt;P class="p140 ft2"&gt;&lt;SPAN class="ft2"&gt;6.&lt;/SPAN&gt;&lt;SPAN class="ft27"&gt;Om intäktsramen för tillsynsperioden &lt;/SPAN&gt;&lt;NOBR&gt;2016–2019&lt;/NOBR&gt; har ökats med tilllämpning av 5 kap. 20 § i den äldre lydelsen, ska den ökningen inte beaktas vid tillämpningen av 5 kap. 29 §.&lt;/P&gt;
+&lt;P class="p141 ft2"&gt;22&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_23"&gt;
+&lt;DIV id="p23dimg1"&gt;
+&lt;INGENBILD zsrc="H7035323x1.jpg/" id="p23img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV class="dclr"&gt;&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p11 ft1"&gt;Infrastrukturdepartementet&lt;/P&gt;
+&lt;P class="p142 ft2"&gt;Utdrag ur protokoll vid regeringssammanträde den 5 december 2019&lt;/P&gt;
+&lt;P class="p143 ft7"&gt;Närvarande: statsminister Löfven, ordförande, och statsråden Lövin, Johansson, Hallengren, Hultqvist, Bolund, Damberg, Shekarabi, Ygeman, Eriksson, Ekström, Eneroth, Dahlgren, Nilsson, Ernkrans, Lindhagen, Lind, Hallberg, Nordmark, Micko&lt;/P&gt;
+&lt;P class="p144 ft2"&gt;Föredragande: statsrådet Ygeman&lt;/P&gt;
+&lt;P class="p145 ft4"&gt;Regeringen beslutar proposition 2019/20:53 Underskott i förhållande till elnätsföretagens intäktsramar för tillsynsperioden &lt;NOBR&gt;2012–2015&lt;/NOBR&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft2"&gt;Prop. 2019/20:53&lt;/P&gt;
+&lt;P class="p67 ft2"&gt;23&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+
+&lt;/div&gt;&lt;style&gt;
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+&lt;/style&gt;
+</html>
+  </dokument>
+<dokforslag>
+<forslag>
+<nummer datatype="int32">1</nummer>
+<beteckning datatype="string">1</beteckning>
+<lydelse datatype="string">Riksdagen antar regeringens förslag till lag om ändring i ellagen (1997:857).</lydelse>
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string">2019/20:NU9</behandlas_i>
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string">NU</intressent>
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+</dokforslag>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">INL</kod>
+<namn datatype="string">Inlämnad</namn>
+<datum datatype="datetime">2019-12-10 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">B</kod>
+<namn datatype="string">Bordlagd</namn>
+<datum datatype="datetime">2019-12-10 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">HÄN</kod>
+<namn datatype="string">Hänvisad</namn>
+<datum datatype="datetime">2019-12-11 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">MOT</kod>
+<namn datatype="string">Motionstid slutar</namn>
+<datum datatype="datetime">2020-01-17 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+</dokaktivitet>
+<dokintressent>
+<intressent>
+<intressent_id datatype="string">0218878014918</intressent_id>
+<namn datatype="string">Stefan Löfven</namn>
+<partibet datatype="string">S</partibet>
+<ordning datatype="int16">1</ordning>
+<roll datatype="string">Statsråd1</roll>
+</intressent>
+<intressent>
+<intressent_id datatype="string">0744993950910</intressent_id>
+<namn datatype="string">Anders Ygeman</namn>
+<partibet datatype="string">S</partibet>
+<ordning datatype="int16">2</ordning>
+<roll datatype="string">Statsråd2</roll>
+</intressent>
+</dokintressent>
+<dokuppgift>
+<uppgift>
+<kod datatype="string">inlamnatav</kod>
+<namn datatype="string">Inlämnat av</namn>
+<text datatype="string">Infrastrukturdepartementet</text>
+<dok_id datatype="string">H70353</dok_id>
+<systemdatum datatype="datetime">2019-12-11 08:06:42</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">tilldelat</kod>
+<namn datatype="string">Tilldelat</namn>
+<text datatype="string">Näringsutskottet</text>
+<dok_id datatype="string">H70353</dok_id>
+<systemdatum datatype="datetime">2019-12-11 08:06:42</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">statustext</kod>
+<namn datatype="string">statustext</namn>
+<text datatype="string">Propositionen bereds i utskott</text>
+<dok_id datatype="string">H70353</dok_id>
+<systemdatum datatype="datetime">2019-12-11 09:04:54</systemdatum>
+</uppgift>
+</dokuppgift>
+<dokbilaga>
+<bilaga>
+<dok_id datatype="string">H70353</dok_id>
+<titel datatype="string">Underskott i förhållande till elnätsföretagens intäktsramar för tillsynsperioden 2012-2015</titel>
+<subtitel datatype="string" />
+<filnamn datatype="string">prop_201920__53.pdf</filnamn>
+<filstorlek datatype="int32">286502</filstorlek>
+<filtyp datatype="string">pdf</filtyp>
+<fil_url datatype="string">http://data.riksdagen.se/fil/72EF675C-66D3-4E20-A642-0DF50A958344</fil_url>
+</bilaga>
+</dokbilaga>
+<dokreferens>
+<referens>
+<referenstyp datatype="string">behandlas_i</referenstyp>
+<uppgift datatype="string">2019/20:NU9</uppgift>
+<ref_dok_id datatype="string">H701NU9</ref_dok_id>
+<ref_dok_typ datatype="string">bet</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">NU9</ref_dok_bet>
+<ref_dok_titel datatype="string">Underskott i förhållande till elnätsföretagens intäktsramar för tillsynsperioden 2012-2015</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">bet</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Betänkande</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">följdmotion</referenstyp>
+<uppgift datatype="string">av Lars Hjälmered m.fl. (M)&lt;br /&gt;med anledning av prop. 2019/20:53 Underskott i förhållande till elnätsföretagens intäktsramar för tillsynsperioden 2012-2015</uppgift>
+<ref_dok_id datatype="string">H7023477</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3477</ref_dok_bet>
+<ref_dok_titel datatype="string">med anledning av prop. 2019/20:53 Underskott i förhållande till elnätsföretagens intäktsramar för tillsynsperioden 2012-2015</ref_dok_titel>
+<ref_dok_subtitel datatype="string">av Lars Hjälmered m.fl. (M)</ref_dok_subtitel>
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">följdmotion</referenstyp>
+<uppgift datatype="string">av Rickard Nordin (C)&lt;br /&gt;med anledning av regeringens proposition 2019/20:53: Underskott i förhållande till elnätsföretagens intäktsramar för tillsynsperioden 2012-2015</uppgift>
+<ref_dok_id datatype="string">H7023454</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3454</ref_dok_bet>
+<ref_dok_titel datatype="string">med anledning av regeringens proposition 2019/20:53: Underskott i förhållande till elnätsföretagens intäktsramar för tillsynsperioden 2012-2015</ref_dok_titel>
+<ref_dok_subtitel datatype="string">av Rickard Nordin (C)</ref_dok_subtitel>
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">följdmotion</referenstyp>
+<uppgift datatype="string">av Mattias Bäckström Johansson m.fl. (SD)&lt;br /&gt;med anledning av prop. 2019/20:53 Underskott i förhållande till elnätsföretagensintäktsramar för tillsynsperioden 2012-2015</uppgift>
+<ref_dok_id datatype="string">H7023463</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3463</ref_dok_bet>
+<ref_dok_titel datatype="string">med anledning av prop. 2019/20:53 Underskott i förhållande till elnätsföretagensintäktsramar för tillsynsperioden 2012-2015</ref_dok_titel>
+<ref_dok_subtitel datatype="string">av Mattias Bäckström Johansson m.fl. (SD)</ref_dok_subtitel>
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+</dokreferens>
+<debatt /></dokumentstatus>

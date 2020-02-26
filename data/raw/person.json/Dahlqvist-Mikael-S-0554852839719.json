@@ -1,0 +1,160 @@
+{
+  "person": {
+    "hangar_guid": "1a8032ad-40e0-4ec7-80b6-c69aa1cf8ba1",
+    "sourceid": "4db15792-072c-456e-a46c-6d0cee07889e",
+    "intressent_id": "0554852839719",
+    "hangar_id": "2343376",
+    "fodd_ar": "1967",
+    "kon": "man",
+    "efternamn": "Dahlqvist",
+    "tilltalsnamn": "Mikael",
+    "sorteringsnamn": "Dahlqvist,Mikael",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Värmlands län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/4db15792-072c-456e-a46c-6d0cee07889e",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4db15792-072c-456e-a46c-6d0cee07889e_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4db15792-072c-456e-a46c-6d0cee07889e_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4db15792-072c-456e-a46c-6d0cee07889e_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "73",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0554852839719",
+          "hangar_id": "2343376",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "162",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0554852839719",
+          "hangar_id": "2343376",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0554852839719",
+          "hangar_id": "2343376",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0554852839719",
+          "hangar_id": "2343376",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "8",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0554852839719",
+          "hangar_id": "2343376",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "11",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0554852839719",
+          "hangar_id": "2343376",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "mikael.dahlqvist[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0554852839719",
+          "hangar_id": "2343376"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "64932",
+          "typ": "telefonnummer",
+          "intressent_id": "0554852839719",
+          "hangar_id": "2343376"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Leg. distriktsskötare.",
+          "typ": "titlar",
+          "intressent_id": "0554852839719",
+          "hangar_id": "2343376"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0554852839719",
+          "hangar_id": "2343376"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0554852839719",
+          "hangar_id": "2343376"
+        }
+      ]
+    }
+  }
+}

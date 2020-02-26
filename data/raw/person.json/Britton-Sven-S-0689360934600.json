@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "d972291d-7d2a-4e83-8c51-92ed6190d499",
+    "sourceid": "46ff95aa-5922-4791-8e2b-488558a9d2b0",
+    "intressent_id": "0689360934600",
+    "hangar_id": "2369441",
+    "fodd_ar": "1938",
+    "kon": "man",
+    "efternamn": "Britton",
+    "tilltalsnamn": "Sven",
+    "sorteringsnamn": "Britton,Sven",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/46ff95aa-5922-4791-8e2b-488558a9d2b0",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/46ff95aa-5922-4791-8e2b-488558a9d2b0_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/46ff95aa-5922-4791-8e2b-488558a9d2b0_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/46ff95aa-5922-4791-8e2b-488558a9d2b0_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "24",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2012-07-15",
+          "tom": "2012-12-31",
+          "uppgift": "Teres Lindberg",
+          "intressent_id": "0689360934600",
+          "hangar_id": "2369441",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-09-27",
+          "tom": "2012-12-31",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0689360934600",
+          "hangar_id": "2369441",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-07-15",
+          "tom": "2012-09-27",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0689360934600",
+          "hangar_id": "2369441",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-10-26",
+          "tom": "2012-12-31",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0689360934600",
+          "hangar_id": "2369441",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "true",
+        "typ": "val",
+        "intressent_id": "0689360934600",
+        "hangar_id": "2369441"
+      }
+    }
+  }
+}

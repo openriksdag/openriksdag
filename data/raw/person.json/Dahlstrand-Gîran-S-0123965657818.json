@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "17781212-07d7-4a20-ad1c-5adf522ff831",
+    "sourceid": "95ff105f-e219-4050-b951-d2606a26ca96",
+    "intressent_id": "0123965657818",
+    "hangar_id": "2342618",
+    "fodd_ar": "1950",
+    "kon": "man",
+    "efternamn": "Dahlstrand",
+    "tilltalsnamn": "Göran",
+    "sorteringsnamn": "Dahlstrand,Göran",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/95ff105f-e219-4050-b951-d2606a26ca96",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/95ff105f-e219-4050-b951-d2606a26ca96_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/95ff105f-e219-4050-b951-d2606a26ca96_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/95ff105f-e219-4050-b951-d2606a26ca96_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1988-04-25",
+          "tom": "1988-05-26",
+          "uppgift": "Anita Modin",
+          "intressent_id": "0123965657818",
+          "hangar_id": "2342618",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-04-25",
+          "tom": "1988-05-26",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0123965657818",
+          "hangar_id": "2342618",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-04-25",
+          "tom": "1988-05-26",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0123965657818",
+          "hangar_id": "2342618",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "marknadsförare",
+          "typ": "titlar",
+          "intressent_id": "0123965657818",
+          "hangar_id": "2342618"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0123965657818",
+          "hangar_id": "2342618"
+        }
+      ]
+    }
+  }
+}

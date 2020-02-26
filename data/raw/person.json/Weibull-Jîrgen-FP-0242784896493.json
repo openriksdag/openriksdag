@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "b5c7ced4-df15-458a-a681-e8ac171409f8",
+    "sourceid": "9f7e8af8-9f40-45a8-96d5-80150ef34852",
+    "intressent_id": "0242784896493",
+    "hangar_id": "2341672",
+    "fodd_ar": "1924",
+    "kon": "man",
+    "efternamn": "Weibull",
+    "tilltalsnamn": "Jörgen",
+    "sorteringsnamn": "Weibull,Jörgen",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/9f7e8af8-9f40-45a8-96d5-80150ef34852",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9f7e8af8-9f40-45a8-96d5-80150ef34852_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9f7e8af8-9f40-45a8-96d5-80150ef34852_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9f7e8af8-9f40-45a8-96d5-80150ef34852_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1988-06-06",
+          "tom": "1988-07-05",
+          "uppgift": "Kerstin Ekman",
+          "intressent_id": "0242784896493",
+          "hangar_id": "2341672",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-06-06",
+          "tom": "1988-07-05",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0242784896493",
+          "hangar_id": "2341672",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "professor",
+          "typ": "titlar",
+          "intressent_id": "0242784896493",
+          "hangar_id": "2341672"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0242784896493",
+          "hangar_id": "2341672"
+        }
+      ]
+    }
+  }
+}

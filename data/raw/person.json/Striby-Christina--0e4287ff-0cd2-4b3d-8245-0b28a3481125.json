@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "c1e0a23c-d32d-4496-a072-06ba7734b05b",
+    "sourceid": "0e4287ff-0cd2-4b3d-8245-0b28a3481125",
+    "intressent_id": "",
+    "hangar_id": "4788808",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Striby",
+    "tilltalsnamn": "Christina",
+    "sorteringsnamn": "Striby,Christina",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Ledamot i Nämnden för lön till riksdagens ombudsmän och riksrevisorerna",
+    "person_url_xml": "http://data.riksdagen.se/person/0e4287ff-0cd2-4b3d-8245-0b28a3481125",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0e4287ff-0cd2-4b3d-8245-0b28a3481125_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0e4287ff-0cd2-4b3d-8245-0b28a3481125_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0e4287ff-0cd2-4b3d-8245-0b28a3481125_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "NL",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-11-28",
+          "tom": "2022-11-28",
+          "uppgift": "Nämnden för lön till riksdagens ombudsmän och riksrevisorerna",
+          "intressent_id": "",
+          "hangar_id": "4788808",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NL",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2014-11-27",
+          "tom": "2018-11-27",
+          "uppgift": "Nämnden för lön till riksdagens ombudsmän och riksrevisorerna",
+          "intressent_id": "",
+          "hangar_id": "4788808",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NL",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2008-05-23",
+          "tom": "2014-11-27",
+          "uppgift": "Nämnden för lön till riksdagens ombudsmän och riksrevisorerna",
+          "intressent_id": "",
+          "hangar_id": "4788808",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "person": {
+    "hangar_guid": "ce71a4d4-7e21-466b-ba0a-5e1c26c7b9a3",
+    "sourceid": "c759972c-f921-491a-b36d-d9de5858353a",
+    "intressent_id": "023001325318",
+    "hangar_id": "2343285",
+    "fodd_ar": "1965",
+    "kon": "kvinna",
+    "efternamn": "Edholm",
+    "tilltalsnamn": "Lotta",
+    "sorteringsnamn": "Edholm,Lotta",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/c759972c-f921-491a-b36d-d9de5858353a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c759972c-f921-491a-b36d-d9de5858353a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c759972c-f921-491a-b36d-d9de5858353a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c759972c-f921-491a-b36d-d9de5858353a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1992-07-01",
+          "tom": "1994-10-02",
+          "uppgift": "",
+          "intressent_id": "023001325318",
+          "hangar_id": "2343285",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1992-07-01",
+          "tom": "1993-01-12",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "023001325318",
+          "hangar_id": "2343285",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1993-01-12",
+          "tom": "1994-10-02",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "023001325318",
+          "hangar_id": "2343285",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1992-07-01",
+          "tom": "1994-10-02",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "023001325318",
+          "hangar_id": "2343285",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

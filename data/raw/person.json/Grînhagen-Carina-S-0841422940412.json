@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "7b7f97b4-d5f2-45ef-ab31-33093af8820d",
+    "sourceid": "c5776a14-c135-42fd-b8a3-903ef22fe9a7",
+    "intressent_id": "0841422940412",
+    "hangar_id": "2343405",
+    "fodd_ar": "1968",
+    "kon": "kvinna",
+    "efternamn": "Grönhagen",
+    "tilltalsnamn": "Carina",
+    "sorteringsnamn": "Grönhagen,Carina",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Gotlands län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/c5776a14-c135-42fd-b8a3-903ef22fe9a7",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c5776a14-c135-42fd-b8a3-903ef22fe9a7_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c5776a14-c135-42fd-b8a3-903ef22fe9a7_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c5776a14-c135-42fd-b8a3-903ef22fe9a7_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2004-09-01",
+          "tom": "2004-12-31",
+          "uppgift": "",
+          "intressent_id": "0841422940412",
+          "hangar_id": "2343405",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2004-10-29",
+          "tom": "2004-12-31",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0841422940412",
+          "hangar_id": "2343405",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2004-09-23",
+          "tom": "2004-12-31",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0841422940412",
+          "hangar_id": "2343405",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

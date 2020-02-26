@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "22729ea6-c8c6-4f9b-a48b-58420599df30",
+    "sourceid": "108dc291-43fd-492f-8540-846fe2646311",
+    "intressent_id": "0601988899907",
+    "hangar_id": "2341814",
+    "fodd_ar": "1932",
+    "kon": "kvinna",
+    "efternamn": "Hansson",
+    "tilltalsnamn": "Ing-Marie",
+    "sorteringsnamn": "Hansson,Ing-Marie",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/108dc291-43fd-492f-8540-846fe2646311",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/108dc291-43fd-492f-8540-846fe2646311_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/108dc291-43fd-492f-8540-846fe2646311_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/108dc291-43fd-492f-8540-846fe2646311_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0601988899907",
+          "hangar_id": "2341814",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0601988899907",
+          "hangar_id": "2341814",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0601988899907",
+          "hangar_id": "2341814",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "leg. sjuksköterska",
+          "typ": "titlar",
+          "intressent_id": "0601988899907",
+          "hangar_id": "2341814"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0601988899907",
+          "hangar_id": "2341814"
+        }
+      ]
+    }
+  }
+}

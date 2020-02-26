@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "d351f4b2-4f2a-42d6-a52d-4561b2e0e766",
+    "sourceid": "c6665c5b-a39b-4d88-86c6-40dda1372273",
+    "intressent_id": "0489579494909",
+    "hangar_id": "2341893",
+    "fodd_ar": "1935",
+    "kon": "man",
+    "efternamn": "Janson",
+    "tilltalsnamn": "Erik",
+    "sorteringsnamn": "Janson,Erik",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/c6665c5b-a39b-4d88-86c6-40dda1372273",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c6665c5b-a39b-4d88-86c6-40dda1372273_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c6665c5b-a39b-4d88-86c6-40dda1372273_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c6665c5b-a39b-4d88-86c6-40dda1372273_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Riksdagsledamot",
+        "ordningsnummer": "0",
+        "status": "Tjänstgörande",
+        "typ": "kammaruppdrag",
+        "from": "1985-09-30",
+        "tom": "1988-10-03",
+        "uppgift": "",
+        "intressent_id": "0489579494909",
+        "hangar_id": "2341893",
+        "sortering": "10",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "10"
+      }
+    },
+    "personuppgift": ""
+  }
+}

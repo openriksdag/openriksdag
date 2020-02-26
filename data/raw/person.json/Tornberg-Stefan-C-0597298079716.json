@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "14b2c733-131d-4a59-970c-904d5805941e",
+    "sourceid": "871e292b-9e0c-482c-af34-cd8655f16220",
+    "intressent_id": "0597298079716",
+    "hangar_id": "2342965",
+    "fodd_ar": "1957",
+    "kon": "man",
+    "efternamn": "Tornberg",
+    "tilltalsnamn": "Stefan",
+    "sorteringsnamn": "Tornberg,Stefan",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Norrbottens län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/871e292b-9e0c-482c-af34-cd8655f16220",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/871e292b-9e0c-482c-af34-cd8655f16220_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/871e292b-9e0c-482c-af34-cd8655f16220_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/871e292b-9e0c-482c-af34-cd8655f16220_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "348",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0597298079716",
+          "hangar_id": "2342965",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "NR",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "8",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2006-10-17",
+          "tom": "2010-10-04",
+          "uppgift": "Nordiska rådets svenska delegation",
+          "intressent_id": "0597298079716",
+          "hangar_id": "2342965",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0597298079716",
+          "hangar_id": "2342965",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0597298079716",
+          "hangar_id": "2342965",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KUU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-03-27",
+          "tom": "2009-05-06",
+          "uppgift": "Sammansatta konstitutions- och utrikesutskottet",
+          "intressent_id": "0597298079716",
+          "hangar_id": "2342965",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Leg. sjuksköterska/Redaktör",
+          "typ": "titlar",
+          "intressent_id": "0597298079716",
+          "hangar_id": "2342965"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0597298079716",
+          "hangar_id": "2342965"
+        }
+      ]
+    }
+  }
+}

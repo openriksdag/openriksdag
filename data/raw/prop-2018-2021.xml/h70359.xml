@@ -1,0 +1,1370 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5050748</hangar_id>
+    <dok_id datatype="string">H70359</dok_id>
+    <rm datatype="string">2019/20</rm>
+    <beteckning datatype="string">59</beteckning>
+    <typ datatype="string">prop</typ>
+    <subtyp datatype="string">prop</subtyp>
+    <doktyp datatype="string">prop</doktyp>
+    <typrubrik datatype="string">Proposition 2019/20:59</typrubrik>
+    <dokumentnamn datatype="string">Proposition</dokumentnamn>
+    <debattnamn datatype="string">Proposition</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">Socialdepartementet</organ>
+    <mottagare datatype="string">SoU</mottagare>
+    <nummer datatype="int32">59</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2019-12-18 00:00:00</datum>
+    <systemdatum datatype="datetime">2020-02-05 16:17:56</systemdatum>
+    <publicerad datatype="datetime">2019-12-18 00:00:00</publicerad>
+    <titel datatype="string">Särskilt förordnande inom hälso- och sjukvården</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">Klar</status>
+    <htmlformat datatype="string">html-ec</htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">prop-RIM</source>
+    <sourceid datatype="string">4beec5ba-f7f3-4186-9f6c-a34d33a2fccc</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H70359/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H70359</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H70359</dokumentstatus_url_xml>
+    <html datatype="text">&lt;div style="margin:3px;"&gt;
+&lt;STYLE type="text/css"&gt;
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:10px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_1 #p1dimg1 {position:absolute;top:0px;left:63px;z-index:-1;width:502px;height:146px;}
+#page_1 #p1dimg1 #p1img1 {width:502px;height:146px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_2 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_2 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:14px 0px 20px 10px ;padding: 0px;border: none;width: 676px;}
+
+#page_4 #p4dimg1 {position:absolute;top:361px;left:105px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_4 #p4dimg1 #p4img1 {width:123px;height:1px;}
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 586px;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_7 #id_1 {float:left;border:none;z:b;margin:5px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_7 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 180px;overflow: hidden;}
+
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_9 #p9dimg1 {position:absolute;top:328px;left:63px;z-index:-1;width:393px;height:69px;}
+#page_9 #p9dimg1 #p9img1 {width:393px;height:69px;}
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_10 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+#page_10 #id_2 {border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+#page_10 #id_2 #id_2_1 {float:left;border:none;z:b;margin:102px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_10 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_12 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+#page_12 #id_1 #id_1_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_12 #id_1 #id_1_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_12 #id_2 {border:none;z:b;margin:4px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:15px 0px 20px 10px ;padding: 0px;border: none;width: 676px;}
+#page_13 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_13 #id_1 #id_1_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_13 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_13 #id_2 {border:none;z:b;margin:10px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_13 #id_3 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_13 #id_3 #id_3_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_13 #id_3 #id_3_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_13 #id_4 {border:none;z:b;margin:10px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+#page_13 #p13dimg1 {position:absolute;top:469px;left:0px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_13 #p13dimg1 #p13img1 {width:123px;height:1px;}
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_14 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_14 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+#page_14 #p14dimg1 {position:absolute;top:283px;left:126px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_14 #p14dimg1 #p14img1 {width:123px;height:1px;}
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_15 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_15 #id_1 #id_1_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_15 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_15 #id_2 {border:none;z:b;margin:4px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:13px 0px 20px 10px ;padding: 0px;border: none;width: 721px;}
+
+#page_16 #p16dimg1 {position:absolute;top:441px;left:126px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_16 #p16dimg1 #p16img1 {width:123px;height:1px;}
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:13px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_18 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_18 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+#page_18 #p18dimg1 {position:absolute;top:205px;left:126px;z-index:-1;width:112px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_18 #p18dimg1 #p18img1 {width:112px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  18px 'Verdana' !important;l-h: 32px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 26px;}
+.ft2{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft3{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft4{font:  12px 'Verdana' !important;l-h: 17px;}
+.ft5{font: italic  12px 'Verdana' !important;l-h: 17px;}
+.ft6{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft7{font:  10px 'Verdana' !important;l-h: 14px;}
+.ft8{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft9{font:  12px 'Verdana' !important;margin-left: 32px;l-h: 15px;}
+.ft10{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft11{font: bold  14px 'Verdana' !important;l-h: 17px;}
+.ft12{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft13{font:  10px 'Verdana' !important;l-h: 12px;position: relative; bottom: 5px;}
+.ft14{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft15{font: italic  12px 'Verdana' !important;l-h: 16px;}
+.ft16{font:  10px 'Verdana' !important;l-h: 6px;position: relative; bottom: 4px;}
+.ft17{font:  10px 'Verdana' !important;l-h: 12px;}
+.ft18{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft19{font:  10px 'Verdana' !important;l-h: 7px;}
+.ft20{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft21{font:  14px 'Verdana' !important;margin-left: 39px;l-h: 21px;}
+.ft22{font:  14px 'Verdana' !important;l-h: 21px;}
+.ft23{font:  14px 'Verdana' !important;l-h: 21px;}
+.ft24{font:  10px 'Verdana' !important;l-h: 11px;}
+.ft25{font:  10px 'Verdana' !important;l-h: 10px;}
+.ft26{font:  10px 'Verdana' !important;l-h: 2px;}
+.ft27{font: bold  12px 'Verdana' !important;l-h: 16px;}
+.ft28{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 15px;}
+.ft29{font: bold  12px 'Verdana' !important;l-h: 17px;}
+.ft30{font:  14px 'Verdana' !important;margin-left: 39px;l-h: 19px;}
+.ft31{font:  14px 'Verdana' !important;margin-left: 39px;l-h: 22px;}
+.ft32{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft33{font:  12px 'Verdana' !important;l-h: 18px;}
+.ft34{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft35{font: bold  12px 'Verdana' !important;margin-left: 3px;l-h: 15px;}
+.ft36{font:  10px 'Verdana' !important;l-h: 8px;position: relative; bottom: 4px;}
+.ft37{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft38{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft39{font: bold  12px 'Verdana' !important;margin-left: 3px;l-h: 16px;}
+.ft40{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft41{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft42{font: italic bold  12px 'Verdana' !important;l-h: 16px;}
+.ft43{font:  14px 'Verdana' !important;l-h: 20px;}
+
+.p0{text-align: left;padding-left: 0px;padding-right: 420px;margin-top: 22px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 440px;padding-right: 63px;margin-top: 11px;margin-bottom: 0px !important;text-indent: 0.395px;}
+.p2{text-align: left;padding-left: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p3{text-align: left;padding-left: 0px;margin-top: 32px;margin-bottom: 0px !important;}
+.p4{text-align: left;padding-left: 180px;padding-right: 399px;margin-top: 20px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 0px;margin-top: 47px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 26px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 0px;margin-top: 4px;margin-bottom: 0px !important;}
+.p8{text-align: right;padding-right: 42px;margin-top: 291px;margin-bottom: 0px !important;}
+.p9{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p10{text-align: left;margin-top: 752px;margin-bottom: 0px !important;}
+.p11{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p12{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p13{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p14{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p15{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p16{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p17{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p18{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p19{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p20{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p21{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p22{text-align: right;padding-right: 42px;margin-top: 679px;margin-bottom: 0px !important;}
+.p23{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 11px;margin-bottom: 0px !important;}
+.p24{text-align: left;padding-left: 0px;margin-top: 12px;margin-bottom: 0px !important;}
+.p25{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p26{text-align: left;padding-left: 260px;margin-top: 14px;margin-bottom: 0px !important;}
+.p27{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;}
+.p28{text-align: left;padding-left: 280px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p29{text-align: left;padding-left: 0px;margin-top: 27px;margin-bottom: 0px !important;}
+.p30{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p31{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p32{text-align: left;padding-right: 168px;margin-top: 10px;margin-bottom: 0px !important;}
+.p33{text-align: left;padding-right: 168px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p34{text-align: left;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p35{text-align: left;padding-right: 168px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p36{text-align: left;margin-top: 17px;margin-bottom: 0px !important;}
+.p37{text-align: left;padding-right: 168px;margin-top: 6px;margin-bottom: 0px !important;}
+.p38{text-align: left;margin-top: 44px;margin-bottom: 0px !important;}
+.p39{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p40{text-align: left;padding-left: 0px;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p41{text-align: left;padding-left: 140px;padding-right: 0px;margin-top: 30px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p42{text-align: left;padding-left: 0px;padding-right: 1px;margin-top: 5px;margin-bottom: 0px !important;}
+.p43{text-align: left;padding-left: 0px;padding-right: 1px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 11px;}
+.p44{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p45{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p46{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p47{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p48{text-align: right;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p49{text-align: left;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p50{text-align: left;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p51{text-align: left;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p52{text-align: left;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p53{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p54{text-align: right;padding-right: 42px;margin-top: 752px;margin-bottom: 0px !important;}
+.p55{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p56{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p57{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p58{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p59{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p60{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p61{text-align: left;margin-top: 4px;margin-bottom: 0px !important;}
+.p62{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p63{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p64{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p65{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 4px;margin-bottom: 0px !important;}
+.p66{text-align: left;padding-left: 0px;margin-top: 34px;margin-bottom: 0px !important;}
+.p67{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 12px;margin-bottom: 0px !important;}
+.p68{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p69{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p70{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p71{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p72{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 6px;margin-bottom: 0px !important;}
+.p73{text-align: right;padding-right: 42px;margin-top: 25px;margin-bottom: 0px !important;}
+.p74{text-align: left;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p75{text-align: left;padding-left: 0px;margin-top: 5px;margin-bottom: 0px !important;}
+.p76{text-align: left;margin-top: 47px;margin-bottom: 0px !important;}
+.p77{text-align: left;padding-right: 63px;margin-top: 12px;margin-bottom: 0px !important;}
+.p78{text-align: left;margin-top: 27px;margin-bottom: 0px !important;}
+.p79{text-align: left;padding-right: 63px;margin-top: 9px;margin-bottom: 0px !important;}
+.p80{text-align: left;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p81{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 27px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p82{text-align: left;padding-right: 63px;margin-top: 7px;margin-bottom: 0px !important;}
+.p83{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;}
+.p84{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p85{text-align: left;padding-left: 0px;margin-top: 43px;margin-bottom: 0px !important;}
+.p86{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 16px;margin-bottom: 0px !important;}
+.p87{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 11px;margin-bottom: 0px !important;}
+.p88{text-align: right;padding-right: 42px;margin-top: 201px;margin-bottom: 0px !important;}
+.p89{text-align: left;margin-top: 2px;margin-bottom: 0px !important;}
+.p90{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p91{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p92{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p93{text-align: left;margin-top: 552px;margin-bottom: 0px !important;}
+.p94{text-align: left;margin-top: 3px;margin-bottom: 0px !important;}
+.p95{text-align: left;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;}
+.p96{text-align: left;margin-top: 6px;margin-bottom: 0px !important;}
+.p97{text-align: left;padding-left: 160px;padding-right: 168px;padding-top: 2px;margin-top: 11px;margin-bottom: 0px !important;text-indent: 0.5px;}
+.p98{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p99{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p100{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p101{text-align: left;margin-top: 738px;margin-bottom: 0px !important;}
+.p102{text-align: left;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;}
+.p103{text-align: left;padding-right: 63px;margin-top: 7px;margin-bottom: 0px !important;}
+.p104{text-align: left;padding-left: 160px;padding-right: 336px;margin-top: 11px;margin-bottom: 0px !important;text-indent: 0.5px;}
+.p105{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p106{text-align: right;padding-right: 126px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p107{text-align: right;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p108{text-align: left;padding-left: 0px;margin-top: 27px;margin-bottom: 0px !important;}
+.p109{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;}
+.p110{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 11px;}
+.p111{text-align: right;margin-top: 395px;margin-bottom: 0px !important;}
+.p112{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p113{text-align: left;padding-left: 260px;margin-top: 15px;margin-bottom: 0px !important;}
+.p114{text-align: left;padding-left: 280px;margin-top: 1px;margin-bottom: 0px !important;}
+.p115{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;}
+.p116{text-align: left;padding-left: 300px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p117{text-align: left;padding-left: 0px;margin-top: 32px;margin-bottom: 0px !important;}
+.p118{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 12px;margin-bottom: 0px !important;}
+.p119{text-align: right;margin-top: 201px;margin-bottom: 0px !important;}
+.p120{text-align: left;margin-top: 15px;margin-bottom: 0px !important;}
+.p121{text-align: left;padding-right: 84px;margin-top: 15px;margin-bottom: 0px !important;}
+.p122{text-align: left;margin-top: 12px;margin-bottom: 0px !important;}
+.p123{text-align: left;padding-right: 84px;margin-top: 76px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 6px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 397px;vertical-align: bottom;}
+.td2{padding: 0px;margin: 0px;width: 55px;vertical-align: bottom;}
+.td3{padding: 0px;margin: 0px;width: 342px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 334px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 14px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 390px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 16px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 61px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 318px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 380px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 78px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 396px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 36px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 389px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 97px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 182px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 279px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 184px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 214px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 63px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 179px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 468px;vertical-align: bottom;}
+.td23{padding: 0px;margin: 0px;width: 120px;vertical-align: bottom;}
+.td24{padding: 0px;margin: 0px;width: 42px;vertical-align: bottom;}
+.td25{padding: 0px;margin: 0px;width: 370px;vertical-align: bottom;}
+.td26{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 412px;vertical-align: bottom;}
+.td27{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 119px;vertical-align: bottom;}
+.td28{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 411px;vertical-align: bottom;}
+.td29{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 42px;vertical-align: bottom;}
+.td30{border-right: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 369px;vertical-align: bottom;}
+.td31{padding: 0px;margin: 0px;width: 215px;vertical-align: bottom;}
+.td32{padding: 0px;margin: 0px;width: 106px;vertical-align: bottom;}
+.td33{padding: 0px;margin: 0px;width: 319px;vertical-align: bottom;}
+.td34{padding: 0px;margin: 0px;width: 211px;vertical-align: bottom;}
+.td35{padding: 0px;margin: 0px;width: 198px;vertical-align: bottom;}
+.td36{padding: 0px;margin: 0px;width: 108px;vertical-align: bottom;}
+.td37{padding: 0px;margin: 0px;width: 424px;vertical-align: bottom;}
+.td38{padding: 0px;margin: 0px;width: 48px;vertical-align: bottom;}
+.td39{padding: 0px;margin: 0px;width: 176px;vertical-align: bottom;}
+.td40{padding: 0px;margin: 0px;width: 199px;vertical-align: bottom;}
+.td41{padding: 0px;margin: 0px;width: 375px;vertical-align: bottom;}
+.td42{padding: 0px;margin: 0px;width: 224px;vertical-align: bottom;}
+.td43{padding: 0px;margin: 0px;width: 69px;vertical-align: bottom;}
+.td44{padding: 0px;margin: 0px;width: 426px;vertical-align: bottom;}
+
+.tr0{heightzzz: 21px;}
+.tr1{heightzzz: 22px;}
+.tr2{heightzzz: 14px;}
+.tr3{heightzzz: 17px;}
+.tr4{heightzzz: 18px;}
+.tr5{heightzzz: 19px;}
+.tr6{heightzzz: 16px;}
+.tr7{heightzzz: 15px;}
+.tr8{heightzzz: 20px;}
+.tr9{heightzzz: 27px;}
+.tr10{heightzzz: 32px;}
+.tr11{heightzzz: 26px;}
+.tr12{heightzzz: 23px;}
+.tr13{heightzzz: 25px;}
+.tr14{heightzzz: 7px;}
+.tr15{heightzzz: 33px;}
+.tr16{heightzzz: 35px;}
+.tr17{heightzzz: 11px;}
+.tr18{heightzzz: 10px;}
+.tr19{heightzzz: 2px;}
+.tr20{heightzzz: 24px;}
+.tr21{heightzzz: 47px;}
+.tr22{heightzzz: 29px;}
+.tr23{heightzzz: 36px;}
+.tr24{heightzzz: 43px;}
+.tr25{heightzzz: 28px;}
+.tr26{heightzzz: 30px;}
+
+.t0{width: 430px;margin-top: 17px;f:13px 'Verdana' !important;}
+.t1{width: 431px;f:13px 'Verdana' !important;}
+.t2{width: 548px;margin-leftZ: 68px;f:20px 'Verdana' !important;}
+.t3{width: 484px;f:20px 'Verdana' !important;}
+.t4{width: 418px;margin-leftZ: 114px;margin-top: 11px;f:bold 13px 'Verdana' !important;}
+.t5{width: 254px;margin-top: 383px;f:6px 'Verdana' !important;}
+.t6{width: 548px;f:20px 'Verdana' !important;}
+.t7{width: 555px;margin-top: 8px;f:13px 'Verdana' !important;}
+.t8{width: 558px;margin-top: 46px;f:13px 'Verdana' !important;}
+.t9{width: 336px;margin-top: 11px;f:italic 13px 'Verdana' !important;}
+.t10{width: 555px;margin-top: 270px;f:7px 'Verdana' !important;}
+.t11{width: 335px;margin-top: 13px;f:italic 13px 'Verdana' !important;}
+.t12{width: 432px;f:13px 'Verdana' !important;}
+.t13{width: 557px;margin-leftZ: 6px;f:13px 'Verdana' !important;}
+.t14{width: 260px;margin-top: 305px;f:6px 'Verdana' !important;}
+.t15{width: 548px;margin-leftZ: 68px;f:13px 'Verdana' !important;}
+
+&lt;/STYLE&gt;
+
+
+
+&lt;DIV id="page_1"&gt;
+&lt;DIV id="p1dimg1"&gt;
+&lt;INGENBILD zsrc="H703591x1.jpg/" id="p1img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV class="dclr"&gt;&lt;/DIV&gt;
+&lt;P class="p0 ft0"&gt;Regeringens proposition 2019/20:59&lt;/P&gt;
+&lt;P class="p1 ft1"&gt;Särskilt förordnande inom hälso- och sjukvården Prop. 2019/20:59&lt;/P&gt;
+&lt;P class="p2 ft2"&gt;Regeringen överlämnar denna proposition till riksdagen.&lt;/P&gt;
+&lt;P class="p2 ft2"&gt;Stockholm den 17 december 2019&lt;/P&gt;
+&lt;P class="p3 ft3"&gt;Stefan Löfven&lt;/P&gt;
+&lt;P class="p4 ft5"&gt;Lena Hallengren &lt;SPAN class="ft4"&gt;(Socialdepartementet)&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p5 ft6"&gt;Propositionens huvudsakliga innehåll&lt;/P&gt;
+&lt;P class="p6 ft2"&gt;Regeringen föreslår en ändring i patientsäkerhetslagen (2010:659), förkortad PSL, som innebär att regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om att en region, eller en kommun som inte ingår i en region, får besluta om särskilt förordnande att utöva yrke inom hälso- och sjukvården.&lt;/P&gt;
+&lt;P class="p7 ft2"&gt;Lagändringen föreslås träda i kraft den 1 mars 2020.&lt;/P&gt;
+&lt;P class="p8 ft2"&gt;1&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_2"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p9 ft2"&gt;Prop. 2019/20:59&lt;/P&gt;
+&lt;P class="p10 ft2"&gt;2&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p9 ft6"&gt;Innehållsförteckning&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t0"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr0 td0"&gt;&lt;SPAN class="p11 ft2"&gt;&lt;A href="#page_3"&gt;1&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr0 td1"&gt;&lt;SPAN class="p12 ft2"&gt;&lt;A href="#page_3"&gt;Förslag till riksdagsbeslut .................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td0"&gt;&lt;SPAN class="p11 ft2"&gt;&lt;A href="#page_3"&gt;3&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td0"&gt;&lt;SPAN class="p11 ft2"&gt;&lt;A href="#page_4"&gt;2&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr1 td1"&gt;&lt;SPAN class="p12 ft2"&gt;&lt;A href="#page_4"&gt;Förslag till lag om ändring i patientsäkerhetslagen (2010:659) ........&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td0"&gt;&lt;SPAN class="p11 ft2"&gt;&lt;A href="#page_4"&gt;4&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td0"&gt;&lt;SPAN class="p11 ft2"&gt;&lt;A href="#page_5"&gt;3&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr1 td1"&gt;&lt;SPAN class="p12 ft2"&gt;&lt;A href="#page_5"&gt;Ärendet och dess beredning ..............................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td0"&gt;&lt;SPAN class="p11 ft2"&gt;&lt;A href="#page_5"&gt;5&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr0 td0"&gt;&lt;SPAN class="p11 ft2"&gt;&lt;A href="#page_5"&gt;4&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr0 td1"&gt;&lt;SPAN class="p12 ft2"&gt;&lt;A href="#page_5"&gt;Bakgrund...........................................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td0"&gt;&lt;SPAN class="p11 ft2"&gt;&lt;A href="#page_5"&gt;5&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td0"&gt;&lt;SPAN class="p13 ft7"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td2"&gt;&lt;SPAN class="p12 ft8"&gt;&lt;A href="#page_5"&gt;4.1&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td3"&gt;&lt;SPAN class="p14 ft8"&gt;&lt;A href="#page_5"&gt;Särskilt förordnande att utöva yrke ....................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td0"&gt;&lt;SPAN class="p11 ft8"&gt;&lt;A href="#page_5"&gt;5&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p15 ft2"&gt;&lt;SPAN class="ft2"&gt;4.2&lt;/SPAN&gt;&lt;A href="#page_6"&gt;&lt;SPAN class="ft9"&gt;Socialstyrelsen saknar möjlighet att föreskriva att&lt;/SPAN&gt;&lt;/A&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t1"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td0"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td2"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td4"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_6"&gt;regioner får förordna icke legitimerad personal att&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td5"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td0"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td2"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td4"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_6"&gt;utöva yrke...........................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td5"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_6"&gt;6&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td0"&gt;&lt;SPAN class="p11 ft2"&gt;&lt;A href="#page_6"&gt;5&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td6"&gt;&lt;SPAN class="p12 ft2"&gt;&lt;A href="#page_6"&gt;Överväganden och förslag ................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td5"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_6"&gt;6&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td0"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td2"&gt;&lt;SPAN class="p12 ft2"&gt;&lt;A href="#page_6"&gt;5.1&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td4"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_6"&gt;Särskilda förordnanden att utöva yrke................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td5"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_6"&gt;6&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td0"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td2"&gt;&lt;SPAN class="p12 ft2"&gt;&lt;A href="#page_9"&gt;5.2&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td4"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_9"&gt;Ikraftträdande- och övergångsbestämmelser ......................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td5"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_9"&gt;9&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td0"&gt;&lt;SPAN class="p11 ft2"&gt;&lt;A href="#page_10"&gt;6&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td6"&gt;&lt;SPAN class="p12 ft2"&gt;&lt;A href="#page_10"&gt;Konsekvenser av förslaget ..............................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td5"&gt;&lt;SPAN class="p11 ft2"&gt;&lt;A href="#page_10"&gt;10&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td0"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td2"&gt;&lt;SPAN class="p12 ft2"&gt;&lt;A href="#page_10"&gt;6.1&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td4"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_10"&gt;Konsekvenser för det kommunala självstyret...................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td5"&gt;&lt;SPAN class="p11 ft2"&gt;&lt;A href="#page_10"&gt;10&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td0"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td2"&gt;&lt;SPAN class="p12 ft2"&gt;&lt;A href="#page_10"&gt;6.2&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td4"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_10"&gt;Konsekvenser för Socialstyrelsen.....................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td5"&gt;&lt;SPAN class="p11 ft2"&gt;&lt;A href="#page_10"&gt;10&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p15 ft2"&gt;&lt;SPAN class="ft2"&gt;6.3&lt;/SPAN&gt;&lt;A href="#page_10"&gt;&lt;SPAN class="ft9"&gt;Konsekvenser för bemanning och&lt;/SPAN&gt;&lt;/A&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t1"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td7"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td8"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td9"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_10"&gt;kompetensförsörjning.......................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td5"&gt;&lt;SPAN class="p11 ft2"&gt;&lt;A href="#page_10"&gt;10&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td7"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_11"&gt;7&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr1 td10"&gt;&lt;SPAN class="p17 ft2"&gt;&lt;A href="#page_11"&gt;Författningskommentar...................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td5"&gt;&lt;SPAN class="p11 ft2"&gt;&lt;A href="#page_11"&gt;11&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr8 td11"&gt;&lt;SPAN class="p13 ft2"&gt;Bilaga 1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td9"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_12"&gt;Sammanfattning av promemorian Särskilt&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td5"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td7"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td8"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td9"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_12"&gt;förordnande för läkare ......................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td5"&gt;&lt;SPAN class="p11 ft2"&gt;&lt;A href="#page_12"&gt;12&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr8 td11"&gt;&lt;SPAN class="p13 ft2"&gt;Bilaga 2&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td9"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_13"&gt;Författningsförslag i promemorian Särskilt&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td5"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td7"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td8"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td9"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_13"&gt;förordnande för läkare ......................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td5"&gt;&lt;SPAN class="p11 ft2"&gt;&lt;A href="#page_13"&gt;13&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td11"&gt;&lt;SPAN class="p13 ft2"&gt;Bilaga 3&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td9"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_15"&gt;Remissinstanser avseende promemorian Särskilt&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td5"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td7"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td8"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td9"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_15"&gt;förordnande för läkare ......................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td5"&gt;&lt;SPAN class="p11 ft2"&gt;&lt;A href="#page_15"&gt;15&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr0 td11"&gt;&lt;SPAN class="p13 ft2"&gt;Bilaga 4&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td9"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_16"&gt;Lagrådsremissens lagförslag ............................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td5"&gt;&lt;SPAN class="p11 ft2"&gt;&lt;A href="#page_16"&gt;16&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr1 td11"&gt;&lt;SPAN class="p13 ft2"&gt;Bilaga 5&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td9"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_17"&gt;Lagrådets yttrande ............................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td5"&gt;&lt;SPAN class="p11 ft2"&gt;&lt;A href="#page_17"&gt;17&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr8 td12"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_18"&gt;Utdrag ur protokoll vid regeringssammanträde&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td5"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr4 td12"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_18"&gt;den 17 december 2019 ............................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td5"&gt;&lt;SPAN class="p11 ft2"&gt;&lt;A href="#page_18"&gt;18&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_3"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t2"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td13"&gt;&lt;SPAN class="p18 ft6"&gt;1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td14"&gt;&lt;SPAN class="p19 ft6"&gt;Förslag till riksdagsbeslut&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p13 ft2"&gt;Prop. 2019/20:59&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p20 ft2"&gt;Regeringens förslag:&lt;/P&gt;
+&lt;P class="p21 ft4"&gt;Riksdagen antar regeringens förslag till lag om ändring i patientsäkerhetslagen (2010:659).&lt;/P&gt;
+&lt;P class="p22 ft2"&gt;3&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_4"&gt;
+&lt;DIV id="p4dimg1"&gt;
+&lt;INGENBILD zsrc="H703594x1.jpg/" id="p4img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t3"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td16"&gt;&lt;SPAN class="p13 ft2"&gt;Prop. 2019/20:59 &lt;SPAN class="ft6"&gt;2&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td17"&gt;&lt;SPAN class="p13 ft6"&gt;Förslag till lag om ändring i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td16"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p13 ft6"&gt;patientsäkerhetslagen (2010:659)&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p23 ft4"&gt;Härigenom föreskrivs att 4 kap. 10 § och rubriken närmast före 4 kap. 10 § patientsäkerhetslagen (2010:659) ska ha följande lydelse.&lt;/P&gt;
+&lt;P class="p24 ft3"&gt;Nuvarande lydelse&lt;SPAN style="padding-left:104px;"&gt;Föreslagen lydelse&lt;/SPAN&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t4"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td18"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td19"&gt;&lt;SPAN class="p13 ft11"&gt;4 kap.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td18"&gt;&lt;SPAN class="p13 ft12"&gt;Behörig myndighet&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td19"&gt;&lt;SPAN class="p25 ft12"&gt;Prövning av behörighetsfrågor&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p26 ft12"&gt;10 §&lt;A href="#page_4"&gt;&lt;SPAN class="ft13"&gt;1&lt;/SPAN&gt;&lt;/A&gt;&lt;/P&gt;
+&lt;P class="p27 ft14"&gt;Socialstyrelsen prövar ansökningar om legitimation, särskilt förordnande att utöva yrke och bevis om specialistkompetens.&lt;/P&gt;
+&lt;P class="p28 ft15"&gt;Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om att även en region eller en kommun som inte ingår i en region får besluta om särskilt förordnande att utöva yrke.&lt;/P&gt;
+&lt;P class="p29 ft2"&gt;Denna lag träder i kraft den 1 mars 2020.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t5"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td20"&gt;&lt;SPAN class="p30 ft2"&gt;4&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td21"&gt;&lt;SPAN class="p31 ft17"&gt;&lt;SPAN class="ft16"&gt;1 &lt;/SPAN&gt;Senaste lydelse 2012:310.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_5"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t6"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td13"&gt;&lt;SPAN class="p18 ft6"&gt;3&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td14"&gt;&lt;SPAN class="p19 ft6"&gt;Ärendet och dess beredning&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p13 ft2"&gt;Prop. 2019/20:59&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p32 ft2"&gt;I en dom från Kammarrätten i Stockholm uppmärksammades att regeringens bemyndigande till Socialstyrelsen att meddela föreskrifter om att landsting i vissa fall får förordna icke legitimerad personal att utöva yrke inom hälso- och sjukvården står i strid med patientsäkerhetslagen (2010:659), förkortad PSL (se dom den 18 februari 2019 i mål nr &lt;NOBR&gt;719–18).&lt;/NOBR&gt; Högsta förvaltningsdomstolen meddelade inte prövningstillstånd (se beslut den 7 maj 2019 i mål nr &lt;NOBR&gt;1521–19).&lt;/NOBR&gt;&lt;/P&gt;
+&lt;P class="p33 ft14"&gt;I en skrivelse från den 2 april 2019 anförde Socialstyrelsen behov av en lagändring med anledning av Kammarrätten i Stockholms dom (S2019/01625/FS).&lt;/P&gt;
+&lt;P class="p34 ft2"&gt;I departementspromemorian Särskilt förordnande för läkare (S2019/02929/FS) lämnas förslag på ändringar i PSL och patientsäkerhetsförordningen (2010:1369), förkortad PSF. En sammanfattning av departementspromemorian finns i &lt;SPAN class="ft3"&gt;bilaga 1&lt;/SPAN&gt;. Promemorians författningsförslag finns i &lt;SPAN class="ft3"&gt;bilaga 2&lt;/SPAN&gt;. Promemorian har remissbehandlats. En förteckning över remissinstanserna finns i &lt;SPAN class="ft3"&gt;bilaga 3&lt;/SPAN&gt;. En sammanställning av remissyttrandena finns tillgänglig i Socialdepartementet (S2019/02929/FS).&lt;/P&gt;
+&lt;P class="p35 ft2"&gt;Den 20 november 2019 beslutade riksdagen att beteckningen för kommuner på regional nivå ska ändras från landsting till region (prop. 2018/19:162, bet. 2019/20:KU3, rskr. 2019/20:48). Ändringen träder i huvudsak i kraft den 1 januari 2020. Föreslagna ändringar i patientsäkerhetslagen anpassas till ändringen. Beteckningen region används därför genomgående i propositionen i stället för beteckningen landsting, med undantag för de fall där det i propositionen hänvisas till bestämmelser i gällande rätt som innehåller beteckningen landsting.&lt;/P&gt;
+&lt;P class="p36 ft3"&gt;Lagrådet&lt;/P&gt;
+&lt;P class="p37 ft14"&gt;Regeringen beslutade den 14 november 2019 att inhämta Lagrådets yttrande över det lagförslag som finns i &lt;SPAN class="ft15"&gt;bilaga 4&lt;/SPAN&gt;. Lagrådets yttrande finns i &lt;SPAN class="ft15"&gt;bilaga 5&lt;/SPAN&gt;. Regeringen har följt Lagrådets förslag. Lagrådets synpunkter behandlas i avsnitt 5.1 och i författningskommentaren.&lt;/P&gt;
+&lt;P class="p38 ft6"&gt;4 Bakgrund&lt;/P&gt;
+&lt;P class="p36 ft18"&gt;4.1 Särskilt förordnande att utöva yrke&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t7"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr0 td22"&gt;&lt;SPAN class="p13 ft2"&gt;Apotekare, barnmorska, läkare, receptarie och tandläkare är ensamrätts-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td8"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td22"&gt;&lt;SPAN class="p13 ft2"&gt;yrken, vilket innebär att endast de som har legitimation eller som särskilt&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td8"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td22"&gt;&lt;SPAN class="p13 ft2"&gt;förordnats att utöva ett av dessa yrken har behörighet att utöva det, se&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td8"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td22"&gt;&lt;SPAN class="p13 ft2"&gt;4 kap. 4 § PSL. Ett särskilt förordnande krävs t.ex. för att genomföra all-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td8"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td22"&gt;&lt;SPAN class="p13 ft2"&gt;mäntjänstgöring &lt;NOBR&gt;(AT-tjänstgöring)&lt;/NOBR&gt; som utöver läkarexamen krävs för&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td8"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td22"&gt;&lt;SPAN class="p13 ft2"&gt;läkarlegitimation.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td8"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td22"&gt;&lt;SPAN class="p39 ft2"&gt;I 4 kap. 10 § PSL anges att Socialstyrelsen prövar ansökningar om bl.a.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td8"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td22"&gt;&lt;SPAN class="p13 ft2"&gt;särskilt förordnande att utöva yrke. Enligt 4 kap. 11 § PSL får regeringen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td8"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td22"&gt;&lt;SPAN class="p13 ft2"&gt;eller den myndighet som regeringen bestämmer meddela föreskrifter om&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD rowspan=2 class="tr13 td8"&gt;&lt;SPAN class="p11 ft2"&gt;5&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td22"&gt;&lt;SPAN class="p13 ft19"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_6"&gt;
+
+
+&lt;P class="p40 ft14"&gt;Prop. 2019/20:59 legitimation och annan behörighet för hälso- och sjukvårdspersonal. Med annan behörighet avses bl.a. särskilt förordnande att utöva yrke enligt 4 § (se prop. 2009/10:210 s. 204).&lt;/P&gt;
+&lt;P class="p41 ft22"&gt;&lt;SPAN class="ft20"&gt;4.2&lt;/SPAN&gt;&lt;SPAN class="ft21"&gt;Socialstyrelsen saknar möjlighet att föreskriva att regioner får förordna icke legitimerad personal att utöva yrke&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p42 ft2"&gt;Regeringen har bemyndigat Socialstyrelsen att, med vissa undantag, meddela föreskrifter om att landsting i vissa fall får förordna icke legitimerad personal att utöva yrke inom hälso- och sjukvården (3 kap. 12 § PSF). Socialstyrelsen har meddelat föreskrifter om särskilt förordnande att utöva läkaryrket för icke legitimerade läkare (SOSFS 2000:6). I 1 § anges att föreskrifterna ska tillämpas vid särskilda förordnanden att utöva läkaryrket för icke legitimerade läkare inom landstingens hälso- och sjukvård, samt att med landsting avses även kommuner som inte ingår i landsting. I 2 § finns bestämmelser som innebär att landsting i vissa fall får anställa läkare som inte har legitimation för allmäntjänstgöring eller med ett vikariatsförordnande. I 4 § anges att Socialstyrelsens särskilda förordnande krävs för övriga läkare som inte har legitimation, och att det är landstinget som ansöker om sådana förordnanden. Enligt 5 § får Socialstyrelsen återkalla ett bemyndigande enligt 2 § för en viss läkare.&lt;/P&gt;
+&lt;P class="p43 ft2"&gt;Regeringens bemyndigande till Socialstyrelsen att meddela föreskrifter om att landsting i vissa fall får förordna icke legitimerad personal har prövats av Kammarrätten i Stockholm (se dom den 18 februari 2019 i mål nr &lt;NOBR&gt;719–18).&lt;/NOBR&gt; Kammarrätten anser att bemyndigandet strider mot bestämmelsen i 4 kap. 10 § PSL som uttömmande reglerar att det är Socialstyrelsen som prövar ansökningar om särskilda förordnanden och får enligt 11 kap. 14 § regeringsformen inte tillämpas. Kammarrätten konstaterar vidare att inte heller 8 kap. 5 § andra stycket PSF, som ger Socialstyrelsen rätt att meddela föreskrifter om verkställighet av PSL och PSF, ger utrymme att meddela föreskrifter om vilken myndighet som ska besluta om särskilda förordnanden eftersom det fullt ut regleras i 4 kap. 10 § PSL. Domen har fått laga kraft genom att Högsta förvaltningsdomstolen beslutat att inte meddela prövningstillstånd (se beslut den 7 maj 2019 i mål nr &lt;NOBR&gt;1521–19).&lt;/NOBR&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t8"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr15 td23"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr15 td24"&gt;&lt;SPAN class="p44 ft23"&gt;5&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr15 td25"&gt;&lt;SPAN class="p45 ft6"&gt;Överväganden och förslag&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr16 td23"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr16 td24"&gt;&lt;SPAN class="p46 ft20"&gt;5.1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr16 td25"&gt;&lt;SPAN class="p45 ft18"&gt;Särskilda förordnanden att utöva yrke&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr17 td23"&gt;&lt;SPAN class="p13 ft24"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr18 td26"&gt;&lt;SPAN class="p13 ft25"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td27"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td28"&gt;&lt;SPAN class="p47 ft2"&gt;&lt;SPAN class="ft12"&gt;Regeringens förslag: &lt;/SPAN&gt;I patientsäkerhetslagen införs ett bemyndigande&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td27"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr7 td28"&gt;&lt;SPAN class="p47 ft2"&gt;som innebär att regeringen eller den myndighet som regeringen&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td27"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr6 td28"&gt;&lt;SPAN class="p47 ft2"&gt;bestämmer får meddela föreskrifter om att även en region eller en&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td27"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr7 td28"&gt;&lt;SPAN class="p47 ft2"&gt;kommun som inte ingår i en region får besluta om särskilt förordnande&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD rowspan=2 class="tr0 td27"&gt;&lt;SPAN class="p48 ft2"&gt;6&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td28"&gt;&lt;SPAN class="p47 ft2"&gt;att utöva yrke.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr19 td29"&gt;&lt;SPAN class="p13 ft26"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr19 td30"&gt;&lt;SPAN class="p13 ft26"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_7"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p49 ft14"&gt;&lt;SPAN class="ft27"&gt;Promemorians förslag: &lt;/SPAN&gt;Överensstämmer i huvudsak med regeringens förslag. I promemorian föreslås en annan utformning av bestämmelsen.&lt;/P&gt;
+&lt;P class="p49 ft2"&gt;&lt;SPAN class="ft12"&gt;Remissinstanserna: &lt;/SPAN&gt;Samtliga remissinstanser är positiva till förslaget i promemorian, däribland &lt;SPAN class="ft3"&gt;Inspektionen för vård och omsorg, Socialstyrelsen, Sveriges Kommuner och Landsting och Universitets- och högskolerådet&lt;/SPAN&gt;. Några instanser bl.a. &lt;SPAN class="ft3"&gt;Svenska läkarsällskapet &lt;/SPAN&gt;och &lt;SPAN class="ft3"&gt;Sveriges yngre läkarförbund &lt;/SPAN&gt;framhåller att förslaget skulle innebära att den väl fungerande ordning som tidigare funnits under en längre tid skulle återinföras. &lt;SPAN class="ft3"&gt;Norrbottens läns landsting &lt;/SPAN&gt;menar att lagändringarna skulle bidra till att underlätta sjukvårdens kompetensförsörjning inom regionen. Lagändringarna skulle också innebära fortsatt snabba och säkra anställningsprocesser samt förbättrade möjligheter för vårdpersonal att få ut sin legitimation.&lt;/P&gt;
+&lt;P class="p50 ft2"&gt;&lt;SPAN class="ft3"&gt;Västra Götalands läns landsting &lt;/SPAN&gt;menar att det finns en otydlighet om vilka legitimationsyrken inom hälso- och sjukvården som förändringen avser. Landstinget anser också att det är otydligt vad som avses med kommuner som inte ingår i en region.&lt;/P&gt;
+&lt;P class="p49 ft14"&gt;Några remissinstanser, bl.a. Socialstyrelsen&lt;SPAN class="ft15"&gt;, &lt;/SPAN&gt;för fram vissa språkliga och lagtekniska synpunkter i fråga om bestämmelsens närmare utformning.&lt;/P&gt;
+&lt;P class="p49 ft2"&gt;&lt;SPAN class="ft12"&gt;Skälen för regeringens förslag: &lt;/SPAN&gt;För att det ska vara möjligt att t.ex. anställa en &lt;NOBR&gt;icke-legitimerad&lt;/NOBR&gt; person för ett vikariat kan personer utan legitimation under vissa förutsättningar särskilt förordnas att utöva yrket. Socialstyrelsen är den myndighet som har i uppgift att besluta om sådana förordnanden.&lt;/P&gt;
+&lt;P class="p51 ft2"&gt;Under lång tid har det också funnits en möjlighet för Socialstyrelsen att i vissa fall delegera uppgiften till en region eller motsvarande. I lagen (1984:542) om behörighet att utöva yrke inom hälso- och sjukvården m.m. (behörighetslagen) angavs i 6 § andra stycket att särskilda förordnanden meddelades av Socialstyrelsen eller, efter styrelsens bemyndigande, av hälso- och sjukvårdsnämnd, organ som avsågs i 11 § i dåvarande hälso- och sjukvårdslagen eller annan myndighet. I förarbetena till lagen behandlades frågan om huruvida handläggningen i större utsträckning borde flyttas till Socialstyrelsen, något som man inte ansåg borde ske (se prop. 1983/84:179 s. 28).&lt;/P&gt;
+&lt;P class="p52 ft2"&gt;År 1992 ändrades bestämmelsen på så sätt att särskilda förordnanden skulle meddelas av den myndighet som regeringen bestämde. En bestämmelse som motsvarade 6 § andra stycket behörighetslagen infördes samtidigt i förordningen (1984:545) om behörighet att utöva yrke inom hälso- och sjukvården m.m. (behörighetsförordningen). Någon saklig förändring var inte avsedd (se prop. 1992/93:83 s. 43).&lt;/P&gt;
+&lt;P class="p52 ft2"&gt;År 1999 ersattes behörighetslagen av lagen (1998:531) om yrkesverksamhet på hälso- och sjukvårdens område. Motsvarande bestämmelse i den lagen kom då att utformas på så sätt att frågor om meddelande av särskilda förordnanden skulle prövas av Socialstyrelsen (se 3 kap. 10 §). I förarbetena angavs att Socialstyrelsen redan hade motsvarande behörighet (se prop. 1997/98:109 s. 154) och bestämmelsen i behörighetsförordningen överfördes till förordningen (1998:1513) om yrkesverksamhet på hälso- och sjukvårdens område.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p53 ft2"&gt;Prop. 2019/20:59&lt;/P&gt;
+&lt;P class="p54 ft2"&gt;7&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_8"&gt;
+
+
+&lt;P class="p55 ft14"&gt;Prop. 2019/20:59 År 2011 ersattes dessa bestämmelser av 4 kap. 10 § PSL och 3 kap. 12 § PSF. Någon ändring i sak var inte heller nu avsedd (prop. 2009/10:210 s. 204). År 2012 fick 4 kap. 10 § PSL sin nuvarande lydelse.&lt;/P&gt;
+&lt;P class="p56 ft2"&gt;Vid denna genomgång av de författningar som har reglerat beslutsordningen framkommer inget annat än att det är ett förbiseende som lett till att 4 kap. 10 § PSL och den bestämmelse som föregick den uttömmande pekar ut Socialstyrelsen som den myndighet som fattar beslut om särskilda förordnanden.&lt;/P&gt;
+&lt;P class="p57 ft2"&gt;Även om den reglering som finns om Socialstyrelsens delegering av uppgiften till regionerna omfattar alla ensamrättsyrken har Socialstyrelsen endast delegerat uppgiften om behörighet att utöva läkaryrket. Regionerna fick denna möjlighet för att underlätta administrationen vid anställning av &lt;NOBR&gt;AT-läkare&lt;/NOBR&gt; och vikarier. Antalet läkare med särskilda förordnanden är relativt stort. Det har därför bedömts vara en tillfredsställande ordning att regionerna har denna möjlighet (se t.ex. SOU 2010:65 s. 38 och 229). När Kammarrätten i Stockholm uppmärksammade att Socialstyrelsens delegering till regionerna saknar stöd i lag efterfrågade Socialstyrelsen en lagändring på området. Socialstyrelsen menar att det skulle få stora konsekvenser för både regionerna och Socialstyrelsen om regionerna inte skulle kunna fortsätta med att särskilt förordna icke legitimerade läkare, bl.a. långa handläggningstider och ineffektivt resursutnyttjande.&lt;/P&gt;
+&lt;P class="p58 ft2"&gt;Mot denna bakgrund anser regeringen att det är angeläget att regioner återigen får befogenhet att förordna icke legitimerad personal att utöva yrke inom hälso- och sjukvården. Det är regeringens uppfattning att denna befogenhet bör omfatta samtliga ensamrättsyrken enligt 4 kap. 4 § PSL, men att det är Socialstyrelsen – på samma sätt som var avsikten med den nuvarande regleringen – som utifrån t.ex. de behov som finns av att förenkla anställningsförfarandet för ett yrke avgör i vilka fall regioner ska ha möjlighet att besluta om särskilda förordnanden. En ordning där Socialstyrelsen har huvudansvaret för särskilda förordnanden men där det finns möjlighet att förenkla förfarandet är till gagn för både bemanningen och kompetensförsörjningen inom hälso- och sjukvården. Bristen på personal är i dag stor i delar av vården och det är därför av stor vikt att vården har möjlighet att ta tillvara de resurser som finns på ett effektivt sätt. Det i sin tur leder till en ökad patientsäkerhet och nöjdhet bland patienterna.&lt;/P&gt;
+&lt;P class="p59 ft2"&gt;Västra Götalands läns landsting påtalar att det finns en otydlighet om vilka legitimationsyrken inom hälso- och sjukvården som förändringen avser. Den föreslagna bestämmelsen i PSL gäller, som beskrivits ovan, till sin utformning samtliga ensamrättsyrken.&lt;/P&gt;
+&lt;P class="p56 ft2"&gt;Kommuner som inte ingår i en region har själva det ansvar som regionen annars har att erbjuda hälso- och sjukvård (se 1 kap. 2 § och 8 kap. hälso- och sjukvårdslagen [2017:30]). En sådan kommun kan alltså ha samma behov som en region att besluta om särskilda förordnanden och bestämmelsen föreslås därför även omfatta dem. Med kommuner som inte ingår i en region avses för närvarande Gotlands kommun.&lt;/P&gt;
+&lt;P class="p60 ft2"&gt;Enligt Socialstyrelsen bör bestämmelsen återspegla hanteringen av särskilda förordnanden hos Socialstyrelsen respektive regionerna och kommuner som inte ingår i en region, dvs. att Socialstyrelsen prövar ansökningar om särskilda förordnanden medan regioner och kommuner förordnar icke legitimerad personal utan att behöva ansöka om detta hos&lt;/P&gt;
+&lt;P class="p61 ft2"&gt;8&lt;SPAN style="padding-left:106px;"&gt;Socialstyrelsen.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_9"&gt;
+&lt;DIV id="p9dimg1"&gt;
+&lt;INGENBILD zsrc="H703599x1.jpg/" id="p9img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p62 ft14"&gt;Regeringen delar Socialstyrelsens bedömning att den föreslagna lydel- Prop. 2019/20:59 sen i promemorian behöver ändras för att bättre återspegla hanteringen av&lt;/P&gt;
+&lt;P class="p63 ft2"&gt;särskilda förordnanden.&lt;/P&gt;
+&lt;P class="p64 ft2"&gt;I promemorian föreslogs att ett nytt bemyndigande i 4 kap. 10 § PSL skulle införas genom vilket regeringen eller den myndighet som regeringen bestämmer skulle få meddela föreskrifter om i vilka fall regioner och kommuner skulle få besluta om sådana förordnanden. I lagrådsremissen bedömdes det dock att det bemyndigande som redan finns i&lt;/P&gt;
+&lt;P class="p65 ft2"&gt;&lt;SPAN class="ft2"&gt;4&lt;/SPAN&gt;&lt;SPAN class="ft28"&gt;kap. 11 § PSL omfattar detta och att något nytt bemyndigande därför inte behövdes. &lt;/SPAN&gt;&lt;SPAN class="ft3"&gt;Lagrådet &lt;/SPAN&gt;har anfört att för att det klart ska framgå att regionens eller kommunens beslutanderätt alltid ska ha stöd i föreskrifter från regeringen eller Socialstyrelsen bör det av bestämmelsen framgå att regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om att även en region eller en kommun som inte ingår i en region får besluta om särskilt förordnande att utöva yrke. Regeringen delar Lagrådets uppfattning och föreslår att bestämmelsen utformas i enlighet med Lagrådets förslag.&lt;/P&gt;
+&lt;P class="p66 ft18"&gt;5.2 Ikraftträdande- och övergångsbestämmelser&lt;/P&gt;
+&lt;P class="p67 ft4"&gt;&lt;SPAN class="ft29"&gt;Regeringens förslag: &lt;/SPAN&gt;Lagändringen föreslås träda i kraft den 1 mars 2020.&lt;/P&gt;
+&lt;P class="p68 ft4"&gt;&lt;SPAN class="ft29"&gt;Regeringens bedömning: &lt;/SPAN&gt;Några särskilda övergångsbestämmelser är inte nödvändiga.&lt;/P&gt;
+&lt;P class="p69 ft27"&gt;Promemorians förslag och bedömning &lt;SPAN class="ft14"&gt;skiljer sig från regeringens när det gäller ikraftträdandet. I promemorian föreslås att lagändringarna ska träda i kraft den 1 januari 2020.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p70 ft14"&gt;&lt;SPAN class="ft27"&gt;Remissinstanserna: &lt;/SPAN&gt;Endast ett fåtal remissinstanser har lämnat synpunkter på promemorians förslag och bedömning i denna del. &lt;SPAN class="ft15"&gt;Socialstyrelsen &lt;/SPAN&gt;har framfört ett önskemål om att de föreslagna lagändringarna bör träda i kraft tidigare än det tilltänkta datumet, eftersom det redan är lång väntan på att få särskilt förordnande.&lt;/P&gt;
+&lt;P class="p71 ft12"&gt;Skälen för regeringens förslag och bedömning&lt;/P&gt;
+&lt;P class="p72 ft2"&gt;Kammarrättens dom innebär att Socialstyrelsen från och med den 7 maj 2019 har varit tvungen att fatta beslut om särskilda förordnanden på ansökan från regioner för ett stort antal läkare, vilket lett till en ökad arbetsbelastning för både Socialstyrelsen och regionerna. Regeringen har avsatt extra resurser till Socialstyrelsen under 2019 för att myndigheten ska kunna hantera det extra inflödet av ärenden och samtidigt bibehålla handläggningstiderna i övriga ärenden (S2019/02960/FS). Mot denna bakgrund bör lagändringarna genomföras så snart som möjligt. Regeringen bedömer dock att lagändringarna bör träda i kraft två månader senare än det datum som promemorian har föreslagit och föreslår därför ett ikraftträdande den 1 mars 2020. Det tilltänkta datumet är baserat utifrån den process som föregår nya lagändringar.&lt;/P&gt;
+&lt;P class="p73 ft2"&gt;9&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_10"&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;P class="p9 ft3"&gt;&lt;SPAN class="ft2"&gt;Prop. 2019/20:59 &lt;/SPAN&gt;Övergångsbestämmelser&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;DIV id="id_2_1"&gt;
+&lt;P class="p9 ft2"&gt;10&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2_2"&gt;
+&lt;P class="p74 ft2"&gt;Genom den föreslagna lagändringen ges regioner och kommuner som inte ingår i en region rätt att besluta om särskilda förordnanden enligt föreskrifter som meddelas av regeringen eller den myndighet som regeringen bestämmer. Under förutsättning att sådana föreskrifter meddelas kan de ärenden som uppfyller föreskrifterna och som inletts vid Socialstyrelsen innan ändringarna trädde i kraft lämnas över till regionen eller kommunen för fortsatt handläggning där.&lt;/P&gt;
+&lt;P class="p75 ft2"&gt;Några särskilda övergångsbestämmelser är därför inte nödvändiga.&lt;/P&gt;
+&lt;P class="p76 ft6"&gt;6 Konsekvenser av förslaget&lt;/P&gt;
+&lt;P class="p36 ft18"&gt;&lt;SPAN class="ft20"&gt;6.1&lt;/SPAN&gt;&lt;SPAN class="ft30"&gt;Konsekvenser för det kommunala självstyret&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p77 ft14"&gt;Regeringen anser att den ordning som har funnits under en längre tid och som har fungerat väl behöver återinrättas. För regionerna har den inneburit att de själva har kunnat utfärda ett särskilt förordnande och anställa en icke legitimerad läkare för t.ex. allmäntjänstgöring eller vikariat. Förslaget medför bl.a. minskad administration och kortare handläggningstider och innebär således inte någon inskränkning av den kommunala självstyrelsen utan förväntas snarare effektivisera verksamheten. Förslaget bedöms inte heller innebära några ytterligare kostnader för regionerna.&lt;/P&gt;
+&lt;P class="p78 ft18"&gt;&lt;SPAN class="ft20"&gt;6.2&lt;/SPAN&gt;&lt;SPAN class="ft30"&gt;Konsekvenser för Socialstyrelsen&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p79 ft2"&gt;Om den nuvarande situationen skulle kvarstå skulle det innebära negativa konsekvenser för Socialstyrelsen, bl.a. genom ökad arbetsbelastning och ökade kostnader. Myndigheten skulle behöva pröva sådana särskilda förordnanden som regionerna tidigare har beslutat om i ett stort antal fall (cirka 2 000 ärenden per år). Enligt Socialstyrelsen innebär det en risk för att handläggningstiderna även kan öka i andra ärendekategorier, vilket i sin tur innebär att myndigheten kan få svårigheter att leva upp till de tidsfrister som ställs i yrkeskvalifikationsdirektivet.&lt;/P&gt;
+&lt;P class="p80 ft4"&gt;Mot denna bakgrund bedöms förslaget att regionerna återigen får möjligheten att själva förordna icke legitimerade läkare medföra positiva effekter för Socialstyrelsen.&lt;/P&gt;
+&lt;P class="p81 ft32"&gt;&lt;SPAN class="ft20"&gt;6.3&lt;/SPAN&gt;&lt;SPAN class="ft31"&gt;Konsekvenser för bemanning och kompetensförsörjning&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p82 ft14"&gt;Förslaget bedöms enligt regeringen medföra positiva effekter för bemanningen och kompetensförsörjningen av hälso- och sjukvårdspersonal. Den bedömningen görs utifrån att förslaget skulle medföra en minskad arbetsbelastning för både regionerna och Socialstyrelsen. Det blir fallet i och med att regionerna inte längre behöver ansöka om särskilt för-&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_11"&gt;
+
+
+&lt;P class="p83 ft14"&gt;ordnande för alla icke legitimerade läkare som ska utöva yrket och för att Prop. 2019/20:59 Socialstyrelsen inte längre behöver pröva och meddela ett ökat antal&lt;/P&gt;
+&lt;P class="p63 ft2"&gt;särskilda förordnanden jämfört med nuvarande situation.&lt;/P&gt;
+&lt;P class="p84 ft14"&gt;Sammantaget innebär den gällande ordningen att det tar längre tid för icke legitimerade läkare att få ett särskilt förordnande att utöva yrket. Det kan i sin tur medföra negativa konsekvenser för övriga legitimationsyrken, både när det gäller att få legitimation och olika intyg som t.ex. specialistkompetensbevis med anledning av den ökade arbetsbelastningen hos Socialstyrelsen.&lt;/P&gt;
+&lt;P class="p85 ft6"&gt;7 Författningskommentar&lt;/P&gt;
+&lt;P class="p86 ft14"&gt;&lt;SPAN class="ft27"&gt;4 kap. 10 § &lt;/SPAN&gt;Socialstyrelsen prövar ansökningar om legitimation, särskilt förordnande att utöva yrke och bevis om specialistkompetens.&lt;/P&gt;
+&lt;P class="p70 ft15"&gt;Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om att även en region eller en kommun som inte ingår i en region får besluta om särskilt förordnande att utöva yrke.&lt;/P&gt;
+&lt;P class="p87 ft14"&gt;I paragrafen finns bestämmelser om prövningen av de behörighetsfrågor som regleras i kapitlet, dvs. legitimation, särskilt förordnande att utöva yrke och bevis om specialistkompetens.&lt;/P&gt;
+&lt;P class="p64 ft2"&gt;Av &lt;SPAN class="ft3"&gt;första stycket&lt;/SPAN&gt;, som inte ändras, framgår att Socialstyrelsen prövar ansökningar om bl.a. särskilda förordnanden att utöva yrke enligt 4 kap. 4 §.&lt;/P&gt;
+&lt;P class="p64 ft2"&gt;I ett nytt &lt;SPAN class="ft3"&gt;andra stycke &lt;/SPAN&gt;bemyndigas regeringen att meddela föreskrifter om att även regioner eller kommuner som inte ingår i en region får besluta om särskilt förordnande att utöva yrke. Regeringen ges även möjlighet att vidaredelegera uppgiften att meddela föreskrifter om detta till en myndighet. Ändringen innebär att paragrafen inte längre pekar ut Socialstyrelsen som den enda myndighet som får besluta om särskilda förordnanden att utöva yrke och att regionerna och kommunerna får befogenhet att besluta om särskilda förordnanden.&lt;/P&gt;
+&lt;P class="p69 ft4"&gt;Bestämmelsen, som har utformats i enlighet med &lt;SPAN class="ft5"&gt;Lagrådets &lt;/SPAN&gt;förslag, behandlas även i avsnitt 5.&lt;/P&gt;
+&lt;P class="p88 ft2"&gt;11&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_12"&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;DIV id="id_1_1"&gt;
+&lt;P class="p9 ft2"&gt;Prop. 2019/20:59&lt;/P&gt;
+&lt;P class="p89 ft2"&gt;Bilaga 1&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_1_2"&gt;
+&lt;P class="p9 ft1"&gt;Sammanfattning av promemorian Särskilt förordnande för läkare&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p90 ft2"&gt;I promemorian föreslås ändringar i patientsäkerhetslagen (2010:659) och patientsäkerhetsförordningen (2010:1369) som bemyndigar landsting och kommuner som inte ingår i ett landsting att i vissa fall förordna icke legitimerad personal att utöva yrke inom hälso- och sjukvården. Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om vilka fall som avses.&lt;/P&gt;
+&lt;P class="p91 ft14"&gt;Bakgrunden till förslaget är att det i rättstillämpningen har uppmärksammats att regeringens bemyndigande i patientsäkerhetsförordningen saknar stöd i lag.&lt;/P&gt;
+&lt;P class="p92 ft2"&gt;Ändringen föreslås träda i kraft den 1 januari 2020.&lt;/P&gt;
+&lt;P class="p93 ft2"&gt;12&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_13"&gt;
+&lt;DIV id="p13dimg1"&gt;
+&lt;INGENBILD zsrc="H7035913x1.jpg/" id="p13img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;DIV id="id_1_1"&gt;
+&lt;P class="p9 ft1"&gt;Författningsförslag i promemorian Särskilt förordnande för läkare&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_1_2"&gt;
+&lt;P class="p9 ft2"&gt;Prop. 2019/20:59&lt;/P&gt;
+&lt;P class="p94 ft2"&gt;Bilaga 2&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p95 ft32"&gt;Förslag till lag om ändring i patientsäkerhetslagen (2010:659)&lt;/P&gt;
+&lt;P class="p96 ft33"&gt;Härigenom föreskrivs att 4 kap. 10 § patientsäkerhetslagen (2010:659) ska ha följande lydelse.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t9"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td31"&gt;&lt;SPAN class="p13 ft3"&gt;Nuvarande lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td32"&gt;&lt;SPAN class="p13 ft34"&gt;Föreslagen lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p97 ft12"&gt;&lt;SPAN class="ft12"&gt;4&lt;/SPAN&gt;&lt;SPAN class="ft35"&gt;kap. &lt;/SPAN&gt;&lt;SPAN class="ft2"&gt;10§&lt;/SPAN&gt;&lt;A href="#page_13"&gt;&lt;SPAN class="ft13"&gt;2&lt;/SPAN&gt;&lt;/A&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_3"&gt;
+&lt;DIV id="id_3_1"&gt;
+&lt;P class="p49 ft14"&gt;Socialstyrelsen prövar ansökningar om legitimation, &lt;SPAN class="ft15"&gt;särskilt förordnande att utöva yrke &lt;/SPAN&gt;och bevis om specialistkompetens.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_3_2"&gt;
+&lt;P class="p49 ft2"&gt;Socialstyrelsen prövar ansökningar om legitimation och bevis om specialistkompetens.&lt;/P&gt;
+&lt;P class="p49 ft3"&gt;Särskilt förordnande att utöva yrke meddelas av Socialstyrelsen eller, i vissa fall, av landsting eller kommuner som inte ingår i ett landsting&lt;SPAN class="ft2"&gt;.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p50 ft15"&gt;Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om i vilka fall landsting och kommuner som inte ingår i ett landsting får meddela sådana förordnanden&lt;SPAN class="ft14"&gt;.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_4"&gt;
+&lt;P class="p98 ft2"&gt;Denna lag träder i kraft den 1 januari 2020.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t10"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td33"&gt;&lt;SPAN class="p13 ft37"&gt;&lt;SPAN class="ft36"&gt;2 &lt;/SPAN&gt;Senaste lydelse 2012:310.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td34"&gt;&lt;SPAN class="p11 ft2"&gt;13&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_14"&gt;
+&lt;DIV id="p14dimg1"&gt;
+&lt;INGENBILD zsrc="H7035914x1.jpg/" id="p14img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p99 ft2"&gt;Prop. 2019/20:59&lt;/P&gt;
+&lt;P class="p100 ft2"&gt;Bilaga 2&lt;/P&gt;
+&lt;P class="p101 ft2"&gt;14&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p102 ft32"&gt;Förslag till förordning om ändring i patientsäkerhetsförordningen (2010:1369)&lt;/P&gt;
+&lt;P class="p103 ft4"&gt;Härigenom föreskrivs att 3 kap. 12 § första stycket patientsäkerhetsförordningen (2010:1369) ska ha följande lydelse.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t11"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td19"&gt;&lt;SPAN class="p13 ft3"&gt;Nuvarande lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td32"&gt;&lt;SPAN class="p13 ft34"&gt;Föreslagen lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p104 ft27"&gt;&lt;SPAN class="ft38"&gt;3&lt;/SPAN&gt;&lt;SPAN class="ft39"&gt;kap. &lt;/SPAN&gt;&lt;SPAN class="ft14"&gt;12 §&lt;/SPAN&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t12"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td19"&gt;&lt;SPAN class="p105 ft2"&gt;Socialstyrelsen får meddela före-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td35"&gt;&lt;SPAN class="p11 ft2"&gt;Socialstyrelsen får meddela före-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td19"&gt;&lt;SPAN class="p105 ft2"&gt;skrifter om att landsting i vissa fall&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td35"&gt;&lt;SPAN class="p11 ft34"&gt;&lt;SPAN class="ft40"&gt;skrifter om &lt;/SPAN&gt;i vilka fall landsting och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td19"&gt;&lt;SPAN class="p105 ft2"&gt;får förordna icke legitimerad per-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p11 ft3"&gt;kommuner som inte ingår i ett&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td19"&gt;&lt;SPAN class="p105 ft2"&gt;sonal att utöva yrke inom hälso-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p11 ft2"&gt;&lt;SPAN class="ft3"&gt;landsting &lt;/SPAN&gt;får förordna icke legiti-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td19"&gt;&lt;SPAN class="p105 ft2"&gt;och sjukvården, dock inte i fall som&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td35"&gt;&lt;SPAN class="p11 ft2"&gt;merad personal att utöva yrke inom&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td19"&gt;&lt;SPAN class="p106 ft2"&gt;avses i 11 §.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p11 ft2"&gt;hälso- och sjukvården, dock inte i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td19"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td35"&gt;&lt;SPAN class="p107 ft2"&gt;fall som avses i 11 §.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p108 ft2"&gt;Denna förordning träder i kraft den 1 januari 2020.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_15"&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;DIV id="id_1_1"&gt;
+&lt;P class="p9 ft1"&gt;Remissinstanser avseende promemorian Särskilt förordnande för läkare&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_1_2"&gt;
+&lt;P class="p9 ft2"&gt;Prop. 2019/20:59&lt;/P&gt;
+&lt;P class="p94 ft2"&gt;Bilaga 3&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p109 ft2"&gt;Efter remiss har yttranden kommit in från Blekinge läns landsting, Dalarnas läns landsting, Förvaltningsrätten i Stockholm, Gotlands kommun, Göteborgs universitet, Hallands läns landsting, Hälso- och sjukvårdens ansvarsnämnd (HSAN), Inspektionen för vård och omsorg (IVO), Justitiekanslern, Jönköpings läns landsting, Kalmar läns landsting, Kammarrätten i Stockholm, Karolinska institutet, Kronobergs läns landsting, Linköpings universitet, Lunds universitet, Norrbottens läns landsting, Skåne läns landsting, Socialstyrelsen, Stockholms läns landsting, Svenska läkaresällskapet, Sveriges Kommuner och Landsting (SKL), Sveriges läkarförbund, Sveriges Yngre Läkares Förening, Södermanlands läns landsting, Umeå universitet, Universitets- och högskolerådet (UHR), Uppsala universitet, Värmlands läns landsting, Västerbottens läns landsting, Västernorrlands läns landsting, Västmanlands läns landsting, Västra Götalands läns landsting, Örebro läns landsting, Örebro universitet, Östergötlands läns landsting.&lt;/P&gt;
+&lt;P class="p110 ft14"&gt;Följande remissinstanser har inte svarat eller angett att de avstår från att lämna några synpunkter: Riksdagens ombudsmän (JO), Gävleborgs läns landsting, Jämtlands läns landsting, Ordförandekonventet för medicine studerande i Sverige, Saco Studentråd, Sveriges förenade studentkårer, Sveriges läkarförbund Student, Uppsala läns landsting.&lt;/P&gt;
+&lt;P class="p111 ft2"&gt;15&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_16"&gt;
+&lt;DIV id="p16dimg1"&gt;
+&lt;INGENBILD zsrc="H7035916x1.jpg/" id="p16img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t13"&gt;
+&lt;TR&gt;
+	&lt;TD rowspan=2 class="tr20 td36"&gt;&lt;SPAN class="p13 ft2"&gt;Prop. 2019/20:59&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr1 td37"&gt;&lt;SPAN class="p39 ft41"&gt;Lagrådsremissens lagförslag&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr19 td38"&gt;&lt;SPAN class="p13 ft26"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr19 td39"&gt;&lt;SPAN class="p13 ft26"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr19 td40"&gt;&lt;SPAN class="p13 ft26"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td36"&gt;&lt;SPAN class="p13 ft2"&gt;Bilaga 4&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td38"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td39"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td40"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr21 td36"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr21 td38"&gt;&lt;SPAN class="p39 ft6"&gt;1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr21 td41"&gt;&lt;SPAN class="p19 ft6"&gt;Förslag till lag om ändring i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td36"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td38"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr9 td41"&gt;&lt;SPAN class="p19 ft6"&gt;patientsäkerhetslagen (2010:659)&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td36"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr1 td37"&gt;&lt;SPAN class="p39 ft2"&gt;Härigenom föreskrivs att 4 kap. 10 § och rubriken närmast före 4 kap. 10 §&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td36"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr4 td37"&gt;&lt;SPAN class="p39 ft2"&gt;patientsäkerhetslagen (2010:659) ska ha följande lydelse.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr22 td36"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr22 td42"&gt;&lt;SPAN class="p39 ft3"&gt;Nuvarande lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr22 td40"&gt;&lt;SPAN class="p112 ft3"&gt;Föreslagen lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr23 td36"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr23 td42"&gt;&lt;SPAN class="p39 ft42"&gt;Behörig myndighet&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr23 td40"&gt;&lt;SPAN class="p13 ft42"&gt;Prövning av behörighetsfrågor&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p113 ft11"&gt;4 kap.&lt;/P&gt;
+&lt;P class="p114 ft12"&gt;10 §&lt;A href="#page_16"&gt;&lt;SPAN class="ft13"&gt;3&lt;/SPAN&gt;&lt;/A&gt;&lt;/P&gt;
+&lt;P class="p115 ft4"&gt;Socialstyrelsen prövar ansökningar om legitimation, särskilt förordnande att utöva yrke och bevis om specialistkompetens.&lt;/P&gt;
+&lt;P class="p116 ft3"&gt;Även en region eller en kommun som inte ingår i en region beslutar om särskilt förordnande att utöva yrke. I vilka fall en region eller en kommun som inte ingår i en region beslutar om ett sådant förordnande följer av föreskrifter som har meddelats med stöd av 11 §.&lt;/P&gt;
+&lt;P class="p117 ft2"&gt;Denna lag träder i kraft den 1 mars 2020.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t14"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td43"&gt;&lt;SPAN class="p30 ft2"&gt;16&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td21"&gt;&lt;SPAN class="p31 ft17"&gt;&lt;SPAN class="ft16"&gt;3 &lt;/SPAN&gt;Senaste lydelse 2012:310.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_17"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t15"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td44"&gt;&lt;SPAN class="p13 ft43"&gt;Lagrådets yttrande&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD rowspan=2 class="tr20 td15"&gt;&lt;SPAN class="p13 ft2"&gt;Prop. 2019/20:59&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr19 td44"&gt;&lt;SPAN class="p13 ft26"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td44"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td15"&gt;&lt;SPAN class="p13 ft2"&gt;Bilaga 5&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td44"&gt;&lt;SPAN class="p13 ft2"&gt;Utdrag ur protokoll vid sammanträde &lt;NOBR&gt;2019-11-25&lt;/NOBR&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr22 td44"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;SPAN class="ft12"&gt;Närvarande: &lt;/SPAN&gt;F.d. justitierådet Eskil Nord samt justitieråden&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr22 td15"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td44"&gt;&lt;SPAN class="p13 ft2"&gt;Kerstin Calissendorff och &lt;NOBR&gt;Inga-Lill&lt;/NOBR&gt; Askersjö&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr24 td44"&gt;&lt;SPAN class="p13 ft11"&gt;Särskilt förordnande inom hälso- och sjukvården&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr24 td15"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td44"&gt;&lt;SPAN class="p13 ft2"&gt;Enligt en lagrådsremiss den 14 november 2019 har regeringen (Social-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td15"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td44"&gt;&lt;SPAN class="p13 ft2"&gt;departementet) beslutat inhämta Lagrådets yttrande över förslag till lag om&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td44"&gt;&lt;SPAN class="p13 ft2"&gt;ändring i patientsäkerhetslagen (2010:659).&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr25 td44"&gt;&lt;SPAN class="p13 ft2"&gt;Förslaget har inför Lagrådet föredragits av rättssakkunniga Annika Pallvik&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr25 td15"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td44"&gt;&lt;SPAN class="p13 ft2"&gt;Fransson, biträdd av departementssekreteraren Nela Söder.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr26 td44"&gt;&lt;SPAN class="p13 ft2"&gt;Förslaget föranleder följande yttrande.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr26 td15"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr26 td44"&gt;&lt;SPAN class="p13 ft2"&gt;4 kap. 10 § andra stycket&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr26 td15"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr26 td44"&gt;&lt;SPAN class="p13 ft2"&gt;I den första meningen ges en region eller en kommun som inte ingår i en&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr26 td15"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td44"&gt;&lt;SPAN class="p13 ft2"&gt;region rätt att besluta om särskilt förordnande att utöva yrke. Den andra&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td44"&gt;&lt;SPAN class="p13 ft2"&gt;meningen är enligt sin utformning närmast en upplysning om att rege-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td44"&gt;&lt;SPAN class="p13 ft2"&gt;ringen eller den myndighet som regeringen bestämmer (Socialstyrelsen)&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td15"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td44"&gt;&lt;SPAN class="p13 ft2"&gt;enligt en annan bestämmelse i lagen har rätt att meddela föreskrifter om&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td44"&gt;&lt;SPAN class="p13 ft2"&gt;legitimation och annan behörighet för hälso- och sjukvårdspersonal.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr25 td44"&gt;&lt;SPAN class="p13 ft2"&gt;Vid föredragningen har upplysts om att syftet med regleringen inte är att&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr25 td15"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td44"&gt;&lt;SPAN class="p13 ft2"&gt;regionen eller kommunen ska ges rätt att besluta direkt med stöd av lagen,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td44"&gt;&lt;SPAN class="p13 ft2"&gt;utan beslutanderätten ska dessutom alltid ha stöd i föreskrifter från rege-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td15"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td44"&gt;&lt;SPAN class="p13 ft2"&gt;ringen eller Socialstyrelsen. För att det klart ska framgå bör bestäm-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td44"&gt;&lt;SPAN class="p13 ft2"&gt;melserna i andra stycket sammanföras och ges följande lydelse.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p13 ft10"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p118 ft40"&gt;Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om att även en region eller en kommun som inte ingår i en region får besluta om särskilt förordnande att utöva yrke.&lt;/P&gt;
+&lt;P class="p119 ft2"&gt;17&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_18"&gt;
+&lt;DIV id="p18dimg1"&gt;
+&lt;INGENBILD zsrc="H7035918x1.jpg/" id="p18img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV class="dclr"&gt;&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p99 ft2"&gt;Prop. 2019/20:59&lt;/P&gt;
+&lt;P class="p10 ft2"&gt;18&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p9 ft6"&gt;Socialdepartementet&lt;/P&gt;
+&lt;P class="p120 ft2"&gt;Utdrag ur protokoll vid regeringssammanträde den 17 december 2019&lt;/P&gt;
+&lt;P class="p121 ft14"&gt;Närvarande: statsminister Löfven, ordförande, och statsråden Lövin, Johansson, Baylan, Hallengren, Andersson, Bolund, Damberg, Shekarabi, Ygeman, Eriksson, Ekström, Eneroth, Nilsson, Ernkrans, Lindhagen, Lind, Nordmark (sr Nordmark ej närvarande vid föredragningen av SB:s och Ju:s ärenden), Micko&lt;/P&gt;
+&lt;P class="p122 ft2"&gt;Föredragande: statsrådet Hallengren&lt;/P&gt;
+&lt;P class="p123 ft33"&gt;Regeringen beslutar proposition 2019/20:59 Särskilt förordnande inom hälso- och sjukvården&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+
+&lt;/div&gt;&lt;style&gt;
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+&lt;/style&gt;
+</html>
+  </dokument>
+<dokforslag>
+<forslag>
+<nummer datatype="int32">1</nummer>
+<beteckning datatype="string">1</beteckning>
+<lydelse datatype="string">Riksdagen antar regeringens förslag till lag om ändring i patientsäkerhetslagen (2010:659).</lydelse>
+<lydelse2 datatype="string" />
+<utskottet datatype="string">Bifall</utskottet>
+<kammaren datatype="string">Bifall</kammaren>
+<behandlas_i datatype="string">2019/20:SoU13</behandlas_i>
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string">SoU</intressent>
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+</dokforslag>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">INL</kod>
+<namn datatype="string">Inlämnad</namn>
+<datum datatype="datetime">2019-12-18 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">B</kod>
+<namn datatype="string">Bordlagd</namn>
+<datum datatype="datetime">2019-12-19 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">HÄN</kod>
+<namn datatype="string">Hänvisad</namn>
+<datum datatype="datetime">2019-12-20 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">MOT</kod>
+<namn datatype="string">Motionstid slutar</namn>
+<datum datatype="datetime">2020-01-17 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+</dokaktivitet>
+<dokintressent>
+<intressent>
+<intressent_id datatype="string">0218878014918</intressent_id>
+<namn datatype="string">Stefan Löfven</namn>
+<partibet datatype="string">S</partibet>
+<ordning datatype="int16">1</ordning>
+<roll datatype="string">Statsråd1</roll>
+</intressent>
+<intressent>
+<intressent_id datatype="string">0853395328224</intressent_id>
+<namn datatype="string">Lena Hallengren</namn>
+<partibet datatype="string">S</partibet>
+<ordning datatype="int16">2</ordning>
+<roll datatype="string">Statsråd2</roll>
+</intressent>
+</dokintressent>
+<dokuppgift>
+<uppgift>
+<kod datatype="string">inlamnatav</kod>
+<namn datatype="string">Inlämnat av</namn>
+<text datatype="string">Socialdepartementet</text>
+<dok_id datatype="string">H70359</dok_id>
+<systemdatum datatype="datetime">2020-02-05 16:17:56</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">tilldelat</kod>
+<namn datatype="string">Tilldelat</namn>
+<text datatype="string">Socialutskottet</text>
+<dok_id datatype="string">H70359</dok_id>
+<systemdatum datatype="datetime">2020-02-05 16:17:56</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">statustext</kod>
+<namn datatype="string">statustext</namn>
+<text datatype="string">Propositionen bereds i utskott</text>
+<dok_id datatype="string">H70359</dok_id>
+<systemdatum datatype="datetime">2019-12-20 10:14:01</systemdatum>
+</uppgift>
+</dokuppgift>
+<dokbilaga>
+<bilaga>
+<dok_id datatype="string">H70359</dok_id>
+<titel datatype="string">Särskilt förordnande inom hälso- och sjukvården</titel>
+<subtitel datatype="string" />
+<filnamn datatype="string">prop_201920__59.pdf</filnamn>
+<filstorlek datatype="int32">312005</filstorlek>
+<filtyp datatype="string">pdf</filtyp>
+<fil_url datatype="string">http://data.riksdagen.se/fil/AD295D64-FC9C-4B80-A630-54CB0902D357</fil_url>
+</bilaga>
+</dokbilaga>
+<dokreferens>
+<referens>
+<referenstyp datatype="string">behandlas_i</referenstyp>
+<uppgift datatype="string">2019/20:SoU13</uppgift>
+<ref_dok_id datatype="string">H701SoU13</ref_dok_id>
+<ref_dok_typ datatype="string">bet</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">SoU13</ref_dok_bet>
+<ref_dok_titel datatype="string">Särskilt förordnande inom hälso- och sjukvården</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">bet</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Betänkande</ref_dok_dokumentnamn>
+</referens>
+</dokreferens>
+<debatt /></dokumentstatus>

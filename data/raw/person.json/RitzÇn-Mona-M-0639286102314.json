@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "5645bc54-9476-4a3f-be34-3f7acd834afb",
+    "sourceid": "9905533f-8bab-4bfb-a119-bf34eb0d37b7",
+    "intressent_id": "0639286102314",
+    "hangar_id": "2342689",
+    "fodd_ar": "1951",
+    "kon": "kvinna",
+    "efternamn": "Ritzén",
+    "tilltalsnamn": "Mona",
+    "sorteringsnamn": "Ritzén,Mona",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/9905533f-8bab-4bfb-a119-bf34eb0d37b7",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9905533f-8bab-4bfb-a119-bf34eb0d37b7_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9905533f-8bab-4bfb-a119-bf34eb0d37b7_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9905533f-8bab-4bfb-a119-bf34eb0d37b7_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Riksdagsledamot",
+        "ordningsnummer": "0",
+        "status": "Tjänstgörande",
+        "typ": "kammaruppdrag",
+        "from": "1995-12-18",
+        "tom": "1995-12-19",
+        "uppgift": "",
+        "intressent_id": "0639286102314",
+        "hangar_id": "2342689",
+        "sortering": "10",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "10"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "ombudsman",
+          "typ": "titlar",
+          "intressent_id": "0639286102314",
+          "hangar_id": "2342689"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0639286102314",
+          "hangar_id": "2342689"
+        }
+      ]
+    }
+  }
+}

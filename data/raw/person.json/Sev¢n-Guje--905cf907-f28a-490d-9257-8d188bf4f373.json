@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "4f35005f-b6e7-4f61-8529-3cab07c713fe",
+    "sourceid": "905cf907-f28a-490d-9257-8d188bf4f373",
+    "intressent_id": "",
+    "hangar_id": "4788824",
+    "fodd_ar": "0",
+    "kon": "okänt",
+    "efternamn": "Sevón",
+    "tilltalsnamn": "Guje",
+    "sorteringsnamn": "Sevón,Guje",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare personlig suppleant i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/905cf907-f28a-490d-9257-8d188bf4f373",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/905cf907-f28a-490d-9257-8d188bf4f373_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/905cf907-f28a-490d-9257-8d188bf4f373_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/905cf907-f28a-490d-9257-8d188bf4f373_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RJ",
+        "roll_kod": "Personlig suppleant",
+        "ordningsnummer": "9",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2010-11-01",
+        "tom": "2012-10-31",
+        "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+        "intressent_id": "",
+        "hangar_id": "4788824",
+        "sortering": "48",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

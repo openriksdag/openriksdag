@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "645a70de-0c4e-4225-be73-437a9885b770",
+    "sourceid": "f351343b-3b69-4409-822b-dddbdb0c97ea",
+    "intressent_id": "0685529743005",
+    "hangar_id": "2341868",
+    "fodd_ar": "1934",
+    "kon": "kvinna",
+    "efternamn": "Wallin",
+    "tilltalsnamn": "Mariana",
+    "sorteringsnamn": "Wallin,Mariana",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/f351343b-3b69-4409-822b-dddbdb0c97ea",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f351343b-3b69-4409-822b-dddbdb0c97ea_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f351343b-3b69-4409-822b-dddbdb0c97ea_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f351343b-3b69-4409-822b-dddbdb0c97ea_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "282",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1990-11-06",
+          "tom": "1990-12-31",
+          "uppgift": "Hugo Bergdahl",
+          "intressent_id": "0685529743005",
+          "hangar_id": "2341868",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-11-08",
+          "tom": "1990-12-31",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0685529743005",
+          "hangar_id": "2341868",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "företagare",
+          "typ": "titlar",
+          "intressent_id": "0685529743005",
+          "hangar_id": "2341868"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0685529743005",
+          "hangar_id": "2341868"
+        }
+      ]
+    }
+  }
+}

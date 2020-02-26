@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "9b385545-d8f2-4d9b-a4e5-a2aaadbc0276",
+    "sourceid": "4c719fdc-faf0-4545-817d-6312bd87b147",
+    "intressent_id": "0676588149317",
+    "hangar_id": "2342982",
+    "fodd_ar": "1957",
+    "kon": "kvinna",
+    "efternamn": "Knöös-Franzén",
+    "tilltalsnamn": "Kristina",
+    "sorteringsnamn": "Knöös-Franzén,Kristina",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/4c719fdc-faf0-4545-817d-6312bd87b147",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4c719fdc-faf0-4545-817d-6312bd87b147_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4c719fdc-faf0-4545-817d-6312bd87b147_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4c719fdc-faf0-4545-817d-6312bd87b147_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Riksdagsledamot",
+        "ordningsnummer": "0",
+        "status": "Tjänstgörande",
+        "typ": "kammaruppdrag",
+        "from": "1992-01-01",
+        "tom": "1992-01-09",
+        "uppgift": "",
+        "intressent_id": "0676588149317",
+        "hangar_id": "2342982",
+        "sortering": "10",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "10"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "förskollärare",
+          "typ": "titlar",
+          "intressent_id": "0676588149317",
+          "hangar_id": "2342982"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0676588149317",
+          "hangar_id": "2342982"
+        }
+      ]
+    }
+  }
+}

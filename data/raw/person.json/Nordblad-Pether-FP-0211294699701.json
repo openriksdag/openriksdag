@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "4a38d50b-1d41-4e97-b261-3a8d76414340",
+    "sourceid": "04e13e71-85f3-4d55-82c2-db9f8c9bdc48",
+    "intressent_id": "0211294699701",
+    "hangar_id": "2342516",
+    "fodd_ar": "1948",
+    "kon": "man",
+    "efternamn": "Nordblad",
+    "tilltalsnamn": "Pether",
+    "sorteringsnamn": "Nordblad,Pether",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/04e13e71-85f3-4d55-82c2-db9f8c9bdc48",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/04e13e71-85f3-4d55-82c2-db9f8c9bdc48_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/04e13e71-85f3-4d55-82c2-db9f8c9bdc48_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/04e13e71-85f3-4d55-82c2-db9f8c9bdc48_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Riksdagsledamot",
+        "ordningsnummer": "0",
+        "status": "Tjänstgörande",
+        "typ": "kammaruppdrag",
+        "from": "1994-07-01",
+        "tom": "1994-10-03",
+        "uppgift": "",
+        "intressent_id": "0211294699701",
+        "hangar_id": "2342516",
+        "sortering": "10",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "10"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "företagare",
+          "typ": "titlar",
+          "intressent_id": "0211294699701",
+          "hangar_id": "2342516"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0211294699701",
+          "hangar_id": "2342516"
+        }
+      ]
+    }
+  }
+}

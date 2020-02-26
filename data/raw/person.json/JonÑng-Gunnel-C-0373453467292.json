@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "9c68d929-5fc8-4c24-83d3-a2ec0680bcd3",
+    "sourceid": "020002b4-615b-462a-b76e-c03008f64bcf",
+    "intressent_id": "0373453467292",
+    "hangar_id": "2341645",
+    "fodd_ar": "1921",
+    "kon": "kvinna",
+    "efternamn": "Jonäng",
+    "tilltalsnamn": "Gunnel",
+    "sorteringsnamn": "Jonäng,Gunnel",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/020002b4-615b-462a-b76e-c03008f64bcf",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/020002b4-615b-462a-b76e-c03008f64bcf_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/020002b4-615b-462a-b76e-c03008f64bcf_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/020002b4-615b-462a-b76e-c03008f64bcf_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0373453467292",
+          "hangar_id": "2341645",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0373453467292",
+          "hangar_id": "2341645",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0373453467292",
+          "hangar_id": "2341645",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1976-10-04",
+          "tom": "1979-10-01",
+          "uppgift": "",
+          "intressent_id": "0373453467292",
+          "hangar_id": "2341645",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "studieinstruktör",
+          "typ": "titlar",
+          "intressent_id": "0373453467292",
+          "hangar_id": "2341645"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0373453467292",
+          "hangar_id": "2341645"
+        }
+      ]
+    }
+  }
+}

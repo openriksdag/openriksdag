@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "d68f6ebd-dd8a-47e1-8e71-e529a3a7275b",
+    "sourceid": "fa3557f0-16de-4f4c-bc56-c5a4a2aa8898",
+    "intressent_id": "0263862488414",
+    "hangar_id": "2343342",
+    "fodd_ar": "1966",
+    "kon": "man",
+    "efternamn": "Littorin",
+    "tilltalsnamn": "Sven Otto",
+    "sorteringsnamn": "Littorin,Sven Otto",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare arbetsmarknadsminister",
+    "person_url_xml": "http://data.riksdagen.se/person/fa3557f0-16de-4f4c-bc56-c5a4a2aa8898",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fa3557f0-16de-4f4c-bc56-c5a4a2aa8898_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fa3557f0-16de-4f4c-bc56-c5a4a2aa8898_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fa3557f0-16de-4f4c-bc56-c5a4a2aa8898_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "A",
+          "roll_kod": "Arbetsmarknadsminister",
+          "ordningsnummer": "14",
+          "status": "",
+          "typ": "Departement",
+          "from": "2007-01-01",
+          "tom": "2010-07-06",
+          "uppgift": "Arbetsmarknadsdepartementet",
+          "intressent_id": "0263862488414",
+          "hangar_id": "2343342",
+          "sortering": "",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "N",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Departement",
+          "from": "2006-10-06",
+          "tom": "2006-12-31",
+          "uppgift": "Näringsdepartementet",
+          "intressent_id": "0263862488414",
+          "hangar_id": "2343342",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

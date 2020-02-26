@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "9e7ee7c4-c3dc-4e66-bc69-0524c426c3a7",
+    "sourceid": "366b4b5f-73ae-40ca-b2f8-623b79be3a6c",
+    "intressent_id": "019625586527",
+    "hangar_id": "2369452",
+    "fodd_ar": "1974",
+    "kon": "man",
+    "efternamn": "Munkhammar",
+    "tilltalsnamn": "Johnny",
+    "sorteringsnamn": "Munkhammar,Johnny",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms län",
+    "status": "Avliden  2012-08-13",
+    "person_url_xml": "http://data.riksdagen.se/person/366b4b5f-73ae-40ca-b2f8-623b79be3a6c",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/366b4b5f-73ae-40ca-b2f8-623b79be3a6c_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/366b4b5f-73ae-40ca-b2f8-623b79be3a6c_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/366b4b5f-73ae-40ca-b2f8-623b79be3a6c_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "84",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2012-03-19",
+          "tom": "2012-08-13",
+          "uppgift": "Ewa Björling",
+          "intressent_id": "019625586527",
+          "hangar_id": "2369452",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "112",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-06",
+          "tom": "2012-03-18",
+          "uppgift": "Hillevi Engström",
+          "intressent_id": "019625586527",
+          "hangar_id": "2369452",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "248",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-05",
+          "tom": "2010-10-05",
+          "uppgift": "Mikael Sandström",
+          "intressent_id": "019625586527",
+          "hangar_id": "2369452",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2012-08-13",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "019625586527",
+          "hangar_id": "2369452",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2012-08-13",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "019625586527",
+          "hangar_id": "2369452",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "johnny.munkhammar[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "019625586527",
+          "hangar_id": "2369452"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "66399",
+          "typ": "telefonnummer",
+          "intressent_id": "019625586527",
+          "hangar_id": "2369452"
+        }
+      ]
+    }
+  }
+}

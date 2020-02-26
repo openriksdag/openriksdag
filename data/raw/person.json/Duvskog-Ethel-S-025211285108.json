@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "9711ee66-c9d2-4d55-b27c-3f3f5052e281",
+    "sourceid": "d1a413e9-aa6b-4b2f-96b3-8f891155924f",
+    "intressent_id": "025211285108",
+    "hangar_id": "2342084",
+    "fodd_ar": "1940",
+    "kon": "kvinna",
+    "efternamn": "Duvskog",
+    "tilltalsnamn": "Ethel",
+    "sorteringsnamn": "Duvskog,Ethel",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/d1a413e9-aa6b-4b2f-96b3-8f891155924f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d1a413e9-aa6b-4b2f-96b3-8f891155924f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d1a413e9-aa6b-4b2f-96b3-8f891155924f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d1a413e9-aa6b-4b2f-96b3-8f891155924f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Ersättare",
+        "ordningsnummer": "135",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "1988-10-03",
+        "tom": "1988-10-04",
+        "uppgift": "Hans Gustafsson",
+        "intressent_id": "025211285108",
+        "hangar_id": "2342084",
+        "sortering": "45",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": ""
+  }
+}

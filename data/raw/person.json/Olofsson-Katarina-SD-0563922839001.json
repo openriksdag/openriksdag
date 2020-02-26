@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "ea9567ca-e695-46a9-84a2-4774710ce5eb",
+    "sourceid": "df9d157c-fdf1-4c0d-b090-9af53a2edd52",
+    "intressent_id": "0563922839001",
+    "hangar_id": "5003711",
+    "fodd_ar": "1943",
+    "kon": "kvinna",
+    "efternamn": "Olofsson",
+    "tilltalsnamn": "Katarina",
+    "sorteringsnamn": "Olofsson,Katarina",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Stockholms län",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/df9d157c-fdf1-4c0d-b090-9af53a2edd52",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/df9d157c-fdf1-4c0d-b090-9af53a2edd52_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/df9d157c-fdf1-4c0d-b090-9af53a2edd52_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/df9d157c-fdf1-4c0d-b090-9af53a2edd52_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "319",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2019-05-28",
+          "tom": "2019-06-27",
+          "uppgift": "Ludvig Aspling",
+          "intressent_id": "0563922839001",
+          "hangar_id": "5003711",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-06-03",
+          "tom": "2019-06-27",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0563922839001",
+          "hangar_id": "5003711",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-06-03",
+          "tom": "2019-06-27",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0563922839001",
+          "hangar_id": "5003711",
+          "sortering": "55",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

@@ -1,0 +1,1711 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5027620</hangar_id>
+    <dok_id datatype="string">H60367</dok_id>
+    <rm datatype="string">2018/19</rm>
+    <beteckning datatype="string">67</beteckning>
+    <typ datatype="string">prop</typ>
+    <subtyp datatype="string">prop</subtyp>
+    <doktyp datatype="string">prop</doktyp>
+    <typrubrik datatype="string">Proposition 2018/19:67</typrubrik>
+    <dokumentnamn datatype="string">Proposition</dokumentnamn>
+    <debattnamn datatype="string">Proposition</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">Finansdepartementet</organ>
+    <mottagare datatype="string">FiU</mottagare>
+    <nummer datatype="int32">67</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2019-03-26 00:00:00</datum>
+    <systemdatum datatype="datetime">2019-05-16 16:21:10</systemdatum>
+    <publicerad datatype="datetime">2019-03-26 00:00:00</publicerad>
+    <titel datatype="string">Ytterligare förlängd övergångsperiod för understödsföreningar</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">Klar</status>
+    <htmlformat datatype="string">html-ec</htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">prop-RIM</source>
+    <sourceid datatype="string">ed20f28f-9181-4592-a14f-a86df085af69</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H60367/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H60367</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H60367</dokumentstatus_url_xml>
+    <html datatype="text">&lt;div style="margin:3px;"&gt;
+&lt;STYLE type="text/css"&gt;
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:10px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_1 #p1dimg1 {position:absolute;top:0px;left:651px;z-index:-1;width:55px;height:98px;}
+#page_1 #p1dimg1 #p1img1 {width:55px;height:98px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:14px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:14px 0px 51px 10px ;padding: 0px;border: none;width: 586px;}
+
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 766px;}
+#page_5 #id_1 {float:left;border:none;z:b;margin:8px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_5 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+
+#page_5 #p5dimg1 {position:absolute;top:15px;left:0px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_5 #p5dimg1 #p5img1 {width:123px;height:1px;}
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:14px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 766px;}
+#page_7 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_7 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:14px 0px 52px 10px ;padding: 0px;border: none;width: 586px;}
+
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_9 #p9dimg1 {position:absolute;top:489px;left:0px;z-index:-1;width:393px;height:39px;}
+#page_9 #p9dimg1 #p9img1 {width:393px;height:39px;}
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+
+#page_10 #p10dimg1 {position:absolute;top:490px;left:105px;z-index:-1;width:394px;height:23px;}
+#page_10 #p10dimg1 #p10img1 {width:394px;height:23px;}
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 586px;}
+#page_13 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_13 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:14px 0px 51px 10px ;padding: 0px;border: none;width: 631px;}
+
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 586px;}
+#page_15 #id_1 {float:left;border:none;z:b;margin:8px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_15 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+
+#page_15 #p15dimg1 {position:absolute;top:16px;left:0px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_15 #p15dimg1 #p15img1 {width:123px;height:1px;}
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+#page_16 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_16 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 766px;}
+#page_17 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_17 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+
+#page_17 #p17dimg1 {position:absolute;top:190px;left:0px;z-index:-1;width:112px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_17 #p17dimg1 #p17img1 {width:112px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  18px 'Verdana' !important;l-h: 32px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft2{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft3{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft4{font:  12px 'Verdana' !important;l-h: 17px;}
+.ft5{font: italic  12px 'Verdana' !important;l-h: 17px;}
+.ft6{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft7{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft8{font:  12px 'Verdana' !important;l-h: 15px;position: relative; bottom: 7px;}
+.ft9{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft10{font:  12px 'Verdana' !important;margin-left: 20px;l-h: 15px;}
+.ft11{font:  14px 'Verdana' !important;l-h: 22px;position: relative; bottom: -6px;}
+.ft12{font:  10px 'Verdana' !important;l-h: 12px;position: relative; bottom: 5px;}
+.ft13{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft14{font:  10px 'Verdana' !important;l-h: 14px;}
+.ft15{font: italic  12px 'Verdana' !important;l-h: 14px;}
+.ft16{font:  10px 'Verdana' !important;l-h: 6px;position: relative; bottom: 4px;}
+.ft17{font:  10px 'Verdana' !important;l-h: 12px;}
+.ft18{font: italic  12px 'Verdana' !important;l-h: 16px;}
+.ft19{font:  14px 'Verdana' !important;margin-left: 51px;l-h: 22px;}
+.ft20{font:  12px 'Verdana' !important;l-h: 18px;}
+.ft21{font:  14px 'Verdana' !important;l-h: 21px;}
+.ft22{font:  10px 'Verdana' !important;l-h: 13px;}
+.ft23{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft24{font:  10px 'Verdana' !important;l-h: 4px;}
+.ft25{font:  14px 'Verdana' !important;margin-left: 50px;l-h: 25px;}
+.ft26{font:  14px 'Verdana' !important;l-h: 25px;}
+.ft27{font: bold  12px 'Verdana' !important;l-h: 17px;}
+.ft28{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft29{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 15px;}
+.ft30{font:  10px 'Verdana' !important;l-h: 6px;}
+.ft31{font: bold  12px 'Verdana' !important;l-h: 16px;}
+.ft32{font:  14px 'Verdana' !important;margin-left: 50px;l-h: 22px;}
+.ft33{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft34{font: bold  12px 'Verdana' !important;l-h: 14px;}
+.ft35{font: italic  12px 'Verdana' !important;l-h: 14px;}
+.ft36{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft37{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft38{font:  10px 'Verdana' !important;l-h: 8px;position: relative; bottom: 4px;}
+.ft39{font:  12px 'Verdana' !important;l-h: 14px;}
+
+.p0{text-align: left;padding-left: 120px;padding-right: 525px;margin-top: 22px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;padding-left: 120px;margin-top: 17px;margin-bottom: 0px !important;}
+.p4{text-align: left;padding-left: 120px;margin-top: 16px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 120px;margin-top: 32px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 260px;padding-right: 504px;margin-top: 19px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 120px;margin-top: 47px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 24px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p10{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p11{text-align: left;padding-left: 120px;padding-right: 315px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p12{text-align: left;padding-left: 140px;margin-top: 1px;margin-bottom: 0px !important;}
+.p13{text-align: right;padding-right: 126px;margin-top: 155px;margin-bottom: 0px !important;}
+.p14{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p15{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p17{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p18{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p19{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p20{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p21{text-align: left;margin-top: 382px;margin-bottom: 0px !important;}
+.p22{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p23{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p24{text-align: left;padding-left: 120px;margin-top: 10px;margin-bottom: 0px !important;}
+.p25{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p26{text-align: right;padding-right: 126px;margin-top: 679px;margin-bottom: 0px !important;}
+.p27{text-align: left;padding-left: 0px;margin-top: 11px;margin-bottom: 0px !important;}
+.p28{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p29{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p30{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p31{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p32{text-align: right;padding-right: 7px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p33{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p34{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p35{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p36{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p37{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p38{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p39{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p40{text-align: right;padding-right: 126px;margin-top: 752px;margin-bottom: 0px !important;}
+.p41{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p42{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p43{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p44{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p45{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p46{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 5px;margin-bottom: 0px !important;}
+.p47{text-align: left;padding-left: 0px;margin-top: 43px;margin-bottom: 0px !important;}
+.p48{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 17px;margin-bottom: 0px !important;}
+.p49{text-align: left;margin-top: 3px;margin-bottom: 0px !important;}
+.p50{text-align: left;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;}
+.p51{text-align: left;padding-right: 1px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p52{text-align: left;padding-right: 1px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p53{text-align: left;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p54{text-align: left;padding-right: 1px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 11px;}
+.p55{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p56{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p57{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p58{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p59{text-align: left;padding-right: 336px;margin-top: 0px;margin-bottom: 0px !important;}
+.p60{text-align: left;padding-right: 315px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p61{text-align: left;padding-left: 0px;padding-right: 420px;margin-top: 53px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p62{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 14px;margin-bottom: 0px !important;}
+.p63{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 4px;margin-bottom: 0px !important;}
+.p64{text-align: left;padding-right: 315px;margin-top: 0px;margin-bottom: 0px !important;}
+.p65{text-align: left;margin-top: 1px;margin-bottom: 0px !important;}
+.p66{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p67{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p68{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p69{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p70{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p71{text-align: left;padding-left: 0px;margin-top: 51px;margin-bottom: 0px !important;}
+.p72{text-align: left;padding-left: 0px;margin-top: 21px;margin-bottom: 0px !important;}
+.p73{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 9px;margin-bottom: 0px !important;}
+.p74{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p75{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p76{text-align: left;margin-top: 94px;margin-bottom: 0px !important;}
+.p77{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 10px;margin-bottom: 0px !important;}
+.p78{text-align: left;padding-left: 120px;padding-right: 315px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p79{text-align: left;padding-left: 120px;padding-right: 315px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p80{text-align: left;padding-left: 120px;margin-top: 42px;margin-bottom: 0px !important;}
+.p81{text-align: left;padding-left: 120px;padding-right: 357px;margin-top: 18px;margin-bottom: 0px !important;}
+.p82{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 1px;margin-bottom: 0px !important;}
+.p83{text-align: right;padding-right: 126px;margin-top: 3px;margin-bottom: 0px !important;}
+.p84{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p85{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 12px;margin-bottom: 0px !important;}
+.p86{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p87{text-align: left;margin-top: 308px;margin-bottom: 0px !important;}
+.p88{text-align: left;padding-right: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p89{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p90{text-align: left;padding-right: 0px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p91{text-align: left;padding-left: 0px;margin-top: 4px;margin-bottom: 0px !important;}
+.p92{text-align: left;padding-right: 6px;margin-top: 0px;margin-bottom: 0px !important;}
+.p93{text-align: right;margin-top: 734px;margin-bottom: 0px !important;}
+.p94{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p95{text-align: right;padding-right: 6px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p96{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p97{text-align: right;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p98{text-align: right;padding-right: 9px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p99{text-align: center;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p100{text-align: center;padding-right: 5px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p101{text-align: right;padding-right: 4px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p102{text-align: right;padding-right: 2px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p103{text-align: center;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p104{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p105{text-align: center;padding-right: 7px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p106{text-align: right;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p107{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;}
+.p108{text-align: left;margin-top: 734px;margin-bottom: 0px !important;}
+.p109{text-align: left;padding-right: 147px;margin-top: 16px;margin-bottom: 0px !important;}
+.p110{text-align: left;padding-right: 147px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p111{text-align: left;padding-right: 147px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p112{text-align: left;margin-top: 14px;margin-bottom: 0px !important;}
+.p113{text-align: left;padding-right: 21px;margin-top: 16px;margin-bottom: 0px !important;}
+.p114{text-align: left;margin-top: 13px;margin-bottom: 0px !important;}
+.p115{text-align: left;padding-right: 0px;margin-top: 76px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 380px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 147px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 380px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 147px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 523px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 6px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 17px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 387px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 14px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 61px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 318px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 79px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 397px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 36px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 389px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 96px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 182px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 306px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 116px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 16px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 66px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 148px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 47px;vertical-align: bottom;}
+.td23{padding: 0px;margin: 0px;width: 18px;vertical-align: bottom;}
+.td24{padding: 0px;margin: 0px;width: 64px;vertical-align: bottom;}
+.td25{padding: 0px;margin: 0px;width: 34px;vertical-align: bottom;}
+.td26{padding: 0px;margin: 0px;width: 111px;vertical-align: bottom;}
+.td27{padding: 0px;margin: 0px;width: 199px;vertical-align: bottom;}
+.td28{padding: 0px;margin: 0px;width: 214px;vertical-align: bottom;}
+.td29{padding: 0px;margin: 0px;width: 98px;vertical-align: bottom;}
+.td30{padding: 0px;margin: 0px;width: 82px;vertical-align: bottom;}
+.td31{padding: 0px;margin: 0px;width: 84px;vertical-align: bottom;}
+.td32{padding: 0px;margin: 0px;width: 135px;vertical-align: bottom;}
+.td33{padding: 0px;margin: 0px;width: 133px;vertical-align: bottom;}
+.td34{padding: 0px;margin: 0px;width: 215px;vertical-align: bottom;}
+.td35{padding: 0px;margin: 0px;width: 198px;vertical-align: bottom;}
+.td36{padding: 0px;margin: 0px;width: 63px;vertical-align: bottom;}
+.td37{padding: 0px;margin: 0px;width: 184px;vertical-align: bottom;}
+.td38{padding: 0px;margin: 0px;width: 234px;vertical-align: bottom;}
+.td39{padding: 0px;margin: 0px;width: 119px;vertical-align: bottom;}
+.td40{padding: 0px;margin: 0px;width: 10px;vertical-align: bottom;}
+.td41{padding: 0px;margin: 0px;width: 403px;vertical-align: bottom;}
+.td42{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 413px;vertical-align: bottom;}
+.td43{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 118px;vertical-align: bottom;}
+.td44{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 412px;vertical-align: bottom;}
+.td45{border-right: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 412px;vertical-align: bottom;}
+.td46{padding: 0px;margin: 0px;width: 413px;vertical-align: bottom;}
+.td47{padding: 0px;margin: 0px;width: 468px;vertical-align: bottom;}
+.td48{padding: 0px;margin: 0px;width: 124px;vertical-align: bottom;}
+.td49{padding: 0px;margin: 0px;width: 289px;vertical-align: bottom;}
+.td50{padding: 0px;margin: 0px;width: 26px;vertical-align: bottom;}
+.td51{padding: 0px;margin: 0px;width: 72px;vertical-align: bottom;}
+.td52{padding: 0px;margin: 0px;width: 31px;vertical-align: bottom;}
+.td53{padding: 0px;margin: 0px;width: 35px;vertical-align: bottom;}
+.td54{padding: 0px;margin: 0px;width: 9px;vertical-align: bottom;}
+.td55{padding: 0px;margin: 0px;width: 27px;vertical-align: bottom;}
+.td56{padding: 0px;margin: 0px;width: 15px;vertical-align: bottom;}
+.td57{padding: 0px;margin: 0px;width: 44px;vertical-align: bottom;}
+.td58{padding: 0px;margin: 0px;width: 30px;vertical-align: bottom;}
+.td59{padding: 0px;margin: 0px;width: 74px;vertical-align: bottom;}
+.td60{padding: 0px;margin: 0px;width: 388px;vertical-align: bottom;}
+.td61{padding: 0px;margin: 0px;width: 420px;vertical-align: bottom;}
+.td62{padding: 0px;margin: 0px;width: 173px;vertical-align: bottom;}
+.td63{padding: 0px;margin: 0px;width: 105px;vertical-align: bottom;}
+.td64{padding: 0px;margin: 0px;width: 204px;vertical-align: bottom;}
+.td65{padding: 0px;margin: 0px;width: 45px;vertical-align: bottom;}
+.td66{padding: 0px;margin: 0px;width: 100px;vertical-align: bottom;}
+.td67{padding: 0px;margin: 0px;width: 108px;vertical-align: bottom;}
+.td68{padding: 0px;margin: 0px;width: 59px;vertical-align: bottom;}
+.td69{padding: 0px;margin: 0px;width: 71px;vertical-align: bottom;}
+.td70{padding: 0px;margin: 0px;width: 143px;vertical-align: bottom;}
+.td71{padding: 0px;margin: 0px;width: 80px;vertical-align: bottom;}
+.td72{padding: 0px;margin: 0px;width: 32px;vertical-align: bottom;}
+.td73{padding: 0px;margin: 0px;width: 140px;vertical-align: bottom;}
+.td74{padding: 0px;margin: 0px;width: 103px;vertical-align: bottom;}
+
+.tr0{heightzzz: 31px;}
+.tr1{heightzzz: 25px;}
+.tr2{heightzzz: 39px;}
+.tr3{heightzzz: 21px;}
+.tr4{heightzzz: 22px;}
+.tr5{heightzzz: 15px;}
+.tr6{heightzzz: 18px;}
+.tr7{heightzzz: 28px;}
+.tr8{heightzzz: 23px;}
+.tr9{heightzzz: 27px;}
+.tr10{heightzzz: 29px;}
+.tr11{heightzzz: 16px;}
+.tr12{heightzzz: 14px;}
+.tr13{heightzzz: 17px;}
+.tr14{heightzzz: 47px;}
+.tr15{heightzzz: 13px;}
+.tr16{heightzzz: 20px;}
+.tr17{heightzzz: 4px;}
+.tr18{heightzzz: 19px;}
+.tr19{heightzzz: 6px;}
+.tr20{heightzzz: 38px;}
+.tr21{heightzzz: 30px;}
+.tr22{heightzzz: 51px;}
+
+.t0{width: 552px;margin-leftZ: 154px;margin-top: 5px;f:20px 'Verdana' !important;}
+.t1{width: 555px;f:13px 'Verdana' !important;}
+.t2{width: 431px;margin-leftZ: 113px;f:13px 'Verdana' !important;}
+.t3{width: 432px;margin-leftZ: 113px;f:13px 'Verdana' !important;}
+.t4{width: 547px;margin-leftZ: 153px;f:20px 'Verdana' !important;}
+.t5{width: 512px;f:20px 'Verdana' !important;}
+.t6{width: 433px;margin-leftZ: 113px;margin-top: 7px;f:italic 13px 'Verdana' !important;}
+.t7{width: 433px;margin-leftZ: 113px;f:13px 'Verdana' !important;}
+.t8{width: 259px;margin-top: 50px;f:6px 'Verdana' !important;}
+.t9{width: 436px;f:20px 'Verdana' !important;}
+.t10{width: 558px;f:13px 'Verdana' !important;}
+.t11{width: 570px;f:13px 'Verdana' !important;}
+
+&lt;/STYLE&gt;
+
+
+
+&lt;DIV id="page_1"&gt;
+&lt;DIV id="p1dimg1"&gt;
+&lt;INGENBILD zsrc="H603671x1.jpg/" id="p1img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV class="dclr"&gt;&lt;/DIV&gt;
+&lt;P class="p0 ft0"&gt;Regeringens proposition 2018/19:67&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t0"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr0 td0"&gt;&lt;SPAN class="p1 ft1"&gt;Ytterligare förlängd övergångsperiod för&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td1"&gt;&lt;SPAN class="p2 ft1"&gt;Prop.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td2"&gt;&lt;SPAN class="p1 ft1"&gt;understödsföreningar&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td3"&gt;&lt;SPAN class="p2 ft1"&gt;2018/19:67&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p3 ft2"&gt;Regeringen överlämnar denna proposition till riksdagen.&lt;/P&gt;
+&lt;P class="p4 ft2"&gt;Stockholm den 21 mars 2019&lt;/P&gt;
+&lt;P class="p5 ft3"&gt;Margot Wallström&lt;/P&gt;
+&lt;P class="p6 ft5"&gt;Per Bolund &lt;SPAN class="ft4"&gt;(Finansdepartementet)&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p7 ft1"&gt;Propositionens huvudsakliga innehåll&lt;/P&gt;
+&lt;P class="p8 ft6"&gt;I propositionen föreslås en förlängd övergångsperiod för understödsföreningar.&lt;/P&gt;
+&lt;P class="p9 ft2"&gt;Lagen (1972:262) om understödsföreningar upphävdes i samband med införandet av försäkringsrörelselagen (2010:2043). Enligt lagen (2010:2044) om införande av försäkringsrörelselagen fick emellertid befintliga understödsföreningar fortsätta att driva sin verksamhet enligt 1972 års lag till utgången av 2014. Innan övergångsperiodens slut skulle föreningarna antingen ansöka om tillstånd enligt försäkringsrörelselagen eller träda i likvidation.&lt;/P&gt;
+&lt;P class="p10 ft6"&gt;Övergångsperioden för understödsföreningar har därefter förlängts vid två tillfällen. Den senaste förlängningen gäller till utgången av juni 2019.&lt;/P&gt;
+&lt;P class="p11 ft7"&gt;I propositionen föreslås att övergångsperioden för understödsföreningar som är tjänstepensionskassor förlängs ytterligare till utgången av april 2020 och för övriga understödsföreningar till utgången av år 2020.&lt;/P&gt;
+&lt;P class="p12 ft2"&gt;Lagändringarna föreslås träda i kraft den 1 juli 2019.&lt;/P&gt;
+&lt;P class="p13 ft2"&gt;1&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_2"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t1"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td4"&gt;&lt;SPAN class="p14 ft1"&gt;&lt;SPAN class="ft8"&gt;Prop. 2018/19:67 &lt;/SPAN&gt;Innehållsförteckning&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td5"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td4"&gt;&lt;SPAN class="p15 ft2"&gt;1 Förslag till riksdagsbeslut .................................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td5"&gt;&lt;SPAN class="p16 ft2"&gt;3&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p17 ft2"&gt;&lt;SPAN class="ft2"&gt;2&lt;/SPAN&gt;&lt;SPAN class="ft10"&gt;Förslag till lag om ändring i lagen (2010:2044) om införande&lt;/SPAN&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t2"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td7"&gt;&lt;SPAN class="p18 ft2"&gt;av försäkringsrörelselagen (2010:2043)............................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td5"&gt;&lt;SPAN class="p16 ft2"&gt;4&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p19 ft2"&gt;3&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td7"&gt;&lt;SPAN class="p18 ft2"&gt;Ärendet och dess beredning ..............................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td5"&gt;&lt;SPAN class="p16 ft2"&gt;6&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p19 ft2"&gt;4&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td7"&gt;&lt;SPAN class="p18 ft2"&gt;Bakgrund och gällande rätt ...............................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td5"&gt;&lt;SPAN class="p16 ft2"&gt;6&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p19 ft2"&gt;5&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td7"&gt;&lt;SPAN class="p18 ft2"&gt;Förlängd övergångsperiod för tjänstepensionskassor .......................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td5"&gt;&lt;SPAN class="p16 ft2"&gt;8&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p17 ft2"&gt;&lt;SPAN class="ft2"&gt;6&lt;/SPAN&gt;&lt;SPAN class="ft10"&gt;Förlängd övergångsperiod för understödsföreningar som inte&lt;/SPAN&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t3"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td0"&gt;&lt;SPAN class="p18 ft2"&gt;är tjänstepensionskassor....................................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td8"&gt;&lt;SPAN class="p20 ft2"&gt;9&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p14 ft2"&gt;7&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td0"&gt;&lt;SPAN class="p16 ft2"&gt;Ikraftträdande..................................................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td8"&gt;&lt;SPAN class="p16 ft2"&gt;10&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p14 ft2"&gt;8&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td0"&gt;&lt;SPAN class="p16 ft2"&gt;Förslagens konsekvenser ................................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td8"&gt;&lt;SPAN class="p20 ft2"&gt;11&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p14 ft2"&gt;9&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td0"&gt;&lt;SPAN class="p16 ft2"&gt;Författningskommentar...................................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td8"&gt;&lt;SPAN class="p20 ft2"&gt;11&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td0"&gt;&lt;SPAN class="p18 ft2"&gt;Förslaget till lag om ändring i lagen (2010:2044) om&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td8"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td6"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td9"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td10"&gt;&lt;SPAN class="p16 ft2"&gt;införande av försäkringsrörelselagen (2010:2043)...........&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td8"&gt;&lt;SPAN class="p16 ft2"&gt;11&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr3 td11"&gt;&lt;SPAN class="p14 ft2"&gt;Bilaga 1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td10"&gt;&lt;SPAN class="p16 ft2"&gt;Sammanfattning av promemorian ....................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td8"&gt;&lt;SPAN class="p20 ft2"&gt;13&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td11"&gt;&lt;SPAN class="p14 ft2"&gt;Bilaga 2&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td10"&gt;&lt;SPAN class="p16 ft2"&gt;Lagförslag i promemorian ................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td8"&gt;&lt;SPAN class="p20 ft2"&gt;14&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td11"&gt;&lt;SPAN class="p14 ft2"&gt;Bilaga 3&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td10"&gt;&lt;SPAN class="p16 ft2"&gt;Förteckning över remissinstanserna .................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td8"&gt;&lt;SPAN class="p20 ft2"&gt;16&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr4 td12"&gt;&lt;SPAN class="p14 ft2"&gt;Utdrag ur protokoll vid regeringssammanträde den 21 mars 2019 .........&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td8"&gt;&lt;SPAN class="p20 ft2"&gt;17&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p21 ft2"&gt;2&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_3"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t4"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td13"&gt;&lt;SPAN class="p22 ft1"&gt;1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p23 ft1"&gt;Förslag till riksdagsbeslut&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p14 ft2"&gt;Prop. 2018/19:67&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p24 ft2"&gt;Regeringens förslag:&lt;/P&gt;
+&lt;P class="p25 ft4"&gt;Riksdagen antar regeringens förslag till lag om ändring i lagen (2010:2044) om införande av försäkringsrörelselagen (2010:2043).&lt;/P&gt;
+&lt;P class="p26 ft2"&gt;3&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_4"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t5"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr0 td16"&gt;&lt;SPAN class="p14 ft2"&gt;Prop. 2018/19:67 &lt;SPAN class="ft11"&gt;2&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td17"&gt;&lt;SPAN class="p14 ft1"&gt;Förslag till lag om ändring i lagen&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td16"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td17"&gt;&lt;SPAN class="p14 ft1"&gt;(2010:2044) om införande av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td16"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p14 ft1"&gt;försäkringsrörelselagen (2010:2043)&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p27 ft4"&gt;Härigenom föreskrivs att 7 § lagen (2010:2044) om införande av försäkringsrörelselagen (2010:2043) ska ha följande lydelse.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t6"&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr8 td18"&gt;&lt;SPAN class="p28 ft3"&gt;Nuvarande lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td19"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td20"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr8 td21"&gt;&lt;SPAN class="p29 ft3"&gt;Föreslagen lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td22"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td23"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td24"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td25"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td6"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td19"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td20"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td26"&gt;&lt;SPAN class="p30 ft2"&gt;7 §&lt;SPAN class="ft12"&gt;1&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td13"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td22"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td23"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=5 class="tr5 td27"&gt;&lt;SPAN class="p20 ft2"&gt;En understödsförening som före&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td28"&gt;&lt;SPAN class="p16 ft2"&gt;En understödsförening som före&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr11 td18"&gt;&lt;SPAN class="p14 ft2"&gt;den 1 april 2011&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td19"&gt;&lt;SPAN class="p14 ft2"&gt;är&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td20"&gt;&lt;SPAN class="p20 ft2"&gt;registrerad&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr11 td28"&gt;&lt;SPAN class="p16 ft2"&gt;den 1 april 2011 är registrerad&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=5 class="tr5 td27"&gt;&lt;SPAN class="p20 ft2"&gt;enligt lagen (1972:262) om under-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td28"&gt;&lt;SPAN class="p16 ft2"&gt;enligt lagen (1972:262) om under-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td29"&gt;&lt;SPAN class="p14 ft2"&gt;stödsföreningar&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p14 ft2"&gt;får&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td30"&gt;&lt;SPAN class="p20 ft2"&gt;fortsätta att&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p31 ft2"&gt;stödsföreningar&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td31"&gt;&lt;SPAN class="p32 ft2"&gt;får fortsätta&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td23"&gt;&lt;SPAN class="p20 ft2"&gt;att&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=5 class="tr11 td27"&gt;&lt;SPAN class="p20 ft2"&gt;driva verksamheten och ska då om-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr11 td28"&gt;&lt;SPAN class="p20 ft2"&gt;driva verksamheten och ska då om-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=5 class="tr5 td27"&gt;&lt;SPAN class="p20 ft2"&gt;fattas av bestämmelserna i den lag-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td28"&gt;&lt;SPAN class="p16 ft2"&gt;fattas av bestämmelserna i den lag-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=5 class="tr5 td27"&gt;&lt;SPAN class="p20 ft2"&gt;en till utgången av &lt;SPAN class="ft3"&gt;juni 2019 &lt;/SPAN&gt;eller,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td28"&gt;&lt;SPAN class="p20 ft2"&gt;en till utgången av &lt;SPAN class="ft3"&gt;år 2020 &lt;/SPAN&gt;eller,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=5 class="tr11 td27"&gt;&lt;SPAN class="p20 ft3"&gt;&lt;SPAN class="ft2"&gt;om &lt;/SPAN&gt;en ansökan om tillstånd enligt&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr11 td28"&gt;&lt;SPAN class="p16 ft3"&gt;&lt;SPAN class="ft2"&gt;om &lt;/SPAN&gt;den driver sådan verksamhet&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td24"&gt;&lt;SPAN class="p14 ft3"&gt;2 kap.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td32"&gt;&lt;SPAN class="p20 ft13"&gt;försäkringsrörelselagen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td28"&gt;&lt;SPAN class="p20 ft3"&gt;som anges i 7 § tredje stycket den&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=5 class="tr11 td27"&gt;&lt;SPAN class="p20 ft3"&gt;(2010:2043) då har getts in, till&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr11 td28"&gt;&lt;SPAN class="p31 ft3"&gt;lagen, till utgången av april 2020&lt;SPAN class="ft2"&gt;.&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=5 class="tr5 td27"&gt;&lt;SPAN class="p20 ft13"&gt;dess att ett beslut med anledning av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td22"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td23"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=5 class="tr5 td27"&gt;&lt;SPAN class="p20 ft3"&gt;en sådan ansökan har fått laga&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td22"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td23"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td24"&gt;&lt;SPAN class="p14 ft3"&gt;kraft&lt;SPAN class="ft2"&gt;.&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td25"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td19"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td20"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td22"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td23"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=5 class="tr11 td27"&gt;&lt;SPAN class="p20 ft2"&gt;Om en ansökan om tillstånd&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr11 td28"&gt;&lt;SPAN class="p16 ft3"&gt;&lt;SPAN class="ft2"&gt;Om &lt;/SPAN&gt;understödsföreningen dess-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=5 class="tr5 td27"&gt;&lt;SPAN class="p20 ft13"&gt;&lt;SPAN class="ft7"&gt;enligt &lt;/SPAN&gt;första stycket inte har getts in&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td28"&gt;&lt;SPAN class="p16 ft3"&gt;förinnan har gett in &lt;SPAN class="ft2"&gt;en ansökan om&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=5 class="tr5 td27"&gt;&lt;SPAN class="p20 ft13"&gt;före utgången av juni 2019 eller om&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td28"&gt;&lt;SPAN class="p16 ft3"&gt;&lt;SPAN class="ft2"&gt;tillstånd enligt &lt;/SPAN&gt;2 kap. försäkrings-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=5 class="tr11 td27"&gt;&lt;SPAN class="p20 ft3"&gt;den avslås, ska föreningen träda i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr11 td28"&gt;&lt;SPAN class="p16 ft3"&gt;rörelselagen (2010:2043)&lt;SPAN class="ft2"&gt;, &lt;/SPAN&gt;får den&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td29"&gt;&lt;SPAN class="p14 ft3"&gt;likvidation.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td19"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td20"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td28"&gt;&lt;SPAN class="p16 ft3"&gt;driva verksamheten vidare till dess&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr11 td29"&gt;&lt;SPAN class="p33 ft3"&gt;Likvidationen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr11 td25"&gt;&lt;SPAN class="p34 ft3"&gt;ska&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td20"&gt;&lt;SPAN class="p20 ft13"&gt;handläggas&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr11 td28"&gt;&lt;SPAN class="p16 ft3"&gt;att ett beslut med anledning av en&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=5 class="tr5 td27"&gt;&lt;SPAN class="p20 ft3"&gt;enligt bestämmelserna i lagen om&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td28"&gt;&lt;SPAN class="p16 ft3"&gt;sådan ansökan har fått laga kraft.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=4 class="tr5 td33"&gt;&lt;SPAN class="p14 ft3"&gt;understödsföreningar.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td20"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td28"&gt;&lt;SPAN class="p16 ft3"&gt;Om en sådan ansökan inte har getts&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td24"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td25"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td6"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td19"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td20"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr11 td21"&gt;&lt;SPAN class="p31 ft3"&gt;in i tid eller om den&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td22"&gt;&lt;SPAN class="p32 ft3"&gt;avslås,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td23"&gt;&lt;SPAN class="p16 ft13"&gt;ska&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td24"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td25"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td19"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td20"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td28"&gt;&lt;SPAN class="p16 ft3"&gt;föreningen träda i likvidation.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td24"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td25"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td19"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td20"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p31 ft3"&gt;Likvidationen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p29 ft13"&gt;ska&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td20"&gt;&lt;SPAN class="p16 ft13"&gt;handläggas&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td24"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td25"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td6"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td19"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td20"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr11 td28"&gt;&lt;SPAN class="p16 ft3"&gt;enligt bestämmelserna i lagen om&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td24"&gt;&lt;SPAN class="p14 ft14"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td25"&gt;&lt;SPAN class="p14 ft14"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td6"&gt;&lt;SPAN class="p14 ft14"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td19"&gt;&lt;SPAN class="p14 ft14"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td20"&gt;&lt;SPAN class="p14 ft14"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr12 td21"&gt;&lt;SPAN class="p31 ft15"&gt;understödsföreningar.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td22"&gt;&lt;SPAN class="p14 ft14"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td23"&gt;&lt;SPAN class="p14 ft14"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p35 ft2"&gt;Har sådant förhållande inträffat som påkallar likvidation enligt andra stycket och har inte inom sex veckor därefter i understödsföreningsregistret införts uppgift om att föreningen trätt i likvidation, ska rätten på anmälan av Finansinspektionen och efter föreningens hörande förklara att&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t7"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td34"&gt;&lt;SPAN class="p14 ft2"&gt;föreningen ska träda i likvidation.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td35"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td34"&gt;&lt;SPAN class="p33 ft2"&gt;Bestämmelserna i 44 § lagen om&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td35"&gt;&lt;SPAN class="p16 ft2"&gt;Bestämmelserna i 44 § lagen om&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td34"&gt;&lt;SPAN class="p14 ft2"&gt;understödsföreningar ska tillämpas&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td35"&gt;&lt;SPAN class="p20 ft2"&gt;understödsföreningar ska tillämpas&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td34"&gt;&lt;SPAN class="p14 ft2"&gt;vid rättens handläggning av en&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td35"&gt;&lt;SPAN class="p16 ft2"&gt;vid rättens handläggning av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td34"&gt;&lt;SPAN class="p14 ft2"&gt;anmälan enligt &lt;SPAN class="ft3"&gt;fjärde &lt;/SPAN&gt;stycket.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td35"&gt;&lt;SPAN class="p36 ft2"&gt;en anmälan enligt &lt;SPAN class="ft3"&gt;tredje &lt;/SPAN&gt;stycket.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t8"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td36"&gt;&lt;SPAN class="p37 ft2"&gt;4&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td37"&gt;&lt;SPAN class="p38 ft17"&gt;&lt;SPAN class="ft16"&gt;1 &lt;/SPAN&gt;Senaste lydelse 2017:1118.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_5"&gt;
+&lt;DIV id="p5dimg1"&gt;
+&lt;INGENBILD zsrc="H603675x1.jpg/" id="p5img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV class="dclr"&gt;&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p39 ft2"&gt;Denna lag träder i kraft den 1 juli 2019.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p39 ft2"&gt;Prop. 2018/19:67&lt;/P&gt;
+&lt;P class="p40 ft2"&gt;5&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_6"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t9"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td16"&gt;&lt;SPAN class="p14 ft2"&gt;Prop. 2018/19:67 &lt;SPAN class="ft11"&gt;3&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td38"&gt;&lt;SPAN class="p14 ft1"&gt;Ärendet och dess beredning&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p41 ft2"&gt;Lagen (1972:262) om understödsföreningar upphävdes i samband med införandet av den nya försäkringsrörelselagen (2010:2043). Befintliga understödsföreningar fick emellertid fortsätta att driva sin verksamhet enligt lagen om understödsföreningar till utgången av 2014 enligt lagen (2010:2044) om införande av försäkringsrörelselagen (2010:2043), i det följande benämnd införandelagen. Innan övergångsperiodens slut skulle föreningarna antingen ansöka om tillstånd enligt försäkringsrörelselagen eller träda i likvidation. Övergångsperioden för understödsföreningar har därefter förlängts vid två tillfällen (prop. 2013/14:84 och prop. 2017/18:3). Den senaste förlängningen gäller till utgången av juni 2019.&lt;/P&gt;
+&lt;P class="p42 ft2"&gt;Understödsföreningar som är tjänstepensionskassor omfattas av Europaparlamentets och rådets direktiv (EU) 2016/2341 av den 14 december 2016 om verksamhet i och tillsyn över tjänstepensionsinstitut (andra tjänstepensionsdirektivet). I Finansdepartementet pågår för närvarande ett arbete med att genomföra direktivet i svensk rätt.&lt;/P&gt;
+&lt;P class="p43 ft2"&gt;Beträffande understödsföreningar som inte är tjänstepensionskassor har Finansutskottet i samband med att utskottet behandlade propositionen 2017/18:3 Förlängd övergångsperiod för understödsföreningar ansett att regeringen skyndsamt bör ta fram förslag på en alternativ reglering anpassad till verksamheten för dessa understödsföreningar. Om det visar sig att en sådan anpassad reglering inte kan tas fram och träda i kraft senast vid övergångstidens slut i juni 2019 bör regeringen komma tillbaka till riksdagen med förslag om ytterligare förlängning av övergångsperioden för dessa understödsföreningar (bet. 2017/18:FiU14). I Finansdepartementet pågår för närvarande beredning av en promemoria med förslag på en alternativ reglering anpassad till deras verksamhet.&lt;/P&gt;
+&lt;P class="p44 ft6"&gt;Mot denna bakgrund har Finansdepartementet upprättat en promemoria Ytterligare förlängd övergångsperiod för understödsföreningar med förslag att övergångsperioden för understödsföreningar ska förlängas ytterligare. En sammanfattning av promemorian finns i &lt;SPAN class="ft18"&gt;bilaga 1&lt;/SPAN&gt;. Promemorians lagförslag finns i &lt;SPAN class="ft18"&gt;bilaga 2&lt;/SPAN&gt;. Promemorian har remissbehandlats. En förteckning över remissinstanserna finns i &lt;SPAN class="ft18"&gt;bilaga 3&lt;/SPAN&gt;. Remissvaren finns tillgängliga i lagstiftningsärendet (Fi2018/03804/FPM). I propositionen behandlas promemorians förslag.&lt;/P&gt;
+&lt;P class="p45 ft3"&gt;Lagrådet&lt;/P&gt;
+&lt;P class="p46 ft4"&gt;Den ändring som föreslås i införandelagen är författningstekniskt och även i övrigt av sådan beskaffenhet att Lagrådets hörande skulle sakna betydelse. Lagrådets yttrande har därför inte inhämtats.&lt;/P&gt;
+&lt;P class="p47 ft1"&gt;&lt;SPAN class="ft1"&gt;4&lt;/SPAN&gt;&lt;SPAN class="ft19"&gt;Bakgrund och gällande rätt&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p48 ft20"&gt;För befintliga understödsföreningar gäller lagen om understödsföreningar. Med en understödsförening avses en förening för inbördes bistånd som,&lt;/P&gt;
+&lt;P class="p49 ft2"&gt;6&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_7"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p50 ft2"&gt;utan affärsmässigt drivande av försäkringsrörelse, meddelar annan personförsäkring än arbetslöshetsförsäkring (1 §). Vidare ska en understödsförening vara sluten på så sätt att den huvudsakligen är avsedd för anställda i visst eller vissa företag, personer tillhörande en viss yrkesgrupp eller medlemmar i sammanslutning med sådan intressegemenskap att en samverkan även för personförsäkring är naturlig. Understödsföreningarna ska vara registrerade hos Finansinspektionen och stå under tillsyn av denna (3 §).&lt;/P&gt;
+&lt;P class="p51 ft2"&gt;Understödsföreningarna brukar indelas med utgångspunkt i vilken form av försäkring som meddelas. Det finns pensionskassor, sjukkassor, begravningskassor samt sjuk- och begravningskassor. Pensionskassorna meddelar i huvudsak pensionsförsäkring och indelas i tjänstepensionskassor och andra pensionskassor.&lt;/P&gt;
+&lt;P class="p52 ft2"&gt;Dagens understödsföreningar meddelar framför allt pensionsförsäkring, men även annan försäkring såsom begravningsförsäkring samt sjuk- och olycksfallsförsäkring. Det finns för närvarande 49 understödsföreningar registrerade hos Finansinspektionen (i redovisningen ingår inte understödsföreningar i likvidation, se Förstudie om nya, anpassade regler för understödsföreningar som inte är tjänstepensionskassor, Fi2018/03331/FPM), varav 11 är tjänstepensionskassor. Av de 38 understödsföreningar som inte är tjänstepensionskassor står 23 under begränsad tillsyn av Finansinspektionen.&lt;/P&gt;
+&lt;P class="p51 ft2"&gt;I samband med införandet av försäkringsrörelselagen upphävdes lagen om understödsföreningar. Enligt införandelagen fick befintliga understödsföreningar emellertid fortsätta att driva verksamheten enligt lagen om understödsföreningar till utgången av 2014 eller, om en ansökan om tillstånd enligt försäkringsrörelselagen då hade getts in, till dess att ett beslut med anledning av en sådan ansökan hade fått laga kraft (7 § införandelagen). Om en ansökan inte hade getts in före utgången av 2014 eller om den avslogs, skulle föreningen träda i likvidation.&lt;/P&gt;
+&lt;P class="p53 ft7"&gt;Understödsföreningar som är tjänstepensionskassor har bedömts omfattas av definitionen av tjänstepensionsinstitut enligt Europaparlamentets och rådets direktiv 2003/41/EG av den 3 juni 2003 om verksamhet i och tillsyn över tjänstepensionsinstitut (första tjänstepensionsdirektivet). Övergångsperioden för samtliga understödsföreningar förlängdes 2014 till utgången av 2017 i avvaktan på en revidering av det direktivet. Den 14 december 2016 antog Europaparlamentet och rådet direktiv (EU) 2016/2341 om verksamhet i och tillsyn över tjänstepensionsinstitut (andra tjänstepensionsdirektivet). I avvaktan på en ny reglering för tjänstepensionsföretag förlängdes ånyo övergångsperioden för samtliga understödsföreningar till utgången av juni 2019.&lt;/P&gt;
+&lt;P class="p54 ft6"&gt;För närvarande pågår i Finansdepartementet dels beredning av en promemoria med förslag till alternativ reglering anpassad till verksamheten för andra understödsföreningar än tjänstepensionskassor, dels ett arbete med att genomföra andra tjänstepensionsdirektivet i svensk rätt.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p55 ft2"&gt;Prop. 2018/19:67&lt;/P&gt;
+&lt;P class="p40 ft2"&gt;7&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_8"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t10"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr0 td39"&gt;&lt;SPAN class="p14 ft2"&gt;Prop. 2018/19:67&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td40"&gt;&lt;SPAN class="p16 ft21"&gt;5&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td41"&gt;&lt;SPAN class="p56 ft1"&gt;Förlängd övergångsperiod för&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td40"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td41"&gt;&lt;SPAN class="p56 ft1"&gt;tjänstepensionskassor&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td39"&gt;&lt;SPAN class="p14 ft14"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr15 td42"&gt;&lt;SPAN class="p14 ft22"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td43"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr11 td44"&gt;&lt;SPAN class="p57 ft2"&gt;&lt;SPAN class="ft23"&gt;Regeringens förslag: &lt;/SPAN&gt;Övergångsperioden för tjänstepensionskassor&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td43"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr13 td45"&gt;&lt;SPAN class="p57 ft2"&gt;ska förlängas till utgången av april 2020.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr16 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr16 td40"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr16 td41"&gt;&lt;SPAN class="p1 ft2"&gt;&lt;SPAN class="ft23"&gt;Promemorians förslag &lt;/SPAN&gt;överensstämmer i huvudsak med regeringens&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr11 td46"&gt;&lt;SPAN class="p14 ft2"&gt;förslag. I promemorian föreslås att övergångsperioden ska förlängas till&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft2"&gt;utgången av november 2019.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td40"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td41"&gt;&lt;SPAN class="p1 ft2"&gt;&lt;SPAN class="ft23"&gt;Remissinstanserna: &lt;/SPAN&gt;Flertalet remissinstanser tillstyrker förslaget eller&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr11 td46"&gt;&lt;SPAN class="p14 ft3"&gt;&lt;SPAN class="ft2"&gt;har inget att invända mot det. &lt;/SPAN&gt;Finansinspektionen&lt;SPAN class="ft2"&gt;, &lt;/SPAN&gt;Svensk Försäkring&lt;SPAN class="ft2"&gt;,&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft13"&gt;Svenskt Näringsliv&lt;SPAN class="ft7"&gt;, &lt;/SPAN&gt;Sveriges Kommuner och Landsting&lt;SPAN class="ft7"&gt;, &lt;/SPAN&gt;Tjänstepensions-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft3"&gt;förbundet &lt;SPAN class="ft2"&gt;och &lt;/SPAN&gt;Kåpan pensioner försäkringsförening (Kåpan Pensioner)&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr11 td46"&gt;&lt;SPAN class="p14 ft2"&gt;anser att övergångsperioden ska förlängas ytterligare för att&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft2"&gt;tjänstepensionskassorna ska få en skälig tid på sig för att dels förbereda&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft2"&gt;ombildningen enligt den nya, inte ännu beslutade, regleringen om&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr11 td46"&gt;&lt;SPAN class="p14 ft2"&gt;tjänstepensionsföretag, dels ansöka om ombildning. Finansinspektionen&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft2"&gt;anser att tiden bör förlängas t.o.m. den 31 december 2020, Svensk&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft2"&gt;Försäkring, Svenskt Näringsliv och Tjänstepensionsförbundet t.o.m. den&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr11 td46"&gt;&lt;SPAN class="p14 ft2"&gt;31 december 2022 och Kåpan Pensioner i första hand t.o.m. den&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft2"&gt;31 december 2022, men i vart fall bestämmas till minst 12 månader efter&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft2"&gt;det att en ny lagreglering om tjänstepensionsföretag bedöms träda i kraft.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td40"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td41"&gt;&lt;SPAN class="p1 ft23"&gt;Skälen för regeringens förslag: &lt;SPAN class="ft2"&gt;Sedan april 2011 kan nya svenska&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft2"&gt;tjänstepensionsinstitut endast bildas i den juridiska formen pensions-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft2"&gt;stiftelse. Som regeringen tidigare konstaterat är detta otillfredsställande&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr11 td46"&gt;&lt;SPAN class="p14 ft2"&gt;och det är därför fortfarande angeläget att det möjliggörs nybildning av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft2"&gt;svenska tjänstepensionsinstitut även i annan juridisk form (prop.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft2"&gt;2013/14:84 s. 24 och prop. 2017/18:3 s. 8). I promemorian En ny reglering&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr11 td46"&gt;&lt;SPAN class="p14 ft2"&gt;för tjänstepensionsföretag (Fi2018/02661/FPM) föreslås en sådan&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft2"&gt;reglering. Genom bl.a. den i promemorian föreslagna nya lagen om&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft7"&gt;tjänstepensionsföretag genomförs andra tjänstepensionsdirektivet i svensk&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr11 td46"&gt;&lt;SPAN class="p14 ft2"&gt;rätt. Promemorian har remitterats och bereds inom Regeringskansliet.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft2"&gt;Lagändringarna beräknas träda i kraft tidigast under senhösten 2019.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft2"&gt;Tjänstepensionskassorna omfattas av definitionen av tjänstepensions-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr11 td46"&gt;&lt;SPAN class="p14 ft2"&gt;institut och de omfattas därmed av andra tjänstepensionsdirektivets&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft2"&gt;tillämpningsområde.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td40"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td41"&gt;&lt;SPAN class="p1 ft2"&gt;I promemorian En ny reglering för tjänstepensionsföretag föreslås även&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr11 td46"&gt;&lt;SPAN class="p14 ft2"&gt;en lagändring i införandelagen som innebär att understödsföreningarna&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft2"&gt;kan ansöka om tillstånd enligt den föreslagna nya lagen om tjänste-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft2"&gt;pensionsföretag och omfattas av den upphävda lagen om understöds-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr11 td46"&gt;&lt;SPAN class="p14 ft2"&gt;föreningar till dess att ett beslut med anledning av en sådan ansökan har&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft2"&gt;fått laga kraft.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td40"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td41"&gt;&lt;SPAN class="p1 ft2"&gt;Om övergångsperioden i införandelagen inte förlängs för&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr11 td46"&gt;&lt;SPAN class="p14 ft2"&gt;tjänstepensionskassorna innebär det att kassorna måste ansöka om att&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft2"&gt;ombildas till försäkringsförening enligt försäkringsrörelselagen senast den&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft2"&gt;30 juni 2019 för att undvika att träda i likvidation. De tjänste-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr11 td46"&gt;&lt;SPAN class="p14 ft2"&gt;pensionskassor som vill ombildas till tjänstepensionsföretag skulle sedan,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft2"&gt;efter att den nya regleringen om tjänstepensionsföretag införts i svensk&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td46"&gt;&lt;SPAN class="p14 ft2"&gt;rätt, bli tvungna att ansöka om att ombildas till sådant. Utan förlängning&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD rowspan=2 class="tr3 td39"&gt;&lt;SPAN class="p14 ft2"&gt;8&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr13 td46"&gt;&lt;SPAN class="p14 ft7"&gt;av övergångsperioden riskerar således tjänstepensionskassorna att behöva&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr17 td40"&gt;&lt;SPAN class="p14 ft24"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr17 td41"&gt;&lt;SPAN class="p14 ft24"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_9"&gt;
+&lt;DIV id="p9dimg1"&gt;
+&lt;INGENBILD zsrc="H603679x1.jpg/" id="p9img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p58 ft6"&gt;genomgå två ombildningar och byta grundläggande reglering två gånger Prop. 2018/19:67 inom en kort period. Ett sådant ombildningsförfarande skulle medföra&lt;/P&gt;
+&lt;P class="p59 ft6"&gt;betydande olägenheter för både tjänstepensionskassorna och deras medlemmar.&lt;/P&gt;
+&lt;P class="p60 ft2"&gt;I promemorian Ytterligare förlängd övergångsperiod för understödsföreningar föreslås att övergångsperioden förlängs t.o.m. utgången av november 2019. Flera remissinstanser invänder att en övergångsperiod om fem månader från det att den nya lagen om tjänstepensionsföretag beräknas träda i kraft är för kort för att tjänstepensionskassorna ska hinna med nödvändiga strategiska överväganden och ställa om till det nya regelverket innan en ansökan om ombildning ges in. Tjänstepensionskassorna, men även Finansinspektionen, får dock redan vid tidpunkten då en lagrådsremiss rörande en ny lag om tjänstepensionsföretag beslutas före sommaren 2019 kännedom om hur den nya regleringen kommer att vara utformad. Eftersom Finansinspektionen vanligen remitterar ett utkast till föreskrifter i samband med att regeringen beslutar proposition i det aktuella lagstiftningsärendet bör tjänstepensionskassorna få kännedom om huvuddragen i det nya regelverket redan innan den nya lagen träder i kraft. Med hänsyn härtill och till att den nya lagen om tjänstepensionsföretag planeras träda i kraft under senare delen av hösten 2019 bedömer regeringen att tjänstepensionskassorna får skälig tid på sig att göra nödvändiga strategiska överväganden och förberedelser inför en ansökan om övergångsperioden förlängs t.o.m. utgången av april 2020.&lt;/P&gt;
+&lt;P class="p61 ft26"&gt;&lt;SPAN class="ft1"&gt;6&lt;/SPAN&gt;&lt;SPAN class="ft25"&gt;Förlängd övergångsperiod för understödsföreningar som inte är tjänstepensionskassor&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p62 ft4"&gt;&lt;SPAN class="ft27"&gt;Regeringens förslag: &lt;/SPAN&gt;Övergångsperioden för understödsföreningar som inte är tjänstepensionskassor ska förlängas till utgången av år 2020.&lt;/P&gt;
+&lt;P class="p63 ft4"&gt;&lt;SPAN class="ft27"&gt;Promemorians förslag &lt;/SPAN&gt;överensstämmer med regeringens förslag. &lt;SPAN class="ft27"&gt;Remissinstanserna: &lt;/SPAN&gt;Flertalet remissinstanser tillstyrker förslaget eller&lt;/P&gt;
+&lt;P class="p64 ft2"&gt;har inget att invända mot det. &lt;SPAN class="ft3"&gt;Advokatfirma Dahlgren &amp; Partners &lt;/SPAN&gt;betonar vikten av att övergångsperioden är tillräckligt lång så att förslaget till anpassade regler för understödsföreningar som inte är tjänstepensionskassor kan presenteras i god tid innan övergångsperiodens slut.&lt;/P&gt;
+&lt;P class="p60 ft7"&gt;&lt;SPAN class="ft28"&gt;Skälen för regeringens förslag: &lt;/SPAN&gt;I propositionen med förslag om den senaste förlängningen av övergångsperioden för understödsföreningar uttalas att det kan finnas anledning att överväga en alternativ reglering i framtiden för understödsföreningar som inte är tjänstepensionskassor, men att sådana förslag får behandlas i ett senare sammanhang (prop. 2017/18:3&lt;/P&gt;
+&lt;P class="p65 ft2"&gt;&lt;SPAN class="ft7"&gt;s.&lt;/SPAN&gt;&lt;SPAN class="ft29"&gt;11).&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p66 ft2"&gt;I samband med att Finansutskottet behandlade propositionen uttalade&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t1"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr18 td47"&gt;&lt;SPAN class="p14 ft2"&gt;utskottet att det ansåg att regeringen skyndsamt borde ta fram förslag på&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr18 td9"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td47"&gt;&lt;SPAN class="p14 ft2"&gt;en alternativ reglering anpassad till verksamheten i understödsföreningar&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td9"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td47"&gt;&lt;SPAN class="p14 ft2"&gt;som inte är tjänstepensionskassor och att regeringen om det visade sig att&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD rowspan=2 class="tr8 td9"&gt;&lt;SPAN class="p16 ft2"&gt;9&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr19 td47"&gt;&lt;SPAN class="p14 ft30"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_10"&gt;
+&lt;DIV id="p10dimg1"&gt;
+&lt;INGENBILD zsrc="H6036710x1.jpg/" id="p10img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p67 ft6"&gt;Prop. 2018/19:67 en sådan anpassad reglering inte kunde tas fram och träda i kraft senast vid övergångstidens slut i juni 2019, borde komma tillbaka till riksdagen med förslag om ytterligare förlängning av övergångsperioden för dessa understödsföreningar (bet. 2017/18:FiU14).&lt;/P&gt;
+&lt;P class="p68 ft7"&gt;I Finansdepartementet har ett arbete med att ta fram anpassade regler för understödsföreningar som inte är tjänstepensionskassor påbörjats, men i dagsläget finns inte något färdigt förslag. En anpassad reglering för understödsföreningar som inte är tjänstepensionskassor kommer inte hinna tas fram och träda i kraft senast vid övergångsperiodens slut i juni 2019.&lt;/P&gt;
+&lt;P class="p69 ft2"&gt;Om övergångsperioden inte förlängs för aktuella understödsföreningar skulle de vara tvungna att senast den sista juni 2019 ansöka om att ombildas från understödsförening enligt lagen om understödsföreningar till försäkringsförening enligt försäkringsrörelselagen utan tillgång till en alternativ reglering, för att undvika att träda i likvidation. En sådan ordning skulle vara till nackdel för både understödsföreningarna och deras medlemmar.&lt;/P&gt;
+&lt;P class="p70 ft2"&gt;För att förhindra ovan angivet scenario bör övergångsperioden för understödsföreningar som inte är tjänstepensionskassor förlängas. Regeringen instämmer i &lt;SPAN class="ft3"&gt;Advokatfirma Dahlgren &amp; Partners &lt;/SPAN&gt;bedömning att det är viktigt att övergångsperioden blir tillräckligt lång för att ge understödsföreningarna skäligt rådrum, från det att de nya bestämmelserna träder i kraft, att ta ställning till den fortsatta verksamheten. Regeringen gör bedömningen att den alternativa regleringen för understödsföreningar som inte är tjänstepensionskassor bör kunna träda i kraft vid halvårsskiftet år 2020. En skälig längd på övergångsperioden är därför till och med utgången av år 2020.&lt;/P&gt;
+&lt;P class="p71 ft1"&gt;&lt;SPAN class="ft1"&gt;7&lt;/SPAN&gt;&lt;SPAN class="ft19"&gt;Ikraftträdande&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p72 ft2"&gt;&lt;SPAN class="ft23"&gt;Regeringens förslag: &lt;/SPAN&gt;Lagändringarna ska träda i kraft den 1 juli 2019.&lt;/P&gt;
+&lt;P class="p73 ft6"&gt;&lt;SPAN class="ft31"&gt;Promemorians förslag &lt;/SPAN&gt;överensstämmer med regeringens förslag. &lt;SPAN class="ft31"&gt;Remissinstanserna &lt;/SPAN&gt;tillstyrker förslaget eller har inget att invända mot&lt;/P&gt;
+&lt;P class="p74 ft2"&gt;det.&lt;/P&gt;
+&lt;P class="p75 ft31"&gt;Skälen för regeringens förslag: &lt;SPAN class="ft6"&gt;Den nuvarande övergångsperioden gäller till utgången av juni 2019. Lagändringarna föreslås träda i kraft den 1 juli 2019 för att förhindra att understödsföreningarna senast den sista juni 2019 måste ansöka om att ombildas från understödsförening enligt lagen om understödsföreningar till försäkringsförening enligt nu gällande bestämmelser i försäkringsrörelselagen för att undvika att träda i likvidation.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p76 ft2"&gt;10&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_11"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t4"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td13"&gt;&lt;SPAN class="p22 ft1"&gt;8&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p23 ft1"&gt;Förslagens konsekvenser&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p14 ft2"&gt;Prop. 2018/19:67&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p77 ft2"&gt;Förslagen om förlängd övergångsperiod för understödsföreningar innebär att befintliga understödsföreningar utom tjänstepensionskassorna, får tillämpa lagen om understödsföreningar till och med utgången av år 2020. För tjänstepensionskassorna gäller däremot i stället utgången av april 2020. Förslagen möjliggör för tjänstepensionskassorna att tillämpa regler som baseras på första tjänstepensionsdirektivet i avvaktan på att den nya lagstiftningen för tjänstepensionsföretag träder i kraft. Även övriga understödsföreningar får möjlighet att tillämpa lagen om understödsföreningar under ytterligare en tid i avvaktan på att en alternativ reglering träder i kraft.&lt;/P&gt;
+&lt;P class="p78 ft2"&gt;&lt;SPAN class="ft3"&gt;Kåpan Pensioner &lt;/SPAN&gt;invänder att perioden från det att den nya lagregleringen om tjänstepensionsföretag träder i kraft till dess att ansökan om ombildning senast måste vara inlämnad är mycket kort. Den korta tiden leder till onödiga merkostnader som promemorian inte redogör för. Regeringen konstaterar att tjänstepensionskassorna sannolikt kommer att ha kostnader för att ombildas till antingen försäkringsförening eller tjänstepensionsförening (tjänstepensionsföretag). Regeringen delar dock inte Kåpan Pensioners bedömning att tiden är så kort att den medför att tjänstepensionskassorna drar på sig onödiga merkostnader. Detta eftersom tjänstepensionskassorna redan innan den nya lagen om tjänstepensionsföretag träder i kraft kan få kännedom om hur lagen kommer att vara utformad och kan påbörja sitt strategiska arbete inför ombildning.&lt;/P&gt;
+&lt;P class="p79 ft4"&gt;Eventuella kostnader för Finansinspektionen med anledning av en förlängd övergångsperiod ska hanteras inom befintlig budgetram. Förslaget bedöms inte i övrigt medföra några kostnader för statsbudgeten.&lt;/P&gt;
+&lt;P class="p80 ft1"&gt;&lt;SPAN class="ft1"&gt;9&lt;/SPAN&gt;&lt;SPAN class="ft32"&gt;Författningskommentar&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p81 ft33"&gt;Förslaget till lag om ändring i lagen (2010:2044) om införande av försäkringsrörelselagen (2010:2043)&lt;/P&gt;
+&lt;P class="p82 ft36"&gt;&lt;SPAN class="ft34"&gt;7 § &lt;/SPAN&gt;En understödsförening som före den 1 april 2011 är registrerad enligt lagen (1972:262) om understödsföreningar får fortsätta att driva verksamheten och ska då omfattas av bestämmelserna i den lagen till utgången av &lt;SPAN class="ft35"&gt;år 2020 &lt;/SPAN&gt;eller, om &lt;SPAN class="ft35"&gt;den driver sådan verksamhet som anges i 7 § tredje stycket den lagen, till utgången av april 2020&lt;/SPAN&gt;.&lt;/P&gt;
+&lt;P class="p9 ft35"&gt;&lt;SPAN class="ft36"&gt;Om &lt;/SPAN&gt;understödsföreningen dessförinnan har gett in &lt;SPAN class="ft36"&gt;en ansökan om tillstånd enligt &lt;/SPAN&gt;2 kap. försäkringsrörelselagen (2010:2043)&lt;SPAN class="ft36"&gt;, &lt;/SPAN&gt;får den driva verksamheten vidare till dess att ett beslut med anledning av en sådan ansökan har fått laga kraft. Om en sådan ansökan inte har getts in i tid eller om den avslås, ska föreningen träda i likvidation. Likvidationen ska handläggas enligt bestämmelserna i lagen om understödsföreningar.&lt;/P&gt;
+&lt;P class="p11 ft36"&gt;Har sådant förhållande inträffat som påkallar likvidation enligt andra stycket och har inte inom sex veckor därefter i understödsföreningsregistret införts uppgift om att föreningen trätt i likvidation, ska rätten på anmälan av Finansinspektionen och efter föreningens hörande förklara att föreningen ska träda i likvidation.&lt;/P&gt;
+&lt;P class="p83 ft2"&gt;11&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_12"&gt;
+
+
+&lt;P class="p84 ft7"&gt;&lt;SPAN class="ft2"&gt;Prop. 2018/19:67 &lt;/SPAN&gt;Bestämmelserna i 44 § lagen om understödsföreningar ska tillämpas vid rättens handläggning av en anmälan enligt &lt;SPAN class="ft13"&gt;tredje &lt;/SPAN&gt;stycket.&lt;/P&gt;
+&lt;P class="p85 ft6"&gt;Paragrafen innehåller övergångsbestämmelser för understödsföreningar. Övervägandena finns i avsnitten 5 och 6.&lt;/P&gt;
+&lt;P class="p69 ft2"&gt;Ändringarna i &lt;SPAN class="ft3"&gt;första stycket &lt;/SPAN&gt;innebär att understödsföreningar som inte är tjänstepensionskassor ges möjlighet att fortsätta driva sin verksamhet enligt den upphävda lagen om understödsföreningar till och med utgången av år 2020. Tjänstepensionskassor ges möjlighet att fortsätta driva sin verksamhet enligt den upphävda lagen om understödsföreningar till och med utgången av april 2020. Ändringarna innebär att understödsföreningarna får ytterligare en tid på sig att ta ställning till om de ska ansöka om tillstånd enligt försäkringsrörelselagen och i övrigt inrätta sig efter denna.&lt;/P&gt;
+&lt;P class="p75 ft6"&gt;Hittillsvarande sista ledet i första stycket flyttas till &lt;SPAN class="ft18"&gt;andra stycket. &lt;/SPAN&gt;Ändringarna i det hittillsvarande andra stycket är en följd av den ändringen. Även bestämmelsen i det hittillsvarande tredje stycket flyttas till andra stycket.&lt;/P&gt;
+&lt;P class="p69 ft2"&gt;Om en understödsförening inom den i första stycket angivna tiden har gett in en ansökan om tillstånd enligt 2 kap. försäkringsrörelselagen (2010:2043), får den driva verksamheten vidare till dess att ett beslut med anledning av en sådan ansökan har fått laga kraft. Om en sådan ansökan inte har getts in i tid – dvs. före utgången av april 2020 för tjänstepensionskassor respektive före utgången av år 2020 för övriga understödsföreningar – eller den avslås, ska föreningen träda i likvidation. Likvidationen ska handläggas enligt bestämmelserna i lagen om understödsföreningar.&lt;/P&gt;
+&lt;P class="p86 ft6"&gt;Ändringen i &lt;SPAN class="ft18"&gt;fjärde stycket&lt;/SPAN&gt;, hittillsvarande femte stycket&lt;SPAN class="ft18"&gt;, &lt;/SPAN&gt;är en följdändring som föranleds av att bestämmelsen i det hittillsvarande tredje stycket flyttas till andra stycket.&lt;/P&gt;
+&lt;P class="p87 ft2"&gt;12&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_13"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p39 ft1"&gt;Sammanfattning av promemorian&lt;/P&gt;
+&lt;P class="p88 ft6"&gt;I promemorian föreslås en förlängd övergångsperiod för understödsföreningar.&lt;/P&gt;
+&lt;P class="p89 ft2"&gt;Lagen (1972:262) om understödsföreningar upphävdes i samband med införandet av försäkringsrörelselagen (2010:2043). Enligt lagen (2010:2044) om införande av försäkringsrörelselagen fick emellertid befintliga understödsföreningar fortsätta att driva sin verksamhet enligt 1972 års lag till utgången av 2014. Innan övergångsperiodens slut skulle föreningarna antingen ansöka om tillstånd enligt försäkringsrörelselagen eller träda i likvidation.&lt;/P&gt;
+&lt;P class="p90 ft2"&gt;Övergångsperioden för understödsföreningar har därefter förlängts vid två tillfällen. Den senaste förlängningen gäller till utgången av juni 2019. I promemorian föreslås att övergångsperioden för understödsföreningar som är tjänstepensionskassor förlängs ytterligare till utgången av november 2019 och för övriga understödsföreningar till utgången av år 2020.&lt;/P&gt;
+&lt;P class="p91 ft2"&gt;Lagändringarna föreslås träda i kraft den 1 juli 2019.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p92 ft4"&gt;Prop. 2018/19:67 Bilaga 1&lt;/P&gt;
+&lt;P class="p93 ft2"&gt;13&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_14"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t11"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td48"&gt;&lt;SPAN class="p94 ft2"&gt;Prop. 2018/19:67&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=9 class="tr7 td49"&gt;&lt;SPAN class="p14 ft1"&gt;Lagförslag i promemorian&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td50"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td51"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td52"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td48"&gt;&lt;SPAN class="p94 ft2"&gt;Bilaga 2&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td53"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td53"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td54"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td55"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td19"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td56"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td57"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td58"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td59"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td50"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td51"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td52"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr20 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=11 class="tr20 td60"&gt;&lt;SPAN class="p14 ft37"&gt;Förslag till lag om ändring i lagen (2010:2044) om&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr20 td52"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=11 class="tr8 td60"&gt;&lt;SPAN class="p14 ft37"&gt;införande av försäkringsrörelselagen (2010:2043)&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td52"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=12 class="tr8 td61"&gt;&lt;SPAN class="p95 ft2"&gt;Härigenom föreskrivs att 7 § lagen (2010:2044) om införande av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=11 class="tr6 td60"&gt;&lt;SPAN class="p14 ft2"&gt;försäkringsrörelselagen (2010:2043) ska ha följande lydelse.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td52"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=5 class="tr10 td48"&gt;&lt;SPAN class="p28 ft3"&gt;Nuvarande lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td56"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td57"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td58"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr10 td62"&gt;&lt;SPAN class="p96 ft3"&gt;Föreslagen lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td52"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr21 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr21 td53"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr21 td53"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr21 td54"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr21 td55"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr21 td19"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr21 td56"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr21 td57"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr21 td63"&gt;&lt;SPAN class="p97 ft2"&gt;7 §&lt;SPAN class="ft12"&gt;1&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr21 td50"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr21 td51"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr21 td52"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=8 class="tr5 td34"&gt;&lt;SPAN class="p98 ft2"&gt;En understödsförening som före&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td64"&gt;&lt;SPAN class="p16 ft2"&gt;En understödsförening som före&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td53"&gt;&lt;SPAN class="p28 ft2"&gt;den&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td65"&gt;&lt;SPAN class="p99 ft2"&gt;1 april&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td57"&gt;&lt;SPAN class="p19 ft2"&gt;2011&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td56"&gt;&lt;SPAN class="p100 ft2"&gt;är&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td59"&gt;&lt;SPAN class="p98 ft2"&gt;registrerad&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td64"&gt;&lt;SPAN class="p96 ft2"&gt;den 1 april 2011 är registrerad&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=8 class="tr11 td34"&gt;&lt;SPAN class="p28 ft2"&gt;enligt lagen (1972:262) om under-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr11 td66"&gt;&lt;SPAN class="p96 ft2"&gt;enligt lagen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td51"&gt;&lt;SPAN class="p101 ft2"&gt;(1972:262)&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td52"&gt;&lt;SPAN class="p16 ft2"&gt;om&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td67"&gt;&lt;SPAN class="p28 ft2"&gt;stödsföreningar&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td19"&gt;&lt;SPAN class="p102 ft2"&gt;får&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td68"&gt;&lt;SPAN class="p28 ft2"&gt;fortsätta&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td58"&gt;&lt;SPAN class="p98 ft2"&gt;att&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td64"&gt;&lt;SPAN class="p96 ft2"&gt;understödsföreningar får fortsätta&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=8 class="tr5 td34"&gt;&lt;SPAN class="p28 ft2"&gt;driva verksamheten och ska då om-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td64"&gt;&lt;SPAN class="p96 ft2"&gt;att driva verksamheten och ska då&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=8 class="tr11 td34"&gt;&lt;SPAN class="p28 ft2"&gt;fattas av bestämmelserna i den lag-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr11 td64"&gt;&lt;SPAN class="p96 ft2"&gt;omfattas av bestämmelserna i den&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=8 class="tr5 td34"&gt;&lt;SPAN class="p28 ft2"&gt;en till utgången av &lt;SPAN class="ft3"&gt;juni 2019 &lt;/SPAN&gt;eller,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td64"&gt;&lt;SPAN class="p96 ft7"&gt;lagen till utgången av &lt;SPAN class="ft13"&gt;år 2020 &lt;/SPAN&gt;eller,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=8 class="tr5 td34"&gt;&lt;SPAN class="p28 ft3"&gt;&lt;SPAN class="ft2"&gt;om &lt;/SPAN&gt;en ansökan om tillstånd enligt&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td64"&gt;&lt;SPAN class="p96 ft3"&gt;&lt;SPAN class="ft2"&gt;om &lt;/SPAN&gt;den driver sådan verksamhet&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr11 td69"&gt;&lt;SPAN class="p28 ft3"&gt;2 kap.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr11 td70"&gt;&lt;SPAN class="p98 ft13"&gt;försäkringsrörelselagen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr11 td64"&gt;&lt;SPAN class="p96 ft3"&gt;som anges i 7 § tredje stycket den&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=8 class="tr5 td34"&gt;&lt;SPAN class="p28 ft3"&gt;(2010:2043) då har getts in, till&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td64"&gt;&lt;SPAN class="p96 ft3"&gt;lagen, till utgången av november&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=8 class="tr5 td34"&gt;&lt;SPAN class="p28 ft3"&gt;dess att ett beslut med anledning av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td59"&gt;&lt;SPAN class="p96 ft3"&gt;2019.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td51"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td52"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=8 class="tr11 td34"&gt;&lt;SPAN class="p28 ft3"&gt;en sådan ansökan har fått laga&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td59"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td50"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td51"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td52"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td69"&gt;&lt;SPAN class="p28 ft3"&gt;kraft.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td54"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td55"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td19"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td56"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td57"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td58"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 rowspan=2 class="tr21 td64"&gt;&lt;SPAN class="p16 ft3"&gt;&lt;SPAN class="ft2"&gt;Om &lt;/SPAN&gt;understödsföreningen dess-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=8 class="tr5 td34"&gt;&lt;SPAN class="p98 ft2"&gt;Om en ansökan om tillstånd&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=8 class="tr11 td34"&gt;&lt;SPAN class="p28 ft3"&gt;&lt;SPAN class="ft2"&gt;enligt &lt;/SPAN&gt;första stycket inte har getts in&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr11 td64"&gt;&lt;SPAN class="p96 ft13"&gt;förinnan har gett in &lt;SPAN class="ft7"&gt;en ansökan om&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=8 class="tr5 td34"&gt;&lt;SPAN class="p28 ft3"&gt;före utgången av juni 2019 eller om&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td64"&gt;&lt;SPAN class="p96 ft3"&gt;&lt;SPAN class="ft2"&gt;tillstånd enligt &lt;/SPAN&gt;2 kap. försäkrings-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=8 class="tr5 td34"&gt;&lt;SPAN class="p28 ft3"&gt;den avslås, ska föreningen träda i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td64"&gt;&lt;SPAN class="p96 ft3"&gt;rörelselagen (2010:2043)&lt;SPAN class="ft2"&gt;, &lt;/SPAN&gt;får den&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr11 td71"&gt;&lt;SPAN class="p28 ft3"&gt;likvidation.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td55"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td19"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td56"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td57"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td58"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr11 td64"&gt;&lt;SPAN class="p96 ft13"&gt;driva verksamheten vidare till dess&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td67"&gt;&lt;SPAN class="p103 ft13"&gt;Likvidationen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td72"&gt;&lt;SPAN class="p30 ft3"&gt;ska&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td59"&gt;&lt;SPAN class="p98 ft13"&gt;handläggas&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td64"&gt;&lt;SPAN class="p96 ft3"&gt;att ett beslut med anledning av en&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=8 class="tr5 td34"&gt;&lt;SPAN class="p28 ft3"&gt;enligt bestämmelserna i lagen om&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td64"&gt;&lt;SPAN class="p96 ft3"&gt;sådan ansökan har fått laga kraft.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr11 td73"&gt;&lt;SPAN class="p28 ft3"&gt;understödsföreningar.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td57"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td58"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr11 td64"&gt;&lt;SPAN class="p96 ft13"&gt;Om en sådan ansökan inte har getts&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td53"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td53"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td54"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td55"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td19"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td56"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td57"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td58"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td64"&gt;&lt;SPAN class="p96 ft3"&gt;in i tid eller den avslås, ska&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td53"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td53"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td54"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td55"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td19"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td56"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td57"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td58"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td64"&gt;&lt;SPAN class="p96 ft13"&gt;föreningen träda i likvidation. Lik-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td53"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td53"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td54"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td55"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td19"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td56"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td57"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td58"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td59"&gt;&lt;SPAN class="p96 ft3"&gt;vidationen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td50"&gt;&lt;SPAN class="p14 ft3"&gt;ska&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td51"&gt;&lt;SPAN class="p32 ft13"&gt;handläggas&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td52"&gt;&lt;SPAN class="p16 ft13"&gt;enligt&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td53"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td53"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td54"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td55"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td19"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td56"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td57"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td58"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td64"&gt;&lt;SPAN class="p96 ft3"&gt;bestämmelserna i lagen om under-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td53"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td53"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td54"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td55"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td19"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td56"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td57"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td58"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td66"&gt;&lt;SPAN class="p96 ft13"&gt;stödsföreningar.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td51"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td52"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=12 class="tr11 td61"&gt;&lt;SPAN class="p95 ft2"&gt;Har sådant förhållande inträffat som påkallar likvidation enligt andra&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=12 class="tr5 td61"&gt;&lt;SPAN class="p14 ft2"&gt;stycket och har inte inom sex veckor därefter i understödsförenings-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=12 class="tr5 td61"&gt;&lt;SPAN class="p14 ft2"&gt;registret införts uppgift om att föreningen trätt i likvidation, ska rätten på&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=12 class="tr11 td61"&gt;&lt;SPAN class="p14 ft2"&gt;anmälan av Finansinspektionen och efter föreningens hörande förklara att&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=8 class="tr5 td34"&gt;&lt;SPAN class="p14 ft2"&gt;föreningen ska träda i likvidation.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td59"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td51"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td52"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=8 class="tr5 td34"&gt;&lt;SPAN class="p104 ft2"&gt;Bestämmelserna i 44 § lagen om&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td64"&gt;&lt;SPAN class="p95 ft2"&gt;Bestämmelserna i 44 § lagen om&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=8 class="tr11 td34"&gt;&lt;SPAN class="p14 ft2"&gt;understödsföreningar ska tillämpas&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr11 td64"&gt;&lt;SPAN class="p32 ft2"&gt;understödsföreningar ska tillämpas&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td53"&gt;&lt;SPAN class="p14 ft2"&gt;vid&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td65"&gt;&lt;SPAN class="p14 ft2"&gt;rättens&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td74"&gt;&lt;SPAN class="p105 ft7"&gt;handläggning&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td58"&gt;&lt;SPAN class="p104 ft2"&gt;av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td59"&gt;&lt;SPAN class="p14 ft2"&gt;vid rättens&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td29"&gt;&lt;SPAN class="p95 ft2"&gt;handläggning&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td52"&gt;&lt;SPAN class="p95 ft2"&gt;av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td48"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr6 td37"&gt;&lt;SPAN class="p14 ft2"&gt;en anmälan enligt &lt;SPAN class="ft3"&gt;fjärde &lt;/SPAN&gt;stycket.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td58"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr6 td64"&gt;&lt;SPAN class="p14 ft2"&gt;en anmälan enligt &lt;SPAN class="ft3"&gt;tredje &lt;/SPAN&gt;stycket.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr22 td48"&gt;&lt;SPAN class="p106 ft2"&gt;14&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr22 td73"&gt;&lt;SPAN class="p14 ft39"&gt;&lt;SPAN class="ft38"&gt;1 &lt;/SPAN&gt;Senaste lydelse 2017:1118.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr22 td57"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr22 td58"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr22 td59"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr22 td50"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr22 td51"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr22 td52"&gt;&lt;SPAN class="p14 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_15"&gt;
+&lt;DIV id="p15dimg1"&gt;
+&lt;INGENBILD zsrc="H6036715x1.jpg/" id="p15img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV class="dclr"&gt;&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p39 ft2"&gt;Denna lag träder i kraft den 1 juli 2019.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p92 ft4"&gt;Prop. 2018/19:67 Bilaga 2&lt;/P&gt;
+&lt;P class="p93 ft2"&gt;15&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_16"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p107 ft4"&gt;Prop. 2018/19:67 Bilaga 3&lt;/P&gt;
+&lt;P class="p108 ft2"&gt;16&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p39 ft1"&gt;Förteckning över remissinstanserna&lt;/P&gt;
+&lt;P class="p109 ft2"&gt;Följande remissinstanser har lämnat synpunkter: Arbetsgivarverket, Bokföringsnämnden, Bolagsverket, FAR, Finansinspektionen, Juridiska fakultetsnämnden vid Stockholms universitet, Konkurrensverket, Konsumentverket, Pensionsmyndigheten, Revisorsinspektionen, Skatteverket, Statens tjänstepensionsverk (SPV), Svensk Försäkring, Svenskt Näringsliv, Sveriges advokatsamfund, Sveriges Kommuner och Landsting, och Tjänstepensionsförbundet.&lt;/P&gt;
+&lt;P class="p110 ft6"&gt;Därutöver har yttrande inkommit från Advokatfirma Dahlgren &amp; Partners och Kåpan pensioner försäkringsförening (Kåpan Pensioner).&lt;/P&gt;
+&lt;P class="p111 ft6"&gt;Följande remissinstanser har inte svarat eller angett att de avstår från att lämna några synpunkter: Finansförbundet, Förhandlings- och samverkansrådet PTK, Försäkringsjuridiska föreningen, Konsumenternas försäkringsbyrå, Landsorganisationen i Sverige (LO), Svenska Aktuarieföreningen, Svenska försäkringsförmedlares förening, Sveriges akademikers centralorganisation (Saco) och Tjänstemännens centralorganisation (TCO).&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_17"&gt;
+&lt;DIV id="p17dimg1"&gt;
+&lt;INGENBILD zsrc="H6036717x1.jpg/" id="p17img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p39 ft1"&gt;Finansdepartementet&lt;/P&gt;
+&lt;P class="p112 ft2"&gt;Utdrag ur protokoll vid regeringssammanträde den 21 mars 2019&lt;/P&gt;
+&lt;P class="p113 ft6"&gt;Närvarande: statsrådet Wallström, ordförande, och statsråden Lövin, M Johansson, Baylan, Hultqvist, Andersson, Bolund, Damberg, Strandhäll, Shekarabi, Ygeman, Linde, Ekström, Eneroth, Nilsson, Ernkrans, Lindhagen, Lind&lt;/P&gt;
+&lt;P class="p114 ft2"&gt;Föredragande: statsrådet Bolund&lt;/P&gt;
+&lt;P class="p115 ft4"&gt;Regeringen beslutar proposition Ytterligare förlängd övergångsperiod för understödsföreningar&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p39 ft2"&gt;Prop. 2018/19:67&lt;/P&gt;
+&lt;P class="p40 ft2"&gt;17&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+
+&lt;/div&gt;&lt;style&gt;
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+&lt;/style&gt;
+</html>
+  </dokument>
+<dokforslag>
+<forslag>
+<nummer datatype="int32">1</nummer>
+<beteckning datatype="string">1</beteckning>
+<lydelse datatype="string">Riksdagen antar regeringens förslag till lag om ändring i lagen (2010:2044) om införande av försäkringsrörelselagen (2010:2043).</lydelse>
+<lydelse2 datatype="string" />
+<utskottet datatype="string">Bifall</utskottet>
+<kammaren datatype="string">Bifall</kammaren>
+<behandlas_i datatype="string">2018/19:FiU39</behandlas_i>
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string">FiU</intressent>
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+</dokforslag>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">INL</kod>
+<namn datatype="string">Inlämnad</namn>
+<datum datatype="datetime">2019-03-26 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">B</kod>
+<namn datatype="string">Bordlagd</namn>
+<datum datatype="datetime">2019-03-26 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">HÄN</kod>
+<namn datatype="string">Hänvisad</namn>
+<datum datatype="datetime">2019-03-27 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">MOT</kod>
+<namn datatype="string">Motionstid slutar</namn>
+<datum datatype="datetime">2019-04-10 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+</dokaktivitet>
+<dokintressent>
+<intressent>
+<intressent_id datatype="string">0740457070816</intressent_id>
+<namn datatype="string">Margot Wallström</namn>
+<partibet datatype="string">S</partibet>
+<ordning datatype="int16">1</ordning>
+<roll datatype="string">Statsråd1</roll>
+</intressent>
+<intressent>
+<intressent_id datatype="string">0956444284814</intressent_id>
+<namn datatype="string">Per Bolund</namn>
+<partibet datatype="string">MP</partibet>
+<ordning datatype="int16">2</ordning>
+<roll datatype="string">Statsråd2</roll>
+</intressent>
+</dokintressent>
+<dokuppgift>
+<uppgift>
+<kod datatype="string">inlamnatav</kod>
+<namn datatype="string">Inlämnat av</namn>
+<text datatype="string">Finansdepartementet</text>
+<dok_id datatype="string">H60367</dok_id>
+<systemdatum datatype="datetime">2019-05-16 16:21:10</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">tilldelat</kod>
+<namn datatype="string">Tilldelat</namn>
+<text datatype="string">Finansutskottet</text>
+<dok_id datatype="string">H60367</dok_id>
+<systemdatum datatype="datetime">2019-05-16 16:21:10</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">statustext</kod>
+<namn datatype="string">statustext</namn>
+<text datatype="string">Propositionen bereds i utskott</text>
+<dok_id datatype="string">H60367</dok_id>
+<systemdatum datatype="datetime">2019-03-27 14:22:24</systemdatum>
+</uppgift>
+</dokuppgift>
+<dokbilaga>
+<bilaga>
+<dok_id datatype="string">H60367</dok_id>
+<titel datatype="string">Ytterligare förlängd övergångsperiod för understödsföreningar</titel>
+<subtitel datatype="string" />
+<filnamn datatype="string">prop_201819__67.pdf</filnamn>
+<filstorlek datatype="int32">212269</filstorlek>
+<filtyp datatype="string">pdf</filtyp>
+<fil_url datatype="string">http://data.riksdagen.se/fil/7EFF7C45-1FC9-4480-A23E-446BC450909F</fil_url>
+</bilaga>
+</dokbilaga>
+<dokreferens>
+<referens>
+<referenstyp datatype="string">behandlas_i</referenstyp>
+<uppgift datatype="string">2018/19:FiU39</uppgift>
+<ref_dok_id datatype="string">H601FiU39</ref_dok_id>
+<ref_dok_typ datatype="string">bet</ref_dok_typ>
+<ref_dok_rm datatype="string">2018/19</ref_dok_rm>
+<ref_dok_bet datatype="string">FiU39</ref_dok_bet>
+<ref_dok_titel datatype="string">Ytterligare förlängd övergångsperiod för understödsföreningar</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">bet</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Betänkande</ref_dok_dokumentnamn>
+</referens>
+</dokreferens>
+<debatt /></dokumentstatus>

@@ -1,0 +1,171 @@
+{
+  "person": {
+    "hangar_guid": "a4243291-34ea-44ba-89d4-748ed79ffe34",
+    "sourceid": "df7d5f9d-c82d-42f0-a90d-e8a510adf25d",
+    "intressent_id": "0173299755202",
+    "hangar_id": "2341933",
+    "fodd_ar": "1936",
+    "kon": "kvinna",
+    "efternamn": "Elm",
+    "tilltalsnamn": "Ingegerd",
+    "sorteringsnamn": "Elm,Ingegerd",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Avliden  1992-01-20",
+    "person_url_xml": "http://data.riksdagen.se/person/df7d5f9d-c82d-42f0-a90d-e8a510adf25d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/df7d5f9d-c82d-42f0-a90d-e8a510adf25d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/df7d5f9d-c82d-42f0-a90d-e8a510adf25d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/df7d5f9d-c82d-42f0-a90d-e8a510adf25d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "105",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "1992-01-10",
+          "tom": "1992-01-20",
+          "uppgift": "Martin Nilsson 1992-01-10 - 1992-02-29",
+          "intressent_id": "0173299755202",
+          "hangar_id": "2341933",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "105",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1992-01-09",
+          "uppgift": "",
+          "intressent_id": "0173299755202",
+          "hangar_id": "2341933",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "109",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0173299755202",
+          "hangar_id": "2341933",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0173299755202",
+          "hangar_id": "2341933",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0173299755202",
+          "hangar_id": "2341933",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0173299755202",
+          "hangar_id": "2341933",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-09-30",
+          "tom": "1992-01-20",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0173299755202",
+          "hangar_id": "2341933",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-11-07",
+          "tom": "1991-09-29",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0173299755202",
+          "hangar_id": "2341933",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "kontorist",
+          "typ": "titlar",
+          "intressent_id": "0173299755202",
+          "hangar_id": "2341933"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0173299755202",
+          "hangar_id": "2341933"
+        }
+      ]
+    }
+  }
+}

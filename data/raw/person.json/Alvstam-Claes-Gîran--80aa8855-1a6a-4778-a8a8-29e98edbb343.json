@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "998549a6-f118-4342-8f93-08df96165549",
+    "sourceid": "80aa8855-1a6a-4778-a8a8-29e98edbb343",
+    "intressent_id": "",
+    "hangar_id": "4788788",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Alvstam",
+    "tilltalsnamn": "Claes-Göran",
+    "sorteringsnamn": "Alvstam,Claes-Göran",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ledamot i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/80aa8855-1a6a-4778-a8a8-29e98edbb343",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/80aa8855-1a6a-4778-a8a8-29e98edbb343_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/80aa8855-1a6a-4778-a8a8-29e98edbb343_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/80aa8855-1a6a-4778-a8a8-29e98edbb343_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RJ",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "8",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2006-11-01",
+        "tom": "2010-10-31",
+        "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+        "intressent_id": "",
+        "hangar_id": "4788788",
+        "sortering": "30",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

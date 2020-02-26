@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "8b156264-775b-4585-b6b1-6e4c486209b4",
+    "sourceid": "706f50ea-f86a-4e4b-8305-bb9210c8d1c5",
+    "intressent_id": "0464765884818",
+    "hangar_id": "2342612",
+    "fodd_ar": "1950",
+    "kon": "man",
+    "efternamn": "Hansson",
+    "tilltalsnamn": "Bengt-Göran",
+    "sorteringsnamn": "Hansson,Bengt-Göran",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Skåne läns södra",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/706f50ea-f86a-4e4b-8305-bb9210c8d1c5",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/706f50ea-f86a-4e4b-8305-bb9210c8d1c5_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/706f50ea-f86a-4e4b-8305-bb9210c8d1c5_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/706f50ea-f86a-4e4b-8305-bb9210c8d1c5_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "JuU",
+        "roll_kod": "Suppleant",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "uppdrag",
+        "from": "2000-01-26",
+        "tom": "2000-04-20",
+        "uppgift": "Justitieutskottet",
+        "intressent_id": "0464765884818",
+        "hangar_id": "2342612",
+        "sortering": "50",
+        "organ_sortering": "150",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

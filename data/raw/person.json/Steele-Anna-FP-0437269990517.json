@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "084365b5-dcc3-4a37-814f-c6b41f6f31e1",
+    "sourceid": "cbf02cb4-c2b8-48f1-a478-17ee58910031",
+    "intressent_id": "0437269990517",
+    "hangar_id": "2343083",
+    "fodd_ar": "1959",
+    "kon": "kvinna",
+    "efternamn": "Steele",
+    "tilltalsnamn": "Anna",
+    "sorteringsnamn": "Steele,Anna",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "Stockholms län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/cbf02cb4-c2b8-48f1-a478-17ee58910031",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cbf02cb4-c2b8-48f1-a478-17ee58910031_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cbf02cb4-c2b8-48f1-a478-17ee58910031_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cbf02cb4-c2b8-48f1-a478-17ee58910031_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "145",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2013-01-23",
+          "tom": "2014-09-29",
+          "uppgift": "Erik Ullenhag",
+          "intressent_id": "0437269990517",
+          "hangar_id": "2343083",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "145",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-06",
+          "tom": "2013-01-22",
+          "uppgift": "Nyamko Sabuni",
+          "intressent_id": "0437269990517",
+          "hangar_id": "2343083",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "24",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-10-16",
+          "tom": "2014-09-29",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0437269990517",
+          "hangar_id": "2343083",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "18",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-19",
+          "tom": "2012-10-04",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0437269990517",
+          "hangar_id": "2343083",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0437269990517",
+          "hangar_id": "2343083",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-10-01",
+          "tom": "2014-09-29",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0437269990517",
+          "hangar_id": "2343083",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0437269990517",
+          "hangar_id": "2343083",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Resebyråtjänsteman/företagare",
+          "typ": "titlar",
+          "intressent_id": "0437269990517",
+          "hangar_id": "2343083"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0437269990517",
+          "hangar_id": "2343083"
+        }
+      ]
+    }
+  }
+}

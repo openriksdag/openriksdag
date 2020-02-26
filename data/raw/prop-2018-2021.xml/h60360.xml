@@ -1,0 +1,2093 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5023523</hangar_id>
+    <dok_id datatype="string">H60360</dok_id>
+    <rm datatype="string">2018/19</rm>
+    <beteckning datatype="string">60</beteckning>
+    <typ datatype="string">prop</typ>
+    <subtyp datatype="string">prop</subtyp>
+    <doktyp datatype="string">prop</doktyp>
+    <typrubrik datatype="string">Proposition 2018/19:60</typrubrik>
+    <dokumentnamn datatype="string">Proposition</dokumentnamn>
+    <debattnamn datatype="string">Proposition</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">Justitiedepartementet</organ>
+    <mottagare datatype="string">JuU</mottagare>
+    <nummer datatype="int32">60</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2019-03-05 00:00:00</datum>
+    <systemdatum datatype="datetime">2019-05-02 17:57:36</systemdatum>
+    <publicerad datatype="datetime">2019-03-05 00:00:00</publicerad>
+    <titel datatype="string">Högsta domstolens sammansättning i utlämningsärenden</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">Klar</status>
+    <htmlformat datatype="string">html-ec</htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">prop-RIM</source>
+    <sourceid datatype="string">f55cb203-9470-4a4d-856a-206bfd3e901a</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H60360/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H60360</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H60360</dokumentstatus_url_xml>
+    <html datatype="text">&lt;div style="margin:3px;"&gt;
+&lt;STYLE type="text/css"&gt;
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:10px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_1 #p1dimg1 {position:absolute;top:0px;left:546px;z-index:-1;width:54px;height:97px;}
+#page_1 #p1dimg1 #p1img1 {width:54px;height:97px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_2 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_2 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_4 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_4 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:14px 0px 20px 10px ;padding: 0px;border: none;width: 676px;}
+
+#page_5 #p5dimg1 {position:absolute;top:220px;left:0px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_5 #p5dimg1 #p5img1 {width:123px;height:1px;}
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:13px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_7 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_7 #id_2 {float:left;border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+#page_8 #p8dimg1 {position:absolute;top:259px;left:105px;z-index:-1;width:394px;height:54px;}
+#page_8 #p8dimg1 #p8img1 {width:394px;height:54px;}
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_9 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_9 #id_2 {float:left;border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 180px;overflow: hidden;}
+
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 586px;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:14px 0px 20px 10px ;padding: 0px;border: none;width: 631px;}
+
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+#page_13 #p13dimg1 {position:absolute;top:328px;left:63px;z-index:-1;width:393px;height:69px;}
+#page_13 #p13dimg1 #p13img1 {width:393px;height:69px;}
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:13px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+#page_14 #p14dimg1 {position:absolute;top:49px;left:105px;z-index:-1;width:394px;height:115px;}
+#page_14 #p14dimg1 #p14img1 {width:394px;height:115px;}
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:14px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_17 #id_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_17 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 180px;overflow: hidden;}
+
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 631px;}
+#page_18 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_18 #id_2 {float:left;border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+
+
+
+
+
+#page_19 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_19 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_19 #id_1 #id_1_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_19 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_19 #id_2 {border:none;z:b;margin:18px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+
+
+
+
+#page_20 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_20 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+#page_20 #id_1 #id_1_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_20 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+#page_20 #id_2 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+#page_20 #id_2 #id_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+#page_20 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 360px;overflow: hidden;}
+#page_20 #id_3 {border:none;z:b;margin:9px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+
+#page_20 #p20dimg1 {position:absolute;top:218px;left:168px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_20 #p20dimg1 #p20img1 {width:123px;height:1px;}
+
+
+
+
+#page_21 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_21 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_21 #id_1 #id_1_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_21 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_21 #id_2 {border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+
+
+
+
+
+#page_22 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_22 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+#page_22 #id_1 #id_1_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_22 #id_1 #id_1_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+#page_22 #id_2 {border:none;z:b;margin:10px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+
+
+
+
+
+#page_23 {position:relative; overflow: hidden;z:b;margin:15px 0px 20px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_23 #p23dimg1 {position:absolute;top:248px;left:63px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_23 #p23dimg1 #p23img1 {width:123px;height:1px;}
+
+
+
+
+#page_24 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_24 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_24 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_25 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_25 #p25dimg1 {position:absolute;top:237px;left:63px;z-index:-1;width:112px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_25 #p25dimg1 #p25img1 {width:112px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  18px 'Verdana' !important;l-h: 32px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft2{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft3{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft4{font:  12px 'Verdana' !important;l-h: 17px;}
+.ft5{font: italic  12px 'Verdana' !important;l-h: 17px;}
+.ft6{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft7{font:  12px 'Verdana' !important;margin-left: 32px;l-h: 15px;}
+.ft8{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft9{font:  14px 'Verdana' !important;margin-left: 50px;l-h: 26px;}
+.ft10{font:  14px 'Verdana' !important;l-h: 26px;}
+.ft11{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft12{font:  10px 'Verdana' !important;l-h: 12px;position: relative; bottom: 5px;}
+.ft13{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 15px;}
+.ft14{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 16px;}
+.ft15{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft16{font: italic  12px 'Verdana' !important;l-h: 14px;}
+.ft17{font: italic  12px 'Verdana' !important;l-h: 14px;}
+.ft18{font:  10px 'Verdana' !important;l-h: 14px;}
+.ft19{font:  10px 'Verdana' !important;l-h: 6px;}
+.ft20{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 14px;}
+.ft21{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft22{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft23{font: italic  12px 'Verdana' !important;margin-left: 4px;l-h: 17px;}
+.ft24{font:  10px 'Verdana' !important;l-h: 8px;position: relative; bottom: 4px;}
+.ft25{font:  14px 'Verdana' !important;l-h: 20px;}
+.ft26{font:  10px 'Verdana' !important;l-h: 4px;}
+.ft27{font: italic  12px 'Verdana' !important;l-h: 16px;}
+.ft28{font:  14px 'Verdana' !important;margin-left: 50px;l-h: 25px;}
+.ft29{font:  14px 'Verdana' !important;l-h: 25px;}
+.ft30{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft31{font:  14px 'Verdana' !important;margin-left: 39px;l-h: 19px;}
+.ft32{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft33{font:  12px 'Verdana' !important;margin-left: 10px;l-h: 16px;}
+.ft34{font:  14px 'Verdana' !important;margin-left: 39px;l-h: 22px;}
+.ft35{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft36{font: bold  12px 'Verdana' !important;l-h: 16px;}
+.ft37{font:  10px 'Verdana' !important;l-h: 8px;}
+.ft38{font:  10px 'Verdana' !important;l-h: 9px;}
+.ft39{font:  10px 'Verdana' !important;l-h: 2px;}
+.ft40{font:  10px 'Verdana' !important;l-h: 3px;}
+.ft41{font:  10px 'Verdana' !important;l-h: 6px;}
+.ft42{font: bold  12px 'Verdana' !important;l-h: 18px;}
+.ft43{font:  12px 'Verdana' !important;l-h: 18px;}
+.ft44{font: bold  12px 'Verdana' !important;l-h: 17px;}
+.ft45{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft46{font: bold  12px 'Verdana' !important;margin-left: 4px;l-h: 15px;}
+.ft47{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft48{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft49{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 14px;}
+.ft50{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 15px;}
+.ft51{font:  12px 'Verdana' !important;l-h: 11px;}
+.ft52{font:  10px 'Verdana' !important;l-h: 11px;}
+.ft53{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 15px;}
+.ft54{font: italic  12px 'Verdana' !important;l-h: 13px;}
+.ft55{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 14px;}
+.ft56{font:  12px 'Verdana' !important;l-h: 13px;}
+.ft57{font:  12px 'Verdana' !important;l-h: 17px;}
+.ft58{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 13px;}
+.ft59{font: italic  12px 'Verdana' !important;margin-left: 4px;l-h: 15px;}
+.ft60{font: bold  12px 'Verdana' !important;margin-left: 3px;l-h: 17px;}
+.ft61{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 15px;}
+.ft62{font: italic  12px 'Verdana' !important;margin-left: 3px;l-h: 17px;}
+.ft63{font: italic  12px 'Verdana' !important;margin-left: 4px;l-h: 16px;}
+.ft64{font:  12px 'Verdana' !important;text-decoration: underline;l-h: 15px;}
+
+.p0{text-align: left;padding-left: 0px;padding-right: 420px;margin-top: 22px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p4{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 0px;margin-top: 32px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 180px;padding-right: 378px;margin-top: 19px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 0px;margin-top: 47px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 27px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p10{text-align: left;padding-left: 0px;margin-top: 4px;margin-bottom: 0px !important;}
+.p11{text-align: right;padding-right: 42px;margin-top: 213px;margin-bottom: 0px !important;}
+.p12{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p13{text-align: left;margin-top: 752px;margin-bottom: 0px !important;}
+.p14{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p15{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p17{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p18{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p19{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p20{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p21{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p22{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p23{text-align: right;padding-right: 42px;margin-top: 679px;margin-bottom: 0px !important;}
+.p24{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p25{text-align: left;padding-right: 63px;margin-top: 11px;margin-bottom: 0px !important;text-indent: 11px;}
+.p26{text-align: left;margin-top: 12px;margin-bottom: 0px !important;}
+.p27{text-align: left;padding-left: 140px;margin-top: 12px;margin-bottom: 0px !important;}
+.p28{text-align: left;padding-left: 160px;margin-top: 3px;margin-bottom: 0px !important;}
+.p29{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p30{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p31{text-align: right;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p32{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p33{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p34{text-align: left;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p35{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p36{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p37{text-align: left;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p38{text-align: left;padding-left: 180px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p39{text-align: left;margin-top: 68px;margin-bottom: 0px !important;}
+.p40{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p41{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p42{text-align: right;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p43{text-align: left;padding-left: 180px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p44{text-align: left;padding-left: 0px;margin-top: 26px;margin-bottom: 0px !important;}
+.p45{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p46{text-align: left;padding-left: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p47{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 6px;margin-bottom: 0px !important;}
+.p48{text-align: left;padding-left: 140px;padding-right: 84px;margin-top: 43px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p49{text-align: left;padding-left: 0px;margin-top: 11px;margin-bottom: 0px !important;}
+.p50{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p51{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;}
+.p52{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p53{text-align: left;margin-top: 5px;margin-bottom: 0px !important;}
+.p54{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p55{text-align: left;padding-right: 0px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p56{text-align: left;padding-right: 0px;margin-top: 8px;margin-bottom: 0px !important;text-indent: 11px;}
+.p57{text-align: left;margin-top: 11px;margin-bottom: 0px !important;}
+.p58{text-align: left;padding-right: 0px;margin-top: 4px;margin-bottom: 0px !important;}
+.p59{text-align: left;padding-right: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p60{text-align: left;padding-right: 0px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p61{text-align: right;padding-right: 42px;margin-top: 752px;margin-bottom: 0px !important;}
+.p62{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p63{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p64{text-align: left;padding-left: 140px;padding-right: 84px;margin-top: 29px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p65{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 8px;margin-bottom: 0px !important;}
+.p66{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 6px;margin-bottom: 0px !important;}
+.p67{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;}
+.p68{text-align: left;padding-left: 0px;margin-top: 14px;margin-bottom: 0px !important;}
+.p69{text-align: left;padding-left: 0px;margin-top: 5px;margin-bottom: 0px !important;}
+.p70{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;}
+.p71{text-align: left;margin-top: 13px;margin-bottom: 0px !important;}
+.p72{text-align: left;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;}
+.p73{text-align: left;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p74{text-align: left;padding-right: 1px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p75{text-align: left;padding-right: 1px;margin-top: 19px;margin-bottom: 0px !important;text-indent: 11px;}
+.p76{text-align: left;padding-right: 1px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p77{text-align: left;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p78{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p79{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p80{text-align: left;padding-left: 0px;margin-top: 12px;margin-bottom: 0px !important;}
+.p81{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;}
+.p82{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 39px;margin-bottom: 0px !important;text-indent: 11px;}
+.p83{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p84{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 6px;margin-bottom: 0px !important;}
+.p85{text-align: left;margin-top: 40px;margin-bottom: 0px !important;}
+.p86{text-align: left;padding-right: 105px;margin-top: 1px;margin-bottom: 0px !important;}
+.p87{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p88{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p89{text-align: right;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p90{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p91{text-align: right;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p92{text-align: left;padding-left: 0px;padding-right: 6px;margin-top: 0px;margin-bottom: 0px !important;}
+.p93{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;}
+.p94{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p95{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 50px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p96{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 11px;margin-bottom: 0px !important;}
+.p97{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p98{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p99{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p100{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p101{text-align: right;margin-top: 89px;margin-bottom: 0px !important;}
+.p102{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 25px;margin-bottom: 0px !important;}
+.p103{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;}
+.p104{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p105{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p106{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 11px;}
+.p107{text-align: left;padding-left: 0px;margin-top: 45px;margin-bottom: 0px !important;}
+.p108{text-align: left;padding-left: 0px;margin-top: 14px;margin-bottom: 0px !important;}
+.p109{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p110{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;}
+.p111{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p112{text-align: left;margin-top: 3px;margin-bottom: 0px !important;}
+.p113{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p114{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p115{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p116{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p117{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p118{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 5px;margin-bottom: 0px !important;}
+.p119{text-align: left;padding-left: 0px;margin-top: 7px;margin-bottom: 0px !important;}
+.p120{text-align: left;padding-left: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p121{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;}
+.p122{text-align: right;padding-right: 42px;margin-top: 21px;margin-bottom: 0px !important;}
+.p123{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p124{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p125{text-align: left;padding-left: 0px;margin-top: 5px;margin-bottom: 0px !important;}
+.p126{text-align: left;margin-top: 553px;margin-bottom: 0px !important;}
+.p127{text-align: left;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p128{text-align: left;margin-top: 8px;margin-bottom: 0px !important;}
+.p129{text-align: left;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p130{text-align: left;margin-top: 13px;margin-bottom: 0px !important;text-indent: 11px;}
+.p131{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p132{text-align: left;padding-left: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p133{text-align: right;padding-right: 42px;margin-top: 737px;margin-bottom: 0px !important;}
+.p134{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p135{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p136{text-align: left;margin-top: 738px;margin-bottom: 0px !important;}
+.p137{text-align: left;margin-top: 17px;margin-bottom: 0px !important;}
+.p138{text-align: left;padding-left: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p139{text-align: left;padding-left: 160px;padding-right: 189px;margin-top: 15px;margin-bottom: 0px !important;text-indent: 0.9px;}
+.p140{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p141{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p142{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p143{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p144{text-align: left;margin-top: 2px;margin-bottom: 0px !important;}
+.p145{text-align: left;padding-left: 160px;margin-top: 0px;margin-bottom: 0px !important;}
+.p146{text-align: left;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;}
+.p147{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p148{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p149{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p150{text-align: left;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 12px;}
+.p151{text-align: left;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 12px;}
+.p152{text-align: right;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;}
+.p153{text-align: left;padding-left: 0px;margin-top: 522px;margin-bottom: 0px !important;}
+.p154{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p155{text-align: right;margin-top: 587px;margin-bottom: 0px !important;}
+.p156{text-align: left;margin-top: 33px;margin-bottom: 0px !important;}
+.p157{text-align: left;padding-right: 63px;margin-top: 13px;margin-bottom: 0px !important;text-indent: 11px;}
+.p158{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p159{text-align: left;padding-left: 260px;margin-top: 12px;margin-bottom: 0px !important;}
+.p160{text-align: left;padding-left: 280px;margin-top: 2px;margin-bottom: 0px !important;}
+.p161{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p162{text-align: left;padding-left: 300px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p163{text-align: left;padding-left: 0px;margin-top: 26px;margin-bottom: 0px !important;}
+.p164{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;}
+.p165{text-align: left;padding-left: 440px;margin-top: 1px;margin-bottom: 0px !important;}
+.p166{text-align: left;padding-left: 220px;margin-top: 0px;margin-bottom: 0px !important;}
+.p167{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p168{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 0px;margin-bottom: 0px !important;}
+.p169{text-align: left;padding-left: 240px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p170{text-align: left;padding-left: 0px;margin-top: 29px;margin-bottom: 0px !important;}
+.p171{text-align: left;margin-top: 18px;margin-bottom: 0px !important;}
+.p172{text-align: left;padding-right: 84px;margin-top: 15px;margin-bottom: 0px !important;}
+.p173{text-align: left;margin-top: 10px;margin-bottom: 0px !important;}
+.p174{text-align: left;padding-right: 63px;margin-top: 16px;margin-bottom: 0px !important;}
+.p175{text-align: left;margin-top: 16px;margin-bottom: 0px !important;}
+.p176{text-align: left;padding-left: 440px;margin-top: 0px;margin-bottom: 0px !important;}
+.p177{text-align: left;padding-left: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p178{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p179{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p180{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 76px;margin-bottom: 0px !important;}
+.p181{text-align: right;padding-right: 42px;margin-top: 451px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 365px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 161px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 365px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 161px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 6px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 397px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 55px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 342px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 325px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 16px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 35px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 344px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 14px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 380px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 52px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 396px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 36px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 389px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 97px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 214px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 198px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 82px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 48px;vertical-align: bottom;}
+.td23{padding: 0px;margin: 0px;width: 165px;vertical-align: bottom;}
+.td24{padding: 0px;margin: 0px;width: 109px;vertical-align: bottom;}
+.td25{padding: 0px;margin: 0px;width: 38px;vertical-align: bottom;}
+.td26{padding: 0px;margin: 0px;width: 139px;vertical-align: bottom;}
+.td27{padding: 0px;margin: 0px;width: 123px;vertical-align: bottom;}
+.td28{padding: 0px;margin: 0px;width: 523px;vertical-align: bottom;}
+.td29{padding: 0px;margin: 0px;width: 400px;vertical-align: bottom;}
+.td30{padding: 0px;margin: 0px;width: 363px;vertical-align: bottom;}
+.td31{padding: 0px;margin: 0px;width: 324px;vertical-align: bottom;}
+.td32{padding: 0px;margin: 0px;width: 184px;vertical-align: bottom;}
+.td33{padding: 0px;margin: 0px;width: 30px;vertical-align: bottom;}
+.td34{padding: 0px;margin: 0px;width: 148px;vertical-align: bottom;}
+.td35{padding: 0px;margin: 0px;width: 67px;vertical-align: bottom;}
+.td36{padding: 0px;margin: 0px;width: 160px;vertical-align: bottom;}
+.td37{padding: 0px;margin: 0px;width: 323px;vertical-align: bottom;}
+.td38{padding: 0px;margin: 0px;width: 206px;vertical-align: bottom;}
+.td39{padding: 0px;margin: 0px;width: 108px;vertical-align: bottom;}
+.td40{padding: 0px;margin: 0px;width: 74px;vertical-align: bottom;}
+.td41{padding: 0px;margin: 0px;width: 349px;vertical-align: bottom;}
+.td42{padding: 0px;margin: 0px;width: 424px;vertical-align: bottom;}
+.td43{padding: 0px;margin: 0px;width: 426px;vertical-align: bottom;}
+.td44{padding: 0px;margin: 0px;width: 39px;vertical-align: bottom;}
+.td45{padding: 0px;margin: 0px;width: 373px;vertical-align: bottom;}
+.td46{padding: 0px;margin: 0px;width: 116px;vertical-align: bottom;}
+.td47{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 413px;vertical-align: bottom;}
+.td48{border-left: #000000 1px solid;border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 411px;vertical-align: bottom;}
+.td49{border-left: #000000 1px solid;border-right: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 411px;vertical-align: bottom;}
+.td50{padding: 0px;margin: 0px;width: 413px;vertical-align: bottom;}
+.td51{padding: 0px;margin: 0px;width: 126px;vertical-align: bottom;}
+.td52{padding: 0px;margin: 0px;width: 412px;vertical-align: bottom;}
+.td53{padding: 0px;margin: 0px;width: 254px;vertical-align: bottom;}
+.td54{padding: 0px;margin: 0px;width: 215px;vertical-align: bottom;}
+.td55{padding: 0px;margin: 0px;width: 197px;vertical-align: bottom;}
+.td56{padding: 0px;margin: 0px;width: 84px;vertical-align: bottom;}
+.td57{padding: 0px;margin: 0px;width: 166px;vertical-align: bottom;}
+.td58{padding: 0px;margin: 0px;width: 12px;vertical-align: bottom;}
+.td59{padding: 0px;margin: 0px;width: 49px;vertical-align: bottom;}
+.td60{padding: 0px;margin: 0px;width: 319px;vertical-align: bottom;}
+.td61{padding: 0px;margin: 0px;width: 211px;vertical-align: bottom;}
+
+.tr0{heightzzz: 31px;}
+.tr1{heightzzz: 25px;}
+.tr2{heightzzz: 21px;}
+.tr3{heightzzz: 22px;}
+.tr4{heightzzz: 15px;}
+.tr5{heightzzz: 16px;}
+.tr6{heightzzz: 14px;}
+.tr7{heightzzz: 19px;}
+.tr8{heightzzz: 20px;}
+.tr9{heightzzz: 18px;}
+.tr10{heightzzz: 27px;}
+.tr11{heightzzz: 23px;}
+.tr12{heightzzz: 26px;}
+.tr13{heightzzz: 4px;}
+.tr14{heightzzz: 38px;}
+.tr15{heightzzz: 8px;}
+.tr16{heightzzz: 9px;}
+.tr17{heightzzz: 17px;}
+.tr18{heightzzz: 2px;}
+.tr19{heightzzz: 3px;}
+.tr20{heightzzz: 24px;}
+.tr21{heightzzz: 6px;}
+.tr22{heightzzz: 11px;}
+.tr23{heightzzz: 28px;}
+
+.t0{width: 552px;margin-leftZ: 69px;margin-top: 5px;f:20px 'Verdana' !important;}
+.t1{width: 430px;margin-top: 17px;f:13px 'Verdana' !important;}
+.t2{width: 347px;margin-leftZ: 75px;f:13px 'Verdana' !important;}
+.t3{width: 431px;f:13px 'Verdana' !important;}
+.t4{width: 548px;margin-leftZ: 68px;f:20px 'Verdana' !important;}
+.t5{width: 432px;f:13px 'Verdana' !important;}
+.t6{width: 548px;f:13px 'Verdana' !important;}
+.t7{width: 555px;margin-top: 522px;f:7px 'Verdana' !important;}
+.t8{width: 557px;f:13px 'Verdana' !important;}
+.t9{width: 548px;f:italic 13px 'Verdana' !important;}
+.t10{width: 555px;margin-top: 32px;f:13px 'Verdana' !important;}
+.t11{width: 564px;f:13px 'Verdana' !important;}
+.t12{width: 430px;margin-leftZ: 6px;f:20px 'Verdana' !important;}
+.t13{width: 548px;margin-leftZ: 68px;f:12px 'Verdana' !important;}
+.t14{width: 432px;margin-top: 8px;f:italic 13px 'Verdana' !important;}
+.t15{width: 432px;margin-leftZ: 120px;f:13px 'Verdana' !important;}
+.t16{width: 432px;margin-leftZ: 68px;f:13px 'Verdana' !important;}
+.t17{width: 555px;margin-leftZ: 68px;margin-top: 491px;f:7px 'Verdana' !important;}
+
+&lt;/STYLE&gt;
+
+
+
+&lt;DIV id="page_1"&gt;
+&lt;DIV id="p1dimg1"&gt;
+&lt;INGENBILD zsrc="H603601x1.jpg/" id="p1img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV class="dclr"&gt;&lt;/DIV&gt;
+&lt;P class="p0 ft0"&gt;Regeringens proposition 2018/19:60&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t0"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr0 td0"&gt;&lt;SPAN class="p1 ft1"&gt;Högsta domstolens sammansättning i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td1"&gt;&lt;SPAN class="p2 ft1"&gt;Prop.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td2"&gt;&lt;SPAN class="p1 ft1"&gt;utlämningsärenden&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td3"&gt;&lt;SPAN class="p2 ft1"&gt;2018/19:60&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p3 ft2"&gt;Regeringen överlämnar denna proposition till riksdagen.&lt;/P&gt;
+&lt;P class="p4 ft2"&gt;Stockholm den 28 februari 2019&lt;/P&gt;
+&lt;P class="p5 ft3"&gt;Stefan Löfven&lt;/P&gt;
+&lt;P class="p6 ft5"&gt;Morgan Johansson &lt;SPAN class="ft4"&gt;(Justitiedepartementet)&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p7 ft1"&gt;Propositionens huvudsakliga innehåll&lt;/P&gt;
+&lt;P class="p8 ft2"&gt;Det är regeringen som beslutar i ärenden enligt utlämningslagen och i vissa ärenden enligt internationella verkställighetslagen. Om en person inte går med på att utlämnas eller verkställa sin påföljd utomlands ska ärendet dock först prövas av Högsta domstolen.&lt;/P&gt;
+&lt;P class="p9 ft2"&gt;För att effektivisera handläggningen och därmed frigöra resurser till Högsta domstolens prejudikatbildande verksamhet föreslår regeringen att ärendena om utlämning och verkställighet ska kunna prövas med färre ledamöter i rätten än i dag – minst tre i stället för minst fem ledamöter. När det gäller tvångsmedel enligt utlämningslagen ska Högsta domstolen få besluta hur många ledamöter som ska ingå i rätten.&lt;/P&gt;
+&lt;P class="p10 ft2"&gt;Lagändringarna föreslås träda i kraft den 1 juli 2019.&lt;/P&gt;
+&lt;P class="p11 ft2"&gt;1&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_2"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p12 ft2"&gt;Prop. 2018/19:60&lt;/P&gt;
+&lt;P class="p13 ft2"&gt;2&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p12 ft1"&gt;Innehållsförteckning&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t1"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td4"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_3"&gt;1&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr2 td5"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_3"&gt;Förslag till riksdagsbeslut .................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td4"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_3"&gt;3&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td4"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_4"&gt;2&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td5"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_4"&gt;Förslag till lag om ändring i rättegångsbalken ..................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td4"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_4"&gt;4&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td4"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_6"&gt;3&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td5"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_6"&gt;Ärendet och dess beredning ..............................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td4"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_6"&gt;6&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td4"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_6"&gt;4&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr2 td5"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_6"&gt;Högsta domstolens prövning av utlämningsärenden och&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td4"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td4"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td5"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_6"&gt;ärenden enligt internationella verkställighetslagen ...........................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td4"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_6"&gt;6&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td4"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_6"&gt;4.1&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td7"&gt;&lt;SPAN class="p17 ft2"&gt;&lt;A href="#page_6"&gt;Gällande regler om rättens sammansättning.......................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td4"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_6"&gt;6&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p18 ft2"&gt;&lt;SPAN class="ft2"&gt;4.2&lt;/SPAN&gt;&lt;A href="#page_8"&gt;&lt;SPAN class="ft7"&gt;Rättens sammansättning vid prövning av utlämning&lt;/SPAN&gt;&lt;/A&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t2"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td8"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_8"&gt;och ärenden enligt internationella&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td4"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td8"&gt;&lt;SPAN class="p16 ft8"&gt;&lt;A href="#page_8"&gt;verkställighetslagen............................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td4"&gt;&lt;SPAN class="p14 ft8"&gt;&lt;A href="#page_8"&gt;8&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p18 ft2"&gt;&lt;SPAN class="ft2"&gt;4.3&lt;/SPAN&gt;&lt;A href="#page_11"&gt;&lt;SPAN class="ft7"&gt;Rättens sammansättning vid prövning av tingsrättens&lt;/SPAN&gt;&lt;/A&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t3"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td9"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td10"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td11"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_11"&gt;beslut om tvångsmedel .....................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td12"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_11"&gt;11&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td9"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_13"&gt;5&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td13"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_13"&gt;Ikraftträdande- och övergångsbestämmelser...................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td12"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_13"&gt;13&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td9"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_14"&gt;6&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td13"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_14"&gt;Konsekvenser av förslagen .............................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td12"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_14"&gt;14&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td9"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_14"&gt;7&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td13"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_14"&gt;Författningskommentar...................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td12"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_14"&gt;14&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr8 td14"&gt;&lt;SPAN class="p16 ft2"&gt;Bilaga 1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td11"&gt;&lt;SPAN class="p19 ft2"&gt;&lt;A href="#page_17"&gt;Sammanfattning av promemorian Högsta&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td12"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td9"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td10"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td11"&gt;&lt;SPAN class="p19 ft2"&gt;&lt;A href="#page_17"&gt;domstolens sammansättning i utlämningsärenden&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td12"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td9"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td10"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td11"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_17"&gt;m.m...................................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td12"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_17"&gt;17&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr8 td14"&gt;&lt;SPAN class="p16 ft2"&gt;Bilaga 2&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td11"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_19"&gt;Promemorians lagförslag..................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td12"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_19"&gt;19&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr3 td14"&gt;&lt;SPAN class="p16 ft2"&gt;Bilaga 3&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td11"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_21"&gt;Förteckning över remissinstanserna .................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td12"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_21"&gt;21&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr3 td14"&gt;&lt;SPAN class="p16 ft2"&gt;Bilaga 4&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td11"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_22"&gt;Lagrådsremissens lagförslag ............................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td12"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_22"&gt;22&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr3 td14"&gt;&lt;SPAN class="p16 ft2"&gt;Bilaga 5&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td11"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_24"&gt;Lagrådets yttrande ............................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td12"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_24"&gt;24&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr2 td15"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_25"&gt;Utdrag ur protokoll vid regeringssammanträde den 28 februari&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td12"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td9"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td10"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td11"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_25"&gt;2019 .......................................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td12"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_25"&gt;25&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_3"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t4"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td16"&gt;&lt;SPAN class="p20 ft1"&gt;1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td17"&gt;&lt;SPAN class="p19 ft1"&gt;Förslag till riksdagsbeslut&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td18"&gt;&lt;SPAN class="p16 ft2"&gt;Prop. 2018/19:60&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p21 ft2"&gt;Regeringens förslag:&lt;/P&gt;
+&lt;P class="p22 ft4"&gt;Riksdagen antar regeringens förslag till lag om ändring i rättegångsbalken.&lt;/P&gt;
+&lt;P class="p23 ft2"&gt;3&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_4"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p12 ft2"&gt;Prop. 2018/19:60&lt;/P&gt;
+&lt;P class="p13 ft2"&gt;4&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p24 ft10"&gt;&lt;SPAN class="ft1"&gt;2&lt;/SPAN&gt;&lt;SPAN class="ft9"&gt;Förslag till lag om ändring i rättegångsbalken&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p25 ft4"&gt;Härigenom föreskrivs att 3 kap. 5 och 5 a §§ rättegångsbalken ska ha följande lydelse.&lt;/P&gt;
+&lt;P class="p26 ft3"&gt;Nuvarande lydelse&lt;SPAN style="padding-left:105px;"&gt;Föreslagen lydelse&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p27 ft11"&gt;3 kap.&lt;/P&gt;
+&lt;P class="p28 ft2"&gt;5 §&lt;A href="#page_4"&gt;&lt;SPAN class="ft12"&gt;1&lt;/SPAN&gt;&lt;/A&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t5"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td19"&gt;&lt;SPAN class="p29 ft2"&gt;Rätten ska, om inte annat följer&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td20"&gt;&lt;SPAN class="p14 ft2"&gt;Rätten ska, om inte &lt;SPAN class="ft3"&gt;något &lt;/SPAN&gt;annat&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td19"&gt;&lt;SPAN class="p29 ft2"&gt;av andra stycket eller 5 a § andra&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td20"&gt;&lt;SPAN class="p14 ft2"&gt;följer av andra &lt;SPAN class="ft3"&gt;eller fjärde &lt;/SPAN&gt;stycket&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td19"&gt;&lt;SPAN class="p29 ft2"&gt;stycket, bestå av minst fem&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td20"&gt;&lt;SPAN class="p14 ft2"&gt;eller 5 a § andra stycket &lt;NOBR&gt;&lt;SPAN class="ft3"&gt;1–3&lt;/SPAN&gt;,&lt;/NOBR&gt; bestå&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td19"&gt;&lt;SPAN class="p29 ft2"&gt;ledamöter vid prövning av själva&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td20"&gt;&lt;SPAN class="p30 ft2"&gt;av minst fem ledamöter vid&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td19"&gt;&lt;SPAN class="p31 ft8"&gt;saken i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td20"&gt;&lt;SPAN class="p32 ft8"&gt;prövning av själva saken i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p33 ft2"&gt;&lt;SPAN class="ft2"&gt;1.&lt;/SPAN&gt;&lt;SPAN class="ft13"&gt;mål där prövningstillstånd har beviljats av Högsta domstolen,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p33 ft2"&gt;&lt;SPAN class="ft2"&gt;2.&lt;/SPAN&gt;&lt;SPAN class="ft13"&gt;mål där Högsta domstolen är första domstolsinstans,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p34 ft15"&gt;&lt;SPAN class="ft2"&gt;3.&lt;/SPAN&gt;&lt;SPAN class="ft14"&gt;mål där talan har väckts i hovrätt och överklagande har skett till Högsta domstolen,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t5"&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr5 td19"&gt;&lt;SPAN class="p29 ft2"&gt;4. mål som har överklagats av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td20"&gt;&lt;SPAN class="p14 ft2"&gt;4. mål som har överklagats av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr4 td19"&gt;&lt;SPAN class="p29 ft2"&gt;Justitiekanslern eller av en justitie-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td20"&gt;&lt;SPAN class="p30 ft2"&gt;Justitiekanslern eller av en justitie-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td21"&gt;&lt;SPAN class="p16 ft2"&gt;ombudsman,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td21"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td22"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td20"&gt;&lt;SPAN class="p16 ft2"&gt;ombudsman, &lt;SPAN class="ft3"&gt;och&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td21"&gt;&lt;SPAN class="p35 ft2"&gt;5. ärenden&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td21"&gt;&lt;SPAN class="p16 ft2"&gt;om resning,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td22"&gt;&lt;SPAN class="p29 ft2"&gt;åter-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td20"&gt;&lt;SPAN class="p14 ft2"&gt;5. ärenden om resning, åter-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr4 td19"&gt;&lt;SPAN class="p29 ft2"&gt;ställande av försutten tid eller&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td20"&gt;&lt;SPAN class="p14 ft2"&gt;ställande av försutten tid eller&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr4 td19"&gt;&lt;SPAN class="p29 ft2"&gt;klagan över domvilla, om pröv-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td20"&gt;&lt;SPAN class="p14 ft2"&gt;klagan över domvilla, om pröv-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td23"&gt;&lt;SPAN class="p16 ft2"&gt;ningen inte är enkel&lt;SPAN class="ft3"&gt;, och&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td22"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td20"&gt;&lt;SPAN class="p16 ft2"&gt;ningen inte är enkel.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td21"&gt;&lt;SPAN class="p35 ft16"&gt;6. ärenden&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td21"&gt;&lt;SPAN class="p36 ft16"&gt;enligt&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td22"&gt;&lt;SPAN class="p29 ft17"&gt;lagen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td20"&gt;&lt;SPAN class="p16 ft18"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p12 ft3"&gt;(1957:668) om utlämning för brott.&lt;/P&gt;
+&lt;P class="p37 ft2"&gt;Om en framställning i ett mål där Högsta domstolen är första domstolsinstans inte innefattar laga skäl för talan eller det annars är uppenbart att talan är ogrundad, får rätten bestå av tre eller fyra ledamöter när dom i målet meddelas utan att stämning har utfärdats.&lt;/P&gt;
+&lt;P class="p37 ft15"&gt;När Högsta domstolen avger ett sådant yttrande som avses i 2 § lagen (1974:579) om handläggningen av nådeärenden ska rätten bestå av minst tre ledamöter.&lt;/P&gt;
+&lt;P class="p38 ft3"&gt;Det som sägs i tredje stycket gäller också vid prövning av själva saken i ärenden enligt lagen (1957:668) om utlämning för brott, om inte något annat följer av 5 a § andra stycket 4, och i ärenden enligt 34 § lagen (1972:260) om internationellt samarbete rörande verkställighet av brottmålsdom.&lt;/P&gt;
+&lt;P class="p39 ft21"&gt;&lt;SPAN class="ft19"&gt;1&lt;/SPAN&gt;&lt;SPAN class="ft20"&gt;Paragrafen fick sin nuvarande beteckning genom 2009:344.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_5"&gt;
+&lt;DIV id="p5dimg1"&gt;
+&lt;INGENBILD zsrc="H603605x1.jpg/" id="p5img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t6"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td24"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td25"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td16"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr2 td26"&gt;&lt;SPAN class="p40 ft2"&gt;5 a §&lt;A href="#page_5"&gt;&lt;SPAN class="ft12"&gt;2&lt;/SPAN&gt;&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td25"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td16"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td27"&gt;&lt;SPAN class="p14 ft2"&gt;Prop. 2018/19:60&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td28"&gt;&lt;SPAN class="p35 ft2"&gt;I andra fall än sådana som avses i 5 § beslutar Högsta domstolen för&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=7 class="tr4 td29"&gt;&lt;SPAN class="p16 ft2"&gt;varje mål eller ärende hur många ledamöter som ska ingå i rätten.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td27"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=6 class="tr4 td30"&gt;&lt;SPAN class="p35 ft2"&gt;Det som sägs i första stycket gäller även vid prövning av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td27"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=5 class="tr5 td31"&gt;&lt;SPAN class="p35 ft2"&gt;1. frågor om beviljande av prövningstillstånd i hovrätt,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td25"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td16"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td27"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr4 td32"&gt;&lt;SPAN class="p35 ft2"&gt;2. frågor om återförvisning&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td33"&gt;&lt;SPAN class="p41 ft22"&gt;av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr4 td32"&gt;&lt;SPAN class="p35 ft2"&gt;2. frågor om återförvisning&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td27"&gt;&lt;SPAN class="p42 ft22"&gt;av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td34"&gt;&lt;SPAN class="p16 ft2"&gt;mål till hovrätt, &lt;SPAN class="ft3"&gt;och&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td33"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td24"&gt;&lt;SPAN class="p16 ft2"&gt;mål till hovrätt,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td25"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td27"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td24"&gt;&lt;SPAN class="p35 ft2"&gt;3. överklagande&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td25"&gt;&lt;SPAN class="p35 ft2"&gt;av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td35"&gt;&lt;SPAN class="p41 ft2"&gt;hovrätts&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td24"&gt;&lt;SPAN class="p35 ft2"&gt;3. överklagande&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td25"&gt;&lt;SPAN class="p35 ft2"&gt;av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td36"&gt;&lt;SPAN class="p42 ft2"&gt;hovrätts&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td24"&gt;&lt;SPAN class="p16 ft2"&gt;avvisningsbeslut&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td25"&gt;&lt;SPAN class="p16 ft2"&gt;som&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p16 ft2"&gt;avses&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td33"&gt;&lt;SPAN class="p41 ft2"&gt;i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td24"&gt;&lt;SPAN class="p16 ft2"&gt;avvisningsbeslut&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td25"&gt;&lt;SPAN class="p16 ft2"&gt;som&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p16 ft2"&gt;avses&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td27"&gt;&lt;SPAN class="p42 ft2"&gt;i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td24"&gt;&lt;SPAN class="p16 ft8"&gt;54 kap. 17 §&lt;SPAN class="ft16"&gt;.&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td25"&gt;&lt;SPAN class="p16 ft18"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td16"&gt;&lt;SPAN class="p16 ft18"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td33"&gt;&lt;SPAN class="p16 ft18"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td24"&gt;&lt;SPAN class="p16 ft8"&gt;54 kap. 17 §&lt;SPAN class="ft16"&gt;, och&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td25"&gt;&lt;SPAN class="p16 ft18"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td16"&gt;&lt;SPAN class="p16 ft18"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td27"&gt;&lt;SPAN class="p16 ft18"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p43 ft5"&gt;&lt;SPAN class="ft3"&gt;4.&lt;/SPAN&gt;&lt;SPAN class="ft23"&gt;frågor om tvångsmedel enligt 16 § femte stycket lagen (1957:668) om utlämning för brott.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p44 ft2"&gt;Denna lag träder i kraft den 1 juli 2019.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t7"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td37"&gt;&lt;SPAN class="p16 ft21"&gt;&lt;SPAN class="ft24"&gt;2 &lt;/SPAN&gt;Senaste lydelse 2009:344.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td38"&gt;&lt;SPAN class="p14 ft2"&gt;5&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_6"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t8"&gt;
+&lt;TR&gt;
+	&lt;TD rowspan=2 class="tr12 td39"&gt;&lt;SPAN class="p16 ft2"&gt;Prop. 2018/19:60&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td40"&gt;&lt;SPAN class="p35 ft25"&gt;3&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td41"&gt;&lt;SPAN class="p16 ft25"&gt;Ärendet och dess beredning&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td40"&gt;&lt;SPAN class="p16 ft26"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td41"&gt;&lt;SPAN class="p16 ft26"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td39"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr14 td42"&gt;&lt;SPAN class="p35 ft2"&gt;Högsta domstolen har i en promemoria den 21 juni 2017 lämnat förslag&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td42"&gt;&lt;SPAN class="p35 ft2"&gt;till lagändringar avseende domstolens sammansättning i utlämnings-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td39"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td42"&gt;&lt;SPAN class="p35 ft2"&gt;ärenden m.m. (Ju2017/05650/DOM). En sammanfattning av promemorian&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td39"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td42"&gt;&lt;SPAN class="p35 ft2"&gt;finns i &lt;SPAN class="ft3"&gt;bilaga 1 &lt;/SPAN&gt;och promemorians lagförslag finns i &lt;SPAN class="ft3"&gt;bilaga 2. &lt;/SPAN&gt;Prome-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td42"&gt;&lt;SPAN class="p35 ft2"&gt;morian har remissbehandlats. En förteckning över remissinstanserna finns&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td39"&gt;&lt;SPAN class="p16 ft18"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td40"&gt;&lt;SPAN class="p35 ft16"&gt;&lt;SPAN class="ft8"&gt;i &lt;/SPAN&gt;bilaga 3.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td41"&gt;&lt;SPAN class="p40 ft8"&gt;Remissyttrandena finns tillgängliga i Justitiedepartementet&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p45 ft2"&gt;(Ju2017/05650/DOM).&lt;/P&gt;
+&lt;P class="p46 ft3"&gt;Lagrådet&lt;/P&gt;
+&lt;P class="p47 ft15"&gt;Regeringen beslutade den 30 augusti 2018 att inhämta Lagrådets yttrande över det lagförslag som finns i &lt;SPAN class="ft27"&gt;bilaga 4&lt;/SPAN&gt;. Lagrådets yttrande finns i &lt;SPAN class="ft27"&gt;bilaga 5&lt;/SPAN&gt;. Lagrådet har lämnat förslaget utan erinran. I förhållande till lagrådsremissens lagförslag har tidpunkten för ikraftträdande skjutits fram till den 1 juli 2019.&lt;/P&gt;
+&lt;P class="p48 ft29"&gt;&lt;SPAN class="ft1"&gt;4&lt;/SPAN&gt;&lt;SPAN class="ft28"&gt;Högsta domstolens prövning av utlämningsärenden och ärenden enligt internationella verkställighetslagen&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p49 ft32"&gt;&lt;SPAN class="ft30"&gt;4.1&lt;/SPAN&gt;&lt;SPAN class="ft31"&gt;Gällande regler om rättens sammansättning&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p50 ft3"&gt;Regleringen i utlämningslagen och rättegångsbalken&lt;/P&gt;
+&lt;P class="p51 ft2"&gt;Den som i en annan stat är misstänkt, tilltalad eller dömd för en gärning som är straffbelagd i den staten, och som befinner sig här i landet kan under vissa förutsättningar utlämnas från Sverige. Regleringen om utlämning finns i lagen (1957:668) om utlämning för brott (utlämningslagen). Utlämningslagen gäller inte mellan de nordiska länderna och inte heller i förhållande till medlemsstaterna i Europeiska unionen (EU). För nordiska förhållanden gäller i stället lagen (2011:1165) om överlämnande från Sverige enligt en nordisk arresteringsorder. Samarbetet med andra medlemsstater i EU regleras i lagen (2003:1156) om överlämnande från Sverige enligt en europeisk arresteringsorder.&lt;/P&gt;
+&lt;P class="p52 ft2"&gt;Beslut om utlämning enligt utlämningslagen fattas av regeringen (1 § utlämningslagen). Ett utlämningsärende inleds med att en annan stat gör en framställning till Justitiedepartementet (14 §). Ofta inleds dock ett förfarande genom att en internationellt efterlyst person påträffas i Sverige, varefter personen i fråga anhålls provisoriskt i avvaktan på att en framställning görs (23 §). Innan regeringen fattar beslut i ärendet ska riksåklagaren yttra sig. Är det uppenbart att framställningen inte bör bifallas, ska den dock omedelbart avslås av regeringen (15 §). Riksåklagaren ska som grund för sitt yttrande verkställa en utredning enligt vad som gäller vid förundersökning i brottmål. Under utredningstiden förekommer det att åklagaren begär att personen ska häktas (s.k.&lt;/P&gt;
+&lt;P class="p53 ft2"&gt;6&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_7"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p54 ft2"&gt;utlämningshäktning). Även andra tvångsmedel kan bli aktuella och precis som vid utlämningshäktning gäller då vad som i allmänhet är föreskrivet för brottmål. Tingsrättens beslut om tvångsmedel överklagas till Högsta domstolen utan krav på prövningstillstånd (16 §). Tvångsmedelsfrågan utgör i dessa fall själva saken i Högsta domstolen och rätten ska därför bestå av minst fem ledamöter vid prövningen (3 kap. 5 § första stycket 6 rättegångsbalken).&lt;/P&gt;
+&lt;P class="p55 ft2"&gt;Om den som avses med framställningen inte har samtyckt till att utlämning sker ska riksåklagaren, efter att ha avslutat sin utredning, överlämna ärendet jämte sitt yttrande till Högsta domstolen (17 § utlämningslagen). Högsta domstolen prövar därefter om utlämning lagligen kan ske enligt utlämningslagen och om utlämningen är förenlig med den europeiska konventionen om skydd för de mänskliga rättigheterna och de grundläggande friheterna (18 § utlämningslagen och se t.ex. NJA 2017 s. 677). Vid Högsta domstolens prövning består rätten av minst fem ledamöter (3 kap. 5 § första stycket 6 rättegångsbalken). När Högsta domstolen har meddelat sitt beslut ska ärendet anmälas för regeringen. Om Högsta domstolen kommit fram till att det finns hinder mot utlämningen, får regeringen inte bifalla framställningen om utlämning (20 § utlämningslagen). Förfarandet gäller i tillämpliga delar även i ärenden som avser medgivande till att den som utlämnats får ställas till ansvar för någon annan gärning som förövats före utlämningen (24 §).&lt;/P&gt;
+&lt;P class="p56 ft15"&gt;Även i de ärenden som inletts hos Högsta domstolen genom riksåklagarens yttrande kan frågan om tvångsmedel, framför allt häktning, aktualiseras. Den som framställningen om utlämning avser kan t.ex. yrka att bli försatt på fri fot. I dessa fall utgör häktningsfrågan inte själva saken och Högsta domstolen får besluta hur många ledamöter som ska ingå i rätten (3 kap. 5 a § första stycket rättegångsbalken).&lt;/P&gt;
+&lt;P class="p57 ft3"&gt;Regleringen i internationella verkställighetslagen och rättegångsbalken&lt;/P&gt;
+&lt;P class="p58 ft2"&gt;Verkställighet av brottmålsdom m.m. får i vissa fall anförtros åt en myndighet i en främmande stat enligt lagen (1972:260) om internationellt samarbete rörande verkställighet av brottmålsdom (internationella verkställighetslagen). Lagen gäller dock inte i fråga om verkställighet eller annan åtgärd som regleras genom lagen (1963:193) om samarbete med Danmark, Finland, Island och Norge angående verkställighet av straff&lt;/P&gt;
+&lt;P class="p59 ft15"&gt;&lt;SPAN class="ft2"&gt;m.m.&lt;/SPAN&gt;&lt;SPAN class="ft33"&gt;eller lagen (2015:96) om erkännande och verkställighet av frihetsberövande påföljder inom Europeiska unionen (42 §).&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p60 ft2"&gt;Om en person överförs till en annan stat för verkställighet där kan regeringen under vissa förutsättningar medge att den dömde personen får åtalas, dömas eller berövas friheten i den andra staten för verkställighet av påföljd m.m. också med anledning av brott som har begåtts före överförandet och som inte omfattas av framställningen om verkställighet (specialitetsprincipen). Medgivande får lämnas bl.a. om personen hade kunnat lagligen utlämnas eller överlämnas för brottet till verkställighetsstaten. Om det av handlingarna i ärendet framgår att medgivande inte lagligen kan lämnas, ska begäran omedelbart avslås. I annat fall ska frågan prövas av Högsta domstolen, om inte personen i fråga samtyckt till åtgärden. Om Högsta domstolen bedömer att hinder föreligger får regeringen inte lämna något medgivande (34 §). Även när den dömde&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p12 ft2"&gt;Prop. 2018/19:60&lt;/P&gt;
+&lt;P class="p61 ft2"&gt;7&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_8"&gt;
+&lt;DIV id="p8dimg1"&gt;
+&lt;INGENBILD zsrc="H603608x1.jpg/" id="p8img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p62 ft2"&gt;Prop. 2018/19:60 utvisats på grund av brottet och överförts från Sverige till en annan stat med tillämpning av överförandekonventionen (den i Strasbourg den 21 mars 1983 undertecknade konventionen om överförande av dömda personer) och tilläggsprotokollet (det i Strasbourg den 18 december 1997 undertecknade tilläggsprotokollet till överförandekonventionen) tillämpas bestämmelserna i 34 § (34 b §).&lt;/P&gt;
+&lt;P class="p63 ft15"&gt;Eftersom frågan om medgivande enligt internationella verkställighetslagen utgör själva saken i Högsta domstolen och domstolen är första domstolsinstans ska rätten bestå av minst fem ledamöter (3 kap. 5 § första stycket 2 rättegångsbalken).&lt;/P&gt;
+&lt;P class="p64 ft35"&gt;&lt;SPAN class="ft30"&gt;4.2&lt;/SPAN&gt;&lt;SPAN class="ft34"&gt;Rättens sammansättning vid prövning av utlämning och ärenden enligt internationella verkställighetslagen&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p65 ft15"&gt;&lt;SPAN class="ft36"&gt;Regeringens förslag: &lt;/SPAN&gt;Rätten ska bestå av minst tre ledamöter vid Högsta domstolens prövning av själva saken i ärenden enligt utlämningslagen och internationella verkställighetslagen.&lt;/P&gt;
+&lt;P class="p66 ft15"&gt;&lt;SPAN class="ft36"&gt;Promemorians förslag &lt;/SPAN&gt;överensstämmer med regeringens. &lt;SPAN class="ft36"&gt;Remissinstanserna: &lt;/SPAN&gt;Samtliga remissinstanser tillstyrker eller har inga&lt;/P&gt;
+&lt;P class="p67 ft15"&gt;invändningar mot förslaget. &lt;SPAN class="ft27"&gt;Svea hovrätt &lt;/SPAN&gt;anser att det är motiverat att se över Högsta domstolens verksamhet med avsikt att prejudikatbildningen ska kunna prioriteras. &lt;SPAN class="ft27"&gt;Stockholms tingsrätt &lt;/SPAN&gt;anser att förändringar i sammansättningsreglerna bör motiveras utifrån möjligheterna att tillgodose de intressen som ligger bakom de nuvarande reglerna och att den föreslagna ordningen med minst tre ledamöter är välmotiverad. &lt;SPAN class="ft27"&gt;Justitiekanslern &lt;/SPAN&gt;delar bedömningen att utlämningsärenden och ärenden enligt internationella verkställighetslagen kan avgöras av färre ledamöter än tidigare utan att den enskildes rättssäkerhet påverkas negativt.&lt;/P&gt;
+&lt;P class="p68 ft11"&gt;Skälen för regeringens förslag&lt;/P&gt;
+&lt;P class="p69 ft3"&gt;Högsta domstolens prejudikatbildande verksamhet bör prioriteras&lt;/P&gt;
+&lt;P class="p70 ft2"&gt;Ända sedan den första lagen om utlämning (lagen den 4 juni 1913 [nr 68] angående utlämning av förbrytare) har Högsta domstolen haft till uppgift att pröva om det finns några hinder mot utlämning. I förarbetena uttalas att prövningen ofta är sådan att det är påkallat att anlita domstol och att utlämningsärenden bör behandlas som rena rättsfrågor för att undvika påtryckningar på den svenska regeringen från främmande makt (prop. 1913:50 s. 19 f.). Att prövningen ska göras av den högsta instansen motiveras av att det medför att nödvändig auktoritet mot andra länder upprätthålls och att tillämpningen blir enhetlig (samma prop. s. 77 f.). Införandet av den nu gällande utlämningslagen innebar att ordningen från 1913 i allt väsentligt behölls oförändrad (prop. 1957:156 s. 20, 34 och 78). En utgångspunkt för slutsatsen att Högsta domstolen ska vara den instans som ansvarar för prövningen torde i båda lagstiftningsärendena ha varit antagandet att uppgiften inte kunde anses medföra någon avsevärd&lt;/P&gt;
+&lt;P class="p71 ft2"&gt;8&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_9"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p72 ft15"&gt;arbetsbörda för domstolen (se prop. 1913:50 s. 77, prop. 1957:156 s. 77 f. och SOU 2011:71 s. 295 f.).&lt;/P&gt;
+&lt;P class="p73 ft2"&gt;Huvudregeln för sammansättningen i Högsta domstolen har sedan lång tid varit att rätten ska bestå av fem ledamöter. Det är också i den sammansättningen som ärenden enligt utlämningslagen och internationella verkställighetslagen prövas. För ett stort antal situationer finns emellertid undantag från huvudregeln. Sådana undantagsregler, som tillåter en mer begränsad sammansättning, har tillkommit genom successiva reformer och har i huvudsak gällt frågor som har ansetts ligga vid sidan av Högsta domstolens rättsbildande huvuduppgift (prop. 1988/89:78, prop. 1995/96:116 och prop. 2004/05:63). Efter den senaste reformen av sammansättningsreglerna gäller att fem ledamöter krävs endast i ett antal uttryckligt angivna situationer och enbart när prövningen avser själva saken (3 kap. 5 § första stycket rättegångsbalken, prop. 2008/09:117).&lt;/P&gt;
+&lt;P class="p74 ft2"&gt;Frågan om Högsta domstolens prövning av utlämningsärenden har varit föremål för överväganden av Utlämningsutredningen (SOU 2011:71). Utredningen föreslår en ny lag, där allmän domstol – med tingsrätten som första instans – avlastar regeringen och Högsta domstolen och övertar rollen som beslutande organ för samtliga frågor enligt utlämningslagen och där besluten kan överklagas till hovrätt och Högsta domstolen. Enligt utredningen har ett överförande av beslutanderätten till allmän domstol flera fördelar, bl.a. att tvåpartsförfarandet jämte muntlighetsprincipen kommer till naturligt uttryck och att möjligheterna till insyn och öppenhet i processen ökar. Vidare bedömer utredningen att förslaget skulle innebära en förstärkt rättssäkerhet för den enskilde i förhållande till nuvarande ordning där domstolsprövning enbart görs i en instans (SOU 2011:71 s. 593). Frågan om en ny utlämningslagstiftning bereds i Regeringskansliet.&lt;/P&gt;
+&lt;P class="p75 ft2"&gt;I promemorian görs bedömningen att prövningen av utlämningsärenden bör kunna ske med färre ledamöter i rätten än i dag. På så sätt kan handläggningen effektiviseras och resurser frigöras till den prejudikatbildande verksamheten. Antalet inkomna ärenden om utlämning har under åren &lt;NOBR&gt;2012–2017&lt;/NOBR&gt; fördelat sig enligt följande: 17 ärenden 2012, 11 ärenden 2013, 15 ärenden 2014, 21 ärenden 2015, 25 ärenden 2016 och 8 ärenden 2017. Som en jämförelse kan noteras att Högsta domstolen meddelade 29 straffrättsliga prejudikat under 2016 och ungefär lika många under 2017.&lt;/P&gt;
+&lt;P class="p76 ft15"&gt;Även antalet förhandlingar i utlämningsärendena är förhållandevis högt. Under 2014 avgjordes 2 ärenden efter förhandling, under 2015 ökade antalet till 12 för att under 2016 uppgå till 7. Under 2017 hölls förhandling i 5 ärenden.&lt;/P&gt;
+&lt;P class="p77 ft22"&gt;I tidigare förarbeten anges som målsättning att sammansättningen med fem ledamöter bara ska användas när det framstår som ändamålsenligt och att den fullsuttna sammansättningen är avsedd att vara förbehållen Högsta domstolens centrala rättskipande uppgifter (prop. 2008/09:117 s. 25). Regeringen anser att detta ställningstagande alltjämt har giltighet. Enligt bedömningen i promemorian är utlämningsärendena sällan komplicerade och de har endast undantagsvis något prejudikatintresse. Bedömningen som görs är att prövningen av dessa ärenden oftast ligger tydligt utanför Högsta domstolens rättsbildande huvuduppgift. Regeringen finner inte skäl att ifrågasätta den bedömningen. I avvaktan på en eventuell&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p78 ft2"&gt;Prop. 2018/19:60&lt;/P&gt;
+&lt;P class="p61 ft2"&gt;9&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_10"&gt;
+
+
+&lt;P class="p79 ft15"&gt;Prop. 2018/19:60 reformering av utlämningslagstiftningen och i ljuset av den belastning i fråga om resurser som utlämningsärendena medför bedömer regeringen, liksom bl.a. &lt;SPAN class="ft27"&gt;Svea hovrätt&lt;/SPAN&gt;, att det är angeläget att nu se över sammansättningsreglerna i Högsta domstolen i utlämningsärenden med avsikt att prejudikatbildningen ska kunna prioriteras.&lt;/P&gt;
+&lt;P class="p80 ft3"&gt;Den enskildes rättssäkerhet kan bibehållas&lt;/P&gt;
+&lt;P class="p81 ft22"&gt;I promemorian föreslås att rätten ska bestå av minst tre ledamöter vid prövningen av själva saken i utlämningsärenden. Även om prövningen i utlämningsärendena normalt sett är en ren laglighetsprövning och sällan torde vara komplicerad har frågan stor betydelse för den enskilde. Vid överväganden om att minska antalet ledamöter måste det säkerställas att den enskildes intresse av rättssäkerhet inte påverkas på ett negativt sätt. En jämförelse kan här göras med Högsta domstolens handläggning av ärenden enligt lagen (1974:579) om nådeärenden. När domstolen avger yttranden i sådana ärenden ska rätten bestå av minst tre ledamöter (3 kap. 5 § tredje stycket rättegångsbalken). Det kan också noteras att vid prövningen av ärenden om resning, återställande av försutten tid eller klagan över domvilla som är av enkel beskaffenhet beslutar Högsta domstolen för varje ärende hur många ledamöter som ska ingå i rätten (3 kap. 5 a § första stycket). Gemensamt för dessa ärenden är att de typiskt sett har tydliga inslag av rättssäkerhetsöverväganden av betydelse för den enskilde och att de ofta saknar prejudikatintresse. Av Högsta domstolens arbetsordning framgår att ärendena får avgöras av tre ledamöter om prövningen är enkel, eller, om prövningen är mycket enkel, av en ledamot (10 § andra stycket). Rätten får i varje enskilt fall besluta att ärendet eller viss fråga i ärendet ska avgöras i en annan sammansättning (10 § tredje stycket och 30 §).&lt;/P&gt;
+&lt;P class="p82 ft2"&gt;Vid en jämförelse med andra ärenden med tydliga inslag av rättssäkerhetsintressen för den enskilde och med beaktande av att prövningarna av utlämningsärendena främst avser rena laglighetsprövningar anser regeringen, i likhet med samtliga remissinstanser, att en sammansättning med tre ledamöter är tillräcklig för att utlämningsärendena ska kunna prövas på ett ändamålsenligt sätt. Liksom &lt;SPAN class="ft3"&gt;Justitiekanslern &lt;/SPAN&gt;framhåller bedöms den enskildes rättssäkerhet inte påverkas på ett negativt sätt.&lt;/P&gt;
+&lt;P class="p83 ft3"&gt;Minst tre ledamöter vid prövning av själva saken i utlämningsärenden&lt;/P&gt;
+&lt;P class="p84 ft2"&gt;Högsta domstolen bör alltså bestå av minst tre ledamöter vid prövning av själva saken i ärenden enligt utlämningslagen. Att kravet på minst tre ledamöter endast ska gälla vid prövning av själva saken innebär att Högsta domstolen alltjämt kan pröva t.ex. rättegångsfrågor och frågor om häktning och andra tvångsmedel som aktualiseras i ett ärende efter att riksåklagarens yttrande har lämnats över till Högsta domstolen med det antal ledamöter som domstolen själv beslutar (3 kap. 5 a § första stycket rättegångsbalken). Rättens sammansättning i frågor om tvångsmedel som utgör själva saken enligt 16 § femte stycket utlämningslagen behandlas i avsnitt 4.3.&lt;/P&gt;
+&lt;P class="p85 ft2"&gt;10&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_11"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t9"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td43"&gt;&lt;SPAN class="p16 ft3"&gt;Sammansättningen i ärenden enligt internationella verkställighetslagen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td18"&gt;&lt;SPAN class="p16 ft2"&gt;Prop. 2018/19:60&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p86 ft2"&gt;Högsta domstolen prövar sällan ärenden enligt 34 § internationella verkställighetslagen om tillstånd till en annan stat enligt specialitetsprincipen. Högsta domstolen bedömer dessutom att antalet ärenden kommer att minska framöver på grund av att lagen om erkännande och verkställighet av frihetsberövande påföljder inom Europeiska unionen tillämpas i stället för internationella verkställighetslagen i relationen med &lt;NOBR&gt;EU-medlemsstater.&lt;/NOBR&gt; Några effektivitetsvinster är alltså inte att påräkna av ändrade sammansättningsregler i dessa fall. Högsta domstolens prövning av ärendena har dock nära samband med frågor om utlämning. Vid sidan av vissa andra förutsättningar får medgivande lämnas av regeringen bland annat om personen lagligen hade kunnat utlämnas eller överlämnas för brottet till verkställighetsstaten. Regleringen har utformats med motsvarande reglering av specialitetsprincipen i 24 § utlämningslagen som förebild (prop. 1972:98 s. 93). Regeringen bedömer därför, liksom samtliga remissinstanser, att förslaget om en ändrad sammansättning med minst tre ledamöter i rätten bör omfatta också dessa ärenden.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t10"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td44"&gt;&lt;SPAN class="p29 ft32"&gt;4.3&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td45"&gt;&lt;SPAN class="p87 ft32"&gt;Rättens sammansättning vid prövning av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td44"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td45"&gt;&lt;SPAN class="p87 ft32"&gt;tingsrättens beslut om tvångsmedel&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr15 td47"&gt;&lt;SPAN class="p16 ft37"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr16 td46"&gt;&lt;SPAN class="p16 ft38"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr17 td48"&gt;&lt;SPAN class="p88 ft2"&gt;&lt;SPAN class="ft11"&gt;Regeringens förslag: &lt;/SPAN&gt;Högsta domstolen ska för varje enskilt fall&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr17 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td48"&gt;&lt;SPAN class="p88 ft2"&gt;besluta hur många ledamöter som ska ingå i rätten vid prövning av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr9 td48"&gt;&lt;SPAN class="p88 ft2"&gt;tingsrättens beslut om tvångsmedel enligt utlämningslagen.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr18 td49"&gt;&lt;SPAN class="p16 ft39"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr19 td46"&gt;&lt;SPAN class="p16 ft40"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr2 td50"&gt;&lt;SPAN class="p89 ft2"&gt;&lt;SPAN class="ft11"&gt;Promemorians förslag &lt;/SPAN&gt;överensstämmer med regeringens.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td50"&gt;&lt;SPAN class="p30 ft2"&gt;&lt;SPAN class="ft11"&gt;Remissinstanserna: &lt;/SPAN&gt;De flesta remissinstanserna, bl.a. &lt;SPAN class="ft3"&gt;Riksdagens&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td50"&gt;&lt;SPAN class="p16 ft3"&gt;ombudsmän, Justitiekanslern &lt;SPAN class="ft2"&gt;och &lt;/SPAN&gt;Sveriges advokatsamfund, &lt;SPAN class="ft2"&gt;tillstyrker&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td50"&gt;&lt;SPAN class="p16 ft2"&gt;förslaget eller har inga invändningar mot det. &lt;SPAN class="ft3"&gt;Svea hovrätt &lt;/SPAN&gt;framför att den&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td50"&gt;&lt;SPAN class="p16 ft2"&gt;föreslagna ordningen kan leda till en tillämpning som kan tyckas stå i strid&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td50"&gt;&lt;SPAN class="p16 ft2"&gt;med principen att rätten vid överprövning i högre instans ska bestå av fler&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td50"&gt;&lt;SPAN class="p16 ft2"&gt;lagfarna ledamöter än i underinstansen. &lt;SPAN class="ft3"&gt;Stockholms tingsrätt &lt;/SPAN&gt;ställer sig&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td50"&gt;&lt;SPAN class="p16 ft2"&gt;något tveksam till förslaget eftersom det inte förefaller påkallat och&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td50"&gt;&lt;SPAN class="p16 ft2"&gt;avviker från systematiken i sammansättningsreglerna i övrigt och föreslår&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td50"&gt;&lt;SPAN class="p16 ft2"&gt;att rätten ska bestå av minst tre ledamöter.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td50"&gt;&lt;SPAN class="p30 ft11"&gt;Skälen för regeringens förslag: &lt;SPAN class="ft2"&gt;Under den tid som riksåklagaren&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td50"&gt;&lt;SPAN class="p16 ft2"&gt;verkställer sin utredning med anledning av en framställning om utlämning&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td50"&gt;&lt;SPAN class="p16 ft2"&gt;kan behov av tvångsmedel uppkomma. Oftast avser dessa fall s.k.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td50"&gt;&lt;SPAN class="p16 ft2"&gt;utlämningshäktningar. Tingsrättens beslut om tvångsmedel överklagas&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td50"&gt;&lt;SPAN class="p16 ft2"&gt;direkt till Högsta domstolen utan krav på prövningstillstånd (16 § femte&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td50"&gt;&lt;SPAN class="p16 ft2"&gt;stycket utlämningslagen). Tvångsmedelsfrågan utgör själva saken i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td50"&gt;&lt;SPAN class="p16 ft2"&gt;Högsta domstolen och rätten ska därför bestå av minst fem ledamöter vid&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td50"&gt;&lt;SPAN class="p16 ft2"&gt;prövningen (3 kap. 5 § första stycket 6 rättegångsbalken). Högsta dom-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td50"&gt;&lt;SPAN class="p16 ft2"&gt;stolen har prövat flera utlämningshäktningar under de senaste åren: fyra&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td50"&gt;&lt;SPAN class="p16 ft2"&gt;under 2012, två under 2013, två under 2014, fem under 2015, åtta under&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td50"&gt;&lt;SPAN class="p16 ft2"&gt;2016 och fem under 2017.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td50"&gt;&lt;SPAN class="p30 ft2"&gt;I promemorian görs bedömningen att kravet på prövning av fem leda-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td50"&gt;&lt;SPAN class="p16 ft2"&gt;möter inte är motiverat när det gäller frågan om tvångsmedel enligt 16 §&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td46"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td44"&gt;&lt;SPAN class="p16 ft2"&gt;femte&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td45"&gt;&lt;SPAN class="p30 ft2"&gt;stycket utlämningslagen. Som skäl anförs att en prövning av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD rowspan=2 class="tr20 td46"&gt;&lt;SPAN class="p14 ft2"&gt;11&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr21 td44"&gt;&lt;SPAN class="p16 ft41"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr21 td45"&gt;&lt;SPAN class="p16 ft41"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_12"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t11"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td51"&gt;&lt;SPAN class="p90 ft2"&gt;Prop. 2018/19:60&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td52"&gt;&lt;SPAN class="p16 ft2"&gt;tvångsmedel som aktualiseras efter det att riksåklagarens yttrande har&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td52"&gt;&lt;SPAN class="p16 ft2"&gt;överlämnats till Högsta domstolen kan prövas av det antal ledamöter som&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;domstolen själv bestämmer (3 kap. 5 a § första stycket rättegångsbalken).&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft22"&gt;Dessutom anförs att de ledamöter som har prövat en fråga om tvångsmedel&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td52"&gt;&lt;SPAN class="p16 ft2"&gt;normalt anses jäviga att delta vid prövningen av utlämningsärendet, vilket&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;kan innebära svårigheter för Högsta domstolen vid indelningen av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;ledamöter. I promemorian föreslås därför att rätten vid prövning av frågor&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td52"&gt;&lt;SPAN class="p16 ft2"&gt;om tvångsmedel enligt 16 § femte stycket utlämningslagen ska bestå av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;det antal ledamöter som Högsta domstolen själv beslutar.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p35 ft2"&gt;I linje med vad som anförs i avsnitt 4.2 anser regeringen att det även för&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td52"&gt;&lt;SPAN class="p16 ft2"&gt;Högsta domstolens prövning av frågor om tvångsmedel enligt 16 § femte&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;stycket finns skäl att överväga en sammansättning med färre ledamöter än&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;i dag. En sammansättning med fem ledamöter bör användas bara när det&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td52"&gt;&lt;SPAN class="p16 ft2"&gt;framstår som ändamålsenligt och den fullsuttna sammansättningen är&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;avsedd att vara förbehållen Högsta domstolens centrala rättskipande&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft22"&gt;uppgifter. Mot bakgrund av det förslag som regeringen lämnar beträffande&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td52"&gt;&lt;SPAN class="p16 ft2"&gt;sammansättningen i ärenden om utlämning, dvs. att antalet ledamöter ska&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;uppgå till minst tre, bedömer regeringen att även antalet ledamöter vid&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td52"&gt;&lt;SPAN class="p16 ft2"&gt;prövning av tvångsmedel enligt 16 § femte stycket bör vara färre än i dag.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;Frågan är om det finns skäl att ha samma krav på sammansättningen vid&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;prövning av frågan om tvångsmedel som vid prövning av själva&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td52"&gt;&lt;SPAN class="p16 ft2"&gt;utlämningsärendet i sak, dvs. minst tre ledamöter, eller om regleringen bör&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;göras mer flexibel.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p35 ft2"&gt;Som framgår ovan kan ett yrkande om att försättas på fri fot som&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;uppkommer inom ramen för Högsta domstolens prövning av utlämnings-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td52"&gt;&lt;SPAN class="p16 ft2"&gt;ärendet avgöras med det antal ledamöter som domstolen själv beslutar&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;eftersom det då inte är fråga om prövning av själva saken. Den materiella&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td52"&gt;&lt;SPAN class="p16 ft2"&gt;prövningen, dvs. lagligheten av det häktningsbeslut som ligger till grund&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;för frihetsberövandet, är emellertid densamma som vid en prövning enligt&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;16 § femte stycket, vilket talar för att rättens sammansättning bör kunna&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;vara densamma i dessa situationer.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td52"&gt;&lt;SPAN class="p35 ft2"&gt;&lt;SPAN class="ft3"&gt;Svea hovrätt &lt;/SPAN&gt;påpekar att den föreslagna ordningen kan leda till en&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;tillämpning som kan tyckas stå i strid med principen att rätten vid&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td52"&gt;&lt;SPAN class="p16 ft2"&gt;överprövning i högre instans ska bestå av fler lagfarna ledamöter än i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;underinstansen. &lt;SPAN class="ft3"&gt;Stockholms tingsrätt &lt;/SPAN&gt;framför liknande synpunkter. Vid&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;prövning av t.ex. andra häktningar än utlämningshäktningar där&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td52"&gt;&lt;SPAN class="p16 ft2"&gt;häktningsfrågan utgör själva saken består tingsrätten vanligtvis av en&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;domare, hovrätten av tre domare och Högsta domstolen, i de fall&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;prövningstillstånd meddelats, av fem ledamöter. Det kan dock konstateras&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td52"&gt;&lt;SPAN class="p16 ft2"&gt;att frågan om prövningstillstånd i dessa fall avgörs av tre ledamöter i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;Högsta domstolen, eller om prövningen är enkel, av en ledamot (10 §&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;första stycket arbetsordningen för Högsta domstolen). Tillgången till&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td52"&gt;&lt;SPAN class="p16 ft2"&gt;Högsta domstolen i en sammansättning av fem ledamöter vid överklagade&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;beslut om häktning i brottmål är alltså i praktiken begränsad. Utlämnings-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;lagen förutsätter dessutom en annan beslutsordning och utlämnings-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td52"&gt;&lt;SPAN class="p16 ft2"&gt;ärendena är inte föremål för prövning i lägre domstolsinstanser, förutom&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;tingsrättens beslut om häktning eller andra tvångsmedel. En tingsrätts&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;beslut om tvångsmedel överklagas inte heller enligt gängse ordning till&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td52"&gt;&lt;SPAN class="p16 ft2"&gt;hovrätten utan direkt till Högsta domstolen utan krav på prövnings-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td51"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td52"&gt;&lt;SPAN class="p16 ft2"&gt;tillstånd. Det är således fråga om en särskild reglering med andra&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td51"&gt;&lt;SPAN class="p91 ft2"&gt;12&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td52"&gt;&lt;SPAN class="p16 ft22"&gt;utgångspunkter än den som gäller för den centrala rättskipningen i Högsta&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_13"&gt;
+&lt;DIV id="p13dimg1"&gt;
+&lt;INGENBILD zsrc="H6036013x1.jpg/" id="p13img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p92 ft15"&gt;domstolen. Regeringen bedömer därför att principen om att rätten vid Prop. 2018/19:60 överprövning i högre instans ska bestå av fler lagfarna ledamöter än i underinstansen inte gör sig lika starkt gällande i dessa fall och att det inte&lt;/P&gt;
+&lt;P class="p93 ft2"&gt;är fråga om något avgörande avsteg från denna princip (jfr prop. 2008/09:117 s. 30 f.).&lt;/P&gt;
+&lt;P class="p94 ft2"&gt;Sammanfattningsvis anser regeringen, i likhet med de flesta remissinstanserna, att det framstår som mest ändamålsenligt att Högsta domstolen får besluta hur många ledamöter som ska ingå i rätten vid prövningen av frågor om tvångsmedel enligt 16 § femte stycket utlämningslagen. Detta förutsätter, i likhet med vad som redan gäller vid tillämpning av 3 kap. 5 a § rättegångsbalken i andra typer av mål och ärenden, att domstolen anpassar sammansättningens storlek till vad som i det enskilda fallet är lämpligt med hänsyn till frågans beskaffenhet (jfr prop. 2008/09:117 s. 32).&lt;/P&gt;
+&lt;P class="p95 ft10"&gt;&lt;SPAN class="ft1"&gt;5&lt;/SPAN&gt;&lt;SPAN class="ft9"&gt;Ikraftträdande- och övergångsbestämmelser&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p96 ft15"&gt;&lt;SPAN class="ft36"&gt;Regeringens förslag: &lt;/SPAN&gt;De nya bestämmelserna ska träda i kraft den 1 juli 2019.&lt;/P&gt;
+&lt;P class="p97 ft43"&gt;&lt;SPAN class="ft42"&gt;Regeringens bedömning: &lt;/SPAN&gt;Det behövs inte några övergångsbestämmelser.&lt;/P&gt;
+&lt;P class="p98 ft15"&gt;&lt;SPAN class="ft36"&gt;Promemorians förslag &lt;/SPAN&gt;överensstämmer inte med regeringens. I promemorian föreslås att de nya bestämmelserna ska träda i kraft den 1 januari 2018. I promemorian görs ingen bedömning av behovet av övergångsbestämmelser.&lt;/P&gt;
+&lt;P class="p99 ft2"&gt;&lt;SPAN class="ft11"&gt;Remissinstanserna: &lt;/SPAN&gt;Ingen remissinstans invänder mot promemorians förslag.&lt;/P&gt;
+&lt;P class="p99 ft11"&gt;Skälen för regeringens förslag och bedömning: &lt;SPAN class="ft2"&gt;Det är angeläget att förslaget om en ändrad sammansättning i Högsta domstolen i ärenden om utlämning och ärenden enligt internationella verkställighetslagen kan träda i kraft så snart som möjligt. Detsamma gäller förslaget om en ändrad sammansättning i Högsta domstolen vid prövning av tingsrättens beslut om tvångsmedel i utlämningsärenden. Det bedöms inte nödvändigt med några praktiska förberedelser som gör att det finns anledning att avvakta med ikraftträdandet. De nya bestämmelserna bör därför träda i kraft den 1 juli 2019.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p100 ft15"&gt;Utgångspunkten när det gäller processrättslig lagstiftning är att nya regler blir tillämpliga genast efter ikraftträdandet. Det saknas därför behov av övergångsbestämmelser.&lt;/P&gt;
+&lt;P class="p101 ft2"&gt;13&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_14"&gt;
+&lt;DIV id="p14dimg1"&gt;
+&lt;INGENBILD zsrc="H6036014x1.jpg/" id="p14img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t12"&gt;
+&lt;TR&gt;
+	&lt;TD rowspan=2 class="tr12 td39"&gt;&lt;SPAN class="p16 ft2"&gt;Prop. 2018/19:60&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td22"&gt;&lt;SPAN class="p20 ft25"&gt;6&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td53"&gt;&lt;SPAN class="p19 ft25"&gt;Konsekvenser av förslagen&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td22"&gt;&lt;SPAN class="p16 ft26"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td53"&gt;&lt;SPAN class="p16 ft26"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p102 ft15"&gt;&lt;SPAN class="ft36"&gt;Regeringens bedömning: &lt;/SPAN&gt;Förslagen ökar Högsta domstolens förutsättningar att prioritera den prejudikatbildande verksamheten och leder till kortare handläggningstider för utlämningsärenden, ärenden enligt internationella verkställighetslagen och övriga mål och ärenden vid Högsta domstolen. Förslagen innebär en bibehållen rättssäkerhet för enskilda. Förslagen leder inte till några kostnadsökningar för det allmänna.&lt;/P&gt;
+&lt;P class="p103 ft4"&gt;&lt;SPAN class="ft44"&gt;Promemorians bedömning &lt;/SPAN&gt;överensstämmer med regeringens. &lt;SPAN class="ft44"&gt;Remissinstanserna: &lt;/SPAN&gt;Ingen remissinstans invänder mot bedömningen.&lt;/P&gt;
+&lt;P class="p104 ft2"&gt;&lt;SPAN class="ft3"&gt;Polismyndigheten &lt;/SPAN&gt;bedömer att förslagen gör det möjligt för Högsta domstolen att använda sina resurser effektivare vilket torde innebära att genomströmningstiderna hos domstolen minskar. &lt;SPAN class="ft3"&gt;Juridiska fakultetsnämnden vid Uppsala universitet &lt;/SPAN&gt;ser inga problem med den föreslagna ordningen, tvärtom anser nämnden att det finns anledning att anta att ändringen kan medföra de effekter som eftersträvas. &lt;SPAN class="ft3"&gt;Justitiekanslern &lt;/SPAN&gt;anser att dessa ärenden kan avgöras av färre ledamöter än tidigare utan att den enskildes rättssäkerhet påverkas negativt.&lt;/P&gt;
+&lt;P class="p105 ft11"&gt;Skälen för regeringens bedömning: &lt;SPAN class="ft2"&gt;Förslagen innebär att utlämningsärenden och ärenden enligt internationella verkställighetslagen kan avgöras med färre ledamöter än tidigare. Vid prövning av tingsrättens beslut om tvångsmedel kan upp till fyra ledamotsresurser frigöras. Vid prövning av övriga frågor i sak kan upp till två ledamotsresurser frigöras. Regeringen bedömer att förslagen därmed bör öka Högsta domstolens förutsättningar att prioritera den prejudikatbildande verksamheten. Vidare bör en prövning av färre ledamöter leda till kortare handläggningstider för utlämningsärenden, ärenden enligt internationella verkställighetslagen och övriga mål och ärenden vid Högsta domstolen. I likhet med &lt;/SPAN&gt;&lt;SPAN class="ft3"&gt;Justitiekanslern&lt;/SPAN&gt;&lt;SPAN class="ft2"&gt;, och i enlighet med vad som konstateras i avsnitt 4.2, bedömer regeringen att förslagen inte påverkar den enskildes rättssäkerhet på ett negativt sätt. Rättssäkerheten för enskilda bedöms därmed kunna bibehållas.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p106 ft15"&gt;Förslagen bedöms inte medföra några kostnadsökningar för det allmänna. Förslagen kan inte heller antas påverka jämställdheten mellan män och kvinnor eller villkoren för företagandet. Förslagen bedöms inte heller få några sociala eller miljömässiga konsekvenser.&lt;/P&gt;
+&lt;P class="p107 ft1"&gt;7 Författningskommentar&lt;/P&gt;
+&lt;P class="p108 ft11"&gt;&lt;SPAN class="ft45"&gt;3&lt;/SPAN&gt;&lt;SPAN class="ft46"&gt;kap.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p109 ft11"&gt;&lt;SPAN class="ft45"&gt;5&lt;/SPAN&gt;&lt;SPAN class="ft46"&gt;§&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p110 ft22"&gt;Rätten ska, om inte &lt;SPAN class="ft47"&gt;något &lt;/SPAN&gt;annat följer av andra &lt;SPAN class="ft47"&gt;eller fjärde &lt;/SPAN&gt;stycket eller 5 a § andra stycket &lt;NOBR&gt;&lt;SPAN class="ft47"&gt;1–3&lt;/SPAN&gt;,&lt;/NOBR&gt; bestå av minst fem ledamöter vid prövning av själva saken i&lt;/P&gt;
+&lt;P class="p111 ft48"&gt;&lt;SPAN class="ft48"&gt;1.&lt;/SPAN&gt;&lt;SPAN class="ft49"&gt;mål där prövningstillstånd har beviljats av Högsta domstolen,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p111 ft22"&gt;&lt;SPAN class="ft22"&gt;2.&lt;/SPAN&gt;&lt;SPAN class="ft50"&gt;mål där Högsta domstolen är första domstolsinstans,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p112 ft2"&gt;14&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_15"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t13"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td43"&gt;&lt;SPAN class="p35 ft22"&gt;3. mål där talan har väckts i hovrätt och överklagande har skett till Högsta&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td18"&gt;&lt;SPAN class="p16 ft2"&gt;Prop. 2018/19:60&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr22 td43"&gt;&lt;SPAN class="p16 ft51"&gt;domstolen,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr22 td18"&gt;&lt;SPAN class="p16 ft52"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p113 ft22"&gt;&lt;SPAN class="ft22"&gt;4.&lt;/SPAN&gt;&lt;SPAN class="ft53"&gt;mål som har överklagats av Justitiekanslern eller av en justitieombudsman,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p114 ft54"&gt;och&lt;/P&gt;
+&lt;P class="p115 ft48"&gt;&lt;SPAN class="ft48"&gt;5.&lt;/SPAN&gt;&lt;SPAN class="ft55"&gt;ärenden om resning, återställande av försutten tid eller klagan över domvilla, om prövningen inte är enkel.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p116 ft56"&gt;Om en framställning i ett mål där Högsta domstolen är första domstolsinstans inte innefattar laga skäl för talan eller det annars är uppenbart att talan är ogrundad, får rätten bestå av tre eller fyra ledamöter när dom i målet meddelas utan att stämning har utfärdats.&lt;/P&gt;
+&lt;P class="p117 ft22"&gt;När Högsta domstolen avger ett sådant yttrande som avses i 2 § lagen (1974:579) om handläggningen av nådeärenden ska rätten bestå av minst tre ledamöter.&lt;/P&gt;
+&lt;P class="p116 ft47"&gt;Det som sägs i tredje stycket gäller också vid prövning av själva saken i ärenden enligt lagen (1957:668) om utlämning för brott, om inte något annat följer av 5 a § andra stycket 4, och i ärenden enligt 34 § lagen (1972:260) om internationellt samarbete rörande verkställighet av brottmålsdom.&lt;/P&gt;
+&lt;P class="p118 ft4"&gt;Paragrafen innehåller bestämmelser om rättens sammansättning i Högsta domstolen. Övervägandena finns i avsnitt 4.2&lt;SPAN class="ft57"&gt;.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p116 ft2"&gt;Ändringen i &lt;SPAN class="ft3"&gt;första stycket &lt;/SPAN&gt;innebär att den hittillsvarande sjätte punkten tas bort. Ärenden enligt lagen om utlämning för brott (utlämningslagen) omfattas alltså inte längre av uppräkningen över mål och ärenden där rätten ska bestå av minst fem ledamöter vid prövning av själva saken. I inledningen till första stycket införs det även en hänvisning till fjärde stycket för att tydliggöra att undantaget från kravet på fem ledamöter gäller även om de ärenden som anges i fjärde stycket i och för sig handläggs av Högsta domstolen som första domstolsinstans.&lt;/P&gt;
+&lt;P class="p116 ft2"&gt;Av &lt;SPAN class="ft3"&gt;fjärde stycket, &lt;/SPAN&gt;som är nytt, följer att rätten ska bestå av minst tre ledamöter vid prövning av ärenden enligt utlämningslagen, om inte något annat följer av 5 a § andra stycket 4. Detsamma gäller i ärenden som prövas enligt 34 § lagen om internationellt samarbete rörande verkställighet av brottmålsdom (jfr 34 b § samma lag). Kravet på tre ledamöter i dessa fall gäller dock endast vid prövning av själva saken, dvs. med samma avgränsning som för de mål och ärenden som anges i första stycket i förevarande paragraf. Rättens sammansättning när det gäller frågor som faller utanför själva saken, t.ex. rättegångsfrågor, regleras i 5 a § första stycket. I 5 a § andra stycket 4 regleras rättens sammansättning vid prövning av frågor om tvångsmedel enligt 16 § femte stycket utlämningslagen som också innefattar en prövning av själva saken, se författningskommentaren till den paragrafen.&lt;/P&gt;
+&lt;P class="p119 ft2"&gt;Övriga ändringar är språkliga och redaktionella.&lt;/P&gt;
+&lt;P class="p120 ft11"&gt;5 a §&lt;/P&gt;
+&lt;P class="p121 ft22"&gt;I andra fall än sådana som avses i 5 § beslutar Högsta domstolen för varje mål eller ärende hur många ledamöter som ska ingå i rätten.&lt;/P&gt;
+&lt;P class="p113 ft48"&gt;Det som sägs i första stycket gäller även vid prövning av&lt;/P&gt;
+&lt;P class="p113 ft56"&gt;&lt;SPAN class="ft56"&gt;1.&lt;/SPAN&gt;&lt;SPAN class="ft58"&gt;frågor om beviljande av prövningstillstånd i hovrätt,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p113 ft48"&gt;&lt;SPAN class="ft48"&gt;2.&lt;/SPAN&gt;&lt;SPAN class="ft55"&gt;frågor om återförvisning av mål till hovrätt,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p113 ft48"&gt;&lt;SPAN class="ft48"&gt;3.&lt;/SPAN&gt;&lt;SPAN class="ft49"&gt;överklagande av hovrätts avvisningsbeslut som avses i 54 kap. 17 §&lt;/SPAN&gt;&lt;SPAN class="ft17"&gt;, och&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p115 ft47"&gt;&lt;SPAN class="ft47"&gt;4.&lt;/SPAN&gt;&lt;SPAN class="ft59"&gt;frågor om tvångsmedel enligt 16 § femte stycket lagen (1957:668) om utlämning för brott.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p122 ft2"&gt;15&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_16"&gt;
+
+
+&lt;P class="p123 ft15"&gt;Prop. 2018/19:60 Paragrafen innehåller bestämmelser om rättens sammansättning i Högsta domstolen. Övervägandena finns i avsnitt 4.3.&lt;/P&gt;
+&lt;P class="p124 ft2"&gt;I &lt;SPAN class="ft3"&gt;andra stycket &lt;/SPAN&gt;införs en ny fjärde punkt av vilken det framgår att Högsta domstolen själv beslutar hur många ledamöter som ska ingå i rätten vid prövning av frågor enligt 16 § femte stycket utlämningslagen. De frågor som omfattas är tingsrättens beslut om tvångsmedel, t.ex. häktning, som fattas med anledning av en framställning om utlämning. Tingsrättens beslut om tvångsmedel kan överklagas direkt till Högsta domstolen och frågan om tvångsmedel utgör själva saken i dessa fall. Genom den nya fjärde punkten kan Högsta domstolen, trots vad som anges i 5 § fjärde stycket om rättens sammansättning vid prövning av själva saken i ärenden enligt utlämningslagen, själv besluta hur många ledamöter som ska ingå i rätten vid prövning av tingsrättens beslut om tvångsmedel.&lt;/P&gt;
+&lt;P class="p125 ft2"&gt;I övrigt görs en redaktionell ändring.&lt;/P&gt;
+&lt;P class="p126 ft2"&gt;16&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_17"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p127 ft29"&gt;Sammanfattning av promemorian Högsta domstolens sammansättning i utlämningsärenden m.m.&lt;/P&gt;
+&lt;P class="p128 ft2"&gt;Högsta domstolens prövning av utlämningsärenden, som normalt kräver fem ledamöters deltagande, tar betydande resurser från domstolens prejudikatbildningsverksamhet. Högsta domstolen ställer sig därför bakom Utlämningsutredningens förslag till att prövningen av utlämningsärenden i stället ska ske i allmän domstol enligt den vanliga instansordningen (SOU 2011:71). Under senare år har utlämningsärendena ökat väsentligt. Eftersom det är osäkert om, och i så fall när, Utlämningsutredningens förslag kan förverkligas föreslår Högsta domstolen att prövningen av utlämningsärenden ska kunna ske med färre ledamöter än med nuvarande ordning.&lt;/P&gt;
+&lt;P class="p129 ft2"&gt;Lagstiftaren har uttalat att sammansättningen med fem ledamöter ska användas bara när det framstår som ändamålsenligt och vara förbehållen Högsta domstolens centrala rättskipande uppgifter. Utlämningsärendena är sällan komplicerade och har endast undantagsvis något prejudikatintresse. Prövningen av dem ligger därmed oftast tydligt utanför Högsta domstolens rättsbildande huvuduppgift. Prövningen har dock stor betydelse för den enskilde. Också när det gäller andra prövningar vid Högsta domstolen som har betydelse för den enskildes rättssäkerhet – i första hand nådeärenden, extraordinära rättsmedel och frågor om återförvisning av frågor till hovrätt – har lagstiftaren emellertid ansett att en sammansättning med tre ledamöter kan vara fullt tillräcklig. Mot den bakgrunden, och med hänsyn till att den prövning som ska genomföras i utlämningsärendena i normalfallet utgör en ren laglighetsprövning, framstår en sammansättning med tre ledamöter som ändamålsenlig i de flesta situationer. Flera av sammansättningsreglerna för Högsta domstolen har dessutom utformats så att det anges ett minimiantal för hur många ledamöter som ska ingå i rätten. Om sammansättningsregeln för beslut i utlämningsärenden skulle utformas på likartat sätt – så att minst tre ledamöter ska ingå i rätten – är det således fullt möjligt att även i fortsättningen använda ett högre antal ledamöter i de ärenden där detta skulle anses motiverat. Mot bakgrund av vad som nu sagts anser Högsta domstolen att sammansättningsreglerna bör ändras så att rätten vid prövning av utlämningsärenden ska bestå av minst tre ledamöter. Det är viktigt att Högsta domstolen i dessa ärenden även i fortsättningen kan genomföra en prövning av frågor som ligger bredvid själva huvudfrågan i ärendet – processuella frågor, t.ex. avseende tvångsmedel – med bara en ledamot. En ändrad sammansättningsregel bör därför ange att kravet på minst tre ledamöter endast gäller prövning av själva saken i utlämningsärenden. Det innebär att frågor om häktning som aktualiseras i ett ärende först efter att RÅ:s utredning och yttrande har överlämnats till Högsta domstolen alltjämt kan prövas av en ledamot.&lt;/P&gt;
+&lt;P class="p130 ft15"&gt;De nu förda resonemangen är giltiga även när det gäller ärenden enligt internationella verkställighetslagen. På de anförda skälen bör den ändrade sammansättningsregeln om minst tre ledamöter omfatta också dessa ärenden.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p131 ft2"&gt;Prop. 2018/19:60&lt;/P&gt;
+&lt;P class="p132 ft2"&gt;Bilaga 1&lt;/P&gt;
+&lt;P class="p133 ft2"&gt;17&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_18"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p134 ft2"&gt;Prop. 2018/19:60&lt;/P&gt;
+&lt;P class="p135 ft2"&gt;Bilaga 1&lt;/P&gt;
+&lt;P class="p136 ft2"&gt;18&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p77 ft22"&gt;Frågan om häktning i utlämningsärenden kan komma att prövas av Högsta domstolen också efter överklagande av tingsrättens häktningsbeslut. I sådana utlämningshäktningar utgör häktningsfrågan själva saken i det aktuella ärendet. När häktningsfrågan uppkommer i ett ärende hos Högsta domstolen om beslut i själva utlämningsfrågan, kan den dock prövas av en ledamot. Mot den bakgrunden framstår det inte som motiverat att i utlämningshäktningar upprätthålla krav på samma sammansättning som vid prövning av huvudfrågan i de egentliga utlämningsärendena. Därtill kommer att de ledamöter som har prövat en häktningsfråga normalt anses jäviga att delta i avgörandet av utlämningsärendet. De nuvarande sammansättningsreglerna, med krav på fem ledamöter vid prövning av utlämningshäktningar, innebär därför emellanåt också svårigheter för Högsta domstolen vid indelningen av ledamöterna. Högsta domstolen föreslår därför att rätten även i utlämningshäktningar ska kunna bestå av det antal ledamöter som Högsta domstolen bestämmer. Förslaget innebär i praktiken att sådana beslut ska kunna fattas av en ledamot.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_19"&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;DIV id="id_1_1"&gt;
+&lt;P class="p12 ft1"&gt;Promemorians lagförslag&lt;/P&gt;
+&lt;P class="p137 ft32"&gt;Förslag till lag om ändring i rättegångsbalken&lt;/P&gt;
+&lt;P class="p138 ft2"&gt;Högsta domstolen föreslår att 3 kap. 5 och 5 a §§ ska ha följande lydelse.&lt;/P&gt;
+&lt;P class="p139 ft44"&gt;&lt;SPAN class="ft11"&gt;3&lt;/SPAN&gt;&lt;SPAN class="ft60"&gt;kap. &lt;/SPAN&gt;&lt;SPAN class="ft4"&gt;5 §&lt;/SPAN&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t14"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td54"&gt;&lt;SPAN class="p16 ft3"&gt;Nuvarande lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td55"&gt;&lt;SPAN class="p16 ft3"&gt;Föreslagen lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr23 td54"&gt;&lt;SPAN class="p35 ft2"&gt;Rätten ska, om inte annat följer&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr23 td55"&gt;&lt;SPAN class="p35 ft2"&gt;Rätten ska, om inte annat följer&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td54"&gt;&lt;SPAN class="p16 ft2"&gt;av andra stycket eller 5 a § andra&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td55"&gt;&lt;SPAN class="p16 ft2"&gt;av andra &lt;SPAN class="ft3"&gt;eller tredje &lt;/SPAN&gt;stycket eller&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td54"&gt;&lt;SPAN class="p16 ft2"&gt;stycket, bestå av minst fem&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td55"&gt;&lt;SPAN class="p16 ft2"&gt;5 a § andra stycket, bestå av minst&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td54"&gt;&lt;SPAN class="p16 ft2"&gt;ledamöter vid prövning av själva&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td55"&gt;&lt;SPAN class="p16 ft2"&gt;fem ledamöter vid prövning av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td54"&gt;&lt;SPAN class="p16 ft2"&gt;saken i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td55"&gt;&lt;SPAN class="p16 ft2"&gt;själva saken i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p33 ft2"&gt;&lt;SPAN class="ft2"&gt;1.&lt;/SPAN&gt;&lt;SPAN class="ft61"&gt;mål där prövningstillstånd har beviljats av Högsta domstolen,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p33 ft2"&gt;&lt;SPAN class="ft2"&gt;2.&lt;/SPAN&gt;&lt;SPAN class="ft61"&gt;mål där Högsta domstolen är första domstolsinstans,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p140 ft15"&gt;&lt;SPAN class="ft2"&gt;3.&lt;/SPAN&gt;&lt;SPAN class="ft14"&gt;mål där talan har väckts i hovrätt och överklagande har skett till Högsta domstolen,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t5"&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr4 td54"&gt;&lt;SPAN class="p41 ft2"&gt;4. mål som har överklagats av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td55"&gt;&lt;SPAN class="p14 ft2"&gt;4. mål som har överklagats av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr5 td54"&gt;&lt;SPAN class="p41 ft2"&gt;Justitiekanslern eller av en justitie-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td55"&gt;&lt;SPAN class="p14 ft2"&gt;Justitiekanslern eller av en justitie-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td21"&gt;&lt;SPAN class="p16 ft2"&gt;ombudsman,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td56"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td22"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td55"&gt;&lt;SPAN class="p16 ft2"&gt;ombudsman, &lt;SPAN class="ft3"&gt;och&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td21"&gt;&lt;SPAN class="p35 ft2"&gt;5. ärenden&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td56"&gt;&lt;SPAN class="p16 ft2"&gt;om resning,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td22"&gt;&lt;SPAN class="p41 ft2"&gt;åter-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td55"&gt;&lt;SPAN class="p14 ft2"&gt;5. ärenden om resning, åter-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr5 td54"&gt;&lt;SPAN class="p41 ft2"&gt;ställande av försutten tid eller&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td55"&gt;&lt;SPAN class="p14 ft2"&gt;ställande av försutten tid eller&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr4 td54"&gt;&lt;SPAN class="p41 ft2"&gt;klagan över domvilla, om pröv-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td55"&gt;&lt;SPAN class="p14 ft2"&gt;klagan över domvilla, om pröv-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td57"&gt;&lt;SPAN class="p16 ft2"&gt;ningen inte är enkel&lt;SPAN class="ft3"&gt;, och&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td22"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td55"&gt;&lt;SPAN class="p16 ft2"&gt;ningen inte är enkel&lt;SPAN class="ft3"&gt;.&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td21"&gt;&lt;SPAN class="p35 ft3"&gt;6. ärenden&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td56"&gt;&lt;SPAN class="p36 ft3"&gt;enligt&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td22"&gt;&lt;SPAN class="p41 ft47"&gt;lagen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td55"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p12 ft3"&gt;(1957:668) om utlämning för brott.&lt;/P&gt;
+&lt;P class="p141 ft2"&gt;Om en framställning i ett mål där Högsta domstolen är första domstolsinstans inte innefattar laga skäl för talan eller det annars är uppenbart att talan är ogrundad, får rätten bestå av tre eller fyra ledamöter när dom i målet meddelas utan att stämning har utfärdats.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t5"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td54"&gt;&lt;SPAN class="p41 ft2"&gt;När Högsta domstolen avger ett&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td55"&gt;&lt;SPAN class="p14 ft2"&gt;När Högsta domstolen avger ett&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td54"&gt;&lt;SPAN class="p41 ft2"&gt;sådant yttrande som avses i 2 §&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td55"&gt;&lt;SPAN class="p14 ft2"&gt;sådant yttrande som avses i 2 §&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td54"&gt;&lt;SPAN class="p41 ft2"&gt;lagen (1974:579) om handlägg-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td55"&gt;&lt;SPAN class="p14 ft2"&gt;lagen (1974:579) om handlägg-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td54"&gt;&lt;SPAN class="p41 ft2"&gt;ningen av nådeärenden ska rätten&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td55"&gt;&lt;SPAN class="p14 ft2"&gt;ningen av nådeärenden ska rätten&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td54"&gt;&lt;SPAN class="p142 ft2"&gt;bestå av minst tre ledamöter.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td55"&gt;&lt;SPAN class="p14 ft2"&gt;bestå av minst tre ledamöter.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td54"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td55"&gt;&lt;SPAN class="p14 ft3"&gt;Detsamma gäller vid prövning av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td54"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td55"&gt;&lt;SPAN class="p14 ft47"&gt;själva saken i ärenden enligt lagen&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td54"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td55"&gt;&lt;SPAN class="p14 ft47"&gt;(1957:668) om utlämning för brott&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td54"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td55"&gt;&lt;SPAN class="p14 ft3"&gt;och i ärenden som avses i 34 §&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td54"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td55"&gt;&lt;SPAN class="p14 ft3"&gt;lagen (1972:260) om inter-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td54"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td55"&gt;&lt;SPAN class="p14 ft47"&gt;nationellt samarbete rörande verk-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td54"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td55"&gt;&lt;SPAN class="p143 ft47"&gt;ställighet av brottmålsdom.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_1_2"&gt;
+&lt;P class="p12 ft2"&gt;Prop. 2018/19:60&lt;/P&gt;
+&lt;P class="p112 ft2"&gt;Bilaga 2&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p12 ft2"&gt;19&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_20"&gt;
+&lt;DIV id="p20dimg1"&gt;
+&lt;INGENBILD zsrc="H6036020x1.jpg/" id="p20img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;DIV id="id_1_1"&gt;
+&lt;P class="p12 ft2"&gt;Prop. 2018/19:60&lt;/P&gt;
+&lt;P class="p144 ft2"&gt;Bilaga 2&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_1_2"&gt;
+&lt;P class="p145 ft2"&gt;5 a §&lt;/P&gt;
+&lt;P class="p146 ft15"&gt;I andra fall än sådana som avses i 5 § beslutar Högsta domstolen för varje mål eller ärende hur många ledamöter som ska ingå i rätten&lt;/P&gt;
+&lt;P class="p147 ft15"&gt;Det som sägs i första stycket gäller även vid prövning av 1. frågor om beviljande av prövningstillstånd i hovrätt,&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;DIV id="id_2_1"&gt;
+&lt;P class="p148 ft2"&gt;&lt;SPAN class="ft2"&gt;2.&lt;/SPAN&gt;&lt;SPAN class="ft61"&gt;frågor om återförvisning av mål till hovrätt, &lt;/SPAN&gt;&lt;SPAN class="ft3"&gt;och&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p33 ft2"&gt;&lt;SPAN class="ft2"&gt;3.&lt;/SPAN&gt;&lt;SPAN class="ft13"&gt;överklagande av hovrätts&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p149 ft43"&gt;avvisningsbeslut som avses i 54 kap. 17 §.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2_2"&gt;
+&lt;P class="p150 ft2"&gt;&lt;SPAN class="ft2"&gt;2.&lt;/SPAN&gt;&lt;SPAN class="ft13"&gt;frågor om återförvisning av mål till hovrätt,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p78 ft2"&gt;&lt;SPAN class="ft2"&gt;3.&lt;/SPAN&gt;&lt;SPAN class="ft13"&gt;överklagande av hovrätts&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p12 ft2"&gt;avvisningsbeslut som avses i&lt;/P&gt;
+&lt;P class="p12 ft2"&gt;&lt;SPAN class="ft2"&gt;54&lt;/SPAN&gt;&lt;SPAN class="ft13"&gt;kap. 17 §&lt;/SPAN&gt;&lt;SPAN class="ft3"&gt;, och&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p151 ft5"&gt;&lt;SPAN class="ft3"&gt;4.&lt;/SPAN&gt;&lt;SPAN class="ft62"&gt;ärenden som avses i 16 § femte stycket lagen (1957:668) om utlämning för brott.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_3"&gt;
+&lt;P class="p152 ft2"&gt;Denna lag träder i kraft den 1 januari 2018.&lt;/P&gt;
+&lt;P class="p153 ft2"&gt;20&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_21"&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;DIV id="id_1_1"&gt;
+&lt;P class="p12 ft1"&gt;Förteckning över remissinstanserna&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_1_2"&gt;
+&lt;P class="p12 ft2"&gt;Prop. 2018/19:60&lt;/P&gt;
+&lt;P class="p112 ft2"&gt;Bilaga 3&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p93 ft2"&gt;Efter remiss har yttranden över promemorian Högsta domstolens sammansättning i utlämningsärenden m.m. inkommit från Riksdagens ombudsmän, Svea hovrätt, Göta hovrätt, Stockholms tingsrätt, Göteborgs tingsrätt, Malmö tingsrätt, Justitiekanslern, Domstolsverket, Åklagarmyndigheten, Polismyndigheten, Migrationsverket, Stockholms universitet (juridiska fakultetsnämnden), Uppsala universitet (juridiska fakultetsnämnden) och Sveriges advokatsamfund.&lt;/P&gt;
+&lt;P class="p154 ft4"&gt;Svar har inte inkommit från Amnesty International, Civil Rights Defenders och Internationella Juristkommissionen, Svenska avdelningen.&lt;/P&gt;
+&lt;P class="p155 ft2"&gt;21&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_22"&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;DIV id="id_1_1"&gt;
+&lt;P class="p12 ft2"&gt;Prop. 2018/19:60&lt;/P&gt;
+&lt;P class="p144 ft2"&gt;Bilaga 4&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_1_2"&gt;
+&lt;P class="p12 ft1"&gt;Lagrådsremissens lagförslag&lt;/P&gt;
+&lt;P class="p156 ft32"&gt;Förslag till lag om ändring i rättegångsbalken&lt;/P&gt;
+&lt;P class="p157 ft4"&gt;Härigenom föreskrivs att 3 kap. 5 och 5 a §§ rättegångsbalken ska ha följande lydelse.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p158 ft3"&gt;Nuvarande lydelse&lt;SPAN style="padding-left:105px;"&gt;Föreslagen lydelse&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p159 ft11"&gt;3 kap.&lt;/P&gt;
+&lt;P class="p160 ft2"&gt;5 §&lt;A href="#page_22"&gt;&lt;SPAN class="ft12"&gt;1&lt;/SPAN&gt;&lt;/A&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t15"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td19"&gt;&lt;SPAN class="p29 ft2"&gt;Rätten ska, om inte annat följer&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td20"&gt;&lt;SPAN class="p14 ft2"&gt;Rätten ska, om inte &lt;SPAN class="ft3"&gt;något &lt;/SPAN&gt;annat&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td19"&gt;&lt;SPAN class="p29 ft2"&gt;av andra stycket eller 5 a § andra&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td20"&gt;&lt;SPAN class="p14 ft2"&gt;följer av andra &lt;SPAN class="ft3"&gt;eller fjärde &lt;/SPAN&gt;stycket&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td19"&gt;&lt;SPAN class="p29 ft2"&gt;stycket, bestå av minst fem&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td20"&gt;&lt;SPAN class="p14 ft2"&gt;eller 5 a § andra stycket &lt;NOBR&gt;&lt;SPAN class="ft3"&gt;1–3&lt;/SPAN&gt;,&lt;/NOBR&gt; bestå&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td19"&gt;&lt;SPAN class="p29 ft2"&gt;ledamöter vid prövning av själva&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td20"&gt;&lt;SPAN class="p30 ft2"&gt;av minst fem ledamöter vid&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td19"&gt;&lt;SPAN class="p31 ft8"&gt;saken i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td20"&gt;&lt;SPAN class="p32 ft8"&gt;prövning av själva saken i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p111 ft2"&gt;&lt;SPAN class="ft2"&gt;1.&lt;/SPAN&gt;&lt;SPAN class="ft13"&gt;mål där prövningstillstånd har beviljats av Högsta domstolen,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p111 ft2"&gt;&lt;SPAN class="ft2"&gt;2.&lt;/SPAN&gt;&lt;SPAN class="ft13"&gt;mål där Högsta domstolen är första domstolsinstans,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p161 ft15"&gt;&lt;SPAN class="ft2"&gt;3.&lt;/SPAN&gt;&lt;SPAN class="ft14"&gt;mål där talan har väckts i hovrätt och överklagande har skett till Högsta domstolen,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t15"&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr5 td19"&gt;&lt;SPAN class="p29 ft2"&gt;4. mål som har överklagats av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td20"&gt;&lt;SPAN class="p14 ft2"&gt;4. mål som har överklagats av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr4 td19"&gt;&lt;SPAN class="p29 ft2"&gt;Justitiekanslern eller av en justitie-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td20"&gt;&lt;SPAN class="p30 ft2"&gt;Justitiekanslern eller av en justitie-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td21"&gt;&lt;SPAN class="p16 ft2"&gt;ombudsman,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td21"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td22"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td20"&gt;&lt;SPAN class="p16 ft2"&gt;ombudsman, &lt;SPAN class="ft3"&gt;och&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td21"&gt;&lt;SPAN class="p35 ft2"&gt;5. ärenden&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td21"&gt;&lt;SPAN class="p16 ft2"&gt;om resning,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td22"&gt;&lt;SPAN class="p29 ft2"&gt;åter-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td20"&gt;&lt;SPAN class="p14 ft2"&gt;5. ärenden om resning, åter-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr4 td19"&gt;&lt;SPAN class="p29 ft2"&gt;ställande av försutten tid eller&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td20"&gt;&lt;SPAN class="p14 ft2"&gt;ställande av försutten tid eller&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr4 td19"&gt;&lt;SPAN class="p29 ft2"&gt;klagan över domvilla, om pröv-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td20"&gt;&lt;SPAN class="p14 ft2"&gt;klagan över domvilla, om pröv-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td23"&gt;&lt;SPAN class="p16 ft2"&gt;ningen inte är enkel&lt;SPAN class="ft3"&gt;, och&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td22"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td20"&gt;&lt;SPAN class="p16 ft2"&gt;ningen inte är enkel.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td21"&gt;&lt;SPAN class="p35 ft16"&gt;6. ärenden&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td21"&gt;&lt;SPAN class="p36 ft16"&gt;enligt&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td22"&gt;&lt;SPAN class="p29 ft17"&gt;lagen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td20"&gt;&lt;SPAN class="p16 ft18"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p158 ft3"&gt;(1957:668) om utlämning för brott.&lt;/P&gt;
+&lt;P class="p105 ft2"&gt;Om en framställning i ett mål där Högsta domstolen är första domstolsinstans inte innefattar laga skäl för talan eller det annars är uppenbart att talan är ogrundad, får rätten bestå av tre eller fyra ledamöter när dom i målet meddelas utan att stämning har utfärdats.&lt;/P&gt;
+&lt;P class="p105 ft15"&gt;När Högsta domstolen avger ett sådant yttrande som avses i 2 § lagen (1974:579) om handläggningen av nådeärenden ska rätten bestå av minst tre ledamöter.&lt;/P&gt;
+&lt;P class="p162 ft3"&gt;Det som sägs i tredje stycket gäller också vid prövning av själva saken i ärenden enligt lagen (1957:668) om utlämning för brott, om inte något annat följer av 5 a § andra stycket 4, och i ärenden enligt 34 § lagen (1972:260) om internationellt samarbete rörande verkställighet av brottmålsdom.&lt;/P&gt;
+&lt;P class="p163 ft21"&gt;&lt;SPAN class="ft19"&gt;1&lt;/SPAN&gt;&lt;SPAN class="ft20"&gt;Paragrafen fick sin nuvarande beteckning genom 2009:344.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p12 ft2"&gt;22&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_23"&gt;
+&lt;DIV id="p23dimg1"&gt;
+&lt;INGENBILD zsrc="H6036023x1.jpg/" id="p23img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p164 ft2"&gt;Prop. 2018/19:60&lt;/P&gt;
+&lt;P class="p165 ft2"&gt;Bilaga 4&lt;/P&gt;
+&lt;P class="p166 ft2"&gt;5 a §&lt;A href="#page_23"&gt;&lt;SPAN class="ft12"&gt;2&lt;/SPAN&gt;&lt;/A&gt;&lt;/P&gt;
+&lt;P class="p167 ft15"&gt;I andra fall än sådana som avses i 5 § beslutar Högsta domstolen för varje mål eller ärende hur många ledamöter som ska ingå i rätten.&lt;/P&gt;
+&lt;P class="p168 ft15"&gt;Det som sägs i första stycket gäller även vid prövning av 1. frågor om beviljande av prövningstillstånd i hovrätt,&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t16"&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr5 td32"&gt;&lt;SPAN class="p35 ft2"&gt;2. frågor om återförvisning&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td33"&gt;&lt;SPAN class="p41 ft22"&gt;av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr5 td32"&gt;&lt;SPAN class="p35 ft2"&gt;2. frågor om återförvisning&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td58"&gt;&lt;SPAN class="p14 ft22"&gt;av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td34"&gt;&lt;SPAN class="p16 ft2"&gt;mål till hovrätt, &lt;SPAN class="ft3"&gt;och&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td33"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td24"&gt;&lt;SPAN class="p16 ft2"&gt;mål till hovrätt,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td25"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td58"&gt;&lt;SPAN class="p16 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td24"&gt;&lt;SPAN class="p35 ft2"&gt;3. överklagande&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td25"&gt;&lt;SPAN class="p35 ft2"&gt;av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td35"&gt;&lt;SPAN class="p41 ft2"&gt;hovrätts&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td24"&gt;&lt;SPAN class="p35 ft2"&gt;3. överklagande&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td25"&gt;&lt;SPAN class="p35 ft2"&gt;av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td59"&gt;&lt;SPAN class="p14 ft2"&gt;hovrätts&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td24"&gt;&lt;SPAN class="p16 ft2"&gt;avvisningsbeslut&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td25"&gt;&lt;SPAN class="p16 ft2"&gt;som&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td16"&gt;&lt;SPAN class="p16 ft2"&gt;avses&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td33"&gt;&lt;SPAN class="p41 ft2"&gt;i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td24"&gt;&lt;SPAN class="p16 ft2"&gt;avvisningsbeslut&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td25"&gt;&lt;SPAN class="p16 ft2"&gt;som&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td16"&gt;&lt;SPAN class="p16 ft2"&gt;avses&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td58"&gt;&lt;SPAN class="p14 ft2"&gt;i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td24"&gt;&lt;SPAN class="p16 ft8"&gt;54 kap. 17 §.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td25"&gt;&lt;SPAN class="p16 ft18"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td16"&gt;&lt;SPAN class="p16 ft18"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td33"&gt;&lt;SPAN class="p16 ft18"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td24"&gt;&lt;SPAN class="p16 ft8"&gt;54 kap. 17 §&lt;SPAN class="ft16"&gt;, och&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td25"&gt;&lt;SPAN class="p16 ft18"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td16"&gt;&lt;SPAN class="p16 ft18"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td58"&gt;&lt;SPAN class="p16 ft18"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p169 ft27"&gt;&lt;SPAN class="ft3"&gt;4.&lt;/SPAN&gt;&lt;SPAN class="ft63"&gt;frågor om tvångsmedel enligt 16 § femte stycket lagen (1957:668) om utlämning för brott.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p170 ft2"&gt;Denna lag träder i kraft den 1 april 2019.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t17"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td60"&gt;&lt;SPAN class="p16 ft21"&gt;&lt;SPAN class="ft24"&gt;2 &lt;/SPAN&gt;Senaste lydelse 2009:344.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td61"&gt;&lt;SPAN class="p14 ft2"&gt;23&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_24"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p134 ft2"&gt;Prop. 2018/19:60&lt;/P&gt;
+&lt;P class="p135 ft2"&gt;Bilaga 5&lt;/P&gt;
+&lt;P class="p136 ft2"&gt;24&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p12 ft1"&gt;Lagrådets yttrande&lt;/P&gt;
+&lt;P class="p171 ft2"&gt;Utdrag ur protokoll vid sammanträde &lt;NOBR&gt;2018-09-13&lt;/NOBR&gt;&lt;/P&gt;
+&lt;P class="p172 ft43"&gt;&lt;SPAN class="ft42"&gt;Närvarande: &lt;/SPAN&gt;F.d. justitierådet Severin Blomstrand samt justitieråden Erik Nymansson och Thomas Bull&lt;/P&gt;
+&lt;P class="p173 ft11"&gt;Högsta domstolens sammansättning i utlämningsärenden&lt;/P&gt;
+&lt;P class="p174 ft4"&gt;Enligt en lagrådsremiss den 30 augusti 2018 har regeringen (Justitiedepartementet) beslutat inhämta Lagrådets yttrande över förslag till lag om ändring i rättegångsbalken.&lt;/P&gt;
+&lt;P class="p173 ft2"&gt;Förslaget har inför Lagrådet föredragits av kanslirådet Martina Löfstrand.&lt;/P&gt;
+&lt;P class="p175 ft2"&gt;&lt;SPAN class="ft64"&gt;Lagrådet&lt;/SPAN&gt; lämnar förslaget utan erinran.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_25"&gt;
+&lt;DIV id="p25dimg1"&gt;
+&lt;INGENBILD zsrc="H6036025x1.jpg/" id="p25img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p176 ft2"&gt;Prop. 2018/19:60&lt;/P&gt;
+&lt;P class="p5 ft1"&gt;Justitiedepartementet&lt;/P&gt;
+&lt;P class="p177 ft2"&gt;Utdrag ur protokoll vid regeringssammanträde den 28 februari 2019&lt;/P&gt;
+&lt;P class="p120 ft2"&gt;Närvarande: statsminister Löfven, ordförande, och statsråden&lt;/P&gt;
+&lt;P class="p178 ft2"&gt;Y Johansson, M Johansson, Baylan, Hallengren, Hultqvist, Damberg,&lt;/P&gt;
+&lt;P class="p114 ft2"&gt;Shekarabi, Eriksson, Linde, Ekström, Eneroth, Dahlgren, Nilsson,&lt;/P&gt;
+&lt;P class="p179 ft2"&gt;Ernkrans, Lindhagen, Lind&lt;/P&gt;
+&lt;P class="p4 ft2"&gt;Föredragande: statsrådet M Johansson&lt;/P&gt;
+&lt;P class="p180 ft4"&gt;Regeringen beslutar proposition Högsta domstolens sammansättning i utlämningsärenden&lt;/P&gt;
+&lt;P class="p181 ft2"&gt;25&lt;/P&gt;
+&lt;/DIV&gt;
+
+&lt;/div&gt;&lt;style&gt;
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+&lt;/style&gt;
+</html>
+  </dokument>
+<dokforslag>
+<forslag>
+<nummer datatype="int32">1</nummer>
+<beteckning datatype="string">1</beteckning>
+<lydelse datatype="string">Riksdagen antar regeringens förslag till lag om ändring i rättegångsbalken.</lydelse>
+<lydelse2 datatype="string" />
+<utskottet datatype="string">Bifall</utskottet>
+<kammaren datatype="string">Bifall</kammaren>
+<behandlas_i datatype="string">2018/19:JuU17</behandlas_i>
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string">JuU</intressent>
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+</dokforslag>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">INL</kod>
+<namn datatype="string">Inlämnad</namn>
+<datum datatype="datetime">2019-03-05 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">B</kod>
+<namn datatype="string">Bordlagd</namn>
+<datum datatype="datetime">2019-03-05 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">HÄN</kod>
+<namn datatype="string">Hänvisad</namn>
+<datum datatype="datetime">2019-03-06 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">MOT</kod>
+<namn datatype="string">Motionstid slutar</namn>
+<datum datatype="datetime">2019-03-20 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+</dokaktivitet>
+<dokintressent>
+<intressent>
+<intressent_id datatype="string">0218878014918</intressent_id>
+<namn datatype="string">Stefan Löfven</namn>
+<partibet datatype="string">S</partibet>
+<ordning datatype="int16">1</ordning>
+<roll datatype="string">Statsråd1</roll>
+</intressent>
+<intressent>
+<intressent_id datatype="string">0473783431010</intressent_id>
+<namn datatype="string">Morgan Johansson</namn>
+<partibet datatype="string">S</partibet>
+<ordning datatype="int16">2</ordning>
+<roll datatype="string">Statsråd2</roll>
+</intressent>
+</dokintressent>
+<dokuppgift>
+<uppgift>
+<kod datatype="string">inlamnatav</kod>
+<namn datatype="string">Inlämnat av</namn>
+<text datatype="string">Justitiedepartementet</text>
+<dok_id datatype="string">H60360</dok_id>
+<systemdatum datatype="datetime">2019-05-02 17:57:36</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">tilldelat</kod>
+<namn datatype="string">Tilldelat</namn>
+<text datatype="string">Justitieutskottet</text>
+<dok_id datatype="string">H60360</dok_id>
+<systemdatum datatype="datetime">2019-05-02 17:57:36</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">statustext</kod>
+<namn datatype="string">statustext</namn>
+<text datatype="string">Propositionen bereds i utskott</text>
+<dok_id datatype="string">H60360</dok_id>
+<systemdatum datatype="datetime">2019-03-06 14:13:27</systemdatum>
+</uppgift>
+</dokuppgift>
+<dokbilaga>
+<bilaga>
+<dok_id datatype="string">H60360</dok_id>
+<titel datatype="string">Högsta domstolens sammansättning i utlämningsärenden</titel>
+<subtitel datatype="string" />
+<filnamn datatype="string">prop_201819__60.pdf</filnamn>
+<filstorlek datatype="int32">282006</filstorlek>
+<filtyp datatype="string">pdf</filtyp>
+<fil_url datatype="string">http://data.riksdagen.se/fil/092D4A64-5561-411D-9412-7089561F3D39</fil_url>
+</bilaga>
+</dokbilaga>
+<dokreferens>
+<referens>
+<referenstyp datatype="string">behandlas_i</referenstyp>
+<uppgift datatype="string">2018/19:JuU24</uppgift>
+<ref_dok_id datatype="string">H601JuU24</ref_dok_id>
+<ref_dok_typ datatype="string">bet</ref_dok_typ>
+<ref_dok_rm datatype="string">2018/19</ref_dok_rm>
+<ref_dok_bet datatype="string">JuU24</ref_dok_bet>
+<ref_dok_titel datatype="string">Högsta domstolens sammansättning i utlämningsärenden</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">bet</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Betänkande</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlas_i</referenstyp>
+<uppgift datatype="string">2018/19:JuU17</uppgift>
+<ref_dok_id datatype="string">H601JuU17</ref_dok_id>
+<ref_dok_typ datatype="string">bet</ref_dok_typ>
+<ref_dok_rm datatype="string">2018/19</ref_dok_rm>
+<ref_dok_bet datatype="string">JuU17</ref_dok_bet>
+<ref_dok_titel datatype="string">Högsta domstolens sammansättning i utlämningsärenden</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">bet</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Betänkande</ref_dok_dokumentnamn>
+</referens>
+</dokreferens>
+<debatt /></dokumentstatus>

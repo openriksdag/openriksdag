@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">b1c8e687-235c-4332-af02-94319127adc5</hangar_guid>
+<sourceid datatype="string">40db74f6-0282-4938-aa17-b4679a8bf2b4</sourceid>
+<intressent_id datatype="string">0980370282703</intressent_id>
+<hangar_id datatype="int32">2342025</hangar_id>
+<fodd_ar datatype="int16">1939</fodd_ar>
+<kon datatype="string">man</kon>
+<efternamn datatype="string">Bergstig</efternamn>
+<tilltalsnamn datatype="string">Lars</tilltalsnamn>
+<sorteringsnamn datatype="string">Bergstig,Lars</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">FP</parti>
+<valkrets datatype="string"></valkrets>
+<status datatype="string">Tidigare ersättare</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/40db74f6-0282-4938-aa17-b4679a8bf2b4</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/40db74f6-0282-4938-aa17-b4679a8bf2b4_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/40db74f6-0282-4938-aa17-b4679a8bf2b4_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/40db74f6-0282-4938-aa17-b4679a8bf2b4_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Ersättare</roll_kod>
+<ordningsnummer datatype="int32">44</ordningsnummer>
+<status datatype="string">Ersättare</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1994-06-20</from>
+<tom datatype="datetime">1994-10-03</tom>
+<uppgift datatype="string">Anne Wibble</uppgift>
+<intressent_id datatype="string">0980370282703</intressent_id>
+<hangar_id datatype="int32">2342025</hangar_id>
+<sortering datatype="int32">45</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">20</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+<uppgift>
+<kod datatype="string">sv</kod>
+<uppgift datatype="string">informationschef</uppgift>
+<typ datatype="string">titlar</typ>
+<intressent_id datatype="string">0980370282703</intressent_id>
+<hangar_id datatype="int32">2342025</hangar_id>
+</uppgift>
+<uppgift>
+<kod datatype="string">en</kod>
+<uppgift datatype="string"></uppgift>
+<typ datatype="string">titlar</typ>
+<intressent_id datatype="string">0980370282703</intressent_id>
+<hangar_id datatype="int32">2342025</hangar_id>
+</uppgift>
+</personuppgift>
+</person>

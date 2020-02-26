@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "24927e6a-4b6f-423f-9dee-52024e6b3d29",
+    "sourceid": "ca836659-d074-44b7-9a9f-3c8aa2a909f1",
+    "intressent_id": "",
+    "hangar_id": "4991921",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Skarhed",
+    "tilltalsnamn": "Anna",
+    "sorteringsnamn": "Skarhed,Anna",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Ordförande i Nämnden för prövning av statsråds och statssekreterares övergångsrestriktioner",
+    "person_url_xml": "http://data.riksdagen.se/person/ca836659-d074-44b7-9a9f-3c8aa2a909f1",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ca836659-d074-44b7-9a9f-3c8aa2a909f1_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ca836659-d074-44b7-9a9f-3c8aa2a909f1_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ca836659-d074-44b7-9a9f-3c8aa2a909f1_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "NSÖ",
+        "roll_kod": "Ordförande",
+        "ordningsnummer": "1",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2018-07-01",
+        "tom": "2022-07-01",
+        "uppgift": "Nämnden för prövning av statsråds och statssekreterares övergångsrestriktioner",
+        "intressent_id": "",
+        "hangar_id": "4991921",
+        "sortering": "10",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

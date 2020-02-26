@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "4179000d-9fb6-4b55-8dd4-bf86f6fc3079",
+    "sourceid": "20175651-c84d-469b-a289-4b92a4567553",
+    "intressent_id": "0890087624410",
+    "hangar_id": "2342888",
+    "fodd_ar": "1955",
+    "kon": "man",
+    "efternamn": "Petersson",
+    "tilltalsnamn": "Sven-Olof",
+    "sorteringsnamn": "Petersson,Sven-Olof",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/20175651-c84d-469b-a289-4b92a4567553",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/20175651-c84d-469b-a289-4b92a4567553_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/20175651-c84d-469b-a289-4b92a4567553_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/20175651-c84d-469b-a289-4b92a4567553_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "141",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0890087624410",
+          "hangar_id": "2342888",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "140",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0890087624410",
+          "hangar_id": "2342888",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-02",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0890087624410",
+          "hangar_id": "2342888",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0890087624410",
+          "hangar_id": "2342888",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-15",
+          "tom": "1994-10-02",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0890087624410",
+          "hangar_id": "2342888",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-11-07",
+          "tom": "1991-09-29",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0890087624410",
+          "hangar_id": "2342888",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-10-27",
+          "tom": "1991-09-29",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0890087624410",
+          "hangar_id": "2342888",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "byggn.ing., lantbr.",
+          "typ": "titlar",
+          "intressent_id": "0890087624410",
+          "hangar_id": "2342888"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0890087624410",
+          "hangar_id": "2342888"
+        }
+      ]
+    }
+  }
+}

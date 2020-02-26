@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "a61c19c7-3b12-47ed-bd4f-7fde33b802bf",
+    "sourceid": "2784b8ba-4f2e-429a-b03e-34d8dfabf47b",
+    "intressent_id": "0514469375718",
+    "hangar_id": "2343097",
+    "fodd_ar": "1960",
+    "kon": "kvinna",
+    "efternamn": "Olsson",
+    "tilltalsnamn": "Ingrid",
+    "sorteringsnamn": "Olsson,Ingrid",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Skåne läns västra",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/2784b8ba-4f2e-429a-b03e-34d8dfabf47b",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2784b8ba-4f2e-429a-b03e-34d8dfabf47b_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2784b8ba-4f2e-429a-b03e-34d8dfabf47b_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2784b8ba-4f2e-429a-b03e-34d8dfabf47b_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2003-10-28",
+          "tom": "2003-12-18",
+          "uppgift": "",
+          "intressent_id": "0514469375718",
+          "hangar_id": "2343097",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2003-10-28",
+          "tom": "2003-12-18",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0514469375718",
+          "hangar_id": "2343097",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2003-10-28",
+          "tom": "2003-12-18",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0514469375718",
+          "hangar_id": "2343097",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

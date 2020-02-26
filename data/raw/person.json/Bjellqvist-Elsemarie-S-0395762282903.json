@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "742b2165-fc8d-4000-a81b-b84b7a229aef",
+    "sourceid": "57918418-7b85-433d-a5c1-f19dec68f655",
+    "intressent_id": "0395762282903",
+    "hangar_id": "5003682",
+    "fodd_ar": "1944",
+    "kon": "kvinna",
+    "efternamn": "Bjellqvist",
+    "tilltalsnamn": "Elsemarie",
+    "sorteringsnamn": "Bjellqvist,Elsemarie",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Stockholms kommun",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/57918418-7b85-433d-a5c1-f19dec68f655",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/57918418-7b85-433d-a5c1-f19dec68f655_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/57918418-7b85-433d-a5c1-f19dec68f655_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/57918418-7b85-433d-a5c1-f19dec68f655_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "281",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2019-09-05",
+          "tom": "2019-10-01",
+          "uppgift": "Annika Strandhäll",
+          "intressent_id": "0395762282903",
+          "hangar_id": "5003682",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "5",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2019-07-15",
+          "tom": "2019-09-05",
+          "uppgift": "Anders Ygeman",
+          "intressent_id": "0395762282903",
+          "hangar_id": "5003682",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-07-15",
+          "tom": "2019-10-01",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0395762282903",
+          "hangar_id": "5003682",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-07-15",
+          "tom": "2019-10-01",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0395762282903",
+          "hangar_id": "5003682",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Förbundssekreterare.",
+          "typ": "titlar",
+          "intressent_id": "0395762282903",
+          "hangar_id": "5003682"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0395762282903",
+          "hangar_id": "5003682"
+        }
+      ]
+    }
+  }
+}

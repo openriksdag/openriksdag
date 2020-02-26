@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "a4cf2fab-d5aa-4a39-b0fa-a0d4c78a32c9",
+    "sourceid": "885be88d-1940-4307-ab9b-e9172fa317f4",
+    "intressent_id": "0287505615601",
+    "hangar_id": "2341697",
+    "fodd_ar": "1926",
+    "kon": "man",
+    "efternamn": "Lundgren",
+    "tilltalsnamn": "Carl-Erik",
+    "sorteringsnamn": "Lundgren,Carl-Erik",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/885be88d-1940-4307-ab9b-e9172fa317f4",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/885be88d-1940-4307-ab9b-e9172fa317f4_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/885be88d-1940-4307-ab9b-e9172fa317f4_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/885be88d-1940-4307-ab9b-e9172fa317f4_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Ersättare",
+        "ordningsnummer": "0",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "1976-10-03",
+        "tom": "1976-10-08",
+        "uppgift": "Thage G Peterson",
+        "intressent_id": "0287505615601",
+        "hangar_id": "2341697",
+        "sortering": "45",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": ""
+  }
+}

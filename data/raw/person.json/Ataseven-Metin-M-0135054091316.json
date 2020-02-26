@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "7f672e5b-19fa-41c0-ac56-7a317402e24f",
+    "sourceid": "b41796f5-6383-4d19-ac18-835d0f2748da",
+    "intressent_id": "0135054091316",
+    "hangar_id": "2369451",
+    "fodd_ar": "1972",
+    "kon": "man",
+    "efternamn": "Ataseven",
+    "tilltalsnamn": "Metin",
+    "sorteringsnamn": "Ataseven,Metin",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/b41796f5-6383-4d19-ac18-835d0f2748da",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b41796f5-6383-4d19-ac18-835d0f2748da_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b41796f5-6383-4d19-ac18-835d0f2748da_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b41796f5-6383-4d19-ac18-835d0f2748da_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "211",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2013-01-01",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0135054091316",
+          "hangar_id": "2369451",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "84",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2012-08-16",
+          "tom": "2012-12-31",
+          "uppgift": "Ewa Björling",
+          "intressent_id": "0135054091316",
+          "hangar_id": "2369451",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "112",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2012-03-19",
+          "tom": "2012-08-15",
+          "uppgift": "Hillevi Engström",
+          "intressent_id": "0135054091316",
+          "hangar_id": "2369451",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "248",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-06",
+          "tom": "2012-03-18",
+          "uppgift": "Mikael Sandström",
+          "intressent_id": "0135054091316",
+          "hangar_id": "2369451",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0135054091316",
+          "hangar_id": "2369451",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-03-13",
+          "tom": "2014-09-29",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0135054091316",
+          "hangar_id": "2369451",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-03-12",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0135054091316",
+          "hangar_id": "2369451",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Jur.kand.",
+          "typ": "titlar",
+          "intressent_id": "0135054091316",
+          "hangar_id": "2369451"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0135054091316",
+          "hangar_id": "2369451"
+        }
+      ]
+    }
+  }
+}

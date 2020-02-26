@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "a3427e95-b85b-43d5-b79e-836e5c2ffbf6",
+    "sourceid": "c5151c6d-77f1-4a2a-ad0b-b567ed77f904",
+    "intressent_id": "0167049231801",
+    "hangar_id": "2341919",
+    "fodd_ar": "1936",
+    "kon": "man",
+    "efternamn": "Poromaa",
+    "tilltalsnamn": "Bruno",
+    "sorteringsnamn": "Poromaa,Bruno",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Avliden  2016-09-13",
+    "person_url_xml": "http://data.riksdagen.se/person/c5151c6d-77f1-4a2a-ad0b-b567ed77f904",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c5151c6d-77f1-4a2a-ad0b-b567ed77f904_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c5151c6d-77f1-4a2a-ad0b-b567ed77f904_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c5151c6d-77f1-4a2a-ad0b-b567ed77f904_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "341",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0167049231801",
+          "hangar_id": "2341919",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "342",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0167049231801",
+          "hangar_id": "2341919",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0167049231801",
+          "hangar_id": "2341919",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "NR",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1988-10-18",
+          "tom": "1994-10-03",
+          "uppgift": "Nordiska rådets svenska delegation",
+          "intressent_id": "0167049231801",
+          "hangar_id": "2341919",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-02",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0167049231801",
+          "hangar_id": "2341919",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-11-07",
+          "tom": "1991-09-29",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0167049231801",
+          "hangar_id": "2341919",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "gruvarbetare",
+          "typ": "titlar",
+          "intressent_id": "0167049231801",
+          "hangar_id": "2341919"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0167049231801",
+          "hangar_id": "2341919"
+        }
+      ]
+    }
+  }
+}

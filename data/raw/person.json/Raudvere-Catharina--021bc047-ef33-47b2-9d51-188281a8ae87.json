@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "d9e43ad1-f77c-4285-9c79-a88890149dd2",
+    "sourceid": "021bc047-ef33-47b2-9d51-188281a8ae87",
+    "intressent_id": "",
+    "hangar_id": "4788821",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Raudvere",
+    "tilltalsnamn": "Catharina",
+    "sorteringsnamn": "Raudvere,Catharina",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ledamot i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/021bc047-ef33-47b2-9d51-188281a8ae87",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/021bc047-ef33-47b2-9d51-188281a8ae87_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/021bc047-ef33-47b2-9d51-188281a8ae87_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/021bc047-ef33-47b2-9d51-188281a8ae87_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RJ",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "8",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2010-11-01",
+        "tom": "2014-10-31",
+        "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+        "intressent_id": "",
+        "hangar_id": "4788821",
+        "sortering": "30",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

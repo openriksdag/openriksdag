@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "7b0860c8-0deb-4a6f-ae14-6bd02265c2dd",
+    "sourceid": "3eebc951-20c7-494e-ad49-9d64ebb0db2f",
+    "intressent_id": "0728463811911",
+    "hangar_id": "2343463",
+    "fodd_ar": "1970",
+    "kon": "kvinna",
+    "efternamn": "Ågren Wikström",
+    "tilltalsnamn": "Åsa",
+    "sorteringsnamn": "Ågren Wikström,Åsa",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Norrbottens län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/3eebc951-20c7-494e-ad49-9d64ebb0db2f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3eebc951-20c7-494e-ad49-9d64ebb0db2f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3eebc951-20c7-494e-ad49-9d64ebb0db2f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3eebc951-20c7-494e-ad49-9d64ebb0db2f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "349",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-04",
+          "tom": "2011-03-06",
+          "uppgift": "",
+          "intressent_id": "0728463811911",
+          "hangar_id": "2343463",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2011-03-06",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0728463811911",
+          "hangar_id": "2343463",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "22",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-11-17",
+          "tom": "2011-03-06",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0728463811911",
+          "hangar_id": "2343463",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Kommunchef",
+          "typ": "titlar",
+          "intressent_id": "0728463811911",
+          "hangar_id": "2343463"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0728463811911",
+          "hangar_id": "2343463"
+        }
+      ]
+    }
+  }
+}

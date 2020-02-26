@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "3e0b355d-4054-4d21-8b22-d0ff24bd82f7",
+    "sourceid": "7dfcec2a-0395-4088-962d-8f7509072e6a",
+    "intressent_id": "0927227010803",
+    "hangar_id": "2341792",
+    "fodd_ar": "1931",
+    "kon": "kvinna",
+    "efternamn": "Karlsson",
+    "tilltalsnamn": "Marianne",
+    "sorteringsnamn": "Karlsson,Marianne",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "",
+    "status": "Avliden  2012-12-24",
+    "person_url_xml": "http://data.riksdagen.se/person/7dfcec2a-0395-4088-962d-8f7509072e6a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7dfcec2a-0395-4088-962d-8f7509072e6a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7dfcec2a-0395-4088-962d-8f7509072e6a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7dfcec2a-0395-4088-962d-8f7509072e6a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0927227010803",
+          "hangar_id": "2341792",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0927227010803",
+          "hangar_id": "2341792",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0927227010803",
+          "hangar_id": "2341792",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1976-10-04",
+          "tom": "1979-10-01",
+          "uppgift": "",
+          "intressent_id": "0927227010803",
+          "hangar_id": "2341792",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "kontorist",
+          "typ": "titlar",
+          "intressent_id": "0927227010803",
+          "hangar_id": "2341792"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0927227010803",
+          "hangar_id": "2341792"
+        }
+      ]
+    }
+  }
+}

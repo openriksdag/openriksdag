@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "53652688-1f54-46e3-95da-92f675ddaf6e",
+    "sourceid": "c7eac765-b81d-4c64-9936-cf7361f3c556",
+    "intressent_id": "0226234976000",
+    "hangar_id": "2342495",
+    "fodd_ar": "1948",
+    "kon": "man",
+    "efternamn": "Edlund",
+    "tilltalsnamn": "Rolf",
+    "sorteringsnamn": "Edlund,Rolf",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/c7eac765-b81d-4c64-9936-cf7361f3c556",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c7eac765-b81d-4c64-9936-cf7361f3c556_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c7eac765-b81d-4c64-9936-cf7361f3c556_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c7eac765-b81d-4c64-9936-cf7361f3c556_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "285",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1996-03-11",
+          "tom": "1996-06-30",
+          "uppgift": "Marie Wilén",
+          "intressent_id": "0226234976000",
+          "hangar_id": "2342495",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1996-03-12",
+          "tom": "1996-06-30",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0226234976000",
+          "hangar_id": "2342495",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1996-03-11",
+          "tom": "1996-06-30",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0226234976000",
+          "hangar_id": "2342495",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "busschaufför",
+          "typ": "titlar",
+          "intressent_id": "0226234976000",
+          "hangar_id": "2342495"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0226234976000",
+          "hangar_id": "2342495"
+        }
+      ]
+    }
+  }
+}

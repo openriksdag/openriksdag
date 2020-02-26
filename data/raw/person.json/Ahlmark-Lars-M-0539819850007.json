@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "8ee01249-93ff-4ee5-a9ea-d440a66f1cdb",
+    "sourceid": "e4536a28-be36-40ec-8c05-7924e0e7a55d",
+    "intressent_id": "0539819850007",
+    "hangar_id": "2341881",
+    "fodd_ar": "1935",
+    "kon": "man",
+    "efternamn": "Ahlmark",
+    "tilltalsnamn": "Lars",
+    "sorteringsnamn": "Ahlmark,Lars",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/e4536a28-be36-40ec-8c05-7924e0e7a55d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e4536a28-be36-40ec-8c05-7924e0e7a55d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e4536a28-be36-40ec-8c05-7924e0e7a55d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e4536a28-be36-40ec-8c05-7924e0e7a55d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "71",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0539819850007",
+          "hangar_id": "2341881",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0539819850007",
+          "hangar_id": "2341881",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "avdelningschef",
+          "typ": "titlar",
+          "intressent_id": "0539819850007",
+          "hangar_id": "2341881"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0539819850007",
+          "hangar_id": "2341881"
+        }
+      ]
+    }
+  }
+}

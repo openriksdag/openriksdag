@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "c0717587-d06b-4ec4-80ad-3236aa014934",
+    "sourceid": "aa18991f-acb0-4a47-8598-7e2b4aab63ab",
+    "intressent_id": "0177634579699",
+    "hangar_id": "2341665",
+    "fodd_ar": "1923",
+    "kon": "man",
+    "efternamn": "Petersson",
+    "tilltalsnamn": "Karl-Anders",
+    "sorteringsnamn": "Petersson,Karl-Anders",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/aa18991f-acb0-4a47-8598-7e2b4aab63ab",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/aa18991f-acb0-4a47-8598-7e2b4aab63ab_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/aa18991f-acb0-4a47-8598-7e2b4aab63ab_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/aa18991f-acb0-4a47-8598-7e2b4aab63ab_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0177634579699",
+          "hangar_id": "2341665",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1984-10-02",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0177634579699",
+          "hangar_id": "2341665",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "bankkamrer",
+          "typ": "titlar",
+          "intressent_id": "0177634579699",
+          "hangar_id": "2341665"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0177634579699",
+          "hangar_id": "2341665"
+        }
+      ]
+    }
+  }
+}

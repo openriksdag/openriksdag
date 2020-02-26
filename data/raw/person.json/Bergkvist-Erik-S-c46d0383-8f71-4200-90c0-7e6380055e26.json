@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "cf2d0b94-bb5c-40c5-b877-1316168e7bbb",
+    "sourceid": "c46d0383-8f71-4200-90c0-7e6380055e26",
+    "intressent_id": "",
+    "hangar_id": "5035033",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Bergkvist",
+    "tilltalsnamn": "Erik",
+    "sorteringsnamn": "Bergkvist,Erik",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/c46d0383-8f71-4200-90c0-7e6380055e26",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c46d0383-8f71-4200-90c0-7e6380055e26_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c46d0383-8f71-4200-90c0-7e6380055e26_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c46d0383-8f71-4200-90c0-7e6380055e26_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "EP",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "13",
+        "status": "",
+        "typ": "Europaparlamentet",
+        "from": "2019-07-02",
+        "tom": "2024-07-02",
+        "uppgift": "Europaparlamentet",
+        "intressent_id": "",
+        "hangar_id": "5035033",
+        "sortering": "30",
+        "organ_sortering": "100",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

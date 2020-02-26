@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "b327624f-cbe4-4cab-a350-97660fced7fd",
+    "sourceid": "978d55a4-b3e2-4400-97c5-deedcbe5e632",
+    "intressent_id": "0535289016620",
+    "hangar_id": "2369435",
+    "fodd_ar": "1985",
+    "kon": "man",
+    "efternamn": "Järkeborn",
+    "tilltalsnamn": "Christoffer",
+    "sorteringsnamn": "Järkeborn,Christoffer",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/978d55a4-b3e2-4400-97c5-deedcbe5e632",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/978d55a4-b3e2-4400-97c5-deedcbe5e632_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/978d55a4-b3e2-4400-97c5-deedcbe5e632_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/978d55a4-b3e2-4400-97c5-deedcbe5e632_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "244",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2011-02-07",
+          "tom": "2011-06-03",
+          "uppgift": "Gustav Blix",
+          "intressent_id": "0535289016620",
+          "hangar_id": "2369435",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "28",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-02-07",
+          "tom": "2011-06-03",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0535289016620",
+          "hangar_id": "2369435",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-02-07",
+          "tom": "2011-06-03",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0535289016620",
+          "hangar_id": "2369435",
+          "sortering": "55",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "christoffer.jarkeborn[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0535289016620",
+          "hangar_id": "2369435"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "64503",
+          "typ": "telefonnummer",
+          "intressent_id": "0535289016620",
+          "hangar_id": "2369435"
+        }
+      ]
+    }
+  }
+}

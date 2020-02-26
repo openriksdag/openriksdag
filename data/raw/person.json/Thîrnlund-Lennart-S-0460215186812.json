@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "a2f28883-dd88-4083-877e-e1bb6ca05534",
+    "sourceid": "ac5c23da-2d43-40b8-bb2e-254303fafb05",
+    "intressent_id": "0460215186812",
+    "hangar_id": "2342661",
+    "fodd_ar": "1951",
+    "kon": "man",
+    "efternamn": "Thörnlund",
+    "tilltalsnamn": "Lennart",
+    "sorteringsnamn": "Thörnlund,Lennart",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/ac5c23da-2d43-40b8-bb2e-254303fafb05",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ac5c23da-2d43-40b8-bb2e-254303fafb05_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ac5c23da-2d43-40b8-bb2e-254303fafb05_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ac5c23da-2d43-40b8-bb2e-254303fafb05_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "307",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1996-09-18",
+          "tom": "1997-04-30",
+          "uppgift": "Eva Nordmark",
+          "intressent_id": "0460215186812",
+          "hangar_id": "2342661",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1996-09-24",
+          "tom": "1997-04-30",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0460215186812",
+          "hangar_id": "2342661",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "LU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1996-09-24",
+          "tom": "1997-04-30",
+          "uppgift": "Lagutskottet",
+          "intressent_id": "0460215186812",
+          "hangar_id": "2342661",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "järnverksarbetare",
+          "typ": "titlar",
+          "intressent_id": "0460215186812",
+          "hangar_id": "2342661"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0460215186812",
+          "hangar_id": "2342661"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">93477a32-59e6-4990-85cc-9d7178493c86</hangar_guid>
+<sourceid datatype="string">f03ff4d2-c476-11d4-ae40-006008578ce8</sourceid>
+<intressent_id datatype="string">0791588767213</intressent_id>
+<hangar_id datatype="int32">2343050</hangar_id>
+<fodd_ar datatype="int16">1958</fodd_ar>
+<kon datatype="string">man</kon>
+<efternamn datatype="string">Werme</efternamn>
+<tilltalsnamn datatype="string">Staffan</tilltalsnamn>
+<sorteringsnamn datatype="string">Werme,Staffan</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">FP</parti>
+<valkrets datatype="string">Örebro län</valkrets>
+<status datatype="string">Tidigare riksdagsledamot</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/f03ff4d2-c476-11d4-ae40-006008578ce8</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/f03ff4d2-c476-11d4-ae40-006008578ce8_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/f03ff4d2-c476-11d4-ae40-006008578ce8_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/f03ff4d2-c476-11d4-ae40-006008578ce8_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">JuU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2001-04-19</from>
+<tom datatype="datetime">2001-05-16</tom>
+<uppgift datatype="string">Justitieutskottet</uppgift>
+<intressent_id datatype="string">0791588767213</intressent_id>
+<hangar_id datatype="int32">2343050</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">JuU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2000-12-06</from>
+<tom datatype="datetime">2001-01-01</tom>
+<uppgift datatype="string">Justitieutskottet</uppgift>
+<intressent_id datatype="string">0791588767213</intressent_id>
+<hangar_id datatype="int32">2343050</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">SfU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2001-04-19</from>
+<tom datatype="datetime">2001-05-16</tom>
+<uppgift datatype="string">Socialförsäkringsutskottet</uppgift>
+<intressent_id datatype="string">0791588767213</intressent_id>
+<hangar_id datatype="int32">2343050</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">SfU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2000-12-06</from>
+<tom datatype="datetime">2001-01-01</tom>
+<uppgift datatype="string">Socialförsäkringsutskottet</uppgift>
+<intressent_id datatype="string">0791588767213</intressent_id>
+<hangar_id datatype="int32">2343050</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">SkU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2001-04-19</from>
+<tom datatype="datetime">2001-05-16</tom>
+<uppgift datatype="string">Skatteutskottet</uppgift>
+<intressent_id datatype="string">0791588767213</intressent_id>
+<hangar_id datatype="int32">2343050</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">SkU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2000-12-06</from>
+<tom datatype="datetime">2001-01-01</tom>
+<uppgift datatype="string">Skatteutskottet</uppgift>
+<intressent_id datatype="string">0791588767213</intressent_id>
+<hangar_id datatype="int32">2343050</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+</personuppgift>
+</person>

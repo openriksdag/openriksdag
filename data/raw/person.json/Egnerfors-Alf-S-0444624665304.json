@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "1b8a4b74-b1b6-46f3-ac29-d5f700381461",
+    "sourceid": "48b16b73-f98f-4510-b7a0-d26b8a328d65",
+    "intressent_id": "0444624665304",
+    "hangar_id": "2342410",
+    "fodd_ar": "1946",
+    "kon": "man",
+    "efternamn": "Egnerfors",
+    "tilltalsnamn": "Alf",
+    "sorteringsnamn": "Egnerfors,Alf",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/48b16b73-f98f-4510-b7a0-d26b8a328d65",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/48b16b73-f98f-4510-b7a0-d26b8a328d65_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/48b16b73-f98f-4510-b7a0-d26b8a328d65_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/48b16b73-f98f-4510-b7a0-d26b8a328d65_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "82",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0444624665304",
+          "hangar_id": "2342410",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "87",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1989-03-06",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0444624665304",
+          "hangar_id": "2342410",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "82",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1989-01-30",
+          "tom": "1989-03-05",
+          "uppgift": "Maj-Lis Lööw",
+          "intressent_id": "0444624665304",
+          "hangar_id": "2342410",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0444624665304",
+          "hangar_id": "2342410",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-02",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0444624665304",
+          "hangar_id": "2342410",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-02-06",
+          "tom": "1991-09-29",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0444624665304",
+          "hangar_id": "2342410",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-02-06",
+          "tom": "1991-09-29",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0444624665304",
+          "hangar_id": "2342410",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "ombudsman",
+          "typ": "titlar",
+          "intressent_id": "0444624665304",
+          "hangar_id": "2342410"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0444624665304",
+          "hangar_id": "2342410"
+        }
+      ]
+    }
+  }
+}

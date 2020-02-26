@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "018d7f3d-5dd0-40b4-83b1-7ed10bbfb185",
+    "sourceid": "e9a8876a-f564-4e5f-9b52-851fea7e5053",
+    "intressent_id": "0232670694320",
+    "hangar_id": "2369549",
+    "fodd_ar": "1987",
+    "kon": "man",
+    "efternamn": "Schyllert",
+    "tilltalsnamn": "Gustav",
+    "sorteringsnamn": "Schyllert,Gustav",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Skåne läns södra",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/e9a8876a-f564-4e5f-9b52-851fea7e5053",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e9a8876a-f564-4e5f-9b52-851fea7e5053_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e9a8876a-f564-4e5f-9b52-851fea7e5053_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e9a8876a-f564-4e5f-9b52-851fea7e5053_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "222",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2014-03-31",
+          "tom": "2014-05-23",
+          "uppgift": "Linda Wemmert",
+          "intressent_id": "0232670694320",
+          "hangar_id": "2369549",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "222",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2013-10-14",
+          "tom": "2014-03-23",
+          "uppgift": "Linda Wemmert",
+          "intressent_id": "0232670694320",
+          "hangar_id": "2369549",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-03-31",
+          "tom": "2014-05-23",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0232670694320",
+          "hangar_id": "2369549",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2013-10-14",
+          "tom": "2014-03-23",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0232670694320",
+          "hangar_id": "2369549",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "gustav.schyllert[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0232670694320",
+        "hangar_id": "2369549"
+      }
+    }
+  }
+}

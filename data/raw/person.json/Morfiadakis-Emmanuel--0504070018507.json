@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "f496eb48-8d66-45bb-88f7-74d61d8fb3b1",
+    "sourceid": "dc959d9b-edc2-41c4-a382-7f4c5533ccf7",
+    "intressent_id": "0504070018507",
+    "hangar_id": "2341973",
+    "fodd_ar": "1937",
+    "kon": "man",
+    "efternamn": "Morfiadakis",
+    "tilltalsnamn": "Emmanuel",
+    "sorteringsnamn": "Morfiadakis,Emmanuel",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/dc959d9b-edc2-41c4-a382-7f4c5533ccf7",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dc959d9b-edc2-41c4-a382-7f4c5533ccf7_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dc959d9b-edc2-41c4-a382-7f4c5533ccf7_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dc959d9b-edc2-41c4-a382-7f4c5533ccf7_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Ersättare",
+        "ordningsnummer": "0",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "1985-10-15",
+        "tom": "1985-11-15",
+        "uppgift": "Nils T Svensson",
+        "intressent_id": "0504070018507",
+        "hangar_id": "2341973",
+        "sortering": "45",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": ""
+  }
+}

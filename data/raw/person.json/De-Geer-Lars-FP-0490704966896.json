@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "de91c6a1-0d44-4068-8b04-867b5e5adf10",
+    "sourceid": "82dd11a5-69f5-46b4-be52-12b8db3b9472",
+    "intressent_id": "0490704966896",
+    "hangar_id": "2341655",
+    "fodd_ar": "1922",
+    "kon": "man",
+    "efternamn": "De Geer",
+    "tilltalsnamn": "Lars",
+    "sorteringsnamn": "De Geer,Lars",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/82dd11a5-69f5-46b4-be52-12b8db3b9472",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/82dd11a5-69f5-46b4-be52-12b8db3b9472_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/82dd11a5-69f5-46b4-be52-12b8db3b9472_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/82dd11a5-69f5-46b4-be52-12b8db3b9472_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "297",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-12-15",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0490704966896",
+          "hangar_id": "2341655",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "297",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "1988-11-15",
+          "tom": "1988-12-14",
+          "uppgift": "Margareta Jonback 1988-11-15 - 1988-12-14",
+          "intressent_id": "0490704966896",
+          "hangar_id": "2341655",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "297",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1988-11-14",
+          "uppgift": "",
+          "intressent_id": "0490704966896",
+          "hangar_id": "2341655",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0490704966896",
+          "hangar_id": "2341655",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "RGK",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1988-10-18",
+          "tom": "1989-06-30",
+          "uppgift": "Fullmäktige i riksgäldskontoret",
+          "intressent_id": "0490704966896",
+          "hangar_id": "2341655",
+          "sortering": "50",
+          "organ_sortering": "399",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-11-07",
+          "tom": "1991-09-29",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0490704966896",
+          "hangar_id": "2341655",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "disponent",
+          "typ": "titlar",
+          "intressent_id": "0490704966896",
+          "hangar_id": "2341655"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0490704966896",
+          "hangar_id": "2341655"
+        }
+      ]
+    }
+  }
+}

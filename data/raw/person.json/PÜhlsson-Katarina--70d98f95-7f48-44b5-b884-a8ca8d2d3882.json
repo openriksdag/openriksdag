@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "15320f4b-d3c1-4104-9346-05eeb130313f",
+    "sourceid": "70d98f95-7f48-44b5-b884-a8ca8d2d3882",
+    "intressent_id": "",
+    "hangar_id": "5033940",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Påhlsson",
+    "tilltalsnamn": "Katarina",
+    "sorteringsnamn": "Påhlsson,Katarina",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Justitieombudsman i Riksdagens ombudsmän",
+    "person_url_xml": "http://data.riksdagen.se/person/70d98f95-7f48-44b5-b884-a8ca8d2d3882",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/70d98f95-7f48-44b5-b884-a8ca8d2d3882_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/70d98f95-7f48-44b5-b884-a8ca8d2d3882_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/70d98f95-7f48-44b5-b884-a8ca8d2d3882_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "JO",
+        "roll_kod": "Justitieombudsman",
+        "ordningsnummer": "3",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2019-09-09",
+        "tom": "2023-09-09",
+        "uppgift": "Riksdagens ombudsmän",
+        "intressent_id": "",
+        "hangar_id": "5033940",
+        "sortering": "",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

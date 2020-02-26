@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "7f8cfed7-39e3-4df3-8641-051af51bb6ca",
+    "sourceid": "59433e8f-4cef-4f38-8aa7-7a389eb5f04d",
+    "intressent_id": "0380453403808",
+    "hangar_id": "2342314",
+    "fodd_ar": "1945",
+    "kon": "kvinna",
+    "efternamn": "Olauson",
+    "tilltalsnamn": "Britt",
+    "sorteringsnamn": "Olauson,Britt",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Östergötlands län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/59433e8f-4cef-4f38-8aa7-7a389eb5f04d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/59433e8f-4cef-4f38-8aa7-7a389eb5f04d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/59433e8f-4cef-4f38-8aa7-7a389eb5f04d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/59433e8f-4cef-4f38-8aa7-7a389eb5f04d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "96",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-04-18",
+          "tom": "2006-10-02",
+          "uppgift": "",
+          "intressent_id": "0380453403808",
+          "hangar_id": "2342314",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-05-19",
+          "tom": "2006-10-02",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0380453403808",
+          "hangar_id": "2342314",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-05-19",
+          "tom": "2006-10-02",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0380453403808",
+          "hangar_id": "2342314",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "ekonom",
+          "typ": "titlar",
+          "intressent_id": "0380453403808",
+          "hangar_id": "2342314"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0380453403808",
+          "hangar_id": "2342314"
+        }
+      ]
+    }
+  }
+}

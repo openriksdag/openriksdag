@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "adaae9d9-6e8e-4205-87a8-624566bfe072",
+    "sourceid": "ec4f91b2-ff3b-4c09-8d57-53518aed9d84",
+    "intressent_id": "0623552243405",
+    "hangar_id": "2342148",
+    "fodd_ar": "1942",
+    "kon": "kvinna",
+    "efternamn": "Warnerbring",
+    "tilltalsnamn": "Kerstin",
+    "sorteringsnamn": "Warnerbring,Kerstin",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/ec4f91b2-ff3b-4c09-8d57-53518aed9d84",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ec4f91b2-ff3b-4c09-8d57-53518aed9d84_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ec4f91b2-ff3b-4c09-8d57-53518aed9d84_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ec4f91b2-ff3b-4c09-8d57-53518aed9d84_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "179",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1994-10-03",
+          "tom": "1998-10-05",
+          "uppgift": "",
+          "intressent_id": "0623552243405",
+          "hangar_id": "2342148",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1998-10-04",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0623552243405",
+          "hangar_id": "2342148",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1998-10-04",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0623552243405",
+          "hangar_id": "2342148",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0623552243405",
+          "hangar_id": "2342148"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "socionom",
+          "typ": "titlar",
+          "intressent_id": "0623552243405",
+          "hangar_id": "2342148"
+        }
+      ]
+    }
+  }
+}

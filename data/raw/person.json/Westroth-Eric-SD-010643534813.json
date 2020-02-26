@@ -1,0 +1,114 @@
+{
+  "person": {
+    "hangar_guid": "1d0ada9c-5432-4e9f-8abb-0884a411b732",
+    "sourceid": "a7390cef-27c2-4068-800d-ee21b1a94c69",
+    "intressent_id": "010643534813",
+    "hangar_id": "5003895",
+    "fodd_ar": "1971",
+    "kon": "man",
+    "efternamn": "Westroth",
+    "tilltalsnamn": "Eric",
+    "sorteringsnamn": "Westroth,Eric",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Hallands län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/a7390cef-27c2-4068-800d-ee21b1a94c69",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a7390cef-27c2-4068-800d-ee21b1a94c69_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a7390cef-27c2-4068-800d-ee21b1a94c69_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a7390cef-27c2-4068-800d-ee21b1a94c69_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "126",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "010643534813",
+          "hangar_id": "5003895",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-10-25",
+          "tom": "2022-09-26",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "010643534813",
+          "hangar_id": "5003895",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-10-25",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "010643534813",
+          "hangar_id": "5003895",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-10-04",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "010643534813",
+          "hangar_id": "5003895",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "eric.westroth[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "010643534813",
+          "hangar_id": "5003895"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Företagare.",
+          "typ": "titlar",
+          "intressent_id": "010643534813",
+          "hangar_id": "5003895"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "010643534813",
+          "hangar_id": "5003895"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "c080c5c0-c073-460e-9320-49d5711dcfc7",
+    "sourceid": "d7c32990-83e4-11d4-ae60-0050040c9b55",
+    "intressent_id": "0775091111217",
+    "hangar_id": "2343270",
+    "fodd_ar": "1964",
+    "kon": "kvinna",
+    "efternamn": "Lejon",
+    "tilltalsnamn": "Britta",
+    "sorteringsnamn": "Lejon,Britta",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Stockholms län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/d7c32990-83e4-11d4-ae60-0050040c9b55",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c32990-83e4-11d4-ae60-0050040c9b55_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c32990-83e4-11d4-ae60-0050040c9b55_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c32990-83e4-11d4-ae60-0050040c9b55_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "Ju",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Departement",
+          "from": "1998-10-07",
+          "tom": "2002-10-21",
+          "uppgift": "Justitiedepartementet",
+          "intressent_id": "0775091111217",
+          "hangar_id": "2343270",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2004-06-15",
+          "tom": "2006-10-02",
+          "uppgift": "",
+          "intressent_id": "0775091111217",
+          "hangar_id": "2343270",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "42",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2002-10-21",
+          "tom": "2004-06-14",
+          "uppgift": "Björn von Sydow",
+          "intressent_id": "0775091111217",
+          "hangar_id": "2343270",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-24",
+          "tom": "2004-11-19",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0775091111217",
+          "hangar_id": "2343270",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Förste vice ordförande",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2004-11-25",
+          "tom": "2006-10-02",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0775091111217",
+          "hangar_id": "2343270",
+          "sortering": "15",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2004-11-18",
+          "tom": "2004-11-24",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0775091111217",
+          "hangar_id": "2343270",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuSoU",
+          "roll_kod": "Andre vice ordförande",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-02-09",
+          "tom": "2006-04-26",
+          "uppgift": "Sammansatta justitie- och socialutskottet",
+          "intressent_id": "0775091111217",
+          "hangar_id": "2343270",
+          "sortering": "16",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "f.d. statsråd",
+          "typ": "titlar",
+          "intressent_id": "0775091111217",
+          "hangar_id": "2343270"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Former Minister",
+          "typ": "titlar",
+          "intressent_id": "0775091111217",
+          "hangar_id": "2343270"
+        }
+      ]
+    }
+  }
+}

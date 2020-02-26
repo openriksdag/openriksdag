@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "41329b73-7f6a-4276-9930-f1547d6222a8",
+    "sourceid": "d293910d-0ddf-486e-a1d1-2ec1f127dff4",
+    "intressent_id": "0761174174409",
+    "hangar_id": "2342487",
+    "fodd_ar": "1948",
+    "kon": "kvinna",
+    "efternamn": "Viitamäki-Carlsson",
+    "tilltalsnamn": "Seija",
+    "sorteringsnamn": "Viitamäki-Carlsson,Seija",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/d293910d-0ddf-486e-a1d1-2ec1f127dff4",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d293910d-0ddf-486e-a1d1-2ec1f127dff4_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d293910d-0ddf-486e-a1d1-2ec1f127dff4_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d293910d-0ddf-486e-a1d1-2ec1f127dff4_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "300",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1991-11-11",
+          "tom": "1991-12-10",
+          "uppgift": "Bertil Måbrink",
+          "intressent_id": "0761174174409",
+          "hangar_id": "2342487",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "302",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1990-11-12",
+          "tom": "1990-12-11",
+          "uppgift": "Bertil Måbrink",
+          "intressent_id": "0761174174409",
+          "hangar_id": "2342487",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-11-11",
+          "tom": "1991-12-10",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0761174174409",
+          "hangar_id": "2342487",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-11-12",
+          "tom": "1990-12-11",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0761174174409",
+          "hangar_id": "2342487",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "leg. sjuksköterska",
+          "typ": "titlar",
+          "intressent_id": "0761174174409",
+          "hangar_id": "2342487"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0761174174409",
+          "hangar_id": "2342487"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "f07edb27-8fc2-4a5d-91d5-8eb6beb7cff6",
+    "sourceid": "506a45c5-7af4-4f1d-833a-a943f4462b72",
+    "intressent_id": "0797281536419",
+    "hangar_id": "2369736",
+    "fodd_ar": "1965",
+    "kon": "man",
+    "efternamn": "Nilsson",
+    "tilltalsnamn": "Tomas",
+    "sorteringsnamn": "Nilsson,Tomas",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Norrbottens län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/506a45c5-7af4-4f1d-833a-a943f4462b72",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/506a45c5-7af4-4f1d-833a-a943f4462b72_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/506a45c5-7af4-4f1d-833a-a943f4462b72_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/506a45c5-7af4-4f1d-833a-a943f4462b72_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "312",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2013-08-15",
+          "tom": "2014-02-15",
+          "uppgift": "Fredrik Lundh Sammeli",
+          "intressent_id": "0797281536419",
+          "hangar_id": "2369736",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "312",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2011-11-23",
+          "tom": "2012-05-01",
+          "uppgift": "Fredrik Lundh Sammeli",
+          "intressent_id": "0797281536419",
+          "hangar_id": "2369736",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2013-08-15",
+          "tom": "2014-02-15",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0797281536419",
+          "hangar_id": "2369736",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-11-23",
+          "tom": "2012-05-01",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0797281536419",
+          "hangar_id": "2369736",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "tomas.nilsson[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0797281536419",
+        "hangar_id": "2369736"
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "b22dc8d5-1a6f-4c59-b274-e07b76827ac7",
+    "sourceid": "86deeca0-bf07-4e1b-ba0f-e91f07f8ff6d",
+    "intressent_id": "",
+    "hangar_id": "4788850",
+    "fodd_ar": "0",
+    "kon": "okänt",
+    "efternamn": "Andersson",
+    "tilltalsnamn": "Mari",
+    "sorteringsnamn": "Andersson,Mari",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Ledamot i Partibidragsnämnden",
+    "person_url_xml": "http://data.riksdagen.se/person/86deeca0-bf07-4e1b-ba0f-e91f07f8ff6d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/86deeca0-bf07-4e1b-ba0f-e91f07f8ff6d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/86deeca0-bf07-4e1b-ba0f-e91f07f8ff6d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/86deeca0-bf07-4e1b-ba0f-e91f07f8ff6d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "PN",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "2",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2014-04-01",
+        "tom": "2020-03-31",
+        "uppgift": "Partibidragsnämnden",
+        "intressent_id": "",
+        "hangar_id": "4788850",
+        "sortering": "30",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "bb985b9f-aeaf-4ebb-b865-10b230c3654e",
+    "sourceid": "acbe3cb8-4ebe-4a08-9458-4f728cf799a6",
+    "intressent_id": "0503986647505",
+    "hangar_id": "2341715",
+    "fodd_ar": "1927",
+    "kon": "kvinna",
+    "efternamn": "Westin",
+    "tilltalsnamn": "Aina",
+    "sorteringsnamn": "Westin,Aina",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/acbe3cb8-4ebe-4a08-9458-4f728cf799a6",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/acbe3cb8-4ebe-4a08-9458-4f728cf799a6_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/acbe3cb8-4ebe-4a08-9458-4f728cf799a6_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/acbe3cb8-4ebe-4a08-9458-4f728cf799a6_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "48",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0503986647505",
+          "hangar_id": "2341715",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0503986647505",
+          "hangar_id": "2341715",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0503986647505",
+          "hangar_id": "2341715",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "VB",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "Valberedningen",
+          "intressent_id": "0503986647505",
+          "hangar_id": "2341715",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-11-07",
+          "tom": "1991-09-29",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0503986647505",
+          "hangar_id": "2341715",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0503986647505",
+          "hangar_id": "2341715"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "ombudsman",
+          "typ": "titlar",
+          "intressent_id": "0503986647505",
+          "hangar_id": "2341715"
+        }
+      ]
+    }
+  }
+}

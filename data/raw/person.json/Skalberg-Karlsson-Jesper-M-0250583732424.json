@@ -1,0 +1,130 @@
+{
+  "person": {
+    "hangar_guid": "8ce7f33d-f61d-44c3-9979-b331f31aa367",
+    "sourceid": "2f1a9d57-c488-4c8f-89cb-c1fb7e735170",
+    "intressent_id": "0250583732424",
+    "hangar_id": "3057217",
+    "fodd_ar": "1993",
+    "kon": "man",
+    "efternamn": "Skalberg Karlsson",
+    "tilltalsnamn": "Jesper",
+    "sorteringsnamn": "Skalberg Karlsson,Jesper",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Gotlands län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/2f1a9d57-c488-4c8f-89cb-c1fb7e735170",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2f1a9d57-c488-4c8f-89cb-c1fb7e735170_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2f1a9d57-c488-4c8f-89cb-c1fb7e735170_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2f1a9d57-c488-4c8f-89cb-c1fb7e735170_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "34",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2015-01-19",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0250583732424",
+          "hangar_id": "3057217",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2015-01-27",
+          "tom": "2018-09-24",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0250583732424",
+          "hangar_id": "3057217",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "66",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-05-04",
+          "tom": "2018-09-24",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0250583732424",
+          "hangar_id": "3057217",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "67",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-06-14",
+          "tom": "2017-05-04",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0250583732424",
+          "hangar_id": "3057217",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "68",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2015-11-18",
+          "tom": "2016-06-13",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0250583732424",
+          "hangar_id": "3057217",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Teknolog",
+          "typ": "titlar",
+          "intressent_id": "0250583732424",
+          "hangar_id": "3057217"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0250583732424",
+          "hangar_id": "3057217"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0250583732424",
+          "hangar_id": "3057217"
+        }
+      ]
+    }
+  }
+}

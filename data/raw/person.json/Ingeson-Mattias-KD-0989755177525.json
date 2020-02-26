@@ -1,0 +1,130 @@
+{
+  "person": {
+    "hangar_guid": "4b8291af-53e8-4bcf-a5bf-7fa3a9e3d984",
+    "sourceid": "feca1b4c-7f8b-41e6-9f10-3001fdd550f7",
+    "intressent_id": "0989755177525",
+    "hangar_id": "5003790",
+    "fodd_ar": "1974",
+    "kon": "man",
+    "efternamn": "Ingeson",
+    "tilltalsnamn": "Mattias",
+    "sorteringsnamn": "Ingeson,Mattias",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Jönköpings län",
+    "status": "Tjänstgörande ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/feca1b4c-7f8b-41e6-9f10-3001fdd550f7",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/feca1b4c-7f8b-41e6-9f10-3001fdd550f7_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/feca1b4c-7f8b-41e6-9f10-3001fdd550f7_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/feca1b4c-7f8b-41e6-9f10-3001fdd550f7_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "254",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2020-01-16",
+          "tom": "2020-03-18",
+          "uppgift": "Andreas Carlson",
+          "intressent_id": "0989755177525",
+          "hangar_id": "5003790",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "291",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2018-10-23",
+          "uppgift": "Acko Ankarberg Johansson",
+          "intressent_id": "0989755177525",
+          "hangar_id": "5003790",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2020-01-16",
+          "tom": "2020-03-18",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0989755177525",
+          "hangar_id": "5003790",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2018-10-23",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0989755177525",
+          "hangar_id": "5003790",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2018-10-23",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0989755177525",
+          "hangar_id": "5003790",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2018-10-23",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0989755177525",
+          "hangar_id": "5003790",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "mattias.ingeson[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0989755177525",
+        "hangar_id": "5003790"
+      }
+    }
+  }
+}

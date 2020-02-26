@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">e51b1be7-0d8d-494e-9d77-80fd2fd15d70</hangar_guid>
+<sourceid datatype="string">e96afc4f-7bd3-4fcd-a4b7-095315e95b64</sourceid>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">4788831</hangar_id>
+<fodd_ar datatype="int16">0</fodd_ar>
+<kon datatype="string">okänt</kon>
+<efternamn datatype="string">Gregow</efternamn>
+<tilltalsnamn datatype="string">Torkel</tilltalsnamn>
+<sorteringsnamn datatype="string">Gregow,Torkel</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string"></parti>
+<valkrets datatype="string"></valkrets>
+<status datatype="string">Tidigare ordförande i Partibidragsnämnden</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/e96afc4f-7bd3-4fcd-a4b7-095315e95b64</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/e96afc4f-7bd3-4fcd-a4b7-095315e95b64_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/e96afc4f-7bd3-4fcd-a4b7-095315e95b64_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/e96afc4f-7bd3-4fcd-a4b7-095315e95b64_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">PN</organ_kod>
+<roll_kod datatype="string">Ordförande</roll_kod>
+<ordningsnummer datatype="int32">1</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">2008-03-26</from>
+<tom datatype="datetime">2014-03-26</tom>
+<uppgift datatype="string">Partibidragsnämnden</uppgift>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">4788831</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+</personuppgift>
+</person>

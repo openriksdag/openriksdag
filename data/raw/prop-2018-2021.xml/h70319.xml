@@ -1,0 +1,743 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5040313</hangar_id>
+    <dok_id datatype="string">H70319</dok_id>
+    <rm datatype="string">2019/20</rm>
+    <beteckning datatype="string">19</beteckning>
+    <typ datatype="string">prop</typ>
+    <subtyp datatype="string">prop</subtyp>
+    <doktyp datatype="string">prop</doktyp>
+    <typrubrik datatype="string">Proposition 2019/20:19</typrubrik>
+    <dokumentnamn datatype="string">Proposition</dokumentnamn>
+    <debattnamn datatype="string">Proposition</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">Justitiedepartementet</organ>
+    <mottagare datatype="string">JuU</mottagare>
+    <nummer datatype="int32">19</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2019-10-01 00:00:00</datum>
+    <systemdatum datatype="datetime">2019-11-14 16:13:38</systemdatum>
+    <publicerad datatype="datetime">2019-10-01 00:00:00</publicerad>
+    <titel datatype="string">Förlängda möjligheter för migrationsdomstolarna att överlämna mål</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">Klar</status>
+    <htmlformat datatype="string">html-ec</htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">prop-RIM</source>
+    <sourceid datatype="string">5457a76b-ed21-467d-9414-a62599c79aa0</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H70319/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H70319</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H70319</dokumentstatus_url_xml>
+    <html datatype="text">&lt;div style="margin:3px;"&gt;
+&lt;STYLE type="text/css"&gt;
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:10px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_1 #p1dimg1 {position:absolute;top:0px;left:546px;z-index:-1;width:54px;height:97px;}
+#page_1 #p1dimg1 #p1img1 {width:54px;height:97px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_2 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_2 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:15px 0px 20px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_5 #p5dimg1 {position:absolute;top:550px;left:63px;z-index:-1;width:394px;height:146px;}
+#page_5 #p5dimg1 #p5img1 {width:394px;height:146px;}
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_7 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_7 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 180px;overflow: hidden;}
+
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+#page_8 #p8dimg1 {position:absolute;top:41px;left:105px;z-index:-1;width:394px;height:100px;}
+#page_8 #p8dimg1 #p8img1 {width:394px;height:100px;}
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_9 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_9 #id_1 #id_1_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+#page_9 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_9 #id_2 {border:none;z:b;margin:6px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:15px 0px 20px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_11 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_11 #id_1 #id_1_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_11 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_11 #id_2 {border:none;z:b;margin:5px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_12 #p12dimg1 {position:absolute;top:220px;left:168px;z-index:-1;width:112px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_12 #p12dimg1 #p12img1 {width:112px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  18px 'Verdana' !important;l-h: 29px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft2{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft3{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft4{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft5{font:  10px 'Verdana' !important;l-h: 8px;}
+.ft6{font:  10px 'Verdana' !important;l-h: 7px;}
+.ft7{font:  14px 'Verdana' !important;l-h: 23px;}
+.ft8{font:  10px 'Verdana' !important;l-h: 12px;position: relative; bottom: 5px;}
+.ft9{font:  10px 'Verdana' !important;l-h: 6px;position: relative; bottom: 4px;}
+.ft10{font:  10px 'Verdana' !important;l-h: 12px;}
+.ft11{font:  14px 'Verdana' !important;margin-left: 51px;l-h: 22px;}
+.ft12{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft13{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft14{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft15{font:  10px 'Verdana' !important;l-h: 6px;}
+.ft16{font:  14px 'Verdana' !important;l-h: 20px;}
+
+.p0{text-align: left;padding-left: 0px;padding-right: 420px;margin-top: 26px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p4{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 0px;margin-top: 31px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 180px;padding-right: 378px;margin-top: 20px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 0px;margin-top: 52px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 28px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p10{text-align: right;padding-right: 42px;margin-top: 215px;margin-bottom: 0px !important;}
+.p11{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p12{text-align: left;margin-top: 753px;margin-bottom: 0px !important;}
+.p13{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p14{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p15{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p17{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p18{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p19{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p20{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p21{text-align: right;padding-right: 42px;margin-top: 668px;margin-bottom: 0px !important;}
+.p22{text-align: left;padding-left: 140px;padding-right: 84px;margin-top: 1px;margin-bottom: 0px !important;}
+.p23{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 16px;margin-bottom: 0px !important;}
+.p24{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p25{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p26{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p27{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 16px;margin-bottom: 0px !important;}
+.p28{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p29{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p30{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;}
+.p31{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 50px;margin-bottom: 0px !important;text-indent: 0.61px;}
+.p32{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 21px;margin-bottom: 0px !important;}
+.p33{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p34{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 28px;margin-bottom: 0px !important;text-indent: 11px;}
+.p35{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p36{text-align: right;padding-right: 42px;margin-top: 7px;margin-bottom: 0px !important;}
+.p37{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p38{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p39{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p40{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p41{text-align: left;margin-top: 3px;margin-bottom: 0px !important;}
+.p42{text-align: left;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;}
+.p43{text-align: left;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p44{text-align: left;padding-right: 1px;margin-top: 21px;margin-bottom: 0px !important;text-indent: 11px;}
+.p45{text-align: left;padding-right: 1px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p46{text-align: left;padding-right: 1px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p47{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p48{text-align: right;padding-right: 42px;margin-top: 752px;margin-bottom: 0px !important;}
+.p49{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 20px;margin-bottom: 0px !important;}
+.p50{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 13px;margin-bottom: 0px !important;}
+.p51{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;}
+.p52{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p53{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p54{text-align: left;margin-top: 287px;margin-bottom: 0px !important;}
+.p55{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;}
+.p56{text-align: right;margin-top: 532px;margin-bottom: 0px !important;}
+.p57{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 27px;margin-bottom: 0px !important;}
+.p58{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 10px;margin-bottom: 0px !important;}
+.p59{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p60{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 4px;margin-bottom: 0px !important;}
+.p61{text-align: right;margin-top: 499px;margin-bottom: 0px !important;}
+.p62{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p63{text-align: left;padding-left: 140px;margin-top: 34px;margin-bottom: 0px !important;}
+.p64{text-align: right;padding-right: 84px;margin-top: 14px;margin-bottom: 0px !important;}
+.p65{text-align: left;padding-left: 140px;margin-top: 15px;margin-bottom: 0px !important;}
+.p66{text-align: left;padding-left: 140px;margin-top: 1px;margin-bottom: 0px !important;}
+.p67{text-align: left;padding-left: 140px;margin-top: 0px;margin-bottom: 0px !important;}
+.p68{text-align: left;padding-left: 140px;margin-top: 16px;margin-bottom: 0px !important;}
+.p69{text-align: left;padding-left: 140px;padding-right: 147px;margin-top: 76px;margin-bottom: 0px !important;}
+.p70{text-align: left;padding-left: 0px;margin-top: 470px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 384px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 142px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 384px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 142px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 16px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 380px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 14px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 52px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 344px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 35px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 396px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 36px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 389px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 97px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 108px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 48px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 311px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 63px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 186px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 144px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 0px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 119px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 211px;vertical-align: bottom;}
+.td23{padding: 0px;margin: 0px;width: 69px;vertical-align: bottom;}
+
+.tr0{heightzzz: 27px;}
+.tr1{heightzzz: 24px;}
+.tr2{heightzzz: 17px;}
+.tr3{heightzzz: 21px;}
+.tr4{heightzzz: 15px;}
+.tr5{heightzzz: 22px;}
+.tr6{heightzzz: 16px;}
+.tr7{heightzzz: 26px;}
+.tr8{heightzzz: 18px;}
+.tr9{heightzzz: 8px;}
+.tr10{heightzzz: 25px;}
+.tr11{heightzzz: 7px;}
+.tr12{heightzzz: 9px;}
+.tr13{heightzzz: 6px;}
+
+.t0{width: 552px;margin-leftZ: 69px;margin-top: 11px;f:20px 'Verdana' !important;}
+.t1{width: 431px;margin-top: 18px;f:13px 'Verdana' !important;}
+.t2{width: 548px;margin-leftZ: 68px;f:20px 'Verdana' !important;}
+.t3{width: 490px;f:20px 'Verdana' !important;}
+.t4{width: 261px;margin-top: 583px;f:6px 'Verdana' !important;}
+.t5{width: 315px;f:20px 'Verdana' !important;}
+.t6{width: 346px;margin-leftZ: 6px;f:13px 'Verdana' !important;}
+.t7{width: 268px;margin-top: 565px;f:6px 'Verdana' !important;}
+
+&lt;/STYLE&gt;
+
+
+
+&lt;DIV id="page_1"&gt;
+&lt;DIV id="p1dimg1"&gt;
+&lt;INGENBILD zsrc="H703191x1.jpg/" id="p1img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV class="dclr"&gt;&lt;/DIV&gt;
+&lt;P class="p0 ft0"&gt;Regeringens proposition 2019/20:19&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t0"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr0 td0"&gt;&lt;SPAN class="p1 ft1"&gt;Förlängda möjligheter för&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td1"&gt;&lt;SPAN class="p2 ft1"&gt;Prop.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td2"&gt;&lt;SPAN class="p1 ft1"&gt;migrationsdomstolarna att överlämna mål&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td3"&gt;&lt;SPAN class="p2 ft1"&gt;2019/20:19&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p3 ft2"&gt;Regeringen överlämnar denna proposition till riksdagen.&lt;/P&gt;
+&lt;P class="p4 ft2"&gt;Stockholm den 26 september 2019&lt;/P&gt;
+&lt;P class="p5 ft3"&gt;Stefan Löfven&lt;/P&gt;
+&lt;P class="p6 ft3"&gt;Morgan Johansson &lt;SPAN class="ft2"&gt;(Justitiedepartementet)&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p7 ft1"&gt;Propositionens huvudsakliga innehåll&lt;/P&gt;
+&lt;P class="p8 ft2"&gt;De förvaltningsrätter som är migrationsdomstolar har sedan den 1 januari 2017 haft möjlighet att överlämna migrationsmål och andra mål till övriga förvaltningsrätter. På motsvarande sätt har den kammarrätt som är migrationsöverdomstol haft möjlighet att överlämna andra mål än migrationsmål till andra kammarrätter.&lt;/P&gt;
+&lt;P class="p9 ft2"&gt;Möjligheterna att lämna över andra mål än migrationsmål är tillfälliga och gäller till och med december 2019. Regeringen föreslår att dessa möjligheter ska förlängas till och med december 2020. Förslaget syftar till att ge domstolarna bättre förutsättningar att hålla handläggningstiderna på en rimlig nivå genom att den samlade kapaciteten hos de allmänna förvaltningsdomstolarna tas tillvara.&lt;/P&gt;
+&lt;P class="p10 ft2"&gt;1&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_2"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p11 ft2"&gt;Prop. 2019/20:19&lt;/P&gt;
+&lt;P class="p12 ft2"&gt;2&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft1"&gt;Innehållsförteckning&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t1"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td4"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_3"&gt;1&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr2 td5"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_3"&gt;Förslag till riksdagsbeslut .................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td6"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_3"&gt;3&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td4"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_4"&gt;2&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td5"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_4"&gt;Förslag till lag om ändring i lagen (2016:1139) om ändring i&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p13 ft4"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td4"&gt;&lt;SPAN class="p13 ft4"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td5"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_4"&gt;lagen (1971:289) om allmänna förvaltningsdomstolar .....................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_4"&gt;4&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td4"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_5"&gt;3&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td5"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_5"&gt;Ärendet och dess beredning ..............................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_5"&gt;5&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td4"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_5"&gt;4&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td5"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_5"&gt;Möjligheterna att överlämna andra mål än migrationsmål bör&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p13 ft4"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td4"&gt;&lt;SPAN class="p13 ft4"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr6 td5"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_5"&gt;förlängas............................................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td6"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_5"&gt;5&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td4"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_7"&gt;5&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td5"&gt;&lt;SPAN class="p14 ft2"&gt;&lt;A href="#page_7"&gt;Konsekvenser ....................................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_7"&gt;8&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td7"&gt;&lt;SPAN class="p13 ft2"&gt;Bilaga 1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td8"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_9"&gt;Sammanfattning av promemorian Förlängda&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p13 ft4"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td4"&gt;&lt;SPAN class="p13 ft4"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td9"&gt;&lt;SPAN class="p13 ft4"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td8"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_9"&gt;möjligheter för migrationsdomstolarna att överlämna&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p13 ft4"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td4"&gt;&lt;SPAN class="p13 ft4"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td9"&gt;&lt;SPAN class="p13 ft4"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td8"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_9"&gt;mål......................................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td6"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_9"&gt;9&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr3 td7"&gt;&lt;SPAN class="p13 ft2"&gt;Bilaga 2&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td8"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_10"&gt;Promemorians lagförslag..................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_10"&gt;10&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td7"&gt;&lt;SPAN class="p13 ft2"&gt;Bilaga 3&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td8"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_11"&gt;Förteckning över remissinstanserna .................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_11"&gt;11&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr5 td10"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;A href="#page_12"&gt;Utdrag ur protokoll vid regeringssammanträde den 26 september&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p13 ft4"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td4"&gt;&lt;SPAN class="p13 ft4"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td9"&gt;&lt;SPAN class="p13 ft4"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td8"&gt;&lt;SPAN class="p17 ft2"&gt;&lt;A href="#page_12"&gt;2019. ......................................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td6"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_12"&gt;12&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_3"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t2"&gt;
+&lt;TR&gt;
+	&lt;TD rowspan=2 class="tr7 td11"&gt;&lt;SPAN class="p18 ft1"&gt;1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD rowspan=2 class="tr7 td12"&gt;&lt;SPAN class="p19 ft1"&gt;Förslag till riksdagsbeslut&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td13"&gt;&lt;SPAN class="p13 ft2"&gt;Prop. 2019/20:19&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td13"&gt;&lt;SPAN class="p13 ft5"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p4 ft2"&gt;Regeringens förslag:&lt;/P&gt;
+&lt;P class="p20 ft2"&gt;Riksdagen antar regeringens förslag till lag om ändring i lagen (2016:1139) om ändring i lagen (1971:289) om allmänna förvaltningsdomstolar.&lt;/P&gt;
+&lt;P class="p21 ft2"&gt;3&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_4"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t3"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td14"&gt;&lt;SPAN class="p13 ft2"&gt;Prop. 2019/20:19&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD rowspan=2 class="tr10 td15"&gt;&lt;SPAN class="p18 ft1"&gt;2&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD rowspan=2 class="tr10 td16"&gt;&lt;SPAN class="p16 ft1"&gt;Förslag till lag om ändring i lagen&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td14"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p22 ft7"&gt;(2016:1139) om ändring i lagen (1971:289) om allmänna förvaltningsdomstolar&lt;/P&gt;
+&lt;P class="p23 ft2"&gt;Härigenom föreskrivs att ikraftträdandebestämmelsen till lagen (2016:1139) om ändring i lagen (1971:289) om allmänna förvaltningsdomstolar&lt;SPAN class="ft8"&gt;1 &lt;/SPAN&gt;ska ha följande lydelse.&lt;/P&gt;
+&lt;P class="p24 ft2"&gt;Denna lag träder i kraft den 1 januari 2021.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t4"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td17"&gt;&lt;SPAN class="p25 ft2"&gt;4&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td18"&gt;&lt;SPAN class="p26 ft10"&gt;&lt;SPAN class="ft9"&gt;1 &lt;/SPAN&gt;Lagen omtryckt 1981:1323.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_5"&gt;
+&lt;DIV id="p5dimg1"&gt;
+&lt;INGENBILD zsrc="H703195x1.jpg/" id="p5img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t2"&gt;
+&lt;TR&gt;
+	&lt;TD rowspan=2 class="tr7 td11"&gt;&lt;SPAN class="p18 ft1"&gt;3&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD rowspan=2 class="tr7 td12"&gt;&lt;SPAN class="p19 ft1"&gt;Ärendet och dess beredning&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td13"&gt;&lt;SPAN class="p13 ft2"&gt;Prop. 2019/20:19&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td13"&gt;&lt;SPAN class="p13 ft5"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p27 ft2"&gt;Den 1 januari 2017 infördes bestämmelser som utökade möjligheterna för migrationsdomstolarna att överlämna mål, se propositionen Utökade möjligheter för migrationsdomstolar att överlämna mål (prop. 2016/17:27, bet. 2016/17:JuU7, rskr. 2016/17:60). Bestämmelserna innebär att en förvaltningsrätt som är migrationsdomstol får lämna över migrationsmål och andra mål till övriga förvaltningsrätter som handlägger sådana mål. Vidare får den kammarrätt som är migrationsöverdomstol lämna över andra mål än migrationsmål till övriga kammarrätter som handlägger sådana mål. Bestämmelserna gäller till och med utgången av 2019. Därefter begränsas de utökade möjligheterna att överlämna mål till migrationsmål i de förvaltningsrätter som är migrationsdomstolar.&lt;/P&gt;
+&lt;P class="p28 ft2"&gt;Domstolsverket har i en skrivelse till regeringen begärt att möjligheterna för domstolarna att lämna över andra mål än migrationsmål ska förlängas till utgången av december 2020 (Ju2018/05347/DOM). Inom Justitiedepartementet har det med anledning av denna begäran tagits fram en promemoria. En sammanfattning av promemorian finns i &lt;SPAN class="ft3"&gt;bilaga 1 &lt;/SPAN&gt;och promemorians lagförslag i &lt;SPAN class="ft3"&gt;bilaga 2&lt;/SPAN&gt;. Promemorian har remissbehandlats. En förteckning över remissinstanserna finns i &lt;SPAN class="ft3"&gt;bilaga 3&lt;/SPAN&gt;. Remissyttrandena finns tillgängliga i Justitiedepartementet (Ju2018/05347/DOM).&lt;/P&gt;
+&lt;P class="p29 ft3"&gt;Lagrådet&lt;/P&gt;
+&lt;P class="p30 ft2"&gt;Förslaget innebär att ikraftträdandet av lagen (2016:1139) om ändring i lagen (1971:289) om allmänna förvaltningsdomstolar senareläggs. Lagförslaget är författningstekniskt och även i övrigt av sådan beskaffenhet att Lagrådets hörande skulle sakna betydelse. Lagrådets yttrande har därför inte inhämtats.&lt;/P&gt;
+&lt;P class="p31 ft1"&gt;&lt;SPAN class="ft1"&gt;4&lt;/SPAN&gt;&lt;SPAN class="ft11"&gt;Möjligheterna att överlämna andra mål än migrationsmål bör förlängas&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p32 ft2"&gt;&lt;SPAN class="ft12"&gt;Regeringens förslag: &lt;/SPAN&gt;Tidpunkten för ikraftträdande av lagen (2016:1139) om ändring i lagen (1971:289) om allmänna förvaltningsdomstolar senareläggs till den 1 januari 2021.&lt;/P&gt;
+&lt;P class="p33 ft2"&gt;&lt;SPAN class="ft12"&gt;Regeringens bedömning: &lt;/SPAN&gt;Möjligheten för de förvaltningsrätter som är migrationsdomstolar att överlämna andra mål än migrationsmål till övriga förvaltningsrätter bör förlängas till och med december 2020. Även möjligheten för den kammarrätt som är migrationsöverdomstol att överlämna mål till övriga kammarrätter bör förlängas till denna tidpunkt.&lt;/P&gt;
+&lt;P class="p34 ft12"&gt;Promemorians förslag och bedömning &lt;SPAN class="ft2"&gt;överensstämmer med regeringens.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p35 ft2"&gt;&lt;SPAN class="ft12"&gt;Remissinstanserna: &lt;/SPAN&gt;En övervägande majoritet av remissinstanserna tillstyrker eller har ingen invändning mot förslaget och instämmer i&lt;/P&gt;
+&lt;P class="p36 ft2"&gt;5&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_6"&gt;
+
+
+&lt;P class="p37 ft2"&gt;Prop. 2019/20:19 bedömningen. &lt;SPAN class="ft3"&gt;Sveriges Domareförbund &lt;/SPAN&gt;avstyrker och hänvisar till att förslaget inte står i överensstämmelse med principen om att forumregler ska vara stabila och förutsebara. &lt;SPAN class="ft3"&gt;Kammarrätten i Stockholm, Förvaltningsrätten i Linköping, Förvaltningsrätten i Uppsala &lt;/SPAN&gt;och &lt;SPAN class="ft3"&gt;Försäkringskassan &lt;/SPAN&gt;anser att regeringen bör överväga att permanenta möjligheterna att lämna över andra mål än migrationsmål. Förvaltningsrätten i Linköping och Förvaltningsrätten i Uppsala anser vidare att förslaget skulle få ett ännu större genomslag om samtliga förvaltningsrätter skulle ges möjlighet att överlämna mål sinsemellan. &lt;SPAN class="ft3"&gt;Migrationsverket &lt;/SPAN&gt;framhåller att det är nödvändigt att möjligheterna att lämna över mål också utnyttjas av domstolarna. Enligt &lt;SPAN class="ft3"&gt;Sveriges advokatsamfund &lt;/SPAN&gt;bör det tydliggöras att ett offentligt biträde ska ha rätt till full ersättning för resekostnader och tidsspillan i de fall ombudet har sin verksamhet på annan ort.&lt;/P&gt;
+&lt;P class="p38 ft12"&gt;Skälen för regeringens förslag och bedömning: &lt;SPAN class="ft2"&gt;Den 1 januari 2017 utökades möjligheterna för migrationsdomstolarna att lämna över mål i syfte att förbättra domstolarnas förutsättningar att hålla handläggningstiderna på en rimlig nivå även när antalet mål ökar kraftigt (se prop. 2016/17:27). För att hantera den stora målökningen på migrationsområdet infördes en ordning som innebär att en förvaltningsrätt som är migrationsdomstol får lämna över migrationsmål och andra mål till övriga förvaltningsrätter som handlägger sådana mål. Vidare får den kammarrätt som är migrationsöverdomstol lämna över andra mål än migrationsmål till övriga kammarrätter som handlägger sådana mål. Målen får endast lämnas över om det behövs av hänsyn till domstolens handläggningstider och om det kan göras utan avsevärd olägenhet för någon part (8 a § tredje stycket och 14 § femte stycket lagen [1971:289] om allmänna förvaltningsdomstolar). Bestämmelserna gäller till och med utgången av 2019. Därefter begränsas de utökade möjligheterna att överlämna mål till migrationsmål i de förvaltningsrätter som är migrationsdomstolar.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p39 ft2"&gt;Migrationsdomstolarna står fortfarande inför avsevärda utmaningar till följd av det stora antalet asylsökande som har kommit till Sverige under senare år. Den mycket kraftiga målökningen, som inleddes under 2016 och som sedan tilltog 2017, fortsatte på samma nivå även 2018. En viss avmattning syntes dock i slutet av 2018. Av Domstolsverkets skrivelse framgår att antalet balanserade mål i dagsläget är mycket högt och att omloppstiderna vid migrationsdomstolarna är långa. Vid Migrationsöverdomstolen ser situationen bättre ut med ett balansläge och omloppstider som är under kontroll. Balanserna vid Migrationsöverdomstolen skulle dock kunna öka till följd av att migrationsdomstolarna avgör sina balanser. Prognoserna för de kommande åren talar enligt Domstolsverket för en fortsatt hög men successivt minskande tillströmning av migrationsmål till domstolarna.&lt;/P&gt;
+&lt;P class="p40 ft2"&gt;Migrationsdomstolarna har vidtagit en rad åtgärder för att kunna hantera den ökade måltillströmningen, bl.a. en kraftig utökning av bemanningen i samtliga personalkategorier, förstärkning av personalresurser genom inlåning av personal från andra domstolar och från förstärkningsstyrkan, justeringar i organisationen och förbättrade arbetsformer. Under 2018 ökade antalet avgjorda migrationsmål kraftigt till de högsta nivåerna sedan migrationsdomstolarna bildades (se Årsredovisningen för Sveriges Domstolar 2018 s. &lt;NOBR&gt;46–51).&lt;/NOBR&gt; För att möta måltillströmningen har migrations-&lt;/P&gt;
+&lt;P class="p41 ft2"&gt;6&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_7"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p42 ft2"&gt;domstolarna också utnyttjat möjligheten att överlämna mål. Av Domstolsverkets skrivelse framgår att ca 400 migrationsmål och drygt 1 000 övriga mål lämnades över under 2017. Under 2018 har 800 migrationsmål och 750 övriga mål överlämnats. Migrationsöverdomstolen har än så länge inte haft något behov av att överlämna mål.&lt;/P&gt;
+&lt;P class="p43 ft14"&gt;I promemorian föreslås att de tillfälliga möjligheterna för migrationsdomstolarna att lämna över även andra mål än migrationsmål ska förlängas. En majoritet av remissinstanserna tillstyrker förslaget. Så som &lt;SPAN class="ft13"&gt;Sveriges Domareförbund &lt;/SPAN&gt;påpekar är det en grundläggande princip att forumbestämmelser ska vara stabila över tid och förutsebara för parterna och domstolarna. De utökade möjligheterna för migrationsdomstolarna att överlämna mål är dock föranledda av särskilda omständigheter. Som regeringen tidigare uttalat är det viktigt att migrationsdomstolarna ges verkningsfulla instrument för att så långt möjligt kunna hålla handläggningstiderna på en rimlig nivå (se prop. 2016/17:27 s. 18). Mot bakgrund av den fortsatt höga måltillströmningen, antalet balanserade mål och de långa omloppstiderna i de förvaltningsrätter som är migrationsdomstolar bedömer regeringen att omständigheterna alltjämt är sådana att det är motiverat att överlämnandemöjligheten kvarstår ytterligare en tid. Den utökade men tillfälliga möjligheten för de förvaltningsrätter som är migrationsdomstolar att överlämna även andra mål än migrationsmål bör därför förlängas. Eftersom förvaltningsrätterna har byggt upp balanser av migrationsmål kan antalet inkomna mål till Migrationsöverdomstolen vid Kammarrätten i Stockholm förväntas vara fortsatt högt. En förlängning bör därför även innefatta den kammarrättens möjligheter att lämna över mål.&lt;/P&gt;
+&lt;P class="p44 ft2"&gt;Domstolsverket har föreslagit att domstolarnas möjligheter att lämna över andra mål än migrationsmål ska förlängas med ett år, dvs. till och med utgången av december 2020. Ett motsvarande förslag lämnas i promemorian. Regeringen anser att den föreslagna förlängningen om ett år är väl avvägd. Det finns inte förutsättningar för att i detta ärende, så som bl.a. &lt;SPAN class="ft3"&gt;Förvaltningsrätten i Linköping &lt;/SPAN&gt;och &lt;SPAN class="ft3"&gt;Förvaltningsrätten i Uppsala &lt;/SPAN&gt;efterfrågar, överväga en permanent ordning eller en ordning som möjliggör för samtliga förvaltningsrätter att överlämna mål sinsemellan.&lt;/P&gt;
+&lt;P class="p45 ft2"&gt;Författningstekniskt bör förlängningen genomföras på så sätt att tidpunkten för ikraftträdandet av lagen (2016:1139) om ändring i lagen (1971:289) om allmänna förvaltningsdomstolar senareläggs till den 1 januari 2021.&lt;/P&gt;
+&lt;P class="p46 ft2"&gt;När det gäller behovet av det förtydligande som &lt;SPAN class="ft3"&gt;Sveriges advokatsamfund &lt;/SPAN&gt;efterlyser i fråga om det offentliga biträdets rätt till ersättning kunde det, som regeringen tidigare konstaterat, redan före införandet av möjligheterna att överlämna mål uppstå situationer där avståndet mellan den enskilde och biträdet ökar under processen på grund av omständigheter som de inte förfogar över (se prop. 2016/17:27 s. 15). Såsom regeringen då uttalade bör biträdets ersättningsanspråk i ett överlämnat mål bedömas på samma sätt som i de redan då förekommande situationerna.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p47 ft2"&gt;Prop. 2019/20:19&lt;/P&gt;
+&lt;P class="p48 ft2"&gt;7&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_8"&gt;
+&lt;DIV id="p8dimg1"&gt;
+&lt;INGENBILD zsrc="H703198x1.jpg/" id="p8img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t5"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td14"&gt;&lt;SPAN class="p13 ft2"&gt;Prop. 2019/20:19&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD rowspan=2 class="tr10 td15"&gt;&lt;SPAN class="p18 ft1"&gt;5&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD rowspan=2 class="tr10 td19"&gt;&lt;SPAN class="p16 ft1"&gt;Konsekvenser&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td14"&gt;&lt;SPAN class="p13 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p49 ft2"&gt;&lt;SPAN class="ft12"&gt;Regeringens bedömning: &lt;/SPAN&gt;Förslaget ger de domstolar som är migrationsdomstolar förbättrade förutsättningar att hålla handläggningstiderna på en rimlig nivå. Detta är till fördel för enskilda och minskar kostnaderna för det allmänna. Förslaget bidrar till ett mer resurseffektivt utnyttjande av de allmänna förvaltningsdomstolarnas samlade kapacitet.&lt;/P&gt;
+&lt;P class="p50 ft2"&gt;&lt;SPAN class="ft12"&gt;Promemorians bedömning &lt;/SPAN&gt;överensstämmer med regeringens. &lt;SPAN class="ft12"&gt;Remissinstanserna: &lt;/SPAN&gt;Samtliga remissinstanser instämmer i bedömning-&lt;/P&gt;
+&lt;P class="p51 ft2"&gt;en. &lt;SPAN class="ft3"&gt;Kammarrätten i Göteborg &lt;/SPAN&gt;efterfrågar en analys av hur omfördelningen av andra mål än migrationsmål påverkar måltillströmningen i överrätterna och resursfördelningen dem emellan.&lt;/P&gt;
+&lt;P class="p52 ft12"&gt;Skälen för regeringens bedömning: &lt;SPAN class="ft2"&gt;Förslaget att förlänga de utökade möjligheterna att överlämna andra mål än migrationsmål syftar till att korta handläggningstiderna och minska omloppstiderna hos migrationsdomstolarna. En förlängning möjliggör för domstolarna att även fortsättningsvis lämna över mål till den domstol som har bäst förutsättningar att avgöra målen inom rimlig tid. Förslaget bedöms vara till fördel för enskilda och innebära minskade kostnader för det allmänna. Förslaget möjliggör att den samlade kapaciteten hos landets allmänna förvaltningsdomstolar bättre kan tas tillvara under en period med höga balanser och ett fortsatt högt inflöde av mål.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p53 ft2"&gt;Så som &lt;SPAN class="ft3"&gt;Kammarrätten i Göteborg &lt;/SPAN&gt;anför kan förslagen komma att påverka måltillströmningen till enskilda överrätter om målen överlämnas till en förvaltningsrätt i en annan domkrets. De närmare konsekvenserna går dock inte att överblicka i nuläget eftersom det på förhand inte kan förutses i vilken utsträckning och till vilka domstolar mål kan komma att överlämnas. Om det vid överlämnande av ett större antal mål blir aktuellt att omfördela resurser mellan domstolarna är det Domstolsverkets uppgift.&lt;/P&gt;
+&lt;P class="p54 ft2"&gt;8&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_9"&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;DIV id="id_1_1"&gt;
+&lt;P class="p11 ft7"&gt;Sammanfattning av promemorian Förlängda möjligheter för migrationsdomstolarna att överlämna mål&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_1_2"&gt;
+&lt;P class="p11 ft2"&gt;Prop. 2019/20:19 Bilaga 1&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p55 ft2"&gt;Möjligheten för de förvaltningsrätter som är migrationsdomstolar att överlämna migrationsmål och andra mål till övriga förvaltningsrätter utökades den 1 januari 2017. Även den kammarrätt som är Migrationsöverdomstol får lämna över andra mål än migrationsmål. Möjligheterna att lämna över andra mål än migrationsmål är tillfälliga och gäller till och med utgången av december 2019. I promemorian föreslås att dessa möjligheter ska förlängas till och med utgången av december 2020. Förslaget syftar till att ge domstolarna förbättrade förutsättningar att hålla handläggningstiderna på en rimlig nivå genom att den samlade kapaciteten hos de allmänna förvaltningsdomstolarna utnyttjas.&lt;/P&gt;
+&lt;P class="p56 ft2"&gt;9&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_10"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t6"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td20"&gt;&lt;/TD&gt;
+	&lt;TD class="tr8 td21"&gt;&lt;SPAN class="p13 ft2"&gt;Prop. 2019/20:19&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD rowspan=2 class="tr0 td22"&gt;&lt;SPAN class="p13 ft1"&gt;Promemorians lagförslag&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td20"&gt;&lt;/TD&gt;
+	&lt;TD rowspan=2 class="tr4 td21"&gt;&lt;SPAN class="p13 ft2"&gt;Bilaga 2&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td20"&gt;&lt;/TD&gt;
+	&lt;TD class="tr13 td22"&gt;&lt;SPAN class="p13 ft15"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p57 ft16"&gt;Förslag till lag om ändring i lagen (2016:1139) om ändring i lagen (1971:289) om allmänna förvaltningsdomstolar&lt;/P&gt;
+&lt;P class="p58 ft2"&gt;Härigenom föreskrivs att ikraftträdandebestämmelsen till lagen (2016:1139) om ändring i lagen (1971:289) om allmänna förvaltningsdomstolar&lt;SPAN class="ft8"&gt;1 &lt;/SPAN&gt;ska ha följande lydelse.&lt;/P&gt;
+&lt;P class="p59 ft2"&gt;Denna lag träder i kraft den 1 januari 2021.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t7"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td23"&gt;&lt;SPAN class="p25 ft2"&gt;10&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td18"&gt;&lt;SPAN class="p26 ft10"&gt;&lt;SPAN class="ft9"&gt;1 &lt;/SPAN&gt;Lagen omtryckt 1981:1323.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_11"&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;DIV id="id_1_1"&gt;
+&lt;P class="p11 ft1"&gt;Förteckning över remissinstanserna&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_1_2"&gt;
+&lt;P class="p11 ft2"&gt;Prop. 2019/20:19 Bilaga 3&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p55 ft2"&gt;Efter remiss har yttranden över promemorian Förlängda möjligheter för migrationsdomstolarna att överlämna mål lämnats av Attunda tingsrätt, Domstolsverket, Försäkringskassan, Förvaltningsrätten i Stockholm, Förvaltningsrätten i Uppsala, Förvaltningsrätten i Malmö, Förvaltningsrätten i Göteborg, Förvaltningsrätten i Karlstad, Förvaltningsrätten i Falun, Förvaltningsrätten i Härnösand, Förvaltningsrätten i Umeå, Förvaltningsrätten i Luleå, Förvaltningsrätten i Linköping, Förvaltningsrätten i Jönköping, Förvaltningsrätten i Växjö, Göta hovrätt, Justitiekanslern, Kammarrätten i Stockholm, Kammarrätten i Göteborg, Kammarrätten i Sundsvall, Kammarrätten i Jönköping, Migrationsverket, Norrköpings tingsrätt, Riksdagens ombudsmän, Skatteverket, Stockholms universitet (juridiska fakultetsnämnden), Sveriges advokatsamfund och Sveriges Domareförbund.&lt;/P&gt;
+&lt;P class="p60 ft2"&gt;Barnombudsmannen har avstått från att yttra sig. Flyktinggruppernas Riksråd och JUSEK har inte hörts av.&lt;/P&gt;
+&lt;P class="p61 ft2"&gt;11&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_12"&gt;
+&lt;DIV id="p12dimg1"&gt;
+&lt;INGENBILD zsrc="H7031912x1.jpg/" id="p12img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p62 ft2"&gt;Prop. 2019/20:19&lt;/P&gt;
+&lt;P class="p63 ft1"&gt;Justitiedepartementet&lt;/P&gt;
+&lt;P class="p64 ft2"&gt;Utdrag ur protokoll vid regeringssammanträde den 26 september 2019&lt;/P&gt;
+&lt;P class="p65 ft2"&gt;Närvarande: statsminister Löfven, ordförande, och statsråden Lövin,&lt;/P&gt;
+&lt;P class="p66 ft2"&gt;Johansson, Hallengren, Hultqvist, Andersson, Bolund, Damberg,&lt;/P&gt;
+&lt;P class="p67 ft2"&gt;Shekarabi, Ygeman, Dahlgren, Nilsson, Ernkrans, Nordmark&lt;/P&gt;
+&lt;P class="p68 ft2"&gt;Föredragande: statsrådet Johansson&lt;/P&gt;
+&lt;P class="p69 ft2"&gt;Regeringen beslutar proposition Förlängda möjligheter för migrationsdomstolarna att överlämna mål&lt;/P&gt;
+&lt;P class="p70 ft2"&gt;12&lt;/P&gt;
+&lt;/DIV&gt;
+
+&lt;/div&gt;&lt;style&gt;
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+&lt;/style&gt;
+</html>
+  </dokument>
+<dokforslag>
+<forslag>
+<nummer datatype="int32">1</nummer>
+<beteckning datatype="string">1</beteckning>
+<lydelse datatype="string">Riksdagen antar regeringens förslag till lag om ändring i lagen (2016:1139) om ändring i lagen (1971:289) om allmänna förvaltningsdomstolar.</lydelse>
+<lydelse2 datatype="string" />
+<utskottet datatype="string">Bifall</utskottet>
+<kammaren datatype="string">Bifall</kammaren>
+<behandlas_i datatype="string">2019/20:JuU11</behandlas_i>
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string">JuU</intressent>
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+</dokforslag>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">INL</kod>
+<namn datatype="string">Inlämnad</namn>
+<datum datatype="datetime">2019-10-01 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">B</kod>
+<namn datatype="string">Bordlagd</namn>
+<datum datatype="datetime">2019-10-01 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">HÄN</kod>
+<namn datatype="string">Hänvisad</namn>
+<datum datatype="datetime">2019-10-02 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">MOT</kod>
+<namn datatype="string">Motionstid slutar</namn>
+<datum datatype="datetime">2019-10-16 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+</dokaktivitet>
+<dokintressent>
+<intressent>
+<intressent_id datatype="string">0218878014918</intressent_id>
+<namn datatype="string">Stefan Löfven</namn>
+<partibet datatype="string">S</partibet>
+<ordning datatype="int16">1</ordning>
+<roll datatype="string">Statsråd1</roll>
+</intressent>
+<intressent>
+<intressent_id datatype="string">0473783431010</intressent_id>
+<namn datatype="string">Morgan Johansson</namn>
+<partibet datatype="string">S</partibet>
+<ordning datatype="int16">2</ordning>
+<roll datatype="string">Statsråd2</roll>
+</intressent>
+</dokintressent>
+<dokuppgift>
+<uppgift>
+<kod datatype="string">inlamnatav</kod>
+<namn datatype="string">Inlämnat av</namn>
+<text datatype="string">Justitiedepartementet</text>
+<dok_id datatype="string">H70319</dok_id>
+<systemdatum datatype="datetime">2019-11-14 16:13:38</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">tilldelat</kod>
+<namn datatype="string">Tilldelat</namn>
+<text datatype="string">Justitieutskottet</text>
+<dok_id datatype="string">H70319</dok_id>
+<systemdatum datatype="datetime">2019-11-14 16:13:38</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">statustext</kod>
+<namn datatype="string">statustext</namn>
+<text datatype="string">Propositionen bereds i utskott</text>
+<dok_id datatype="string">H70319</dok_id>
+<systemdatum datatype="datetime">2019-10-02 08:07:51</systemdatum>
+</uppgift>
+</dokuppgift>
+<dokbilaga>
+<bilaga>
+<dok_id datatype="string">H70319</dok_id>
+<titel datatype="string">Förlängda möjligheter för migrationsdomstolarna att överlämna mål</titel>
+<subtitel datatype="string" />
+<filnamn datatype="string">prop_201920__19.pdf</filnamn>
+<filstorlek datatype="int32">155206</filstorlek>
+<filtyp datatype="string">pdf</filtyp>
+<fil_url datatype="string">http://data.riksdagen.se/fil/ED9014C7-CE6A-4320-A6E3-542A7801C76F</fil_url>
+</bilaga>
+</dokbilaga>
+<dokreferens>
+<referens>
+<referenstyp datatype="string">behandlas_i</referenstyp>
+<uppgift datatype="string">2019/20:JuU11</uppgift>
+<ref_dok_id datatype="string">H701JuU11</ref_dok_id>
+<ref_dok_typ datatype="string">bet</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">JuU11</ref_dok_bet>
+<ref_dok_titel datatype="string">Förlängda möjligheter för migrations-domstolarna att överlämna mål</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">bet</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Betänkande</ref_dok_dokumentnamn>
+</referens>
+</dokreferens>
+<debatt /></dokumentstatus>

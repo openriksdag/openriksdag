@@ -1,0 +1,121 @@
+{
+  "person": {
+    "hangar_guid": "fd8acbf2-d7cc-4772-bc33-56fd6fd234f8",
+    "sourceid": "280f9475-e1a8-495b-96bf-04b1b0497a00",
+    "intressent_id": "0624040854527",
+    "hangar_id": "3057236",
+    "fodd_ar": "1986",
+    "kon": "kvinna",
+    "efternamn": "Berginger",
+    "tilltalsnamn": "Emma",
+    "sorteringsnamn": "Berginger,Emma",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "Skåne läns södra",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/280f9475-e1a8-495b-96bf-04b1b0497a00",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/280f9475-e1a8-495b-96bf-04b1b0497a00_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/280f9475-e1a8-495b-96bf-04b1b0497a00_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/280f9475-e1a8-495b-96bf-04b1b0497a00_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "186",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0624040854527",
+          "hangar_id": "3057236",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "20",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-02-07",
+          "tom": "2022-09-26",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0624040854527",
+          "hangar_id": "3057236",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "22",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-09",
+          "tom": "2022-09-26",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0624040854527",
+          "hangar_id": "3057236",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "16",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0624040854527",
+          "hangar_id": "3057236",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "emma.berginger[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0624040854527",
+          "hangar_id": "3057236"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Fil.kand.",
+          "typ": "titlar",
+          "intressent_id": "0624040854527",
+          "hangar_id": "3057236"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0624040854527",
+          "hangar_id": "3057236"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0624040854527",
+          "hangar_id": "3057236"
+        }
+      ]
+    }
+  }
+}

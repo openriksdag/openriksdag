@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "3268564f-7318-480e-8ca3-4a55d0c5ee4c",
+    "sourceid": "66b07944-4423-45ad-bfcf-695ee453497d",
+    "intressent_id": "0361346660811",
+    "hangar_id": "2342761",
+    "fodd_ar": "1953",
+    "kon": "man",
+    "efternamn": "Ragnarsson",
+    "tilltalsnamn": "Jan-Olof",
+    "sorteringsnamn": "Ragnarsson,Jan-Olof",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "",
+    "status": "Status saknas",
+    "person_url_xml": "http://data.riksdagen.se/person/66b07944-4423-45ad-bfcf-695ee453497d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/66b07944-4423-45ad-bfcf-695ee453497d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/66b07944-4423-45ad-bfcf-695ee453497d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/66b07944-4423-45ad-bfcf-695ee453497d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-10-04",
+          "tom": "1991-09-29",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0361346660811",
+          "hangar_id": "2342761",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-03-18",
+          "tom": "1991-09-29",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0361346660811",
+          "hangar_id": "2342761",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-10-04",
+          "tom": "1991-09-29",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0361346660811",
+          "hangar_id": "2342761",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-10-04",
+          "tom": "1991-09-29",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0361346660811",
+          "hangar_id": "2342761",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "banförman",
+          "typ": "titlar",
+          "intressent_id": "0361346660811",
+          "hangar_id": "2342761"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0361346660811",
+          "hangar_id": "2342761"
+        }
+      ]
+    }
+  }
+}

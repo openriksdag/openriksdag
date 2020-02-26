@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "0d0f573a-8fa5-4455-a27b-238ccfa46f34",
+    "sourceid": "1ddd664a-5eb7-49ed-827d-fd46284344b9",
+    "intressent_id": "0898090064906",
+    "hangar_id": "2341963",
+    "fodd_ar": "1937",
+    "kon": "man",
+    "efternamn": "Alkemark",
+    "tilltalsnamn": "Sven-Erik",
+    "sorteringsnamn": "Alkemark,Sven-Erik",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Avliden  1990-02-16",
+    "person_url_xml": "http://data.riksdagen.se/person/1ddd664a-5eb7-49ed-827d-fd46284344b9",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1ddd664a-5eb7-49ed-827d-fd46284344b9_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1ddd664a-5eb7-49ed-827d-fd46284344b9_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1ddd664a-5eb7-49ed-827d-fd46284344b9_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "115",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1990-02-16",
+          "uppgift": "",
+          "intressent_id": "0898090064906",
+          "hangar_id": "2341963",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1986-10-15",
+          "tom": "1986-11-14",
+          "uppgift": "Åke Gustavsson",
+          "intressent_id": "0898090064906",
+          "hangar_id": "2341963",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1985-11-18",
+          "tom": "1985-12-18",
+          "uppgift": "Åke Gustavsson",
+          "intressent_id": "0898090064906",
+          "hangar_id": "2341963",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1990-02-16",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0898090064906",
+          "hangar_id": "2341963",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1990-02-16",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0898090064906",
+          "hangar_id": "2341963",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "fastighetsförvaltare",
+          "typ": "titlar",
+          "intressent_id": "0898090064906",
+          "hangar_id": "2341963"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0898090064906",
+          "hangar_id": "2341963"
+        }
+      ]
+    }
+  }
+}

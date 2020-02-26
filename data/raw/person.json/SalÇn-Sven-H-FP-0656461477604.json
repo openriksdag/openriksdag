@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "d84e1ad1-9930-484e-a164-2ec193a10fa1",
+    "sourceid": "f0b89d13-0c87-4bc9-bac6-b55840093671",
+    "intressent_id": "0656461477604",
+    "hangar_id": "2342033",
+    "fodd_ar": "1939",
+    "kon": "man",
+    "efternamn": "Salén",
+    "tilltalsnamn": "Sven H",
+    "sorteringsnamn": "Salén,Sven H",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/f0b89d13-0c87-4bc9-bac6-b55840093671",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f0b89d13-0c87-4bc9-bac6-b55840093671_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f0b89d13-0c87-4bc9-bac6-b55840093671_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f0b89d13-0c87-4bc9-bac6-b55840093671_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1988-04-08",
+          "tom": "1988-05-07",
+          "uppgift": "Ylva Annerstedt",
+          "intressent_id": "0656461477604",
+          "hangar_id": "2342033",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-04-08",
+          "tom": "1988-05-07",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0656461477604",
+          "hangar_id": "2342033",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "jur.kand.",
+          "typ": "titlar",
+          "intressent_id": "0656461477604",
+          "hangar_id": "2342033"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0656461477604",
+          "hangar_id": "2342033"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "person": {
+    "hangar_guid": "f3b8c19e-9c69-45c8-b730-dcac3d6769b9",
+    "sourceid": "a9ffa63a-bd3e-4f78-ab3d-5228673ff370",
+    "intressent_id": "0594680769027",
+    "hangar_id": "5004028",
+    "fodd_ar": "1986",
+    "kon": "man",
+    "efternamn": "Andersson",
+    "tilltalsnamn": "Daniel",
+    "sorteringsnamn": "Andersson,Daniel",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Örebro län",
+    "status": "Tjänstgörande statsrådsersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/a9ffa63a-bd3e-4f78-ab3d-5228673ff370",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a9ffa63a-bd3e-4f78-ab3d-5228673ff370_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a9ffa63a-bd3e-4f78-ab3d-5228673ff370_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a9ffa63a-bd3e-4f78-ab3d-5228673ff370_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "164",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2019-01-21",
+          "tom": "2022-09-26",
+          "uppgift": "Matilda Ernkrans",
+          "intressent_id": "0594680769027",
+          "hangar_id": "5004028",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-02-15",
+          "tom": "2022-09-26",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0594680769027",
+          "hangar_id": "5004028",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "27",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-02-13",
+          "tom": "2022-09-26",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0594680769027",
+          "hangar_id": "5004028",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "23",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-03-13",
+          "tom": "2022-10-04",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0594680769027",
+          "hangar_id": "5004028",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "daniel.andersson[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0594680769027",
+          "hangar_id": "5004028"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Företagare.",
+          "typ": "titlar",
+          "intressent_id": "0594680769027",
+          "hangar_id": "5004028"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0594680769027",
+          "hangar_id": "5004028"
+        }
+      ]
+    }
+  }
+}

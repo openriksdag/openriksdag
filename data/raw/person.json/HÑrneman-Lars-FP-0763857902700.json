@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "df72d8c9-3c29-4e1a-b6e5-db4a0bebd617",
+    "sourceid": "6f5f0871-3faf-4176-bc59-ff2f5490cb85",
+    "intressent_id": "0763857902700",
+    "hangar_id": "2341775",
+    "fodd_ar": "1931",
+    "kon": "man",
+    "efternamn": "Härneman",
+    "tilltalsnamn": "Lars",
+    "sorteringsnamn": "Härneman,Lars",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Status saknas",
+    "person_url_xml": "http://data.riksdagen.se/person/6f5f0871-3faf-4176-bc59-ff2f5490cb85",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6f5f0871-3faf-4176-bc59-ff2f5490cb85_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6f5f0871-3faf-4176-bc59-ff2f5490cb85_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6f5f0871-3faf-4176-bc59-ff2f5490cb85_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-11-27",
+          "tom": "1990-12-26",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0763857902700",
+          "hangar_id": "2341775",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-11-27",
+          "tom": "1990-12-26",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0763857902700",
+          "hangar_id": "2341775",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0763857902700",
+          "hangar_id": "2341775"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "redaktör",
+          "typ": "titlar",
+          "intressent_id": "0763857902700",
+          "hangar_id": "2341775"
+        }
+      ]
+    }
+  }
+}

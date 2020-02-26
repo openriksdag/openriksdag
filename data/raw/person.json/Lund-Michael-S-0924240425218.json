@@ -1,0 +1,90 @@
+{
+  "person": {
+    "hangar_guid": "b5026db4-dd6c-4d93-8c45-07a2e92111e6",
+    "sourceid": "a1a608d9-0d74-11d5-ae53-0050040ca7ae",
+    "intressent_id": "0924240425218",
+    "hangar_id": "2343203",
+    "fodd_ar": "1962",
+    "kon": "man",
+    "efternamn": "Lund",
+    "tilltalsnamn": "Michael",
+    "sorteringsnamn": "Lund,Michael",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/a1a608d9-0d74-11d5-ae53-0050040ca7ae",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a1a608d9-0d74-11d5-ae53-0050040ca7ae_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a1a608d9-0d74-11d5-ae53-0050040ca7ae_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a1a608d9-0d74-11d5-ae53-0050040ca7ae_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "316",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2001-01-30",
+          "tom": "2001-03-12",
+          "uppgift": "Agneta Lundberg",
+          "intressent_id": "0924240425218",
+          "hangar_id": "2343203",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "316",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2000-04-19",
+          "tom": "2000-05-12",
+          "uppgift": "Agneta Lundberg",
+          "intressent_id": "0924240425218",
+          "hangar_id": "2343203",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2001-01-30",
+          "tom": "2001-03-12",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0924240425218",
+          "hangar_id": "2343203",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2000-04-26",
+          "tom": "2000-05-12",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0924240425218",
+          "hangar_id": "2343203",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

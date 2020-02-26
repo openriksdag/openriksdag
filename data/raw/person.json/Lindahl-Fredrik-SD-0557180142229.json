@@ -1,0 +1,137 @@
+{
+  "person": {
+    "hangar_guid": "4daba726-cc41-4f12-a987-475f6fdb7de5",
+    "sourceid": "08bb4baa-24ca-4395-baf7-c907a4d5b776",
+    "intressent_id": "0557180142229",
+    "hangar_id": "5003694",
+    "fodd_ar": "1987",
+    "kon": "man",
+    "efternamn": "Lindahl",
+    "tilltalsnamn": "Fredrik",
+    "sorteringsnamn": "Lindahl,Fredrik",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Stockholms län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/08bb4baa-24ca-4395-baf7-c907a4d5b776",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/08bb4baa-24ca-4395-baf7-c907a4d5b776_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/08bb4baa-24ca-4395-baf7-c907a4d5b776_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/08bb4baa-24ca-4395-baf7-c907a4d5b776_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "321",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0557180142229",
+          "hangar_id": "5003694",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "RRR",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2019-04-01",
+          "tom": "2022-10-31",
+          "uppgift": "Riksdagens råd för Riksrevisionen",
+          "intressent_id": "0557180142229",
+          "hangar_id": "5003694",
+          "sortering": "50",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-06-18",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0557180142229",
+          "hangar_id": "5003694",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-02-06",
+          "tom": "2022-09-26",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0557180142229",
+          "hangar_id": "5003694",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-02-06",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0557180142229",
+          "hangar_id": "5003694",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "fredrik.lindahl[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0557180142229",
+          "hangar_id": "5003694"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "64024",
+          "typ": "telefonnummer",
+          "intressent_id": "0557180142229",
+          "hangar_id": "5003694"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Väktare/Skyddsvakt.",
+          "typ": "titlar",
+          "intressent_id": "0557180142229",
+          "hangar_id": "5003694"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0557180142229",
+          "hangar_id": "5003694"
+        }
+      ]
+    }
+  }
+}

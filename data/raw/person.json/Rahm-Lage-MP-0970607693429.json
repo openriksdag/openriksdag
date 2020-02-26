@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "2d81c9a7-ab71-4fc2-8859-13eb4c318c9b",
+    "sourceid": "13662d19-3e42-4afd-bce0-304ad5e9ec4f",
+    "intressent_id": "0970607693429",
+    "hangar_id": "2343683",
+    "fodd_ar": "1980",
+    "kon": "man",
+    "efternamn": "Rahm",
+    "tilltalsnamn": "Lage",
+    "sorteringsnamn": "Rahm,Lage",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "Göteborgs kommun",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/13662d19-3e42-4afd-bce0-304ad5e9ec4f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/13662d19-3e42-4afd-bce0-304ad5e9ec4f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/13662d19-3e42-4afd-bce0-304ad5e9ec4f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/13662d19-3e42-4afd-bce0-304ad5e9ec4f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "333",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2007-11-14",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0970607693429",
+          "hangar_id": "2343683",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2008-10-01",
+          "tom": "2009-01-13",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0970607693429",
+          "hangar_id": "2343683",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-11-22",
+          "tom": "2007-12-19",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0970607693429",
+          "hangar_id": "2343683",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "17",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-12-14",
+          "tom": "2010-10-04",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0970607693429",
+          "hangar_id": "2343683",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "21",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-12-14",
+          "tom": "2010-10-04",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0970607693429",
+          "hangar_id": "2343683",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-11-22",
+          "tom": "2007-12-19",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0970607693429",
+          "hangar_id": "2343683",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Studerande",
+          "typ": "titlar",
+          "intressent_id": "0970607693429",
+          "hangar_id": "2343683"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0970607693429",
+          "hangar_id": "2343683"
+        }
+      ]
+    }
+  }
+}

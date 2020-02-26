@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "2a612896-955e-4f4b-bd33-4ddcd4cd79c0",
+    "sourceid": "b67316c8-173c-46aa-b561-fbe617fa4310",
+    "intressent_id": "0988383147219",
+    "hangar_id": "2343450",
+    "fodd_ar": "1970",
+    "kon": "man",
+    "efternamn": "Eriksson",
+    "tilltalsnamn": "Lars",
+    "sorteringsnamn": "Eriksson,Lars",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Västmanlands län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/b67316c8-173c-46aa-b561-fbe617fa4310",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b67316c8-173c-46aa-b561-fbe617fa4310_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b67316c8-173c-46aa-b561-fbe617fa4310_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b67316c8-173c-46aa-b561-fbe617fa4310_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "343",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2018-03-19",
+          "uppgift": "",
+          "intressent_id": "0988383147219",
+          "hangar_id": "2343450",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "198",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2012-10-01",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0988383147219",
+          "hangar_id": "2343450",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "234",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2006-10-06",
+          "uppgift": "Sven-Erik Österberg",
+          "intressent_id": "0988383147219",
+          "hangar_id": "2343450",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-03-19",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0988383147219",
+          "hangar_id": "2343450",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-10-01",
+          "tom": "2014-09-29",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0988383147219",
+          "hangar_id": "2343450",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "CKrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-03-13",
+          "tom": "2018-03-19",
+          "uppgift": "Sammansatta civil- och kulturutskottet",
+          "intressent_id": "0988383147219",
+          "hangar_id": "2343450",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "18",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-14",
+          "tom": "2018-03-19",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0988383147219",
+          "hangar_id": "2343450",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Ombudsman.",
+          "typ": "titlar",
+          "intressent_id": "0988383147219",
+          "hangar_id": "2343450"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0988383147219",
+          "hangar_id": "2343450"
+        }
+      ]
+    }
+  }
+}

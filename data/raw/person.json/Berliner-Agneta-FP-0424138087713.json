@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "0cea59a5-f648-4190-811f-13cf73362542",
+    "sourceid": "294b78ff-596c-4701-9e03-edbf77b2f246",
+    "intressent_id": "0424138087713",
+    "hangar_id": "2343044",
+    "fodd_ar": "1958",
+    "kon": "kvinna",
+    "efternamn": "Berliner",
+    "tilltalsnamn": "Agneta",
+    "sorteringsnamn": "Berliner,Agneta",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "Västmanlands län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/294b78ff-596c-4701-9e03-edbf77b2f246",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/294b78ff-596c-4701-9e03-edbf77b2f246_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/294b78ff-596c-4701-9e03-edbf77b2f246_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/294b78ff-596c-4701-9e03-edbf77b2f246_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "307",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0424138087713",
+          "hangar_id": "2343044",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2007-10-03",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0424138087713",
+          "hangar_id": "2343044",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "16",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-10-04",
+          "tom": "2010-10-04",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0424138087713",
+          "hangar_id": "2343044",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "8",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-04-09",
+          "tom": "2010-10-04",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0424138087713",
+          "hangar_id": "2343044",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "8",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-04-09",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0424138087713",
+          "hangar_id": "2343044",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-02-09",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0424138087713",
+          "hangar_id": "2343044",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Projektledare",
+          "typ": "titlar",
+          "intressent_id": "0424138087713",
+          "hangar_id": "2343044"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0424138087713",
+          "hangar_id": "2343044"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1512 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5045142</hangar_id>
+    <dok_id datatype="string">H70325</dok_id>
+    <rm datatype="string">2019/20</rm>
+    <beteckning datatype="string">25</beteckning>
+    <typ datatype="string">prop</typ>
+    <subtyp datatype="string">skr</subtyp>
+    <doktyp datatype="string">prop</doktyp>
+    <typrubrik datatype="string">Skrivelse 2019/20:25</typrubrik>
+    <dokumentnamn datatype="string">Skrivelse</dokumentnamn>
+    <debattnamn datatype="string">Proposition</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">Utrikesdepartementet</organ>
+    <mottagare datatype="string">UU</mottagare>
+    <nummer datatype="int32">25</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2019-10-29 00:00:00</datum>
+    <systemdatum datatype="datetime">2019-12-04 08:23:30</systemdatum>
+    <publicerad datatype="datetime">2019-10-29 00:00:00</publicerad>
+    <titel datatype="string">Verksamheten inom Organisationen för säkerhet och samarbete i Europa (OSSE) under helåret 2018 och första halvåret 2019</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">Hänvisad</status>
+    <htmlformat datatype="string">html-ec</htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">prop-RIM</source>
+    <sourceid datatype="string">a4f4d58b-aed2-4011-b8e7-5c3d04d5c41e</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H70325/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H70325</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H70325</dokumentstatus_url_xml>
+    <html datatype="text">&lt;div style="margin:3px;"&gt;
+&lt;STYLE type="text/css"&gt;
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:10px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_1 #p1dimg1 {position:absolute;top:0px;left:546px;z-index:-1;width:54px;height:97px;}
+#page_1 #p1dimg1 #p1img1 {width:54px;height:97px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_2 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_2 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_4 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_4 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 586px;}
+
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:14px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:14px 0px 21px 10px ;padding: 0px;border: none;width: 631px;}
+#page_12 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_12 #id_2 {border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_12 #id_2 #id_2_1 {float:left;border:none;z:b;margin:25px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_12 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_15 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_15 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 180px;overflow: hidden;}
+
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_19 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_20 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_20 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_20 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_21 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_21 #id_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_21 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+
+
+
+
+
+#page_22 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+#page_22 #p22dimg1 {position:absolute;top:238px;left:126px;z-index:-1;width:112px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_22 #p22dimg1 #p22img1 {width:112px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  18px 'Verdana' !important;l-h: 32px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft2{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft3{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft4{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft5{font:  12px 'Verdana' !important;l-h: 17px;}
+.ft6{font: italic  12px 'Verdana' !important;l-h: 17px;}
+.ft7{font:  12px 'Verdana' !important;margin-left: 32px;l-h: 15px;}
+.ft8{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft9{font:  14px 'Verdana' !important;margin-left: 39px;l-h: 22px;}
+.ft10{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft11{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft12{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft13{font:  14px 'Verdana' !important;margin-left: 39px;l-h: 19px;}
+.ft14{font: bold  14px 'Verdana' !important;l-h: 17px;}
+.ft15{font: bold  14px 'Verdana' !important;l-h: 20px;}
+.ft16{font:  12px 'Verdana' !important;margin-left: 5px;l-h: 15px;}
+.ft17{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft18{font: bold  12px 'Verdana' !important;l-h: 17px;}
+.ft19{font:  10px 'Verdana' !important;l-h: 14px;}
+.ft20{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft21{font:  10px 'Verdana' !important;l-h: 4px;}
+.ft22{font:  14px 'Verdana' !important;margin-left: 50px;l-h: 26px;}
+.ft23{font:  14px 'Verdana' !important;l-h: 26px;}
+.ft24{font:  12px 'Verdana' !important;l-h: 18px;}
+.ft25{font:  14px 'Verdana' !important;margin-left: 51px;l-h: 26px;}
+.ft26{font: bold  12px 'Verdana' !important;l-h: 15px;}
+
+.p0{text-align: left;padding-left: 0px;padding-right: 441px;margin-top: 22px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p4{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 0px;margin-top: 31px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 180px;padding-right: 378px;margin-top: 20px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 0px;margin-top: 47px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 28px;margin-bottom: 0px !important;}
+.p10{text-align: right;padding-right: 42px;margin-top: 308px;margin-bottom: 0px !important;}
+.p11{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p12{text-align: left;padding-left: 0px;margin-top: 753px;margin-bottom: 0px !important;}
+.p13{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p14{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p15{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p17{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p18{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p19{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p20{text-align: left;padding-left: 0px;padding-right: 126px;margin-top: 12px;margin-bottom: 0px !important;text-indent: 0.61px;}
+.p21{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 4px;margin-bottom: 0px !important;}
+.p22{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p23{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p24{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p25{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p26{text-align: right;margin-top: 31px;margin-bottom: 0px !important;}
+.p27{text-align: left;padding-right: 63px;margin-top: 9px;margin-bottom: 0px !important;}
+.p28{text-align: left;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p29{text-align: left;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p30{text-align: left;padding-right: 63px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 11px;}
+.p31{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p32{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p33{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p34{text-align: left;padding-left: 0px;margin-top: 42px;margin-bottom: 0px !important;}
+.p35{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 15px;margin-bottom: 0px !important;}
+.p36{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p37{text-align: right;padding-right: 42px;margin-top: 10px;margin-bottom: 0px !important;}
+.p38{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p39{text-align: left;padding-left: 0px;margin-top: 67px;margin-bottom: 0px !important;}
+.p40{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p41{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 12px;margin-bottom: 0px !important;}
+.p42{text-align: left;padding-left: 0px;margin-top: 22px;margin-bottom: 0px !important;}
+.p43{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 6px;margin-bottom: 0px !important;}
+.p44{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p45{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p46{text-align: left;margin-top: 11px;margin-bottom: 0px !important;}
+.p47{text-align: left;padding-left: 0px;margin-top: 23px;margin-bottom: 0px !important;}
+.p48{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 6px;margin-bottom: 0px !important;}
+.p49{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 11px;}
+.p50{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 9px;margin-bottom: 0px !important;}
+.p51{text-align: left;padding-left: 0px;margin-top: 22px;margin-bottom: 0px !important;}
+.p52{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 4px;margin-bottom: 0px !important;}
+.p53{text-align: right;padding-right: 42px;margin-top: 6px;margin-bottom: 0px !important;}
+.p54{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p55{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p56{text-align: left;padding-left: 0px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p57{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 23px;margin-bottom: 0px !important;}
+.p58{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p59{text-align: left;padding-left: 0px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p60{text-align: left;padding-left: 140px;padding-right: 84px;margin-top: 28px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p61{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p62{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p63{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p64{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;}
+.p65{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p66{text-align: left;padding-left: 0px;margin-top: 28px;margin-bottom: 0px !important;}
+.p67{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 10px;margin-bottom: 0px !important;}
+.p68{text-align: right;padding-right: 42px;margin-top: 4px;margin-bottom: 0px !important;}
+.p69{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p70{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p71{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p72{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p73{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p74{text-align: left;margin-top: 4px;margin-bottom: 0px !important;}
+.p75{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p76{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p77{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p78{text-align: left;padding-left: 0px;margin-top: 24px;margin-bottom: 0px !important;}
+.p79{text-align: right;padding-right: 42px;margin-top: 31px;margin-bottom: 0px !important;}
+.p80{text-align: center;padding-right: 7px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p81{text-align: center;padding-right: 5px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p82{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p83{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p84{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 29px;margin-bottom: 0px !important;}
+.p85{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p86{text-align: left;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p87{text-align: left;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p88{text-align: left;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p89{text-align: left;margin-top: 42px;margin-bottom: 0px !important;}
+.p90{text-align: left;margin-top: 34px;margin-bottom: 0px !important;}
+.p91{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p92{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 8px;margin-bottom: 0px !important;text-indent: 11px;}
+.p93{text-align: left;padding-left: 0px;margin-top: 27px;margin-bottom: 0px !important;}
+.p94{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 10px;margin-bottom: 0px !important;}
+.p95{text-align: left;margin-top: 7px;margin-bottom: 0px !important;}
+.p96{text-align: left;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;}
+.p97{text-align: left;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p98{text-align: left;padding-right: 1px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p99{text-align: left;padding-right: 1px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p100{text-align: left;padding-right: 1px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p101{text-align: left;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p102{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p103{text-align: right;padding-right: 42px;margin-top: 752px;margin-bottom: 0px !important;}
+.p104{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 19px;margin-bottom: 0px !important;text-indent: 11px;}
+.p105{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 13px;margin-bottom: 0px !important;text-indent: 11px;}
+.p106{text-align: left;padding-left: 160px;padding-right: 63px;margin-top: 45px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p107{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 7px;margin-bottom: 0px !important;}
+.p108{text-align: left;margin-top: 8px;margin-bottom: 0px !important;}
+.p109{text-align: left;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;}
+.p110{text-align: left;margin-top: 54px;margin-bottom: 0px !important;}
+.p111{text-align: left;padding-right: 168px;margin-top: 17px;margin-bottom: 0px !important;}
+.p112{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p113{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 9px;margin-bottom: 0px !important;}
+.p114{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p115{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 43px;margin-bottom: 0px !important;text-indent: 0.61px;}
+.p116{text-align: left;padding-left: 0px;margin-top: 11px;margin-bottom: 0px !important;}
+.p117{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 8px;margin-bottom: 0px !important;text-indent: 11px;}
+.p118{text-align: right;padding-right: 42px;margin-top: 63px;margin-bottom: 0px !important;}
+.p119{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p120{text-align: left;margin-top: 753px;margin-bottom: 0px !important;}
+.p121{text-align: left;padding-right: 63px;margin-top: 10px;margin-bottom: 0px !important;}
+.p122{text-align: left;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p123{text-align: left;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p124{text-align: left;margin-top: 28px;margin-bottom: 0px !important;}
+.p125{text-align: left;padding-right: 63px;margin-top: 12px;margin-bottom: 0px !important;}
+.p126{text-align: left;margin-top: 3px;margin-bottom: 0px !important;}
+.p127{text-align: right;padding-right: 42px;margin-top: 737px;margin-bottom: 0px !important;}
+.p128{text-align: left;padding-left: 0px;margin-top: 33px;margin-bottom: 0px !important;}
+.p129{text-align: left;padding-left: 0px;margin-top: 14px;margin-bottom: 0px !important;}
+.p130{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 16px;margin-bottom: 0px !important;}
+.p131{text-align: left;padding-left: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p132{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 76px;margin-bottom: 0px !important;}
+.p133{text-align: left;margin-top: 437px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 413px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 113px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 413px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 113px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 404px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 7px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 6px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 46px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 344px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 14px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 390px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 52px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 396px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 36px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 389px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 90px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 61px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 469px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 332px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 115px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 21px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 426px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 119px;vertical-align: bottom;}
+.td23{padding: 0px;margin: 0px;width: 191px;vertical-align: bottom;}
+.td24{padding: 0px;margin: 0px;width: 89px;vertical-align: bottom;}
+.td25{padding: 0px;margin: 0px;width: 111px;vertical-align: bottom;}
+.td26{padding: 0px;margin: 0px;width: 412px;vertical-align: bottom;}
+.td27{padding: 0px;margin: 0px;width: 82px;vertical-align: bottom;}
+.td28{padding: 0px;margin: 0px;width: 66px;vertical-align: bottom;}
+.td29{padding: 0px;margin: 0px;width: 42px;vertical-align: bottom;}
+.td30{padding: 0px;margin: 0px;width: 280px;vertical-align: bottom;}
+.td31{padding: 0px;margin: 0px;width: 464px;vertical-align: bottom;}
+.td32{padding: 0px;margin: 0px;width: 43px;vertical-align: bottom;}
+.td33{padding: 0px;margin: 0px;width: 421px;vertical-align: bottom;}
+.td34{padding: 0px;margin: 0px;width: 262px;vertical-align: bottom;}
+.td35{padding: 0px;margin: 0px;width: 96px;vertical-align: bottom;}
+
+.tr0{heightzzz: 31px;}
+.tr1{heightzzz: 23px;}
+.tr2{heightzzz: 25px;}
+.tr3{heightzzz: 20px;}
+.tr4{heightzzz: 17px;}
+.tr5{heightzzz: 18px;}
+.tr6{heightzzz: 21px;}
+.tr7{heightzzz: 15px;}
+.tr8{heightzzz: 16px;}
+.tr9{heightzzz: 19px;}
+.tr10{heightzzz: 27px;}
+.tr11{heightzzz: 26px;}
+.tr12{heightzzz: 22px;}
+.tr13{heightzzz: 14px;}
+.tr14{heightzzz: 4px;}
+.tr15{heightzzz: 28px;}
+.tr16{heightzzz: 29px;}
+.tr17{heightzzz: 32px;}
+.tr18{heightzzz: 24px;}
+
+.t0{width: 552px;margin-leftZ: 69px;margin-top: 5px;f:20px 'Verdana' !important;}
+.t1{width: 431px;margin-top: 16px;f:13px 'Verdana' !important;}
+.t2{width: 431px;f:13px 'Verdana' !important;}
+.t3{width: 541px;margin-leftZ: 68px;f:20px 'Verdana' !important;}
+.t4{width: 556px;margin-top: 3px;f:13px 'Verdana' !important;}
+.t5{width: 541px;margin-leftZ: 68px;f:bold 15px 'Verdana' !important;}
+.t6{width: 557px;f:13px 'Verdana' !important;}
+.t7{width: 555px;margin-top: 8px;f:13px 'Verdana' !important;}
+.t8{width: 555px;margin-top: 21px;f:13px 'Verdana' !important;}
+.t9{width: 376px;margin-leftZ: 11px;margin-top: 14px;f:13px 'Verdana' !important;}
+
+&lt;/STYLE&gt;
+
+
+
+&lt;DIV id="page_1"&gt;
+&lt;DIV id="p1dimg1"&gt;
+&lt;INGENBILD zsrc="H703251x1.jpg/" id="p1img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV class="dclr"&gt;&lt;/DIV&gt;
+&lt;P class="p0 ft0"&gt;Regeringens skrivelse 2019/20:25&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t0"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr0 td0"&gt;&lt;SPAN class="p1 ft1"&gt;Verksamheten inom Organisationen för säkerhet&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td1"&gt;&lt;SPAN class="p2 ft1"&gt;Skr.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td0"&gt;&lt;SPAN class="p1 ft1"&gt;och samarbete i Europa (OSSE) under helåret&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td1"&gt;&lt;SPAN class="p2 ft1"&gt;2019/20:25&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td2"&gt;&lt;SPAN class="p1 ft1"&gt;2018 och första halvåret 2019&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td3"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p4 ft3"&gt;Regeringen överlämnar denna skrivelse till riksdagen.&lt;/P&gt;
+&lt;P class="p5 ft3"&gt;Stockholm den 24 oktober 2019&lt;/P&gt;
+&lt;P class="p6 ft4"&gt;Stefan Löfven&lt;/P&gt;
+&lt;P class="p7 ft6"&gt;Ann Linde &lt;SPAN class="ft5"&gt;(Utrikesdepartementet)&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p8 ft1"&gt;Skrivelsens huvudsakliga innehåll&lt;/P&gt;
+&lt;P class="p9 ft5"&gt;I skrivelsen redogör regeringen för verksamheten inom Organisationen för säkerhet och samarbete i Europa (OSSE) under helåret 2018 och första halvåret 2019.&lt;/P&gt;
+&lt;P class="p10 ft3"&gt;1&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_2"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p11 ft3"&gt;Skr. 2019/20:25&lt;/P&gt;
+&lt;P class="p12 ft3"&gt;2&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft1"&gt;Innehållsförteckning&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t1"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td4"&gt;&lt;SPAN class="p3 ft3"&gt;&lt;A href="#page_3"&gt;1 Inledning ...........................................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td5"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_3"&gt;3&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p14 ft3"&gt;&lt;SPAN class="ft3"&gt;1.1&lt;/SPAN&gt;&lt;A href="#page_3"&gt;&lt;SPAN class="ft7"&gt;Utvecklingen i OSSE under helåret 2018 och första&lt;/SPAN&gt;&lt;/A&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t2"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td7"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td8"&gt;&lt;SPAN class="p15 ft3"&gt;&lt;A href="#page_3"&gt;halvåret 2019......................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td9"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_3"&gt;3&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td7"&gt;&lt;SPAN class="p16 ft3"&gt;&lt;A href="#page_4"&gt;1.2&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td8"&gt;&lt;SPAN class="p15 ft3"&gt;&lt;A href="#page_4"&gt;Svenskt fokus under perioden ............................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td9"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_4"&gt;4&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p3 ft3"&gt;&lt;A href="#page_5"&gt;2&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td10"&gt;&lt;SPAN class="p16 ft3"&gt;&lt;A href="#page_5"&gt;OSSE:s ministerrådsmöten ...............................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td9"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_5"&gt;5&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td6"&gt;&lt;SPAN class="p3 ft3"&gt;&lt;A href="#page_6"&gt;3&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr6 td10"&gt;&lt;SPAN class="p16 ft3"&gt;&lt;A href="#page_6"&gt;OSSE:s tre dimensioner ....................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td9"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_6"&gt;6&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td6"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td7"&gt;&lt;SPAN class="p16 ft3"&gt;&lt;A href="#page_6"&gt;3.1&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td8"&gt;&lt;SPAN class="p15 ft3"&gt;&lt;A href="#page_6"&gt;Den militärpolitiska dimensionen.......................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td9"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_6"&gt;6&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td6"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td7"&gt;&lt;SPAN class="p16 ft3"&gt;&lt;A href="#page_8"&gt;3.2&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td8"&gt;&lt;SPAN class="p15 ft3"&gt;&lt;A href="#page_8"&gt;Den ekonomiska och miljömässiga dimensionen...............&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td9"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_8"&gt;8&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td7"&gt;&lt;SPAN class="p16 ft3"&gt;&lt;A href="#page_9"&gt;3.3&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td8"&gt;&lt;SPAN class="p15 ft3"&gt;&lt;A href="#page_9"&gt;Den mänskliga dimensionen ..............................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td9"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_9"&gt;9&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td6"&gt;&lt;SPAN class="p3 ft3"&gt;&lt;A href="#page_13"&gt;4&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr9 td10"&gt;&lt;SPAN class="p16 ft3"&gt;&lt;A href="#page_13"&gt;Den &lt;/A&gt;&lt;NOBR&gt;&lt;A href="#page_13"&gt;rysk-ukrainska&lt;/A&gt;&lt;/NOBR&gt;&lt;A href="#page_13"&gt; konflikten........................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td9"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_13"&gt;13&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td6"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td7"&gt;&lt;SPAN class="p16 ft3"&gt;&lt;A href="#page_13"&gt;4.1&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td8"&gt;&lt;SPAN class="p15 ft3"&gt;&lt;A href="#page_13"&gt;Redogörelse för konflikten...............................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td9"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_13"&gt;13&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td7"&gt;&lt;SPAN class="p16 ft3"&gt;&lt;A href="#page_14"&gt;4.2&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td8"&gt;&lt;SPAN class="p15 ft3"&gt;&lt;A href="#page_14"&gt;OSSE:s hantering av konflikten .......................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td9"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_14"&gt;14&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td6"&gt;&lt;SPAN class="p3 ft3"&gt;&lt;A href="#page_16"&gt;5&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr6 td10"&gt;&lt;SPAN class="p16 ft3"&gt;&lt;A href="#page_16"&gt;Rustningskontroll och den strukturerade dialogen..........................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td9"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_16"&gt;16&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td6"&gt;&lt;SPAN class="p3 ft3"&gt;&lt;A href="#page_17"&gt;6&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr6 td10"&gt;&lt;SPAN class="p16 ft3"&gt;&lt;A href="#page_17"&gt;OSSE:s fältverksamhet ...................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td9"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_17"&gt;17&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td6"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td7"&gt;&lt;SPAN class="p16 ft3"&gt;&lt;A href="#page_17"&gt;6.1&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td8"&gt;&lt;SPAN class="p15 ft3"&gt;&lt;A href="#page_17"&gt;Västra Balkan ...................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td9"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_17"&gt;17&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td6"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td7"&gt;&lt;SPAN class="p16 ft3"&gt;&lt;A href="#page_18"&gt;6.2&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td8"&gt;&lt;SPAN class="p15 ft3"&gt;&lt;A href="#page_18"&gt;Centralasien......................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td9"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_18"&gt;18&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td7"&gt;&lt;SPAN class="p16 ft3"&gt;&lt;A href="#page_18"&gt;6.3&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td8"&gt;&lt;SPAN class="p15 ft3"&gt;&lt;A href="#page_18"&gt;Östeuropa och Södra Kaukasien.......................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td9"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_18"&gt;18&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p3 ft3"&gt;&lt;A href="#page_19"&gt;7&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td10"&gt;&lt;SPAN class="p16 ft3"&gt;&lt;A href="#page_19"&gt;OSSE:s hantering av de utdragna konflikterna ...............................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td9"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_19"&gt;19&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td6"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td7"&gt;&lt;SPAN class="p16 ft3"&gt;&lt;A href="#page_19"&gt;7.1&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td8"&gt;&lt;SPAN class="p15 ft3"&gt;&lt;NOBR&gt;&lt;A href="#page_19"&gt;Nagorno-Karabach ...........................................................&lt;/A&gt;&lt;/NOBR&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td9"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_19"&gt;19&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td6"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td7"&gt;&lt;SPAN class="p16 ft3"&gt;&lt;A href="#page_20"&gt;7.2&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td8"&gt;&lt;SPAN class="p15 ft3"&gt;&lt;A href="#page_20"&gt;Georgien...........................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td9"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_20"&gt;20&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td7"&gt;&lt;SPAN class="p16 ft3"&gt;&lt;A href="#page_20"&gt;7.3&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td8"&gt;&lt;SPAN class="p15 ft3"&gt;&lt;A href="#page_20"&gt;Transnistrien.....................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td9"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_20"&gt;20&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr6 td11"&gt;&lt;SPAN class="p3 ft3"&gt;Bilaga 1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td8"&gt;&lt;SPAN class="p15 ft3"&gt;&lt;A href="#page_21"&gt;OSSE:s deltagande stater och partnerstater ......................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td9"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_21"&gt;21&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr6 td12"&gt;&lt;SPAN class="p3 ft3"&gt;&lt;A href="#page_22"&gt;Utdrag ur protokoll vid regeringssammanträde den 24 oktober&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td9"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td7"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td8"&gt;&lt;SPAN class="p17 ft3"&gt;&lt;A href="#page_22"&gt;2019 .......................................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td9"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_22"&gt;22&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_3"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t3"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td13"&gt;&lt;SPAN class="p18 ft1"&gt;1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td14"&gt;&lt;SPAN class="p19 ft1"&gt;Inledning&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td15"&gt;&lt;SPAN class="p3 ft3"&gt;Skr. 2019/20:25&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p20 ft10"&gt;&lt;SPAN class="ft8"&gt;1.1&lt;/SPAN&gt;&lt;SPAN class="ft9"&gt;Utvecklingen i OSSE under helåret 2018 och första halvåret 2019&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p21 ft3"&gt;Under helåret 2018 och det första halvåret 2019 har OSSE:s verksamhet fortsatt dominerats av den pågående ryska aggressionen mot Ukraina och den olagliga annekteringen av Krim samt av det försämrade säkerhetspolitiska klimat som följt i spåren av detta. De kraftigt divergerande politiska perspektiven inom organisationen i centrala frågor som den &lt;NOBR&gt;rysk-ukrainska&lt;/NOBR&gt; konflikten, de utdragna konflikterna och organisationens mandat att arbeta med det breda säkerhetsbegreppet har fortsatt att skapa låsningar i samarbetet.&lt;/P&gt;
+&lt;P class="p22 ft3"&gt;Spänningarna mellan de deltagande staterna försvårar det löpande arbetet. De gör det också svårare för OSSE:s ministerråd att nå de konsensusbeslut som krävs för att utveckla organisationen och dess arbetssätt. Trots låsningarna lyckades det italienska ordförandeskapet vid ministerrådsmötet 2018 för första gången sedan 2014 nå konsensusbeslut och deklarationer inom alla tre dimensioner, dock inte inom de mest känsliga frågorna. Beslut fattades när det gäller journalisters säkerhet, våld mot kvinnor, humankapital i den digitala eran samt åtgärder mot trafficking av barn. Vidare kunde deklarationer antas om den digitala ekonomin, ungdomars bidrag till säkerhet och samarbete, säkerhet och samarbete i Medelhavet samt små och lätta vapen.&lt;/P&gt;
+&lt;P class="p23 ft3"&gt;Arbetet inom den militärpolitiska dimensionen fyller fortsatt en viktig roll för förtroendeskapande. Samarbetet har överlag fungerat väl, även om behovet av modernisering av de underliggande dokumenten kvarstår. Under hösten 2017 kunde förhandlingarna om kvoter för observationsflygningar inom ramen för avtalet ”Open Skies” inte föras i mål, varför inga sådana flygningar kunde genomföras under 2018. Inför 2019 hade frågorna lösts ut och flygningarna har återupptagits under året.&lt;/P&gt;
+&lt;P class="p23 ft3"&gt;Den så kallade Strukturerade dialogen om säkerhetsutmaningar och risker som inrättades på tyskt initiativ 2016 fortsatte under perioden. Målsättningen är att tydliggöra sambandet mellan förtroendeskapande åtgärder och konventionell rustningskontroll med syftet att öka den militära förutsägbarheten och transparensen.&lt;/P&gt;
+&lt;P class="p24 ft3"&gt;Inom den mänskliga dimensionen har det svåra samarbetsklimatet påverkat möjligheterna till framsteg. OSSE:s strukturer och autonoma institutioner har dock kunnat fortsätta det ordinarie arbetet, med ansvarsutkrävande i det permanenta rådet samt valobservationsmissioner och rådgivning i frågor relaterade till de mänskliga rättigheterna. Europas största regelbundna konferens på temat mänskliga rättigheter, HDIM, kunde trots utmaningar genomföras som vanligt hösten 2018.&lt;/P&gt;
+&lt;P class="p25 ft11"&gt;Under perioden har Italien och Slovakien innehaft ordförandeposten i OSSE. Under det italienska ordförandeskapet hölls ett ministerrådsmöte, men inget informellt sådant. Slovakien kommer under det andra halvåret 2019 att genomföra både ett informellt och ett formellt ministerrådsmöte.&lt;/P&gt;
+&lt;P class="p26 ft3"&gt;3&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_4"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p11 ft3"&gt;Skr. 2019/20:25&lt;/P&gt;
+&lt;P class="p12 ft3"&gt;4&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft8"&gt;&lt;SPAN class="ft12"&gt;1.2&lt;/SPAN&gt;&lt;SPAN class="ft13"&gt;Svenskt fokus under perioden&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p27 ft3"&gt;Sveriges övergripande mål har fortsatt varit att säkerställa att OSSE:s deltagande stater lever upp till organisationens normer, principer och åtaganden liksom att stärka EU:s röst i organisationen. Sverige har aktivt verkat för att respekten för den europeiska säkerhetsordningen som den kommer till uttryck i folkrätten, Helsingforsslutakten, Parisstadgan och andra &lt;NOBR&gt;OSSE-principer,&lt;/NOBR&gt; ska återupprättas.&lt;/P&gt;
+&lt;P class="p28 ft3"&gt;I samarbete med andra likasinnade deltagande stater har Sverige aktivt arbetat för att frågan om den &lt;NOBR&gt;rysk-ukrainska&lt;/NOBR&gt; konflikten ska ha en framträdande plats på OSSE:s dagordning samt att OSSE ska användas som instrument för EU:s samlade politik i förhållande till konflikten. Sverige har också liksom tidigare lämnat stora personalmässiga bidrag till OSSE:s särskilda observatörsmission i Ukraina (SMM). Vid halvårsskiftet 2019 var 25 svenskar sekunderade till insatsen.&lt;/P&gt;
+&lt;P class="p29 ft3"&gt;Sverige har under perioden fortsatt att vara en stark röst inom OSSE:s mänskliga dimension för demokrati, mänskliga rättigheter och rättsstatens principer i en kontext där dessa värden utmanas i flera av de deltagande staterna. Inom &lt;NOBR&gt;EU-samarbetet&lt;/NOBR&gt; i OSSE har Sverige en koordinerande roll för medie- och yttrandefrihetsfrågor och har på så sätt kunnat hålla dessa frågor högt på agendan. Det svenska engagemanget har också kommit till uttryck genom det starka stödet för OSSE:s oberoende institutioner både på politisk nivå och genom sekunderingar och projektstöd. Jämställdhetsfrågor är prioriterade inom alla områden där Sverige är aktivt i OSSE, vilket bland annat tagit sig uttryck i en sekundering av en genderrådgivare till &lt;NOBR&gt;OSSE-sekretariatet&lt;/NOBR&gt; i Wien.&lt;/P&gt;
+&lt;P class="p28 ft3"&gt;Hösten 2018 deltog Sverige som en av 16 deltagande stater i aktiveringen av de så kallade Wien- och Moskvamekanismerna. Bakgrunden var oro över situationen för de mänskliga rättigheterna, specifikt förföljelser av &lt;NOBR&gt;hbtq-personer,&lt;/NOBR&gt; i den ryska delrepubliken Tjetjenien. Den fristående expertrapport som togs fram under Moskvamekanismen bekräftade anklagelserna om mycket allvarliga kränkningar mot de mänskliga rättigheterna och lämnade ett antal rekommendationer till Ryssland och andra aktörer.&lt;/P&gt;
+&lt;P class="p28 ft3"&gt;Inom den militärpolitiska dimensionen har Sverige aktivt bidragit till diskussionerna om Wiendokumentets uppdatering och verkat för att fördraget om observationsflygningar ska genomföras på ett effektivt sätt. Sverige var under hösten 2018 ordförande för forumet för säkerhetssamarbete, FSC. Under det svenska ordförandeskapet diskuterades bland annat regionalt samarbete i Östersjöregionen, demokratisk kontroll över försvarsmakter, utveckling av militärdoktriner, rättigheter för militär personal, bekämpning av illegal vapensmuggling, &lt;NOBR&gt;icke-spridning&lt;/NOBR&gt; av nukleära, biologiska och kemiska produkter (FN- resolution 1540) samt kvinnligt deltagande i militära operationer (FN- resolution 1325). Sverige lade tillsammans med &lt;NOBR&gt;OSSE-ordföranden&lt;/NOBR&gt; Italien fram förslag till element för modernisering av Wiendokumentet. Förslagen kunde dock inte antas, främst på grund av motstånd från Ryssland.&lt;/P&gt;
+&lt;P class="p30 ft5"&gt;Sverige var under inledningen av 2018 även ordförande för fördraget om militära observationsflygningar, ”Open Skies”, och bidrog då till förhandlingarna mellan Georgien och Ryssland för att söka lösa de&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_5"&gt;
+
+
+&lt;P class="p31 ft11"&gt;meningsskiljaktigheter som lett till att konsensusbeslut inte kunde fattas Skr. 2019/20:25 om observationsflygningar för 2018.&lt;/P&gt;
+&lt;P class="p32 ft3"&gt;Sverige är fortsatt engagerat i den strukturerade dialogen och följer och deltar aktivt i denna bl.a. genom ett sändebud från Utrikesdepartementet i Stockholm och genom delegationen i Wien.&lt;/P&gt;
+&lt;P class="p32 ft3"&gt;Utöver de obligatoriska avgifterna till OSSE:s ordinarie budget och observatörsmissionen i Ukraina bidrar Sverige med finansiellt stöd till den extrabudgetära verksamheten. Sverige stöder även civilsamhällesplattformen (CSP) och det svenska &lt;NOBR&gt;OSSE-nätverket&lt;/NOBR&gt; för att stärka det civila samhällets möjligheter att bidra till OSSE:s verksamhet. Sverige har också fortsatt att ställa personal till förfogande för tjänstgöring i OSSE:s sekretariat, oberoende institutioner och fältmissioner, vidare har ett stort antal svenskar deltagit i ODIHR:s valobservationsmissioner.&lt;/P&gt;
+&lt;P class="p33 ft5"&gt;I riksdagens &lt;NOBR&gt;OSSE-delegations&lt;/NOBR&gt; redogörelse till riksdagen finns kompletterande information om arbetet i OSSE:s parlamentariska församling, som bland annat inkluderar valobservation.&lt;/P&gt;
+&lt;P class="p34 ft1"&gt;2 OSSE:s ministerrådsmöten&lt;/P&gt;
+&lt;P class="p35 ft3"&gt;Under helåret 2018 och första halvåret 2019 genomfördes under Italiens ordförandeskap ett ministerrådsmöte i kretsen av OSSE:s 57 deltagande stater. Till skillnad från tidigare tyska och österrikiska ordförandeskap valde det italienska ordförandeskapet att inte organisera ett informellt ministerrådsmöte. I stället hölls ett möte på utrikesrådsnivå i Rom den 8 oktober 2018, vilket hade som syfte att förbereda ministerrådsmötet som genomfördes i Milano den &lt;NOBR&gt;6–7&lt;/NOBR&gt; december.&lt;/P&gt;
+&lt;P class="p36 ft3"&gt;Ett stort antal ministrar deltog i ministerrådsmötet i Milano, där den &lt;NOBR&gt;rysk-ukrainska&lt;/NOBR&gt; konflikten återigen var den centrala frågan som togs upp i ministrarnas nationella anföranden. Likt tidigare år visade det sig omöjligt för de deltagande staterna att enas om en bredare politisk deklaration eller om en konsensustext om konflikten. Förhandlingsarbetet präglades av kända skiljelinjer, såsom synen på den &lt;NOBR&gt;rysk-ukrainska&lt;/NOBR&gt; konflikten och OSSE:s grundläggande principer och åtaganden.&lt;/P&gt;
+&lt;P class="p33 ft3"&gt;Ministerrådsmötet kunde dock för första gången sedan 2014 anta konsensustexter inom OSSE:s alla tre dimensioner. Beslutet om journalisters säkerhet var en framgång, där Sveriges delegation spelade en central roll i sin kapacitet som EU:s lokala samordnare i frågan, samt som medordförande för vängruppen för journalistsäkerhet. I sin roll som ordförande för Forumet för säkerhetssamarbete, FSC, ledde också den svenska delegationen förhandlingarna om de militärpolitiska texterna. Sverige spelade således en nyckelroll i tillkomsten av deklarationen om små och lätta vapen och fick uppskattning för hanteringen och ledarskapet när det gäller utkastet till beslut om riskreducering och förebyggande av incidenter. Även ett beslut om att förebygga och bekämpa våld mot kvinnor kunde antas. Flera texter som antogs ligger dock utanför OSSE:s kärnverksamhet, såsom den av Italien högt prioriterade deklarationen om Medelhavet.&lt;/P&gt;
+&lt;P class="p37 ft3"&gt;5&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_6"&gt;
+
+
+&lt;P class="p38 ft3"&gt;Skr. 2019/20:25 Sveriges nationella anförande betonade vikten av att upprätthålla OSSE:s grundläggande principer och det breda säkerhetsbegreppet och lyfte även vikten av samarbete i god anda. Den nyligen inträffade incidenten vid Kertjsundet nämndes särskilt. EU höll ett antal gemensamma anföranden, och Sverige anslöt sig också till olika gruppanföranden om bland annat grundläggande fri- och rättigheter, om säkerhetssektorreform samt om konflikten i Georgien. Sverige deltog tillsammans med ett antal andra länder i ett sidoseminarium som uppmärksammade Rysslands illegala annektering av Krim och militariseringen av Krimhalvön, Azovska sjön och Svarta havet. Dessutom hade Sverige ett flertal bilaterala möten som ägde rum i marginalen av ministerrådsmötet.&lt;/P&gt;
+&lt;P class="p39 ft1"&gt;3 OSSE:s tre dimensioner&lt;/P&gt;
+&lt;P class="p40 ft8"&gt;&lt;SPAN class="ft12"&gt;3.1&lt;/SPAN&gt;&lt;SPAN class="ft13"&gt;Den militärpolitiska dimensionen&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p41 ft11"&gt;Arbetet i den första dimensionen, som i huvudsak behandlar militärpolitiska frågor, har under perioden fortsatt varit präglat av den säkerhetspolitiska konfrontationen i regionen, vilken främst kan kopplas till den &lt;NOBR&gt;rysk-ukrainska&lt;/NOBR&gt; konflikten och de ryska brotten mot den europeiska säkerhetsordningen. Under perioden har det inte varit möjligt att fatta några beslut avseende förtroendeskapande åtgärder, dvs. modernisering av Wiendokumentet eller uppdatering av uppförandekoden.&lt;/P&gt;
+&lt;P class="p42 ft14"&gt;Wiendokumentet&lt;/P&gt;
+&lt;P class="p43 ft3"&gt;Det årliga informationsutbytet inom ramen för samarbetet under Wiendokumentet inkluderar bland annat uppgifter om militär organisation, försvarsplanering och försvarsutgifter. Dessa förtroendeskapande åtgärder fyller fortsatt en viktig funktion och efterlevnaden har under perioden fungerat relativt väl. Det gäller såväl det årliga informationsutbytet som det praktiska verifikationsarbetet, såsom utvärderingsbesök, områdesinspektioner och flygbasbesök. Inom ramen för Wiendokumentet genomfördes under 2018 cirka 130 förbandsutvärderingar, områdesinspektioner och flygbasbesök. Sverige deltog i ett tiotal av dessa.&lt;/P&gt;
+&lt;P class="p44 ft3"&gt;Under perioden har diskussioner förts om efterlevnad och modernisering av Wiendokumentet som normalt ska ses över vart femte år. Förutsättningarna för en konstruktiv dialog om ökad transparens och stärkande av förtroendeskapande åtgärder bromsas av Ryssland som motsätter sig en översyn. En särskilt viktig fråga rör genomförandet av beredskapsövningar, s.k. ”Snap Exercises”, som inte omfattas av Wiendokumentet i dess nuvarande form.&lt;/P&gt;
+&lt;P class="p45 ft5"&gt;Italien lade under sitt ordförandeskap tillsammans med Sverige, inom ramen för vårt ordförandeskap i forumet för säkerhetssamarbete, FSC,&lt;/P&gt;
+&lt;P class="p46 ft3"&gt;6&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_7"&gt;
+
+
+&lt;P class="p31 ft5"&gt;fram ett textförslag innehållande moderniseringselement för Skr. 2019/20:25 Wiendokumentet. Förslaget blockerades av främst Ryssland.&lt;/P&gt;
+&lt;P class="p47 ft14"&gt;Fördraget om militära observationsflygningar&lt;/P&gt;
+&lt;P class="p48 ft3"&gt;Fördraget om militära observationsflygningar (”Open Skies”) är inte ett formellt &lt;NOBR&gt;OSSE-fördrag,&lt;/NOBR&gt; utan ett avtal mellan fördragets medlemsstater. Det har dock en stark koppling till OSSE. Under hösten 2017 kunde förhandlingarna om flygkvoter för 2018 inte slutföras. Detta hade sin bakgrund i Rysslands erkännande av Abchazien och Sydossetien som självständiga stater. Det fick till konsekvens att Sverige, i egenskap av ordförande i ”Open Skies” under de första fyra månaderna av 2018, fick fortsätta förhandlingarna mellan Georgien och Ryssland i syfte att uppnå konsensus om flygkvoterna. Trots vissa framgångar och uttalad respekt för den svenska förhandlingsinsatsen kunde dock inga flygkvoter för 2018 antas. Härmed uteblev operativa flygningar inom ramen för fördraget om observationsflygningar under hela 2018. Under hösten 2018 lyckades medlemsstaterna komma överens om flygkvoter för 2019 och under våren 2019 är ”Open Skies” åter operativt.&lt;/P&gt;
+&lt;P class="p49 ft11"&gt;Sverige har också under perioden gjort ansträngningar för att fördraget ska kunna genomföras av alla deltagande stater, bland annat genom att mot betalning ställa observationsflygplan till förfogande för andra fördragsstater. Sverige har även engagerat sig i informella diskussioner om fördragets efterlevnad samt deltagit i godkännandet av ett nytt ryskt långräckviddigt observationsflygplan med digitalkamera.&lt;/P&gt;
+&lt;P class="p47 ft14"&gt;Fördraget om konventionella väpnade styrkor i Europa&lt;/P&gt;
+&lt;P class="p50 ft11"&gt;Ryssland meddelade 14 juli 2007 att man skulle upphöra att iaktta sina skyldigheter inom fördraget om konventionella väpnade styrkor i Europa &lt;NOBR&gt;(CFE-avtalet),&lt;/NOBR&gt; varvid fördraget sedan dess rent operativt är satt ur spel. Det bedöms som osannolikt att fördraget skulle återaktiveras i sin nuvarande form. &lt;NOBR&gt;CFE-avtalet&lt;/NOBR&gt; anses vara den bas som övriga förtroendeskapande dokument och avtal vilar på.&lt;/P&gt;
+&lt;P class="p51 ft14"&gt;Forum för säkerhetssamarbete&lt;/P&gt;
+&lt;P class="p52 ft3"&gt;Under de sista fyra månaderna 2018 var Sverige ordförande i forumet för säkerhetssamarbete, FSC. Senast Sverige var ordförande var 2001. Under det svenska ordförandeskapet diskuterades bland annat regionalt samarbete i Östersjöregionen, demokratisk kontroll över försvarsmakter, utveckling av militärdoktriner, rättigheter för militär personal, bekämpning av illegal vapensmuggling, &lt;NOBR&gt;icke-spridning&lt;/NOBR&gt; av nukleära, biologiska och kemiska produkter &lt;NOBR&gt;(FN-resolution&lt;/NOBR&gt; 1540) samt kvinnligt deltagande i militära operationer &lt;NOBR&gt;(FN-resolution&lt;/NOBR&gt; 1325). Vid ministerrådsmötet i Milano i december 2018 antogs en deklaration som Sverige lagt fram om arbetsområdet små och lätta vapen. Det var den enda text som antogs i den första dimensionen under ministerrådet. Sverige förhandlade också tillsammans med det italienska ordförandeskapet fram&lt;/P&gt;
+&lt;P class="p53 ft3"&gt;7&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_8"&gt;
+
+
+&lt;P class="p54 ft5"&gt;Skr. 2019/20:25 ett gemensamt utkast till beslut om riskreducering och förebyggande av incidenter, som dock inte kunde antas.&lt;/P&gt;
+&lt;P class="p55 ft3"&gt;Arbetet med små och lätta vapen har under den gångna perioden varit inriktat på att minska handeln med illegala vapen främst från västra Balkan. OSSE bistår flera av länderna med att utveckla deras säkerhet och hantering av vapenförråd och ammunitionslager.&lt;/P&gt;
+&lt;P class="p55 ft3"&gt;I FSC har även OSSE:s uppförandekod för väpnade styrkor från 1994 diskuterats. Koden utgör såväl en värdegrund för behandling av individer som för hur en försvarsmakt ska ledas. Arbetet koncentreras på tillämpningen av uppförandekoden, då det mot bakgrund av det säkerhetspolitiska samarbetsklimatet i dagsläget saknas möjligheter för utveckling av den.&lt;/P&gt;
+&lt;P class="p56 ft5"&gt;Under den gångna perioden har arbetet i FSC i övrigt främst präglats av fortsatta diskussioner kring den &lt;NOBR&gt;rysk-ukrainska&lt;/NOBR&gt; konflikten.&lt;/P&gt;
+&lt;P class="p57 ft15"&gt;Säkerhetskommittén och den årliga säkerhetsöversynkonferensen&lt;/P&gt;
+&lt;P class="p58 ft3"&gt;&lt;SPAN class="ft3"&gt;I&lt;/SPAN&gt;&lt;SPAN class="ft16"&gt;OSSE:s säkerhetskommitté diskuteras alla frågor som rör &lt;/SPAN&gt;&lt;NOBR&gt;icke-militära&lt;/NOBR&gt; gränsöverskridande hot inom den första dimensionen. Även detta arbete har under den gångna perioden överskuggats av den pågående ryskukrainska konflikten. Arbetet i säkerhetskommittén har fortsatt inriktats på terrorism och radikalisering, speciellt av ungdomar. Synen på terrorism och radikalisering splittrar säkerhetskommittén, speciellt avseende hur dessa ska mötas och motverkas. Starka intressenter inom detta område är EU, USA, Ryssland och Turkiet.&lt;/P&gt;
+&lt;P class="p59 ft11"&gt;Antalet diskussioner om cyberhot har ökat, främst inom temat för hybridkrigföring. Tidigare arbete med cyberfrågor avhandlade samarbete, transparens, förutsägbarhet och stabilitet, men allteftersom det säkerhetspolitiska tonläget i Europa har hårdnat så har området politiserats i allt högre grad.&lt;/P&gt;
+&lt;P class="p60 ft10"&gt;&lt;SPAN class="ft12"&gt;3.2&lt;/SPAN&gt;&lt;SPAN class="ft9"&gt;Den ekonomiska och miljömässiga dimensionen&lt;/SPAN&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t4"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr6 td17"&gt;&lt;SPAN class="p61 ft3"&gt;Utgångspunkten för OSSE:s arbete inom den andra dimensionen, som&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr7 td17"&gt;&lt;SPAN class="p61 ft3"&gt;ägnas åt frågor om ekonomi och miljö, är att ekonomisk utveckling och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr8 td17"&gt;&lt;SPAN class="p61 ft17"&gt;miljömässig hållbarhet utgör centrala förutsättningar för att bygga varaktig&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr7 td17"&gt;&lt;SPAN class="p61 ft3"&gt;säkerhet. Kontoret för samordnaren av OSSE:s ekonomi- och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr7 td17"&gt;&lt;SPAN class="p61 ft3"&gt;miljöverksamhet upprättades år 1997 och utgör en del av OSSE:s&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr8 td17"&gt;&lt;SPAN class="p61 ft3"&gt;sekretariat. Samordnarkontoret har till uppgift att stärka förmågan hos det&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr7 td17"&gt;&lt;SPAN class="p61 ft3"&gt;permanenta rådet och OSSE:s övriga institutioner att hantera ekonomiska&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr7 td17"&gt;&lt;SPAN class="p61 ft17"&gt;och miljömässiga aspekter av säkerhet. Kopplat till den andra dimensionen&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr7 td17"&gt;&lt;SPAN class="p61 ft3"&gt;finns också en kommitté som samlar alla deltagande stater, samt ett forum&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr8 td17"&gt;&lt;SPAN class="p61 ft3"&gt;som möts årligen på samma tema där deltagandet är bredare. Samarbetet&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr7 td17"&gt;&lt;SPAN class="p61 ft3"&gt;inom den andra dimensionen bedrivs till största delen genom&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr7 td17"&gt;&lt;SPAN class="p61 ft3"&gt;projektverksamhet, främst i Centralasien och Östeuropa, inklusive Södra&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td18"&gt;&lt;SPAN class="p61 ft3"&gt;Kaukasien. Projekten fokuserar bland annat&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td19"&gt;&lt;SPAN class="p3 ft3"&gt;på transportfrågor&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td20"&gt;&lt;SPAN class="p13 ft3"&gt;och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td16"&gt;&lt;SPAN class="p62 ft3"&gt;8&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td18"&gt;&lt;SPAN class="p61 ft3"&gt;gränsöverskridande vattenhushållning. OSSE:s&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td19"&gt;&lt;SPAN class="p63 ft3"&gt;fältmissioner spelar&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td20"&gt;&lt;SPAN class="p13 ft3"&gt;en&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_9"&gt;
+
+
+&lt;P class="p31 ft11"&gt;viktig roll för uppföljning av projekten. Samordnaren verkar mot Skr. 2019/20:25 korruption och penningtvätt och för främjande av god samhällsstyrning&lt;/P&gt;
+&lt;P class="p64 ft3"&gt;och en fungerande rättsordning på ekonomi- och miljöområdet. Samordnaren arbetar också för att stärka kvinnors ekonomiska ställning och med migrationsrelaterade frågor med koppling till ekonomiska och miljömässiga aspekter av säkerhet.&lt;/P&gt;
+&lt;P class="p65 ft3"&gt;Under den gångna perioden har arbetet inom OSSE:s andra dimension präglats av två huvudsakliga perspektiv bland de deltagande staterna. De centralasiatiska deltagande staterna tillsammans med Ryssland och Azerbajdzjan har visat ett stort intresse för att det huvudsakliga arbetet i dimensionen ska vara ekonomisk sammanlänkning och tillväxt. De europeiska deltagande staterna, å andra sidan, prioriterar miljö, migration och utveckling inom säkerhetssektorn. Italien prioriterade den andra dimensionen under sitt &lt;NOBR&gt;OSSE-ordförandeskap&lt;/NOBR&gt; 2018 med särskilt fokus på ekonomisk sammanlänkning i Medelhavsregionen och migration. Ingen konsensus kunde dock nås vare sig om migration eller om ekonomisk sammanlänkning vid ministerrådsmötet i Milano 2018. Däremot antogs en deklaration om säkerhetssamarbete i Medelhavet och ett beslut togs om humankapital och digital utveckling. Det slovakiska OSSE- ordförandeskapet som inleddes i januari 2019 har inte lika tydligt prioriterat arbetet inom OSSE:s andra dimension.&lt;/P&gt;
+&lt;P class="p49 ft5"&gt;Sverige har av resursskäl inte prioriterat arbetet i den andra dimensionen under perioden.&lt;/P&gt;
+&lt;P class="p66 ft8"&gt;&lt;SPAN class="ft8"&gt;3.3&lt;/SPAN&gt;&lt;SPAN class="ft13"&gt;Den mänskliga dimensionen&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p67 ft17"&gt;OSSE:s verksamhet utgår från det breda säkerhetsbegreppet som är grundat på synen att mänskliga rättigheter och en välfungerande demokrati utgör förutsättningar för långsiktig och varaktig säkerhet, och att detta kräver en väl fungerande rättsstat. Denna betydelse av begreppet säkerhet utgör en grundpelare i OSSE:s tredje, så kallade mänskliga dimension.&lt;/P&gt;
+&lt;P class="p65 ft3"&gt;Rättsstaten och dess principer är centrala hörnstenar i OSSE:s verksamhet för att stärka demokrati och skydd av mänskliga rättigheter. Rättsstatsbegreppet inbegriper såldes inte enbart formella juridiska ramverk, utan även verksamhet ämnad att skapa rättvisa genom adekvata processer och samhällsstrukturer.&lt;/P&gt;
+&lt;P class="p65 ft3"&gt;De politiskt bindande åtagandena i den tredje dimension syftar till att säkerställa att de mänskliga rättigheterna respekteras fullt ut, att upprätthålla rättsstatens principer, att bygga upp och bevara demokratiska institutioner samt att motverka intolerans och diskriminering. Sverige har under perioden aktivt bidragit till att stärka de rättsstatliga aspekterna av OSSE:s säkerhetsarbete.&lt;/P&gt;
+&lt;P class="p36 ft3"&gt;OSSE:s årliga översynskonferens Human Dimension Implementation Meeting (HDIM) är det viktigaste mötet inom den mänskliga dimensionen, vid vilket staternas efterlevnad av åtagandena granskas. Under HDIM kompletteras de formella mötessessionerna med ett antal tematiskt fokuserade möten samt fristående konferenser. Civilsamhällesaktörer deltar aktivt i alla dessa evenemang. OSSE:s deltagande stater träffas också regelbundet i kommittén för den mänskliga dimensionen&lt;/P&gt;
+&lt;P class="p68 ft3"&gt;9&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_10"&gt;
+
+
+&lt;P class="p69 ft3"&gt;Skr. 2019/20:25 utifrån ett tematiskt program, i syfte att utbyta erfarenheter och diskutera nya åtaganden. Sverige lämnade en så kallad frivillig rapport om desinformation och propaganda till kommittén 2019. Slutligen bedriver OSSE:s självständiga institutioner ODIHR (Office for Democratic Institutions and Human Rights), RFoM (Representative on Freedom of the Media) och HCNM (High Commissioner on National Minorities) ett omfattande arbete genom exempelvis valövervakning, stöd till demokratiska institutioner, insatser för att stärka respekten för mänskliga rättigheter, motverkande av intolerans och diskriminering samt stärkande av medie- och yttrandefrihet.&lt;/P&gt;
+&lt;P class="p70 ft3"&gt;Utöver dessa specifika evenemang, forum och instrument sker ansvarsutkrävande också vid de veckovisa mötena i permanenta rådet. I detta forum diskuteras konkreta och dagsaktuella frågor om de deltagande staternas efterlevnad och tillkortakommanden i förhållande till åtagandena i den mänskliga dimensionen. Som samordnare för medie- och yttrandefrihet för EU:s medlemsstater vid OSSE i Wien spelar Sverige en särskilt aktiv roll för EU:s ansvarsutkrävande på detta område.&lt;/P&gt;
+&lt;P class="p71 ft3"&gt;Hösten 2018 deltog Sverige också som en av 16 deltagande stater i aktiveringen av de så kallade Wien- och Moskvamekanismerna, vilka är särskilda verktyg för att övervaka tillämpningen av åtagandena inom den mänskliga dimensionen. Anledningen var oro över situationen för de mänskliga rättigheterna, specifikt förföljelser av &lt;NOBR&gt;hbtq-personer,&lt;/NOBR&gt; i den ryska delrepubliken Tjetjenien. Den fristående expertrapport som togs fram under Moskvamekanismen bekräftade anklagelserna om mycket allvarliga kränkningar mot de mänskliga rättigheterna och lämnade ett antal rekommendationer till Ryssland och andra aktörer.&lt;/P&gt;
+&lt;P class="p72 ft3"&gt;På grund av de politiska motsättningarna inom OSSE är det svårt att nå konsensus kring beslut om nya åtaganden i den mänskliga dimensionen. Vid ministerrådet 2018 i Milano kunde de deltagande staterna dock enas om ett beslut om säkerhet för journalister, efter stora ansträngningar från bland annat Sverige. De nya åtagandena tar sikte på en bredd av säkerhetsfrågor såsom våld, godtyckliga gripanden och attacker genom digitala teknologier, med utgångspunkt i allas rätt till yttrandefrihet. Kvinnliga journalisters situation uppmärksammas särskilt.&lt;/P&gt;
+&lt;P class="p72 ft3"&gt;Sverige fortsatte under perioden att delta i Democracy Defender Initiative, ett initiativ från åtta likasinnade deltagande stater för att främja demokratisk utveckling och samarbete med civilsamhället. Bland annat delar gruppen ut Democracy Defender Award till organisationer och individer i civilsamhället som utmärkt sig i sitt arbete för demokrati. År 2018 gick priset till serbiska Center for Research, Transparency and Accountability (CRTA) och 2019 till armeniska Union of Informed Citizens. Prisceremonin äger rum i de svenska representationslokalerna Schwedenhaus i Wien.&lt;/P&gt;
+&lt;P class="p73 ft3"&gt;Våren 2018 tog Sverige tillsammans med Frankrike och Litauen initiativ till inrättande av en vängrupp för journalisters säkerhet. Gruppen samlar 16 deltagande stater under &lt;NOBR&gt;svensk-fransk-litauisk&lt;/NOBR&gt; ledning och verkar aktivt för att främja frågor om medieaktörers säkerhet i bred bemärkelse, genom sidoevenemang, diskussionsinlägg och annat diplomatiskt arbete. Vängruppen spelade en viktig roll i förhandlingarna om ministerrådsbeslutet om säkerhet för journalister.&lt;/P&gt;
+&lt;P class="p74 ft3"&gt;10&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_11"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t5"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td21"&gt;&lt;SPAN class="p3 ft14"&gt;Kontoret för demokratiska institutioner och mänskliga&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td15"&gt;&lt;SPAN class="p3 ft3"&gt;Skr. 2019/20:25&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td21"&gt;&lt;SPAN class="p3 ft14"&gt;rättigheter&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td15"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p75 ft3"&gt;Kontoret för demokratiska institutioner och mänskliga rättigheter (ODIHR) inrättades 1992 och har i uppdrag att bistå de deltagande staterna med att genomföra sina åtaganden inom den mänskliga dimensionen. Mer specifikt arbetar ODIHR bland annat med att främja förutsättningarna för demokratiska val samt att bistå de deltagande staterna med att bygga upp och stärka demokratiska institutioner. Andra frågor inom ODIHR:s breda mandat är jämställdhet, romers möjligheter att fullt ut åtnjuta de mänskliga rättigheterna, förenings- och mötesfrihet, religions- och övertygelsefrihet, situationen för försvarare av de mänskliga rättigheterna samt skyddet av de mänskliga rättigheterna i kampen mot terrorism. Kontoret har cirka 150 anställda och har sitt säte i Warszawa. Den före detta isländska utrikesministern Ingibjörg Sólrún Gísladóttir är chef för kontoret.&lt;/P&gt;
+&lt;P class="p76 ft3"&gt;Valövervakningsmissionerna, som utgör ett av OSSE:s mer synliga verksamhetsområden, samordnas av ODIHR och genomförs i samarbete med OSSE:s parlamentariska församling. Vid flera tillfällen har Ryssland och Azerbajdzjan, med stöd av ett antal andra deltagande stater i OSSE, ifrågasatt ODIHR:s valövervakningsmetodologi och opartiskhet. Sverige och EU har varit tydliga i sitt stöd för ODIHR:s internationellt erkända metodologi. Sverige bidrar årligen till ODIHR:s valrelaterade verksamhet genom att skicka svenska observatörer till valövervakningsmissionerna. I anslutning till de allmänna valen 2018 tog Sverige i sin tur emot ett expertteam från ODIHR.&lt;/P&gt;
+&lt;P class="p77 ft11"&gt;Sverige lämnade under perioden extrabudgetärt stöd till ODIHR:s projektverksamhet i Ukraina. Sedan hösten 2018 har Sverige också bidragit genom en sekundering till tjänsten som &lt;NOBR&gt;ODIHR-chefens&lt;/NOBR&gt; representant i Wien.&lt;/P&gt;
+&lt;P class="p78 ft14"&gt;Högkommissarien för frågor om nationella minoriteter&lt;/P&gt;
+&lt;P class="p48 ft3"&gt;Högkommissarien för frågor om nationella minoriteter (HCNM) inrättades 1992 och har sitt säte i Haag. HCNM har som främsta syfte att verka konfliktförebyggande, med huvuduppgift att i ett tidigt skede identifiera och motverka etniska spänningar som kan äventyra freden, stabiliteten eller relationerna mellan OSSE:s deltagande stater. Lamberto Zannier från Italien innehar posten som högkommissarie sedan juli 2017.&lt;/P&gt;
+&lt;P class="p33 ft3"&gt;HCNM verkar genom så kallad tyst diplomati, vilket innebär att regeringar i förtroende kan be om hjälp att hantera spända situationer som riskerar att leda till konflikt. Alla OSSE:s deltagande stater har accepterat HCNM:s mandat och därmed dennes rätt att avge rekommendationer i minoritetsrelaterade frågor. Dessa frågor handlar ofta om rätt till medborgarskap, &lt;NOBR&gt;icke-diskriminering,&lt;/NOBR&gt; möjlighet att använda sitt modersmål, utbildning på minoritetsspråk samt möjlighet att delta i och aktivt kunna påverka det politiska, sociala, ekonomiska och kulturella livet i det land där man är bosatt. Under perioden har HCNM varit aktiv i en rad länder, till exempel Estland, Lettland, Moldavien, Serbien och Ukraina.&lt;/P&gt;
+&lt;P class="p79 ft3"&gt;11&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_12"&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t6"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td22"&gt;&lt;SPAN class="p3 ft3"&gt;Skr. 2019/20:25&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr11 td23"&gt;&lt;SPAN class="p3 ft18"&gt;Mediefrihetsrepresentanten&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td24"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td25"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td20"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td22"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr12 td26"&gt;&lt;SPAN class="p3 ft17"&gt;Mediefrihetsrepresentanten (RFoM) inrättades 1997 och har till uppgift att&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td22"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr7 td26"&gt;&lt;SPAN class="p3 ft3"&gt;följa utvecklingen på mediefrihetsområdet i de deltagande staterna samt&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td22"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr8 td26"&gt;&lt;SPAN class="p3 ft3"&gt;att verka för att OSSE:s principer och åtaganden om yttrande- och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td22"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr7 td26"&gt;&lt;SPAN class="p3 ft3"&gt;mediefrihet följs. I mandatet ingår även att på ett tidigt stadium identifiera&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td22"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr7 td26"&gt;&lt;SPAN class="p3 ft3"&gt;och uppmärksamma utmaningar inom dessa områden och hantera dem i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td22"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr8 td26"&gt;&lt;SPAN class="p3 ft3"&gt;samarbete med de deltagande staterna, OSSE:s övriga institutioner och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td22"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr7 td26"&gt;&lt;SPAN class="p3 ft3"&gt;andra relevanta organ. Sverige och EU är tydliga i sitt stöd för RFoM:s&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td22"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr7 td26"&gt;&lt;SPAN class="p3 ft3"&gt;mandat, som är flexibelt nog att möta såväl existerande som nya hot mot&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td22"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr8 td26"&gt;&lt;SPAN class="p3 ft3"&gt;yttrande- och mediefriheten i &lt;NOBR&gt;OSSE-området,&lt;/NOBR&gt; inklusive i digitala&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td22"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr7 td26"&gt;&lt;SPAN class="p3 ft3"&gt;kontexter. Posten som mediefrihetsrepresentant innehas av Harlem Désir&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td22"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr7 td26"&gt;&lt;SPAN class="p3 ft3"&gt;från Frankrike. Institutionen består av ca femton tjänstemän och har sitt&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td22"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td27"&gt;&lt;SPAN class="p3 ft3"&gt;säte i Wien.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td29"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td24"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td25"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td20"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td22"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr7 td26"&gt;&lt;SPAN class="p13 ft3"&gt;RFoM uppmärksammar tillkortakommanden genom brev och offentliga&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td22"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr7 td26"&gt;&lt;SPAN class="p3 ft3"&gt;uttalanden, rapporterar regelbundet till Permanenta rådet, gör besök i de&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td22"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td27"&gt;&lt;SPAN class="p3 ft3"&gt;deltagande&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td28"&gt;&lt;SPAN class="p3 ft3"&gt;staterna&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td29"&gt;&lt;SPAN class="p3 ft3"&gt;och&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td24"&gt;&lt;SPAN class="p3 ft3"&gt;sammanställer&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td25"&gt;&lt;SPAN class="p80 ft3"&gt;publikationer&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td20"&gt;&lt;SPAN class="p13 ft3"&gt;och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td22"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr7 td26"&gt;&lt;SPAN class="p3 ft3"&gt;rekommendationer om yttrande- och mediefrihet i &lt;NOBR&gt;OSSE-området.&lt;/NOBR&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td22"&gt;&lt;SPAN class="p3 ft19"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr13 td30"&gt;&lt;SPAN class="p3 ft20"&gt;RFoM:s arbete fokuserar särskilt på frågor&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td25"&gt;&lt;SPAN class="p81 ft20"&gt;som rör säkerhet&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td20"&gt;&lt;SPAN class="p13 ft20"&gt;för&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p82 ft3"&gt;journalister, inklusive den specifika situationen för kvinnliga journalister, inskränkningar i mediefriheten, desinformation och mediepluralism. RFoM har arbetat aktivt med att stödja de deltagande staternas efterlevnad av ministerrådsbeslutet 2018 om journalistsäkerhet. Våren 2019 hölls till exempel en större konferens med detta tema.&lt;/P&gt;
+&lt;P class="p83 ft3"&gt;Under perioden har RFoM återkommande pekat på den oroande utvecklingen i flera av OSSE:s deltagande stater, med brister i säkerheten för journalister i bred bemärkelse och nya inskränkningar av yttrande- och mediefriheten, inte minst i digitala kontexter. RFoM har bistått med rådgivning och juridiska analyser till deltagande stater som avsett att genomföra reformer inom sina medielagstiftningar. Sverige har under perioden fortsatt att stödja RFoM:s verksamhet genom extrabudgetära bidrag och sekonderar sedan våren 2019 återigen en seniorrådgivare.&lt;/P&gt;
+&lt;P class="p84 ft15"&gt;OSSE:s årliga översynskonferens om den mänskliga dimensionen&lt;/P&gt;
+&lt;P class="p85 ft3"&gt;OSSE:s årliga översynskonferens om den mänskliga dimensionen, HDIM, syftar till att granska och diskutera i vilken grad de deltagande staterna uppfyller sina &lt;NOBR&gt;OSSE-åtaganden&lt;/NOBR&gt; inom den mänskliga dimensionen. Mötet, som samlar både regeringsföreträdare och civilsamhällesrepresentanter från hela regionen, är en viktig plattform för öppen diskussion och politiskt ansvarsutkrävande. Konferensen har vuxit till att bli den största i Europa på temat mänskliga rättigheter.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;DIV id="id_2_1"&gt;
+&lt;P class="p11 ft3"&gt;12&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2_2"&gt;
+&lt;P class="p86 ft11"&gt;Förhandlingarna om dagordningen för HDIM, som varit svåra under flera år på grund av politiska skiljelinjer, försvårades under 2018 och 2019 framför allt genom turkisk kritik avseende civilsamhällets deltagande. Eftersom det förutses konsensusbeslut om bland annat HDIM:s dagordning kan enskilda länder hindra arbetet. Sverige har lagt ned ett omfattande engagemang för att värna civilsamhällets deltagande inom OSSE i enlighet med organisationens grundprinciper. HDIM kunde under&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_13"&gt;
+
+
+&lt;P class="p87 ft11"&gt;perioden trots utmaningarna genomföras som vanligt, men utmaningen att Skr. 2019/20:25 försvara mötenas öppenhet kvarstår.&lt;/P&gt;
+&lt;P class="p88 ft11"&gt;HDIM 2018 lockade runt 1 800 deltagare, och ett hundratal sidoevenemang arrangerades i marginalen till arbetssessionerna. Den ryska aggressionen mot Ukraina och den inrikespolitiska repressionen i Ryssland dominerade både de formella och de informella diskussionerna. Även situationen i Centralasien, Södra Kaukasien och Turkiet fick stort utrymme. Sverige deltog i anordnandet av tre sidoevenemang, om journalisters säkerhet, demokrati och civilsamhälle samt sexuell och reproduktiv hälsa och rättigheter.&lt;/P&gt;
+&lt;P class="p89 ft1"&gt;4 Den &lt;NOBR&gt;rysk-ukrainska&lt;/NOBR&gt; konflikten&lt;/P&gt;
+&lt;P class="p90 ft8"&gt;4.1 Redogörelse för konflikten&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t7"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td31"&gt;&lt;SPAN class="p3 ft3"&gt;Säkerhetssituationen i Donbassområdet i östra Ukraina är fortfarande svår.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td31"&gt;&lt;SPAN class="p3 ft3"&gt;Antalet brott mot det eldupphör som överenskoms i de så kallade&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;Minskavöverenskommelserna har fluktuerat över tid, men konflikten har&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;skördat i princip dagliga dödsoffer. Under vår och tidig sommar 2019&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td31"&gt;&lt;SPAN class="p3 ft3"&gt;noterades en ökning av antalet dödsfall. I juni 2019 hade enligt FN:s siffror&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;dödssiffran uppgått till ca 13 000 sedan konfliktens början. Enligt FN:s&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;flyktingorgan UNHCR uppgår antalet internflyktingar på grund av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td31"&gt;&lt;SPAN class="p3 ft3"&gt;konflikten till minst 1,6 miljoner.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td31"&gt;&lt;SPAN class="p91 ft3"&gt;Under första halvåret 2019 genomfördes presidentval i Ukraina där&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;Volodymyr Zelenskyj vann. I det parlamentsval som genomfördes efter&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td31"&gt;&lt;SPAN class="p3 ft3"&gt;den period som skrivelsen avser fick Zelenskyjs parti, Folkets Tjänare,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;egen majoritet. I fråga om konflikten har den nya presidenten betonat&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;vikten av att ena det ukrainska folket och att Donbassregionens invånare&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td31"&gt;&lt;SPAN class="p3 ft3"&gt;är fullvärdiga ukrainska medborgare. Zelenskyj har sedan tillträdet tagit&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;kontakt med Ryssland och ställt sig positiv till ett framtida högnivåmöte&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;inom Normandieformatet (Ukraina, Ryssland, Tyskland och Frankrike).&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td31"&gt;&lt;SPAN class="p3 ft3"&gt;Han har samtidigt understrukit att Ukrainas suveränitet och territoriella&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;integritet fortsatt är icke förhandlingsbara.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td31"&gt;&lt;SPAN class="p91 ft3"&gt;Ukraina har fortsatt att kräva att Ryssland ska sluta förse separatisterna&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td31"&gt;&lt;SPAN class="p3 ft3"&gt;med militär materiel, trupp och träning, och menar att våldsnivån är en&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;direkt konsekvens av detta. Ryssland fortsätter att förneka sin roll som part&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;i konflikten och insisterar på direkta förhandlingar mellan Kiev och de&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td31"&gt;&lt;SPAN class="p3 ft3"&gt;självutnämnda republikerna i Luhansk och Donetsk för att lösa vad man&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;från rysk sida benämner som en intern ukrainsk kris. Ryssland ser sig&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;endast som en medlare som bland annat står upp för den rysktalande&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td31"&gt;&lt;SPAN class="p3 ft3"&gt;minoritetens rättigheter i Ukraina.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td31"&gt;&lt;SPAN class="p91 ft3"&gt;Den 26 juni 2019 inleddes tillbakadragande av trupp vid orten Stanytsia&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;Luhanska, som är ett av tre områden (”disengagement areas”) där den&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td31"&gt;&lt;SPAN class="p3 ft3"&gt;trilaterala kontaktgruppen 2016 kom överens om ömsesidigt&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;tillbakadragande (de andra två är Zolote i Luhansk län och Petrivske i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;Donetsk län). I området vid Stanytsia Luhanska har det under sommaren&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td31"&gt;&lt;SPAN class="p3 ft3"&gt;2019 rapporterats om pågående minröjningsarbete, främst genomfört av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD rowspan=2 class="tr12 td28"&gt;&lt;SPAN class="p13 ft3"&gt;13&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td31"&gt;&lt;SPAN class="p3 ft21"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_14"&gt;
+
+
+&lt;P class="p69 ft3"&gt;Skr. 2019/20:25 de ukrainska väpnade styrkorna. Tillbakadragande av trupper är en del av den andra Minsköverenskommelsen som antogs 2015. Ukraina har antagit delar av den lagstiftning som Minsk stipulerar, men bortsett från viss fångutväxling är de korta perioder då vapenvilan respekteras samt sommarens tillbakadragande vid Stanytsia Luhanska de första konkreta framstegen för att genomföra Minsköverenskommelserna. I november 2018 hölls &lt;NOBR&gt;icke-legitima&lt;/NOBR&gt; val i de s.k. folkrepublikerna, något som strider mot Minsköverenskommelsernas bokstav och anda.&lt;/P&gt;
+&lt;P class="p70 ft3"&gt;Sedan Ryssland under våren 2018 färdigställde bron över Kertjsundet, dvs. passagen mellan Svarta havet och Azovska sjön, har fartyg på väg till och från ukrainska hamnar i Azovska sjön blivit föremål för långdragna inspektioner, något som för Ukraina inneburit både ekonomiska och militära konsekvenser. I november 2018 inträffade en militär incident där Ryssland konfronterade och beslagtog tre ukrainska statsfartyg i samband med att de skulle passera genom Kertjsundet, från Svarta havet till Azovska sjön. Vid incidenten tillfångatogs de 24 ukrainska sjömän som befann sig ombord på fartygen. Trots upprepade krav från Ukraina och väst om frigivande, inklusive ett beslut från FN:s internationella domstol för havsrätt, höll Ryssland under perioden som skrivelsen avser kvar sjömännen i ryskt fängelse. Incidenten har fått OSSE:s deltagande stater att rikta uppmärksamheten mot en ny maritim dimension av konflikten. Med anledning av detta har Ukraina undersökt förutsättningarna för att inrätta en maritim övervakningsmission i Azovska sjön, möjligen inom ramen för OSSE:s särskilda observationsmissions (SMM) mandat.&lt;/P&gt;
+&lt;P class="p92 ft11"&gt;Under den gångna perioden har diskussionerna om en potentiell FN- insats i östra Ukraina avstannat men grundtanken har inte avfärdats av någon part. Svårigheten ligger i att formulera uppdraget och mandatet så att det å ena sidan kan nå konsensus och å andra sidan är tillräckligt tydligt för att bidra till en lösning på konflikten och inte bara ett bibehållet status quo.&lt;/P&gt;
+&lt;P class="p93 ft8"&gt;&lt;SPAN class="ft12"&gt;4.2&lt;/SPAN&gt;&lt;SPAN class="ft13"&gt;OSSE:s hantering av konflikten&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p94 ft3"&gt;Den &lt;NOBR&gt;rysk-ukrainska&lt;/NOBR&gt; konflikten har under den gångna rapporteringsperioden fortsatt att dominera OSSE:s dagordning, vilket varit tydligt under ministerrådsmötet i Milano 2018 samt de veckovisa sammanträdena i OSSE:s permanenta råd och FSC. I diskussionerna riktas uppmärksamhet mot Rysslands brott mot folkrätten och OSSE:s grundläggande principer samt brott mot den europeiska säkerhetsordningen. Ryssland har fortsatt stått isolerat i frågan. OSSE:s särskilda observationsmission i Ukraina, SMM, utgör fortsatt organisationens största fältmission och har efter en omfattande säkerhetsutredning efter den dödliga incidenten i april 2017 kunnat fortsätta växa. Missionens mandat sträcker sig fram till och med mars 2020 och förlängs på årsbasis. Förhandlingarna om SMM:s aktuella mandat och budget tog mycket tid i anspråk och har visat att det blir allt svårare att hitta konsensus. Mandatet och budgeten har dock hittills kunnat bevaras utan några ändringar i substans. I juni 2019 bestod missionen av 1 307 anställda varav 746 observatörer. Majoriteten av observatörerna är&lt;/P&gt;
+&lt;P class="p95 ft3"&gt;14&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_15"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p96 ft11"&gt;verksamma i östra Ukraina. SMM har fått en allt viktigare roll vid de tillfälliga gränsövergångarna längs kontaktlinjen där det dagligen passerar 25 000 civila mellan de regerings- och separatistkontrollerade områdena.&lt;/P&gt;
+&lt;P class="p97 ft3"&gt;SMM finansieras genom medel från samtliga deltagande stater i OSSE, enligt en fördelningsnyckel som reglerar obligatoriska bidrag till OSSE:s fältverksamhet, samt genom frivilliga finansiella och personella bidrag. I juni 2019 bidrog Sverige med 25 svenska observatörer. Missionens möjlighet att bidra till Minsköverenskommelsernas tillämpning har liksom tidigare varit begränsad. Observatörerna har fortfarande inte fått ett meningsfullt tillträde till statsgränsen mellan Ukraina och Ryssland på den separatistkontrollerade sidan och har under perioden dagligen rapporterat om begränsningar av sin rörelsefrihet i regionens separatistkontrollerade områden.&lt;/P&gt;
+&lt;P class="p98 ft3"&gt;Under den gångna perioden har genderfrågor fått en ökad betydelse både internt och externt för missionens arbete. 2017 tillträdde en chef för genderfrågor i missionen, som med stöd av deltagande stater, däribland Sverige, har professionaliserat arbetet med jämställdhets- och kvinnofrågor. I december 2018, på begäran av det italienska OSSE- ordförandeskapet, publicerade SMM en omfattande rapport om missionens genderarbete. Rapporten konstaterade att missionen fortfarande inte nått över 20 % kvinnliga medarbetare.&lt;/P&gt;
+&lt;P class="p99 ft3"&gt;Under den gångna perioden har missionen stärkt sin effektivitet genom ökat användande av övervakningskameror och drönare som komplement till den mänskliga övervakningen och patrulleringen. Detta har inneburit att missionen numera verkar aktivt dygnet runt genom 22 övervakningskameror placerade längs kontaktlinjen samt genom daglig övervakning med kort- och långdistansdrönare över det konfliktdrabbade området. SMM:s drönare har dock regelmässigt kommit att utsättas för störningssignaler och beskjutning. Missionen har med anledning av detta förlorat ett betydande antal drönare, framför allt över separatistkontrollerat territorium. Förlusterna kommer att ha ekonomiska konsekvenser för missionen.&lt;/P&gt;
+&lt;P class="p100 ft3"&gt;Det faktum att Ryssland i slutet av 2017 lämnade den gemensamma kontroll- och koordineringskommissionen (Joint Centre for Control and &lt;NOBR&gt;Co-ordination&lt;/NOBR&gt; – JCCC), har under perioden medfört svårigheter att koordinera SMM:s dagliga arbete. Trots detta har SMM rapporterat om personer som bär &lt;NOBR&gt;JCCC-symboler&lt;/NOBR&gt; på separatistkontrollerat territorium. Bland annat har symbolen förekommit i ökad utsträckning i Stanytsia Luhanska efter tillbakadragandet av trupper. Symbolen uppfattas från ukrainsk sida som provokativ i och med att Ryssland genom överlåtandet av emblemet till de självutnämnda republikerna i Luhansk och Donetsk legitimerar gruppernas politiska aktörskap.&lt;/P&gt;
+&lt;P class="p101 ft3"&gt;En mindre och begränsad observationsmission (Border Control Observation Mission – BCOM) finns på den ryska sidan av två gränsövergångar vid den &lt;NOBR&gt;rysk-ukrainska&lt;/NOBR&gt; gränsen. Missionen fick under 2019 ett förlängt tidsspann för sitt mandat som framgent kommer att uppdateras var fjärde månad i stället för som tidigare var tredje månad. Sverige har under perioden bidragit med en observatör. Majoriteten av OSSE:s deltagande stater har fortsatt att framhålla att BCOM måste utökas geografiskt och personalmässigt för att kunna bidra till en meningsfull gränsbevakning. Ryssland har motsatt sig en sådan utökning.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p102 ft3"&gt;Skr. 2019/20:25&lt;/P&gt;
+&lt;P class="p103 ft3"&gt;15&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_16"&gt;
+
+
+&lt;P class="p69 ft3"&gt;Skr. 2019/20:25 &lt;NOBR&gt;OSSE-ordförandeskapets&lt;/NOBR&gt; särskilda representant för Ukraina och den trilaterala kontaktgruppen (där även Ryssland och Ukraina ingår), som skapades 2014, har varit verksam under perioden. Den trilaterala kontaktgruppen består av tre arbetsgrupper – en politisk, en ekonomisk och en humanitär. Efter de ukrainska president- och parlamentsvalen har president Zelenskyj utsett nya ukrainska representanter till den trilaterala kontaktgruppen och vissa förtroendeskapande steg för att skapa förutsättningar för att genomföra Minsköverenskommelserna har kunnat skönjas.&lt;/P&gt;
+&lt;P class="p104 ft11"&gt;Inga officiella representanter för OSSE har under perioden haft tillträde till Krim, trots att OSSE SMM:s mandat omfattar hela Ukrainas territorium.&lt;/P&gt;
+&lt;P class="p105 ft3"&gt;OSSE:s oberoende institutioner (ODIHR, RFoM och HCNM) har fortsatt sin verksamhet relaterad till konflikten och har ett väl fungerande samarbete med ukrainska myndigheter. RFoM har uppmärksammat situationen för yttrande- och mediefrihet i både Ryssland och Ukraina med koppling till konflikten. OSSE:s ordinarie fältnärvaro i Ukraina, i form av ett projektkontor i Kiev, har arbetat med stöd till nationell dialog, sammanfört och koordinerat aktörer verksamma inom minröjning i östra Ukraina och försett dem med utrustning och expertis.&lt;/P&gt;
+&lt;P class="p73 ft11"&gt;SMM och OSSE:s projektkontor i Ukraina samarbetar även med andra internationella aktörer på plats, inte minst med FN och EU. Samarbetet med FN:s &lt;NOBR&gt;MR-mission&lt;/NOBR&gt; för Krim (UN HRMMU) och med &lt;NOBR&gt;EU-insatsen&lt;/NOBR&gt; EUAM Ukraina kan särskilt nämnas.&lt;/P&gt;
+&lt;P class="p106 ft23"&gt;&lt;SPAN class="ft1"&gt;5&lt;/SPAN&gt;&lt;SPAN class="ft22"&gt;Rustningskontroll och den strukturerade dialogen&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p107 ft3"&gt;På tyskt initiativ inleddes 2016 en nystart för konventionell rustningskontroll i Europa som inkluderar den strukturerade dialogen. Initiativet föranledde en diskussion mellan OSSE:s deltagarstater där vissa välkomnade en ny konventionell rustningskontrollregim (att ersätta CFE- avtalet) i Europa mer oreserverat, medan andra länder underströk vikten av att respekt för existerande principer och åtaganden, inklusive CFE- avtalet och Wiendokumentet, först måste återupprättas. Sedan 2017 har sammanlagt nio möten ägt rum där det inom ramen för dialogen förts diskussioner om hotbildsanalys, militärdoktriner, militära dispositioner och övningsverksamhet, den regelbaserade säkerhetsordningen samt konflikter. En process för att kartlägga de militära styrkeförhållandena, inklusive övningsverksamhet, inom OSSE har även inletts inom ramen för den strukturerade dialogen. Syftet med en sådan kartläggning är dels att få fram en gemensam bild av de militära styrkeförhållandena, dels att kartlägga i vilka avseenden nuvarande rapporteringssystem inom OSSE:s Wiendokument uppvisar brister och luckor. Den strukturerade dialogen har också använts som en kontaktyta mellan deltagarstaternas militärer, då det militära utbytet mellan västliga länder och Ryssland har varit begränsat sedan 2014. Även om den strukturerade dialogen saknar tidsplan och&lt;/P&gt;
+&lt;P class="p108 ft3"&gt;16&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_17"&gt;
+
+
+&lt;P class="p87 ft11"&gt;tydligt slutmål får den anses vara ett etablerat dialogformat och utgör ett Skr. 2019/20:25 försök att främja militär transparens och förutsägbarhet. Dialogen äger&lt;/P&gt;
+&lt;P class="p109 ft3"&gt;rum mot bakgrund av det försämrade säkerhetspolitiska läget och den djupa klyftan mellan Ryssland och övriga deltagande stater i OSSE, orsakad av de ryska brott mot den regelbaserade europeiska säkerhetsordningen som aggressionen mot Ukraina innebär. Sveriges syn är därför att det inte går att bortse från viktiga principiella frågor som de utdragna och pågående konflikterna i Europa samt betydelsen av att följa de gemensamma principerna och åtagandena i OSSE:s regelverk i dialogen. För svensk del är det viktigt att den strukturerade dialogen inte blir ett forum för en omförhandling eller urvattning av den nuvarande regelbaserade europeiska säkerhetsordningen utan att den fokuserar på hur respekten för de gemensamma principerna och åtagandena kan återställas. Samtidigt erbjuder dialogen en möjlighet att stärka militär förutsägbarhet och transparens i en försämrad säkerhetspolitisk situation. En modernisering av Wiendokumentet vore en naturlig startpunkt i dessa ansträngningar, som även kan omfatta riskreducering och incidenthantering. Sverige har under perioden stöttat den strukturerade dialogen aktivt genom deltagande av en huvudstadsrepresentant på ambassadörsnivå som delegationschef samt genom finansiella bidrag.&lt;/P&gt;
+&lt;P class="p110 ft1"&gt;6 OSSE:s fältverksamhet&lt;/P&gt;
+&lt;P class="p111 ft11"&gt;OSSE:s fältverksamhet är ett väletablerat instrument som ger organisationen ett tydligt mervärde. De 14 fältmissionerna stöder arbetet inom alla tre dimensioner för ökad säkerhet på västra Balkan, i Östeuropa, inklusive Södra Kaukasien, och i Centralasien. Fältnärvaron omfattar missioner, kontor och projektsamordnare. Beslut om deras mandat fattas med konsensus och är inte sällan föremål för svåra förhandlingar. För Sverige har det varit viktigt att missionerna kan verka fritt med flexibla mandat inom alla tre dimensioner, inklusive i kontakter med civilsamhället, och inte minst inom den mänskliga dimensionen.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t8"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr15 td32"&gt;&lt;SPAN class="p3 ft8"&gt;6.1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr15 td33"&gt;&lt;SPAN class="p16 ft8"&gt;Västra Balkan&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr15 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr2 td31"&gt;&lt;SPAN class="p3 ft3"&gt;Sedan &lt;NOBR&gt;1990-talet&lt;/NOBR&gt; bedriver OSSE betydande fältverksamhet på västra&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;Balkan, med totalt sex fältmissioner i Albanien, Bosnien och Hercegovina,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;Kosovo, Montenegro, Nordmakedonien och Serbien. Missionernas&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr8 td31"&gt;&lt;SPAN class="p3 ft3"&gt;mandat är i huvudsak inriktade på demokratifrämjande och&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;institutionsbyggande verksamhet. På senare år har missionerna arbetat&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;med valövervakningsfrågor, rustningskontroll och förtroendeskapande,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr8 td31"&gt;&lt;SPAN class="p3 ft3"&gt;snarare än med krishanterings- och stabiliseringsinsatser. Fältmissionerna&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;har även fokuserat på frågor om nationella minoriteter och rättsstatsfrågor,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;inklusive stöd till kapacitetsbyggande. Fältmissionen i Kosovo utgör en&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr8 td31"&gt;&lt;SPAN class="p3 ft3"&gt;del av den internationella civila &lt;NOBR&gt;FN-närvaron&lt;/NOBR&gt; och är med drygt 500&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr7 td31"&gt;&lt;SPAN class="p3 ft3"&gt;anställda OSSE:s näst största fältmission. Missionen inrättades 1999 och&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td28"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr6 td31"&gt;&lt;SPAN class="p3 ft3"&gt;har en hög grad av självständighet. Sverige har under perioden bidragit till&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td28"&gt;&lt;SPAN class="p13 ft3"&gt;17&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_18"&gt;
+
+
+&lt;P class="p112 ft24"&gt;Skr. 2019/20:25 OSSE:s arbete i regionen genom att sekondera personal till fältmissionen i Kosovo.&lt;/P&gt;
+&lt;P class="p93 ft8"&gt;&lt;SPAN class="ft12"&gt;6.2&lt;/SPAN&gt;&lt;SPAN class="ft13"&gt;Centralasien&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p113 ft3"&gt;Mellan 1994 och 2000 etablerade OSSE sin fältnärvaro i Kazakstan, Kirgizistan, Tadzjikistan, Turkmenistan och Uzbekistan. Under 2016 reviderades flertalet av mandaten för missionerna i regionen och verksamheten nedgraderades till projektkontor. OSSE:s fältnärvaro i Centralasien har under den aktuella perioden bland annat bedrivit verksamhet inom områdena gränsövervakning, &lt;NOBR&gt;anti-trafficking,&lt;/NOBR&gt; antikorruption, vapen- och narkotikabekämpning samt främjande av mänskliga rättigheter, jämställdhet och mediefrihet. &lt;NOBR&gt;Anti-terrorism&lt;/NOBR&gt; har fortsatt varit en prioriterad fråga för staterna. OSSE verkar även för att stärka samarbetet mellan staterna i Centralasien, främst i termer av ekonomi och handel. Nyligen har projektkontoret i Tadzjikistan öppnat ett kvinnoresurscenter.&lt;/P&gt;
+&lt;P class="p70 ft11"&gt;Kazakstan, Kirgizistan och Tadzjikistan har strävat mot att projektkontoren i respektive länder ska ha ett högre fokus på att främja ekonomisk sammanlänkning och tillväxt. Det uppfattas även att dessa stater vill utöka sin politiska kontroll över projektkontoren.&lt;/P&gt;
+&lt;P class="p114 ft11"&gt;Uzbekistan har under perioden öppnat upp för och efterfrågat en ökad &lt;NOBR&gt;OSSE-närvaro.&lt;/NOBR&gt; Det pågår arbete för att få på plats extrabudgetära projekt för bland annat ökad transparens. Utvecklingen ökar OSSE:s förväntningar på Uzbekistan inför det kommande parlamentsvalet hösten 2019, där ODHIR planerar att närvara med valobservatörer. Mongoliet har under flera års tid uttryckt önskemål om att OSSE ska etablera fältnärvaro i landet. Det saknas emellertid konsensus bland OSSE:s deltagande stater för ett sådant beslut.&lt;/P&gt;
+&lt;P class="p93 ft8"&gt;&lt;SPAN class="ft12"&gt;6.3&lt;/SPAN&gt;&lt;SPAN class="ft13"&gt;Östeuropa och Södra Kaukasien&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p113 ft3"&gt;OSSE:s kontor i Armenien avvecklades under sommaren 2017, eftersom det inte gick att nå konsensus om att förlänga mandatet. OSSE:s fältnärvaro i Baku upphörde redan 2015 på Azerbajdzjans begäran. I Södra Kaukasien kvarstår därför endast ett litet kontor till stöd för OSSE- ordförandeskapets representant i frågan om &lt;NOBR&gt;Nagorno-Karabachkonflikten.&lt;/NOBR&gt; Under den aktuella perioden har Azerbajdzjan visat ett ökat intresse för projekt i regionen. Bland annat inleddes sommaren 2019 ett projekt för så kallade ”Gröna hamnar” som till stor del finansieras av Azerbajdzjan. Projektet syftar till att öka handel och ekonomisk sammanlänkning i Kaspiska havet. Under perioden har &lt;NOBR&gt;OSSE-sekretariatet&lt;/NOBR&gt; även etablerat ett samarbetsprogram för Armenien. Programmet utgör en ram som rymmer flera tematiska extrabudgetära projekt, exempelvis polisreform, miljö- och genderfrågor.&lt;/P&gt;
+&lt;P class="p72 ft11"&gt;Missionen i Moldavien upprättades 1993, med syfte att underlätta arbetet för en politisk lösning av konflikten om utbrytarregionen Transnistrien. Under den aktuella perioden har missionens arbete varit&lt;/P&gt;
+&lt;P class="p11 ft3"&gt;18&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_19"&gt;
+
+
+&lt;P class="p31 ft11"&gt;inriktat på mediefrihetsfrågor, stöd till reformer av rättssystemet samt Skr. 2019/20:25 experthjälp i frågor om människohandel. Under delar av den aktuella&lt;/P&gt;
+&lt;P class="p64 ft11"&gt;perioden har Sverige bidragit till arbetet genom att sekondera två personer till missionen.&lt;/P&gt;
+&lt;P class="p32 ft11"&gt;OSSE:s närvaro i Ukraina etablerades 1994 och omvandlades 1999 till ett kontor för projektsamordning. Kontorets övergripande uppdrag har varit att stödja Ukrainas arbete med demokratisk utveckling, rättsstatlighet och främjande av mänskliga rättigheter. Arbetet har under perioden framför allt varit inriktat på aktiviteter relaterade till den pågående ryskukrainska konflikten.&lt;/P&gt;
+&lt;P class="p115 ft23"&gt;&lt;SPAN class="ft1"&gt;7&lt;/SPAN&gt;&lt;SPAN class="ft25"&gt;OSSE:s hantering av de utdragna konflikterna&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p116 ft8"&gt;&lt;SPAN class="ft8"&gt;7.1&lt;/SPAN&gt;&lt;NOBR&gt;&lt;SPAN class="ft13"&gt;Nagorno-Karabach&lt;/SPAN&gt;&lt;/NOBR&gt;&lt;/P&gt;
+&lt;P class="p50 ft3"&gt;Konflikten om regionen &lt;NOBR&gt;Nagorno-Karabach&lt;/NOBR&gt; som ligger i Azerbajdzjan, men till övervägande del befolkas av armenier, har pågått sedan slutet av &lt;NOBR&gt;1980-talet.&lt;/NOBR&gt; Under den gångna perioden har det skett en positiv utveckling av säkerhetssituationen i regionen. Trots detta är det konfliktdrabbade området långt ifrån en säker plats. De senaste större stridigheterna ägde rum i april 2016. Genom förhandlingar efter stridigheterna 2016 undertecknades en överenskommelse om utvidgande av OSSE:s fältnärvaro, vilken emellertid inte har genomförts i praktiken. Sedan 1992 verkar OSSE för en förhandlingslösning genom den så kallade Minskgruppen, som består av ett dussintal länder, däribland Sverige. Gruppens samordförande, Frankrike, USA och Ryssland, har mandat som OSSE:s medlare. Under perioden &lt;NOBR&gt;2018–2019,&lt;/NOBR&gt; och särskilt efter det nya armeniska ledarskiktets tillträde, har dynamiken i samtalen förändrats och mötena mellan de stridande parterna blivit mer frekventa. Minskgruppen har under perioden genomfört möten på högsta politiska nivå, något som tidigare varit svårt att åstadkomma.&lt;/P&gt;
+&lt;P class="p117 ft3"&gt;&lt;NOBR&gt;OSSE-ordförandeskapet&lt;/NOBR&gt; har en personlig representant för konflikten med kontor i Tbilisi. Kontoret har fem anställda. I uppdraget ingår bland annat att övervaka vapenvilan samt skapa förtroende mellan parterna genom att upprätthålla kontakter med politiska och militära ledare. De kärnfrågor som behöver lösas rör &lt;NOBR&gt;Nagorno-Karabachs&lt;/NOBR&gt; framtida status, säkerhetsgarantier för områdets armeniska befolkning inklusive en internationell fredsbevarande styrka, tillbakadragande av armeniska trupper från azeriskt territorium, upprättandet av en landkorridor mellan Armenien och &lt;NOBR&gt;Nagorno-Karabach&lt;/NOBR&gt; samt situationen för flyktingar och internflyktingar. Sverige har under perioden verkat för att EU mer aktivt ska stödja Minskgruppen i dess uppdrag att medla i konflikten.&lt;/P&gt;
+&lt;P class="p118 ft3"&gt;19&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_20"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p119 ft3"&gt;Skr. 2019/20:25&lt;/P&gt;
+&lt;P class="p120 ft3"&gt;20&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft8"&gt;&lt;SPAN class="ft12"&gt;7.2&lt;/SPAN&gt;&lt;SPAN class="ft13"&gt;Georgien&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p121 ft3"&gt;Efter kriget mellan Ryssland och Georgien i augusti 2008 diskuterades olika aspekter av konflikten intensivt inom OSSE. Trots ansträngningar kunde ingen överenskommelse nås om en förlängning av mandatet för &lt;NOBR&gt;OSSE-missionen&lt;/NOBR&gt; i Georgien och missionen stängdes i juni 2009. Oenigheten i förhandlingarna gällde främst OSSE:s närvaro och rörelsefrihet över Georgiens hela territorium, inklusive utbrytarregionerna Abchazien och Sydossetien. Ryssland motsatte sig OSSE:s tillträde till utbrytarregionerna utan ett faktiskt erkännande från OSSE:s deltagande stater. Detta kunde inte accepteras av OSSE:s övriga deltagande stater, som underströk respekten för Georgiens suveränitet och territoriella integritet. Under den gångna perioden har OSSE arbetat för att återfinna försvunna personer, ge verktyg till att stärka den georgiska rättsstaten och bygga en grund för nationell försoning i landet.&lt;/P&gt;
+&lt;P class="p122 ft3"&gt;Inom ramen för de så kallade Genèvesamtalen bidrar OSSE genom sitt samordförandeskap med FN och EU till fortsatta samtal om konflikten. Trots regelbundna möten har man inte kommit närmare en lösning. Ryssland har vidtagit flera destabiliserande åtgärder, inte minst genom olika avtal med utbrytarrepublikerna. Dessa avtal har fördjupat relationen mellan Ryssland och utbrytarrepublikerna, vilket från georgisk sida har tolkats som steg mot annektering, och har fördömts av EU, Sverige och likasinnade.&lt;/P&gt;
+&lt;P class="p123 ft11"&gt;Sverige deltar i Wien tillsammans med andra deltagande stater i en informell vängrupp för Georgien. Gruppen koordinerar gemensamma uttalanden vid ministerrådsmötena, senast i Milano 2018, samt även under året i OSSE:s Permanenta råd vid särskilda tillfällen. Georgien är sammankallande för gruppen och har under våren 2019 tagit initiativ för att ge vängruppen ökat utrymme.&lt;/P&gt;
+&lt;P class="p124 ft8"&gt;&lt;SPAN class="ft12"&gt;7.3&lt;/SPAN&gt;&lt;SPAN class="ft13"&gt;Transnistrien&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p125 ft3"&gt;Förhandlingarna för en fredlig lösning avseende den moldaviska utbrytarregionen Transnistrien genomförs i det så kallade &lt;NOBR&gt;5+2-formatet,&lt;/NOBR&gt; det vill säga representanter för Moldavien, Transnistrien, Ryssland, Ukraina, OSSE, samt EU och USA som observatörer. Mellan 2006 och 2011 ägde endast informella förhandlingar rum på grund av Transnistriens vägran att delta i det formella formatet. I slutet av 2011 återupptogs formella förhandlingar. Vid ministerrådsmötet 2018 gjordes ett OSSE- gemensamt ministeruttalande där de deltagande staterna bekräftade sitt fortsatta engagemang i förhandlingsprocessen. Förhandlingarnas mål är att utarbeta parametrar för en heltäckande lösning baserad på Moldaviens suveränitet och territoriella integritet inom dess internationellt erkända gränser med en särskild status för Transnistrien inom Moldavien. I början av 2017 enades förhandlingsparterna om ett åtgärdspaket inom åtta prioriterade områden med syfte att underlätta befolkningens situation.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_21"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p11 ft1"&gt;OSSE:s deltagande stater och partnerstater&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t9"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td34"&gt;&lt;SPAN class="p3 ft26"&gt;OSSE:s deltagande stater:&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr16 td34"&gt;&lt;SPAN class="p3 ft3"&gt;Albanien&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr16 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Moldavien&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td34"&gt;&lt;SPAN class="p3 ft3"&gt;Andorra&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Monaco&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td34"&gt;&lt;SPAN class="p3 ft3"&gt;Armenien&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Mongoliet&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td34"&gt;&lt;SPAN class="p3 ft3"&gt;Azerbajdzjan&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Montenegro&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td34"&gt;&lt;SPAN class="p3 ft3"&gt;Belgien&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Nederländerna&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td34"&gt;&lt;SPAN class="p3 ft3"&gt;Bosnien och Hercegovina&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Nordmakedonien&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td34"&gt;&lt;SPAN class="p3 ft3"&gt;Bulgarien&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Norge&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td34"&gt;&lt;SPAN class="p3 ft3"&gt;Cypern&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Polen&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td34"&gt;&lt;SPAN class="p3 ft3"&gt;Danmark&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Portugal&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td34"&gt;&lt;SPAN class="p3 ft3"&gt;Estland&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Rumänien&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td34"&gt;&lt;SPAN class="p3 ft3"&gt;Finland&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Ryssland&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td34"&gt;&lt;SPAN class="p3 ft3"&gt;Frankrike&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td35"&gt;&lt;SPAN class="p3 ft3"&gt;San Marino&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td34"&gt;&lt;SPAN class="p3 ft3"&gt;Förenade kungariket&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Serbien&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td34"&gt;&lt;SPAN class="p3 ft3"&gt;Förenta Staterna&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Slovakien&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td34"&gt;&lt;SPAN class="p3 ft3"&gt;Georgien&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Slovenien&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td34"&gt;&lt;SPAN class="p3 ft3"&gt;Grekland&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Spanien&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td34"&gt;&lt;SPAN class="p1 ft3"&gt;Heliga stolen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Sverige&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td34"&gt;&lt;SPAN class="p1 ft3"&gt;Irland&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Schweiz&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td34"&gt;&lt;SPAN class="p1 ft3"&gt;Island&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Tadzjikistan&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td34"&gt;&lt;SPAN class="p1 ft3"&gt;Italien&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Tjeckien&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td34"&gt;&lt;SPAN class="p1 ft3"&gt;Kanada&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Turkiet&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td34"&gt;&lt;SPAN class="p1 ft3"&gt;Kazakstan&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Turkmenistan&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td34"&gt;&lt;SPAN class="p1 ft3"&gt;Kirgizistan&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Tyskland&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td34"&gt;&lt;SPAN class="p1 ft3"&gt;Kroatien&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Ukraina&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td34"&gt;&lt;SPAN class="p1 ft3"&gt;Lettland&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Ungern&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td34"&gt;&lt;SPAN class="p1 ft3"&gt;Liechtenstein&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Uzbekistan&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td34"&gt;&lt;SPAN class="p1 ft3"&gt;Litauen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td35"&gt;&lt;SPAN class="p3 ft3"&gt;Vitryssland&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td34"&gt;&lt;SPAN class="p1 ft20"&gt;Luxemburg&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td35"&gt;&lt;SPAN class="p3 ft20"&gt;Österrike&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td34"&gt;&lt;SPAN class="p1 ft3"&gt;Malta&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr17 td34"&gt;&lt;SPAN class="p3 ft26"&gt;OSSE:s partnerstater:&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr17 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr18 td34"&gt;&lt;SPAN class="p3 ft3"&gt;Afghanistan&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr18 td35"&gt;&lt;SPAN class="p2 ft3"&gt;Jordanien&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td34"&gt;&lt;SPAN class="p3 ft3"&gt;Algeriet&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p2 ft3"&gt;Marocko&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td34"&gt;&lt;SPAN class="p3 ft3"&gt;Australien&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p2 ft3"&gt;Sydkorea&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td34"&gt;&lt;SPAN class="p3 ft3"&gt;Egypten&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td35"&gt;&lt;SPAN class="p2 ft3"&gt;Thailand&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td34"&gt;&lt;SPAN class="p3 ft3"&gt;Israel&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td35"&gt;&lt;SPAN class="p2 ft3"&gt;Tunisien&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td34"&gt;&lt;SPAN class="p3 ft3"&gt;Japan&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td35"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft3"&gt;Skr. 2019/20:25&lt;/P&gt;
+&lt;P class="p126 ft3"&gt;Bilaga 1&lt;/P&gt;
+&lt;P class="p127 ft3"&gt;21&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_22"&gt;
+&lt;DIV id="p22dimg1"&gt;
+&lt;INGENBILD zsrc="H7032522x1.jpg/" id="p22img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p119 ft3"&gt;Skr. 2019/20:25&lt;/P&gt;
+&lt;P class="p128 ft1"&gt;Utrikesdepartementet&lt;/P&gt;
+&lt;P class="p129 ft3"&gt;Utdrag ur protokoll vid regeringssammanträde den 24 oktober 2019&lt;/P&gt;
+&lt;P class="p130 ft11"&gt;Närvarande: statsminister Löfven, ordförande, och statsråden Johansson, Baylan, Hallengren, Hultqvist, Bolund, Damberg, Shekarabi, Ygeman, Eriksson, Linde, Ekström, Eneroth, Dahlgren, Nilsson, Ernkrans, Hallberg, Micko&lt;/P&gt;
+&lt;P class="p131 ft3"&gt;Föredragande: statsrådet Linde&lt;/P&gt;
+&lt;P class="p132 ft11"&gt;Regeringen beslutar skrivelse Verksamheten inom Organisationen för säkerhet och samarbete i Europa under helåret 2018 och första halvåret 2019&lt;/P&gt;
+&lt;P class="p133 ft3"&gt;22&lt;/P&gt;
+&lt;/DIV&gt;
+
+&lt;/div&gt;&lt;style&gt;
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+&lt;/style&gt;
+</html>
+  </dokument>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">INL</kod>
+<namn datatype="string">Inlämnad</namn>
+<datum datatype="datetime">2019-10-29 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">B</kod>
+<namn datatype="string">Bordlagd</namn>
+<datum datatype="datetime">2019-11-05 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">HÄN</kod>
+<namn datatype="string">Hänvisad</namn>
+<datum datatype="datetime">2019-11-07 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">MOT</kod>
+<namn datatype="string">Motionstid slutar</namn>
+<datum datatype="datetime">2019-11-20 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+</dokaktivitet>
+<dokintressent>
+<intressent>
+<intressent_id datatype="string">0218878014918</intressent_id>
+<namn datatype="string">Stefan Löfven</namn>
+<partibet datatype="string">S</partibet>
+<ordning datatype="int16">1</ordning>
+<roll datatype="string">Statsråd1</roll>
+</intressent>
+<intressent>
+<intressent_id datatype="string">0992800527915</intressent_id>
+<namn datatype="string">Ann Linde</namn>
+<partibet datatype="string">S</partibet>
+<ordning datatype="int16">2</ordning>
+<roll datatype="string">Statsråd2</roll>
+</intressent>
+</dokintressent>
+<dokuppgift>
+<uppgift>
+<kod datatype="string">inlamnatav</kod>
+<namn datatype="string">Inlämnat av</namn>
+<text datatype="string">Utrikesdepartementet</text>
+<dok_id datatype="string">H70325</dok_id>
+<systemdatum datatype="datetime">2019-11-08 08:15:03</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">tilldelat</kod>
+<namn datatype="string">Tilldelat</namn>
+<text datatype="string">Utrikesutskottet</text>
+<dok_id datatype="string">H70325</dok_id>
+<systemdatum datatype="datetime">2019-11-08 08:15:03</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">statustext</kod>
+<namn datatype="string">statustext</namn>
+<text datatype="string">Skrivelsen bereds i utskott</text>
+<dok_id datatype="string">H70325</dok_id>
+<systemdatum datatype="datetime">2019-11-08 08:56:43</systemdatum>
+</uppgift>
+</dokuppgift>
+<dokbilaga>
+<bilaga>
+<dok_id datatype="string">H70325</dok_id>
+<titel datatype="string">Verksamheten inom Organisationen för säkerhet och samarbete i Europa (OSSE) under helåret 2018 och första halvåret 2019</titel>
+<subtitel datatype="string" />
+<filnamn datatype="string">skr_201920__25.pdf</filnamn>
+<filstorlek datatype="int32">304347</filstorlek>
+<filtyp datatype="string">pdf</filtyp>
+<fil_url datatype="string">http://data.riksdagen.se/fil/92E15BB7-20D2-4AB3-A8F2-03E4E2F68A9A</fil_url>
+</bilaga>
+</dokbilaga>
+<dokreferens>
+<referens>
+<referenstyp datatype="string">följdmotion</referenstyp>
+<uppgift datatype="string">av Björn Söder m.fl. (SD)&lt;br /&gt;med anledning av skr. 2019/20:25 Verksamheten inom Organisationen för säkerhet och samarbete i Europa (OSSE) under helåret 2018 och första halvåret 2019</uppgift>
+<ref_dok_id datatype="string">H7023429</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3429</ref_dok_bet>
+<ref_dok_titel datatype="string">med anledning av skr. 2019/20:25 Verksamheten inom Organisationen för säkerhet och samarbete i Europa (OSSE) under helåret 2018 och första halvåret 2019</ref_dok_titel>
+<ref_dok_subtitel datatype="string">av Björn Söder m.fl. (SD)</ref_dok_subtitel>
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+</dokreferens>
+<debatt /></dokumentstatus>

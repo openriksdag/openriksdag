@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "5cb5aa3a-1fb4-4222-b4ca-334a794a587b",
+    "sourceid": "0f433b14-f68c-4cfe-9a70-34651057accb",
+    "intressent_id": "0995976787901",
+    "hangar_id": "2341740",
+    "fodd_ar": "1928",
+    "kon": "man",
+    "efternamn": "Wieselgren",
+    "tilltalsnamn": "Jon Peter",
+    "sorteringsnamn": "Wieselgren,Jon Peter",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Status saknas",
+    "person_url_xml": "http://data.riksdagen.se/person/0f433b14-f68c-4cfe-9a70-34651057accb",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0f433b14-f68c-4cfe-9a70-34651057accb_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0f433b14-f68c-4cfe-9a70-34651057accb_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0f433b14-f68c-4cfe-9a70-34651057accb_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1992-01-09",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0995976787901",
+          "hangar_id": "2341740",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1992-01-09",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0995976787901",
+          "hangar_id": "2341740",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "kansliråd",
+          "typ": "titlar",
+          "intressent_id": "0995976787901",
+          "hangar_id": "2341740"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0995976787901",
+          "hangar_id": "2341740"
+        }
+      ]
+    }
+  }
+}

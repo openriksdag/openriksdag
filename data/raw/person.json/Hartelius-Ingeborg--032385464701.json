@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "bedb7adf-2bc1-4265-8cf0-985bcb44e9c2",
+    "sourceid": "4a1e847b-9913-496a-a76b-92c5290ad70f",
+    "intressent_id": "032385464701",
+    "hangar_id": "2341702",
+    "fodd_ar": "1926",
+    "kon": "kvinna",
+    "efternamn": "Hartelius",
+    "tilltalsnamn": "Ingeborg",
+    "sorteringsnamn": "Hartelius,Ingeborg",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/4a1e847b-9913-496a-a76b-92c5290ad70f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4a1e847b-9913-496a-a76b-92c5290ad70f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4a1e847b-9913-496a-a76b-92c5290ad70f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4a1e847b-9913-496a-a76b-92c5290ad70f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Ersättare",
+        "ordningsnummer": "0",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "1982-11-13",
+        "tom": "1982-12-12",
+        "uppgift": "Bo Lundgren",
+        "intressent_id": "032385464701",
+        "hangar_id": "2341702",
+        "sortering": "45",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": ""
+  }
+}

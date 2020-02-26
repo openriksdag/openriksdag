@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "d5a560f3-2aa1-4f26-946f-8665ed02751b",
+    "sourceid": "365ec6ba-fa32-4d0a-aeee-286898b8d796",
+    "intressent_id": "0861389870904",
+    "hangar_id": "2341864",
+    "fodd_ar": "1934",
+    "kon": "kvinna",
+    "efternamn": "Davidsson",
+    "tilltalsnamn": "Inga",
+    "sorteringsnamn": "Davidsson,Inga",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/365ec6ba-fa32-4d0a-aeee-286898b8d796",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/365ec6ba-fa32-4d0a-aeee-286898b8d796_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/365ec6ba-fa32-4d0a-aeee-286898b8d796_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/365ec6ba-fa32-4d0a-aeee-286898b8d796_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Ersättare",
+        "ordningsnummer": "0",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "1983-03-01",
+        "tom": "1983-04-09",
+        "uppgift": "Anders Svärd",
+        "intressent_id": "0861389870904",
+        "hangar_id": "2341864",
+        "sortering": "45",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": ""
+  }
+}

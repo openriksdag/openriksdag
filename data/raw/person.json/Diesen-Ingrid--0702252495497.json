@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "5d7ec312-8e60-45b8-bf59-2e3b6d518b80",
+    "sourceid": "4451e028-cabc-4685-ad67-9f31275d659b",
+    "intressent_id": "0702252495497",
+    "hangar_id": "2341624",
+    "fodd_ar": "1918",
+    "kon": "kvinna",
+    "efternamn": "Diesen",
+    "tilltalsnamn": "Ingrid",
+    "sorteringsnamn": "Diesen,Ingrid",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/4451e028-cabc-4685-ad67-9f31275d659b",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4451e028-cabc-4685-ad67-9f31275d659b_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4451e028-cabc-4685-ad67-9f31275d659b_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4451e028-cabc-4685-ad67-9f31275d659b_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Ersättare",
+        "ordningsnummer": "0",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "1981-05-06",
+        "tom": "1981-10-05",
+        "uppgift": "Carl Bildt",
+        "intressent_id": "0702252495497",
+        "hangar_id": "2341624",
+        "sortering": "45",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": ""
+  }
+}

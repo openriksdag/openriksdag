@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "b31c67b4-36b8-4d19-8700-3f11b18f8ac3",
+    "sourceid": "54864b15-8f1d-4ea4-889f-3ad571ecfd42",
+    "intressent_id": "",
+    "hangar_id": "4788793",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Fornäs",
+    "tilltalsnamn": "Johan",
+    "sorteringsnamn": "Fornäs,Johan",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ledamot i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/54864b15-8f1d-4ea4-889f-3ad571ecfd42",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/54864b15-8f1d-4ea4-889f-3ad571ecfd42_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/54864b15-8f1d-4ea4-889f-3ad571ecfd42_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/54864b15-8f1d-4ea4-889f-3ad571ecfd42_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "RJ",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2010-11-01",
+          "tom": "2012-10-31",
+          "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+          "intressent_id": "",
+          "hangar_id": "4788793",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RJ",
+          "roll_kod": "Personlig suppleant",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2008-11-01",
+          "tom": "2010-10-31",
+          "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+          "intressent_id": "",
+          "hangar_id": "4788793",
+          "sortering": "48",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

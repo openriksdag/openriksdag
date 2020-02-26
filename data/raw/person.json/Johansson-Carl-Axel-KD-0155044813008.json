@@ -1,0 +1,201 @@
+{
+  "person": {
+    "hangar_guid": "44c8c776-ad5a-4898-9571-ae60590f2507",
+    "sourceid": "aed23929-4857-11d5-8894-0040ca16652a",
+    "intressent_id": "0155044813008",
+    "hangar_id": "2342485",
+    "fodd_ar": "1947",
+    "kon": "man",
+    "efternamn": "Johansson",
+    "tilltalsnamn": "Carl-Axel",
+    "sorteringsnamn": "Johansson,Carl-Axel",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Skåne läns södra",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/aed23929-4857-11d5-8894-0040ca16652a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/aed23929-4857-11d5-8894-0040ca16652a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/aed23929-4857-11d5-8894-0040ca16652a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/aed23929-4857-11d5-8894-0040ca16652a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "173",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2002-09-30",
+          "tom": "2004-09-13",
+          "uppgift": "",
+          "intressent_id": "0155044813008",
+          "hangar_id": "2342485",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "164",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2001-03-01",
+          "tom": "2002-09-30",
+          "uppgift": "",
+          "intressent_id": "0155044813008",
+          "hangar_id": "2342485",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-01",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0155044813008",
+          "hangar_id": "2342485",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2003-11-24",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0155044813008",
+          "hangar_id": "2342485",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2003-11-23",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0155044813008",
+          "hangar_id": "2342485",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2001-03-08",
+          "tom": "2002-09-30",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0155044813008",
+          "hangar_id": "2342485",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-03-22",
+          "tom": "2002-09-29",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0155044813008",
+          "hangar_id": "2342485",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2003-11-24",
+          "tom": "2004-09-13",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0155044813008",
+          "hangar_id": "2342485",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2004-09-13",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0155044813008",
+          "hangar_id": "2342485",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Webbsida",
+          "uppgift": "http://www.ystad.nu/carl-axel/",
+          "typ": "eadress",
+          "intressent_id": "0155044813008",
+          "hangar_id": "2342485"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "leg. läkare",
+          "typ": "titlar",
+          "intressent_id": "0155044813008",
+          "hangar_id": "2342485"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Reg. Physician",
+          "typ": "titlar",
+          "intressent_id": "0155044813008",
+          "hangar_id": "2342485"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0155044813008",
+          "hangar_id": "2342485"
+        }
+      ]
+    }
+  }
+}

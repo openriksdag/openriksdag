@@ -1,0 +1,82 @@
+{
+  "person": {
+    "hangar_guid": "00cb4dc9-f30d-4673-8056-12260b293276",
+    "sourceid": "785c3ee8-ecaa-4016-9e1b-b14374964ccb",
+    "intressent_id": "0911280492610",
+    "hangar_id": "3057173",
+    "fodd_ar": "1963",
+    "kon": "man",
+    "efternamn": "Lundgren",
+    "tilltalsnamn": "Peter",
+    "sorteringsnamn": "Lundgren,Peter",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Östergötlands län",
+    "status": "Europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/785c3ee8-ecaa-4016-9e1b-b14374964ccb",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/785c3ee8-ecaa-4016-9e1b-b14374964ccb_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/785c3ee8-ecaa-4016-9e1b-b14374964ccb_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/785c3ee8-ecaa-4016-9e1b-b14374964ccb_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "EP",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "18",
+          "status": "",
+          "typ": "Europaparlamentet",
+          "from": "2019-07-02",
+          "tom": "2024-07-02",
+          "uppgift": "Europaparlamentet",
+          "intressent_id": "0911280492610",
+          "hangar_id": "3057173",
+          "sortering": "30",
+          "organ_sortering": "100",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EP",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "19",
+          "status": "",
+          "typ": "Europaparlamentet",
+          "from": "2014-07-01",
+          "tom": "2019-07-02",
+          "uppgift": "Europaparlamentet",
+          "intressent_id": "0911280492610",
+          "hangar_id": "3057173",
+          "sortering": "30",
+          "organ_sortering": "100",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "181",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0911280492610",
+          "hangar_id": "3057173",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "peter.lundgren[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0911280492610",
+        "hangar_id": "3057173"
+      }
+    }
+  }
+}

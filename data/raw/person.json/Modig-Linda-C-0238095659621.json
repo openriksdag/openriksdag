@@ -1,0 +1,162 @@
+{
+  "person": {
+    "hangar_guid": "3f7b3f74-82c8-40d4-a26a-5acb566b4a48",
+    "sourceid": "63ea9085-f68c-4782-ae6e-12d84809d352",
+    "intressent_id": "0238095659621",
+    "hangar_id": "5004114",
+    "fodd_ar": "1975",
+    "kon": "kvinna",
+    "efternamn": "Modig",
+    "tilltalsnamn": "Linda",
+    "sorteringsnamn": "Modig,Linda",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Norrbottens län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/63ea9085-f68c-4782-ae6e-12d84809d352",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/63ea9085-f68c-4782-ae6e-12d84809d352_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/63ea9085-f68c-4782-ae6e-12d84809d352_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/63ea9085-f68c-4782-ae6e-12d84809d352_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "349",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0238095659621",
+          "hangar_id": "5004114",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "RRR",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2019-04-01",
+          "tom": "2022-10-31",
+          "uppgift": "Riksdagens råd för Riksrevisionen",
+          "intressent_id": "0238095659621",
+          "hangar_id": "5004114",
+          "sortering": "50",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NR",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "19",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2019-10-02",
+          "tom": "2020-10-30",
+          "uppgift": "Nordiska rådets svenska delegation",
+          "intressent_id": "0238095659621",
+          "hangar_id": "5004114",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NR",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "19",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-10-09",
+          "tom": "2019-10-02",
+          "uppgift": "Nordiska rådets svenska delegation",
+          "intressent_id": "0238095659621",
+          "hangar_id": "5004114",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "28",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2020-02-05",
+          "tom": "2022-09-26",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0238095659621",
+          "hangar_id": "5004114",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0238095659621",
+          "hangar_id": "5004114",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0238095659621",
+          "hangar_id": "5004114",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "linda.modig[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0238095659621",
+          "hangar_id": "5004114"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Jurist/Teol.stud.",
+          "typ": "titlar",
+          "intressent_id": "0238095659621",
+          "hangar_id": "5004114"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0238095659621",
+          "hangar_id": "5004114"
+        }
+      ]
+    }
+  }
+}

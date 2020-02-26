@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "6628deca-22db-4409-8e05-a2418471a41d",
+    "sourceid": "7fb2019d-d7ec-41b3-84b4-ee981864d22f",
+    "intressent_id": "0892215792827",
+    "hangar_id": "2343587",
+    "fodd_ar": "1974",
+    "kon": "man",
+    "efternamn": "Lindström",
+    "tilltalsnamn": "Torsten",
+    "sorteringsnamn": "Lindström,Torsten",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Västmanlands län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/7fb2019d-d7ec-41b3-84b4-ee981864d22f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7fb2019d-d7ec-41b3-84b4-ee981864d22f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7fb2019d-d7ec-41b3-84b4-ee981864d22f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7fb2019d-d7ec-41b3-84b4-ee981864d22f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "289",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2002-09-30",
+          "tom": "2006-10-02",
+          "uppgift": "",
+          "intressent_id": "0892215792827",
+          "hangar_id": "2343587",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "RRS",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "11",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2008-10-29",
+          "tom": "2010-10-19",
+          "uppgift": "Riksrevisionens styrelse",
+          "intressent_id": "0892215792827",
+          "hangar_id": "2343587",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2004-04-29",
+          "tom": "2006-10-02",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0892215792827",
+          "hangar_id": "2343587",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0892215792827",
+          "hangar_id": "2343587",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "universitets-och gymnasieadjunkt",
+          "typ": "titlar",
+          "intressent_id": "0892215792827",
+          "hangar_id": "2343587"
+        },
+        {
+          "kod": "en",
+          "uppgift": "University and Secondary School Teacher",
+          "typ": "titlar",
+          "intressent_id": "0892215792827",
+          "hangar_id": "2343587"
+        }
+      ]
+    }
+  }
+}

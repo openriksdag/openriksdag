@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">99a3832e-8f71-4543-b7e6-878c98c98a6d</hangar_guid>
+<sourceid datatype="string">4c2f2808-c63d-4968-8011-0f23149ea2be</sourceid>
+<intressent_id datatype="string">0326963110315</intressent_id>
+<hangar_id datatype="int32">2343418</hangar_id>
+<fodd_ar datatype="int16">1969</fodd_ar>
+<kon datatype="string">kvinna</kon>
+<efternamn datatype="string">Rheyneuclaudes Kihlman</efternamn>
+<tilltalsnamn datatype="string">Anna</tilltalsnamn>
+<sorteringsnamn datatype="string">Rheyneuclaudes Kihlman,Anna</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">M</parti>
+<valkrets datatype="string">Stockholms län</valkrets>
+<status datatype="string">Tidigare ersättare</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/4c2f2808-c63d-4968-8011-0f23149ea2be</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/4c2f2808-c63d-4968-8011-0f23149ea2be_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/4c2f2808-c63d-4968-8011-0f23149ea2be_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/4c2f2808-c63d-4968-8011-0f23149ea2be_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Ersättare</roll_kod>
+<ordningsnummer datatype="int32">249</ordningsnummer>
+<status datatype="string">Ersättare</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2013-11-01</from>
+<tom datatype="datetime">2014-02-28</tom>
+<uppgift datatype="string">Eliza Roszkowska Öberg</uppgift>
+<intressent_id datatype="string">0326963110315</intressent_id>
+<hangar_id datatype="int32">2343418</hangar_id>
+<sortering datatype="int32">45</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">20</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Ersättare</roll_kod>
+<ordningsnummer datatype="int32">249</ordningsnummer>
+<status datatype="string">Ersättare</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2013-03-01</from>
+<tom datatype="datetime">2013-05-31</tom>
+<uppgift datatype="string">Eliza Roszkowska Öberg</uppgift>
+<intressent_id datatype="string">0326963110315</intressent_id>
+<hangar_id datatype="int32">2343418</hangar_id>
+<sortering datatype="int32">45</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">20</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">TU</organ_kod>
+<roll_kod datatype="string">Extra suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2013-11-01</from>
+<tom datatype="datetime">2014-02-28</tom>
+<uppgift datatype="string">Trafikutskottet</uppgift>
+<intressent_id datatype="string">0326963110315</intressent_id>
+<hangar_id datatype="int32">2343418</hangar_id>
+<sortering datatype="int32">55</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">TU</organ_kod>
+<roll_kod datatype="string">Extra suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2013-03-08</from>
+<tom datatype="datetime">2013-05-31</tom>
+<uppgift datatype="string">Trafikutskottet</uppgift>
+<intressent_id datatype="string">0326963110315</intressent_id>
+<hangar_id datatype="int32">2343418</hangar_id>
+<sortering datatype="int32">55</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+<uppgift>
+<kod datatype="string">Officiell e-postadress</kod>
+<uppgift datatype="string">anna.kihlman[på]riksdagen.se</uppgift>
+<typ datatype="string">eadress</typ>
+<intressent_id datatype="string">0326963110315</intressent_id>
+<hangar_id datatype="int32">2343418</hangar_id>
+</uppgift>
+<uppgift>
+<kod datatype="string">Tjänstetelefon</kod>
+<uppgift datatype="string">64598</uppgift>
+<typ datatype="string">telefonnummer</typ>
+<intressent_id datatype="string">0326963110315</intressent_id>
+<hangar_id datatype="int32">2343418</hangar_id>
+</uppgift>
+</personuppgift>
+</person>

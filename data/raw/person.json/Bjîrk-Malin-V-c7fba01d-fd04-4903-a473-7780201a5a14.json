@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "6c34134b-da60-4c02-9530-52ac5c4661ff",
+    "sourceid": "c7fba01d-fd04-4903-a473-7780201a5a14",
+    "intressent_id": "",
+    "hangar_id": "4788849",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Björk",
+    "tilltalsnamn": "Malin",
+    "sorteringsnamn": "Björk,Malin",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "",
+    "status": "Europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/c7fba01d-fd04-4903-a473-7780201a5a14",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c7fba01d-fd04-4903-a473-7780201a5a14_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c7fba01d-fd04-4903-a473-7780201a5a14_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c7fba01d-fd04-4903-a473-7780201a5a14_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "EP",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "Europaparlamentet",
+          "from": "2019-07-02",
+          "tom": "2024-07-02",
+          "uppgift": "Europaparlamentet",
+          "intressent_id": "",
+          "hangar_id": "4788849",
+          "sortering": "30",
+          "organ_sortering": "100",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EP",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "Europaparlamentet",
+          "from": "2014-07-01",
+          "tom": "2019-07-02",
+          "uppgift": "Europaparlamentet",
+          "intressent_id": "",
+          "hangar_id": "4788849",
+          "sortering": "30",
+          "organ_sortering": "100",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

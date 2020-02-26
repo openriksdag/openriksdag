@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "0841e3fe-52ed-48af-b467-d6ef7d8a9c98",
+    "sourceid": "0a7425a2-8861-4980-8f67-9c52b6d0a935",
+    "intressent_id": "0990002843500",
+    "hangar_id": "2342220",
+    "fodd_ar": "1943",
+    "kon": "kvinna",
+    "efternamn": "Linderholm",
+    "tilltalsnamn": "Christina",
+    "sorteringsnamn": "Linderholm,Christina",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/0a7425a2-8861-4980-8f67-9c52b6d0a935",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0a7425a2-8861-4980-8f67-9c52b6d0a935_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0a7425a2-8861-4980-8f67-9c52b6d0a935_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0a7425a2-8861-4980-8f67-9c52b6d0a935_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "8",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1991-10-05",
+          "tom": "1994-06-15",
+          "uppgift": "Olof Johansson",
+          "intressent_id": "0990002843500",
+          "hangar_id": "2342220",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-06-15",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0990002843500",
+          "hangar_id": "2342220",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1992-10-20",
+          "tom": "1994-06-15",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0990002843500",
+          "hangar_id": "2342220",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

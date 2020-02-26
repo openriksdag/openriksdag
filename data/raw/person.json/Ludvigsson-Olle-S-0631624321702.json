@@ -1,0 +1,48 @@
+{
+  "person": {
+    "hangar_guid": "abe20c5e-a764-4bc1-9b06-53b7fb4e6a6b",
+    "sourceid": "03d8afa3-a840-4157-8ba0-74699c5f0344",
+    "intressent_id": "0631624321702",
+    "hangar_id": "2821434",
+    "fodd_ar": "1948",
+    "kon": "man",
+    "efternamn": "Ludvigsson",
+    "tilltalsnamn": "Olle",
+    "sorteringsnamn": "Ludvigsson,Olle",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/03d8afa3-a840-4157-8ba0-74699c5f0344",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/03d8afa3-a840-4157-8ba0-74699c5f0344_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/03d8afa3-a840-4157-8ba0-74699c5f0344_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/03d8afa3-a840-4157-8ba0-74699c5f0344_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "EP",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "9",
+        "status": "",
+        "typ": "Europaparlamentet",
+        "from": "2009-07-14",
+        "tom": "2019-07-02",
+        "uppgift": "Europaparlamentet",
+        "intressent_id": "0631624321702",
+        "hangar_id": "2821434",
+        "sortering": "30",
+        "organ_sortering": "100",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Webbsida",
+        "uppgift": "http://www.europarl.europa.eu/meps/sv/96673/OLLE_LUDVIGSSON.html",
+        "typ": "eadress",
+        "intressent_id": "0631624321702",
+        "hangar_id": "2821434"
+      }
+    }
+  }
+}

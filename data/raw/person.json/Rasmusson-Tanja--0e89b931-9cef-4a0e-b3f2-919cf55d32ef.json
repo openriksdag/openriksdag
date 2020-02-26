@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "2c40e591-deca-4bd3-b0a6-022a3fa6f8b0",
+    "sourceid": "0e89b931-9cef-4a0e-b3f2-919cf55d32ef",
+    "intressent_id": "",
+    "hangar_id": "4991923",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Rasmusson",
+    "tilltalsnamn": "Tanja",
+    "sorteringsnamn": "Rasmusson,Tanja",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Ledamot i Nämnden för prövning av statsråds och statssekreterares övergångsrestriktioner",
+    "person_url_xml": "http://data.riksdagen.se/person/0e89b931-9cef-4a0e-b3f2-919cf55d32ef",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0e89b931-9cef-4a0e-b3f2-919cf55d32ef_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0e89b931-9cef-4a0e-b3f2-919cf55d32ef_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0e89b931-9cef-4a0e-b3f2-919cf55d32ef_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "NSÖ",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "4",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2018-07-01",
+        "tom": "2022-07-01",
+        "uppgift": "Nämnden för prövning av statsråds och statssekreterares övergångsrestriktioner",
+        "intressent_id": "",
+        "hangar_id": "4991923",
+        "sortering": "30",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

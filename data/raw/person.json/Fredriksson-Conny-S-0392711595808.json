@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "d1955612-5151-4c62-ade6-e0c556a2d526",
+    "sourceid": "ebe84dca-534a-4c33-957f-4018ec8c9059",
+    "intressent_id": "0392711595808",
+    "hangar_id": "2342077",
+    "fodd_ar": "1940",
+    "kon": "man",
+    "efternamn": "Fredriksson",
+    "tilltalsnamn": "Conny",
+    "sorteringsnamn": "Fredriksson,Conny",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Status saknas",
+    "person_url_xml": "http://data.riksdagen.se/person/ebe84dca-534a-4c33-957f-4018ec8c9059",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ebe84dca-534a-4c33-957f-4018ec8c9059_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ebe84dca-534a-4c33-957f-4018ec8c9059_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ebe84dca-534a-4c33-957f-4018ec8c9059_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-11-12",
+          "tom": "1990-12-12",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0392711595808",
+          "hangar_id": "2342077",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-11-12",
+          "tom": "1990-12-12",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0392711595808",
+          "hangar_id": "2342077",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "internationell sekreterare",
+          "typ": "titlar",
+          "intressent_id": "0392711595808",
+          "hangar_id": "2342077"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0392711595808",
+          "hangar_id": "2342077"
+        }
+      ]
+    }
+  }
+}

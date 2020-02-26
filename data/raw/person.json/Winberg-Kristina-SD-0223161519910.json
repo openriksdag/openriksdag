@@ -1,0 +1,66 @@
+{
+  "person": {
+    "hangar_guid": "f9da2436-93a1-4b81-8af5-bbf2f433afb4",
+    "sourceid": "c673caa0-650a-4dbb-8e35-4b5920f1c7ff",
+    "intressent_id": "0223161519910",
+    "hangar_id": "3057351",
+    "fodd_ar": "1965",
+    "kon": "kvinna",
+    "efternamn": "Winberg",
+    "tilltalsnamn": "Kristina",
+    "sorteringsnamn": "Winberg,Kristina",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Västra Götalands läns södra",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/c673caa0-650a-4dbb-8e35-4b5920f1c7ff",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c673caa0-650a-4dbb-8e35-4b5920f1c7ff_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c673caa0-650a-4dbb-8e35-4b5920f1c7ff_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c673caa0-650a-4dbb-8e35-4b5920f1c7ff_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "EP",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "18",
+          "status": "",
+          "typ": "Europaparlamentet",
+          "from": "2014-07-01",
+          "tom": "2019-07-02",
+          "uppgift": "Europaparlamentet",
+          "intressent_id": "0223161519910",
+          "hangar_id": "3057351",
+          "sortering": "30",
+          "organ_sortering": "100",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "341",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0223161519910",
+          "hangar_id": "3057351",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "kristina.winberg[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0223161519910",
+        "hangar_id": "3057351"
+      }
+    }
+  }
+}

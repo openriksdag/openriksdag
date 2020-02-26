@@ -1,0 +1,82 @@
+{
+  "person": {
+    "hangar_guid": "0aa704ef-97ca-4af2-9870-f95b8da65a99",
+    "sourceid": "ee9a578d-b462-422b-9946-5391bd07f9de",
+    "intressent_id": "0316979049321",
+    "hangar_id": "2369518",
+    "fodd_ar": "1985",
+    "kon": "man",
+    "efternamn": "Längberg",
+    "tilltalsnamn": "Karl",
+    "sorteringsnamn": "Längberg,Karl",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Kalmar län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/ee9a578d-b462-422b-9946-5391bd07f9de",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ee9a578d-b462-422b-9946-5391bd07f9de_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ee9a578d-b462-422b-9946-5391bd07f9de_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ee9a578d-b462-422b-9946-5391bd07f9de_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "120",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2018-03-08",
+          "tom": "2018-09-24",
+          "uppgift": "Lena Hallengren",
+          "intressent_id": "0316979049321",
+          "hangar_id": "2369518",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-04-12",
+          "tom": "2018-09-24",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0316979049321",
+          "hangar_id": "2369518",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "29",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-03-20",
+          "tom": "2018-09-24",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0316979049321",
+          "hangar_id": "2369518",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "false",
+        "typ": "val",
+        "intressent_id": "0316979049321",
+        "hangar_id": "2369518"
+      }
+    }
+  }
+}

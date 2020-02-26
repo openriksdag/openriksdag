@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "f3ca0528-a352-4987-8063-9536fa8fb750",
+    "sourceid": "155f32c6-f0e5-4f43-b7d3-d69ecd3f5464",
+    "intressent_id": "048433771316",
+    "hangar_id": "2343430",
+    "fodd_ar": "1969",
+    "kon": "kvinna",
+    "efternamn": "Mobeck",
+    "tilltalsnamn": "Pernilla",
+    "sorteringsnamn": "Mobeck,Pernilla",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/155f32c6-f0e5-4f43-b7d3-d69ecd3f5464",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/155f32c6-f0e5-4f43-b7d3-d69ecd3f5464_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/155f32c6-f0e5-4f43-b7d3-d69ecd3f5464_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/155f32c6-f0e5-4f43-b7d3-d69ecd3f5464_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "95",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1998-06-01",
+          "tom": "1998-10-05",
+          "uppgift": "Maj-Inger Klingvall",
+          "intressent_id": "048433771316",
+          "hangar_id": "2343430",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-06-04",
+          "tom": "1998-10-04",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "048433771316",
+          "hangar_id": "2343430",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "förbundssekreterare",
+          "typ": "titlar",
+          "intressent_id": "048433771316",
+          "hangar_id": "2343430"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "048433771316",
+          "hangar_id": "2343430"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">2c5b0b38-c294-4327-abab-9344a4246420</hangar_guid>
+<sourceid datatype="string">1a6e1360-a776-48a9-a181-3d1cb82203a1</sourceid>
+<intressent_id datatype="string">0845242325301</intressent_id>
+<hangar_id datatype="int32">2342235</hangar_id>
+<fodd_ar datatype="int16">1943</fodd_ar>
+<kon datatype="string">kvinna</kon>
+<efternamn datatype="string">Berglund</efternamn>
+<tilltalsnamn datatype="string">Märtha</tilltalsnamn>
+<sorteringsnamn datatype="string">Berglund,Märtha</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">S</parti>
+<valkrets datatype="string"></valkrets>
+<status datatype="string">Status saknas</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/1a6e1360-a776-48a9-a181-3d1cb82203a1</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/1a6e1360-a776-48a9-a181-3d1cb82203a1_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/1a6e1360-a776-48a9-a181-3d1cb82203a1_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/1a6e1360-a776-48a9-a181-3d1cb82203a1_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">UbU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">1990-11-12</from>
+<tom datatype="datetime">1990-12-11</tom>
+<uppgift datatype="string">Utbildningsutskottet</uppgift>
+<intressent_id datatype="string">0845242325301</intressent_id>
+<hangar_id datatype="int32">2342235</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">UU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">1990-11-12</from>
+<tom datatype="datetime">1990-12-11</tom>
+<uppgift datatype="string">Utrikesutskottet</uppgift>
+<intressent_id datatype="string">0845242325301</intressent_id>
+<hangar_id datatype="int32">2342235</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+<uppgift>
+<kod datatype="string">sv</kod>
+<uppgift datatype="string">postmästare</uppgift>
+<typ datatype="string">titlar</typ>
+<intressent_id datatype="string">0845242325301</intressent_id>
+<hangar_id datatype="int32">2342235</hangar_id>
+</uppgift>
+<uppgift>
+<kod datatype="string">en</kod>
+<uppgift datatype="string"></uppgift>
+<typ datatype="string">titlar</typ>
+<intressent_id datatype="string">0845242325301</intressent_id>
+<hangar_id datatype="int32">2342235</hangar_id>
+</uppgift>
+</personuppgift>
+</person>

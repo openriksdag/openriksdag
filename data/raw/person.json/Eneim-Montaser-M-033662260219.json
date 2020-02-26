@@ -1,0 +1,114 @@
+{
+  "person": {
+    "hangar_guid": "5dc4d2de-908a-457e-9d17-2f702ab85200",
+    "sourceid": "92ae08f8-ba84-4369-80c2-e4ff04110ca6",
+    "intressent_id": "033662260219",
+    "hangar_id": "2369538",
+    "fodd_ar": "1967",
+    "kon": "man",
+    "efternamn": "Eneim",
+    "tilltalsnamn": "Montaser",
+    "sorteringsnamn": "Eneim,Montaser",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Malmö kommun",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/92ae08f8-ba84-4369-80c2-e4ff04110ca6",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/92ae08f8-ba84-4369-80c2-e4ff04110ca6_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/92ae08f8-ba84-4369-80c2-e4ff04110ca6_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/92ae08f8-ba84-4369-80c2-e4ff04110ca6_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "36",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2014-02-24",
+          "tom": "2014-09-28",
+          "uppgift": "Tobias Billström",
+          "intressent_id": "033662260219",
+          "hangar_id": "2369538",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "36",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2011-12-13",
+          "tom": "2012-06-30",
+          "uppgift": "Tobias Billström",
+          "intressent_id": "033662260219",
+          "hangar_id": "2369538",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-12-14",
+          "tom": "2012-06-30",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "033662260219",
+          "hangar_id": "2369538",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-02-27",
+          "tom": "2014-09-28",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "033662260219",
+          "hangar_id": "2369538",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-12-14",
+          "tom": "2012-06-30",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "033662260219",
+          "hangar_id": "2369538",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "montaser.eneim[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "033662260219",
+        "hangar_id": "2369538"
+      }
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "6cc5c634-2442-47d8-90ce-d0680eee1267",
+    "sourceid": "b7fa05d3-0c7d-469f-9c84-93710fa96794",
+    "intressent_id": "0513164929896",
+    "hangar_id": "2341656",
+    "fodd_ar": "1922",
+    "kon": "man",
+    "efternamn": "Pettersson",
+    "tilltalsnamn": "Hans",
+    "sorteringsnamn": "Pettersson,Hans",
+    "iort": "Helsingborg",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/b7fa05d3-0c7d-469f-9c84-93710fa96794",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b7fa05d3-0c7d-469f-9c84-93710fa96794_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b7fa05d3-0c7d-469f-9c84-93710fa96794_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b7fa05d3-0c7d-469f-9c84-93710fa96794_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0513164929896",
+          "hangar_id": "2341656",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0513164929896",
+          "hangar_id": "2341656",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0513164929896",
+          "hangar_id": "2341656",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1976-10-04",
+          "tom": "1979-10-01",
+          "uppgift": "",
+          "intressent_id": "0513164929896",
+          "hangar_id": "2341656",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "kranmaskinist",
+          "typ": "titlar",
+          "intressent_id": "0513164929896",
+          "hangar_id": "2341656"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0513164929896",
+          "hangar_id": "2341656"
+        }
+      ]
+    }
+  }
+}

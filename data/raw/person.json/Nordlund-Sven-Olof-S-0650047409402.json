@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "fc24aeeb-bcc1-4e60-98b2-750d146506a2",
+    "sourceid": "f77a2bef-a788-434b-9e85-64a3148d1c73",
+    "intressent_id": "0650047409402",
+    "hangar_id": "2341787",
+    "fodd_ar": "1931",
+    "kon": "man",
+    "efternamn": "Nordlund",
+    "tilltalsnamn": "Sven-Olof",
+    "sorteringsnamn": "Nordlund,Sven-Olof",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/f77a2bef-a788-434b-9e85-64a3148d1c73",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f77a2bef-a788-434b-9e85-64a3148d1c73_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f77a2bef-a788-434b-9e85-64a3148d1c73_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f77a2bef-a788-434b-9e85-64a3148d1c73_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Ersättare",
+        "ordningsnummer": "0",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "1986-10-10",
+        "tom": "1988-10-03",
+        "uppgift": "Georg Andersson",
+        "intressent_id": "0650047409402",
+        "hangar_id": "2341787",
+        "sortering": "45",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0650047409402",
+          "hangar_id": "2341787"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "järnvägsarbetare",
+          "typ": "titlar",
+          "intressent_id": "0650047409402",
+          "hangar_id": "2341787"
+        }
+      ]
+    }
+  }
+}

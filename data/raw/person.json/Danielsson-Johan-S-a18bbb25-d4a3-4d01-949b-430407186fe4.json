@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "0b62f6c4-4a6a-4ac8-95f1-35a5beaf35ea",
+    "sourceid": "a18bbb25-d4a3-4d01-949b-430407186fe4",
+    "intressent_id": "",
+    "hangar_id": "5035032",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Danielsson",
+    "tilltalsnamn": "Johan",
+    "sorteringsnamn": "Danielsson,Johan",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/a18bbb25-d4a3-4d01-949b-430407186fe4",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a18bbb25-d4a3-4d01-949b-430407186fe4_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a18bbb25-d4a3-4d01-949b-430407186fe4_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a18bbb25-d4a3-4d01-949b-430407186fe4_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "EP",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "11",
+        "status": "",
+        "typ": "Europaparlamentet",
+        "from": "2019-07-02",
+        "tom": "2024-07-02",
+        "uppgift": "Europaparlamentet",
+        "intressent_id": "",
+        "hangar_id": "5035032",
+        "sortering": "30",
+        "organ_sortering": "100",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

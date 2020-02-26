@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "92658396-ebf2-48da-890f-63281e2facd8",
+    "sourceid": "b80c6a43-a135-48bb-a4bf-1dee8567a88d",
+    "intressent_id": "0922081543501",
+    "hangar_id": "2342106",
+    "fodd_ar": "1941",
+    "kon": "kvinna",
+    "efternamn": "Sigurdsdóttir",
+    "tilltalsnamn": "Ingibjörg",
+    "sorteringsnamn": "Sigurdsdóttir,Ingibjörg",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/b80c6a43-a135-48bb-a4bf-1dee8567a88d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b80c6a43-a135-48bb-a4bf-1dee8567a88d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b80c6a43-a135-48bb-a4bf-1dee8567a88d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b80c6a43-a135-48bb-a4bf-1dee8567a88d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "133",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1994-11-29",
+          "tom": "1998-10-05",
+          "uppgift": "",
+          "intressent_id": "0922081543501",
+          "hangar_id": "2342106",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "254",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1994-10-04",
+          "tom": "1994-11-28",
+          "uppgift": "Claes-Göran Larsson",
+          "intressent_id": "0922081543501",
+          "hangar_id": "2342106",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "NR",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1996-10-24",
+          "tom": "1998-10-05",
+          "uppgift": "Nordiska rådets svenska delegation",
+          "intressent_id": "0922081543501",
+          "hangar_id": "2342106",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1998-10-04",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0922081543501",
+          "hangar_id": "2342106",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1998-10-04",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0922081543501",
+          "hangar_id": "2342106",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0922081543501",
+          "hangar_id": "2342106"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "arbetskonsulent",
+          "typ": "titlar",
+          "intressent_id": "0922081543501",
+          "hangar_id": "2342106"
+        }
+      ]
+    }
+  }
+}

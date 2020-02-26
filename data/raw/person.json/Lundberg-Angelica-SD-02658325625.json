@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "b0798d13-5915-44bd-bf56-dbf4b75ba17f",
+    "sourceid": "a7ca5ca6-2e77-4360-8369-0671993019c4",
+    "intressent_id": "02658325625",
+    "hangar_id": "5003779",
+    "fodd_ar": "1981",
+    "kon": "kvinna",
+    "efternamn": "Lundberg",
+    "tilltalsnamn": "Angelica",
+    "sorteringsnamn": "Lundberg,Angelica",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Jönköpings län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/a7ca5ca6-2e77-4360-8369-0671993019c4",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a7ca5ca6-2e77-4360-8369-0671993019c4_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a7ca5ca6-2e77-4360-8369-0671993019c4_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a7ca5ca6-2e77-4360-8369-0671993019c4_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "327",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "02658325625",
+          "hangar_id": "5003779",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "02658325625",
+          "hangar_id": "5003779",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "49",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-09",
+          "tom": "2022-10-04",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "02658325625",
+          "hangar_id": "5003779",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "angelica.lundberg[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "02658325625",
+          "hangar_id": "5003779"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Säljadministratör.",
+          "typ": "titlar",
+          "intressent_id": "02658325625",
+          "hangar_id": "5003779"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "02658325625",
+          "hangar_id": "5003779"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "93d305a6-9310-4938-ad17-49d1f21c2158",
+    "sourceid": "68edf87b-745b-4862-bb38-d388733c3c4d",
+    "intressent_id": "0102278739624",
+    "hangar_id": "5003587",
+    "fodd_ar": "1981",
+    "kon": "man",
+    "efternamn": "Kullgren",
+    "tilltalsnamn": "Peter",
+    "sorteringsnamn": "Kullgren,Peter",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "",
+    "status": "",
+    "person_url_xml": "http://data.riksdagen.se/person/68edf87b-745b-4862-bb38-d388733c3c4d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/68edf87b-745b-4862-bb38-d388733c3c4d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/68edf87b-745b-4862-bb38-d388733c3c4d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/68edf87b-745b-4862-bb38-d388733c3c4d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "KD",
+        "roll_kod": "Partisekreterare",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "partiuppdrag",
+        "from": "2018-09-14",
+        "tom": "",
+        "uppgift": "Kristdemokraterna",
+        "intressent_id": "0102278739624",
+        "hangar_id": "5003587",
+        "sortering": "35",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

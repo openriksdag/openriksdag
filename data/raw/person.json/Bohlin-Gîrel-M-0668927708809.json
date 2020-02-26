@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "bb77a130-92ac-4234-95c4-9803a9fd90af",
+    "sourceid": "67f743ea-72f0-401d-96e6-b9b027bfd82c",
+    "intressent_id": "0668927708809",
+    "hangar_id": "2341773",
+    "fodd_ar": "1930",
+    "kon": "kvinna",
+    "efternamn": "Bohlin",
+    "tilltalsnamn": "Görel",
+    "sorteringsnamn": "Bohlin,Görel",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/67f743ea-72f0-401d-96e6-b9b027bfd82c",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/67f743ea-72f0-401d-96e6-b9b027bfd82c_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/67f743ea-72f0-401d-96e6-b9b027bfd82c_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/67f743ea-72f0-401d-96e6-b9b027bfd82c_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "40",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-01-09",
+          "uppgift": "",
+          "intressent_id": "0668927708809",
+          "hangar_id": "2341773",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0668927708809",
+          "hangar_id": "2341773",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0668927708809",
+          "hangar_id": "2341773",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1981-10-06",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0668927708809",
+          "hangar_id": "2341773",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "ER",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1991-11-14",
+          "tom": "1992-04-09",
+          "uppgift": "Europarådets svenska delegation",
+          "intressent_id": "0668927708809",
+          "hangar_id": "2341773",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NR",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1988-10-18",
+          "tom": "1991-09-30",
+          "uppgift": "Nordiska rådets svenska delegation",
+          "intressent_id": "0668927708809",
+          "hangar_id": "2341773",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "VB",
+          "roll_kod": "Ordförande",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2001-11-22",
+          "tom": "2002-09-30",
+          "uppgift": "Valberedningen",
+          "intressent_id": "0668927708809",
+          "hangar_id": "2341773",
+          "sortering": "10",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "fil.kand.",
+          "typ": "titlar",
+          "intressent_id": "0668927708809",
+          "hangar_id": "2341773"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0668927708809",
+          "hangar_id": "2341773"
+        }
+      ]
+    }
+  }
+}

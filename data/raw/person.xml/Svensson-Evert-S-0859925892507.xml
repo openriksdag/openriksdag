@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">0170a7f0-e767-4c31-9bcc-fcef4e81b857</hangar_guid>
+<sourceid datatype="string">2ff0e702-7aa1-4b97-bfbd-1741c03bc1dc</sourceid>
+<intressent_id datatype="string">0859925892507</intressent_id>
+<hangar_id datatype="int32">2341684</hangar_id>
+<fodd_ar datatype="int16">1925</fodd_ar>
+<kon datatype="string">man</kon>
+<efternamn datatype="string">Svensson</efternamn>
+<tilltalsnamn datatype="string">Evert</tilltalsnamn>
+<sorteringsnamn datatype="string">Svensson,Evert</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">S</parti>
+<valkrets datatype="string"></valkrets>
+<status datatype="string">Tidigare riksdagsledamot</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/2ff0e702-7aa1-4b97-bfbd-1741c03bc1dc</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/2ff0e702-7aa1-4b97-bfbd-1741c03bc1dc_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/2ff0e702-7aa1-4b97-bfbd-1741c03bc1dc_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/2ff0e702-7aa1-4b97-bfbd-1741c03bc1dc_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">216</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1988-10-03</from>
+<tom datatype="datetime">1991-09-30</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0859925892507</intressent_id>
+<hangar_id datatype="int32">2341684</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1985-09-30</from>
+<tom datatype="datetime">1988-10-03</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0859925892507</intressent_id>
+<hangar_id datatype="int32">2341684</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1982-10-04</from>
+<tom datatype="datetime">1985-09-30</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0859925892507</intressent_id>
+<hangar_id datatype="int32">2341684</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1981-12-15</from>
+<tom datatype="datetime">1982-10-04</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0859925892507</intressent_id>
+<hangar_id datatype="int32">2341684</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string">Ledig</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1981-11-13</from>
+<tom datatype="datetime">1981-12-14</tom>
+<uppgift datatype="string">Sverre Palm 1981-11-13 - 1981-12-14</uppgift>
+<intressent_id datatype="string">0859925892507</intressent_id>
+<hangar_id datatype="int32">2341684</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">30</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1981-03-15</from>
+<tom datatype="datetime">1981-11-12</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0859925892507</intressent_id>
+<hangar_id datatype="int32">2341684</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string">Ledig</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1981-02-13</from>
+<tom datatype="datetime">1981-03-14</tom>
+<uppgift datatype="string">Sverre Palm 1981-02-13 - 1981-03-14</uppgift>
+<intressent_id datatype="string">0859925892507</intressent_id>
+<hangar_id datatype="int32">2341684</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">30</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1979-12-20</from>
+<tom datatype="datetime">1981-02-12</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0859925892507</intressent_id>
+<hangar_id datatype="int32">2341684</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string">Ledig</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1979-11-16</from>
+<tom datatype="datetime">1979-12-19</tom>
+<uppgift datatype="string">Sverre Palm 1979-11-16 - 1979-12-19</uppgift>
+<intressent_id datatype="string">0859925892507</intressent_id>
+<hangar_id datatype="int32">2341684</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">30</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1979-10-01</from>
+<tom datatype="datetime">1979-11-15</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0859925892507</intressent_id>
+<hangar_id datatype="int32">2341684</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1976-10-04</from>
+<tom datatype="datetime">1979-10-01</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0859925892507</intressent_id>
+<hangar_id datatype="int32">2341684</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">ER</organ_kod>
+<roll_kod datatype="string">Ledamot</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">1989-03-15</from>
+<tom datatype="datetime">1992-04-08</tom>
+<uppgift datatype="string">Europarådets svenska delegation</uppgift>
+<intressent_id datatype="string">0859925892507</intressent_id>
+<hangar_id datatype="int32">2341684</hangar_id>
+<sortering datatype="int32">30</sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">SoU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">1988-11-07</from>
+<tom datatype="datetime">1991-09-29</tom>
+<uppgift datatype="string">Socialutskottet</uppgift>
+<intressent_id datatype="string">0859925892507</intressent_id>
+<hangar_id datatype="int32">2341684</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">UU</organ_kod>
+<roll_kod datatype="string">Ledamot</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">1988-10-11</from>
+<tom datatype="datetime">1991-09-29</tom>
+<uppgift datatype="string">Utrikesutskottet</uppgift>
+<intressent_id datatype="string">0859925892507</intressent_id>
+<hangar_id datatype="int32">2341684</hangar_id>
+<sortering datatype="int32">30</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+<uppgift>
+<kod datatype="string">sv</kod>
+<uppgift datatype="string">socionom</uppgift>
+<typ datatype="string">titlar</typ>
+<intressent_id datatype="string">0859925892507</intressent_id>
+<hangar_id datatype="int32">2341684</hangar_id>
+</uppgift>
+<uppgift>
+<kod datatype="string">en</kod>
+<uppgift datatype="string"></uppgift>
+<typ datatype="string">titlar</typ>
+<intressent_id datatype="string">0859925892507</intressent_id>
+<hangar_id datatype="int32">2341684</hangar_id>
+</uppgift>
+</personuppgift>
+</person>

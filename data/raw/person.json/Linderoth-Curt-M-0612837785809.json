@@ -1,0 +1,90 @@
+{
+  "person": {
+    "hangar_guid": "2ffa98ac-418c-4a8b-b4db-391c30ece09d",
+    "sourceid": "1c64c83f-6801-4453-a2d3-8e86da39fb9d",
+    "intressent_id": "0612837785809",
+    "hangar_id": "2341772",
+    "fodd_ar": "1930",
+    "kon": "man",
+    "efternamn": "Linderoth",
+    "tilltalsnamn": "Curt",
+    "sorteringsnamn": "Linderoth,Curt",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/1c64c83f-6801-4453-a2d3-8e86da39fb9d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1c64c83f-6801-4453-a2d3-8e86da39fb9d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1c64c83f-6801-4453-a2d3-8e86da39fb9d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1c64c83f-6801-4453-a2d3-8e86da39fb9d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "316",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2009-04-21",
+          "tom": "2009-11-23",
+          "uppgift": "Anna König Jerlmyr",
+          "intressent_id": "0612837785809",
+          "hangar_id": "2341772",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "314",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2008-09-08",
+          "tom": "2008-12-07",
+          "uppgift": "Gustav Blix",
+          "intressent_id": "0612837785809",
+          "hangar_id": "2341772",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "28",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2009-04-23",
+          "tom": "2009-11-23",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0612837785809",
+          "hangar_id": "2341772",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2008-10-01",
+          "tom": "2008-12-07",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0612837785809",
+          "hangar_id": "2341772",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

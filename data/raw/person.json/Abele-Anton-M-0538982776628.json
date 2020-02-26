@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "d3c62e8a-6e4c-48f8-acdc-035601db50c2",
+    "sourceid": "636f5ecf-8acd-4056-b7c5-85895178d03b",
+    "intressent_id": "0538982776628",
+    "hangar_id": "2369436",
+    "fodd_ar": "1992",
+    "kon": "man",
+    "efternamn": "Abele",
+    "tilltalsnamn": "Anton",
+    "sorteringsnamn": "Abele,Anton",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/636f5ecf-8acd-4056-b7c5-85895178d03b",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/636f5ecf-8acd-4056-b7c5-85895178d03b_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/636f5ecf-8acd-4056-b7c5-85895178d03b_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/636f5ecf-8acd-4056-b7c5-85895178d03b_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "141",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-26",
+          "tom": "2014-09-29",
+          "uppgift": "Lena Adelsohn Liljeroth",
+          "intressent_id": "0538982776628",
+          "hangar_id": "2369436",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "280",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-19",
+          "tom": "2010-10-25",
+          "uppgift": "HG Wessberg",
+          "intressent_id": "0538982776628",
+          "hangar_id": "2369436",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "28",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-04-20",
+          "tom": "2014-09-29",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0538982776628",
+          "hangar_id": "2369436",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "21",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-11-17",
+          "tom": "2014-09-29",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0538982776628",
+          "hangar_id": "2369436",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Samhällsdebattör",
+          "typ": "titlar",
+          "intressent_id": "0538982776628",
+          "hangar_id": "2369436"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0538982776628",
+          "hangar_id": "2369436"
+        }
+      ]
+    }
+  }
+}

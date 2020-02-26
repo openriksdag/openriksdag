@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "54d10f16-260b-430c-a770-66b6d88a02d9",
+    "sourceid": "a77a0a82-f48f-4b19-82a3-19084709fca8",
+    "intressent_id": "0668587997616",
+    "hangar_id": "2342826",
+    "fodd_ar": "1954",
+    "kon": "man",
+    "efternamn": "Fonseca",
+    "tilltalsnamn": "Juan",
+    "sorteringsnamn": "Fonseca,Juan",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/a77a0a82-f48f-4b19-82a3-19084709fca8",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a77a0a82-f48f-4b19-82a3-19084709fca8_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a77a0a82-f48f-4b19-82a3-19084709fca8_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a77a0a82-f48f-4b19-82a3-19084709fca8_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "20",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1995-08-01",
+          "tom": "1998-10-05",
+          "uppgift": "",
+          "intressent_id": "0668587997616",
+          "hangar_id": "2342826",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "8",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1994-10-08",
+          "tom": "1995-07-31",
+          "uppgift": "Mona Sahlin",
+          "intressent_id": "0668587997616",
+          "hangar_id": "2342826",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1998-10-04",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0668587997616",
+          "hangar_id": "2342826",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1998-10-04",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "0668587997616",
+          "hangar_id": "2342826",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "föreståndare",
+          "typ": "titlar",
+          "intressent_id": "0668587997616",
+          "hangar_id": "2342826"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0668587997616",
+          "hangar_id": "2342826"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "28939414-24ed-4d14-9ff6-bf6bbe296e97",
+    "sourceid": "f1f00905-525e-43fb-bbd2-e15aa3ff1be1",
+    "intressent_id": "010392780417",
+    "hangar_id": "3057410",
+    "fodd_ar": "1967",
+    "kon": "kvinna",
+    "efternamn": "Olsson",
+    "tilltalsnamn": "Marie",
+    "sorteringsnamn": "Olsson,Marie",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Dalarnas län",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/f1f00905-525e-43fb-bbd2-e15aa3ff1be1",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f1f00905-525e-43fb-bbd2-e15aa3ff1be1_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f1f00905-525e-43fb-bbd2-e15aa3ff1be1_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f1f00905-525e-43fb-bbd2-e15aa3ff1be1_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "46",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2017-04-01",
+          "tom": "2018-09-24",
+          "uppgift": "Peter Hultqvist",
+          "intressent_id": "010392780417",
+          "hangar_id": "3057410",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "29",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-06-27",
+          "tom": "2018-09-24",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "010392780417",
+          "hangar_id": "3057410",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-05-08",
+          "tom": "2018-09-24",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "010392780417",
+          "hangar_id": "3057410",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "marie.olsson[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "010392780417",
+          "hangar_id": "3057410"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "010392780417",
+          "hangar_id": "3057410"
+        }
+      ]
+    }
+  }
+}

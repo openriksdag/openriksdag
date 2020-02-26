@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "48421f31-1637-4638-b006-f1205548fb55",
+    "sourceid": "40f3f026-ff05-4031-abc3-0c166dadc3b2",
+    "intressent_id": "0894934958205",
+    "hangar_id": "2342424",
+    "fodd_ar": "1947",
+    "kon": "man",
+    "efternamn": "Åsbrink",
+    "tilltalsnamn": "Erik",
+    "sorteringsnamn": "Åsbrink,Erik",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/40f3f026-ff05-4031-abc3-0c166dadc3b2",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/40f3f026-ff05-4031-abc3-0c166dadc3b2_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/40f3f026-ff05-4031-abc3-0c166dadc3b2_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/40f3f026-ff05-4031-abc3-0c166dadc3b2_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "310",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1999-06-17",
+          "tom": "1999-09-14",
+          "uppgift": "",
+          "intressent_id": "0894934958205",
+          "hangar_id": "2342424",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "310",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "1998-10-05",
+          "tom": "1999-06-16",
+          "uppgift": "Agneta Brendt 1998-10-05 - 1999-04-12, Kenth Högström 1999-04-13 - 1999-06-16",
+          "intressent_id": "0894934958205",
+          "hangar_id": "2342424",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1996-03-22",
+          "tom": "1998-10-05",
+          "uppgift": "",
+          "intressent_id": "0894934958205",
+          "hangar_id": "2342424",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

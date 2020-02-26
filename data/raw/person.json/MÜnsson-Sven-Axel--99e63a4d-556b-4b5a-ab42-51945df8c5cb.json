@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "50935278-a1c0-498f-8c14-b5f227b4b000",
+    "sourceid": "99e63a4d-556b-4b5a-ab42-51945df8c5cb",
+    "intressent_id": "",
+    "hangar_id": "4788834",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Månsson",
+    "tilltalsnamn": "Sven-Axel",
+    "sorteringsnamn": "Månsson,Sven-Axel",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ledamot i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/99e63a4d-556b-4b5a-ab42-51945df8c5cb",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/99e63a4d-556b-4b5a-ab42-51945df8c5cb_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/99e63a4d-556b-4b5a-ab42-51945df8c5cb_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/99e63a4d-556b-4b5a-ab42-51945df8c5cb_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RJ",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "10",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2012-11-01",
+        "tom": "2016-01-12",
+        "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+        "intressent_id": "",
+        "hangar_id": "4788834",
+        "sortering": "30",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

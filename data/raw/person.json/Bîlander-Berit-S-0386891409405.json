@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "f84c1edc-3684-4d13-976d-e9acccea6d2a",
+    "sourceid": "0b29beb8-5357-462c-9543-01c04d1bb723",
+    "intressent_id": "0386891409405",
+    "hangar_id": "2342051",
+    "fodd_ar": "1939",
+    "kon": "kvinna",
+    "efternamn": "Bölander",
+    "tilltalsnamn": "Berit",
+    "sorteringsnamn": "Bölander,Berit",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/0b29beb8-5357-462c-9543-01c04d1bb723",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0b29beb8-5357-462c-9543-01c04d1bb723_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0b29beb8-5357-462c-9543-01c04d1bb723_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0b29beb8-5357-462c-9543-01c04d1bb723_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1986-11-05",
+          "tom": "1988-10-03",
+          "uppgift": "Gertrud Sigurdsen",
+          "intressent_id": "0386891409405",
+          "hangar_id": "2342051",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1984-11-19",
+          "tom": "1984-12-20",
+          "uppgift": "Mats Hellström",
+          "intressent_id": "0386891409405",
+          "hangar_id": "2342051",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "ombudsman",
+          "typ": "titlar",
+          "intressent_id": "0386891409405",
+          "hangar_id": "2342051"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0386891409405",
+          "hangar_id": "2342051"
+        }
+      ]
+    }
+  }
+}

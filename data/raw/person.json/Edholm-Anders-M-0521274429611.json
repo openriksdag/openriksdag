@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "8ff88c99-993c-4b6f-ad76-d7102485a295",
+    "sourceid": "af74184a-4f37-410d-88c0-913e198daee8",
+    "intressent_id": "0521274429611",
+    "hangar_id": "4757478",
+    "fodd_ar": "1973",
+    "kon": "man",
+    "efternamn": "Edholm",
+    "tilltalsnamn": "Anders",
+    "sorteringsnamn": "Edholm,Anders",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "",
+    "person_url_xml": "http://data.riksdagen.se/person/af74184a-4f37-410d-88c0-913e198daee8",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/af74184a-4f37-410d-88c0-913e198daee8_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/af74184a-4f37-410d-88c0-913e198daee8_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/af74184a-4f37-410d-88c0-913e198daee8_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "M",
+        "roll_kod": "Partisekreterare",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "partiuppdrag",
+        "from": "2017-07-07",
+        "tom": "2017-10-12",
+        "uppgift": "Moderaterna",
+        "intressent_id": "0521274429611",
+        "hangar_id": "4757478",
+        "sortering": "35",
+        "organ_sortering": "",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

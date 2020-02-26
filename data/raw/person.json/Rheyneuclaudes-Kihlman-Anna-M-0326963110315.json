@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "99a3832e-8f71-4543-b7e6-878c98c98a6d",
+    "sourceid": "4c2f2808-c63d-4968-8011-0f23149ea2be",
+    "intressent_id": "0326963110315",
+    "hangar_id": "2343418",
+    "fodd_ar": "1969",
+    "kon": "kvinna",
+    "efternamn": "Rheyneuclaudes Kihlman",
+    "tilltalsnamn": "Anna",
+    "sorteringsnamn": "Rheyneuclaudes Kihlman,Anna",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/4c2f2808-c63d-4968-8011-0f23149ea2be",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4c2f2808-c63d-4968-8011-0f23149ea2be_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4c2f2808-c63d-4968-8011-0f23149ea2be_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4c2f2808-c63d-4968-8011-0f23149ea2be_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "249",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2013-11-01",
+          "tom": "2014-02-28",
+          "uppgift": "Eliza Roszkowska Öberg",
+          "intressent_id": "0326963110315",
+          "hangar_id": "2343418",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "249",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2013-03-01",
+          "tom": "2013-05-31",
+          "uppgift": "Eliza Roszkowska Öberg",
+          "intressent_id": "0326963110315",
+          "hangar_id": "2343418",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2013-11-01",
+          "tom": "2014-02-28",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0326963110315",
+          "hangar_id": "2343418",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2013-03-08",
+          "tom": "2013-05-31",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0326963110315",
+          "hangar_id": "2343418",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "anna.kihlman[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0326963110315",
+          "hangar_id": "2343418"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "64598",
+          "typ": "telefonnummer",
+          "intressent_id": "0326963110315",
+          "hangar_id": "2343418"
+        }
+      ]
+    }
+  }
+}

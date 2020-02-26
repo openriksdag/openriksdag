@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "413a5ad5-b920-4d77-b446-bd76e39c6171",
+    "sourceid": "58e9e7f6-9312-4608-b8fd-14f5ab86089a",
+    "intressent_id": "0282360034405",
+    "hangar_id": "2341945",
+    "fodd_ar": "1937",
+    "kon": "man",
+    "efternamn": "Alsén",
+    "tilltalsnamn": "Lennart",
+    "sorteringsnamn": "Alsén,Lennart",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/58e9e7f6-9312-4608-b8fd-14f5ab86089a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/58e9e7f6-9312-4608-b8fd-14f5ab86089a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/58e9e7f6-9312-4608-b8fd-14f5ab86089a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/58e9e7f6-9312-4608-b8fd-14f5ab86089a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Riksdagsledamot",
+        "ordningsnummer": "0",
+        "status": "Tjänstgörande",
+        "typ": "kammaruppdrag",
+        "from": "1985-09-30",
+        "tom": "1988-10-03",
+        "uppgift": "",
+        "intressent_id": "0282360034405",
+        "hangar_id": "2341945",
+        "sortering": "10",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "10"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "studierektor",
+          "typ": "titlar",
+          "intressent_id": "0282360034405",
+          "hangar_id": "2341945"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0282360034405",
+          "hangar_id": "2341945"
+        }
+      ]
+    }
+  }
+}

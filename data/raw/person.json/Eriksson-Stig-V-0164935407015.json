@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "8564574d-180b-4eb5-bd9b-a1560f8d1025",
+    "sourceid": "d7c32907-83e4-11d4-ae60-0050040c9b55",
+    "intressent_id": "0164935407015",
+    "hangar_id": "2342590",
+    "fodd_ar": "1949",
+    "kon": "man",
+    "efternamn": "Eriksson",
+    "tilltalsnamn": "Stig",
+    "sorteringsnamn": "Eriksson,Stig",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "Norrbottens län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/d7c32907-83e4-11d4-ae60-0050040c9b55",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c32907-83e4-11d4-ae60-0050040c9b55_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c32907-83e4-11d4-ae60-0050040c9b55_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c32907-83e4-11d4-ae60-0050040c9b55_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "348",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1998-10-05",
+          "tom": "2002-09-30",
+          "uppgift": "",
+          "intressent_id": "0164935407015",
+          "hangar_id": "2342590",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "2002-09-30",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0164935407015",
+          "hangar_id": "2342590",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "gruvarbetare",
+          "typ": "titlar",
+          "intressent_id": "0164935407015",
+          "hangar_id": "2342590"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Miner",
+          "typ": "titlar",
+          "intressent_id": "0164935407015",
+          "hangar_id": "2342590"
+        }
+      ]
+    }
+  }
+}

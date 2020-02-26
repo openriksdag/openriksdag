@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "577057aa-24de-4ab1-bd25-d02112504318",
+    "sourceid": "08f98caf-c4c2-4961-ae2a-75f0c378ea14",
+    "intressent_id": "0575287564902",
+    "hangar_id": "2341785",
+    "fodd_ar": "1931",
+    "kon": "kvinna",
+    "efternamn": "Hestvik",
+    "tilltalsnamn": "Inger",
+    "sorteringsnamn": "Hestvik,Inger",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/08f98caf-c4c2-4961-ae2a-75f0c378ea14",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/08f98caf-c4c2-4961-ae2a-75f0c378ea14_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/08f98caf-c4c2-4961-ae2a-75f0c378ea14_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/08f98caf-c4c2-4961-ae2a-75f0c378ea14_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "291",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0575287564902",
+          "hangar_id": "2341785",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "294",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0575287564902",
+          "hangar_id": "2341785",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0575287564902",
+          "hangar_id": "2341785",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0575287564902",
+          "hangar_id": "2341785",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "VB",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "Valberedningen",
+          "intressent_id": "0575287564902",
+          "hangar_id": "2341785",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-01-26",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0575287564902",
+          "hangar_id": "2341785",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0575287564902",
+          "hangar_id": "2341785",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0575287564902",
+          "hangar_id": "2341785"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "rektor",
+          "typ": "titlar",
+          "intressent_id": "0575287564902",
+          "hangar_id": "2341785"
+        }
+      ]
+    }
+  }
+}

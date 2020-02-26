@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "0ef3661b-c64e-4180-8c64-f8b2362c923e",
+    "sourceid": "0091f1db-4d1d-11d6-ae8d-0040ca16a6a7",
+    "intressent_id": "0249314098519",
+    "hangar_id": "2343524",
+    "fodd_ar": "1972",
+    "kon": "kvinna",
+    "efternamn": "Lindén",
+    "tilltalsnamn": "Boel",
+    "sorteringsnamn": "Lindén,Boel",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/0091f1db-4d1d-11d6-ae8d-0040ca16a6a7",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0091f1db-4d1d-11d6-ae8d-0040ca16a6a7_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0091f1db-4d1d-11d6-ae8d-0040ca16a6a7_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0091f1db-4d1d-11d6-ae8d-0040ca16a6a7_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Riksdagsledamot",
+        "ordningsnummer": "332",
+        "status": "Tjänstgörande",
+        "typ": "kammaruppdrag",
+        "from": "2002-02-01",
+        "tom": "2002-09-30",
+        "uppgift": "",
+        "intressent_id": "0249314098519",
+        "hangar_id": "2343524",
+        "sortering": "10",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "10"
+      }
+    },
+    "personuppgift": ""
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "69ea0160-6085-4f88-b670-2ac72e4959df",
+    "sourceid": "6cde013a-f74e-11d4-bfef-0040ca16072a",
+    "intressent_id": "0648161048508",
+    "hangar_id": "2342082",
+    "fodd_ar": "1940",
+    "kon": "kvinna",
+    "efternamn": "Nachmanson",
+    "tilltalsnamn": "Margareta",
+    "sorteringsnamn": "Nachmanson,Margareta",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/6cde013a-f74e-11d4-bfef-0040ca16072a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6cde013a-f74e-11d4-bfef-0040ca16072a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6cde013a-f74e-11d4-bfef-0040ca16072a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6cde013a-f74e-11d4-bfef-0040ca16072a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "35",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2001-10-17",
+          "tom": "2002-09-30",
+          "uppgift": "",
+          "intressent_id": "0648161048508",
+          "hangar_id": "2342082",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "35",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2001-01-31",
+          "tom": "2001-10-16",
+          "uppgift": "Jerry Martinger",
+          "intressent_id": "0648161048508",
+          "hangar_id": "2342082",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2001-10-19",
+          "tom": "2002-09-29",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0648161048508",
+          "hangar_id": "2342082",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2001-02-02",
+          "tom": "2001-03-25",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0648161048508",
+          "hangar_id": "2342082",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KUU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2001-10-16",
+          "tom": "2001-12-06",
+          "uppgift": "Sammansatta konstitutions- och utrikesutskottet",
+          "intressent_id": "0648161048508",
+          "hangar_id": "2342082",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "kommunalråd",
+          "typ": "titlar",
+          "intressent_id": "0648161048508",
+          "hangar_id": "2342082"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0648161048508",
+          "hangar_id": "2342082"
+        }
+      ]
+    }
+  }
+}

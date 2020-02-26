@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "59730b5e-fc28-4297-99f8-30b18ae80045",
+    "sourceid": "8cf6cb96-dea9-4e0f-ac05-8e6e76899074",
+    "intressent_id": "0133149500010",
+    "hangar_id": "2343122",
+    "fodd_ar": "1960",
+    "kon": "man",
+    "efternamn": "Lind",
+    "tilltalsnamn": "Björn",
+    "sorteringsnamn": "Lind,Björn",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Hallands län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/8cf6cb96-dea9-4e0f-ac05-8e6e76899074",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8cf6cb96-dea9-4e0f-ac05-8e6e76899074_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8cf6cb96-dea9-4e0f-ac05-8e6e76899074_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8cf6cb96-dea9-4e0f-ac05-8e6e76899074_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "189",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2009-08-07",
+          "tom": "2010-02-15",
+          "uppgift": "Magdalena Streijffert",
+          "intressent_id": "0133149500010",
+          "hangar_id": "2343122",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "27",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2009-08-07",
+          "tom": "2010-02-15",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0133149500010",
+          "hangar_id": "2343122",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "23",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2009-08-07",
+          "tom": "2010-02-15",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0133149500010",
+          "hangar_id": "2343122",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Bildningskonsulent",
+          "typ": "titlar",
+          "intressent_id": "0133149500010",
+          "hangar_id": "2343122"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0133149500010",
+          "hangar_id": "2343122"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "person": {
+    "hangar_guid": "11b71445-0c2a-420c-b444-77b84a175f06",
+    "sourceid": "2774ffff-fec1-459c-b172-974af448f147",
+    "intressent_id": "0389220391128",
+    "hangar_id": "5003677",
+    "fodd_ar": "1987",
+    "kon": "man",
+    "efternamn": "Carlsson",
+    "tilltalsnamn": "Christian",
+    "sorteringsnamn": "Carlsson,Christian",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Stockholms kommun",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/2774ffff-fec1-459c-b172-974af448f147",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2774ffff-fec1-459c-b172-974af448f147_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2774ffff-fec1-459c-b172-974af448f147_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2774ffff-fec1-459c-b172-974af448f147_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "111",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2018-12-31",
+          "uppgift": "",
+          "intressent_id": "0389220391128",
+          "hangar_id": "5003677",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2018-12-31",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0389220391128",
+          "hangar_id": "5003677",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2018-12-31",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0389220391128",
+          "hangar_id": "5003677",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2018-12-31",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0389220391128",
+          "hangar_id": "5003677",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2018-12-31",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0389220391128",
+          "hangar_id": "5003677",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "52",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-09",
+          "tom": "2018-12-31",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0389220391128",
+          "hangar_id": "5003677",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "christian.carlsson[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0389220391128",
+          "hangar_id": "5003677"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "65686",
+          "typ": "telefonnummer",
+          "intressent_id": "0389220391128",
+          "hangar_id": "5003677"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Jurist.",
+          "typ": "titlar",
+          "intressent_id": "0389220391128",
+          "hangar_id": "5003677"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0389220391128",
+          "hangar_id": "5003677"
+        }
+      ]
+    }
+  }
+}

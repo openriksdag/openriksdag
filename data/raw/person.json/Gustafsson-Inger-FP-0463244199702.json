@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "2a06d41a-f2a8-400f-890f-fc0b01436306",
+    "sourceid": "21ed44df-f728-46b4-b894-ae1a72c06d39",
+    "intressent_id": "0463244199702",
+    "hangar_id": "2342541",
+    "fodd_ar": "1948",
+    "kon": "kvinna",
+    "efternamn": "Gustafsson",
+    "tilltalsnamn": "Inger",
+    "sorteringsnamn": "Gustafsson,Inger",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "Jönköpings län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/21ed44df-f728-46b4-b894-ae1a72c06d39",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/21ed44df-f728-46b4-b894-ae1a72c06d39_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/21ed44df-f728-46b4-b894-ae1a72c06d39_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/21ed44df-f728-46b4-b894-ae1a72c06d39_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2005-12-01",
+          "tom": "2006-02-28",
+          "uppgift": "",
+          "intressent_id": "0463244199702",
+          "hangar_id": "2342541",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2005-12-01",
+          "tom": "2006-02-28",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0463244199702",
+          "hangar_id": "2342541",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "utbildn.samordnare",
+          "typ": "titlar",
+          "intressent_id": "0463244199702",
+          "hangar_id": "2342541"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0463244199702",
+          "hangar_id": "2342541"
+        }
+      ]
+    }
+  }
+}

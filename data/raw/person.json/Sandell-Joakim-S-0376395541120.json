@@ -1,0 +1,114 @@
+{
+  "person": {
+    "hangar_guid": "1306a278-043f-4064-81df-d90b10755573",
+    "sourceid": "4a486ea1-d97c-4393-9ada-2639140cfd46",
+    "intressent_id": "0376395541120",
+    "hangar_id": "5003834",
+    "fodd_ar": "1975",
+    "kon": "man",
+    "efternamn": "Sandell",
+    "tilltalsnamn": "Joakim",
+    "sorteringsnamn": "Sandell,Joakim",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Malmö kommun",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/4a486ea1-d97c-4393-9ada-2639140cfd46",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4a486ea1-d97c-4393-9ada-2639140cfd46_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4a486ea1-d97c-4393-9ada-2639140cfd46_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4a486ea1-d97c-4393-9ada-2639140cfd46_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "220",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0376395541120",
+          "hangar_id": "5003834",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "OSSE",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-10-09",
+          "tom": "2022-10-09",
+          "uppgift": "OSSE-delegationen",
+          "intressent_id": "0376395541120",
+          "hangar_id": "5003834",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "11",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0376395541120",
+          "hangar_id": "5003834",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "11",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-02-15",
+          "tom": "2022-09-26",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0376395541120",
+          "hangar_id": "5003834",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-02-14",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0376395541120",
+          "hangar_id": "5003834",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "joakim.sandell[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0376395541120",
+        "hangar_id": "5003834"
+      }
+    }
+  }
+}

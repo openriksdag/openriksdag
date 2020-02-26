@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "fbc758fb-0d8f-4e95-a163-405d496a8499",
+    "sourceid": "ac03c24a-8342-4e95-8351-ae2ab5142dff",
+    "intressent_id": "0596987397601",
+    "hangar_id": "2341780",
+    "fodd_ar": "1931",
+    "kon": "man",
+    "efternamn": "Sundqvist",
+    "tilltalsnamn": "Åke",
+    "sorteringsnamn": "Sundqvist,Åke",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/ac03c24a-8342-4e95-8351-ae2ab5142dff",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ac03c24a-8342-4e95-8351-ae2ab5142dff_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ac03c24a-8342-4e95-8351-ae2ab5142dff_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ac03c24a-8342-4e95-8351-ae2ab5142dff_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "312",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1995-12-19",
+          "tom": "1998-10-05",
+          "uppgift": "",
+          "intressent_id": "0596987397601",
+          "hangar_id": "2341780",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1996-02-07",
+          "tom": "1998-10-04",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0596987397601",
+          "hangar_id": "2341780",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1996-02-07",
+          "tom": "1998-10-04",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0596987397601",
+          "hangar_id": "2341780",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "f d åkerichef",
+          "typ": "titlar",
+          "intressent_id": "0596987397601",
+          "hangar_id": "2341780"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0596987397601",
+          "hangar_id": "2341780"
+        }
+      ]
+    }
+  }
+}

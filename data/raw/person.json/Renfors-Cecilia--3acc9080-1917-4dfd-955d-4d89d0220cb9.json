@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "f15cb1e2-d37f-4377-8b90-b51dfe27fd88",
+    "sourceid": "3acc9080-1917-4dfd-955d-4d89d0220cb9",
+    "intressent_id": "",
+    "hangar_id": "4788843",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Renfors",
+    "tilltalsnamn": "Cecilia",
+    "sorteringsnamn": "Renfors,Cecilia",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare justitieombudsman i Riksdagens ombudsmän",
+    "person_url_xml": "http://data.riksdagen.se/person/3acc9080-1917-4dfd-955d-4d89d0220cb9",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3acc9080-1917-4dfd-955d-4d89d0220cb9_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3acc9080-1917-4dfd-955d-4d89d0220cb9_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3acc9080-1917-4dfd-955d-4d89d0220cb9_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "JO",
+          "roll_kod": "Justitieombudsman",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2017-09-01",
+          "tom": "2019-08-04",
+          "uppgift": "Riksdagens ombudsmän",
+          "intressent_id": "",
+          "hangar_id": "4788843",
+          "sortering": "",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JO",
+          "roll_kod": "Justitieombudsman",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2013-09-01",
+          "tom": "2017-08-31",
+          "uppgift": "Riksdagens ombudsmän",
+          "intressent_id": "",
+          "hangar_id": "4788843",
+          "sortering": "",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "person": {
+    "hangar_guid": "bbad023f-dfa2-4ffa-abb5-26bbd1d00887",
+    "sourceid": "26b9592e-40f3-4899-804c-f2d2c974b7db",
+    "intressent_id": "0568055205114",
+    "hangar_id": "2342569",
+    "fodd_ar": "1949",
+    "kon": "man",
+    "efternamn": "Nilsson",
+    "tilltalsnamn": "Gustav",
+    "sorteringsnamn": "Nilsson,Gustav",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Blekinge län",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/26b9592e-40f3-4899-804c-f2d2c974b7db",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/26b9592e-40f3-4899-804c-f2d2c974b7db_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/26b9592e-40f3-4899-804c-f2d2c974b7db_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/26b9592e-40f3-4899-804c-f2d2c974b7db_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "61",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-04",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0568055205114",
+          "hangar_id": "2342569",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "12",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2009-08-16",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0568055205114",
+          "hangar_id": "2342569",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0568055205114",
+          "hangar_id": "2342569",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-11-08",
+          "tom": "2014-09-29",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0568055205114",
+          "hangar_id": "2342569",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2012-11-07",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0568055205114",
+          "hangar_id": "2342569",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2009-10-16",
+          "tom": "2010-10-04",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0568055205114",
+          "hangar_id": "2342569",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2009-10-16",
+          "tom": "2010-10-04",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0568055205114",
+          "hangar_id": "2342569",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "gustav.nilsson[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0568055205114",
+          "hangar_id": "2342569"
+        },
+        {
+          "kod": "Övriga webbsidor",
+          "uppgift": "http://twitter.com/gustavnilsson2",
+          "typ": "eadress",
+          "intressent_id": "0568055205114",
+          "hangar_id": "2342569"
+        },
+        {
+          "kod": "Övriga webbsidor",
+          "uppgift": "http://facebook.com/gustav.nilsson.3576",
+          "typ": "eadress",
+          "intressent_id": "0568055205114",
+          "hangar_id": "2342569"
+        },
+        {
+          "kod": "Webbsida",
+          "uppgift": "http://gustavn.blogspot.se/",
+          "typ": "eadress",
+          "intressent_id": "0568055205114",
+          "hangar_id": "2342569"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "65267",
+          "typ": "telefonnummer",
+          "intressent_id": "0568055205114",
+          "hangar_id": "2342569"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Landstingsråd/Skogsinspektor",
+          "typ": "titlar",
+          "intressent_id": "0568055205114",
+          "hangar_id": "2342569"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0568055205114",
+          "hangar_id": "2342569"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0568055205114",
+          "hangar_id": "2342569"
+        }
+      ]
+    }
+  }
+}

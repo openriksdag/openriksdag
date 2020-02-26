@@ -1,0 +1,82 @@
+{
+  "person": {
+    "hangar_guid": "757cdd58-cb87-4075-9f33-71d354326b6c",
+    "sourceid": "c6c97e41-0a71-47b3-83f9-e7ed8be32292",
+    "intressent_id": "0119766779312",
+    "hangar_id": "2369581",
+    "fodd_ar": "1953",
+    "kon": "kvinna",
+    "efternamn": "Andersson",
+    "tilltalsnamn": "Helén",
+    "sorteringsnamn": "Andersson,Helén",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Hallands län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/c6c97e41-0a71-47b3-83f9-e7ed8be32292",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c6c97e41-0a71-47b3-83f9-e7ed8be32292_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c6c97e41-0a71-47b3-83f9-e7ed8be32292_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c6c97e41-0a71-47b3-83f9-e7ed8be32292_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "157",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2014-03-10",
+          "tom": "2014-04-17",
+          "uppgift": "Ola Johansson",
+          "intressent_id": "0119766779312",
+          "hangar_id": "2369581",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-03-10",
+          "tom": "2014-04-17",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0119766779312",
+          "hangar_id": "2369581",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-03-10",
+          "tom": "2014-04-17",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0119766779312",
+          "hangar_id": "2369581",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "helen.andersson[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0119766779312",
+        "hangar_id": "2369581"
+      }
+    }
+  }
+}

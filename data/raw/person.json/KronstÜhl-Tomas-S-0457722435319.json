@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "978b1334-fb77-4305-96db-88d0e097c2ea",
+    "sourceid": "173d7387-fa63-4689-ac8c-e12f278487bd",
+    "intressent_id": "0457722435319",
+    "hangar_id": "5003805",
+    "fodd_ar": "1967",
+    "kon": "man",
+    "efternamn": "Kronståhl",
+    "tilltalsnamn": "Tomas",
+    "sorteringsnamn": "Kronståhl,Tomas",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Kalmar län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/173d7387-fa63-4689-ac8c-e12f278487bd",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/173d7387-fa63-4689-ac8c-e12f278487bd_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/173d7387-fa63-4689-ac8c-e12f278487bd_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/173d7387-fa63-4689-ac8c-e12f278487bd_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "61",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0457722435319",
+          "hangar_id": "5003805",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0457722435319",
+          "hangar_id": "5003805",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0457722435319",
+          "hangar_id": "5003805",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "tomas.kronstahl[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0457722435319",
+          "hangar_id": "5003805"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Målare/Företagare.",
+          "typ": "titlar",
+          "intressent_id": "0457722435319",
+          "hangar_id": "5003805"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0457722435319",
+          "hangar_id": "5003805"
+        }
+      ]
+    }
+  }
+}

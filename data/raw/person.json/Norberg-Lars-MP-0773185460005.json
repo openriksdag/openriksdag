@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "27aa5016-ca86-4571-92b7-2670f7558208",
+    "sourceid": "d1ea0785-1804-4fea-953c-abfe96f7b140",
+    "intressent_id": "0773185460005",
+    "hangar_id": "2341679",
+    "fodd_ar": "1924",
+    "kon": "man",
+    "efternamn": "Norberg",
+    "tilltalsnamn": "Lars",
+    "sorteringsnamn": "Norberg,Lars",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/d1ea0785-1804-4fea-953c-abfe96f7b140",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d1ea0785-1804-4fea-953c-abfe96f7b140_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d1ea0785-1804-4fea-953c-abfe96f7b140_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d1ea0785-1804-4fea-953c-abfe96f7b140_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "99",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-04",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0773185460005",
+          "hangar_id": "2341679",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-10-09",
+          "tom": "1991-09-29",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0773185460005",
+          "hangar_id": "2341679",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-11-11",
+          "tom": "1989-10-04",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0773185460005",
+          "hangar_id": "2341679",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0773185460005",
+          "hangar_id": "2341679",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-10-04",
+          "tom": "1991-09-29",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0773185460005",
+          "hangar_id": "2341679",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "civilingenjör",
+          "typ": "titlar",
+          "intressent_id": "0773185460005",
+          "hangar_id": "2341679"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0773185460005",
+          "hangar_id": "2341679"
+        }
+      ]
+    }
+  }
+}

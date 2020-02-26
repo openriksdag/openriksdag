@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "d3ba658a-acac-42c2-8d35-27d5983c3030",
+    "sourceid": "f60d1e51-57d5-4ad9-abf3-02e2e6431244",
+    "intressent_id": "0815907568902",
+    "hangar_id": "2341788",
+    "fodd_ar": "1931",
+    "kon": "kvinna",
+    "efternamn": "Laurén",
+    "tilltalsnamn": "Reidunn",
+    "sorteringsnamn": "Laurén,Reidunn",
+    "iort": "",
+    "parti": "-",
+    "valkrets": "",
+    "status": "Tidigare statsråd",
+    "person_url_xml": "http://data.riksdagen.se/person/f60d1e51-57d5-4ad9-abf3-02e2e6431244",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f60d1e51-57d5-4ad9-abf3-02e2e6431244_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f60d1e51-57d5-4ad9-abf3-02e2e6431244_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f60d1e51-57d5-4ad9-abf3-02e2e6431244_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "Ju",
+        "roll_kod": "Statsråd",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "Departement",
+        "from": "1991-10-04",
+        "tom": "1994-10-07",
+        "uppgift": "Justitiedepartementet",
+        "intressent_id": "0815907568902",
+        "hangar_id": "2341788",
+        "sortering": "100",
+        "organ_sortering": "",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "regeringsråd",
+          "typ": "titlar",
+          "intressent_id": "0815907568902",
+          "hangar_id": "2341788"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0815907568902",
+          "hangar_id": "2341788"
+        }
+      ]
+    }
+  }
+}

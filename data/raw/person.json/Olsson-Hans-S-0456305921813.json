@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "11c3218f-1cad-4645-894d-8ea2c720ef89",
+    "sourceid": "be6420ea-a3af-4740-9580-05edf61f992c",
+    "intressent_id": "0456305921813",
+    "hangar_id": "2342675",
+    "fodd_ar": "1951",
+    "kon": "man",
+    "efternamn": "Olsson",
+    "tilltalsnamn": "Hans",
+    "sorteringsnamn": "Olsson,Hans",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Västra Götalands läns södra",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/be6420ea-a3af-4740-9580-05edf61f992c",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/be6420ea-a3af-4740-9580-05edf61f992c_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/be6420ea-a3af-4740-9580-05edf61f992c_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/be6420ea-a3af-4740-9580-05edf61f992c_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "303",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-04",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0456305921813",
+          "hangar_id": "2342675",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "302",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0456305921813",
+          "hangar_id": "2342675",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "NR",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "18",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2006-10-17",
+          "tom": "2010-10-04",
+          "uppgift": "Nordiska rådets svenska delegation",
+          "intressent_id": "0456305921813",
+          "hangar_id": "2342675",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "8",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0456305921813",
+          "hangar_id": "2342675",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0456305921813",
+          "hangar_id": "2342675",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Ombudsman",
+          "typ": "titlar",
+          "intressent_id": "0456305921813",
+          "hangar_id": "2342675"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0456305921813",
+          "hangar_id": "2342675"
+        }
+      ]
+    }
+  }
+}

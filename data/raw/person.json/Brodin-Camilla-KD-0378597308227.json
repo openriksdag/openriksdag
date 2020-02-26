@@ -1,0 +1,162 @@
+{
+  "person": {
+    "hangar_guid": "ec59913f-68e4-452f-9073-e36c41d70781",
+    "sourceid": "86c365a5-452c-4bca-8871-45bf67a44645",
+    "intressent_id": "0378597308227",
+    "hangar_id": "5003697",
+    "fodd_ar": "1979",
+    "kon": "kvinna",
+    "efternamn": "Brodin",
+    "tilltalsnamn": "Camilla",
+    "sorteringsnamn": "Brodin,Camilla",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Stockholms län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/86c365a5-452c-4bca-8871-45bf67a44645",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/86c365a5-452c-4bca-8871-45bf67a44645_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/86c365a5-452c-4bca-8871-45bf67a44645_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/86c365a5-452c-4bca-8871-45bf67a44645_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "284",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0378597308227",
+          "hangar_id": "5003697",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KD",
+          "roll_kod": "Kvittningsman",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "partiuppdrag",
+          "from": "2018-09-24",
+          "tom": "",
+          "uppgift": "Kristdemokraterna",
+          "intressent_id": "0378597308227",
+          "hangar_id": "5003697",
+          "sortering": "",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KD",
+          "roll_kod": "Vice gruppledare",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "partiuppdrag",
+          "from": "2018-10-09",
+          "tom": "",
+          "uppgift": "Kristdemokraterna",
+          "intressent_id": "0378597308227",
+          "hangar_id": "5003697",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "LR",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-10-10",
+          "tom": "2022-10-10",
+          "uppgift": "Ledamotsrådet",
+          "intressent_id": "0378597308227",
+          "hangar_id": "5003697",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "26",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-16",
+          "tom": "2022-09-26",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0378597308227",
+          "hangar_id": "5003697",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0378597308227",
+          "hangar_id": "5003697",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "94",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-09-26",
+          "tom": "2022-09-26",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0378597308227",
+          "hangar_id": "5003697",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "camilla.brodin[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0378597308227",
+          "hangar_id": "5003697"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Chefssekreterare.",
+          "typ": "titlar",
+          "intressent_id": "0378597308227",
+          "hangar_id": "5003697"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0378597308227",
+          "hangar_id": "5003697"
+        }
+      ]
+    }
+  }
+}

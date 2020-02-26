@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "e8709365-2e24-4157-ab81-dc29941446a0",
+    "sourceid": "c864bbd7-02c5-4d33-b3e8-a20c2e169c1e",
+    "intressent_id": "0114769874810",
+    "hangar_id": "2343123",
+    "fodd_ar": "1960",
+    "kon": "man",
+    "efternamn": "Persson",
+    "tilltalsnamn": "Sven Yngve",
+    "sorteringsnamn": "Persson,Sven Yngve",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Skåne läns västra",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/c864bbd7-02c5-4d33-b3e8-a20c2e169c1e",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c864bbd7-02c5-4d33-b3e8-a20c2e169c1e_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c864bbd7-02c5-4d33-b3e8-a20c2e169c1e_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c864bbd7-02c5-4d33-b3e8-a20c2e169c1e_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "292",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-11-10",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0114769874810",
+          "hangar_id": "2343123",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "185",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-06",
+          "tom": "2006-11-09",
+          "uppgift": "Cristina Husmark Pehrsson",
+          "intressent_id": "0114769874810",
+          "hangar_id": "2343123",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0114769874810",
+          "hangar_id": "2343123",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0114769874810",
+          "hangar_id": "2343123",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Lantbrukare",
+          "typ": "titlar",
+          "intressent_id": "0114769874810",
+          "hangar_id": "2343123"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0114769874810",
+          "hangar_id": "2343123"
+        }
+      ]
+    }
+  }
+}

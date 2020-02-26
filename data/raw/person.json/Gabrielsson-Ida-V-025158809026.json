@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "95938366-4f26-42e0-93fc-d34a3f705f64",
+    "sourceid": "964e3aff-b4df-4f49-acc1-3bba2afc2f80",
+    "intressent_id": "025158809026",
+    "hangar_id": "2369433",
+    "fodd_ar": "1981",
+    "kon": "kvinna",
+    "efternamn": "Gabrielsson",
+    "tilltalsnamn": "Ida",
+    "sorteringsnamn": "Gabrielsson,Ida",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "Stockholms län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/964e3aff-b4df-4f49-acc1-3bba2afc2f80",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/964e3aff-b4df-4f49-acc1-3bba2afc2f80_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/964e3aff-b4df-4f49-acc1-3bba2afc2f80_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/964e3aff-b4df-4f49-acc1-3bba2afc2f80_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "318",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "025158809026",
+          "hangar_id": "2369433",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "RRR",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2019-04-01",
+          "tom": "2022-10-31",
+          "uppgift": "Riksdagens råd för Riksrevisionen",
+          "intressent_id": "025158809026",
+          "hangar_id": "2369433",
+          "sortering": "50",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "8",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "025158809026",
+          "hangar_id": "2369433",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "31",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-06-19",
+          "tom": "2022-09-26",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "025158809026",
+          "hangar_id": "2369433",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "23",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-16",
+          "tom": "2022-09-26",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "025158809026",
+          "hangar_id": "2369433",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "81",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-03-13",
+          "tom": "2022-09-26",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "025158809026",
+          "hangar_id": "2369433",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "ida.gabrielsson[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "025158809026",
+          "hangar_id": "2369433"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "025158809026",
+          "hangar_id": "2369433"
+        }
+      ]
+    }
+  }
+}

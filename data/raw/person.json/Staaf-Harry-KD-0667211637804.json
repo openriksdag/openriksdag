@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "e3fcc307-04b2-4d23-9433-4d83cb492d66",
+    "sourceid": "46639f8b-cc1f-4c5a-9bb9-b401fb763351",
+    "intressent_id": "0667211637804",
+    "hangar_id": "2342034",
+    "fodd_ar": "1939",
+    "kon": "man",
+    "efternamn": "Staaf",
+    "tilltalsnamn": "Harry",
+    "sorteringsnamn": "Staaf,Harry",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/46639f8b-cc1f-4c5a-9bb9-b401fb763351",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/46639f8b-cc1f-4c5a-9bb9-b401fb763351_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/46639f8b-cc1f-4c5a-9bb9-b401fb763351_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/46639f8b-cc1f-4c5a-9bb9-b401fb763351_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "192",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0667211637804",
+          "hangar_id": "2342034",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0667211637804",
+          "hangar_id": "2342034",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "0667211637804",
+          "hangar_id": "2342034",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "ingenjör",
+          "typ": "titlar",
+          "intressent_id": "0667211637804",
+          "hangar_id": "2342034"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0667211637804",
+          "hangar_id": "2342034"
+        }
+      ]
+    }
+  }
+}

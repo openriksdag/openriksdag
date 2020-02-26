@@ -1,0 +1,185 @@
+{
+  "person": {
+    "hangar_guid": "387364da-f052-44a5-8d2f-463c6e252e6b",
+    "sourceid": "698a36fb-19f3-48cf-bfda-20a17195fbd5",
+    "intressent_id": "019430605328",
+    "hangar_id": "5003691",
+    "fodd_ar": "1987",
+    "kon": "kvinna",
+    "efternamn": "Malmqvist",
+    "tilltalsnamn": "Josefin",
+    "sorteringsnamn": "Malmqvist,Josefin",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/698a36fb-19f3-48cf-bfda-20a17195fbd5",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/698a36fb-19f3-48cf-bfda-20a17195fbd5_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/698a36fb-19f3-48cf-bfda-20a17195fbd5_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/698a36fb-19f3-48cf-bfda-20a17195fbd5_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "320",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "019430605328",
+          "hangar_id": "5003691",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-05-10",
+          "tom": "2022-09-26",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "019430605328",
+          "hangar_id": "5003691",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-02-13",
+          "tom": "2019-05-10",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "019430605328",
+          "hangar_id": "5003691",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-06-17",
+          "tom": "2022-09-26",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "019430605328",
+          "hangar_id": "5003691",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-02-13",
+          "tom": "2019-06-17",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "019430605328",
+          "hangar_id": "5003691",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-02-12",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "019430605328",
+          "hangar_id": "5003691",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-02-13",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "019430605328",
+          "hangar_id": "5003691",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "32",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-05-10",
+          "tom": "2022-10-04",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "019430605328",
+          "hangar_id": "5003691",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "josefin.malmqvist[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "019430605328",
+          "hangar_id": "5003691"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "66631",
+          "typ": "telefonnummer",
+          "intressent_id": "019430605328",
+          "hangar_id": "5003691"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Managementkonsult.",
+          "typ": "titlar",
+          "intressent_id": "019430605328",
+          "hangar_id": "5003691"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "019430605328",
+          "hangar_id": "5003691"
+        }
+      ]
+    }
+  }
+}

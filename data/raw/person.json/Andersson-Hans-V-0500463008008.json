@@ -1,0 +1,171 @@
+{
+  "person": {
+    "hangar_guid": "df6ee023-8cb7-4601-bc51-61813d45edb6",
+    "sourceid": "d7c31f20-83e4-11d4-ae60-0050040c9b55",
+    "intressent_id": "0500463008008",
+    "hangar_id": "2342321",
+    "fodd_ar": "1945",
+    "kon": "man",
+    "efternamn": "Andersson",
+    "tilltalsnamn": "Hans",
+    "sorteringsnamn": "Andersson,Hans",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/d7c31f20-83e4-11d4-ae60-0050040c9b55",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c31f20-83e4-11d4-ae60-0050040c9b55_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c31f20-83e4-11d4-ae60-0050040c9b55_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c31f20-83e4-11d4-ae60-0050040c9b55_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "294",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1998-10-05",
+          "tom": "2002-09-30",
+          "uppgift": "",
+          "intressent_id": "0500463008008",
+          "hangar_id": "2342321",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "294",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1994-10-03",
+          "tom": "1998-10-05",
+          "uppgift": "",
+          "intressent_id": "0500463008008",
+          "hangar_id": "2342321",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "289",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1992-09-01",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0500463008008",
+          "hangar_id": "2342321",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Förste vice ordförande",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-05",
+          "tom": "2002-09-30",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0500463008008",
+          "hangar_id": "2342321",
+          "sortering": "15",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Vice ordförande",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "2002-09-29",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0500463008008",
+          "hangar_id": "2342321",
+          "sortering": "20",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1998-10-04",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0500463008008",
+          "hangar_id": "2342321",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1992-10-13",
+          "tom": "1994-10-02",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0500463008008",
+          "hangar_id": "2342321",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1996-09-24",
+          "tom": "1998-10-04",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0500463008008",
+          "hangar_id": "2342321",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "en",
+          "uppgift": "Metal Worker",
+          "typ": "titlar",
+          "intressent_id": "0500463008008",
+          "hangar_id": "2342321"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "metallarbetare",
+          "typ": "titlar",
+          "intressent_id": "0500463008008",
+          "hangar_id": "2342321"
+        }
+      ]
+    }
+  }
+}

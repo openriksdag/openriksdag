@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "480da75e-f6c7-4968-a761-8955f80de011",
+    "sourceid": "385f6f3a-89cb-4a91-a50d-6f9025183eb8",
+    "intressent_id": "0510486065729",
+    "hangar_id": "2343646",
+    "fodd_ar": "1977",
+    "kon": "kvinna",
+    "efternamn": "Streijffert",
+    "tilltalsnamn": "Magdalena",
+    "sorteringsnamn": "Streijffert,Magdalena",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Hallands län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/385f6f3a-89cb-4a91-a50d-6f9025183eb8",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/385f6f3a-89cb-4a91-a50d-6f9025183eb8_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/385f6f3a-89cb-4a91-a50d-6f9025183eb8_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/385f6f3a-89cb-4a91-a50d-6f9025183eb8_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "189",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2010-02-16",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0510486065729",
+          "hangar_id": "2343646",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "189",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "2009-08-07",
+          "tom": "2010-02-15",
+          "uppgift": "Björn Lind 2009-08-07 - 2010-02-15",
+          "intressent_id": "0510486065729",
+          "hangar_id": "2343646",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "189",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2009-08-06",
+          "uppgift": "",
+          "intressent_id": "0510486065729",
+          "hangar_id": "2343646",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "11",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0510486065729",
+          "hangar_id": "2343646",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-04-26",
+          "tom": "2010-10-04",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0510486065729",
+          "hangar_id": "2343646",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2007-05-21",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0510486065729",
+          "hangar_id": "2343646",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-05-22",
+          "tom": "2010-10-04",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0510486065729",
+          "hangar_id": "2343646",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Studerande",
+          "typ": "titlar",
+          "intressent_id": "0510486065729",
+          "hangar_id": "2343646"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0510486065729",
+          "hangar_id": "2343646"
+        }
+      ]
+    }
+  }
+}

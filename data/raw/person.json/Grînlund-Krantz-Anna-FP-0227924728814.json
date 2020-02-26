@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "76ab4a7e-c5ca-4670-bf8c-e62185fa202b",
+    "sourceid": "8c76a358-c2f4-47c1-8d00-d1051604391d",
+    "intressent_id": "0227924728814",
+    "hangar_id": "2343483",
+    "fodd_ar": "1971",
+    "kon": "kvinna",
+    "efternamn": "Grönlund Krantz",
+    "tilltalsnamn": "Anna",
+    "sorteringsnamn": "Grönlund Krantz,Anna",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "Norrbottens län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/8c76a358-c2f4-47c1-8d00-d1051604391d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8c76a358-c2f4-47c1-8d00-d1051604391d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8c76a358-c2f4-47c1-8d00-d1051604391d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8c76a358-c2f4-47c1-8d00-d1051604391d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "349",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2002-09-30",
+          "tom": "2006-10-02",
+          "uppgift": "",
+          "intressent_id": "0227924728814",
+          "hangar_id": "2343483",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "RS",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2006-01-01",
+          "tom": "2006-10-02",
+          "uppgift": "Riksdagsstyrelsen",
+          "intressent_id": "0227924728814",
+          "hangar_id": "2343483",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RS",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2004-04-22",
+          "tom": "2005-12-31",
+          "uppgift": "Riksdagsstyrelsen",
+          "intressent_id": "0227924728814",
+          "hangar_id": "2343483",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Vice ordförande",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0227924728814",
+          "hangar_id": "2343483",
+          "sortering": "20",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-03-09",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0227924728814",
+          "hangar_id": "2343483",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "nationalekonom",
+          "typ": "titlar",
+          "intressent_id": "0227924728814",
+          "hangar_id": "2343483"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Political Economist",
+          "typ": "titlar",
+          "intressent_id": "0227924728814",
+          "hangar_id": "2343483"
+        }
+      ]
+    }
+  }
+}

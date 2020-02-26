@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "bb2c4d21-9354-492d-86a9-392dce4094dd",
+    "sourceid": "2877a094-05dd-4239-95c8-9f602a47ca41",
+    "intressent_id": "0447461551212",
+    "hangar_id": "2343323",
+    "fodd_ar": "1965",
+    "kon": "man",
+    "efternamn": "Svedberg",
+    "tilltalsnamn": "Per",
+    "sorteringsnamn": "Svedberg,Per",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Gävleborgs län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/2877a094-05dd-4239-95c8-9f602a47ca41",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2877a094-05dd-4239-95c8-9f602a47ca41_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2877a094-05dd-4239-95c8-9f602a47ca41_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2877a094-05dd-4239-95c8-9f602a47ca41_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "136",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-04",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0447461551212",
+          "hangar_id": "2343323",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "201",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0447461551212",
+          "hangar_id": "2343323",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "8",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0447461551212",
+          "hangar_id": "2343323",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0447461551212",
+          "hangar_id": "2343323",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0447461551212",
+          "hangar_id": "2343323",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-01-17",
+          "tom": "2010-10-04",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0447461551212",
+          "hangar_id": "2343323",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuSoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2008-01-29",
+          "tom": "2008-05-07",
+          "uppgift": "Sammansatta justitie- och socialutskottet",
+          "intressent_id": "0447461551212",
+          "hangar_id": "2343323",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Diversearbetare",
+          "typ": "titlar",
+          "intressent_id": "0447461551212",
+          "hangar_id": "2343323"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0447461551212",
+          "hangar_id": "2343323"
+        }
+      ]
+    }
+  }
+}

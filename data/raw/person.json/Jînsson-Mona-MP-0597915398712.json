@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "f761d181-bbb4-414c-b0dd-26f4af35ba01",
+    "sourceid": "a76d2337-f7bb-4f52-a213-69acdda14fed",
+    "intressent_id": "0597915398712",
+    "hangar_id": "2342665",
+    "fodd_ar": "1951",
+    "kon": "kvinna",
+    "efternamn": "Jönsson",
+    "tilltalsnamn": "Mona",
+    "sorteringsnamn": "Jönsson,Mona",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "Västra Götalands läns västra",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/a76d2337-f7bb-4f52-a213-69acdda14fed",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a76d2337-f7bb-4f52-a213-69acdda14fed_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a76d2337-f7bb-4f52-a213-69acdda14fed_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a76d2337-f7bb-4f52-a213-69acdda14fed_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "228",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2002-09-30",
+          "tom": "2006-10-02",
+          "uppgift": "",
+          "intressent_id": "0597915398712",
+          "hangar_id": "2342665",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-15",
+          "tom": "2006-10-02",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0597915398712",
+          "hangar_id": "2342665",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0597915398712",
+          "hangar_id": "2342665",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "0597915398712",
+          "hangar_id": "2342665",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "läkarsekreterare",
+          "typ": "titlar",
+          "intressent_id": "0597915398712",
+          "hangar_id": "2342665"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Medical Secretary",
+          "typ": "titlar",
+          "intressent_id": "0597915398712",
+          "hangar_id": "2342665"
+        }
+      ]
+    }
+  }
+}

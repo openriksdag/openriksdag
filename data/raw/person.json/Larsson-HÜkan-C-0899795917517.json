@@ -1,0 +1,130 @@
+{
+  "person": {
+    "hangar_guid": "16ee47fb-43b2-4145-a651-55089800983f",
+    "sourceid": "3e953823-870a-46dc-be57-e5ae765f6831",
+    "intressent_id": "0899795917517",
+    "hangar_id": "2342605",
+    "fodd_ar": "1950",
+    "kon": "man",
+    "efternamn": "Larsson",
+    "tilltalsnamn": "Håkan",
+    "sorteringsnamn": "Larsson,Håkan",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Jämtlands län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/3e953823-870a-46dc-be57-e5ae765f6831",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3e953823-870a-46dc-be57-e5ae765f6831_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3e953823-870a-46dc-be57-e5ae765f6831_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3e953823-870a-46dc-be57-e5ae765f6831_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "327",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2002-09-30",
+          "tom": "2006-10-02",
+          "uppgift": "",
+          "intressent_id": "0899795917517",
+          "hangar_id": "2342605",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "RB",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "11",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2010-10-19",
+          "tom": "2014-10-14",
+          "uppgift": "Riksbanksfullmäktige",
+          "intressent_id": "0899795917517",
+          "hangar_id": "2342605",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RB",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "8",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2006-10-17",
+          "tom": "2010-10-19",
+          "uppgift": "Riksbanksfullmäktige",
+          "intressent_id": "0899795917517",
+          "hangar_id": "2342605",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0899795917517",
+          "hangar_id": "2342605",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0899795917517",
+          "hangar_id": "2342605",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "journalist",
+          "typ": "titlar",
+          "intressent_id": "0899795917517",
+          "hangar_id": "2342605"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Journalist",
+          "typ": "titlar",
+          "intressent_id": "0899795917517",
+          "hangar_id": "2342605"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0899795917517",
+          "hangar_id": "2342605"
+        }
+      ]
+    }
+  }
+}

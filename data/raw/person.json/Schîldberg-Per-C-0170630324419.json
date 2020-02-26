@@ -1,0 +1,105 @@
+{
+  "person": {
+    "hangar_guid": "f6e6760e-f4e9-4615-b25f-48593a51d1a2",
+    "sourceid": "679f593a-0cce-4fbc-a5e4-0d803b93ac20",
+    "intressent_id": "0170630324419",
+    "hangar_id": "2369515",
+    "fodd_ar": "1962",
+    "kon": "man",
+    "efternamn": "Schöldberg",
+    "tilltalsnamn": "Per",
+    "sorteringsnamn": "Schöldberg,Per",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Kronobergs län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/679f593a-0cce-4fbc-a5e4-0d803b93ac20",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/679f593a-0cce-4fbc-a5e4-0d803b93ac20_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/679f593a-0cce-4fbc-a5e4-0d803b93ac20_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/679f593a-0cce-4fbc-a5e4-0d803b93ac20_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "90",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2019-03-12",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0170630324419",
+          "hangar_id": "2369515",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "23",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-03-14",
+          "tom": "2022-09-26",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0170630324419",
+          "hangar_id": "2369515",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-03-14",
+          "tom": "2022-09-26",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0170630324419",
+          "hangar_id": "2369515",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "per.scholdberg[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0170630324419",
+          "hangar_id": "2369515"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Projektsamordnare.",
+          "typ": "titlar",
+          "intressent_id": "0170630324419",
+          "hangar_id": "2369515"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0170630324419",
+          "hangar_id": "2369515"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0170630324419",
+          "hangar_id": "2369515"
+        }
+      ]
+    }
+  }
+}

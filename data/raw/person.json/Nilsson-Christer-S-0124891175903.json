@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "b3807f47-3ef4-43d4-8a5c-4bec1984998a",
+    "sourceid": "3cf5882e-8160-46d3-93f8-84f07b67d356",
+    "intressent_id": "0124891175903",
+    "hangar_id": "2342132",
+    "fodd_ar": "1941",
+    "kon": "man",
+    "efternamn": "Nilsson",
+    "tilltalsnamn": "Christer",
+    "sorteringsnamn": "Nilsson,Christer",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Avliden  2019-02-15",
+    "person_url_xml": "http://data.riksdagen.se/person/3cf5882e-8160-46d3-93f8-84f07b67d356",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3cf5882e-8160-46d3-93f8-84f07b67d356_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3cf5882e-8160-46d3-93f8-84f07b67d356_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3cf5882e-8160-46d3-93f8-84f07b67d356_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0124891175903",
+          "hangar_id": "2342132",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-11-15",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0124891175903",
+          "hangar_id": "2342132",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-15",
+          "tom": "1982-11-14",
+          "uppgift": "Berit Löfstedt 1982-10-15 - 1982-11-14",
+          "intressent_id": "0124891175903",
+          "hangar_id": "2342132",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1982-10-14",
+          "uppgift": "",
+          "intressent_id": "0124891175903",
+          "hangar_id": "2342132",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0124891175903",
+          "hangar_id": "2342132",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1976-10-04",
+          "tom": "1979-10-01",
+          "uppgift": "",
+          "intressent_id": "0124891175903",
+          "hangar_id": "2342132",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "socionom",
+          "typ": "titlar",
+          "intressent_id": "0124891175903",
+          "hangar_id": "2342132"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0124891175903",
+          "hangar_id": "2342132"
+        }
+      ]
+    }
+  }
+}

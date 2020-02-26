@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "cdc4320c-6742-4146-9d9a-c2b1c3ae0aec",
+    "sourceid": "c93800eb-8db0-44fb-acc4-868d24527a63",
+    "intressent_id": "049679140507",
+    "hangar_id": "2341885",
+    "fodd_ar": "1935",
+    "kon": "man",
+    "efternamn": "Brohult",
+    "tilltalsnamn": "Johan",
+    "sorteringsnamn": "Brohult,Johan",
+    "iort": "",
+    "parti": "-",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/c93800eb-8db0-44fb-acc4-868d24527a63",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c93800eb-8db0-44fb-acc4-868d24527a63_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c93800eb-8db0-44fb-acc4-868d24527a63_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c93800eb-8db0-44fb-acc4-868d24527a63_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "208",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1993-10-06",
+          "uppgift": "",
+          "intressent_id": "049679140507",
+          "hangar_id": "2341885",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "VB",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1991-09-30",
+          "tom": "1993-01-14",
+          "uppgift": "Valberedningen",
+          "intressent_id": "049679140507",
+          "hangar_id": "2341885",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1993-02-10",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "049679140507",
+          "hangar_id": "2341885",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "cf0a23c8-af74-4efa-9e5f-51bf0570033a",
+    "sourceid": "05016cf9-06c4-4c0c-8932-562d67619ab1",
+    "intressent_id": "0447797778718",
+    "hangar_id": "2342859",
+    "fodd_ar": "1955",
+    "kon": "man",
+    "efternamn": "Delis",
+    "tilltalsnamn": "Sotiris",
+    "sorteringsnamn": "Delis,Sotiris",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Jönköpings län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/05016cf9-06c4-4c0c-8932-562d67619ab1",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/05016cf9-06c4-4c0c-8932-562d67619ab1_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/05016cf9-06c4-4c0c-8932-562d67619ab1_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/05016cf9-06c4-4c0c-8932-562d67619ab1_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "324",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0447797778718",
+          "hangar_id": "2342859",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2015-01-27",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0447797778718",
+          "hangar_id": "2342859",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2015-01-29",
+          "tom": "2018-09-24",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0447797778718",
+          "hangar_id": "2342859",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Bankdirektör.",
+          "typ": "titlar",
+          "intressent_id": "0447797778718",
+          "hangar_id": "2342859"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0447797778718",
+          "hangar_id": "2342859"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "false",
+          "typ": "val",
+          "intressent_id": "0447797778718",
+          "hangar_id": "2342859"
+        }
+      ]
+    }
+  }
+}

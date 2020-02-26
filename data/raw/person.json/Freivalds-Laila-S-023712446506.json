@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "0215d7be-1a56-42d5-87c6-1b902f925784",
+    "sourceid": "ae02dcf8-54ca-40cb-90db-4b881e214ea9",
+    "intressent_id": "023712446506",
+    "hangar_id": "2342166",
+    "fodd_ar": "1942",
+    "kon": "kvinna",
+    "efternamn": "Freivalds",
+    "tilltalsnamn": "Laila",
+    "sorteringsnamn": "Freivalds,Laila",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare statsråd",
+    "person_url_xml": "http://data.riksdagen.se/person/ae02dcf8-54ca-40cb-90db-4b881e214ea9",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ae02dcf8-54ca-40cb-90db-4b881e214ea9_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ae02dcf8-54ca-40cb-90db-4b881e214ea9_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ae02dcf8-54ca-40cb-90db-4b881e214ea9_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "Ju",
+          "roll_kod": "Justitieminister",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Departement",
+          "from": "1994-10-07",
+          "tom": "2000-09-21",
+          "uppgift": "Justitiedepartementet",
+          "intressent_id": "023712446506",
+          "hangar_id": "2342166",
+          "sortering": "50",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UD",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Departement",
+          "from": "2002-09-30",
+          "tom": "2006-03-21",
+          "uppgift": "Utrikesdepartementet",
+          "intressent_id": "023712446506",
+          "hangar_id": "2342166",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UD",
+          "roll_kod": "Utrikesminister",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Departement",
+          "from": "2003-10-10",
+          "tom": "2006-03-21",
+          "uppgift": "Utrikesdepartementet",
+          "intressent_id": "023712446506",
+          "hangar_id": "2342166",
+          "sortering": "50",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

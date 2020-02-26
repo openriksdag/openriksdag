@@ -1,0 +1,162 @@
+{
+  "person": {
+    "hangar_guid": "0584f77c-5e5b-46b9-b798-4015f4dbc2f9",
+    "sourceid": "3298ed49-917f-4230-8cf5-e10a70a93727",
+    "intressent_id": "0148424181819",
+    "hangar_id": "5004046",
+    "fodd_ar": "1972",
+    "kon": "kvinna",
+    "efternamn": "From Utterstedt",
+    "tilltalsnamn": "Ann-Christine",
+    "sorteringsnamn": "From Utterstedt,Ann-Christine",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Västmanlands län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/3298ed49-917f-4230-8cf5-e10a70a93727",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3298ed49-917f-4230-8cf5-e10a70a93727_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3298ed49-917f-4230-8cf5-e10a70a93727_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3298ed49-917f-4230-8cf5-e10a70a93727_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "165",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0148424181819",
+          "hangar_id": "5004046",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-06-18",
+          "tom": "2022-09-26",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0148424181819",
+          "hangar_id": "5004046",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "22",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-16",
+          "tom": "2022-09-26",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0148424181819",
+          "hangar_id": "5004046",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "19",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-06-18",
+          "tom": "2022-09-26",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0148424181819",
+          "hangar_id": "5004046",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "18",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-09",
+          "tom": "2022-09-26",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0148424181819",
+          "hangar_id": "5004046",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0148424181819",
+          "hangar_id": "5004046",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0148424181819",
+          "hangar_id": "5004046",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "ann-christine.utterstedt[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0148424181819",
+          "hangar_id": "5004046"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Vårdbiträde/redovisningsassistent.",
+          "typ": "titlar",
+          "intressent_id": "0148424181819",
+          "hangar_id": "5004046"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0148424181819",
+          "hangar_id": "5004046"
+        }
+      ]
+    }
+  }
+}

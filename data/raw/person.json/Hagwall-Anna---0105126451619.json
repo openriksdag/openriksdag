@@ -1,0 +1,130 @@
+{
+  "person": {
+    "hangar_guid": "3e3a835b-632e-49bf-9cb3-2327b39dedc5",
+    "sourceid": "9ba9d931-c9c0-4052-8c1b-9765f09cad69",
+    "intressent_id": "0105126451619",
+    "hangar_id": "2369430",
+    "fodd_ar": "1953",
+    "kon": "kvinna",
+    "efternamn": "Hagwall",
+    "tilltalsnamn": "Anna",
+    "sorteringsnamn": "Hagwall,Anna",
+    "iort": "",
+    "parti": "-",
+    "valkrets": "Västerbottens län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/9ba9d931-c9c0-4052-8c1b-9765f09cad69",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9ba9d931-c9c0-4052-8c1b-9765f09cad69_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9ba9d931-c9c0-4052-8c1b-9765f09cad69_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9ba9d931-c9c0-4052-8c1b-9765f09cad69_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "169",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0105126451619",
+          "hangar_id": "2369430",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "301",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2013-02-21",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0105126451619",
+          "hangar_id": "2369430",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "19",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-14",
+          "tom": "2016-10-20",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0105126451619",
+          "hangar_id": "2369430",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "16",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2013-03-13",
+          "tom": "2014-09-29",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0105126451619",
+          "hangar_id": "2369430",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2016-10-20",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0105126451619",
+          "hangar_id": "2369430",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Optiker.",
+          "typ": "titlar",
+          "intressent_id": "0105126451619",
+          "hangar_id": "2369430"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0105126451619",
+          "hangar_id": "2369430"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "false",
+          "typ": "val",
+          "intressent_id": "0105126451619",
+          "hangar_id": "2369430"
+        }
+      ]
+    }
+  }
+}

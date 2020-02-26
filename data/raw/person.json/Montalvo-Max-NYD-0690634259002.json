@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "ac20e924-3000-4896-ae23-34aff21ae47b",
+    "sourceid": "d087caea-406a-4d19-936e-c579a3a71215",
+    "intressent_id": "0690634259002",
+    "hangar_id": "2342542",
+    "fodd_ar": "1948",
+    "kon": "man",
+    "efternamn": "Montalvo",
+    "tilltalsnamn": "Max",
+    "sorteringsnamn": "Montalvo,Max",
+    "iort": "",
+    "parti": "NYD",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/d087caea-406a-4d19-936e-c579a3a71215",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d087caea-406a-4d19-936e-c579a3a71215_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d087caea-406a-4d19-936e-c579a3a71215_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d087caea-406a-4d19-936e-c579a3a71215_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "287",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0690634259002",
+          "hangar_id": "2342542",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1993-04-23",
+          "tom": "1994-10-02",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0690634259002",
+          "hangar_id": "2342542",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0690634259002",
+          "hangar_id": "2342542",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1993-04-23",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "0690634259002",
+          "hangar_id": "2342542",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "dataoperatör",
+          "typ": "titlar",
+          "intressent_id": "0690634259002",
+          "hangar_id": "2342542"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0690634259002",
+          "hangar_id": "2342542"
+        }
+      ]
+    }
+  }
+}

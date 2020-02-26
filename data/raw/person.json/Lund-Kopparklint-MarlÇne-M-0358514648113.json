@@ -1,0 +1,137 @@
+{
+  "person": {
+    "hangar_guid": "695384ae-17ff-469f-acac-b523511676f4",
+    "sourceid": "ac019194-2cf6-4ebd-8d29-29e1f3950cdf",
+    "intressent_id": "0358514648113",
+    "hangar_id": "5004004",
+    "fodd_ar": "1973",
+    "kon": "kvinna",
+    "efternamn": "Lund Kopparklint",
+    "tilltalsnamn": "Marléne",
+    "sorteringsnamn": "Lund Kopparklint,Marléne",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Värmlands län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/ac019194-2cf6-4ebd-8d29-29e1f3950cdf",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ac019194-2cf6-4ebd-8d29-29e1f3950cdf_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ac019194-2cf6-4ebd-8d29-29e1f3950cdf_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ac019194-2cf6-4ebd-8d29-29e1f3950cdf_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "132",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0358514648113",
+          "hangar_id": "5004004",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0358514648113",
+          "hangar_id": "5004004",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "17",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-06-17",
+          "tom": "2022-09-26",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0358514648113",
+          "hangar_id": "5004004",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "17",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-06-17",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0358514648113",
+          "hangar_id": "5004004",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2020-01-29",
+          "tom": "2022-09-26",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0358514648113",
+          "hangar_id": "5004004",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "marlene.lund.kopparklint[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0358514648113",
+          "hangar_id": "5004004"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "64739",
+          "typ": "telefonnummer",
+          "intressent_id": "0358514648113",
+          "hangar_id": "5004004"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Författare.",
+          "typ": "titlar",
+          "intressent_id": "0358514648113",
+          "hangar_id": "5004004"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0358514648113",
+          "hangar_id": "5004004"
+        }
+      ]
+    }
+  }
+}

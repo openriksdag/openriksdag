@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "62cf504c-9622-4635-ae4e-9be3b45df6dc",
+    "sourceid": "1eb31c30-6062-4794-9fcb-b1e2fc533779",
+    "intressent_id": "0422059125318",
+    "hangar_id": "2343093",
+    "fodd_ar": "1960",
+    "kon": "man",
+    "efternamn": "Fogelström",
+    "tilltalsnamn": "Conny",
+    "sorteringsnamn": "Fogelström,Conny",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Stockholms län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/1eb31c30-6062-4794-9fcb-b1e2fc533779",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1eb31c30-6062-4794-9fcb-b1e2fc533779_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1eb31c30-6062-4794-9fcb-b1e2fc533779_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1eb31c30-6062-4794-9fcb-b1e2fc533779_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2005-02-24",
+          "tom": "2005-03-24",
+          "uppgift": "Pär Nuder",
+          "intressent_id": "0422059125318",
+          "hangar_id": "2343093",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2005-02-24",
+          "tom": "2005-03-24",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0422059125318",
+          "hangar_id": "2343093",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

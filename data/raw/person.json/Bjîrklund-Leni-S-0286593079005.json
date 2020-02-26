@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "74c37751-cb8d-43f6-ab4b-2ce2d5593802",
+    "sourceid": "3c5cc452-e4cd-11d6-ae81-0004755038ce",
+    "intressent_id": "0286593079005",
+    "hangar_id": "2342281",
+    "fodd_ar": "1944",
+    "kon": "kvinna",
+    "efternamn": "Björklund",
+    "tilltalsnamn": "Leni",
+    "sorteringsnamn": "Björklund,Leni",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare försvarsminister",
+    "person_url_xml": "http://data.riksdagen.se/person/3c5cc452-e4cd-11d6-ae81-0004755038ce",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3c5cc452-e4cd-11d6-ae81-0004755038ce_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3c5cc452-e4cd-11d6-ae81-0004755038ce_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3c5cc452-e4cd-11d6-ae81-0004755038ce_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "Fö",
+          "roll_kod": "Försvarsminister",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Departement",
+          "from": "2006-10-02",
+          "tom": "2006-10-06",
+          "uppgift": "Försvarsdepartementet",
+          "intressent_id": "0286593079005",
+          "hangar_id": "2342281",
+          "sortering": "50",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "Fö",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Departement",
+          "from": "2002-09-30",
+          "tom": "2006-10-02",
+          "uppgift": "Försvarsdepartementet",
+          "intressent_id": "0286593079005",
+          "hangar_id": "2342281",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

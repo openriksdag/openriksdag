@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">95938366-4f26-42e0-93fc-d34a3f705f64</hangar_guid>
+<sourceid datatype="string">964e3aff-b4df-4f49-acc1-3bba2afc2f80</sourceid>
+<intressent_id datatype="string">025158809026</intressent_id>
+<hangar_id datatype="int32">2369433</hangar_id>
+<fodd_ar datatype="int16">1981</fodd_ar>
+<kon datatype="string">kvinna</kon>
+<efternamn datatype="string">Gabrielsson</efternamn>
+<tilltalsnamn datatype="string">Ida</tilltalsnamn>
+<sorteringsnamn datatype="string">Gabrielsson,Ida</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">V</parti>
+<valkrets datatype="string">Stockholms län</valkrets>
+<status datatype="string">Tjänstgörande riksdagsledamot</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/964e3aff-b4df-4f49-acc1-3bba2afc2f80</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/964e3aff-b4df-4f49-acc1-3bba2afc2f80_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/964e3aff-b4df-4f49-acc1-3bba2afc2f80_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/964e3aff-b4df-4f49-acc1-3bba2afc2f80_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">318</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2018-09-24</from>
+<tom datatype="datetime">2022-09-26</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">025158809026</intressent_id>
+<hangar_id datatype="int32">2369433</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">RRR</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">5</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">2019-04-01</from>
+<tom datatype="datetime">2022-10-31</tom>
+<uppgift datatype="string">Riksdagens råd för Riksrevisionen</uppgift>
+<intressent_id datatype="string">025158809026</intressent_id>
+<hangar_id datatype="int32">2369433</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32"></organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">FiU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">8</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2018-10-02</from>
+<tom datatype="datetime">2022-09-26</tom>
+<uppgift datatype="string">Finansutskottet</uppgift>
+<intressent_id datatype="string">025158809026</intressent_id>
+<hangar_id datatype="int32">2369433</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">SfU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">31</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2019-06-19</from>
+<tom datatype="datetime">2022-09-26</tom>
+<uppgift datatype="string">Socialförsäkringsutskottet</uppgift>
+<intressent_id datatype="string">025158809026</intressent_id>
+<hangar_id datatype="int32">2369433</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">SkU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">23</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2018-10-16</from>
+<tom datatype="datetime">2022-09-26</tom>
+<uppgift datatype="string">Skatteutskottet</uppgift>
+<intressent_id datatype="string">025158809026</intressent_id>
+<hangar_id datatype="int32">2369433</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">EUN</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">81</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2019-03-13</from>
+<tom datatype="datetime">2022-09-26</tom>
+<uppgift datatype="string">EU-nämnden</uppgift>
+<intressent_id datatype="string">025158809026</intressent_id>
+<hangar_id datatype="int32">2369433</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">170</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+<uppgift>
+<kod datatype="string">Officiell e-postadress</kod>
+<uppgift datatype="string">ida.gabrielsson[på]riksdagen.se</uppgift>
+<typ datatype="string">eadress</typ>
+<intressent_id datatype="string">025158809026</intressent_id>
+<hangar_id datatype="int32">2369433</hangar_id>
+</uppgift>
+<uppgift>
+<kod datatype="string">KandiderarINastaVal</kod>
+<uppgift datatype="string">true</uppgift>
+<typ datatype="string">val</typ>
+<intressent_id datatype="string">025158809026</intressent_id>
+<hangar_id datatype="int32">2369433</hangar_id>
+</uppgift>
+</personuppgift>
+</person>

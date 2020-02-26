@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "cac7e04e-dff2-419e-b106-e3fbbe98de97",
+    "sourceid": "7ee1658f-c95c-44c4-b113-2ccaa953fc5d",
+    "intressent_id": "",
+    "hangar_id": "4788783",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Gernandt",
+    "tilltalsnamn": "Johan",
+    "sorteringsnamn": "Gernandt,Johan",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ledamot i Riksbanksfullmäktige",
+    "person_url_xml": "http://data.riksdagen.se/person/7ee1658f-c95c-44c4-b113-2ccaa953fc5d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7ee1658f-c95c-44c4-b113-2ccaa953fc5d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7ee1658f-c95c-44c4-b113-2ccaa953fc5d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7ee1658f-c95c-44c4-b113-2ccaa953fc5d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "RB",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2010-10-19",
+          "tom": "2014-10-14",
+          "uppgift": "Riksbanksfullmäktige",
+          "intressent_id": "",
+          "hangar_id": "4788783",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RB",
+          "roll_kod": "Ordförande",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2006-12-21",
+          "tom": "2010-10-19",
+          "uppgift": "Riksbanksfullmäktige",
+          "intressent_id": "",
+          "hangar_id": "4788783",
+          "sortering": "10",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

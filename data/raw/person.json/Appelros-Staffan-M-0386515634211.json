@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "7e63aa60-d421-4d70-b292-1f26f86d8799",
+    "sourceid": "d168a7ef-d230-4484-bd1a-e06ea11c806d",
+    "intressent_id": "0386515634211",
+    "hangar_id": "2342644",
+    "fodd_ar": "1950",
+    "kon": "man",
+    "efternamn": "Appelros",
+    "tilltalsnamn": "Staffan",
+    "sorteringsnamn": "Appelros,Staffan",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Malmö kommun",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/d168a7ef-d230-4484-bd1a-e06ea11c806d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d168a7ef-d230-4484-bd1a-e06ea11c806d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d168a7ef-d230-4484-bd1a-e06ea11c806d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d168a7ef-d230-4484-bd1a-e06ea11c806d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "122",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2007-02-16",
+          "tom": "2010-10-04",
+          "uppgift": "Tobias Billström",
+          "intressent_id": "0386515634211",
+          "hangar_id": "2342644",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-12-20",
+          "tom": "2010-10-04",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0386515634211",
+          "hangar_id": "2342644",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-02-23",
+          "tom": "2007-12-09",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0386515634211",
+          "hangar_id": "2342644",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Direktör",
+          "typ": "titlar",
+          "intressent_id": "0386515634211",
+          "hangar_id": "2342644"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0386515634211",
+          "hangar_id": "2342644"
+        }
+      ]
+    }
+  }
+}

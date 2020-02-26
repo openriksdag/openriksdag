@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "21a21f69-d4d1-4ea3-9990-19f986d21a08",
+    "sourceid": "73501b2c-9f06-4208-b3fb-a78e49559a4f",
+    "intressent_id": "0840215353615",
+    "hangar_id": "2342587",
+    "fodd_ar": "1949",
+    "kon": "man",
+    "efternamn": "Nordin",
+    "tilltalsnamn": "Anders",
+    "sorteringsnamn": "Nordin,Anders",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "",
+    "status": "Status saknas",
+    "person_url_xml": "http://data.riksdagen.se/person/73501b2c-9f06-4208-b3fb-a78e49559a4f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/73501b2c-9f06-4208-b3fb-a78e49559a4f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/73501b2c-9f06-4208-b3fb-a78e49559a4f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/73501b2c-9f06-4208-b3fb-a78e49559a4f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-04-11",
+          "tom": "1990-05-11",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0840215353615",
+          "hangar_id": "2342587",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-04-11",
+          "tom": "1990-05-11",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0840215353615",
+          "hangar_id": "2342587",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "lantbrukare",
+          "typ": "titlar",
+          "intressent_id": "0840215353615",
+          "hangar_id": "2342587"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0840215353615",
+          "hangar_id": "2342587"
+        }
+      ]
+    }
+  }
+}

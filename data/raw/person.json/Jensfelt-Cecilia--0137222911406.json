@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "45e22b2c-5b23-4e5e-bf37-5ccf152714d1",
+    "sourceid": "e714c351-32ef-4523-9440-0c422dce0fe6",
+    "intressent_id": "0137222911406",
+    "hangar_id": "2342168",
+    "fodd_ar": "1942",
+    "kon": "kvinna",
+    "efternamn": "Jensfelt",
+    "tilltalsnamn": "Cecilia",
+    "sorteringsnamn": "Jensfelt,Cecilia",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/e714c351-32ef-4523-9440-0c422dce0fe6",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e714c351-32ef-4523-9440-0c422dce0fe6_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e714c351-32ef-4523-9440-0c422dce0fe6_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e714c351-32ef-4523-9440-0c422dce0fe6_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Ersättare",
+        "ordningsnummer": "0",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "1982-10-04",
+        "tom": "1982-10-08",
+        "uppgift": "Olof Johansson",
+        "intressent_id": "0137222911406",
+        "hangar_id": "2342168",
+        "sortering": "45",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": ""
+  }
+}

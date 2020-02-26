@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "45a0c910-0f50-47a4-8c4e-7301e50164e2",
+    "sourceid": "00c9e963-15a1-44fd-b4bd-4e3320d40089",
+    "intressent_id": "",
+    "hangar_id": "4788815",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Axberger",
+    "tilltalsnamn": "Hans-Gunnar",
+    "sorteringsnamn": "Axberger,Hans-Gunnar",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare justitieombudsman i Riksdagens ombudsmän",
+    "person_url_xml": "http://data.riksdagen.se/person/00c9e963-15a1-44fd-b4bd-4e3320d40089",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/00c9e963-15a1-44fd-b4bd-4e3320d40089_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/00c9e963-15a1-44fd-b4bd-4e3320d40089_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/00c9e963-15a1-44fd-b4bd-4e3320d40089_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "JO",
+          "roll_kod": "Justitieombudsman",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2012-02-19",
+          "tom": "2013-06-30",
+          "uppgift": "Riksdagens ombudsmän",
+          "intressent_id": "",
+          "hangar_id": "4788815",
+          "sortering": "",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JO",
+          "roll_kod": "Justitieombudsman",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2008-02-18",
+          "tom": "2012-02-18",
+          "uppgift": "Riksdagens ombudsmän",
+          "intressent_id": "",
+          "hangar_id": "4788815",
+          "sortering": "",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

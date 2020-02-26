@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "49cb7611-d36b-4721-9c6a-d8c20e3f67f2",
+    "sourceid": "3b94f4d0-ee6a-42f5-bace-5f1c0332409f",
+    "intressent_id": "0785941964009",
+    "hangar_id": "2342093",
+    "fodd_ar": "1940",
+    "kon": "man",
+    "efternamn": "Eliasson",
+    "tilltalsnamn": "Jan",
+    "sorteringsnamn": "Eliasson,Jan",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare utrikesminister",
+    "person_url_xml": "http://data.riksdagen.se/person/3b94f4d0-ee6a-42f5-bace-5f1c0332409f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3b94f4d0-ee6a-42f5-bace-5f1c0332409f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3b94f4d0-ee6a-42f5-bace-5f1c0332409f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3b94f4d0-ee6a-42f5-bace-5f1c0332409f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "UD",
+          "roll_kod": "Utrikesminister",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Departement",
+          "from": "2006-10-02",
+          "tom": "2006-10-06",
+          "uppgift": "Utrikesdepartementet",
+          "intressent_id": "0785941964009",
+          "hangar_id": "2342093",
+          "sortering": "50",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UD",
+          "roll_kod": "Utrikesminister",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Departement",
+          "from": "2006-04-24",
+          "tom": "2006-10-02",
+          "uppgift": "Utrikesdepartementet",
+          "intressent_id": "0785941964009",
+          "hangar_id": "2342093",
+          "sortering": "50",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

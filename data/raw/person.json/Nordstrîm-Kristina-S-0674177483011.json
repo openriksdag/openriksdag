@@ -1,0 +1,171 @@
+{
+  "person": {
+    "hangar_guid": "46834ba9-7153-468b-9d3a-319e6c53b4e4",
+    "sourceid": "fe5e7bdd-3a84-4fcb-bf04-cd2317177987",
+    "intressent_id": "0674177483011",
+    "hangar_id": "2342896",
+    "fodd_ar": "1955",
+    "kon": "kvinna",
+    "efternamn": "Nordström",
+    "tilltalsnamn": "Kristina",
+    "sorteringsnamn": "Nordström,Kristina",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/fe5e7bdd-3a84-4fcb-bf04-cd2317177987",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fe5e7bdd-3a84-4fcb-bf04-cd2317177987_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fe5e7bdd-3a84-4fcb-bf04-cd2317177987_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fe5e7bdd-3a84-4fcb-bf04-cd2317177987_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "8",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1996-03-23",
+          "tom": "1998-10-05",
+          "uppgift": "",
+          "intressent_id": "0674177483011",
+          "hangar_id": "2342896",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "1",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1995-10-10",
+          "tom": "1996-03-22",
+          "uppgift": "Mats Hellström",
+          "intressent_id": "0674177483011",
+          "hangar_id": "2342896",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "2",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1995-08-01",
+          "tom": "1995-10-09",
+          "uppgift": "Maj Britt Theorin",
+          "intressent_id": "0674177483011",
+          "hangar_id": "2342896",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "47",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1995-01-10",
+          "tom": "1995-07-31",
+          "uppgift": "Kristina Persson",
+          "intressent_id": "0674177483011",
+          "hangar_id": "2342896",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1996-04-18",
+          "tom": "1998-10-04",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0674177483011",
+          "hangar_id": "2342896",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1995-10-11",
+          "tom": "1996-03-22",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0674177483011",
+          "hangar_id": "2342896",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1995-01-19",
+          "tom": "1995-10-10",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0674177483011",
+          "hangar_id": "2342896",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1995-01-19",
+          "tom": "1996-03-22",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0674177483011",
+          "hangar_id": "2342896",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "ombudsman",
+          "typ": "titlar",
+          "intressent_id": "0674177483011",
+          "hangar_id": "2342896"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0674177483011",
+          "hangar_id": "2342896"
+        }
+      ]
+    }
+  }
+}

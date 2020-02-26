@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "fac279cd-8a0b-4cd2-b579-9db2cbb3cc6a",
+    "sourceid": "927b7deb-9102-4f3a-90f3-fc915d9a941a",
+    "intressent_id": "0151848520718",
+    "hangar_id": "2343005",
+    "fodd_ar": "1957",
+    "kon": "kvinna",
+    "efternamn": "Larsson",
+    "tilltalsnamn": "Katja",
+    "sorteringsnamn": "Larsson,Katja",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Skåne läns södra",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/927b7deb-9102-4f3a-90f3-fc915d9a941a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/927b7deb-9102-4f3a-90f3-fc915d9a941a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/927b7deb-9102-4f3a-90f3-fc915d9a941a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/927b7deb-9102-4f3a-90f3-fc915d9a941a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "155",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2007-10-15",
+          "tom": "2007-12-21",
+          "uppgift": "Morgan Johansson",
+          "intressent_id": "0151848520718",
+          "hangar_id": "2343005",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-10-15",
+          "tom": "2007-12-21",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0151848520718",
+          "hangar_id": "2343005",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "ombudsman",
+          "typ": "titlar",
+          "intressent_id": "0151848520718",
+          "hangar_id": "2343005"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0151848520718",
+          "hangar_id": "2343005"
+        }
+      ]
+    }
+  }
+}

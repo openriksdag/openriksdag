@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "d67b3bba-57e9-47e7-8b1b-4512377b2b4b",
+    "sourceid": "0c1a2e7f-3a40-4180-b12e-8a0b7c41067d",
+    "intressent_id": "",
+    "hangar_id": "5022566",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Ödman",
+    "tilltalsnamn": "Evalena",
+    "sorteringsnamn": "Ödman,Evalena",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Ersättare i Riksdagens ansvarsnämnd",
+    "person_url_xml": "http://data.riksdagen.se/person/0c1a2e7f-3a40-4180-b12e-8a0b7c41067d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0c1a2e7f-3a40-4180-b12e-8a0b7c41067d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0c1a2e7f-3a40-4180-b12e-8a0b7c41067d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0c1a2e7f-3a40-4180-b12e-8a0b7c41067d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RAN",
+        "roll_kod": "Ersättare",
+        "ordningsnummer": "3",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2019-02-15",
+        "tom": "2021-12-31",
+        "uppgift": "Riksdagens ansvarsnämnd",
+        "intressent_id": "",
+        "hangar_id": "5022566",
+        "sortering": "45",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

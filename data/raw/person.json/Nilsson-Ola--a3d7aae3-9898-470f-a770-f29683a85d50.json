@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "f45a11fa-3e9c-46e7-ba4b-368fe9ae6ed5",
+    "sourceid": "a3d7aae3-9898-470f-a770-f29683a85d50",
+    "intressent_id": "",
+    "hangar_id": "4788799",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Nilsson",
+    "tilltalsnamn": "Ola",
+    "sorteringsnamn": "Nilsson,Ola",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ledamot i Valprövningsnämnden",
+    "person_url_xml": "http://data.riksdagen.se/person/a3d7aae3-9898-470f-a770-f29683a85d50",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a3d7aae3-9898-470f-a770-f29683a85d50_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a3d7aae3-9898-470f-a770-f29683a85d50_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a3d7aae3-9898-470f-a770-f29683a85d50_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "VPN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2011-04-06",
+          "tom": "2015-02-18",
+          "uppgift": "Valprövningsnämnden",
+          "intressent_id": "",
+          "hangar_id": "4788799",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "VPN",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2007-01-18",
+          "tom": "2011-04-05",
+          "uppgift": "Valprövningsnämnden",
+          "intressent_id": "",
+          "hangar_id": "4788799",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

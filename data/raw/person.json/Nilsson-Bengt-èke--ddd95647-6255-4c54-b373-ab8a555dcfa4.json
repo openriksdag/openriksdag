@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "6584eb07-8fc8-4154-b696-aaf7ac843452",
+    "sourceid": "ddd95647-6255-4c54-b373-ab8a555dcfa4",
+    "intressent_id": "",
+    "hangar_id": "4788797",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Nilsson",
+    "tilltalsnamn": "Bengt-Åke",
+    "sorteringsnamn": "Nilsson,Bengt-Åke",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ordförande i Valprövningsnämnden",
+    "person_url_xml": "http://data.riksdagen.se/person/ddd95647-6255-4c54-b373-ab8a555dcfa4",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ddd95647-6255-4c54-b373-ab8a555dcfa4_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ddd95647-6255-4c54-b373-ab8a555dcfa4_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ddd95647-6255-4c54-b373-ab8a555dcfa4_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "VPN",
+        "roll_kod": "Ordförande",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2007-01-18",
+        "tom": "2011-04-05",
+        "uppgift": "Valprövningsnämnden",
+        "intressent_id": "",
+        "hangar_id": "4788797",
+        "sortering": "10",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

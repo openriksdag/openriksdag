@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "b53eda41-d97f-40ca-b220-787a149592d3",
+    "sourceid": "e9e8ed46-410c-458f-a72a-bf66e2fd14c3",
+    "intressent_id": "0346540621005",
+    "hangar_id": "2341947",
+    "fodd_ar": "1937",
+    "kon": "man",
+    "efternamn": "Strömdahl",
+    "tilltalsnamn": "Jan",
+    "sorteringsnamn": "Strömdahl,Jan",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/e9e8ed46-410c-458f-a72a-bf66e2fd14c3",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e9e8ed46-410c-458f-a72a-bf66e2fd14c3_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e9e8ed46-410c-458f-a72a-bf66e2fd14c3_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e9e8ed46-410c-458f-a72a-bf66e2fd14c3_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "63",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-01-01",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0346540621005",
+          "hangar_id": "2341947",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "63",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "1990-10-02",
+          "tom": "1990-12-31",
+          "uppgift": "Eva Zetterberg 1990-10-02 - 1990-12-31",
+          "intressent_id": "0346540621005",
+          "hangar_id": "2341947",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "63",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1990-10-01",
+          "uppgift": "",
+          "intressent_id": "0346540621005",
+          "hangar_id": "2341947",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-10-04",
+          "tom": "1991-09-29",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0346540621005",
+          "hangar_id": "2341947",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0346540621005",
+          "hangar_id": "2341947",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "0346540621005",
+          "hangar_id": "2341947",
+          "sortering": "30",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0346540621005",
+          "hangar_id": "2341947"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "arkitekt",
+          "typ": "titlar",
+          "intressent_id": "0346540621005",
+          "hangar_id": "2341947"
+        }
+      ]
+    }
+  }
+}

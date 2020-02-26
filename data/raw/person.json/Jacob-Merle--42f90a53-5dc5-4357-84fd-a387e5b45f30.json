@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "09cf5352-7431-453e-827a-612e107b9dbc",
+    "sourceid": "42f90a53-5dc5-4357-84fd-a387e5b45f30",
+    "intressent_id": "",
+    "hangar_id": "4788875",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Jacob",
+    "tilltalsnamn": "Merle",
+    "sorteringsnamn": "Jacob,Merle",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Ledamot i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/42f90a53-5dc5-4357-84fd-a387e5b45f30",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/42f90a53-5dc5-4357-84fd-a387e5b45f30_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/42f90a53-5dc5-4357-84fd-a387e5b45f30_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/42f90a53-5dc5-4357-84fd-a387e5b45f30_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RJ",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "10",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2016-11-01",
+        "tom": "2020-10-31",
+        "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+        "intressent_id": "",
+        "hangar_id": "4788875",
+        "sortering": "30",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

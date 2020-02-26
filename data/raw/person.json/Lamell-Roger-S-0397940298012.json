@@ -1,0 +1,66 @@
+{
+  "person": {
+    "hangar_guid": "ee9228de-63c9-4246-b8ff-6ccd165b0d67",
+    "sourceid": "acddd54d-79d7-458f-8b99-a4600d7309b5",
+    "intressent_id": "0397940298012",
+    "hangar_id": "2343231",
+    "fodd_ar": "1963",
+    "kon": "man",
+    "efternamn": "Lamell",
+    "tilltalsnamn": "Roger",
+    "sorteringsnamn": "Lamell,Roger",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Uppsala län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/acddd54d-79d7-458f-8b99-a4600d7309b5",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/acddd54d-79d7-458f-8b99-a4600d7309b5_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/acddd54d-79d7-458f-8b99-a4600d7309b5_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/acddd54d-79d7-458f-8b99-a4600d7309b5_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "7",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-03-01",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0397940298012",
+          "hangar_id": "2343231",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "27",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-03-11",
+          "tom": "2014-09-29",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0397940298012",
+          "hangar_id": "2343231",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "roger.lamell[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0397940298012",
+        "hangar_id": "2343231"
+      }
+    }
+  }
+}

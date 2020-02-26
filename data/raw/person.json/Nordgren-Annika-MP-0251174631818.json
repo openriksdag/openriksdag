@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "5b4ed15a-6566-4c58-bcbf-297cfc9ca305",
+    "sourceid": "90746d94-c053-4758-99ce-c6a0c0779033",
+    "intressent_id": "0251174631818",
+    "hangar_id": "2343512",
+    "fodd_ar": "1972",
+    "kon": "kvinna",
+    "efternamn": "Nordgren",
+    "tilltalsnamn": "Annika",
+    "sorteringsnamn": "Nordgren,Annika",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/90746d94-c053-4758-99ce-c6a0c0779033",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/90746d94-c053-4758-99ce-c6a0c0779033_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/90746d94-c053-4758-99ce-c6a0c0779033_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/90746d94-c053-4758-99ce-c6a0c0779033_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "250",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1994-10-03",
+          "tom": "1998-10-05",
+          "uppgift": "",
+          "intressent_id": "0251174631818",
+          "hangar_id": "2343512",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1998-10-04",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0251174631818",
+          "hangar_id": "2343512",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-12-15",
+          "tom": "1998-10-04",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0251174631818",
+          "hangar_id": "2343512",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Deputerad",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1996-10-21",
+          "tom": "1996-11-20",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0251174631818",
+          "hangar_id": "2343512",
+          "sortering": "40",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Deputerad",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1995-10-26",
+          "tom": "1995-12-06",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0251174631818",
+          "hangar_id": "2343512",
+          "sortering": "40",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "fritidspedagogsstuderande",
+          "typ": "titlar",
+          "intressent_id": "0251174631818",
+          "hangar_id": "2343512"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0251174631818",
+          "hangar_id": "2343512"
+        }
+      ]
+    }
+  }
+}

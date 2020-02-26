@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "ca2ea045-731f-4d2c-930f-2ef8c7c91530",
+    "sourceid": "1c63ea07-e604-4d4d-875e-d76fea335a39",
+    "intressent_id": "0827298177012",
+    "hangar_id": "2343039",
+    "fodd_ar": "1958",
+    "kon": "kvinna",
+    "efternamn": "Östberg Svanelind",
+    "tilltalsnamn": "Maria",
+    "sorteringsnamn": "Östberg Svanelind,Maria",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/1c63ea07-e604-4d4d-875e-d76fea335a39",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1c63ea07-e604-4d4d-875e-d76fea335a39_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1c63ea07-e604-4d4d-875e-d76fea335a39_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1c63ea07-e604-4d4d-875e-d76fea335a39_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "111",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2007-03-18",
+          "tom": "2007-09-17",
+          "uppgift": "Anders Ygeman",
+          "intressent_id": "0827298177012",
+          "hangar_id": "2343039",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "278",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2006-10-06",
+          "uppgift": "Carin Jämtin",
+          "intressent_id": "0827298177012",
+          "hangar_id": "2343039",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-03-20",
+          "tom": "2007-09-17",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0827298177012",
+          "hangar_id": "2343039",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Informationschef",
+          "typ": "titlar",
+          "intressent_id": "0827298177012",
+          "hangar_id": "2343039"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0827298177012",
+          "hangar_id": "2343039"
+        }
+      ]
+    }
+  }
+}

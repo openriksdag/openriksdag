@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "196f9482-69aa-4569-8204-04e7d13604eb",
+    "sourceid": "1e314a25-3de7-4ca3-868e-4c3649a3aeac",
+    "intressent_id": "",
+    "hangar_id": "4788802",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Lindström",
+    "tilltalsnamn": "Eva",
+    "sorteringsnamn": "Lindström,Eva",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare riksrevisor i Riksrevisorerna",
+    "person_url_xml": "http://data.riksdagen.se/person/1e314a25-3de7-4ca3-868e-4c3649a3aeac",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1e314a25-3de7-4ca3-868e-4c3649a3aeac_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1e314a25-3de7-4ca3-868e-4c3649a3aeac_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1e314a25-3de7-4ca3-868e-4c3649a3aeac_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RR",
+        "roll_kod": "Riksrevisor",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2003-07-01",
+        "tom": "2010-06-30",
+        "uppgift": "Riksrevisorerna",
+        "intressent_id": "",
+        "hangar_id": "4788802",
+        "sortering": "",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

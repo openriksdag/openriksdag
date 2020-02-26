@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "615362f2-1e40-4afa-af2a-aa52e93c78c3",
+    "sourceid": "5fda3a2b-3762-4819-bbba-69803aeecd50",
+    "intressent_id": "0797642182211",
+    "hangar_id": "2343395",
+    "fodd_ar": "1968",
+    "kon": "man",
+    "efternamn": "Nilsson",
+    "tilltalsnamn": "Mats G",
+    "sorteringsnamn": "Nilsson,Mats G",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/5fda3a2b-3762-4819-bbba-69803aeecd50",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5fda3a2b-3762-4819-bbba-69803aeecd50_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5fda3a2b-3762-4819-bbba-69803aeecd50_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5fda3a2b-3762-4819-bbba-69803aeecd50_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "279",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0797642182211",
+          "hangar_id": "2343395",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-12-01",
+          "tom": "2010-10-04",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0797642182211",
+          "hangar_id": "2343395",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2006-11-30",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0797642182211",
+          "hangar_id": "2343395",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0797642182211",
+          "hangar_id": "2343395",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Webbsida",
+        "uppgift": "http://www.matsgnilsson.se",
+        "typ": "eadress",
+        "intressent_id": "0797642182211",
+        "hangar_id": "2343395"
+      }
+    }
+  }
+}

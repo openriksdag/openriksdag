@@ -1,0 +1,48 @@
+{
+  "person": {
+    "hangar_guid": "b9fe1669-ab15-43fe-9923-393991e28164",
+    "sourceid": "780b6752-e0e2-4ebb-8e4a-51ce71daa3c8",
+    "intressent_id": "",
+    "hangar_id": "4788838",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Johansson",
+    "tilltalsnamn": "Kent",
+    "sorteringsnamn": "Johansson,Kent",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "",
+    "status": "Tidigare europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/780b6752-e0e2-4ebb-8e4a-51ce71daa3c8",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/780b6752-e0e2-4ebb-8e4a-51ce71daa3c8_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/780b6752-e0e2-4ebb-8e4a-51ce71daa3c8_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/780b6752-e0e2-4ebb-8e4a-51ce71daa3c8_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "EP",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "5",
+        "status": "",
+        "typ": "Europaparlamentet",
+        "from": "2011-10-18",
+        "tom": "2014-07-01",
+        "uppgift": "Europaparlamentet",
+        "intressent_id": "",
+        "hangar_id": "4788838",
+        "sortering": "30",
+        "organ_sortering": "100",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Webbsida",
+        "uppgift": "http://www.europarl.europa.eu/meps/sv/110365/KENT_JOHANSSON.html",
+        "typ": "eadress",
+        "intressent_id": "",
+        "hangar_id": "4788838"
+      }
+    }
+  }
+}

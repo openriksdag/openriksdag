@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "8f346a1d-f75b-4565-b766-487d994eeb4b",
+    "sourceid": "63fe33f1-e6c7-4c4f-ad51-234294d93f5b",
+    "intressent_id": "0689652394598",
+    "hangar_id": "2341627",
+    "fodd_ar": "1918",
+    "kon": "man",
+    "efternamn": "Enlund",
+    "tilltalsnamn": "Eric",
+    "sorteringsnamn": "Enlund,Eric",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/63fe33f1-e6c7-4c4f-ad51-234294d93f5b",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/63fe33f1-e6c7-4c4f-ad51-234294d93f5b_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/63fe33f1-e6c7-4c4f-ad51-234294d93f5b_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/63fe33f1-e6c7-4c4f-ad51-234294d93f5b_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1980-11-07",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0689652394598",
+          "hangar_id": "2341627",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "1980-10-07",
+          "tom": "1980-11-06",
+          "uppgift": "Offentligt uppdrag",
+          "intressent_id": "0689652394598",
+          "hangar_id": "2341627",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1980-10-06",
+          "uppgift": "",
+          "intressent_id": "0689652394598",
+          "hangar_id": "2341627",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

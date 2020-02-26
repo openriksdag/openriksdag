@@ -1,0 +1,171 @@
+{
+  "person": {
+    "hangar_guid": "e3caa8d2-ad43-4027-8570-e95d3392e5d7",
+    "sourceid": "3753bda8-0e55-49f9-9c69-0f0e0aee9091",
+    "intressent_id": "0807866053922",
+    "hangar_id": "2343665",
+    "fodd_ar": "1978",
+    "kon": "kvinna",
+    "efternamn": "König Jerlmyr",
+    "tilltalsnamn": "Anna",
+    "sorteringsnamn": "König Jerlmyr,Anna",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/3753bda8-0e55-49f9-9c69-0f0e0aee9091",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3753bda8-0e55-49f9-9c69-0f0e0aee9091_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3753bda8-0e55-49f9-9c69-0f0e0aee9091_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3753bda8-0e55-49f9-9c69-0f0e0aee9091_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "243",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-04",
+          "tom": "2010-10-19",
+          "uppgift": "",
+          "intressent_id": "0807866053922",
+          "hangar_id": "2343665",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "316",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2009-11-24",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0807866053922",
+          "hangar_id": "2343665",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "316",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "2009-04-21",
+          "tom": "2009-11-23",
+          "uppgift": "Curt Linderoth 2009-04-21 - 2009-11-23",
+          "intressent_id": "0807866053922",
+          "hangar_id": "2343665",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "316",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2009-04-20",
+          "uppgift": "",
+          "intressent_id": "0807866053922",
+          "hangar_id": "2343665",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "OSSE",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2006-10-17",
+          "tom": "2010-10-19",
+          "uppgift": "OSSE-delegationen",
+          "intressent_id": "0807866053922",
+          "hangar_id": "2343665",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0807866053922",
+          "hangar_id": "2343665",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0807866053922",
+          "hangar_id": "2343665",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2010-10-19",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0807866053922",
+          "hangar_id": "2343665",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Kommunikationskonsult",
+          "typ": "titlar",
+          "intressent_id": "0807866053922",
+          "hangar_id": "2343665"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0807866053922",
+          "hangar_id": "2343665"
+        }
+      ]
+    }
+  }
+}

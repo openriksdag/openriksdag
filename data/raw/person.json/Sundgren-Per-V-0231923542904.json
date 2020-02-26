@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "c9dfcd61-475b-4529-8b79-3a356fe617b6",
+    "sourceid": "9aee4af7-c829-4231-b55d-fce89767a184",
+    "intressent_id": "0231923542904",
+    "hangar_id": "2342266",
+    "fodd_ar": "1944",
+    "kon": "man",
+    "efternamn": "Sundgren",
+    "tilltalsnamn": "Per",
+    "sorteringsnamn": "Sundgren,Per",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/9aee4af7-c829-4231-b55d-fce89767a184",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9aee4af7-c829-4231-b55d-fce89767a184_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9aee4af7-c829-4231-b55d-fce89767a184_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9aee4af7-c829-4231-b55d-fce89767a184_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "42",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1997-09-06",
+          "tom": "1997-10-07",
+          "uppgift": "Gudrun Schyman",
+          "intressent_id": "0231923542904",
+          "hangar_id": "2342266",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1997-09-19",
+          "tom": "1997-10-07",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0231923542904",
+          "hangar_id": "2342266",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

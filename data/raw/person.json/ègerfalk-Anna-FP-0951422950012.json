@@ -1,0 +1,114 @@
+{
+  "person": {
+    "hangar_guid": "23a9039d-271e-469f-bf60-13de0836d95f",
+    "sourceid": "b643cc67-ab7c-4268-9ef8-1c64c69fffd5",
+    "intressent_id": "0951422950012",
+    "hangar_id": "2343406",
+    "fodd_ar": "1968",
+    "kon": "kvinna",
+    "efternamn": "Ågerfalk",
+    "tilltalsnamn": "Anna",
+    "sorteringsnamn": "Ågerfalk,Anna",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "Örebro län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/b643cc67-ab7c-4268-9ef8-1c64c69fffd5",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b643cc67-ab7c-4268-9ef8-1c64c69fffd5_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b643cc67-ab7c-4268-9ef8-1c64c69fffd5_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b643cc67-ab7c-4268-9ef8-1c64c69fffd5_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2006-01-10",
+          "tom": "2006-02-10",
+          "uppgift": "",
+          "intressent_id": "0951422950012",
+          "hangar_id": "2343406",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2003-11-18",
+          "tom": "2003-12-18",
+          "uppgift": "",
+          "intressent_id": "0951422950012",
+          "hangar_id": "2343406",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-01-10",
+          "tom": "2006-02-10",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0951422950012",
+          "hangar_id": "2343406",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2003-11-19",
+          "tom": "2003-12-18",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0951422950012",
+          "hangar_id": "2343406",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2003-11-19",
+          "tom": "2003-12-18",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0951422950012",
+          "hangar_id": "2343406",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "true",
+        "typ": "val",
+        "intressent_id": "0951422950012",
+        "hangar_id": "2343406"
+      }
+    }
+  }
+}

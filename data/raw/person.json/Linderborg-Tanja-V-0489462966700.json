@@ -1,0 +1,171 @@
+{
+  "person": {
+    "hangar_guid": "ce0c2a7c-d378-4aab-90cb-894e812b8134",
+    "sourceid": "d7c322b9-83e4-11d4-ae60-0050040c9b55",
+    "intressent_id": "0489462966700",
+    "hangar_id": "2342213",
+    "fodd_ar": "1943",
+    "kon": "kvinna",
+    "efternamn": "Linderborg",
+    "tilltalsnamn": "Tanja",
+    "sorteringsnamn": "Linderborg,Tanja",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/d7c322b9-83e4-11d4-ae60-0050040c9b55",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c322b9-83e4-11d4-ae60-0050040c9b55_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c322b9-83e4-11d4-ae60-0050040c9b55_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c322b9-83e4-11d4-ae60-0050040c9b55_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "287",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1998-10-05",
+          "tom": "2002-09-30",
+          "uppgift": "",
+          "intressent_id": "0489462966700",
+          "hangar_id": "2342213",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "281",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1994-10-03",
+          "tom": "1998-10-05",
+          "uppgift": "",
+          "intressent_id": "0489462966700",
+          "hangar_id": "2342213",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KD",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2002-02-01",
+          "tom": "2002-09-30",
+          "uppgift": "Krigsdelegationen",
+          "intressent_id": "0489462966700",
+          "hangar_id": "2342213",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RRS",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2003-03-12",
+          "tom": "2006-10-16",
+          "uppgift": "Riksrevisionens styrelse",
+          "intressent_id": "0489462966700",
+          "hangar_id": "2342213",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1998-10-04",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0489462966700",
+          "hangar_id": "2342213",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1996-09-24",
+          "tom": "1998-10-04",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0489462966700",
+          "hangar_id": "2342213",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "LU",
+          "roll_kod": "Ordförande",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "2002-09-30",
+          "uppgift": "Lagutskottet",
+          "intressent_id": "0489462966700",
+          "hangar_id": "2342213",
+          "sortering": "10",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "LU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1998-10-04",
+          "uppgift": "Lagutskottet",
+          "intressent_id": "0489462966700",
+          "hangar_id": "2342213",
+          "sortering": "30",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "arbetsmarknadschef",
+          "typ": "titlar",
+          "intressent_id": "0489462966700",
+          "hangar_id": "2342213"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Cheif Employment Services Officer",
+          "typ": "titlar",
+          "intressent_id": "0489462966700",
+          "hangar_id": "2342213"
+        }
+      ]
+    }
+  }
+}

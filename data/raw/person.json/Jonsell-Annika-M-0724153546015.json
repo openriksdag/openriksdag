@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "c34cd72d-03d0-431c-ad21-efe964e26d60",
+    "sourceid": "8cab40c6-ae79-4f01-b225-0a425b50a776",
+    "intressent_id": "0724153546015",
+    "hangar_id": "2343420",
+    "fodd_ar": "1969",
+    "kon": "kvinna",
+    "efternamn": "Jonsell",
+    "tilltalsnamn": "Annika",
+    "sorteringsnamn": "Jonsell,Annika",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/8cab40c6-ae79-4f01-b225-0a425b50a776",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8cab40c6-ae79-4f01-b225-0a425b50a776_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8cab40c6-ae79-4f01-b225-0a425b50a776_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8cab40c6-ae79-4f01-b225-0a425b50a776_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "172",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1995-10-10",
+          "tom": "1998-10-05",
+          "uppgift": "",
+          "intressent_id": "0724153546015",
+          "hangar_id": "2343420",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "226",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1995-01-10",
+          "tom": "1995-10-09",
+          "uppgift": "Per Stenmarck",
+          "intressent_id": "0724153546015",
+          "hangar_id": "2343420",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "180",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1994-10-03",
+          "tom": "1994-10-07",
+          "uppgift": "Gun Hellsvik",
+          "intressent_id": "0724153546015",
+          "hangar_id": "2343420",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1995-01-19",
+          "tom": "1998-10-04",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0724153546015",
+          "hangar_id": "2343420",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1995-01-16",
+          "tom": "1998-10-04",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0724153546015",
+          "hangar_id": "2343420",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "juridikstuderande",
+          "typ": "titlar",
+          "intressent_id": "0724153546015",
+          "hangar_id": "2343420"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0724153546015",
+          "hangar_id": "2343420"
+        }
+      ]
+    }
+  }
+}

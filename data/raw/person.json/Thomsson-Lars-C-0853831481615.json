@@ -1,0 +1,146 @@
+{
+  "person": {
+    "hangar_guid": "67e2d4b7-e6a7-4e82-9919-754252e88601",
+    "sourceid": "e40dbf5a-203b-4744-84b0-a40ac2a763cb",
+    "intressent_id": "0853831481615",
+    "hangar_id": "5003818",
+    "fodd_ar": "1964",
+    "kon": "man",
+    "efternamn": "Thomsson",
+    "tilltalsnamn": "Lars",
+    "sorteringsnamn": "Thomsson,Lars",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Gotlands län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/e40dbf5a-203b-4744-84b0-a40ac2a763cb",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e40dbf5a-203b-4744-84b0-a40ac2a763cb_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e40dbf5a-203b-4744-84b0-a40ac2a763cb_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e40dbf5a-203b-4744-84b0-a40ac2a763cb_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "14",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0853831481615",
+          "hangar_id": "5003818",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "OSSE",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-10-09",
+          "tom": "2022-10-09",
+          "uppgift": "OSSE-delegationen",
+          "intressent_id": "0853831481615",
+          "hangar_id": "5003818",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0853831481615",
+          "hangar_id": "5003818",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0853831481615",
+          "hangar_id": "5003818",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "27",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-01-16",
+          "tom": "2020-01-30",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0853831481615",
+          "hangar_id": "5003818",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "23",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2020-01-29",
+          "tom": "2022-09-26",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0853831481615",
+          "hangar_id": "5003818",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "lars.thomsson[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0853831481615",
+          "hangar_id": "5003818"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Lantmästare/egen företagare.",
+          "typ": "titlar",
+          "intressent_id": "0853831481615",
+          "hangar_id": "5003818"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0853831481615",
+          "hangar_id": "5003818"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "c1a88fd9-51ff-4218-a796-28cd4dea0edc",
+    "sourceid": "e62730fb-adf2-4fc8-a4c2-1ad1ddcc728d",
+    "intressent_id": "07385270919",
+    "hangar_id": "2342631",
+    "fodd_ar": "1950",
+    "kon": "kvinna",
+    "efternamn": "Öhbom Ekdahl",
+    "tilltalsnamn": "Eva",
+    "sorteringsnamn": "Öhbom Ekdahl,Eva",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/e62730fb-adf2-4fc8-a4c2-1ad1ddcc728d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e62730fb-adf2-4fc8-a4c2-1ad1ddcc728d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e62730fb-adf2-4fc8-a4c2-1ad1ddcc728d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e62730fb-adf2-4fc8-a4c2-1ad1ddcc728d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Statsrådsersättare",
+        "ordningsnummer": "282",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "2006-10-12",
+        "tom": "2006-10-17",
+        "uppgift": "Maria Borelius",
+        "intressent_id": "07385270919",
+        "hangar_id": "2342631",
+        "sortering": "",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": ""
+  }
+}

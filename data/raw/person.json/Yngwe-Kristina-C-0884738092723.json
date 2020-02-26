@@ -1,0 +1,201 @@
+{
+  "person": {
+    "hangar_guid": "03254178-c71a-41e1-9d4b-7e0e97476ef3",
+    "sourceid": "2cfb5b7e-ac47-45e5-84f4-6c53c047cdca",
+    "intressent_id": "0884738092723",
+    "hangar_id": "3057251",
+    "fodd_ar": "1983",
+    "kon": "kvinna",
+    "efternamn": "Yngwe",
+    "tilltalsnamn": "Kristina",
+    "sorteringsnamn": "Yngwe,Kristina",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Skåne läns södra",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/2cfb5b7e-ac47-45e5-84f4-6c53c047cdca",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2cfb5b7e-ac47-45e5-84f4-6c53c047cdca_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2cfb5b7e-ac47-45e5-84f4-6c53c047cdca_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2cfb5b7e-ac47-45e5-84f4-6c53c047cdca_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "124",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0884738092723",
+          "hangar_id": "3057251",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "294",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0884738092723",
+          "hangar_id": "3057251",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "NR",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2014-10-07",
+          "tom": "2015-10-01",
+          "uppgift": "Nordiska rådets svenska delegation",
+          "intressent_id": "0884738092723",
+          "hangar_id": "3057251",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Ordförande",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0884738092723",
+          "hangar_id": "3057251",
+          "sortering": "10",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2018-10-02",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0884738092723",
+          "hangar_id": "3057251",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Vice ordförande",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2015-06-02",
+          "tom": "2018-09-24",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0884738092723",
+          "hangar_id": "3057251",
+          "sortering": "20",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2015-05-28",
+          "tom": "2015-06-02",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0884738092723",
+          "hangar_id": "3057251",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2015-05-28",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0884738092723",
+          "hangar_id": "3057251",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2015-09-18",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0884738092723",
+          "hangar_id": "3057251",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "kristina.yngwe[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0884738092723",
+          "hangar_id": "3057251"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Agronom.",
+          "typ": "titlar",
+          "intressent_id": "0884738092723",
+          "hangar_id": "3057251"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0884738092723",
+          "hangar_id": "3057251"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0884738092723",
+          "hangar_id": "3057251"
+        }
+      ]
+    }
+  }
+}

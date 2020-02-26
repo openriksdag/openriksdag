@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "76dcc6c7-cf54-4824-98b0-1fccb8c3c095",
+    "sourceid": "01603240-31fc-4706-8529-b7a49a04917d",
+    "intressent_id": "0168437688801",
+    "hangar_id": "2341782",
+    "fodd_ar": "1931",
+    "kon": "man",
+    "efternamn": "Södersten",
+    "tilltalsnamn": "Bo",
+    "sorteringsnamn": "Södersten,Bo",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Avliden  2017-09-05",
+    "person_url_xml": "http://data.riksdagen.se/person/01603240-31fc-4706-8529-b7a49a04917d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/01603240-31fc-4706-8529-b7a49a04917d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/01603240-31fc-4706-8529-b7a49a04917d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/01603240-31fc-4706-8529-b7a49a04917d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-12-19",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0168437688801",
+          "hangar_id": "2341782",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "1985-11-18",
+          "tom": "1985-12-18",
+          "uppgift": "Leo Persson 1985-11-18 - 1985-12-18",
+          "intressent_id": "0168437688801",
+          "hangar_id": "2341782",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1985-11-17",
+          "uppgift": "",
+          "intressent_id": "0168437688801",
+          "hangar_id": "2341782",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0168437688801",
+          "hangar_id": "2341782",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0168437688801",
+          "hangar_id": "2341782",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "RGK",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1988-10-18",
+          "tom": "1989-06-30",
+          "uppgift": "Fullmäktige i riksgäldskontoret",
+          "intressent_id": "0168437688801",
+          "hangar_id": "2341782",
+          "sortering": "30",
+          "organ_sortering": "399",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0168437688801",
+          "hangar_id": "2341782"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "professor",
+          "typ": "titlar",
+          "intressent_id": "0168437688801",
+          "hangar_id": "2341782"
+        }
+      ]
+    }
+  }
+}

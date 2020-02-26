@@ -1,0 +1,82 @@
+{
+  "person": {
+    "hangar_guid": "20cb0b1a-b78a-4f4c-8de8-e0eb04675b1e",
+    "sourceid": "34c1367d-9a77-42f8-a015-277786da7a47",
+    "intressent_id": "0958072321310",
+    "hangar_id": "2343389",
+    "fodd_ar": "1968",
+    "kon": "man",
+    "efternamn": "Borg",
+    "tilltalsnamn": "Anders",
+    "sorteringsnamn": "Borg,Anders",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/34c1367d-9a77-42f8-a015-277786da7a47",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/34c1367d-9a77-42f8-a015-277786da7a47_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/34c1367d-9a77-42f8-a015-277786da7a47_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/34c1367d-9a77-42f8-a015-277786da7a47_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "Fi",
+          "roll_kod": "Finansminister",
+          "ordningsnummer": "8",
+          "status": "",
+          "typ": "Departement",
+          "from": "2006-10-06",
+          "tom": "2014-10-03",
+          "uppgift": "Finansdepartementet",
+          "intressent_id": "0958072321310",
+          "hangar_id": "2343389",
+          "sortering": "50",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "89",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1994-10-03",
+          "tom": "1994-10-07",
+          "uppgift": "Per Unckel",
+          "intressent_id": "0958072321310",
+          "hangar_id": "2343389",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KD",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2006-10-17",
+          "tom": "2006-10-24",
+          "uppgift": "Krigsdelegationen",
+          "intressent_id": "0958072321310",
+          "hangar_id": "2343389",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "anders.borg[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0958072321310",
+        "hangar_id": "2343389"
+      }
+    }
+  }
+}

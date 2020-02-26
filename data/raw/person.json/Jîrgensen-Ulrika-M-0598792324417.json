@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "138721aa-fec4-4d61-a1bc-723797674f2b",
+    "sourceid": "fa0256bd-46ac-4027-be42-ffebef7b0dcf",
+    "intressent_id": "0598792324417",
+    "hangar_id": "5003899",
+    "fodd_ar": "1967",
+    "kon": "kvinna",
+    "efternamn": "Jörgensen",
+    "tilltalsnamn": "Ulrika",
+    "sorteringsnamn": "Jörgensen,Ulrika",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Hallands län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/fa0256bd-46ac-4027-be42-ffebef7b0dcf",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fa0256bd-46ac-4027-be42-ffebef7b0dcf_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fa0256bd-46ac-4027-be42-ffebef7b0dcf_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fa0256bd-46ac-4027-be42-ffebef7b0dcf_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "97",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0598792324417",
+          "hangar_id": "5003899",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0598792324417",
+          "hangar_id": "5003899",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0598792324417",
+          "hangar_id": "5003899",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "ulrika.jorgensen[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0598792324417",
+          "hangar_id": "5003899"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Leg. sjuksköterska.",
+          "typ": "titlar",
+          "intressent_id": "0598792324417",
+          "hangar_id": "5003899"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0598792324417",
+          "hangar_id": "5003899"
+        }
+      ]
+    }
+  }
+}

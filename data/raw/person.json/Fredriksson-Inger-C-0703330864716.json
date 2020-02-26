@@ -1,0 +1,178 @@
+{
+  "person": {
+    "hangar_guid": "1b0bfa3c-97d0-4094-a967-e80f789e3b36",
+    "sourceid": "a5e56388-1009-45c9-878d-013f6b62c528",
+    "intressent_id": "0703330864716",
+    "hangar_id": "2343169",
+    "fodd_ar": "1962",
+    "kon": "kvinna",
+    "efternamn": "Fredriksson",
+    "tilltalsnamn": "Inger",
+    "sorteringsnamn": "Fredriksson,Inger",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Södermanlands län",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/a5e56388-1009-45c9-878d-013f6b62c528",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a5e56388-1009-45c9-878d-013f6b62c528_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a5e56388-1009-45c9-878d-013f6b62c528_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a5e56388-1009-45c9-878d-013f6b62c528_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "179",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2013-03-25",
+          "tom": "2013-06-02",
+          "uppgift": "Roger Tiefensee",
+          "intressent_id": "0703330864716",
+          "hangar_id": "2343169",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "215",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2011-10-03",
+          "tom": "2011-12-04",
+          "uppgift": "Roger Tiefensee",
+          "intressent_id": "0703330864716",
+          "hangar_id": "2343169",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2013-03-27",
+          "tom": "2013-06-02",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0703330864716",
+          "hangar_id": "2343169",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-10-03",
+          "tom": "2011-12-04",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0703330864716",
+          "hangar_id": "2343169",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2013-03-27",
+          "tom": "2013-06-02",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0703330864716",
+          "hangar_id": "2343169",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-10-03",
+          "tom": "2011-12-04",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0703330864716",
+          "hangar_id": "2343169",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2013-03-27",
+          "tom": "2013-06-02",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0703330864716",
+          "hangar_id": "2343169",
+          "sortering": "55",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-10-03",
+          "tom": "2011-12-04",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0703330864716",
+          "hangar_id": "2343169",
+          "sortering": "55",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "inger.fredriksson[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0703330864716",
+          "hangar_id": "2343169"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "65242",
+          "typ": "telefonnummer",
+          "intressent_id": "0703330864716",
+          "hangar_id": "2343169"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0703330864716",
+          "hangar_id": "2343169"
+        }
+      ]
+    }
+  }
+}

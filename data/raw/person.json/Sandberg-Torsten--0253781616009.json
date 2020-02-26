@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "07a9b7d0-4286-4654-9361-daf2591d40b1",
+    "sourceid": "1fae478e-7e8c-4ae5-808a-a13070a19896",
+    "intressent_id": "0253781616009",
+    "hangar_id": "2342089",
+    "fodd_ar": "1940",
+    "kon": "man",
+    "efternamn": "Sandberg",
+    "tilltalsnamn": "Torsten",
+    "sorteringsnamn": "Sandberg,Torsten",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/1fae478e-7e8c-4ae5-808a-a13070a19896",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1fae478e-7e8c-4ae5-808a-a13070a19896_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1fae478e-7e8c-4ae5-808a-a13070a19896_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1fae478e-7e8c-4ae5-808a-a13070a19896_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Ersättare",
+        "ordningsnummer": "0",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "1976-10-08",
+        "tom": "1978-10-18",
+        "uppgift": "Olof Johansson",
+        "intressent_id": "0253781616009",
+        "hangar_id": "2342089",
+        "sortering": "45",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": ""
+  }
+}

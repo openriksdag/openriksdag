@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "793f5a8e-6bb7-47d4-82e1-a14f7b581b4a",
+    "sourceid": "fd1e6738-3f28-11d7-ae59-0004755038ce",
+    "intressent_id": "0456373360003",
+    "hangar_id": "2342398",
+    "fodd_ar": "1946",
+    "kon": "kvinna",
+    "efternamn": "Edlind-Friberg",
+    "tilltalsnamn": "Louise",
+    "sorteringsnamn": "Edlind-Friberg,Louise",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/fd1e6738-3f28-11d7-ae59-0004755038ce",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fd1e6738-3f28-11d7-ae59-0004755038ce_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fd1e6738-3f28-11d7-ae59-0004755038ce_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fd1e6738-3f28-11d7-ae59-0004755038ce_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "10",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-01-01",
+          "tom": "2006-10-02",
+          "uppgift": "",
+          "intressent_id": "0456373360003",
+          "hangar_id": "2342398",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "2",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2003-02-24",
+          "tom": "2003-04-06",
+          "uppgift": "Gabriel Romanus",
+          "intressent_id": "0456373360003",
+          "hangar_id": "2342398",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-03-09",
+          "tom": "2006-10-02",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0456373360003",
+          "hangar_id": "2342398",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-01-01",
+          "tom": "2006-03-09",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0456373360003",
+          "hangar_id": "2342398",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2003-03-03",
+          "tom": "2003-04-06",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0456373360003",
+          "hangar_id": "2342398",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2003-03-03",
+          "tom": "2003-04-06",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0456373360003",
+          "hangar_id": "2342398",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Skådespelare",
+          "typ": "titlar",
+          "intressent_id": "0456373360003",
+          "hangar_id": "2342398"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0456373360003",
+          "hangar_id": "2342398"
+        }
+      ]
+    }
+  }
+}

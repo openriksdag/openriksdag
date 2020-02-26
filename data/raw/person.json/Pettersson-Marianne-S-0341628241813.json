@@ -1,0 +1,185 @@
+{
+  "person": {
+    "hangar_guid": "c834da0b-1534-44bc-b71f-f3da08467822",
+    "sourceid": "d9f971a1-12ab-4a01-8cb6-2d2d6a9e0791",
+    "intressent_id": "0341628241813",
+    "hangar_id": "2369563",
+    "fodd_ar": "1958",
+    "kon": "kvinna",
+    "efternamn": "Pettersson",
+    "tilltalsnamn": "Marianne",
+    "sorteringsnamn": "Pettersson,Marianne",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Skåne läns södra",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/d9f971a1-12ab-4a01-8cb6-2d2d6a9e0791",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d9f971a1-12ab-4a01-8cb6-2d2d6a9e0791_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d9f971a1-12ab-4a01-8cb6-2d2d6a9e0791_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d9f971a1-12ab-4a01-8cb6-2d2d6a9e0791_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "125",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0341628241813",
+          "hangar_id": "2369563",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "124",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2014-10-03",
+          "tom": "2018-09-24",
+          "uppgift": "Morgan Johansson",
+          "intressent_id": "0341628241813",
+          "hangar_id": "2369563",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-02-08",
+          "tom": "2022-09-26",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0341628241813",
+          "hangar_id": "2369563",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "17",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0341628241813",
+          "hangar_id": "2369563",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-02-15",
+          "tom": "2022-09-26",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0341628241813",
+          "hangar_id": "2369563",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-02-08",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0341628241813",
+          "hangar_id": "2369563",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0341628241813",
+          "hangar_id": "2369563",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "8",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0341628241813",
+          "hangar_id": "2369563",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "marianne.pettersson[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0341628241813",
+          "hangar_id": "2369563"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Undersköterska.",
+          "typ": "titlar",
+          "intressent_id": "0341628241813",
+          "hangar_id": "2369563"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0341628241813",
+          "hangar_id": "2369563"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0341628241813",
+          "hangar_id": "2369563"
+        }
+      ]
+    }
+  }
+}

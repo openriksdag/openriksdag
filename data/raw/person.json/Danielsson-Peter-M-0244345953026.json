@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "28c63ed5-1a1a-455f-b722-273fb09bb3d1",
+    "sourceid": "91925924-81e3-42f4-92cd-dcb15d3f4a88",
+    "intressent_id": "0244345953026",
+    "hangar_id": "2343572",
+    "fodd_ar": "1974",
+    "kon": "man",
+    "efternamn": "Danielsson",
+    "tilltalsnamn": "Peter",
+    "sorteringsnamn": "Danielsson,Peter",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Skåne läns västra",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/91925924-81e3-42f4-92cd-dcb15d3f4a88",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/91925924-81e3-42f4-92cd-dcb15d3f4a88_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/91925924-81e3-42f4-92cd-dcb15d3f4a88_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/91925924-81e3-42f4-92cd-dcb15d3f4a88_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "292",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2006-11-08",
+          "uppgift": "",
+          "intressent_id": "0244345953026",
+          "hangar_id": "2343572",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "164",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2002-09-30",
+          "tom": "2006-10-02",
+          "uppgift": "",
+          "intressent_id": "0244345953026",
+          "hangar_id": "2343572",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2003-01-01",
+          "tom": "2006-10-02",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0244345953026",
+          "hangar_id": "2343572",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2002-12-31",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0244345953026",
+          "hangar_id": "2343572",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2006-11-08",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0244345953026",
+          "hangar_id": "2343572",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2005-04-06",
+          "tom": "2006-10-02",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0244345953026",
+          "hangar_id": "2343572",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2005-04-05",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "0244345953026",
+          "hangar_id": "2343572",
+          "sortering": "30",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "kommunikationskonsult",
+          "typ": "titlar",
+          "intressent_id": "0244345953026",
+          "hangar_id": "2343572"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Communications Consultant",
+          "typ": "titlar",
+          "intressent_id": "0244345953026",
+          "hangar_id": "2343572"
+        }
+      ]
+    }
+  }
+}

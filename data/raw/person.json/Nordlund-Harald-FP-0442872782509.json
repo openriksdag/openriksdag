@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "3e990fff-6ae6-4360-bb91-23364cdc76e1",
+    "sourceid": "d7c3255e-83e4-11d4-ae60-0050040c9b55",
+    "intressent_id": "0442872782509",
+    "hangar_id": "2342190",
+    "fodd_ar": "1943",
+    "kon": "man",
+    "efternamn": "Nordlund",
+    "tilltalsnamn": "Harald",
+    "sorteringsnamn": "Nordlund,Harald",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "Uppsala län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/d7c3255e-83e4-11d4-ae60-0050040c9b55",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c3255e-83e4-11d4-ae60-0050040c9b55_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c3255e-83e4-11d4-ae60-0050040c9b55_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c3255e-83e4-11d4-ae60-0050040c9b55_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2005-01-15",
+          "tom": "2005-07-15",
+          "uppgift": "",
+          "intressent_id": "0442872782509",
+          "hangar_id": "2342190",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "77",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1998-10-05",
+          "tom": "2002-09-30",
+          "uppgift": "",
+          "intressent_id": "0442872782509",
+          "hangar_id": "2342190",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "2002-09-30",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0442872782509",
+          "hangar_id": "2342190",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2005-01-15",
+          "tom": "2005-07-15",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0442872782509",
+          "hangar_id": "2342190",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "2002-09-30",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0442872782509",
+          "hangar_id": "2342190",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2001-03-15",
+          "tom": "2002-10-08",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0442872782509",
+          "hangar_id": "2342190",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-20",
+          "tom": "1999-01-29",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0442872782509",
+          "hangar_id": "2342190",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "kommunalråd",
+          "typ": "titlar",
+          "intressent_id": "0442872782509",
+          "hangar_id": "2342190"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Municipal Commissioner",
+          "typ": "titlar",
+          "intressent_id": "0442872782509",
+          "hangar_id": "2342190"
+        }
+      ]
+    }
+  }
+}

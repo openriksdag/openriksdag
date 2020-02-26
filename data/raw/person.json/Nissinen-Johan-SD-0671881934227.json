@@ -1,0 +1,169 @@
+{
+  "person": {
+    "hangar_guid": "f38a944b-1533-46ea-920b-7ab753ee0708",
+    "sourceid": "04e5d66d-9d71-4358-9dcb-8a2e371397c0",
+    "intressent_id": "0671881934227",
+    "hangar_id": "3057266",
+    "fodd_ar": "1989",
+    "kon": "man",
+    "efternamn": "Nissinen",
+    "tilltalsnamn": "Johan",
+    "sorteringsnamn": "Nissinen,Johan",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Jönköpings län",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/04e5d66d-9d71-4358-9dcb-8a2e371397c0",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/04e5d66d-9d71-4358-9dcb-8a2e371397c0_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/04e5d66d-9d71-4358-9dcb-8a2e371397c0_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/04e5d66d-9d71-4358-9dcb-8a2e371397c0_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "127",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0671881934227",
+          "hangar_id": "3057266",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "ER",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2016-04-05",
+          "tom": "2018-10-31",
+          "uppgift": "Europarådets svenska delegation",
+          "intressent_id": "0671881934227",
+          "hangar_id": "3057266",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "ER",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2014-11-01",
+          "tom": "2016-04-05",
+          "uppgift": "Europarådets svenska delegation",
+          "intressent_id": "0671881934227",
+          "hangar_id": "3057266",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2016-02-03",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0671881934227",
+          "hangar_id": "3057266",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0671881934227",
+          "hangar_id": "3057266",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "19",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-14",
+          "tom": "2018-09-24",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0671881934227",
+          "hangar_id": "3057266",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0671881934227",
+          "hangar_id": "3057266",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "johan.nissinen[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0671881934227",
+          "hangar_id": "3057266"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Terminalarbetare/Ekonomistudent.",
+          "typ": "titlar",
+          "intressent_id": "0671881934227",
+          "hangar_id": "3057266"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0671881934227",
+          "hangar_id": "3057266"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0671881934227",
+          "hangar_id": "3057266"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "d7b1ce78-0c6a-41ce-b221-bdd2557e7225",
+    "sourceid": "d39218ba-1b36-44bb-aa6a-d646a4bdd9e0",
+    "intressent_id": "0137849446315",
+    "hangar_id": "4536741",
+    "fodd_ar": "1959",
+    "kon": "kvinna",
+    "efternamn": "Ekström",
+    "tilltalsnamn": "Anna",
+    "sorteringsnamn": "Ekström,Anna",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Utbildningsminister",
+    "person_url_xml": "http://data.riksdagen.se/person/d39218ba-1b36-44bb-aa6a-d646a4bdd9e0",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d39218ba-1b36-44bb-aa6a-d646a4bdd9e0_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d39218ba-1b36-44bb-aa6a-d646a4bdd9e0_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d39218ba-1b36-44bb-aa6a-d646a4bdd9e0_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "U",
+          "roll_kod": "Utbildningsminister",
+          "ordningsnummer": "14",
+          "status": "",
+          "typ": "Departement",
+          "from": "2019-10-01",
+          "tom": "2022-09-26",
+          "uppgift": "Utbildningsdepartementet",
+          "intressent_id": "0137849446315",
+          "hangar_id": "4536741",
+          "sortering": "",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "U",
+          "roll_kod": "Utbildningsminister",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "Departement",
+          "from": "2019-09-10",
+          "tom": "2019-10-01",
+          "uppgift": "Utbildningsdepartementet",
+          "intressent_id": "0137849446315",
+          "hangar_id": "4536741",
+          "sortering": "",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "U",
+          "roll_kod": "Utbildningsminister",
+          "ordningsnummer": "17",
+          "status": "",
+          "typ": "Departement",
+          "from": "2019-01-21",
+          "tom": "2019-09-10",
+          "uppgift": "Utbildningsdepartementet",
+          "intressent_id": "0137849446315",
+          "hangar_id": "4536741",
+          "sortering": "",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "U",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "21",
+          "status": "",
+          "typ": "Departement",
+          "from": "2017-07-27",
+          "tom": "2019-01-21",
+          "uppgift": "Utbildningsdepartementet",
+          "intressent_id": "0137849446315",
+          "hangar_id": "4536741",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "U",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "24",
+          "status": "",
+          "typ": "Departement",
+          "from": "2016-09-13",
+          "tom": "2017-07-27",
+          "uppgift": "Utbildningsdepartementet",
+          "intressent_id": "0137849446315",
+          "hangar_id": "4536741",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Jur.kand.",
+          "typ": "titlar",
+          "intressent_id": "0137849446315",
+          "hangar_id": "4536741"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0137849446315",
+          "hangar_id": "4536741"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "ccb3b02f-cac4-4ffa-87a6-7a38cac7d1d5",
+    "sourceid": "7d8da3e3-a63e-49b1-a38e-384a962e03d2",
+    "intressent_id": "044562190409",
+    "hangar_id": "2342205",
+    "fodd_ar": "1943",
+    "kon": "man",
+    "efternamn": "Borglund",
+    "tilltalsnamn": "Bertil",
+    "sorteringsnamn": "Borglund,Bertil",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "Västra Götalands läns norra",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/7d8da3e3-a63e-49b1-a38e-384a962e03d2",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7d8da3e3-a63e-49b1-a38e-384a962e03d2_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7d8da3e3-a63e-49b1-a38e-384a962e03d2_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7d8da3e3-a63e-49b1-a38e-384a962e03d2_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "231",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1995-05-15",
+          "tom": "1995-06-18",
+          "uppgift": "Barbro Feltzing",
+          "intressent_id": "044562190409",
+          "hangar_id": "2342205",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1995-05-15",
+          "tom": "1995-06-18",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "044562190409",
+          "hangar_id": "2342205",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1995-05-15",
+          "tom": "1995-06-18",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "044562190409",
+          "hangar_id": "2342205",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1995-05-15",
+          "tom": "1995-06-18",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "044562190409",
+          "hangar_id": "2342205",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "lärare",
+          "typ": "titlar",
+          "intressent_id": "044562190409",
+          "hangar_id": "2342205"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "044562190409",
+          "hangar_id": "2342205"
+        }
+      ]
+    }
+  }
+}

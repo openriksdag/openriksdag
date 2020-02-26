@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "183440fb-b5e9-4c47-83b7-c212f36aee2d",
+    "sourceid": "3c5cc447-e4cd-11d6-ae81-0004755038ce",
+    "intressent_id": "0582064163300",
+    "hangar_id": "2342504",
+    "fodd_ar": "1948",
+    "kon": "kvinna",
+    "efternamn": "Nykvist",
+    "tilltalsnamn": "Ann-Christin",
+    "sorteringsnamn": "Nykvist,Ann-Christin",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare jordbruksminister",
+    "person_url_xml": "http://data.riksdagen.se/person/3c5cc447-e4cd-11d6-ae81-0004755038ce",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3c5cc447-e4cd-11d6-ae81-0004755038ce_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3c5cc447-e4cd-11d6-ae81-0004755038ce_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3c5cc447-e4cd-11d6-ae81-0004755038ce_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "Jo",
+          "roll_kod": "Jordbruksminister",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Departement",
+          "from": "2006-10-02",
+          "tom": "2006-10-06",
+          "uppgift": "Jordbruksdepartementet",
+          "intressent_id": "0582064163300",
+          "hangar_id": "2342504",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "Jo",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Departement",
+          "from": "2002-09-30",
+          "tom": "2006-10-02",
+          "uppgift": "Jordbruksdepartementet",
+          "intressent_id": "0582064163300",
+          "hangar_id": "2342504",
+          "sortering": "100",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

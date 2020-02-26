@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "6d2c0a2a-f3d4-4782-8fb6-7d37b355bd60",
+    "sourceid": "5506eb54-3144-494f-8f70-b6d90ef837a0",
+    "intressent_id": "0394601078212",
+    "hangar_id": "2343322",
+    "fodd_ar": "1965",
+    "kon": "man",
+    "efternamn": "Fahmi",
+    "tilltalsnamn": "Mahmood",
+    "sorteringsnamn": "Fahmi,Mahmood",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/5506eb54-3144-494f-8f70-b6d90ef837a0",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5506eb54-3144-494f-8f70-b6d90ef837a0_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5506eb54-3144-494f-8f70-b6d90ef837a0_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5506eb54-3144-494f-8f70-b6d90ef837a0_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "206",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2008-05-07",
+          "tom": "2010-10-04",
+          "uppgift": "Lena Adelsohn Liljeroth",
+          "intressent_id": "0394601078212",
+          "hangar_id": "2343322",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2008-05-15",
+          "tom": "2010-10-04",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0394601078212",
+          "hangar_id": "2343322",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-03-04",
+          "tom": "2010-10-04",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0394601078212",
+          "hangar_id": "2343322",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Lantmätare/Terapeut",
+          "typ": "titlar",
+          "intressent_id": "0394601078212",
+          "hangar_id": "2343322"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0394601078212",
+          "hangar_id": "2343322"
+        }
+      ]
+    }
+  }
+}

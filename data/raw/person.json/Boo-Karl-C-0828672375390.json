@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "5f5b6191-e86c-43e6-a9af-c9dd7253cf55",
+    "sourceid": "9bd86e82-6f5f-451b-bf9b-0cf6809ab16b",
+    "intressent_id": "0828672375390",
+    "hangar_id": "2341630",
+    "fodd_ar": "1918",
+    "kon": "man",
+    "efternamn": "Boo",
+    "tilltalsnamn": "Karl",
+    "sorteringsnamn": "Boo,Karl",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/9bd86e82-6f5f-451b-bf9b-0cf6809ab16b",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9bd86e82-6f5f-451b-bf9b-0cf6809ab16b_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9bd86e82-6f5f-451b-bf9b-0cf6809ab16b_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9bd86e82-6f5f-451b-bf9b-0cf6809ab16b_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0828672375390",
+          "hangar_id": "2341630",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0828672375390",
+          "hangar_id": "2341630",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0828672375390",
+          "hangar_id": "2341630",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1976-10-04",
+          "tom": "1979-10-01",
+          "uppgift": "",
+          "intressent_id": "0828672375390",
+          "hangar_id": "2341630",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "kontrollassistent",
+          "typ": "titlar",
+          "intressent_id": "0828672375390",
+          "hangar_id": "2341630"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0828672375390",
+          "hangar_id": "2341630"
+        }
+      ]
+    }
+  }
+}

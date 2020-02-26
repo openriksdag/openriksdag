@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "42f2ec70-70b2-43a5-9dc9-6615a90187ce",
+    "sourceid": "c012fffd-1b8d-467e-b1b1-461649ae5c12",
+    "intressent_id": "0262742649696",
+    "hangar_id": "2341623",
+    "fodd_ar": "1917",
+    "kon": "man",
+    "efternamn": "Sjönell",
+    "tilltalsnamn": "Bengt",
+    "sorteringsnamn": "Sjönell,Bengt",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/c012fffd-1b8d-467e-b1b1-461649ae5c12",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c012fffd-1b8d-467e-b1b1-461649ae5c12_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c012fffd-1b8d-467e-b1b1-461649ae5c12_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c012fffd-1b8d-467e-b1b1-461649ae5c12_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Ersättare",
+        "ordningsnummer": "0",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "1979-10-12",
+        "tom": "1982-10-04",
+        "uppgift": "Olof Johansson",
+        "intressent_id": "0262742649696",
+        "hangar_id": "2341623",
+        "sortering": "45",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": ""
+  }
+}

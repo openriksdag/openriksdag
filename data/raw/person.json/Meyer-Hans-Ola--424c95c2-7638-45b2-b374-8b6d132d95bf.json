@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "2b1d8169-bb48-4d77-a033-2d3bc1bb3d9f",
+    "sourceid": "424c95c2-7638-45b2-b374-8b6d132d95bf",
+    "intressent_id": "",
+    "hangar_id": "4788791",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Meyer",
+    "tilltalsnamn": "Hans-Ola",
+    "sorteringsnamn": "Meyer,Hans-Ola",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ledamot i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/424c95c2-7638-45b2-b374-8b6d132d95bf",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/424c95c2-7638-45b2-b374-8b6d132d95bf_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/424c95c2-7638-45b2-b374-8b6d132d95bf_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/424c95c2-7638-45b2-b374-8b6d132d95bf_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "RJ",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "11",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2010-11-01",
+          "tom": "2014-10-31",
+          "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+          "intressent_id": "",
+          "hangar_id": "4788791",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RJ",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "11",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2006-11-01",
+          "tom": "2010-10-31",
+          "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+          "intressent_id": "",
+          "hangar_id": "4788791",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

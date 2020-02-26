@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "45d63c9c-acee-428f-8ada-f11b6ea903a6",
+    "sourceid": "2490f8a7-23f1-4917-8f0b-04bdc7cb5210",
+    "intressent_id": "0528100184906",
+    "hangar_id": "2341962",
+    "fodd_ar": "1937",
+    "kon": "kvinna",
+    "efternamn": "Husing",
+    "tilltalsnamn": "Eivor",
+    "sorteringsnamn": "Husing,Eivor",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/2490f8a7-23f1-4917-8f0b-04bdc7cb5210",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2490f8a7-23f1-4917-8f0b-04bdc7cb5210_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2490f8a7-23f1-4917-8f0b-04bdc7cb5210_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2490f8a7-23f1-4917-8f0b-04bdc7cb5210_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "337",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1993-03-08",
+          "tom": "1993-05-31",
+          "uppgift": "Lena Boström",
+          "intressent_id": "0528100184906",
+          "hangar_id": "2341962",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-09-30",
+          "tom": "1991-10-04",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0528100184906",
+          "hangar_id": "2341962",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-01-01",
+          "tom": "1991-09-29",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0528100184906",
+          "hangar_id": "2341962",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1990-12-31",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0528100184906",
+          "hangar_id": "2341962",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-09-30",
+          "tom": "1991-10-04",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0528100184906",
+          "hangar_id": "2341962",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0528100184906",
+          "hangar_id": "2341962",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1993-03-09",
+          "tom": "1993-05-31",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0528100184906",
+          "hangar_id": "2341962",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "kontorist",
+          "typ": "titlar",
+          "intressent_id": "0528100184906",
+          "hangar_id": "2341962"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0528100184906",
+          "hangar_id": "2341962"
+        }
+      ]
+    }
+  }
+}

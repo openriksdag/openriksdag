@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "3ce8d493-2958-48a7-8990-7b1dbb367baa",
+    "sourceid": "8eeed643-8ffe-4019-94b6-87c5837875b9",
+    "intressent_id": "",
+    "hangar_id": "4788806",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Nivert",
+    "tilltalsnamn": "Marianne",
+    "sorteringsnamn": "Nivert,Marianne",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ordförande i Nämnden för lön till riksdagens ombudsmän och riksrevisorerna",
+    "person_url_xml": "http://data.riksdagen.se/person/8eeed643-8ffe-4019-94b6-87c5837875b9",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8eeed643-8ffe-4019-94b6-87c5837875b9_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8eeed643-8ffe-4019-94b6-87c5837875b9_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8eeed643-8ffe-4019-94b6-87c5837875b9_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "NL",
+        "roll_kod": "Ordförande",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2008-05-23",
+        "tom": "2014-06-11",
+        "uppgift": "Nämnden för lön till riksdagens ombudsmän och riksrevisorerna",
+        "intressent_id": "",
+        "hangar_id": "4788806",
+        "sortering": "10",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

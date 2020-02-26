@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "3f2b768a-6818-4d72-b315-6dc575582526",
+    "sourceid": "7790cb87-5512-4241-b614-504674174466",
+    "intressent_id": "0551169456620",
+    "hangar_id": "3057397",
+    "fodd_ar": "1985",
+    "kon": "man",
+    "efternamn": "Wikström",
+    "tilltalsnamn": "Gabriel",
+    "sorteringsnamn": "Wikström,Gabriel",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Västmanlands län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/7790cb87-5512-4241-b614-504674174466",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7790cb87-5512-4241-b614-504674174466_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7790cb87-5512-4241-b614-504674174466_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7790cb87-5512-4241-b614-504674174466_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "S",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "20",
+          "status": "",
+          "typ": "Departement",
+          "from": "2016-05-25",
+          "tom": "2017-07-27",
+          "uppgift": "Socialdepartementet",
+          "intressent_id": "0551169456620",
+          "hangar_id": "3057397",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "S",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "23",
+          "status": "",
+          "typ": "Departement",
+          "from": "2014-10-03",
+          "tom": "2016-05-25",
+          "uppgift": "Socialdepartementet",
+          "intressent_id": "0551169456620",
+          "hangar_id": "3057397",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "343",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-03-20",
+          "tom": "2018-03-21",
+          "uppgift": "",
+          "intressent_id": "0551169456620",
+          "hangar_id": "3057397",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

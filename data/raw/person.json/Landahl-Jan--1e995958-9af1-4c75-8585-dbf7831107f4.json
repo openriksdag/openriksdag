@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "6aa509e3-8cc3-4905-b4c8-50fec9dcb70c",
+    "sourceid": "1e995958-9af1-4c75-8585-dbf7831107f4",
+    "intressent_id": "",
+    "hangar_id": "4788804",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Landahl",
+    "tilltalsnamn": "Jan",
+    "sorteringsnamn": "Landahl,Jan",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare riksrevisor i Riksrevisorerna",
+    "person_url_xml": "http://data.riksdagen.se/person/1e995958-9af1-4c75-8585-dbf7831107f4",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1e995958-9af1-4c75-8585-dbf7831107f4_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1e995958-9af1-4c75-8585-dbf7831107f4_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1e995958-9af1-4c75-8585-dbf7831107f4_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RR",
+        "roll_kod": "Riksrevisor",
+        "ordningsnummer": "2",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2010-01-01",
+        "tom": "2015-02-28",
+        "uppgift": "Riksrevisorerna",
+        "intressent_id": "",
+        "hangar_id": "4788804",
+        "sortering": "",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

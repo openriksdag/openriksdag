@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "554fad74-b94d-495b-b53d-812212575299",
+    "sourceid": "1ec7763f-fad9-40a8-800f-ad1ec249f336",
+    "intressent_id": "0100689229625",
+    "hangar_id": "2369472",
+    "fodd_ar": "1984",
+    "kon": "man",
+    "efternamn": "Beckman",
+    "tilltalsnamn": "Hannes",
+    "sorteringsnamn": "Beckman,Hannes",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Uppsala län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/1ec7763f-fad9-40a8-800f-ad1ec249f336",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1ec7763f-fad9-40a8-800f-ad1ec249f336_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1ec7763f-fad9-40a8-800f-ad1ec249f336_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1ec7763f-fad9-40a8-800f-ad1ec249f336_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "147",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2011-12-13",
+          "tom": "2012-02-24",
+          "uppgift": "Marta Obminska",
+          "intressent_id": "0100689229625",
+          "hangar_id": "2369472",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "147",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2011-06-07",
+          "tom": "2011-08-24",
+          "uppgift": "Marta Obminska",
+          "intressent_id": "0100689229625",
+          "hangar_id": "2369472",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-12-14",
+          "tom": "2012-02-24",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0100689229625",
+          "hangar_id": "2369472",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "28",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-06-10",
+          "tom": "2011-08-24",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0100689229625",
+          "hangar_id": "2369472",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-12-14",
+          "tom": "2012-02-24",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0100689229625",
+          "hangar_id": "2369472",
+          "sortering": "55",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-06-07",
+          "tom": "2011-08-24",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0100689229625",
+          "hangar_id": "2369472",
+          "sortering": "55",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "hannes.beckman[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0100689229625",
+          "hangar_id": "2369472"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "65873",
+          "typ": "telefonnummer",
+          "intressent_id": "0100689229625",
+          "hangar_id": "2369472"
+        }
+      ]
+    }
+  }
+}

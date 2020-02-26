@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "b1c8e687-235c-4332-af02-94319127adc5",
+    "sourceid": "40db74f6-0282-4938-aa17-b4679a8bf2b4",
+    "intressent_id": "0980370282703",
+    "hangar_id": "2342025",
+    "fodd_ar": "1939",
+    "kon": "man",
+    "efternamn": "Bergstig",
+    "tilltalsnamn": "Lars",
+    "sorteringsnamn": "Bergstig,Lars",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/40db74f6-0282-4938-aa17-b4679a8bf2b4",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/40db74f6-0282-4938-aa17-b4679a8bf2b4_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/40db74f6-0282-4938-aa17-b4679a8bf2b4_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/40db74f6-0282-4938-aa17-b4679a8bf2b4_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Ersättare",
+        "ordningsnummer": "44",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "1994-06-20",
+        "tom": "1994-10-03",
+        "uppgift": "Anne Wibble",
+        "intressent_id": "0980370282703",
+        "hangar_id": "2342025",
+        "sortering": "45",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "informationschef",
+          "typ": "titlar",
+          "intressent_id": "0980370282703",
+          "hangar_id": "2342025"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0980370282703",
+          "hangar_id": "2342025"
+        }
+      ]
+    }
+  }
+}

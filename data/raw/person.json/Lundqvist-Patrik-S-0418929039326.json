@@ -1,0 +1,160 @@
+{
+  "person": {
+    "hangar_guid": "a574dd0e-d19f-49ec-8ecf-69fa10384b76",
+    "sourceid": "41f3a07f-57ba-4d0c-b737-e05aa04ec023",
+    "intressent_id": "0418929039326",
+    "hangar_id": "3057414",
+    "fodd_ar": "1984",
+    "kon": "man",
+    "efternamn": "Lundqvist",
+    "tilltalsnamn": "Patrik",
+    "sorteringsnamn": "Lundqvist,Patrik",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Gävleborgs län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/41f3a07f-57ba-4d0c-b737-e05aa04ec023",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/41f3a07f-57ba-4d0c-b737-e05aa04ec023_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/41f3a07f-57ba-4d0c-b737-e05aa04ec023_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/41f3a07f-57ba-4d0c-b737-e05aa04ec023_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "311",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0418929039326",
+          "hangar_id": "3057414",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "136",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0418929039326",
+          "hangar_id": "3057414",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "11",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0418929039326",
+          "hangar_id": "3057414",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "11",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0418929039326",
+          "hangar_id": "3057414",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "17",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0418929039326",
+          "hangar_id": "3057414",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0418929039326",
+          "hangar_id": "3057414",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "patrik.lundqvist[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0418929039326",
+          "hangar_id": "3057414"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "65355",
+          "typ": "telefonnummer",
+          "intressent_id": "0418929039326",
+          "hangar_id": "3057414"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Mekaniker.",
+          "typ": "titlar",
+          "intressent_id": "0418929039326",
+          "hangar_id": "3057414"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0418929039326",
+          "hangar_id": "3057414"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0418929039326",
+          "hangar_id": "3057414"
+        }
+      ]
+    }
+  }
+}

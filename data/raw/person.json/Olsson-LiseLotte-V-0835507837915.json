@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "e6083507-acbc-4899-9f83-64c22835c645",
+    "sourceid": "2fbfd3a4-f991-439f-9eec-1bc8b268b434",
+    "intressent_id": "0835507837915",
+    "hangar_id": "2342820",
+    "fodd_ar": "1954",
+    "kon": "kvinna",
+    "efternamn": "Olsson",
+    "tilltalsnamn": "LiseLotte",
+    "sorteringsnamn": "Olsson,LiseLotte",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "Västerbottens län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/2fbfd3a4-f991-439f-9eec-1bc8b268b434",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2fbfd3a4-f991-439f-9eec-1bc8b268b434_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2fbfd3a4-f991-439f-9eec-1bc8b268b434_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2fbfd3a4-f991-439f-9eec-1bc8b268b434_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "169",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0835507837915",
+          "hangar_id": "2342820",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "14",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0835507837915",
+          "hangar_id": "2342820",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "14",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0835507837915",
+          "hangar_id": "2342820",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Ombudsman",
+          "typ": "titlar",
+          "intressent_id": "0835507837915",
+          "hangar_id": "2342820"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0835507837915",
+          "hangar_id": "2342820"
+        }
+      ]
+    }
+  }
+}

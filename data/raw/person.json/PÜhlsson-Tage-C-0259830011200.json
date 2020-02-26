@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "372abef5-f1b7-473f-9df1-b1a876235962",
+    "sourceid": "f5c4d1a2-689f-4a8b-8e6a-036e2afc66e0",
+    "intressent_id": "0259830011200",
+    "hangar_id": "2341991",
+    "fodd_ar": "1938",
+    "kon": "man",
+    "efternamn": "Påhlsson",
+    "tilltalsnamn": "Tage",
+    "sorteringsnamn": "Påhlsson,Tage",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Västernorrlands län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/f5c4d1a2-689f-4a8b-8e6a-036e2afc66e0",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f5c4d1a2-689f-4a8b-8e6a-036e2afc66e0_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f5c4d1a2-689f-4a8b-8e6a-036e2afc66e0_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f5c4d1a2-689f-4a8b-8e6a-036e2afc66e0_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "318",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1991-10-05",
+          "tom": "1994-10-03",
+          "uppgift": "Görel Thurdin",
+          "intressent_id": "0259830011200",
+          "hangar_id": "2341991",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1992-03-12",
+          "tom": "1994-10-02",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0259830011200",
+          "hangar_id": "2341991",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0259830011200",
+          "hangar_id": "2341991",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0259830011200",
+          "hangar_id": "2341991"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "byrådirektör",
+          "typ": "titlar",
+          "intressent_id": "0259830011200",
+          "hangar_id": "2341991"
+        }
+      ]
+    }
+  }
+}

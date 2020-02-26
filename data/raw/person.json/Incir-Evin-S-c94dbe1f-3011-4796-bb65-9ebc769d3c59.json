@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "69b4810d-a18e-4b76-9836-0c47de4977f1",
+    "sourceid": "c94dbe1f-3011-4796-bb65-9ebc769d3c59",
+    "intressent_id": "",
+    "hangar_id": "5035034",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Incir",
+    "tilltalsnamn": "Evin",
+    "sorteringsnamn": "Incir,Evin",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/c94dbe1f-3011-4796-bb65-9ebc769d3c59",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c94dbe1f-3011-4796-bb65-9ebc769d3c59_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c94dbe1f-3011-4796-bb65-9ebc769d3c59_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c94dbe1f-3011-4796-bb65-9ebc769d3c59_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "EP",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "14",
+        "status": "",
+        "typ": "Europaparlamentet",
+        "from": "2019-07-02",
+        "tom": "2024-07-02",
+        "uppgift": "Europaparlamentet",
+        "intressent_id": "",
+        "hangar_id": "5035034",
+        "sortering": "30",
+        "organ_sortering": "100",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

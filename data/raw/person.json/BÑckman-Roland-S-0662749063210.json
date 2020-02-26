@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "857e6620-62b3-493f-a63c-2bac5e261e33",
+    "sourceid": "2d356129-25d1-4e68-b159-69b60fd94093",
+    "intressent_id": "0662749063210",
+    "hangar_id": "2343118",
+    "fodd_ar": "1960",
+    "kon": "man",
+    "efternamn": "Bäckman",
+    "tilltalsnamn": "Roland",
+    "sorteringsnamn": "Bäckman,Roland",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Gävleborgs län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/2d356129-25d1-4e68-b159-69b60fd94093",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2d356129-25d1-4e68-b159-69b60fd94093_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2d356129-25d1-4e68-b159-69b60fd94093_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2d356129-25d1-4e68-b159-69b60fd94093_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "77",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2007-09-18",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0662749063210",
+          "hangar_id": "2343118",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "77",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2006-10-06",
+          "uppgift": "Ulrica Messing",
+          "intressent_id": "0662749063210",
+          "hangar_id": "2343118",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2009-06-08",
+          "tom": "2010-10-04",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0662749063210",
+          "hangar_id": "2343118",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-10-04",
+          "tom": "2009-06-11",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0662749063210",
+          "hangar_id": "2343118",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Handläggare",
+          "typ": "titlar",
+          "intressent_id": "0662749063210",
+          "hangar_id": "2343118"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0662749063210",
+          "hangar_id": "2343118"
+        }
+      ]
+    }
+  }
+}

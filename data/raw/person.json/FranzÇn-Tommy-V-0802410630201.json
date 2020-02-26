@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "f979568b-9e75-448f-bd0b-3cd84437a960",
+    "sourceid": "a4c11445-1588-4807-aba3-5a31178e78b5",
+    "intressent_id": "0802410630201",
+    "hangar_id": "2342005",
+    "fodd_ar": "1938",
+    "kon": "man",
+    "efternamn": "Franzén",
+    "tilltalsnamn": "Tommy",
+    "sorteringsnamn": "Franzén,Tommy",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/a4c11445-1588-4807-aba3-5a31178e78b5",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a4c11445-1588-4807-aba3-5a31178e78b5_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a4c11445-1588-4807-aba3-5a31178e78b5_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a4c11445-1588-4807-aba3-5a31178e78b5_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1987-12-21",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0802410630201",
+          "hangar_id": "2342005",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "1987-11-13",
+          "tom": "1987-12-20",
+          "uppgift": "Eva Zetterberg 1987-11-13 - 1987-12-20",
+          "intressent_id": "0802410630201",
+          "hangar_id": "2342005",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1987-11-12",
+          "uppgift": "",
+          "intressent_id": "0802410630201",
+          "hangar_id": "2342005",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0802410630201",
+          "hangar_id": "2342005",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0802410630201",
+          "hangar_id": "2342005",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1976-10-04",
+          "tom": "1979-10-01",
+          "uppgift": "",
+          "intressent_id": "0802410630201",
+          "hangar_id": "2342005",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "elektriker",
+          "typ": "titlar",
+          "intressent_id": "0802410630201",
+          "hangar_id": "2342005"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0802410630201",
+          "hangar_id": "2342005"
+        }
+      ]
+    }
+  }
+}

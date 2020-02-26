@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "6bb39901-8920-4072-8a17-5f89fe26c084",
+    "sourceid": "6e1aba55-193a-4da9-bbaf-3b462b899419",
+    "intressent_id": "0783033318602",
+    "hangar_id": "2342387",
+    "fodd_ar": "1946",
+    "kon": "man",
+    "efternamn": "Tesfazion",
+    "tilltalsnamn": "Rezene",
+    "sorteringsnamn": "Tesfazion,Rezene",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Uppsala län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/6e1aba55-193a-4da9-bbaf-3b462b899419",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6e1aba55-193a-4da9-bbaf-3b462b899419_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6e1aba55-193a-4da9-bbaf-3b462b899419_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6e1aba55-193a-4da9-bbaf-3b462b899419_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2006-10-06",
+          "uppgift": "",
+          "intressent_id": "0783033318602",
+          "hangar_id": "2342387",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2002-09-30",
+          "tom": "2006-10-02",
+          "uppgift": "",
+          "intressent_id": "0783033318602",
+          "hangar_id": "2342387",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0783033318602",
+          "hangar_id": "2342387",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "LU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Lagutskottet",
+          "intressent_id": "0783033318602",
+          "hangar_id": "2342387",
+          "sortering": "30",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "lärare",
+          "typ": "titlar",
+          "intressent_id": "0783033318602",
+          "hangar_id": "2342387"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Teacher",
+          "typ": "titlar",
+          "intressent_id": "0783033318602",
+          "hangar_id": "2342387"
+        }
+      ]
+    }
+  }
+}

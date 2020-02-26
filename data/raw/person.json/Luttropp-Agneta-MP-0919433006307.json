@@ -1,0 +1,130 @@
+{
+  "person": {
+    "hangar_guid": "0dcfa562-e56c-4127-9f45-6a7a5d697e9c",
+    "sourceid": "e8262d05-eea7-4d20-adb9-e7bfa1c86d09",
+    "intressent_id": "0919433006307",
+    "hangar_id": "2369369",
+    "fodd_ar": "1945",
+    "kon": "kvinna",
+    "efternamn": "Luttropp",
+    "tilltalsnamn": "Agneta",
+    "sorteringsnamn": "Luttropp,Agneta",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "Västmanlands län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/e8262d05-eea7-4d20-adb9-e7bfa1c86d09",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e8262d05-eea7-4d20-adb9-e7bfa1c86d09_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e8262d05-eea7-4d20-adb9-e7bfa1c86d09_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e8262d05-eea7-4d20-adb9-e7bfa1c86d09_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "270",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-04",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0919433006307",
+          "hangar_id": "2369369",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "VB",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "17",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2011-09-27",
+          "tom": "2014-09-29",
+          "uppgift": "Valberedningen",
+          "intressent_id": "0919433006307",
+          "hangar_id": "2369369",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "26",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-03-26",
+          "tom": "2014-09-29",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0919433006307",
+          "hangar_id": "2369369",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "14",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0919433006307",
+          "hangar_id": "2369369",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "28",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-09-27",
+          "tom": "2014-09-29",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0919433006307",
+          "hangar_id": "2369369",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Speciallärare/fil.lic.",
+          "typ": "titlar",
+          "intressent_id": "0919433006307",
+          "hangar_id": "2369369"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0919433006307",
+          "hangar_id": "2369369"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0919433006307",
+          "hangar_id": "2369369"
+        }
+      ]
+    }
+  }
+}

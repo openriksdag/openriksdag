@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "33ccc5b4-7d30-4855-8f2f-313bf28c24a6",
+    "sourceid": "ae360046-2892-4199-a1af-bd684ff70c8c",
+    "intressent_id": "0795530089824",
+    "hangar_id": "2369483",
+    "fodd_ar": "1986",
+    "kon": "man",
+    "efternamn": "Brown",
+    "tilltalsnamn": "Nils",
+    "sorteringsnamn": "Brown,Nils",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Södermanlands län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/ae360046-2892-4199-a1af-bd684ff70c8c",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ae360046-2892-4199-a1af-bd684ff70c8c_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ae360046-2892-4199-a1af-bd684ff70c8c_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ae360046-2892-4199-a1af-bd684ff70c8c_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "250",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2012-11-16",
+          "tom": "2013-06-28",
+          "uppgift": "Walburga Habsburg Douglas",
+          "intressent_id": "0795530089824",
+          "hangar_id": "2369483",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-12-10",
+          "tom": "2013-06-28",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0795530089824",
+          "hangar_id": "2369483",
+          "sortering": "55",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "nils.brown[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0795530089824",
+          "hangar_id": "2369483"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "66702",
+          "typ": "telefonnummer",
+          "intressent_id": "0795530089824",
+          "hangar_id": "2369483"
+        }
+      ]
+    }
+  }
+}

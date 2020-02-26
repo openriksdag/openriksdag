@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "766c357b-a922-4050-b04d-95ebdba566a0",
+    "sourceid": "3c86f00d-b242-4f71-ad06-8e922da6e78a",
+    "intressent_id": "",
+    "hangar_id": "4788841",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Kihlberg",
+    "tilltalsnamn": "Thomas",
+    "sorteringsnamn": "Kihlberg,Thomas",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ledamot i Riksdagens ansvarsnämnd",
+    "person_url_xml": "http://data.riksdagen.se/person/3c86f00d-b242-4f71-ad06-8e922da6e78a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3c86f00d-b242-4f71-ad06-8e922da6e78a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3c86f00d-b242-4f71-ad06-8e922da6e78a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3c86f00d-b242-4f71-ad06-8e922da6e78a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RAN",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "5",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2013-01-01",
+        "tom": "2015-12-31",
+        "uppgift": "Riksdagens ansvarsnämnd",
+        "intressent_id": "",
+        "hangar_id": "4788841",
+        "sortering": "30",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

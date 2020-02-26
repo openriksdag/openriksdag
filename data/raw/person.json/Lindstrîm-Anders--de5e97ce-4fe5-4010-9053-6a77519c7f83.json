@@ -1,0 +1,90 @@
+{
+  "person": {
+    "hangar_guid": "af0205d7-c7e8-4521-87fd-1b5eddf479bc",
+    "sourceid": "de5e97ce-4fe5-4010-9053-6a77519c7f83",
+    "intressent_id": "",
+    "hangar_id": "4788807",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Lindström",
+    "tilltalsnamn": "Anders",
+    "sorteringsnamn": "Lindström,Anders",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Ordförande i Nämnden för lön till riksdagens ombudsmän och riksrevisorerna",
+    "person_url_xml": "http://data.riksdagen.se/person/de5e97ce-4fe5-4010-9053-6a77519c7f83",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/de5e97ce-4fe5-4010-9053-6a77519c7f83_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/de5e97ce-4fe5-4010-9053-6a77519c7f83_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/de5e97ce-4fe5-4010-9053-6a77519c7f83_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "NL",
+          "roll_kod": "Ordförande",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-11-28",
+          "tom": "2022-11-28",
+          "uppgift": "Nämnden för lön till riksdagens ombudsmän och riksrevisorerna",
+          "intressent_id": "",
+          "hangar_id": "4788807",
+          "sortering": "10",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NL",
+          "roll_kod": "Ordförande",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2014-11-27",
+          "tom": "2018-11-27",
+          "uppgift": "Nämnden för lön till riksdagens ombudsmän och riksrevisorerna",
+          "intressent_id": "",
+          "hangar_id": "4788807",
+          "sortering": "10",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NL",
+          "roll_kod": "Ordförande",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2014-06-12",
+          "tom": "2014-11-27",
+          "uppgift": "Nämnden för lön till riksdagens ombudsmän och riksrevisorerna",
+          "intressent_id": "",
+          "hangar_id": "4788807",
+          "sortering": "10",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NL",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2006-12-12",
+          "tom": "2014-06-11",
+          "uppgift": "Nämnden för lön till riksdagens ombudsmän och riksrevisorerna",
+          "intressent_id": "",
+          "hangar_id": "4788807",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

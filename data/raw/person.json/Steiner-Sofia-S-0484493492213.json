@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "5dcecf31-9dc5-4d7f-8206-20f511d98534",
+    "sourceid": "c4244ef1-947e-4bff-9013-cde6974c841d",
+    "intressent_id": "0484493492213",
+    "hangar_id": "2343473",
+    "fodd_ar": "1971",
+    "kon": "kvinna",
+    "efternamn": "Steiner",
+    "tilltalsnamn": "Sofia",
+    "sorteringsnamn": "Steiner,Sofia",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/c4244ef1-947e-4bff-9013-cde6974c841d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c4244ef1-947e-4bff-9013-cde6974c841d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c4244ef1-947e-4bff-9013-cde6974c841d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c4244ef1-947e-4bff-9013-cde6974c841d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "253",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1996-07-01",
+          "tom": "1996-08-31",
+          "uppgift": "Bo Finnkvist",
+          "intressent_id": "0484493492213",
+          "hangar_id": "2343473",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "255",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1995-10-03",
+          "tom": "1996-06-30",
+          "uppgift": "Kristina Svensson",
+          "intressent_id": "0484493492213",
+          "hangar_id": "2343473",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1995-10-10",
+          "tom": "1996-08-31",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0484493492213",
+          "hangar_id": "2343473",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1996-02-01",
+          "tom": "1996-08-31",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0484493492213",
+          "hangar_id": "2343473",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1995-10-10",
+          "tom": "1996-01-31",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0484493492213",
+          "hangar_id": "2343473",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "studerande",
+          "typ": "titlar",
+          "intressent_id": "0484493492213",
+          "hangar_id": "2343473"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0484493492213",
+          "hangar_id": "2343473"
+        }
+      ]
+    }
+  }
+}

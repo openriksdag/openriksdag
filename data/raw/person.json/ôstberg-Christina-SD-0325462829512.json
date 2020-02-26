@@ -1,0 +1,185 @@
+{
+  "person": {
+    "hangar_guid": "fa19f1ce-b71a-4754-a1a6-061a57830f45",
+    "sourceid": "aa5e595b-e755-4a4e-a457-ea289ad1add3",
+    "intressent_id": "0325462829512",
+    "hangar_id": "3057210",
+    "fodd_ar": "1968",
+    "kon": "kvinna",
+    "efternamn": "Östberg",
+    "tilltalsnamn": "Christina",
+    "sorteringsnamn": "Östberg,Christina",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Skåne läns norra och östra",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/aa5e595b-e755-4a4e-a457-ea289ad1add3",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/aa5e595b-e755-4a4e-a457-ea289ad1add3_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/aa5e595b-e755-4a4e-a457-ea289ad1add3_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/aa5e595b-e755-4a4e-a457-ea289ad1add3_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "261",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0325462829512",
+          "hangar_id": "3057210",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "150",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0325462829512",
+          "hangar_id": "3057210",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "VB",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "18",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "Valberedningen",
+          "intressent_id": "0325462829512",
+          "hangar_id": "3057210",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "VB",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "18",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2014-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "Valberedningen",
+          "intressent_id": "0325462829512",
+          "hangar_id": "3057210",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0325462829512",
+          "hangar_id": "3057210",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0325462829512",
+          "hangar_id": "3057210",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-10-28",
+          "tom": "2018-09-24",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0325462829512",
+          "hangar_id": "3057210",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "19",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-14",
+          "tom": "2016-10-28",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0325462829512",
+          "hangar_id": "3057210",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "christina.ostberg[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0325462829512",
+          "hangar_id": "3057210"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Arbetsledare/husfru.",
+          "typ": "titlar",
+          "intressent_id": "0325462829512",
+          "hangar_id": "3057210"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0325462829512",
+          "hangar_id": "3057210"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0325462829512",
+          "hangar_id": "3057210"
+        }
+      ]
+    }
+  }
+}

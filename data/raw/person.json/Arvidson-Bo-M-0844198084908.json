@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "207caf10-3d2f-4767-9c5e-026acc8fd693",
+    "sourceid": "07b5b43f-3cc1-4a40-9dd2-924349824977",
+    "intressent_id": "0844198084908",
+    "hangar_id": "2341823",
+    "fodd_ar": "1933",
+    "kon": "man",
+    "efternamn": "Arvidson",
+    "tilltalsnamn": "Bo",
+    "sorteringsnamn": "Arvidson,Bo",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/07b5b43f-3cc1-4a40-9dd2-924349824977",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/07b5b43f-3cc1-4a40-9dd2-924349824977_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/07b5b43f-3cc1-4a40-9dd2-924349824977_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/07b5b43f-3cc1-4a40-9dd2-924349824977_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "181",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0844198084908",
+          "hangar_id": "2341823",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0844198084908",
+          "hangar_id": "2341823",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "lantbrukare",
+          "typ": "titlar",
+          "intressent_id": "0844198084908",
+          "hangar_id": "2341823"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0844198084908",
+          "hangar_id": "2341823"
+        }
+      ]
+    }
+  }
+}

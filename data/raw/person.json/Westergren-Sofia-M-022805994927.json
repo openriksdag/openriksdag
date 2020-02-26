@@ -1,0 +1,162 @@
+{
+  "person": {
+    "hangar_guid": "35d777df-19d2-47e9-8938-18af41b909fb",
+    "sourceid": "1ee04f4d-e5a6-4aab-8461-f5baa7d2a2da",
+    "intressent_id": "022805994927",
+    "hangar_id": "5003945",
+    "fodd_ar": "1974",
+    "kon": "kvinna",
+    "efternamn": "Westergren",
+    "tilltalsnamn": "Sofia",
+    "sorteringsnamn": "Westergren,Sofia",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Västra Götalands läns västra",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/1ee04f4d-e5a6-4aab-8461-f5baa7d2a2da",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1ee04f4d-e5a6-4aab-8461-f5baa7d2a2da_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1ee04f4d-e5a6-4aab-8461-f5baa7d2a2da_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1ee04f4d-e5a6-4aab-8461-f5baa7d2a2da_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "336",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "022805994927",
+          "hangar_id": "5003945",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "NR",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2019-10-02",
+          "tom": "2020-10-30",
+          "uppgift": "Nordiska rådets svenska delegation",
+          "intressent_id": "022805994927",
+          "hangar_id": "5003945",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-06-17",
+          "tom": "2022-09-26",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "022805994927",
+          "hangar_id": "5003945",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-06-17",
+          "tom": "2022-09-26",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "022805994927",
+          "hangar_id": "5003945",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-02-13",
+          "tom": "2019-06-17",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "022805994927",
+          "hangar_id": "5003945",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "17",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-02-12",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "022805994927",
+          "hangar_id": "5003945",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-06-17",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "022805994927",
+          "hangar_id": "5003945",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "sofia.westergren[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "022805994927",
+          "hangar_id": "5003945"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Företagare.",
+          "typ": "titlar",
+          "intressent_id": "022805994927",
+          "hangar_id": "5003945"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "022805994927",
+          "hangar_id": "5003945"
+        }
+      ]
+    }
+  }
+}

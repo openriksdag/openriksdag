@@ -1,0 +1,114 @@
+{
+  "person": {
+    "hangar_guid": "7d18ea1d-e3fc-4ea9-b73a-0d135cbc9620",
+    "sourceid": "3ebad209-66c3-4cc7-8d96-e04da8ec0cf4",
+    "intressent_id": "0523880046118",
+    "hangar_id": "2343199",
+    "fodd_ar": "1962",
+    "kon": "kvinna",
+    "efternamn": "Renström",
+    "tilltalsnamn": "Yoomi",
+    "sorteringsnamn": "Renström,Yoomi",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Gävleborgs län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/3ebad209-66c3-4cc7-8d96-e04da8ec0cf4",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3ebad209-66c3-4cc7-8d96-e04da8ec0cf4_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3ebad209-66c3-4cc7-8d96-e04da8ec0cf4_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3ebad209-66c3-4cc7-8d96-e04da8ec0cf4_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2005-02-14",
+          "tom": "2006-10-02",
+          "uppgift": "",
+          "intressent_id": "0523880046118",
+          "hangar_id": "2343199",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2005-10-27",
+          "tom": "2006-10-02",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0523880046118",
+          "hangar_id": "2343199",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2005-02-14",
+          "tom": "2005-10-03",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0523880046118",
+          "hangar_id": "2343199",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2005-10-18",
+          "tom": "2006-10-02",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0523880046118",
+          "hangar_id": "2343199",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2005-02-14",
+          "tom": "2005-10-03",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0523880046118",
+          "hangar_id": "2343199",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Webbsida",
+        "uppgift": "http://www.socialdemokraterna.se/yoomirenstrom",
+        "typ": "eadress",
+        "intressent_id": "0523880046118",
+        "hangar_id": "2343199"
+      }
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "person": {
+    "hangar_guid": "28cad6fd-f17a-4a86-aaac-d4102d7ec69a",
+    "sourceid": "fcfcb68c-c0e4-40c0-a7f3-68ec912d1268",
+    "intressent_id": "0849219210615",
+    "hangar_id": "2343071",
+    "fodd_ar": "1959",
+    "kon": "man",
+    "efternamn": "Amin",
+    "tilltalsnamn": "Jabar",
+    "sorteringsnamn": "Amin,Jabar",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "Västerbottens län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/fcfcb68c-c0e4-40c0-a7f3-68ec912d1268",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fcfcb68c-c0e4-40c0-a7f3-68ec912d1268_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fcfcb68c-c0e4-40c0-a7f3-68ec912d1268_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fcfcb68c-c0e4-40c0-a7f3-68ec912d1268_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "108",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0849219210615",
+          "hangar_id": "2343071",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "139",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2012-05-21",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0849219210615",
+          "hangar_id": "2343071",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "139",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "2012-03-12",
+          "tom": "2012-05-20",
+          "uppgift": "Ann-Louise Hansson 2012-03-12 - 2012-05-20  Föräldraledighet",
+          "intressent_id": "0849219210615",
+          "hangar_id": "2343071",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "139",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-04",
+          "tom": "2012-03-11",
+          "uppgift": "",
+          "intressent_id": "0849219210615",
+          "hangar_id": "2343071",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0849219210615",
+          "hangar_id": "2343071",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2016-06-22",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0849219210615",
+          "hangar_id": "2343071",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "14",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0849219210615",
+          "hangar_id": "2343071",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Statsvetare.",
+          "typ": "titlar",
+          "intressent_id": "0849219210615",
+          "hangar_id": "2343071"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0849219210615",
+          "hangar_id": "2343071"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "false",
+          "typ": "val",
+          "intressent_id": "0849219210615",
+          "hangar_id": "2343071"
+        }
+      ]
+    }
+  }
+}

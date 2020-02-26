@@ -1,0 +1,162 @@
+{
+  "person": {
+    "hangar_guid": "2df03cc0-403c-4940-b30e-8633b7cb7801",
+    "sourceid": "3139e412-6409-4376-9e02-674a4e4a2de9",
+    "intressent_id": "0879014196003",
+    "hangar_id": "2369330",
+    "fodd_ar": "1949",
+    "kon": "man",
+    "efternamn": "Åkerlund",
+    "tilltalsnamn": "Jonas",
+    "sorteringsnamn": "Åkerlund,Jonas",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Västmanlands län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/3139e412-6409-4376-9e02-674a4e4a2de9",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3139e412-6409-4376-9e02-674a4e4a2de9_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3139e412-6409-4376-9e02-674a4e4a2de9_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3139e412-6409-4376-9e02-674a4e4a2de9_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "273",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0879014196003",
+          "hangar_id": "2369330",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "90",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-04",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0879014196003",
+          "hangar_id": "2369330",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "VB",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2012-06-12",
+          "tom": "2014-09-29",
+          "uppgift": "Valberedningen",
+          "intressent_id": "0879014196003",
+          "hangar_id": "2369330",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "18",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-14",
+          "tom": "2018-09-24",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0879014196003",
+          "hangar_id": "2369330",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2015-01-22",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0879014196003",
+          "hangar_id": "2369330",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "16",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0879014196003",
+          "hangar_id": "2369330",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "16",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2013-01-23",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0879014196003",
+          "hangar_id": "2369330",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Begravningsentreprenör.",
+          "typ": "titlar",
+          "intressent_id": "0879014196003",
+          "hangar_id": "2369330"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0879014196003",
+          "hangar_id": "2369330"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "false",
+          "typ": "val",
+          "intressent_id": "0879014196003",
+          "hangar_id": "2369330"
+        }
+      ]
+    }
+  }
+}

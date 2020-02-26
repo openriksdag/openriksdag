@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "fcfe492e-d423-4e9d-a62c-f50c97dad0fb",
+    "sourceid": "2c203830-8bba-4b3e-9f55-d5361c59cc66",
+    "intressent_id": "",
+    "hangar_id": "4788823",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Villstrand",
+    "tilltalsnamn": "Nils",
+    "sorteringsnamn": "Villstrand,Nils",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare personlig suppleant i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/2c203830-8bba-4b3e-9f55-d5361c59cc66",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2c203830-8bba-4b3e-9f55-d5361c59cc66_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2c203830-8bba-4b3e-9f55-d5361c59cc66_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2c203830-8bba-4b3e-9f55-d5361c59cc66_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RJ",
+        "roll_kod": "Personlig suppleant",
+        "ordningsnummer": "8",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2010-11-01",
+        "tom": "2014-10-31",
+        "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+        "intressent_id": "",
+        "hangar_id": "4788823",
+        "sortering": "48",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "be24c6d5-b86d-4437-9968-4d5b31543001",
+    "sourceid": "0f4bd5bb-67d5-4525-954d-9170b7dece3e",
+    "intressent_id": "",
+    "hangar_id": "4788796",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Molander",
+    "tilltalsnamn": "Bo",
+    "sorteringsnamn": "Molander,Bo",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare personlig suppleant i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/0f4bd5bb-67d5-4525-954d-9170b7dece3e",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0f4bd5bb-67d5-4525-954d-9170b7dece3e_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0f4bd5bb-67d5-4525-954d-9170b7dece3e_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0f4bd5bb-67d5-4525-954d-9170b7dece3e_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RJ",
+        "roll_kod": "Personlig suppleant",
+        "ordningsnummer": "10",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2008-11-01",
+        "tom": "2012-10-31",
+        "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+        "intressent_id": "",
+        "hangar_id": "4788796",
+        "sortering": "48",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

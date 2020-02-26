@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "1727472e-7bbc-4cfd-b7e2-0081d1f40e3f",
+    "sourceid": "5f84c2b1-db02-4f56-94de-880189fcbf88",
+    "intressent_id": "",
+    "hangar_id": "4788856",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Malm",
+    "tilltalsnamn": "Mats",
+    "sorteringsnamn": "Malm,Mats",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare personlig suppleant i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/5f84c2b1-db02-4f56-94de-880189fcbf88",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5f84c2b1-db02-4f56-94de-880189fcbf88_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5f84c2b1-db02-4f56-94de-880189fcbf88_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5f84c2b1-db02-4f56-94de-880189fcbf88_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RJ",
+        "roll_kod": "Personlig suppleant",
+        "ordningsnummer": "7",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2014-11-01",
+        "tom": "2018-10-31",
+        "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+        "intressent_id": "",
+        "hangar_id": "4788856",
+        "sortering": "48",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

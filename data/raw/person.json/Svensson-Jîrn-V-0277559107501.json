@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "0c4c79dd-88af-48e8-9f37-7a5aa68fa7c5",
+    "sourceid": "358da06b-7625-4a18-9051-e0754fc7e04f",
+    "intressent_id": "0277559107501",
+    "hangar_id": "2341911",
+    "fodd_ar": "1936",
+    "kon": "man",
+    "efternamn": "Svensson",
+    "tilltalsnamn": "Jörn",
+    "sorteringsnamn": "Svensson,Jörn",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/358da06b-7625-4a18-9051-e0754fc7e04f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/358da06b-7625-4a18-9051-e0754fc7e04f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/358da06b-7625-4a18-9051-e0754fc7e04f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/358da06b-7625-4a18-9051-e0754fc7e04f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0277559107501",
+          "hangar_id": "2341911",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0277559107501",
+          "hangar_id": "2341911",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0277559107501",
+          "hangar_id": "2341911",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1976-10-04",
+          "tom": "1979-10-01",
+          "uppgift": "",
+          "intressent_id": "0277559107501",
+          "hangar_id": "2341911",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "planeringsdirektör",
+          "typ": "titlar",
+          "intressent_id": "0277559107501",
+          "hangar_id": "2341911"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0277559107501",
+          "hangar_id": "2341911"
+        }
+      ]
+    }
+  }
+}

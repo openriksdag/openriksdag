@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "ccd53b6c-648b-46d5-86d2-b50dacbdd525",
+    "sourceid": "76da24a7-f74e-4a88-b4a8-001bdfe17c86",
+    "intressent_id": "0583556285601",
+    "hangar_id": "2341735",
+    "fodd_ar": "1928",
+    "kon": "kvinna",
+    "efternamn": "Wohlin-Andersson",
+    "tilltalsnamn": "Anna",
+    "sorteringsnamn": "Wohlin-Andersson,Anna",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "",
+    "status": "Avliden  1989-05-08",
+    "person_url_xml": "http://data.riksdagen.se/person/76da24a7-f74e-4a88-b4a8-001bdfe17c86",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/76da24a7-f74e-4a88-b4a8-001bdfe17c86_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/76da24a7-f74e-4a88-b4a8-001bdfe17c86_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/76da24a7-f74e-4a88-b4a8-001bdfe17c86_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "90",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1989-05-08",
+          "uppgift": "",
+          "intressent_id": "0583556285601",
+          "hangar_id": "2341735",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1986-10-07",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0583556285601",
+          "hangar_id": "2341735",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-02-24",
+          "tom": "1989-05-08",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0583556285601",
+          "hangar_id": "2341735",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "lantbrukare",
+          "typ": "titlar",
+          "intressent_id": "0583556285601",
+          "hangar_id": "2341735"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0583556285601",
+          "hangar_id": "2341735"
+        }
+      ]
+    }
+  }
+}

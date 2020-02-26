@@ -1,0 +1,171 @@
+{
+  "person": {
+    "hangar_guid": "54c9d3ca-7208-4489-8165-12af25713b96",
+    "sourceid": "de8826b0-fcf9-4305-86e3-c2680dfed224",
+    "intressent_id": "062367962120",
+    "hangar_id": "5003676",
+    "fodd_ar": "1980",
+    "kon": "kvinna",
+    "efternamn": "Lindhagen",
+    "tilltalsnamn": "Åsa",
+    "sorteringsnamn": "Lindhagen,Åsa",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "Stockholms kommun",
+    "status": "Statsråd",
+    "person_url_xml": "http://data.riksdagen.se/person/de8826b0-fcf9-4305-86e3-c2680dfed224",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/de8826b0-fcf9-4305-86e3-c2680dfed224_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/de8826b0-fcf9-4305-86e3-c2680dfed224_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/de8826b0-fcf9-4305-86e3-c2680dfed224_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "A",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "19",
+          "status": "",
+          "typ": "Departement",
+          "from": "2019-10-01",
+          "tom": "2022-09-26",
+          "uppgift": "Arbetsmarknadsdepartementet",
+          "intressent_id": "062367962120",
+          "hangar_id": "5003676",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "A",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "20",
+          "status": "",
+          "typ": "Departement",
+          "from": "2019-09-10",
+          "tom": "2019-10-01",
+          "uppgift": "Arbetsmarknadsdepartementet",
+          "intressent_id": "062367962120",
+          "hangar_id": "5003676",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "A",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "22",
+          "status": "",
+          "typ": "Departement",
+          "from": "2019-01-21",
+          "tom": "2019-09-10",
+          "uppgift": "Arbetsmarknadsdepartementet",
+          "intressent_id": "062367962120",
+          "hangar_id": "5003676",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "142",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2019-01-21",
+          "uppgift": "Per Bolund",
+          "intressent_id": "062367962120",
+          "hangar_id": "5003676",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "16",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-01-21",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "062367962120",
+          "hangar_id": "5003676",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "27",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-12-05",
+          "tom": "2019-01-21",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "062367962120",
+          "hangar_id": "5003676",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "16",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-01-21",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "062367962120",
+          "hangar_id": "5003676",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "22",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-09",
+          "tom": "2019-01-21",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "062367962120",
+          "hangar_id": "5003676",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Civilingenjör.",
+          "typ": "titlar",
+          "intressent_id": "062367962120",
+          "hangar_id": "5003676"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "062367962120",
+          "hangar_id": "5003676"
+        }
+      ]
+    }
+  }
+}

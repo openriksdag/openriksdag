@@ -1,0 +1,171 @@
+{
+  "person": {
+    "hangar_guid": "ae25b29c-1230-480c-86cd-7e8a0ad09511",
+    "sourceid": "86b3a66a-73b0-4c2b-bd30-5e78627fc2cd",
+    "intressent_id": "0179597134903",
+    "hangar_id": "2341794",
+    "fodd_ar": "1931",
+    "kon": "man",
+    "efternamn": "Nordh",
+    "tilltalsnamn": "Nils",
+    "sorteringsnamn": "Nordh,Nils",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Avliden  2007-06-30",
+    "person_url_xml": "http://data.riksdagen.se/person/86b3a66a-73b0-4c2b-bd30-5e78627fc2cd",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/86b3a66a-73b0-4c2b-bd30-5e78627fc2cd_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/86b3a66a-73b0-4c2b-bd30-5e78627fc2cd_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/86b3a66a-73b0-4c2b-bd30-5e78627fc2cd_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "106",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0179597134903",
+          "hangar_id": "2341794",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "111",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0179597134903",
+          "hangar_id": "2341794",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0179597134903",
+          "hangar_id": "2341794",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0179597134903",
+          "hangar_id": "2341794",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0179597134903",
+          "hangar_id": "2341794",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0179597134903",
+          "hangar_id": "2341794",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0179597134903",
+          "hangar_id": "2341794",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "0179597134903",
+          "hangar_id": "2341794",
+          "sortering": "30",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "metallarbetare",
+          "typ": "titlar",
+          "intressent_id": "0179597134903",
+          "hangar_id": "2341794"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0179597134903",
+          "hangar_id": "2341794"
+        }
+      ]
+    }
+  }
+}

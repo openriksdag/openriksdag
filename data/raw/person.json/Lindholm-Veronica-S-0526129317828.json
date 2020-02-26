@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "c674e349-e4cb-475f-b99d-4896f05204d7",
+    "sourceid": "74b02237-8bd3-4200-952b-cbd202eeec8d",
+    "intressent_id": "0526129317828",
+    "hangar_id": "3057444",
+    "fodd_ar": "1984",
+    "kon": "kvinna",
+    "efternamn": "Lindholm",
+    "tilltalsnamn": "Veronica",
+    "sorteringsnamn": "Lindholm,Veronica",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Västerbottens län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/74b02237-8bd3-4200-952b-cbd202eeec8d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/74b02237-8bd3-4200-952b-cbd202eeec8d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/74b02237-8bd3-4200-952b-cbd202eeec8d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/74b02237-8bd3-4200-952b-cbd202eeec8d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "205",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0526129317828",
+          "hangar_id": "3057444",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0526129317828",
+          "hangar_id": "3057444",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "27",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-02-10",
+          "tom": "2018-09-24",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0526129317828",
+          "hangar_id": "3057444",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Personlig assistent.",
+          "typ": "titlar",
+          "intressent_id": "0526129317828",
+          "hangar_id": "3057444"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0526129317828",
+          "hangar_id": "3057444"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "false",
+          "typ": "val",
+          "intressent_id": "0526129317828",
+          "hangar_id": "3057444"
+        }
+      ]
+    }
+  }
+}

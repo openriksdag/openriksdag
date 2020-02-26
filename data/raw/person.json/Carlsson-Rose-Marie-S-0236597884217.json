@@ -1,0 +1,192 @@
+{
+  "person": {
+    "hangar_guid": "c9ee2cf1-da8c-449c-b6b9-e9eda8ed896b",
+    "sourceid": "cec58a3b-4801-40f0-8f41-1a4c0e301f88",
+    "intressent_id": "0236597884217",
+    "hangar_id": "2342839",
+    "fodd_ar": "1954",
+    "kon": "kvinna",
+    "efternamn": "Carlsson",
+    "tilltalsnamn": "Rose-Marie",
+    "sorteringsnamn": "Carlsson,Rose-Marie",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Malmö kommun",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/cec58a3b-4801-40f0-8f41-1a4c0e301f88",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cec58a3b-4801-40f0-8f41-1a4c0e301f88_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cec58a3b-4801-40f0-8f41-1a4c0e301f88_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cec58a3b-4801-40f0-8f41-1a4c0e301f88_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "14",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2011-11-01",
+          "tom": "2011-12-31",
+          "uppgift": "Hillevi Larsson",
+          "intressent_id": "0236597884217",
+          "hangar_id": "2342839",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "92",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2009-09-14",
+          "tom": "2009-10-16",
+          "uppgift": "Hillevi Larsson",
+          "intressent_id": "0236597884217",
+          "hangar_id": "2342839",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "92",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2008-06-09",
+          "tom": "2009-01-01",
+          "uppgift": "Hillevi Larsson",
+          "intressent_id": "0236597884217",
+          "hangar_id": "2342839",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-11-01",
+          "tom": "2011-12-31",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0236597884217",
+          "hangar_id": "2342839",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "28",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2009-09-14",
+          "tom": "2009-10-16",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0236597884217",
+          "hangar_id": "2342839",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "28",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2008-06-09",
+          "tom": "2009-01-01",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0236597884217",
+          "hangar_id": "2342839",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "27",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2009-09-14",
+          "tom": "2009-10-16",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0236597884217",
+          "hangar_id": "2342839",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "27",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2008-06-09",
+          "tom": "2009-01-01",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0236597884217",
+          "hangar_id": "2342839",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "rose-marie.carlsson[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0236597884217",
+          "hangar_id": "2342839"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "64473",
+          "typ": "telefonnummer",
+          "intressent_id": "0236597884217",
+          "hangar_id": "2342839"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Undersköterska",
+          "typ": "titlar",
+          "intressent_id": "0236597884217",
+          "hangar_id": "2342839"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0236597884217",
+          "hangar_id": "2342839"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0236597884217",
+          "hangar_id": "2342839"
+        }
+      ]
+    }
+  }
+}

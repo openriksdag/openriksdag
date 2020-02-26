@@ -1,0 +1,171 @@
+{
+  "person": {
+    "hangar_guid": "1e3e116a-f4ad-4671-9fa2-d54652dd232d",
+    "sourceid": "6d7749f6-b86f-4c7e-9259-5126e28e893e",
+    "intressent_id": "0241675049710",
+    "hangar_id": "2342632",
+    "fodd_ar": "1950",
+    "kon": "man",
+    "efternamn": "von Arnold",
+    "tilltalsnamn": "Otto",
+    "sorteringsnamn": "Arnold,Otto",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Skåne läns södra",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/6d7749f6-b86f-4c7e-9259-5126e28e893e",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6d7749f6-b86f-4c7e-9259-5126e28e893e_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6d7749f6-b86f-4c7e-9259-5126e28e893e_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6d7749f6-b86f-4c7e-9259-5126e28e893e_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "258",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-04",
+          "tom": "2013-02-21",
+          "uppgift": "",
+          "intressent_id": "0241675049710",
+          "hangar_id": "2342632",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "222",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2007-11-05",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0241675049710",
+          "hangar_id": "2342632",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2013-02-21",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0241675049710",
+          "hangar_id": "2342632",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "25",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-12-20",
+          "tom": "2013-02-21",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0241675049710",
+          "hangar_id": "2342632",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "16",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-11-12",
+          "tom": "2010-10-04",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0241675049710",
+          "hangar_id": "2342632",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2009-02-11",
+          "tom": "2010-10-04",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0241675049710",
+          "hangar_id": "2342632",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2013-02-21",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0241675049710",
+          "hangar_id": "2342632",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "23",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2009-02-20",
+          "tom": "2010-10-04",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0241675049710",
+          "hangar_id": "2342632",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Lantbrukare/civilekonom/jur.kand.",
+          "typ": "titlar",
+          "intressent_id": "0241675049710",
+          "hangar_id": "2342632"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0241675049710",
+          "hangar_id": "2342632"
+        }
+      ]
+    }
+  }
+}

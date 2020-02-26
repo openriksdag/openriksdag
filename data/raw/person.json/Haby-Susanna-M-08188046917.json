@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "79b52d22-53b5-427c-8668-af06738416f7",
+    "sourceid": "1bb9fbee-1b14-4da7-9460-b4b1f385eed0",
+    "intressent_id": "08188046917",
+    "hangar_id": "2369349",
+    "fodd_ar": "1957",
+    "kon": "kvinna",
+    "efternamn": "Haby",
+    "tilltalsnamn": "Susanna",
+    "sorteringsnamn": "Haby,Susanna",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Göteborgs kommun",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/1bb9fbee-1b14-4da7-9460-b4b1f385eed0",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1bb9fbee-1b14-4da7-9460-b4b1f385eed0_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1bb9fbee-1b14-4da7-9460-b4b1f385eed0_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1bb9fbee-1b14-4da7-9460-b4b1f385eed0_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "299",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-04",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "08188046917",
+          "hangar_id": "2369349",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "08188046917",
+          "hangar_id": "2369349",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "24",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-11-17",
+          "tom": "2014-09-29",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "08188046917",
+          "hangar_id": "2369349",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "08188046917",
+          "hangar_id": "2369349",
+          "sortering": "30",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Sjuksköterska",
+          "typ": "titlar",
+          "intressent_id": "08188046917",
+          "hangar_id": "2369349"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "08188046917",
+          "hangar_id": "2369349"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "58d0f3f7-a289-42d4-9dc4-75995f40224c",
+    "sourceid": "9337daa4-5c05-4674-b01a-584ca0f57833",
+    "intressent_id": "0188510214005",
+    "hangar_id": "2341957",
+    "fodd_ar": "1937",
+    "kon": "man",
+    "efternamn": "Lundgren",
+    "tilltalsnamn": "Kent",
+    "sorteringsnamn": "Lundgren,Kent",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/9337daa4-5c05-4674-b01a-584ca0f57833",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9337daa4-5c05-4674-b01a-584ca0f57833_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9337daa4-5c05-4674-b01a-584ca0f57833_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9337daa4-5c05-4674-b01a-584ca0f57833_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "226",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-04",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0188510214005",
+          "hangar_id": "2341957",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1990-04-19",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0188510214005",
+          "hangar_id": "2341957",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "LU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1990-10-03",
+          "uppgift": "Lagutskottet",
+          "intressent_id": "0188510214005",
+          "hangar_id": "2341957",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "systemanalytiker",
+          "typ": "titlar",
+          "intressent_id": "0188510214005",
+          "hangar_id": "2341957"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0188510214005",
+          "hangar_id": "2341957"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "person": {
+    "hangar_guid": "4db4e406-49f5-4155-9cdf-94fd0fab1f5f",
+    "sourceid": "6bd347ff-4df3-452f-a118-5901a5d7ed2d",
+    "intressent_id": "0260840373311",
+    "hangar_id": "2821431",
+    "fodd_ar": "1963",
+    "kon": "kvinna",
+    "efternamn": "Corazza Bildt",
+    "tilltalsnamn": "Anna Maria",
+    "sorteringsnamn": "Corazza Bildt,Anna Maria",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/6bd347ff-4df3-452f-a118-5901a5d7ed2d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6bd347ff-4df3-452f-a118-5901a5d7ed2d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6bd347ff-4df3-452f-a118-5901a5d7ed2d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6bd347ff-4df3-452f-a118-5901a5d7ed2d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "EP",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "1",
+        "status": "",
+        "typ": "Europaparlamentet",
+        "from": "2009-07-14",
+        "tom": "2019-07-02",
+        "uppgift": "Europaparlamentet",
+        "intressent_id": "0260840373311",
+        "hangar_id": "2821431",
+        "sortering": "30",
+        "organ_sortering": "100",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Webbsida",
+        "uppgift": "http://www.europarl.europa.eu/meps/sv/96674/ANNAMARIA_CORAZZABILDT.html",
+        "typ": "eadress",
+        "intressent_id": "0260840373311",
+        "hangar_id": "2821431"
+      }
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "15556d7a-acc8-481a-a0c6-c15c0ebf5ece",
+    "sourceid": "c5632090-a0aa-461e-9ab2-e9aaa45d0983",
+    "intressent_id": "0952789103522",
+    "hangar_id": "5003962",
+    "fodd_ar": "1985",
+    "kon": "kvinna",
+    "efternamn": "Segerlind",
+    "tilltalsnamn": "Elin",
+    "sorteringsnamn": "Segerlind,Elin",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "Västra Götalands läns norra",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/c5632090-a0aa-461e-9ab2-e9aaa45d0983",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c5632090-a0aa-461e-9ab2-e9aaa45d0983_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c5632090-a0aa-461e-9ab2-e9aaa45d0983_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c5632090-a0aa-461e-9ab2-e9aaa45d0983_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "231",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0952789103522",
+          "hangar_id": "5003962",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "CPAR",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-10-24",
+          "tom": "2022-10-24",
+          "uppgift": "Riksdagens delegation till Arktiska parlamentarikerkonferensen",
+          "intressent_id": "0952789103522",
+          "hangar_id": "5003962",
+          "sortering": "30",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "8",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0952789103522",
+          "hangar_id": "5003962",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "elin.segerlind[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0952789103522",
+          "hangar_id": "5003962"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Lärarassistent.",
+          "typ": "titlar",
+          "intressent_id": "0952789103522",
+          "hangar_id": "5003962"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0952789103522",
+          "hangar_id": "5003962"
+        }
+      ]
+    }
+  }
+}

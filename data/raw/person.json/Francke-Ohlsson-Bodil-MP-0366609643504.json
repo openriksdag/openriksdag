@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "a382aed7-aa9f-4ce8-bcff-aa77b513c280",
+    "sourceid": "2b50374e-f34d-40dc-9e70-2e51e2954c0f",
+    "intressent_id": "0366609643504",
+    "hangar_id": "2341857",
+    "fodd_ar": "1934",
+    "kon": "kvinna",
+    "efternamn": "Francke Ohlsson",
+    "tilltalsnamn": "Bodil",
+    "sorteringsnamn": "Francke Ohlsson,Bodil",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/2b50374e-f34d-40dc-9e70-2e51e2954c0f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2b50374e-f34d-40dc-9e70-2e51e2954c0f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2b50374e-f34d-40dc-9e70-2e51e2954c0f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2b50374e-f34d-40dc-9e70-2e51e2954c0f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "175",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1995-10-23",
+          "tom": "1998-10-05",
+          "uppgift": "Eva Thede 1998-04-03 - 1998-05-06",
+          "intressent_id": "0366609643504",
+          "hangar_id": "2341857",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "175",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "1998-04-03",
+          "tom": "1998-05-06",
+          "uppgift": "Eva Thede 1998-04-03 - 1998-05-06",
+          "intressent_id": "0366609643504",
+          "hangar_id": "2341857",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "175",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1995-10-23",
+          "tom": "1998-04-02",
+          "uppgift": "",
+          "intressent_id": "0366609643504",
+          "hangar_id": "2341857",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "175",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1995-01-10",
+          "tom": "1995-10-22",
+          "uppgift": "Per Gahrton",
+          "intressent_id": "0366609643504",
+          "hangar_id": "2341857",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1995-01-17",
+          "tom": "1998-10-04",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0366609643504",
+          "hangar_id": "2341857",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1995-10-26",
+          "tom": "1995-12-06",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0366609643504",
+          "hangar_id": "2341857",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1995-01-17",
+          "tom": "1998-10-04",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "0366609643504",
+          "hangar_id": "2341857",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "bibliotekarie/företagare",
+          "typ": "titlar",
+          "intressent_id": "0366609643504",
+          "hangar_id": "2341857"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0366609643504",
+          "hangar_id": "2341857"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "94e99e70-6094-45d4-bd90-e3500b2080d4",
+    "sourceid": "d34810f3-5af4-418a-87da-6b8997141d26",
+    "intressent_id": "",
+    "hangar_id": "4788853",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Jänterä-Jareborg",
+    "tilltalsnamn": "Maarit",
+    "sorteringsnamn": "Jänterä-Jareborg,Maarit",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Ordförande i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/d34810f3-5af4-418a-87da-6b8997141d26",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d34810f3-5af4-418a-87da-6b8997141d26_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d34810f3-5af4-418a-87da-6b8997141d26_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d34810f3-5af4-418a-87da-6b8997141d26_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "RJ",
+          "roll_kod": "Ordförande",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-11-01",
+          "tom": "2020-10-31",
+          "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+          "intressent_id": "",
+          "hangar_id": "4788853",
+          "sortering": "10",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RJ",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-11-01",
+          "tom": "2018-11-01",
+          "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+          "intressent_id": "",
+          "hangar_id": "4788853",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RJ",
+          "roll_kod": "Ordförande",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2014-11-01",
+          "tom": "2018-10-31",
+          "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+          "intressent_id": "",
+          "hangar_id": "4788853",
+          "sortering": "10",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

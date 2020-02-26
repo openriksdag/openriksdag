@@ -1,0 +1,171 @@
+{
+  "person": {
+    "hangar_guid": "b9c30e34-181e-424f-8f57-57a5798d80fd",
+    "sourceid": "14ed7b7f-bad5-45ee-9e7b-7482cb212dfa",
+    "intressent_id": "0154189076919",
+    "hangar_id": "2343111",
+    "fodd_ar": "1960",
+    "kon": "kvinna",
+    "efternamn": "Ehn",
+    "tilltalsnamn": "Tina",
+    "sorteringsnamn": "Ehn,Tina",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "Västra Götalands läns västra",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/14ed7b7f-bad5-45ee-9e7b-7482cb212dfa",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/14ed7b7f-bad5-45ee-9e7b-7482cb212dfa_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/14ed7b7f-bad5-45ee-9e7b-7482cb212dfa_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/14ed7b7f-bad5-45ee-9e7b-7482cb212dfa_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "128",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-04",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0154189076919",
+          "hangar_id": "2343111",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "159",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0154189076919",
+          "hangar_id": "2343111",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "14",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0154189076919",
+          "hangar_id": "2343111",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "14",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0154189076919",
+          "hangar_id": "2343111",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "17",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0154189076919",
+          "hangar_id": "2343111",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "24",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-24",
+          "tom": "2010-10-04",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0154189076919",
+          "hangar_id": "2343111",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "22",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-24",
+          "tom": "2010-10-04",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0154189076919",
+          "hangar_id": "2343111",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2008-11-11",
+          "tom": "2009-01-13",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0154189076919",
+          "hangar_id": "2343111",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Djurskötare/lantbruksavbytare/personlig assistent",
+          "typ": "titlar",
+          "intressent_id": "0154189076919",
+          "hangar_id": "2343111"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0154189076919",
+          "hangar_id": "2343111"
+        }
+      ]
+    }
+  }
+}

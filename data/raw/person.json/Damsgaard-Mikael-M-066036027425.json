@@ -1,0 +1,137 @@
+{
+  "person": {
+    "hangar_guid": "6afc1d60-4447-497c-940a-badd3e219717",
+    "sourceid": "cd568a26-75c0-401e-a4de-d43589a8dc21",
+    "intressent_id": "066036027425",
+    "hangar_id": "2343624",
+    "fodd_ar": "1976",
+    "kon": "man",
+    "efternamn": "Damsgaard",
+    "tilltalsnamn": "Mikael",
+    "sorteringsnamn": "Damsgaard,Mikael",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Västmanlands län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/cd568a26-75c0-401e-a4de-d43589a8dc21",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cd568a26-75c0-401e-a4de-d43589a8dc21_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cd568a26-75c0-401e-a4de-d43589a8dc21_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cd568a26-75c0-401e-a4de-d43589a8dc21_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "74",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2019-07-02",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "066036027425",
+          "hangar_id": "2343624",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "Europol",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2019-10-25",
+          "tom": "2022-10-09",
+          "uppgift": "Delegationen till den gemensamma parlamentariska kontrollgruppen för Europol",
+          "intressent_id": "066036027425",
+          "hangar_id": "2343624",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-07-02",
+          "tom": "2022-09-26",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "066036027425",
+          "hangar_id": "2343624",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-07-02",
+          "tom": "2022-09-26",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "066036027425",
+          "hangar_id": "2343624",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "27",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-07-02",
+          "tom": "2022-09-26",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "066036027425",
+          "hangar_id": "2343624",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "mikael.damsgaard[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "066036027425",
+          "hangar_id": "2343624"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "HR-konsult/fil.mag",
+          "typ": "titlar",
+          "intressent_id": "066036027425",
+          "hangar_id": "2343624"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "066036027425",
+          "hangar_id": "2343624"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "066036027425",
+          "hangar_id": "2343624"
+        }
+      ]
+    }
+  }
+}

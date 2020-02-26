@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "7f209108-4646-4e49-8c93-452d5f474dfa",
+    "sourceid": "4ecfbfb0-7c7f-4ac5-b6f0-e53d7c8ac311",
+    "intressent_id": "0261479148307",
+    "hangar_id": "2341878",
+    "fodd_ar": "1935",
+    "kon": "man",
+    "efternamn": "Mattisson",
+    "tilltalsnamn": "Thor",
+    "sorteringsnamn": "Mattisson,Thor",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/4ecfbfb0-7c7f-4ac5-b6f0-e53d7c8ac311",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4ecfbfb0-7c7f-4ac5-b6f0-e53d7c8ac311_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4ecfbfb0-7c7f-4ac5-b6f0-e53d7c8ac311_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4ecfbfb0-7c7f-4ac5-b6f0-e53d7c8ac311_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "219",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1988-11-07",
+          "tom": "1989-01-07",
+          "uppgift": "Jens Eriksson",
+          "intressent_id": "0261479148307",
+          "hangar_id": "2341878",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-11-07",
+          "tom": "1989-01-07",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0261479148307",
+          "hangar_id": "2341878",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "8488270b-f786-4a7d-bee0-c3cf903fcff2",
+    "sourceid": "6a0f8739-f15c-11d6-ae8b-0004755038ce",
+    "intressent_id": "0468904415516",
+    "hangar_id": "2343501",
+    "fodd_ar": "1971",
+    "kon": "kvinna",
+    "efternamn": "Dahl",
+    "tilltalsnamn": "Cecilia",
+    "sorteringsnamn": "Dahl,Cecilia",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Malmö kommun",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/6a0f8739-f15c-11d6-ae8b-0004755038ce",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6a0f8739-f15c-11d6-ae8b-0004755038ce_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6a0f8739-f15c-11d6-ae8b-0004755038ce_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6a0f8739-f15c-11d6-ae8b-0004755038ce_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2002-11-05",
+          "tom": "2002-12-20",
+          "uppgift": "Lars-Erik Lövdén",
+          "intressent_id": "0468904415516",
+          "hangar_id": "2343501",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-11-14",
+          "tom": "2002-12-20",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0468904415516",
+          "hangar_id": "2343501",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-11-14",
+          "tom": "2002-12-20",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0468904415516",
+          "hangar_id": "2343501",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Utbildare",
+          "typ": "titlar",
+          "intressent_id": "0468904415516",
+          "hangar_id": "2343501"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Instructor",
+          "typ": "titlar",
+          "intressent_id": "0468904415516",
+          "hangar_id": "2343501"
+        }
+      ]
+    }
+  }
+}

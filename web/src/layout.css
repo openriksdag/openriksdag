@@ -50,6 +50,7 @@
 }
 
 #git {
+  text-align: center;
   position: fixed;
   bottom: 0;
   margin-bottom: 20px;

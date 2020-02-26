@@ -1,0 +1,146 @@
+{
+  "person": {
+    "hangar_guid": "15057640-f80c-47ee-8d41-54ae40c144f1",
+    "sourceid": "54ecece4-3002-4cff-a4f2-f463efb2affb",
+    "intressent_id": "0285527517421",
+    "hangar_id": "5003980",
+    "fodd_ar": "1980",
+    "kon": "kvinna",
+    "efternamn": "Nordengrip",
+    "tilltalsnamn": "Caroline",
+    "sorteringsnamn": "Nordengrip,Caroline",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Västra Götalands läns södra",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/54ecece4-3002-4cff-a4f2-f463efb2affb",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/54ecece4-3002-4cff-a4f2-f463efb2affb_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/54ecece4-3002-4cff-a4f2-f463efb2affb_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/54ecece4-3002-4cff-a4f2-f463efb2affb_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "71",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0285527517421",
+          "hangar_id": "5003980",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0285527517421",
+          "hangar_id": "5003980",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-06-18",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0285527517421",
+          "hangar_id": "5003980",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-11-14",
+          "tom": "2019-12-17",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0285527517421",
+          "hangar_id": "5003980",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Deputerad",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-05-09",
+          "tom": "2019-06-12",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0285527517421",
+          "hangar_id": "5003980",
+          "sortering": "40",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-11-15",
+          "tom": "2018-12-05",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0285527517421",
+          "hangar_id": "5003980",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "caroline.nordengrip[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0285527517421",
+          "hangar_id": "5003980"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Produktspecialist.",
+          "typ": "titlar",
+          "intressent_id": "0285527517421",
+          "hangar_id": "5003980"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0285527517421",
+          "hangar_id": "5003980"
+        }
+      ]
+    }
+  }
+}

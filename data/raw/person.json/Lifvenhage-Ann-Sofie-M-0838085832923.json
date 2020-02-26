@@ -1,0 +1,153 @@
+{
+  "person": {
+    "hangar_guid": "318a2e8e-3ead-4e31-af24-137bbf75fb90",
+    "sourceid": "16c58b85-7b9a-4f36-9160-3a40680f433c",
+    "intressent_id": "0838085832923",
+    "hangar_id": "3057167",
+    "fodd_ar": "1976",
+    "kon": "kvinna",
+    "efternamn": "Lifvenhage",
+    "tilltalsnamn": "Ann-Sofie",
+    "sorteringsnamn": "Lifvenhage,Ann-Sofie",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Södermanlands län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/16c58b85-7b9a-4f36-9160-3a40680f433c",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/16c58b85-7b9a-4f36-9160-3a40680f433c_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/16c58b85-7b9a-4f36-9160-3a40680f433c_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/16c58b85-7b9a-4f36-9160-3a40680f433c_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "322",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2019-05-02",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0838085832923",
+          "hangar_id": "3057167",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2020-01-29",
+          "tom": "2022-09-26",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0838085832923",
+          "hangar_id": "3057167",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-05-10",
+          "tom": "2020-01-29",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0838085832923",
+          "hangar_id": "3057167",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "17",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2020-01-29",
+          "tom": "2022-09-26",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0838085832923",
+          "hangar_id": "3057167",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-06-17",
+          "tom": "2020-01-29",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0838085832923",
+          "hangar_id": "3057167",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2020-01-29",
+          "tom": "2022-09-26",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0838085832923",
+          "hangar_id": "3057167",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "ann-sofie.lifvenhage[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0838085832923",
+          "hangar_id": "3057167"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Lärare Ma/NO",
+          "typ": "titlar",
+          "intressent_id": "0838085832923",
+          "hangar_id": "3057167"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0838085832923",
+          "hangar_id": "3057167"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0838085832923",
+          "hangar_id": "3057167"
+        }
+      ]
+    }
+  }
+}

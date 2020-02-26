@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "abc7e652-3cd4-4472-8dcf-e77d64bd8a0c",
+    "sourceid": "f19bc43b-9cd8-40e3-b8b9-4d0c3a33df55",
+    "intressent_id": "0908991442204",
+    "hangar_id": "2342043",
+    "fodd_ar": "1939",
+    "kon": "kvinna",
+    "efternamn": "Mörck",
+    "tilltalsnamn": "Margareta",
+    "sorteringsnamn": "Mörck,Margareta",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/f19bc43b-9cd8-40e3-b8b9-4d0c3a33df55",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f19bc43b-9cd8-40e3-b8b9-4d0c3a33df55_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f19bc43b-9cd8-40e3-b8b9-4d0c3a33df55_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f19bc43b-9cd8-40e3-b8b9-4d0c3a33df55_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Riksdagsledamot",
+        "ordningsnummer": "0",
+        "status": "Tjänstgörande",
+        "typ": "kammaruppdrag",
+        "from": "1985-09-30",
+        "tom": "1988-10-03",
+        "uppgift": "",
+        "intressent_id": "0908991442204",
+        "hangar_id": "2342043",
+        "sortering": "10",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "10"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "bibliotekschef",
+          "typ": "titlar",
+          "intressent_id": "0908991442204",
+          "hangar_id": "2342043"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0908991442204",
+          "hangar_id": "2342043"
+        }
+      ]
+    }
+  }
+}

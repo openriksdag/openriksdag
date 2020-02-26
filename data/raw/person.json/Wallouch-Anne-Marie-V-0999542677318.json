@@ -1,0 +1,90 @@
+{
+  "person": {
+    "hangar_guid": "98a840b5-ed02-47c8-ba1a-d85eb5d806a6",
+    "sourceid": "daefc240-67a9-45f6-915d-191d6289d7d8",
+    "intressent_id": "0999542677318",
+    "hangar_id": "2343372",
+    "fodd_ar": "1967",
+    "kon": "kvinna",
+    "efternamn": "Wallouch",
+    "tilltalsnamn": "Anne-Marie",
+    "sorteringsnamn": "Wallouch,Anne-Marie",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "Värmlands län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/daefc240-67a9-45f6-915d-191d6289d7d8",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/daefc240-67a9-45f6-915d-191d6289d7d8_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/daefc240-67a9-45f6-915d-191d6289d7d8_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/daefc240-67a9-45f6-915d-191d6289d7d8_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "22",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2007-02-15",
+          "tom": "2007-04-30",
+          "uppgift": "Marie Engström",
+          "intressent_id": "0999542677318",
+          "hangar_id": "2343372",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-02-15",
+          "tom": "2007-04-30",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0999542677318",
+          "hangar_id": "2343372",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-02-15",
+          "tom": "2007-04-30",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0999542677318",
+          "hangar_id": "2343372",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-02-15",
+          "tom": "2007-04-30",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0999542677318",
+          "hangar_id": "2343372",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

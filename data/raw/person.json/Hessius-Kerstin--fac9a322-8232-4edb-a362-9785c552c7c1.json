@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "2f53cc38-324b-4e65-b0f4-1d029c98c70d",
+    "sourceid": "fac9a322-8232-4edb-a362-9785c552c7c1",
+    "intressent_id": "",
+    "hangar_id": "4788855",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Hessius",
+    "tilltalsnamn": "Kerstin",
+    "sorteringsnamn": "Hessius,Kerstin",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Ledamot i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/fac9a322-8232-4edb-a362-9785c552c7c1",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fac9a322-8232-4edb-a362-9785c552c7c1_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fac9a322-8232-4edb-a362-9785c552c7c1_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fac9a322-8232-4edb-a362-9785c552c7c1_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "RJ",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "11",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-11-01",
+          "tom": "2022-10-31",
+          "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+          "intressent_id": "",
+          "hangar_id": "4788855",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RJ",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "11",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2014-11-01",
+          "tom": "2018-10-31",
+          "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+          "intressent_id": "",
+          "hangar_id": "4788855",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

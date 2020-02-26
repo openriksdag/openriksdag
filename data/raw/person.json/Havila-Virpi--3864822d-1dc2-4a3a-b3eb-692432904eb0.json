@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "15c8b77b-8912-4f88-8ce6-f2feb928bbb3",
+    "sourceid": "3864822d-1dc2-4a3a-b3eb-692432904eb0",
+    "intressent_id": "",
+    "hangar_id": "4788833",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Havila",
+    "tilltalsnamn": "Virpi",
+    "sorteringsnamn": "Havila,Virpi",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ledamot i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/3864822d-1dc2-4a3a-b3eb-692432904eb0",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3864822d-1dc2-4a3a-b3eb-692432904eb0_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3864822d-1dc2-4a3a-b3eb-692432904eb0_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3864822d-1dc2-4a3a-b3eb-692432904eb0_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RJ",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "9",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2012-11-01",
+        "tom": "2016-10-31",
+        "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+        "intressent_id": "",
+        "hangar_id": "4788833",
+        "sortering": "30",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

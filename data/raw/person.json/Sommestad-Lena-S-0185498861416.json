@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "b764a73a-108d-406e-8aad-60691ef6c4e7",
+    "sourceid": "0fb678a6-35ce-11d6-bf9a-0040ca165b27",
+    "intressent_id": "0185498861416",
+    "hangar_id": "2342974",
+    "fodd_ar": "1957",
+    "kon": "kvinna",
+    "efternamn": "Sommestad",
+    "tilltalsnamn": "Lena",
+    "sorteringsnamn": "Sommestad,Lena",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Uppsala län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/0fb678a6-35ce-11d6-bf9a-0040ca165b27",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0fb678a6-35ce-11d6-bf9a-0040ca165b27_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0fb678a6-35ce-11d6-bf9a-0040ca165b27_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0fb678a6-35ce-11d6-bf9a-0040ca165b27_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "M  t.o.m. 1 jan-07",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Departement",
+          "from": "2006-10-02",
+          "tom": "2006-10-06",
+          "uppgift": "Miljö- och samhällsbyggnadsdepartementet",
+          "intressent_id": "0185498861416",
+          "hangar_id": "2342974",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "M  t.o.m. 1 jan-07",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Departement",
+          "from": "2002-09-30",
+          "tom": "2006-10-02",
+          "uppgift": "Miljö- och samhällsbyggnadsdepartementet",
+          "intressent_id": "0185498861416",
+          "hangar_id": "2342974",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "7",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2012-08-01",
+          "tom": "2014-02-28",
+          "uppgift": "",
+          "intressent_id": "0185498861416",
+          "hangar_id": "2342974",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "RB",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "8",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2010-10-19",
+          "tom": "2014-10-14",
+          "uppgift": "Riksbanksfullmäktige",
+          "intressent_id": "0185498861416",
+          "hangar_id": "2342974",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RB",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2006-10-17",
+          "tom": "2010-10-19",
+          "uppgift": "Riksbanksfullmäktige",
+          "intressent_id": "0185498861416",
+          "hangar_id": "2342974",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-08-01",
+          "tom": "2014-02-28",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0185498861416",
+          "hangar_id": "2342974",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "lena.sommestad[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0185498861416",
+          "hangar_id": "2342974"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "64567",
+          "typ": "telefonnummer",
+          "intressent_id": "0185498861416",
+          "hangar_id": "2342974"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "9630d37e-7a3c-4c69-9498-7b531edb3aae",
+    "sourceid": "09d8f370-d105-480e-ae33-c93dddf90451",
+    "intressent_id": "0220310363926",
+    "hangar_id": "5003765",
+    "fodd_ar": "1986",
+    "kon": "kvinna",
+    "efternamn": "Skyttedal",
+    "tilltalsnamn": "Sara",
+    "sorteringsnamn": "Skyttedal,Sara",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Östergötlands län",
+    "status": "Europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/09d8f370-d105-480e-ae33-c93dddf90451",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/09d8f370-d105-480e-ae33-c93dddf90451_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/09d8f370-d105-480e-ae33-c93dddf90451_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/09d8f370-d105-480e-ae33-c93dddf90451_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "EP",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "8",
+        "status": "",
+        "typ": "Europaparlamentet",
+        "from": "2019-07-02",
+        "tom": "2024-07-02",
+        "uppgift": "Europaparlamentet",
+        "intressent_id": "0220310363926",
+        "hangar_id": "5003765",
+        "sortering": "30",
+        "organ_sortering": "100",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "person": {
+    "hangar_guid": "faf50af6-b9c6-427f-92bd-58fbe0b68374",
+    "sourceid": "eb4a2005-9ec1-45c0-9f63-3e4ffdc4f04e",
+    "intressent_id": "046426524512",
+    "hangar_id": "3057163",
+    "fodd_ar": "1953",
+    "kon": "man",
+    "efternamn": "Felten",
+    "tilltalsnamn": "Olle",
+    "sorteringsnamn": "Felten,Olle",
+    "iort": "",
+    "parti": "-",
+    "valkrets": "Södermanlands län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/eb4a2005-9ec1-45c0-9f63-3e4ffdc4f04e",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/eb4a2005-9ec1-45c0-9f63-3e4ffdc4f04e_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/eb4a2005-9ec1-45c0-9f63-3e4ffdc4f04e_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/eb4a2005-9ec1-45c0-9f63-3e4ffdc4f04e_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "286",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "046426524512",
+          "hangar_id": "3057163",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "RB",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2017-01-11",
+          "tom": "2018-10-09",
+          "uppgift": "Riksbanksfullmäktige",
+          "intressent_id": "046426524512",
+          "hangar_id": "3057163",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RB",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2014-10-23",
+          "tom": "2017-01-11",
+          "uppgift": "Riksbanksfullmäktige",
+          "intressent_id": "046426524512",
+          "hangar_id": "3057163",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2015-04-16",
+          "tom": "2018-09-24",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "046426524512",
+          "hangar_id": "3057163",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "046426524512",
+          "hangar_id": "3057163",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-10-21",
+          "tom": "2018-09-24",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "046426524512",
+          "hangar_id": "3057163",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2016-10-20",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "046426524512",
+          "hangar_id": "3057163",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Företagare.",
+          "typ": "titlar",
+          "intressent_id": "046426524512",
+          "hangar_id": "3057163"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "046426524512",
+          "hangar_id": "3057163"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "046426524512",
+          "hangar_id": "3057163"
+        }
+      ]
+    }
+  }
+}

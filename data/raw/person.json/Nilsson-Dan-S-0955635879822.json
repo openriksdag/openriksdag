@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "fbc96821-e270-453b-8062-796c6f603aa7",
+    "sourceid": "96deb098-4550-47ba-8c2a-f60e6eb4b0d0",
+    "intressent_id": "0955635879822",
+    "hangar_id": "2343608",
+    "fodd_ar": "1975",
+    "kon": "man",
+    "efternamn": "Nilsson",
+    "tilltalsnamn": "Dan",
+    "sorteringsnamn": "Nilsson,Dan",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Kalmar län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/96deb098-4550-47ba-8c2a-f60e6eb4b0d0",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/96deb098-4550-47ba-8c2a-f60e6eb4b0d0_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/96deb098-4550-47ba-8c2a-f60e6eb4b0d0_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/96deb098-4550-47ba-8c2a-f60e6eb4b0d0_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "151",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2008-03-03",
+          "tom": "2009-03-01",
+          "uppgift": "Lena Hallengren",
+          "intressent_id": "0955635879822",
+          "hangar_id": "2343608",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "151",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2006-10-06",
+          "uppgift": "Lena Hallengren",
+          "intressent_id": "0955635879822",
+          "hangar_id": "2343608",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2008-03-03",
+          "tom": "2009-03-01",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0955635879822",
+          "hangar_id": "2343608",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2008-03-03",
+          "tom": "2009-03-01",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0955635879822",
+          "hangar_id": "2343608",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "ombudsman",
+          "typ": "titlar",
+          "intressent_id": "0955635879822",
+          "hangar_id": "2343608"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0955635879822",
+          "hangar_id": "2343608"
+        }
+      ]
+    }
+  }
+}

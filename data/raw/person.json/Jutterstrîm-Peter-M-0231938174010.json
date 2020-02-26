@@ -1,0 +1,66 @@
+{
+  "person": {
+    "hangar_guid": "0c97df53-dc0e-45c8-97e1-202febcffe53",
+    "sourceid": "bea7ccf0-c0cd-4617-92d4-945dfe1e2a91",
+    "intressent_id": "0231938174010",
+    "hangar_id": "2369509",
+    "fodd_ar": "1958",
+    "kon": "man",
+    "efternamn": "Jutterström",
+    "tilltalsnamn": "Peter",
+    "sorteringsnamn": "Jutterström,Peter",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Jönköpings län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/bea7ccf0-c0cd-4617-92d4-945dfe1e2a91",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/bea7ccf0-c0cd-4617-92d4-945dfe1e2a91_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/bea7ccf0-c0cd-4617-92d4-945dfe1e2a91_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/bea7ccf0-c0cd-4617-92d4-945dfe1e2a91_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "288",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2012-11-01",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0231938174010",
+          "hangar_id": "2369509",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-11-13",
+          "tom": "2014-09-29",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0231938174010",
+          "hangar_id": "2369509",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "true",
+        "typ": "val",
+        "intressent_id": "0231938174010",
+        "hangar_id": "2369509"
+      }
+    }
+  }
+}

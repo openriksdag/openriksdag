@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "29ad8c3a-b904-4c46-8a8e-ec0f13efa24b",
+    "sourceid": "958d8c78-0de8-48f9-9476-a6fcd32eec8b",
+    "intressent_id": "0403769921921",
+    "hangar_id": "3057095",
+    "fodd_ar": "1985",
+    "kon": "kvinna",
+    "efternamn": "Ghasemi Liljekvist",
+    "tilltalsnamn": "Tina",
+    "sorteringsnamn": "Ghasemi Liljekvist,Tina",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms kommun",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/958d8c78-0de8-48f9-9476-a6fcd32eec8b",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/958d8c78-0de8-48f9-9476-a6fcd32eec8b_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/958d8c78-0de8-48f9-9476-a6fcd32eec8b_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/958d8c78-0de8-48f9-9476-a6fcd32eec8b_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "316",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-03-06",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0403769921921",
+          "hangar_id": "3057095",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "316",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "2017-07-05",
+          "tom": "2018-03-05",
+          "uppgift": "Helena Bonnier 2017-07-05 - 2018-03-05  Föräldraledighet",
+          "intressent_id": "0403769921921",
+          "hangar_id": "3057095",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "316",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2017-07-04",
+          "uppgift": "",
+          "intressent_id": "0403769921921",
+          "hangar_id": "3057095",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "ER",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2014-11-01",
+          "tom": "2017-03-30",
+          "uppgift": "Europarådets svenska delegation",
+          "intressent_id": "0403769921921",
+          "hangar_id": "3057095",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "11",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0403769921921",
+          "hangar_id": "3057095",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "11",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-02-14",
+          "tom": "2018-09-24",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0403769921921",
+          "hangar_id": "3057095",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2017-02-14",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0403769921921",
+          "hangar_id": "3057095",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "tina.ghasemi[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0403769921921",
+          "hangar_id": "3057095"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0403769921921",
+          "hangar_id": "3057095"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "ba41e1a4-df83-4089-8740-803609598dfe",
+    "sourceid": "23982eeb-81c8-11d6-ae2e-0004755038ce",
+    "intressent_id": "0650006662217",
+    "hangar_id": "2342721",
+    "fodd_ar": "1952",
+    "kon": "man",
+    "efternamn": "Niska",
+    "tilltalsnamn": "Bengt",
+    "sorteringsnamn": "Niska,Bengt",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/23982eeb-81c8-11d6-ae2e-0004755038ce",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/23982eeb-81c8-11d6-ae2e-0004755038ce_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/23982eeb-81c8-11d6-ae2e-0004755038ce_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/23982eeb-81c8-11d6-ae2e-0004755038ce_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "341",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2002-06-15",
+          "tom": "2002-09-30",
+          "uppgift": "",
+          "intressent_id": "0650006662217",
+          "hangar_id": "2342721",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2000-02-01",
+          "tom": "2000-02-29",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0650006662217",
+          "hangar_id": "2342721",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "utbildningsledare",
+          "typ": "titlar",
+          "intressent_id": "0650006662217",
+          "hangar_id": "2342721"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0650006662217",
+          "hangar_id": "2342721"
+        }
+      ]
+    }
+  }
+}

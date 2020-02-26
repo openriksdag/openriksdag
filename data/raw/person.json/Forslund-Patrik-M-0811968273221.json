@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "c3f6c564-c1ea-468a-8649-ef6007b927c1",
+    "sourceid": "4c4e3d9b-c193-4cec-b525-544e86aa53e3",
+    "intressent_id": "0811968273221",
+    "hangar_id": "2343717",
+    "fodd_ar": "1983",
+    "kon": "man",
+    "efternamn": "Forslund",
+    "tilltalsnamn": "Patrik",
+    "sorteringsnamn": "Forslund,Patrik",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Dalarnas län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/4c4e3d9b-c193-4cec-b525-544e86aa53e3",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4c4e3d9b-c193-4cec-b525-544e86aa53e3_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4c4e3d9b-c193-4cec-b525-544e86aa53e3_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4c4e3d9b-c193-4cec-b525-544e86aa53e3_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "134",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2010-04-06",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0811968273221",
+          "hangar_id": "2343717",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "134",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "2010-01-11",
+          "tom": "2010-04-05",
+          "uppgift": "Gunnel Söderberg 2010-01-11 - 2010-04-05  Föräldraledighet",
+          "intressent_id": "0811968273221",
+          "hangar_id": "2343717",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "134",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-11-16",
+          "tom": "2010-01-10",
+          "uppgift": "",
+          "intressent_id": "0811968273221",
+          "hangar_id": "2343717",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-11-16",
+          "tom": "2010-10-04",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0811968273221",
+          "hangar_id": "2343717",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-11-16",
+          "tom": "2008-10-02",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0811968273221",
+          "hangar_id": "2343717",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2008-10-07",
+          "tom": "2010-10-04",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0811968273221",
+          "hangar_id": "2343717",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-03-22",
+          "tom": "2007-06-01",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0811968273221",
+          "hangar_id": "2343717",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Kock",
+          "typ": "titlar",
+          "intressent_id": "0811968273221",
+          "hangar_id": "2343717"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0811968273221",
+          "hangar_id": "2343717"
+        }
+      ]
+    }
+  }
+}

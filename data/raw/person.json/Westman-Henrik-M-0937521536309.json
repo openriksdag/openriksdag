@@ -1,0 +1,171 @@
+{
+  "person": {
+    "hangar_guid": "c16cb30e-9c6b-4fad-af8e-bd9da3e554a0",
+    "sourceid": "d7c3251e-83e4-11d4-ae60-0050040c9b55",
+    "intressent_id": "0937521536309",
+    "hangar_id": "2342094",
+    "fodd_ar": "1940",
+    "kon": "man",
+    "efternamn": "Westman",
+    "tilltalsnamn": "Henrik",
+    "sorteringsnamn": "Westman,Henrik",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms län",
+    "status": "Avliden  2019-08-15",
+    "person_url_xml": "http://data.riksdagen.se/person/d7c3251e-83e4-11d4-ae60-0050040c9b55",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c3251e-83e4-11d4-ae60-0050040c9b55_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c3251e-83e4-11d4-ae60-0050040c9b55_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c3251e-83e4-11d4-ae60-0050040c9b55_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "52",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2002-09-30",
+          "tom": "2006-10-02",
+          "uppgift": "",
+          "intressent_id": "0937521536309",
+          "hangar_id": "2342094",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "60",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1998-10-05",
+          "tom": "2002-09-30",
+          "uppgift": "",
+          "intressent_id": "0937521536309",
+          "hangar_id": "2342094",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0937521536309",
+          "hangar_id": "2342094",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2001-09-19",
+          "tom": "2002-09-29",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0937521536309",
+          "hangar_id": "2342094",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "2001-09-18",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0937521536309",
+          "hangar_id": "2342094",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-15",
+          "tom": "2006-10-02",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0937521536309",
+          "hangar_id": "2342094",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2004-09-23",
+          "tom": "2006-10-02",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0937521536309",
+          "hangar_id": "2342094",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "2002-09-30",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0937521536309",
+          "hangar_id": "2342094",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "kansliråd",
+          "typ": "titlar",
+          "intressent_id": "0937521536309",
+          "hangar_id": "2342094"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Deputy Director",
+          "typ": "titlar",
+          "intressent_id": "0937521536309",
+          "hangar_id": "2342094"
+        }
+      ]
+    }
+  }
+}

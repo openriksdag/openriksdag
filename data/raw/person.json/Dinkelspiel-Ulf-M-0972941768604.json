@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "1a6edb4c-b0b1-4293-b38d-faf4c15406b5",
+    "sourceid": "cca9ca77-4ab8-476a-875a-905065de26f0",
+    "intressent_id": "0972941768604",
+    "hangar_id": "2342044",
+    "fodd_ar": "1939",
+    "kon": "man",
+    "efternamn": "Dinkelspiel",
+    "tilltalsnamn": "Ulf",
+    "sorteringsnamn": "Dinkelspiel,Ulf",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare statsråd",
+    "person_url_xml": "http://data.riksdagen.se/person/cca9ca77-4ab8-476a-875a-905065de26f0",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cca9ca77-4ab8-476a-875a-905065de26f0_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cca9ca77-4ab8-476a-875a-905065de26f0_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cca9ca77-4ab8-476a-875a-905065de26f0_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "UD",
+        "roll_kod": "Statsråd",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "Departement",
+        "from": "1991-10-04",
+        "tom": "1994-10-07",
+        "uppgift": "Utrikesdepartementet",
+        "intressent_id": "0972941768604",
+        "hangar_id": "2342044",
+        "sortering": "100",
+        "organ_sortering": "",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "ambassadör",
+          "typ": "titlar",
+          "intressent_id": "0972941768604",
+          "hangar_id": "2342044"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0972941768604",
+          "hangar_id": "2342044"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "74b879f9-19e4-400c-88f4-8402f3d17653",
+    "sourceid": "a8568101-4108-42b7-8dd6-f14665dfa9ac",
+    "intressent_id": "0504711999229",
+    "hangar_id": "2858135",
+    "fodd_ar": "1989",
+    "kon": "man",
+    "efternamn": "Gamov",
+    "tilltalsnamn": "Pavel",
+    "sorteringsnamn": "Gamov,Pavel",
+    "iort": "",
+    "parti": "-",
+    "valkrets": "Skåne läns södra",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/a8568101-4108-42b7-8dd6-f14665dfa9ac",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a8568101-4108-42b7-8dd6-f14665dfa9ac_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a8568101-4108-42b7-8dd6-f14665dfa9ac_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a8568101-4108-42b7-8dd6-f14665dfa9ac_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "295",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0504711999229",
+          "hangar_id": "2858135",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "VPN",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2015-02-18",
+          "tom": "2019-03-13",
+          "uppgift": "Valprövningsnämnden",
+          "intressent_id": "0504711999229",
+          "hangar_id": "2858135",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "20",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-14",
+          "tom": "2018-09-24",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0504711999229",
+          "hangar_id": "2858135",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0504711999229",
+          "hangar_id": "2858135",
+          "sortering": "30",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "false",
+        "typ": "val",
+        "intressent_id": "0504711999229",
+        "hangar_id": "2858135"
+      }
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "0e7390ab-accd-4584-9d90-b2674cdfccb0",
+    "sourceid": "4c4771f4-a657-4808-ae74-4f2704269717",
+    "intressent_id": "0355151001911",
+    "hangar_id": "2343310",
+    "fodd_ar": "1965",
+    "kon": "man",
+    "efternamn": "Gabelic",
+    "tilltalsnamn": "Aleksander",
+    "sorteringsnamn": "Gabelic,Aleksander",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Östergötlands län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/4c4771f4-a657-4808-ae74-4f2704269717",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4c4771f4-a657-4808-ae74-4f2704269717_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4c4771f4-a657-4808-ae74-4f2704269717_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4c4771f4-a657-4808-ae74-4f2704269717_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "EP",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "11",
+          "status": "",
+          "typ": "Europaparlamentet",
+          "from": "2018-04-04",
+          "tom": "2019-07-02",
+          "uppgift": "Europaparlamentet",
+          "intressent_id": "0355151001911",
+          "hangar_id": "2343310",
+          "sortering": "30",
+          "organ_sortering": "100",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "148",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0355151001911",
+          "hangar_id": "2343310",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "OSSE",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2008-10-21",
+          "tom": "2010-10-04",
+          "uppgift": "OSSE-delegationen",
+          "intressent_id": "0355151001911",
+          "hangar_id": "2343310",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "OSSE",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2006-10-17",
+          "tom": "2008-10-21",
+          "uppgift": "OSSE-delegationen",
+          "intressent_id": "0355151001911",
+          "hangar_id": "2343310",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0355151001911",
+          "hangar_id": "2343310",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Jur.kand.",
+          "typ": "titlar",
+          "intressent_id": "0355151001911",
+          "hangar_id": "2343310"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0355151001911",
+          "hangar_id": "2343310"
+        }
+      ]
+    }
+  }
+}

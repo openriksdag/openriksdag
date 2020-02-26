@@ -1,0 +1,2646 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5043857</hangar_id>
+    <dok_id datatype="string">H70329</dok_id>
+    <rm datatype="string">2019/20</rm>
+    <beteckning datatype="string">29</beteckning>
+    <typ datatype="string">prop</typ>
+    <subtyp datatype="string">prop</subtyp>
+    <doktyp datatype="string">prop</doktyp>
+    <typrubrik datatype="string">Proposition 2019/20:29</typrubrik>
+    <dokumentnamn datatype="string">Proposition</dokumentnamn>
+    <debattnamn datatype="string">Proposition</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">Utrikesdepartementet</organ>
+    <mottagare datatype="string">UU</mottagare>
+    <nummer datatype="int32">29</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2019-10-16 00:00:00</datum>
+    <systemdatum datatype="datetime">2019-12-04 16:29:05</systemdatum>
+    <publicerad datatype="datetime">2019-10-16 00:00:00</publicerad>
+    <titel datatype="string">Svenskt deltagande i Förenta nationernas stabiliseringsinsats i Mali</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">Klar</status>
+    <htmlformat datatype="string">html-ec</htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">prop-RIM</source>
+    <sourceid datatype="string">590ccc43-e4b8-4467-ad29-931a4dbc7b57</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H70329/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H70329</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H70329</dokumentstatus_url_xml>
+    <html datatype="text">&lt;div style="margin:3px;"&gt;
+&lt;STYLE type="text/css"&gt;
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:10px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_1 #p1dimg1 {position:absolute;top:0px;left:546px;z-index:-1;width:54px;height:97px;}
+#page_1 #p1dimg1 #p1img1 {width:54px;height:97px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_2 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_2 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_4 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_4 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 586px;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_7 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_7 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 180px;overflow: hidden;}
+
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 586px;}
+
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 631px;}
+
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_11 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_11 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 180px;overflow: hidden;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 586px;}
+
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 631px;}
+
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 631px;}
+
+
+
+
+
+#page_19 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_20 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_20 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_20 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_21 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_22 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+#page_22 #p22dimg1 {position:absolute;top:236px;left:126px;z-index:-1;width:112px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_22 #p22dimg1 #p22img1 {width:112px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  18px 'Verdana' !important;l-h: 29px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft2{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft3{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft4{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft5{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft6{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft7{font:  10px 'Verdana' !important;l-h: 8px;}
+.ft8{font:  14px 'Verdana' !important;margin-left: 50px;l-h: 22px;}
+.ft9{font:  10px 'Verdana' !important;l-h: 6px;}
+.ft10{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 15px;}
+.ft11{font:  12px 'Verdana' !important;margin-left: 5px;l-h: 15px;}
+.ft12{font:  14px 'Verdana' !important;margin-left: 51px;l-h: 22px;}
+.ft13{font:  10px 'Verdana' !important;l-h: 7px;}
+.ft14{font:  12px 'Verdana' !important;margin-left: 38px;l-h: 15px;}
+.ft15{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft16{font:  10px 'Verdana' !important;l-h: 2px;}
+.ft17{font:  10px 'Verdana' !important;l-h: 3px;}
+.ft18{font:  14px 'Verdana' !important;margin-left: 41px;l-h: 22px;}
+
+.p0{text-align: left;padding-left: 0px;padding-right: 420px;margin-top: 26px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p4{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 0px;margin-top: 31px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 180px;padding-right: 378px;margin-top: 20px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 0px;margin-top: 52px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 28px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p10{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p11{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p12{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;}
+.p13{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p14{text-align: left;margin-top: 753px;margin-bottom: 0px !important;}
+.p15{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p17{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p18{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p19{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p20{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p21{text-align: right;padding-right: 42px;margin-top: 638px;margin-bottom: 0px !important;}
+.p22{text-align: left;padding-right: 63px;margin-top: 17px;margin-bottom: 0px !important;}
+.p23{text-align: left;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p24{text-align: left;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p25{text-align: left;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p26{text-align: left;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p27{text-align: left;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;}
+.p28{text-align: left;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p29{text-align: left;padding-right: 168px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p30{text-align: right;padding-right: 3px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p31{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p32{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p33{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p34{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p35{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p36{text-align: left;margin-top: 49px;margin-bottom: 0px !important;}
+.p37{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p38{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p39{text-align: left;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p40{text-align: left;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p41{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p42{text-align: right;padding-right: 42px;margin-top: 752px;margin-bottom: 0px !important;}
+.p43{text-align: center;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p44{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p45{text-align: right;padding-right: 9px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p46{text-align: center;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p47{text-align: right;padding-right: 7px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p48{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p49{text-align: right;padding-right: 4px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p50{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p51{text-align: center;padding-right: 2px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p52{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p53{text-align: right;padding-right: 8px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p54{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p55{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 1px;margin-bottom: 0px !important;}
+.p56{text-align: right;margin-top: 2px;margin-bottom: 0px !important;}
+.p57{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p58{text-align: right;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p59{text-align: left;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p60{text-align: left;margin-top: 1px;margin-bottom: 0px !important;text-indent: 9px;}
+.p61{text-align: left;margin-top: 2px;margin-bottom: 0px !important;text-indent: 9px;}
+.p62{text-align: left;margin-top: 2px;margin-bottom: 0px !important;}
+.p63{text-align: left;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p64{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p65{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p66{text-align: left;padding-left: 160px;padding-right: 63px;margin-top: 52px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p67{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 18px;margin-bottom: 0px !important;}
+.p68{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p69{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p70{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p71{text-align: left;margin-top: 16px;margin-bottom: 0px !important;}
+.p72{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p73{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;}
+.p74{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p75{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 3px;margin-bottom: 0px !important;}
+.p76{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p77{text-align: left;padding-left: 0px;margin-top: 50px;margin-bottom: 0px !important;}
+.p78{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 17px;margin-bottom: 0px !important;}
+.p79{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 2px;margin-bottom: 0px !important;}
+.p80{text-align: right;padding-right: 42px;margin-top: 8px;margin-bottom: 0px !important;}
+.p81{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p82{text-align: left;padding-left: 160px;margin-top: 1px;margin-bottom: 0px !important;}
+.p83{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 17px;margin-bottom: 0px !important;}
+.p84{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p85{text-align: left;padding-left: 140px;padding-right: 63px;margin-top: 17px;margin-bottom: 0px !important;text-indent: 0.48px;}
+.p86{text-align: left;padding-left: 140px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 0.48px;}
+.p87{text-align: left;margin-top: 2px;margin-bottom: 0px !important;}
+.p88{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p89{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p90{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 1px;margin-bottom: 0px !important;}
+.p91{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 19px;margin-bottom: 0px !important;text-indent: 0.48px;}
+.p92{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 0.48px;}
+.p93{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p94{text-align: left;padding-left: 160px;padding-right: 126px;margin-top: 49px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p95{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p96{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p97{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p98{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p99{text-align: left;padding-left: 0px;padding-right: 6px;margin-top: 0px;margin-bottom: 0px !important;}
+.p100{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;}
+.p101{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p102{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p103{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p104{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p105{text-align: center;padding-right: 7px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p106{text-align: right;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p107{text-align: center;padding-right: 5px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p108{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;}
+.p109{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p110{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;}
+.p111{text-align: left;padding-left: 0px;margin-top: 49px;margin-bottom: 0px !important;}
+.p112{text-align: right;padding-right: 42px;margin-top: 54px;margin-bottom: 0px !important;}
+.p113{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;}
+.p114{text-align: left;margin-top: 739px;margin-bottom: 0px !important;}
+.p115{text-align: right;margin-top: 507px;margin-bottom: 0px !important;}
+.p116{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p117{text-align: left;padding-left: 0px;margin-top: 34px;margin-bottom: 0px !important;}
+.p118{text-align: left;padding-left: 0px;margin-top: 14px;margin-bottom: 0px !important;}
+.p119{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 15px;margin-bottom: 0px !important;}
+.p120{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p121{text-align: left;padding-left: 0px;padding-right: 126px;margin-top: 76px;margin-bottom: 0px !important;}
+.p122{text-align: left;margin-top: 455px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 382px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 144px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 382px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 144px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 19px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 376px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 14px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 52px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 344px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 396px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 32px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 36px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 389px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 97px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 426px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 412px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 53px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 45px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 40px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 71px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 47px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 82px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 38px;vertical-align: bottom;}
+.td23{padding: 0px;margin: 0px;width: 258px;vertical-align: bottom;}
+.td24{padding: 0px;margin: 0px;width: 468px;vertical-align: bottom;}
+.td25{padding: 0px;margin: 0px;width: 61px;vertical-align: bottom;}
+.td26{padding: 0px;margin: 0px;width: 119px;vertical-align: bottom;}
+.td27{padding: 0px;margin: 0px;width: 110px;vertical-align: bottom;}
+.td28{padding: 0px;margin: 0px;width: 31px;vertical-align: bottom;}
+.td29{padding: 0px;margin: 0px;width: 87px;vertical-align: bottom;}
+.td30{padding: 0px;margin: 0px;width: 77px;vertical-align: bottom;}
+.td31{padding: 0px;margin: 0px;width: 141px;vertical-align: bottom;}
+.td32{padding: 0px;margin: 0px;width: 35px;vertical-align: bottom;}
+.td33{padding: 0px;margin: 0px;width: 74px;vertical-align: bottom;}
+.td34{padding: 0px;margin: 0px;width: 281px;vertical-align: bottom;}
+.td35{padding: 0px;margin: 0px;width: 359px;vertical-align: bottom;}
+.td36{padding: 0px;margin: 0px;width: 64px;vertical-align: bottom;}
+.td37{padding: 0px;margin: 0px;width: 362px;vertical-align: bottom;}
+.td38{padding: 0px;margin: 0px;width: 215px;vertical-align: bottom;}
+.td39{padding: 0px;margin: 0px;width: 34px;vertical-align: bottom;}
+.td40{padding: 0px;margin: 0px;width: 43px;vertical-align: bottom;}
+.td41{padding: 0px;margin: 0px;width: 78px;vertical-align: bottom;}
+.td42{padding: 0px;margin: 0px;width: 95px;vertical-align: bottom;}
+.td43{padding: 0px;margin: 0px;width: 105px;vertical-align: bottom;}
+.td44{padding: 0px;margin: 0px;width: 279px;vertical-align: bottom;}
+.td45{padding: 0px;margin: 0px;width: 183px;vertical-align: bottom;}
+.td46{padding: 0px;margin: 0px;width: 174px;vertical-align: bottom;}
+.td47{padding: 0px;margin: 0px;width: 112px;vertical-align: bottom;}
+.td48{padding: 0px;margin: 0px;width: 114px;vertical-align: bottom;}
+.td49{padding: 0px;margin: 0px;width: 424px;vertical-align: bottom;}
+.td50{padding: 0px;margin: 0px;width: 108px;vertical-align: bottom;}
+.td51{padding: 0px;margin: 0px;width: 48px;vertical-align: bottom;}
+.td52{padding: 0px;margin: 0px;width: 321px;vertical-align: bottom;}
+.td53{padding: 0px;margin: 0px;width: 30px;vertical-align: bottom;}
+.td54{padding: 0px;margin: 0px;width: 395px;vertical-align: bottom;}
+.td55{padding: 0px;margin: 0px;width: 493px;vertical-align: bottom;}
+.td56{padding: 0px;margin: 0px;width: 464px;vertical-align: bottom;}
+.td57{padding: 0px;margin: 0px;width: 66px;vertical-align: bottom;}
+.td58{padding: 0px;margin: 0px;width: 410px;vertical-align: bottom;}
+.td59{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 430px;vertical-align: bottom;}
+.td60{border-left: #000000 1px solid;border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 428px;vertical-align: bottom;}
+.td61{border-left: #000000 1px solid;padding: 0px;margin: 0px;width: 18px;vertical-align: bottom;}
+.td62{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 409px;vertical-align: bottom;}
+.td63{border-left: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 18px;vertical-align: bottom;}
+.td64{border-right: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 409px;vertical-align: bottom;}
+.td65{padding: 0px;margin: 0px;width: 430px;vertical-align: bottom;}
+.td66{padding: 0px;margin: 0px;width: 126px;vertical-align: bottom;}
+.td67{padding: 0px;margin: 0px;width: 124px;vertical-align: bottom;}
+.td68{padding: 0px;margin: 0px;width: 75px;vertical-align: bottom;}
+.td69{padding: 0px;margin: 0px;width: 73px;vertical-align: bottom;}
+.td70{padding: 0px;margin: 0px;width: 367px;vertical-align: bottom;}
+.td71{padding: 0px;margin: 0px;width: 274px;vertical-align: bottom;}
+.td72{padding: 0px;margin: 0px;width: 102px;vertical-align: bottom;}
+.td73{padding: 0px;margin: 0px;width: 22px;vertical-align: bottom;}
+.td74{padding: 0px;margin: 0px;width: 118px;vertical-align: bottom;}
+.td75{padding: 0px;margin: 0px;width: 292px;vertical-align: bottom;}
+.td76{padding: 0px;margin: 0px;width: 307px;vertical-align: bottom;}
+
+.tr0{heightzzz: 27px;}
+.tr1{heightzzz: 24px;}
+.tr2{heightzzz: 17px;}
+.tr3{heightzzz: 21px;}
+.tr4{heightzzz: 22px;}
+.tr5{heightzzz: 15px;}
+.tr6{heightzzz: 26px;}
+.tr7{heightzzz: 18px;}
+.tr8{heightzzz: 8px;}
+.tr9{heightzzz: 16px;}
+.tr10{heightzzz: 6px;}
+.tr11{heightzzz: 19px;}
+.tr12{heightzzz: 31px;}
+.tr13{heightzzz: 25px;}
+.tr14{heightzzz: 7px;}
+.tr15{heightzzz: 2px;}
+.tr16{heightzzz: 3px;}
+.tr17{heightzzz: 30px;}
+
+.t0{width: 552px;margin-leftZ: 69px;margin-top: 11px;f:20px 'Verdana' !important;}
+.t1{width: 431px;margin-top: 18px;f:13px 'Verdana' !important;}
+.t2{width: 548px;margin-leftZ: 68px;f:20px 'Verdana' !important;}
+.t3{width: 548px;f:13px 'Verdana' !important;}
+.t4{width: 432px;f:13px 'Verdana' !important;}
+.t5{width: 555px;margin-top: 14px;f:13px 'Verdana' !important;}
+.t6{width: 557px;f:13px 'Verdana' !important;}
+.t7{width: 548px;margin-leftZ: 68px;f:13px 'Verdana' !important;}
+.t8{width: 564px;f:13px 'Verdana' !important;}
+.t9{width: 500px;margin-leftZ: 6px;f:20px 'Verdana' !important;}
+.t10{width: 555px;margin-top: 15px;f:13px 'Verdana' !important;}
+.t11{width: 564px;margin-top: 46px;f:13px 'Verdana' !important;}
+.t12{width: 431px;margin-top: 14px;f:13px 'Verdana' !important;}
+
+&lt;/STYLE&gt;
+
+
+
+&lt;DIV id="page_1"&gt;
+&lt;DIV id="p1dimg1"&gt;
+&lt;INGENBILD zsrc="H703291x1.jpg/" id="p1img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV class="dclr"&gt;&lt;/DIV&gt;
+&lt;P class="p0 ft0"&gt;Regeringens proposition 2019/20:29&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t0"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr0 td0"&gt;&lt;SPAN class="p1 ft1"&gt;Svenskt deltagande i Förenta nationernas&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td1"&gt;&lt;SPAN class="p2 ft1"&gt;Prop.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td2"&gt;&lt;SPAN class="p1 ft1"&gt;stabiliseringsinsats i Mali&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td3"&gt;&lt;SPAN class="p2 ft1"&gt;2019/20:29&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p3 ft2"&gt;Regeringen överlämnar denna proposition till riksdagen.&lt;/P&gt;
+&lt;P class="p4 ft2"&gt;Stockholm den 10 oktober 2019&lt;/P&gt;
+&lt;P class="p5 ft3"&gt;Stefan Löfven&lt;/P&gt;
+&lt;P class="p6 ft3"&gt;Ann Linde &lt;SPAN class="ft2"&gt;(Utrikesdepartementet)&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p7 ft1"&gt;Propositionens huvudsakliga innehåll&lt;/P&gt;
+&lt;P class="p8 ft2"&gt;I propositionen föreslås att riksdagen medger att regeringen fortsatt ställer en svensk väpnad styrka till förfogande för deltagande i Förenta nationernas (FN) stabiliseringsinsats i Mali (Minusma) till den 31 december 2020, under förutsättning att det även fortsättningsvis finns ett giltigt mandat för styrkan enligt beslut av FN:s säkerhetsråd. Minusmas mandat omfattar att stödja genomförandet av fredsavtalet i Mali, stabilisering av landet och skydda civila, stöd till den politiska dialogen och nationell försoning, främja mänskliga rättigheter samt stödja humanitär biståndsverksamhet. Det planerade svenska styrkebidraget föreslås bestå av ett lätt skyttekompani som tillsammans med en nationell stödenhet utgör del av Minusmas samlade förmåga att upprätthålla FN:s säkerhetsrådsresolution 2480 (2019).&lt;/P&gt;
+&lt;P class="p9 ft2"&gt;Det svenska skyttekompaniet föreslås vara stationerat i Gao, huvudort i Minusmas östra sektor. Emellertid kan det svenska styrkebidraget komma att användas i hela Minusmas insatsområde.&lt;/P&gt;
+&lt;P class="p10 ft2"&gt;Parallellt med det svenska styrkebidraget i Gao ska det svenska bidraget också omfatta en styrka för avveckling av det tidigare svenska förbandsbidraget med tillhörande infrastruktur i Timbuktu.&lt;/P&gt;
+&lt;P class="p10 ft2"&gt;Den totala styrkan beräknas under normala omständigheter bestå av 220 personer, inklusive officerare vid relevanta staber. Om behov uppstår ska styrkan tillfälligt kunna förstärkas till högst 470 personer. I propositionen redogör regeringen för situationen i Mali och för det internationella samfundets och Sveriges engagemang i landet. Regeringen redogör även för insatsens folkrättsliga mandat, det avsedda svenska&lt;/P&gt;
+&lt;P class="p11 ft4"&gt;deltagandet samt sina målsättningar och överväganden för insatsen.&lt;/P&gt;
+&lt;P class="p12 ft2"&gt;1&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_2"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p13 ft2"&gt;Prop. 2019/20:29&lt;/P&gt;
+&lt;P class="p14 ft2"&gt;2&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p13 ft1"&gt;Innehållsförteckning&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t1"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td4"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_3"&gt;1&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr2 td5"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_3"&gt;Förslag till riksdagsbeslut .................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td6"&gt;&lt;SPAN class="p17 ft2"&gt;&lt;A href="#page_3"&gt;3&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td4"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_4"&gt;2&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td5"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_4"&gt;Ärendet och dess beredning ..............................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p17 ft2"&gt;&lt;A href="#page_4"&gt;4&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td4"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_5"&gt;3&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td5"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_5"&gt;Situationen i Mali..............................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p17 ft2"&gt;&lt;A href="#page_5"&gt;5&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td4"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_9"&gt;4&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td5"&gt;&lt;SPAN class="p16 ft5"&gt;&lt;A href="#page_9"&gt;Internationella samfundets och Sveriges engagemang i Mali ...........&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p17 ft2"&gt;&lt;A href="#page_9"&gt;9&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td4"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_12"&gt;5&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td5"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_12"&gt;Förenta nationernas stabiliseringsinsats i Mali, Minusma ..............&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p17 ft2"&gt;&lt;A href="#page_12"&gt;12&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td4"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_13"&gt;6&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td5"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_13"&gt;Folkrättsligt mandat för insatsen .....................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p17 ft2"&gt;&lt;A href="#page_13"&gt;13&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td4"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_14"&gt;7&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td5"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_14"&gt;Målsättningen med fortsatt svenskt deltagande i Minusma ............&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p17 ft2"&gt;&lt;A href="#page_14"&gt;14&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td4"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_16"&gt;8&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td5"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_16"&gt;Det svenska militära bidraget till Minusma ....................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p17 ft2"&gt;&lt;A href="#page_16"&gt;16&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td4"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_17"&gt;9&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td5"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_17"&gt;Regeringens överväganden och förslag ..........................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p17 ft2"&gt;&lt;A href="#page_17"&gt;17&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td4"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_19"&gt;10&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td5"&gt;&lt;SPAN class="p16 ft2"&gt;&lt;A href="#page_19"&gt;Ekonomiska konsekvenser ..............................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p17 ft2"&gt;&lt;A href="#page_19"&gt;19&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td7"&gt;&lt;SPAN class="p15 ft2"&gt;Bilaga 1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td8"&gt;&lt;SPAN class="p17 ft2"&gt;&lt;A href="#page_20"&gt;Förkortningar....................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p17 ft2"&gt;&lt;A href="#page_20"&gt;20&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr4 td9"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;A href="#page_22"&gt;Utdrag ur protokoll vid regeringssammanträde den 10 oktober&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td4"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td10"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td8"&gt;&lt;SPAN class="p17 ft2"&gt;&lt;A href="#page_22"&gt;2019 .......................................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p17 ft2"&gt;&lt;A href="#page_22"&gt;22&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_3"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t2"&gt;
+&lt;TR&gt;
+	&lt;TD rowspan=2 class="tr6 td11"&gt;&lt;SPAN class="p18 ft1"&gt;1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD rowspan=2 class="tr6 td12"&gt;&lt;SPAN class="p19 ft1"&gt;Förslag till riksdagsbeslut&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td13"&gt;&lt;SPAN class="p15 ft2"&gt;Prop. 2019/20:29&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td13"&gt;&lt;SPAN class="p15 ft7"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p4 ft2"&gt;Regeringens förslag:&lt;/P&gt;
+&lt;P class="p20 ft2"&gt;Riksdagen medger att regeringen ställer en svensk väpnad styrka bestående av högst 470 personer till förfogande för deltagande i Förenta nationernas stabiliseringsinsats i Mali (Minusma) till den 31 december 2020, under förutsättning att det även fortsättningsvis finns ett giltigt mandat för styrkan enligt beslut av FN:s säkerhetsråd (avsnitt 9).&lt;/P&gt;
+&lt;P class="p21 ft2"&gt;3&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_4"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p13 ft2"&gt;Prop. 2019/20:29&lt;/P&gt;
+&lt;P class="p14 ft2"&gt;4&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p13 ft1"&gt;&lt;SPAN class="ft1"&gt;2&lt;/SPAN&gt;&lt;SPAN class="ft8"&gt;Ärendet och dess beredning&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p22 ft2"&gt;Den 5 juli 2012 antog FN:s säkerhetsråd resolution 2056 (2012), som fastställde att situationen i Mali utgjorde ett hot mot internationell fred och säkerhet.&lt;/P&gt;
+&lt;P class="p23 ft2"&gt;Den 12 oktober 2012 antog FN:s säkerhetsråd resolution 2071 (2012), som bland annat uppmanade det internationella samfundet att stödja Malis försvars- och säkerhetsstyrkor med utbildning och rådgivning.&lt;/P&gt;
+&lt;P class="p23 ft2"&gt;Den 20 december 2012 antog FN:s säkerhetsråd resolution 2085 (2012), som med stöd av kapitel VII i Förenta nationernas stadga (SÖ 1946:1, FN- stadgan) medgav etableringen av en afrikanskledd internationell stödinsats i Mali, Afisma &lt;NOBR&gt;(African-led&lt;/NOBR&gt; International Support Mission to Mali) och bad FN:s generalsekreterare att upprätta en &lt;NOBR&gt;FN-närvaro&lt;/NOBR&gt; i landet.&lt;/P&gt;
+&lt;P class="p23 ft2"&gt;Den 17 januari 2013 beslutade Europeiska unionen (EU) att på basis av FN:s säkerhetsrådsresolution 2071 (2012) och efter inbjudan av Malis regering inrätta en militär insats för bidragande till utbildning av Malis försvarsmakt, European Union Training Mission (EUTM) Mali. Regeringen beslutade den 31 januari 2013 att Sverige skulle delta i EUTM Mali med högst 15 personer under högst 15 månader. Den 20 december 2018 beslutade regeringen att förlänga det svenska deltagandet i EUTM Mali till den 31 december 2019.&lt;/P&gt;
+&lt;P class="p24 ft2"&gt;Den 25 april 2013 antog FN:s säkerhetsråd resolution 2100 (2013), som med stöd av &lt;NOBR&gt;FN-stadgans&lt;/NOBR&gt; kapitel VII inrättade en &lt;NOBR&gt;FN-ledd&lt;/NOBR&gt; stabiliseringsinsats i Mali, Minusma (United Nations Multidimensional Integrated Stabilization Mission in Mali). Den 1 juli 2013 integrerades Afismas militära styrkor i &lt;NOBR&gt;FN-insatsen.&lt;/NOBR&gt;&lt;/P&gt;
+&lt;P class="p25 ft2"&gt;Den 3 maj 2013 skickade FN:s sekretariat en formell förfrågan till FN:s medlemsländer om styrkebidrag till &lt;NOBR&gt;FN-insatsen&lt;/NOBR&gt; i Mali. Regeringskansliet (Försvarsdepartementet) skickade en begäran om information den 16 december 2013 (Fö2013/2266/MFI) till Försvarsmakten där myndigheten uppmanades att redovisa sina förutsättningar att delta i Minusma. Försvarsmakten redovisade sitt svar den 24 januari 2014. Den 12 februari 2014 skickade FN:s sekretariat en formell förfrågan till Sverige om styrkebidrag till underrättelseenheten (All Sources Information Fusion Unit, Asifu) i Minusma.&lt;/P&gt;
+&lt;P class="p26 ft2"&gt;Den 13 mars 2014 fattade regeringen beslut om propositionen Svenskt deltagande i Förenta nationernas stabiliseringsinsats i Mali (prop. 2013/14:189). Den 12 juni 2014 gav riksdagen bifall till regeringens förslag (bet. 2013/14:UFöU2, rskr. 2013/14:335).&lt;/P&gt;
+&lt;P class="p23 ft2"&gt;Den 25 juni 2014 antog FN:s säkerhetsråd resolution 2164 (2014), som förlängde Minusmas mandat med ett år till den 30 juni 2015.&lt;/P&gt;
+&lt;P class="p23 ft2"&gt;Den 11 september 2014 fattade regeringen beslut om att ingå ett samförståndsavtal med FN avseende ett svenskt styrkebidrag till Minusma. Avtalet undertecknades av utrikesministern den 25 september 2014.&lt;/P&gt;
+&lt;P class="p23 ft2"&gt;Eftersom FN meddelat begränsad förmåga att förse den svenska styrkan med förläggning, fattade Försvarsmakten beslut om nyttjande av nationella ingenjörsresurser för detta ändamål. Försvarsmakten påbörjade i oktober 2014 etablering och byggnation av den svenska förläggningen Camp Nobel i närheten av Timbuktus flygplats. Förläggningen, med&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_5"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t3"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p15 ft2"&gt;kapacitet för cirka 300 personer, färdigställdes under våren 2015. Den 12&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td13"&gt;&lt;SPAN class="p15 ft2"&gt;Prop. 2019/20:29&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td14"&gt;&lt;SPAN class="p15 ft2"&gt;mars 2015 fattade regeringen beslut om propositionen Svenskt deltagande&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td14"&gt;&lt;SPAN class="p15 ft2"&gt;i Förenta nationernas stabiliseringsinsats i Mali (prop. 2014/15:68). Den&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p27 ft2"&gt;6 maj 2015 gav riksdagen bifall till regeringens förslag (bet. 2014/15:UFöU3, rskr. 2014/15:184).&lt;/P&gt;
+&lt;P class="p28 ft2"&gt;Den 29 juni 2015 antog FN:s säkerhetsråd resolution 2227 (2015), som förlängde Minusmas mandat med ett år till den 30 juni 2016. Den 17 mars 2016 fattade regeringen beslut om propositionen Svenskt deltagande i Förenta nationernas stabiliseringsinsats i Mali (prop. 2015/16:119). Den 18 maj 2016 gav riksdagen bifall till regeringens förslag (bet. 2015/16:UFöU3, rskr. 2015/16:231).&lt;/P&gt;
+&lt;P class="p29 ft2"&gt;Den 29 juni 2016 antog FN:s säkerhetsråd resolution 2295 (2016), som förlängde Minusmas mandat med ett år till den 30 juni 2017. Den 30 mars 2017 fattade regeringen beslut om propositionen Svenskt deltagande i Förenta nationernas stabiliseringsinsats i Mali (prop. 2016/17:128). Den 8 juni 2017 gav riksdagen bifall till regeringens förslag (bet. 2016/17:UFöU3, rskr. 2016/17:310).&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t4"&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr2 td15"&gt;&lt;SPAN class="p17 ft2"&gt;Den 29 juni 2017 antog FN:s säkerhetsråd resolution 2364 (2017), som&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;förlängde Minusmas mandat med ett år till den 30 juni 2018. Den 15 mars&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;2018 fattade regeringen beslut om propositionen Svenskt deltagande i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;Förenta nationernas stabiliseringsinsats i Mali (prop. 2017/18:180). Den&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td16"&gt;&lt;SPAN class="p15 ft2"&gt;14 juni&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p30 ft2"&gt;2018&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td18"&gt;&lt;SPAN class="p31 ft2"&gt;gav&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td19"&gt;&lt;SPAN class="p16 ft2"&gt;riksdagen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td20"&gt;&lt;SPAN class="p32 ft2"&gt;bifall&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td10"&gt;&lt;SPAN class="p33 ft2"&gt;till&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td21"&gt;&lt;SPAN class="p34 ft2"&gt;regeringens&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td22"&gt;&lt;SPAN class="p17 ft2"&gt;förslag&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=5 class="tr5 td23"&gt;&lt;SPAN class="p15 ft2"&gt;(bet. 2017/18:UFöU4, rskr. 2017/18:395).&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td10"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td21"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td22"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td15"&gt;&lt;SPAN class="p17 ft2"&gt;Den 28 juni 2018 antog FN:s säkerhetsråd resolution 2423 (2018), som&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;förlängde Minusmas mandat med ett år till den 30 juni 2019. Den 21 mars&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;2019 fattade regeringen beslut om propositionen Svenskt deltagande i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;Förenta nationernas stabiliseringsinsats i Mali (prop. 2018/19:69). Den&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td16"&gt;&lt;SPAN class="p15 ft2"&gt;12 juni&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p35 ft2"&gt;2019&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td18"&gt;&lt;SPAN class="p33 ft2"&gt;gav&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td19"&gt;&lt;SPAN class="p15 ft2"&gt;riksdagen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td20"&gt;&lt;SPAN class="p15 ft2"&gt;bifall&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td10"&gt;&lt;SPAN class="p15 ft2"&gt;till&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td21"&gt;&lt;SPAN class="p15 ft2"&gt;regeringens&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td22"&gt;&lt;SPAN class="p17 ft2"&gt;förslag&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=5 class="tr5 td23"&gt;&lt;SPAN class="p15 ft2"&gt;(bet. 2018/19:UFöU3, rskr. 2018/19:255).&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td10"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td21"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td22"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td15"&gt;&lt;SPAN class="p17 ft2"&gt;Den 28 juni 2019 antog FN:s säkerhetsråd resolution 2480 (2019), som&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;förlängde Minusmas mandat med ett år till och med den 30 juni 2020.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p36 ft1"&gt;3 Situationen i Mali&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t5"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td24"&gt;&lt;SPAN class="p15 ft2"&gt;Mali är ett av världens fattigaste länder. Sedan årtionden råder ett spänt&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td25"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td24"&gt;&lt;SPAN class="p15 ft2"&gt;förhållande inom Mali mellan å ena sidan folkgrupperna i den södra delen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td25"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td24"&gt;&lt;SPAN class="p15 ft2"&gt;av landet, som traditionellt dominerar det politiska och ekonomiska livet,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td25"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td24"&gt;&lt;SPAN class="p15 ft2"&gt;och å andra sidan olika minoritetsfolk i norr, bland annat tuareger.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td25"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td24"&gt;&lt;SPAN class="p15 ft2"&gt;Periodvis har motsättningarna övergått i väpnad konflikt. Under senare år&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td25"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td24"&gt;&lt;SPAN class="p15 ft2"&gt;har det också skett en ökning av kriminella aktiviteter, såsom illegal handel&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td25"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td24"&gt;&lt;SPAN class="p15 ft2"&gt;med vapen, droger och människor, kidnappningar, terroristaktiviteter samt&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td25"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td24"&gt;&lt;SPAN class="p15 ft2"&gt;interkommunitära sammandrabbningar i Mali och i Sahelregionen.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td25"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td24"&gt;&lt;SPAN class="p37 ft2"&gt;I januari 2012 uppstod en säkerhetskris i Mali, då en sekulär&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td25"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td24"&gt;&lt;SPAN class="p15 ft2"&gt;tuareggrupp, Nationella rörelsen för Azawads befrielse (MNLA) tog till&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td25"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td24"&gt;&lt;SPAN class="p15 ft2"&gt;vapen mot Malis försvarsmakt. Detta väpnade uppror syftade till att ta&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td25"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td24"&gt;&lt;SPAN class="p15 ft2"&gt;kontrollen över ett geografiskt område i norra Mali kallat Azawad, vilket&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td25"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td24"&gt;&lt;SPAN class="p15 ft2"&gt;utgör cirka 60 procent av landets territorium. MNLA utmanövrerades efter&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td25"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td24"&gt;&lt;SPAN class="p15 ft2"&gt;några månader av olika väpnade extremistgrupper och kriminella grupper&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD rowspan=2 class="tr3 td25"&gt;&lt;SPAN class="p17 ft2"&gt;5&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td24"&gt;&lt;SPAN class="p15 ft9"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_6"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t6"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td26"&gt;&lt;SPAN class="p15 ft2"&gt;Prop. 2019/20:29&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p15 ft2"&gt;lierade med &lt;NOBR&gt;al-Qaida&lt;/NOBR&gt; i islamiska Maghreb, Aqim. Dessa väpnade&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;extremistgrupper kom från sommaren 2012 att kontrollera två tredjedelar&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;av Malis territorium där de införde strikta &lt;NOBR&gt;sharia-lagar&lt;/NOBR&gt; och bland annat&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;utdömde kroppsstraff för vad de såg som brott mot islams lagar. Detta&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;medförde allvarliga övergrepp mot de mänskliga rättigheterna.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p37 ft2"&gt;I protest mot regeringens oförmåga att hantera det väpnade upproret i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;norr och arméns bristfälliga resurser genomförde en grupp armésoldater&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;en militärkupp den 22 mars 2012. Den 6 april 2012 slöts ett ramverksavtal&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;mellan kuppmakarna och Västafrikanska staters ekonomiska gemenskap,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;Ecowas (Economic Community of West African States), som ledde till att&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;kuppmakarna trädde tillbaka och en ny regering ledd av parlamentets&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;talman tillträdde.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p37 ft2"&gt;I januari 2013 inledde väpnade extremistgrupper i norra Mali en offensiv&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;söderut mot huvudstaden Bamako. Malis regering begärde och fick&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;militärt stöd av Frankrike, vilket möjliggjorde för maliska regeringsstyrkor&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;att återta kontrollen över merparten av landet. I slutet av 2014 förvärrades&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;säkerhetsläget i norra Mali med attacker och mindre incidenter på flera&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;platser.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p37 ft2"&gt;Sommaren 2014 inleddes en förhandlingsprocess under ledning av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;Algeriets utrikesminister. Ett fredsavtal undertecknades den 15 maj 2015&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;av Malis regering samt regeringstrogna grupper (inom den koalition som&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;benämns Plattformen) och den 20 juni 2015 också av de grupper som&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;stridit för ett ökat självstyre i norra Mali (den så kallade Koordinationen&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;eller CMA – Coordination des mouvements de l’Azawad). Representanter&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;för såväl Minusma som EU och Afrikanska unionen (AU) fanns på plats&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;när förhandlingarna pågick. Sedan fredsavtalets undertecknande har flera&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;territoriellt motiverade rebellgrupper brutit mot avtalet. Minusma har&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;spelat en viktig roll i att hantera de säkerhetshot som uppstått.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p37 ft2"&gt;Fredsavtalet innebar inte ett slut på den politiska processen utan utgör&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;en grund för det fortsatta arbetet med att långsiktigt bygga fred, skapa&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;stabilitet och bidra till utveckling i Mali. Fredsavtalet omfattar&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;decentralisering, institutionella frågor, försvar och säkerhet, ekonomisk&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft5"&gt;utveckling och försoning. I samband med undertecknandet av fredsavtalet&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;i juni 2015 inrättades även en uppföljningskommitté (Comité de Suivi de&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft5"&gt;l’Accord), under ledning av Algeriet. Den initiala tanken var att man under&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;en interimsperiod om 24 månader skulle genomföra vissa grundläggande&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;åtaganden i fredsavtalet. Interimsperioden löpte ut under sommaren 2017&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;utan att en majoritet av interimsåtgärderna hade genomförts. Samtidigt&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;som framstegen i genomförandet av fredsavtalet har varit begränsade,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;antogs i början av 2018 bland annat en ny förvaltningslag för att kunna&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;reglera fredsavtalets decentraliseringsåtaganden, liksom en vägkarta för&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;fredsavtalets genomförande. Under andra halvan av 2018 tappade&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;fredsprocessen dock åter fart, delvis till följd av förberedelserna och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;genomförandet av presidentvalet i augusti 2018. I presidentvalet blev&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;sittande president Ibrahim Boubacar Keïta omvald efter en andra&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;valomgång. Valet genomfördes utan omfattande säkerhetsincidenter, men&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;med rapporter om lokala våldsamheter, valfusk samt många stängda&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;vallokaler i framför allt landets centrala delar. Premiärminister Soumeylou&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft5"&gt;Boubeye Maïga, som efter valet fått fortsatt förtroende av president Keïta,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;avgick tillsammans med sin regering i april 2019 efter kritik från&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft2"&gt;6&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;oppositionen, folkliga protester och inför hot om misstroendevotum av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_7"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p38 ft2"&gt;parlamentet. I början av maj 2019 presenterade den nye premiärministern Boubou Cissé en ny regering, som inkluderar medlemmar från den politiska oppositionen. En bred politisk, nationell dialog ska hållas enligt en överenskommelse i samband med regeringsombildningen, inklusive om den pågående reformen av konstitutionen. De parlamentsval som skulle ha hållits under andra halvan av 2018 har skjutits upp, och i juni 2019 beslutades om en förlängning av nuvarande ledamöters mandat fram till den 2 maj 2020.&lt;/P&gt;
+&lt;P class="p39 ft2"&gt;Som en del i genomförandet av fredsavtalet påbörjades 2018 en DDR- process (avväpning, demobilisering och återintegrering) med stöd av Minusma i Mali. &lt;NOBR&gt;DDR-processen&lt;/NOBR&gt; har fortsatt under 2019 men ett flertal aspekter kring dess genomförande är fortfarande inte utlösta. Samtidigt kvarstår genomförandet av en rad politiska och institutionella reformer, inklusive reformen av konstitutionen, samt reformer kopplade till decentralisering som är en av fredsprocessens nyckelfrågor. Vidare är kvinnors deltagande i genomförandet av fredsavtalet högst begränsat. En arbetsgrupp har etablerats, på initiativ av Minusma, för att främja kvinnors deltagande i processen.&lt;/P&gt;
+&lt;P class="p40 ft2"&gt;Det internationella samfundet (inklusive FN, AU och EU) stöttar genomförandet av fredsavtalet. Det bristfälliga genomförandet av avtalet resulterade under hösten 2018 i en ökad press från det internationella samfundet på parterna, vilket också återspeglas i FN:s säkerhetsrådsresolution 2423 (2018). I enlighet med denna resolution skrevs en fredspakt under den 15 oktober 2018 mellan Malis regering och FN. Grupperingarna CMA och Plattformen har anslutit sig till fredspakten.&lt;/P&gt;
+&lt;P class="p39 ft2"&gt;FN:s säkerhetsråd antog den 5 september 2017 enhälligt resolution 2374 (2017) som inrättar en sanktionsregim avseende Mali. Sanktionsregimen omfattar reseförbud och frysning av tillgångar mot individer och enheter som hotar fred, säkerhet och stabilitet i landet. Sanktionsregimen ska verka till stöd för fredsavtalet från 2015, som föreskriver att säkerhetsrådet kan besluta om sanktioner mot dem som undergräver avtalets genomförande. Inga personer eller enheter listades dock för sådana åtgärder i samband med antagandet. Sanktionsregimen har genom resolution 2484 (2019) förlängts till och med 31 augusti 2020. Den 20 december 2018 beslutade FN:s sanktionskommitté för Mali att lista tre personer för riktade restriktiva åtgärder i form av reserestriktioner och ytterligare fem personer listades den 10 juli 2019.&lt;/P&gt;
+&lt;P class="p40 ft2"&gt;Säkerhetsläget är fortsatt allvarligt i Mali, framför allt i landets centrala delar, där även interkommunitära konflikter blir allt tydligare. Ett inslag i de interkommunitära konflikterna är en tilltagande friktion mellan boskapsskötare och jordbrukare i kamp om krympande naturresurser. I takt med att islamistiska våldsbejakande gruppers närvaro blivit mer påtaglig i flera områden, har flera hundra skolor stängts sedan 2016. Sedan en längre tid har Aqim etablerat sig bland annat i de norra delarna av Mali. År 2017 bildades gruppen Jama'a Nusrat &lt;NOBR&gt;ul-Islam&lt;/NOBR&gt; wa &lt;NOBR&gt;al-Muslimin'&lt;/NOBR&gt; (JNIM), där bland annat Aqim ingår. JNIM har tagit på sig flera attacker i Sahel inklusive i Mali. I centrala Mali har flera nya grupper bildats under de senaste åren, varav vissa har kopplingar till Daesh. Den islamistiska våldsbejakande gruppen Katibat Macina i centrala Mali, kopplad till JNIM, utnyttjar bristen på statlig närvaro för sin verksamhet och i förhållande till lokalbefolkningen. I närregionen har man sett en ökad&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p41 ft2"&gt;Prop. 2019/20:29&lt;/P&gt;
+&lt;P class="p42 ft2"&gt;7&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_8"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t6"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td26"&gt;&lt;SPAN class="p15 ft2"&gt;Prop. 2019/20:29&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr7 td15"&gt;&lt;SPAN class="p15 ft2"&gt;utbredning av terroristgrupper. Regelbundet sker terroristattentat riktade&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;såväl mot civila som mot den internationella närvaron och Malis armé. I&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;juni 2018 attackerades högkvarteret för den regionala G5 &lt;NOBR&gt;Sahel-styrkan&lt;/NOBR&gt; i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;Sévaré. Islamistiska våldsbejakande grupper har utvecklat sin förmåga att&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;utföra avancerade attacker, vilka i ökande utsträckning riktas mot&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;Minusma. I slutet av juli 2019 hade 201 &lt;NOBR&gt;Minusma-anställda&lt;/NOBR&gt; dött i Mali&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;sedan insatsen formellt inrättades den 25 april 2013, varav 126 som&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;resultat av medveten våldsam handling. De förband som drabbats av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;förluster har i stor utsträckning haft brister i skydd, utrustning och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td27"&gt;&lt;SPAN class="p15 ft2"&gt;utbildning.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td28"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td29"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td7"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td30"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td16"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p37 ft2"&gt;Utvecklingen i Mali har regionala implikationer, där exempelvis det&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;försämrade säkerhetsläget i de centrala delarna har bidragit till instabilitet&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;i den vidare regionen. Ett försämrat säkerhetsläge kan noteras i Niger och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;Burkina Faso men även i andra delar av Sahel och Västafrika. Problem i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;Mali, som relaterar till bland annat irreguljär migration samt till&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft5"&gt;organiserad brottslighet, har konsekvenser inte bara för länderna i regionen&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr9 td31"&gt;&lt;SPAN class="p15 ft2"&gt;utan även för Europa.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td29"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td7"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td30"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td16"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p37 ft2"&gt;Kränkningar av och övergrepp mot de mänskliga rättigheterna kopplade&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;till konflikten rapporteras regelbundet. Det handlar bland annat om&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;laglöshet, utomrättsliga avrättningar, tortyr eller annan förnedrande&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;behandling, sexuellt våld, godtyckliga frihetsberövanden och rekrytering&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;av barnsoldater. Straffriheten är utbredd. Problem till följd av låg och i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft5"&gt;vissa fall obefintlig statlig närvaro i de centrala och norra delarna av landet&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;har blivit mer påtagliga och utgör en utmaning för rättsstatens principer i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td32"&gt;&lt;SPAN class="p15 ft2"&gt;Mali.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td33"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td28"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td29"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td7"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td30"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td16"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p37 ft5"&gt;De humanitära behoven i Mali och Sahelregionen är fortsatt omfattande.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;En kombination av de väpnade konflikterna, en degraderad miljö och ett&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;förändrat klimat påverkar hela regionen. Klimatförändringarna har&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;medfört fler extrema väderhändelser, både i form av torka och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;översvämningar. Vattenbristen och matosäkerheten är stor och tillgången&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td32"&gt;&lt;SPAN class="p15 ft2"&gt;till&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td33"&gt;&lt;SPAN class="p15 ft2"&gt;hälsovård&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td28"&gt;&lt;SPAN class="p15 ft2"&gt;är&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td29"&gt;&lt;SPAN class="p15 ft2"&gt;undermålig,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td7"&gt;&lt;SPAN class="p15 ft2"&gt;vilket&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td30"&gt;&lt;SPAN class="p15 ft2"&gt;ytterligare&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td16"&gt;&lt;SPAN class="p15 ft2"&gt;försvagar&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=5 class="tr9 td34"&gt;&lt;SPAN class="p15 ft2"&gt;återhämtningsförmågan efter kris och konflikt.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td30"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td16"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p37 ft2"&gt;FN:s säkerhetsråd efterfrågade i resolution 2423 (2018) och resolution&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;2480 (2019) en bedömning och rapportering av klimatrelaterade&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;säkerhetsrisker i Sahelregionen och Mali. FN:s generalsekreterare&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;observerade vidare i sin rapport (MINUSMA, S/2019/545, paragraf 92) att&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft5"&gt;en integrerad strategi behövs för att möta grundorsakerna till krisen, såsom&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr9 td35"&gt;&lt;SPAN class="p15 ft2"&gt;fattigdom, ungas möjligheter och klimatförändringar.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td16"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p37 ft2"&gt;Utbredd fattigdom, samhällets allmänna sårbarhet och framför allt den&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;pågående konflikten förvärrar den humanitära situationen. Det&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;internationella samfundet har inte kunnat möta behoven av humanitära&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td27"&gt;&lt;SPAN class="p15 ft2"&gt;insatser.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td28"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td29"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td7"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td30"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td16"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p37 ft2"&gt;Enligt FN är i dag 3,9 miljoner människor i Mali i behov av humanitärt&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;stöd. Undernäringen är utbredd och 2,8 miljoner människor är i behov av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;stöd för tillgång till tryggad livsmedelsförsörjning. Konfliktdrabbade&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;regioner är särskilt utsatta och problem med humanitärt tillträde kvarstår.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p37 ft2"&gt;Vid sidan av livsmedel är behoven av bland annat humanitärt skydd,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;sanitet och vatten stora. Konflikten i Mali har även bidragit till omfattande&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;flyktingrörelser inom och mellan länderna i regionen vilket har skapat&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;ytterligare humanitära behov. Regionerna Timbuktu, Mopti, Gao och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td26"&gt;&lt;SPAN class="p15 ft2"&gt;8&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr5 td31"&gt;&lt;SPAN class="p15 ft2"&gt;Kidal är särskilt utsatta.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td29"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td7"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td30"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td16"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_9"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t7"&gt;
+&lt;TR&gt;
+	&lt;TD rowspan=2 class="tr0 td36"&gt;&lt;SPAN class="p15 ft1"&gt;4&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 rowspan=2 class="tr0 td37"&gt;&lt;SPAN class="p43 ft1"&gt;Internationella samfundets och Sveriges&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td13"&gt;&lt;SPAN class="p15 ft2"&gt;Prop. 2019/20:29&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td13"&gt;&lt;SPAN class="p15 ft7"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td36"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr4 td38"&gt;&lt;SPAN class="p15 ft1"&gt;engagemang i Mali&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td39"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td40"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td39"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td39"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr12 td14"&gt;&lt;SPAN class="p15 ft2"&gt;Det internationella samfundets engagemang i Mali gick in i en ny, mer&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr9 td14"&gt;&lt;SPAN class="p15 ft2"&gt;omfattande fas år 2012 i samband med det väpnade upproret. Sedan dess&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td14"&gt;&lt;SPAN class="p15 ft2"&gt;har FN och EU genomfört en rad åtgärder och upprättat flera insatser för&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr9 td14"&gt;&lt;SPAN class="p15 ft2"&gt;att motverka att säkerhetssituationen och den humanitära situationen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td36"&gt;&lt;SPAN class="p15 ft2"&gt;förvärras.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td18"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td41"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td40"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td14"&gt;&lt;SPAN class="p37 ft2"&gt;När väpnade extremistgrupper i början av januari 2013 började rycka&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td14"&gt;&lt;SPAN class="p15 ft2"&gt;fram söderut mot huvudstaden Bamako, vände sig Malis regering till&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr9 td14"&gt;&lt;SPAN class="p15 ft2"&gt;Frankrike med en begäran om militärt stöd. Den 11 januari 2013 inleddes&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td14"&gt;&lt;SPAN class="p15 ft2"&gt;en fransk militär insats, under beteckningen Operation Serval, i syfte att&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr9 td14"&gt;&lt;SPAN class="p15 ft2"&gt;hejda de väpnade extremistgruppernas framryckning och stödja Malis&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td14"&gt;&lt;SPAN class="p15 ft2"&gt;säkerhetsstyrkor. Parallellt påskyndade AU och Ecowas utstationeringen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td14"&gt;&lt;SPAN class="p15 ft2"&gt;av Afisma till Mali och insatsens numerär ökades till drygt 6 000 soldater.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr9 td14"&gt;&lt;SPAN class="p37 ft2"&gt;Under mars 2013 uttryckte såväl AU och Ecowas som Malis regering&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td14"&gt;&lt;SPAN class="p15 ft2"&gt;stöd för omvandlingen av Afisma till en &lt;NOBR&gt;FN-insats&lt;/NOBR&gt; för att stabilisera Mali.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td14"&gt;&lt;SPAN class="p15 ft2"&gt;Den 25 april 2013 antog FN:s säkerhetsråd resolution 2100, som med stöd&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr9 td14"&gt;&lt;SPAN class="p15 ft2"&gt;av &lt;NOBR&gt;FN-stadgans&lt;/NOBR&gt; kapitel VII inrättade en &lt;NOBR&gt;FN-ledd&lt;/NOBR&gt; stabiliseringsinsats i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td43"&gt;&lt;SPAN class="p15 ft2"&gt;Mali, Minusma.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td41"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td40"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td14"&gt;&lt;SPAN class="p35 ft2"&gt;Under 2014 ersattes Operation Serval, som var begränsad till Mali, av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr9 td14"&gt;&lt;SPAN class="p15 ft2"&gt;den regionala franskledda insatsen Operation Barkhane, som är inriktad på&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=4 class="tr5 td44"&gt;&lt;SPAN class="p15 ft2"&gt;terroristbekämpning i Sahel. De franska&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td30"&gt;&lt;SPAN class="p44 ft2"&gt;styrkorna&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p45 ft2"&gt;har&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p35 ft2"&gt;ett&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td14"&gt;&lt;SPAN class="p15 ft2"&gt;säkerhetsrådsmandat att, efter begäran av FN:s generalsekreterare, ingripa&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td14"&gt;&lt;SPAN class="p15 ft2"&gt;till stöd för Minusma när insatsen är under överhängande allvarligt hot.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr9 td14"&gt;&lt;SPAN class="p35 ft2"&gt;EU och dess medlemsstater har intagit en aktiv roll i hanteringen av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td14"&gt;&lt;SPAN class="p15 ft2"&gt;krisen i Mali. Sverige bidrar även genom EU till att möta utmaningarna i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td36"&gt;&lt;SPAN class="p15 ft2"&gt;Mali.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td18"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td41"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td39"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td40"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td39"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td39"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td14"&gt;&lt;SPAN class="p35 ft2"&gt;Sedan 2013 har EU en särskild representant (EUSR) för Sahel med i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td14"&gt;&lt;SPAN class="p15 ft2"&gt;första hand ett särskilt fokus på situationen i Mali och den regionala&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td14"&gt;&lt;SPAN class="p15 ft2"&gt;dimensionen av krisen i landet. Nuvarande EUSR är Angel Losada. På&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr9 td14"&gt;&lt;SPAN class="p15 ft2"&gt;biståndsområdet har Europeiska kommissionen avsatt stöd inom ramen för&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td14"&gt;&lt;SPAN class="p15 ft2"&gt;den elfte europeiska utvecklingsfonden (EDF 11) motsvarande 615&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr9 td14"&gt;&lt;SPAN class="p15 ft2"&gt;miljoner euro under perioden &lt;NOBR&gt;2014–2020.&lt;/NOBR&gt; Inom ramen för EU:s&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td14"&gt;&lt;SPAN class="p15 ft2"&gt;förvaltningsfond för nödåtgärder i Afrika har 214,6 miljoner euro&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr5 td14"&gt;&lt;SPAN class="p15 ft2"&gt;allokerats till projekt som syftar till att hantera grundorsakerna till&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr5 td45"&gt;&lt;SPAN class="p15 ft2"&gt;irreguljär migration i Mali.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td40"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=8 class="tr9 td14"&gt;&lt;SPAN class="p35 ft2"&gt;Efter önskemål från Malis regering och efter en begäran från FN:s&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr5 td45"&gt;&lt;SPAN class="p15 ft2"&gt;säkerhetsråd upprättades EU:s&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td42"&gt;&lt;SPAN class="p46 ft5"&gt;träningsmission&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td30"&gt;&lt;SPAN class="p16 ft2"&gt;(EUTM) i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p47 ft2"&gt;Mali&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p35 ft2"&gt;den&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td36"&gt;&lt;SPAN class="p15 ft2"&gt;17 januari&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td18"&gt;&lt;SPAN class="p48 ft2"&gt;2013&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr9 td46"&gt;&lt;SPAN class="p15 ft2"&gt;(rådsbeslut 2013/34/GUSP).&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr9 td47"&gt;&lt;SPAN class="p45 ft2"&gt;Insatsen inleddes&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td39"&gt;&lt;SPAN class="p35 ft2"&gt;den&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td36"&gt;&lt;SPAN class="p15 ft2"&gt;18 februari&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td18"&gt;&lt;SPAN class="p49 ft2"&gt;2013&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td41"&gt;&lt;SPAN class="p50 ft2"&gt;(rådsbeslut&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td42"&gt;&lt;SPAN class="p51 ft2"&gt;2013/87/GUSP).&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p52 ft2"&gt;Till&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td30"&gt;&lt;SPAN class="p53 ft2"&gt;uppgifterna&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p35 ft2"&gt;hör&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td36"&gt;&lt;SPAN class="p15 ft2"&gt;rådgivning&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td26"&gt;&lt;SPAN class="p54 ft2"&gt;och stöd till Malis&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td42"&gt;&lt;SPAN class="p16 ft2"&gt;försvarsledning&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td39"&gt;&lt;SPAN class="p16 ft2"&gt;och&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=3 class="tr5 td47"&gt;&lt;SPAN class="p35 ft2"&gt;att tillhandahålla&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p55 ft2"&gt;utbildning för den maliska försvarsmakten. Syftet är att stärka den operativa förmågan och samtidigt bidra till respekten för mänskliga rättigheter, rättsstatens principer, internationell humanitär rätt och skydd av civila, särskilt kvinnor i utsatta positioner och barn, samt stärka den civila kontrollen över försvarsmakten. Insatsen har förlängts tre gånger, senast i maj 2018 då mandatet förlängdes fram till den 18 maj 2020. EUTM Mali består av cirka 600 personer och verksamheten sträcker sig&lt;/P&gt;
+&lt;P class="p56 ft2"&gt;9&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_10"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t8"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td48"&gt;&lt;SPAN class="p48 ft2"&gt;Prop. 2019/20:29&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td49"&gt;&lt;SPAN class="p37 ft2"&gt;till floden Nigers krök, inbegripet Gao och Timbuktu. EUTM Mali ska inte&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;vara inblandat i stridsoperationer.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p57 ft2"&gt;Regeringen beslutade den 31 januari 2013 att Sverige ska bidra till&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;EUTM Mali med högst 15 personer. Sverige har därefter årligen deltagit&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td49"&gt;&lt;SPAN class="p37 ft5"&gt;med personal till insatsen, och den 20 december 2018 beslutade regeringen&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;att förlänga det svenska deltagandet i EUTM Mali till den 31 december&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td49"&gt;&lt;SPAN class="p37 ft2"&gt;2019.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p57 ft2"&gt;EU, i samverkan med Malis regering och Minusma, identifierade också&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;behovet av en civil rådgivningsinsats riktad mot säkerhetssektorn.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;Följaktligen etablerades EUCap Sahel Mali den 15 april 2014 (rådsbeslut&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td49"&gt;&lt;SPAN class="p37 ft2"&gt;2014/219/GUSP). Efter en uppbyggnadsfas blev insatsen operativ den&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;19 januari 2015 (rådsbeslut 2015/76/GUSP). Den 21 februari 2019&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td49"&gt;&lt;SPAN class="p37 ft2"&gt;beslutade EU om en förlängning av insatsen till och med den 14 januari&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;2021 (rådsbeslut (GUSP) 2019/312). Insatsen fokuserar på utbildning och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;rådgivning till högre chefer inom polisen, gendarmeriet och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;nationalgardet. EUCap Sahel Mali har som mål att möjliggöra för de&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td49"&gt;&lt;SPAN class="p37 ft2"&gt;maliska myndigheterna att återupprätta och bibehålla den konstitutionella&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;och demokratiska ordningen samt att förbättra förutsättningarna för en&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td49"&gt;&lt;SPAN class="p37 ft2"&gt;varaktig fred i Mali och att återupprätta och bibehålla statens auktoritet&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;och legitimitet på hela det maliska territoriet genom en effektiv reform av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft5"&gt;dess förvaltning. Till stöd för återupprättandet av statsmakten i Mali, i nära&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td49"&gt;&lt;SPAN class="p37 ft2"&gt;samarbete med andra internationella aktörer, särskilt Minusma, ska&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;EUCap Sahel Mali bistå och ge råd till de interna säkerhetsstyrkorna för&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;genomförandet av säkerhetsreformer. Sverige har sedan 2015 bidragit med&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;experter till insatsen. EUCapap Sahel Mali fungerar som ett komplement&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td49"&gt;&lt;SPAN class="p37 ft2"&gt;till den polisiära verksamheten inom Minusma, där &lt;NOBR&gt;FN-insatsen&lt;/NOBR&gt; bland&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;annat ansvarar för polisiär grundutbildning och genomförande av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td49"&gt;&lt;SPAN class="p37 ft2"&gt;reformer. Polismyndigheten bidrar även med personal till Minusma.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p57 ft2"&gt;Inom ramen för det samarbete, benämnt G5 Sahel, som länderna&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;Burkina Faso, Mali, Mauretanien, Niger och Tchad etablerade 2014,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft5"&gt;fattades 2017 beslut om att inrätta en gemensam säkerhetsstyrka (G5 Sahel&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td49"&gt;&lt;SPAN class="p37 ft2"&gt;Joint Force) i syfte att bekämpa terrorism, transnationell organiserad&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;brottslighet och trafficking i regionen. Styrkan har inte nått full&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td49"&gt;&lt;SPAN class="p37 ft2"&gt;operationell kapacitet och lider fortfarande av brister i fråga om bland&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;annat utrustning och förmåga. Det finns uppgifter om att militär personal&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;från Mali som utgjort del av styrkan ska ha begått kränkningar av de&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;mänskliga rättigheterna. EU bidrar finansiellt till G5 Sahels gemensamma&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td49"&gt;&lt;SPAN class="p37 ft2"&gt;säkerhetsstyrkas ramverk för mänskliga rättigheter (&lt;SPAN class="ft3"&gt;Human Rights and&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft3"&gt;International Humanitarian Law Compliance Framework&lt;SPAN class="ft2"&gt;), som&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td49"&gt;&lt;SPAN class="p37 ft2"&gt;genomförs med stöd från OHCHR.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p57 ft2"&gt;Mot bakgrund av det försämrade säkerhetsläget i Mali och andra delar&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;av Västafrika ökar Ecowas sitt engagemang i dessa frågor. Vid det&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;extrainsatta &lt;NOBR&gt;Ecowas-toppmötet&lt;/NOBR&gt; den 14 september 2019 presenterades en&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td49"&gt;&lt;SPAN class="p37 ft2"&gt;handlingsplan mot terrorism.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p57 ft2"&gt;Den 16 januari 2013 inledde Internationella brottmålsdomstolens (ICC)&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td49"&gt;&lt;SPAN class="p37 ft2"&gt;åklagare, efter hänskjutande av Malis regering, en förundersökning om&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft5"&gt;krigsförbrytelser som påstods ha begåtts på Malis territorium sedan januari&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft5"&gt;2012. En person begärdes häktad och överfördes till domstolen i Haag den&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;26 september 2015 och dömdes den 27 september 2016 till nio år i fängelse&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td48"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td49"&gt;&lt;SPAN class="p37 ft2"&gt;för krigsförbrytelse genom uppsåtligt riktade angrepp mot religiösa&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td48"&gt;&lt;SPAN class="p58 ft2"&gt;10&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td49"&gt;&lt;SPAN class="p37 ft2"&gt;monument och byggnader i Timbuktu. Den 21 mars 2013 beslutade FN:s&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_11"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p38 ft2"&gt;råd för mänskliga rättigheter att utse en oberoende expert med uppdrag att stödja Malis regering i dess ansträngningar att främja och skydda mänskliga rättigheter i landet. Mandatet har därefter förlängts vid sex tillfällen, varav det senaste den 28 juni 2019.&lt;/P&gt;
+&lt;P class="p59 ft2"&gt;I enlighet med fredsavtalet har FN etablerat en internationell undersökningskommission för Mali. FN:s generalsekreterare utnämnde den 19 januari 2018 medlemmarna i kommissionen och ambassadör Lena Sundh till kommissionens ordförande. Kommissionen ska utreda allvarliga brott mot humanitär rätt och mänskliga rättigheter i Mali sedan januari 2012. Kommissionen har etablerat ett sekretariat i Bamako.&lt;/P&gt;
+&lt;P class="p39 ft2"&gt;FN lanserade 2013 en integrerad strategi för Sahel (UNISS) som ett ramverk för FN:s och det internationella samfundets verksamhet i regionen. I syfte att ytterligare stärka insatserna i regionen utarbetade FN under 2018 en särskild stödplan för Sahel.&lt;/P&gt;
+&lt;P class="p60 ft2"&gt;Sverige har ett mångsidigt engagemang i Mali, och det svenska bidraget till Minusma bör ses i denna kontext.&lt;/P&gt;
+&lt;P class="p60 ft2"&gt;Den 11 april 2013 beslutade regeringen att återuppta det bilaterala utvecklingssamarbetet med Malis regering och myndigheter, efter att detta avbrutits till följd av militärkuppen. Stödet till &lt;NOBR&gt;icke-statliga&lt;/NOBR&gt; organisationer och det betydande humanitära stödet till Malis befolkning omfattades aldrig av avbrottet.&lt;/P&gt;
+&lt;P class="p61 ft2"&gt;I juni 2016 antog regeringen en ny strategi för Sveriges utvecklingssamarbete med Mali för åren &lt;NOBR&gt;2016–2020.&lt;/NOBR&gt; Strategin omfattar sammantaget 1 200 miljoner kronor för perioden, varav 1 180 miljoner kronor avser Sidas verksamhet och 20 miljoner kronor avser Folke Bernadotteakademins verksamhet. Insatserna kan indelas i tre huvudkategorier: 1) stärkt demokrati och jämställdhet samt ökad respekt för mänskliga rättigheter, 2) mänsklig säkerhet och frihet från våld och&lt;/P&gt;
+&lt;P class="p62 ft2"&gt;&lt;SPAN class="ft2"&gt;3)&lt;/SPAN&gt;&lt;SPAN class="ft10"&gt;förbättrad miljö, begränsad klimatpåverkan och stärkt motståndskraft mot miljöpåverkan, klimatförändringar och naturkatastrofer. Ett genomgripande tema är rättighetsperspektivet. Kvinnor och barn utgör särskilda målgrupper. Folke Bernadotteakademins insatser fokuserar på ökad mänsklig säkerhet i Mali.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p39 ft2"&gt;I december 2017 beslutade Sida att ge ett treårigt bidrag om 35 miljoner kronor till Minusmas förvaltningsfond för fred och säkerhet i Mali. Syftet med insatsen är att bidra till stärkta freds- och försoningsmekanismer på nationell och lokal nivå samt stärkt inflytande och deltagande för kvinnor i fredsprocesser och i freds- och statsbyggande. Dessutom reserverades 1 miljon kronor för att stärka Minusmas kapacitet för hantering av jämställdhetsperspektivet inom ramen för fondens aktiviteter. Insatsen är en viktig komponent för att skapa samverkan och synergier mellan utveckling och säkerhet. Sverige verkar för kvinnors inkludering i fredsprocessen i Mali. Inom ramen för medlemskapet i FN:s säkerhetsråd &lt;NOBR&gt;2017–2018&lt;/NOBR&gt; säkerställde Sverige bland annat att samtliga &lt;NOBR&gt;FN-insatser,&lt;/NOBR&gt; inklusive Minusma, som varit föremål för förhandling under det svenska medlemskapet, inkluderade ett mandat att arbeta med agendan för kvinnor, fred och säkerhet.&lt;/P&gt;
+&lt;P class="p63 ft2"&gt;I juni 2018 beslutade regeringen att tillföra 400 miljoner kronor till den regionala strategin för utvecklingssamarbete med Afrika söder om Sahara med fokus på initiativ som rör klimat och säkerhet i Sahel för åren 2018– 2021.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p41 ft2"&gt;Prop. 2019/20:29&lt;/P&gt;
+&lt;P class="p42 ft2"&gt;11&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_12"&gt;
+
+
+&lt;P class="p64 ft2"&gt;Prop. 2019/20:29 År 2018 var Sverige en av de största bilaterala givarna till Mali med ett humanitärt bistånd via Sida om 83,1 miljoner kronor. Sverige bidrog därutöver med humanitärt stöd genom flerårigt &lt;NOBR&gt;icke-öronmärkt&lt;/NOBR&gt; kärnstöd till bl.a. FN:s katastroffond (Cerf)) och andra &lt;NOBR&gt;FN-organ&lt;/NOBR&gt; aktiva i Mali såsom FN:s livsmedelsprogram WFP (World Food Programme) som även tillför omfattande medel via de insatser som är kopplade till UNISS och FN:s stödplan för Sahel.&lt;/P&gt;
+&lt;P class="p65 ft2"&gt;Hittills har Sida betalat ut 94 miljoner kronor i humanitära allokeringar för år 2019, inklusive 12 miljoner kronor i strategiska fleråriga stöd. Sida gör löpande humanitära analyser av läget i landet, och beloppet kan komma att öka under året. Stödet går till insatser inom bland annat livsmedelsassistans, hälsa, nutrition, vatten och sanitet, skydd och utbildning. Det svenska stödet kanaliseras bland annat genom flera FN- organ på plats i landet samt genom Internationella rödakorskommittén ICRC och internationella organisationer såsom IRC (International Rescue Committee) och NRC (Norwegian Refugee Committee). Därutöver ställs expertpersonal till förfogande genom Myndigheten för samhällsskydd och beredskap.&lt;/P&gt;
+&lt;P class="p66 ft1"&gt;&lt;SPAN class="ft1"&gt;5&lt;/SPAN&gt;&lt;SPAN class="ft8"&gt;Förenta nationernas stabiliseringsinsats i Mali, Minusma&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p67 ft2"&gt;Med fastställande av att situationen i Mali utgjorde ett hot mot internationell fred och säkerhet antog FN:s säkerhetsråd den 25 april 2013 resolution 2100, med stöd av &lt;NOBR&gt;FN-stadgans&lt;/NOBR&gt; kapitel VII. Därmed upprättades en integrerad multidimensionell stabiliseringsinsats i Mali, Minusma, för en period om inledningsvis tolv månader.&lt;/P&gt;
+&lt;P class="p68 ft2"&gt;Den 1 juli 2013 övertog Minusma ansvaret från &lt;NOBR&gt;AU-insatsen&lt;/NOBR&gt; Afisma. Den militära personal och de poliser i Afisma som då var utgrupperade i Mali integrerades i &lt;NOBR&gt;FN-insatsen.&lt;/NOBR&gt;&lt;/P&gt;
+&lt;P class="p69 ft2"&gt;Minusmas mandat har sedan 2013 förlängts varje år, senast den 28 juni 2019 då mandatet förlängdes till den 30 juni 2020 genom resolution 2480.&lt;/P&gt;
+&lt;P class="p70 ft2"&gt;Insatsens styrka får uppgå till högst 13 289 militär personal och 1 920 poliser. Dessutom får ytterligare civil personal ingå i insatsen i den utsträckning som FN bedömer nödvändig för att lösa uppgifterna i mandatet.&lt;/P&gt;
+&lt;P class="p68 ft2"&gt;Minusma har enligt resolution 2480 (2019) följande huvudsakliga uppgifter: stödja genomförandet av fredsavtalet, stödja stabilisering av landet och skydda civila, stödja den politiska dialogen och nationell försoning, främja och skydda mänskliga rättigheter samt stödja humanitär biståndsverksamhet. I den senaste mandatförlängningen tillkom en strategisk prioritering för Minusma som innebär att insatsen ska underlätta genomförandet av en &lt;NOBR&gt;malisk-ledd&lt;/NOBR&gt; strategi för att skydda civila, minska våldet mellan grupper i samhället och återupprätta statlig styrning, den statliga närvaron liksom tillhandahållande av grundläggande sociala tjänster i centrala Mali.&lt;/P&gt;
+&lt;P class="p71 ft2"&gt;12&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_13"&gt;
+
+
+&lt;P class="p72 ft2"&gt;Insatsen har dessutom rätt att ge stöd inom följande områden: Prop. 2019/20:29 stabiliseringsprojekt, hantering och desarmering av vapen och&lt;/P&gt;
+&lt;P class="p73 ft2"&gt;ammunition, bevarande av Malis kulturarv samt till sanktionskommitté 1267/1989/2253 Isil (Daesh) och &lt;NOBR&gt;Al-Qaida.&lt;/NOBR&gt;&lt;/P&gt;
+&lt;P class="p74 ft2"&gt;I februari 2017 beslutade G5 Sahel (Burkina Faso, Mali, Mauretanien, Niger och Tchad) att verkställa det tidigare fattade beslutet om en gemensam regional styrka. Upprättandet av styrkan välkomnades i FN:s resolution 2359 (2017), och den 8 december 2017 antog säkerhetsrådet resolution 2391 om stöd från Minusma till G5 Sahelstyrkan. Av resolutionen framgår att Minusma kan stötta den gemensamma styrkan inom vissa områden, såsom med bränsle, vatten och medicinsk evakuering&lt;/P&gt;
+&lt;P class="p75 ft2"&gt;&lt;SPAN class="ft2"&gt;–&lt;/SPAN&gt;&lt;SPAN class="ft11"&gt;så länge stödet inte påverkar Minusmas egen förmåga och kapacitet negativt.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p20 ft2"&gt;Sedan den 15 januari 2016 leds Minusma av FN:s generalsekreterares särskilda representant Mahamat Saleh Annadif från Tchad. Den svenska generallöjtnanten Dennis Gyllensporre är sedan oktober 2018 styrkechef i insatsen.&lt;/P&gt;
+&lt;P class="p76 ft2"&gt;I januari 2019 uppgick den militära personalen i insatsen till ungefär 11 632 personer, medan antalet poliser var 1 767 och antalet övriga civila anställda ungefär 1 400 (internationella och lokalanställda). Insatsen är huvudsakligen utgrupperad i Bamako och i norra Mali. Högkvarteret för insatsen, med både civil och militär ledning, ligger i Bamako och sektorshögkvarter finns i Timbuktu, Gao och Kidal. Ett regionalt kontor finns i Mopti.&lt;/P&gt;
+&lt;P class="p77 ft1"&gt;&lt;SPAN class="ft1"&gt;6&lt;/SPAN&gt;&lt;SPAN class="ft12"&gt;Folkrättsligt mandat för insatsen&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p78 ft2"&gt;Genom resolution 2100 (2013) fastställde FN:s säkerhetsråd att situationen i Mali utgjorde ett hot mot internationell fred och säkerhet och beslutade, med stöd av kapitel VII i &lt;NOBR&gt;FN-stadgan,&lt;/NOBR&gt; att upprätta Minusma. Insatsen har förlängts genom resolutionerna 2164 (2014), 2227 (2015), 2295 (2016), 2364 (2017), 2423 (2018) samt senast genom resolution&lt;/P&gt;
+&lt;P class="p79 ft2"&gt;2480 (2019) då insatsen förlängdes till den 30 juni 2020. Det finns även en inbjudan till FN av Malis regering som utgör ytterligare en folkrättslig grund för insatsen.&lt;/P&gt;
+&lt;P class="p10 ft2"&gt;En förutsättning för att det ska finnas kontinuitet i det folkrättsliga mandatet också efter den 30 juni 2020 är att FN:s säkerhetsråd förlänger Minusma efter detta datum.&lt;/P&gt;
+&lt;P class="p10 ft2"&gt;I resolution 2480 (2019) bemyndigas Minusma att vidta alla nödvändiga åtgärder i enlighet med sin förmåga och inom sitt geografiska insatsområde för att utföra insatsens uppgifter. Rätten för Minusma att använda våld grundas ytterst på säkerhetsrådets mandat i enlighet med FN- stadgans kapitel VII och måste stå i överenstämmelse med de mänskliga rättigheterna samt i tillämpliga fall den internationella humanitära rätten. Rätten till våldsanvändning har preciserats i insatsregler som innebär att styrkan under vissa omständigheter kan tillgripa våldsmedel som går utöver traditionellt självförsvar.&lt;/P&gt;
+&lt;P class="p80 ft2"&gt;13&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_14"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t9"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td50"&gt;&lt;SPAN class="p15 ft2"&gt;Prop. 2019/20:29&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD rowspan=2 class="tr13 td51"&gt;&lt;SPAN class="p18 ft1"&gt;7&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD rowspan=2 class="tr13 td52"&gt;&lt;SPAN class="p81 ft1"&gt;Målsättningen med fortsatt svenskt&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td50"&gt;&lt;SPAN class="p15 ft13"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p82 ft1"&gt;deltagande i Minusma&lt;/P&gt;
+&lt;P class="p83 ft2"&gt;Utredningen om Sveriges samlade engagemang i Afghanistan under perioden &lt;NOBR&gt;2002–2014&lt;/NOBR&gt; (SOU 2017:16) pekade bl.a. på vikten av nationella mål i internationella insatser för att möjliggöra löpande uppföljning.&lt;/P&gt;
+&lt;P class="p69 ft2"&gt;Regeringen har i skrivelsen Sveriges samlade politik för internationell civil och militär krishantering (skr. 2016/17:196 s. 29) behandlat målformuleringar och konstaterat att nationella mål för internationella fredsbevarande insatser måste vara förenliga med det mandat som insatserna har och att det är av stor vikt att eventuella nationella målsättningar inte konkurrerar med insatsens samlade målsättningar.&lt;/P&gt;
+&lt;P class="p68 ft2"&gt;Det svenska deltagandet i Minusma innefattar politiska, strategiska, operativa och taktiska målsättningar. Det övergripande målet med Sveriges deltagande i insatsen är att bidra till att uppfylla Minusmas mandat enligt säkerhetsrådsresolution 2480 (2019) och därigenom bidra till förbättrad säkerhet i Mali, bland annat genom att Malis regering återfår kontroll över hela territoriet, samt att understödja långsiktigt hållbara politiska lösningar på krisen i landet. Det är också troligt att en förbättrad situation i Mali skulle få positiva effekter för situationen beträffande säkerhet, utveckling och mänskliga rättigheter i hela Sahelregionen. Problem i Mali som relaterar till bland annat irreguljär migration samt till organiserad brottslighet har konsekvenser inte bara för länderna i regionen, utan även för Europa.&lt;/P&gt;
+&lt;P class="p84 ft2"&gt;På insatsnivå ska det svenska förbandet bidra till stabilitet i operationsområdet genom patrullering och närvaro och på så sätt bidra till att uppfylla FN:s säkerhetsråds resolution 2480 (2019). Det svenska bidraget baseras på ett folkrättsligt mandat och bidrar till försvaret av mänskliga rättigheter. Bidraget till Minusma är en komponent i det bredare svenska stödet till och engagemanget i Mali och Sahelregionen som syftar till långsiktig stabilitet och utveckling. Detta sker bilateralt samt genom EU, FN och andra internationella organisationer.&lt;/P&gt;
+&lt;P class="p65 ft2"&gt;Genom att delta i FN:s stabiliseringsinsats i Mali utgör Sverige en solidarisk samarbetspartner i arbetet för att öka säkerheten, förebygga konflikter samt skapa förutsättningar för hållbar stabilitet och utveckling i Mali såväl som i Sahelregionen. Mätbara nationella målsättningar för det svenska militära bidraget till Minusma inkluderar följande:&lt;/P&gt;
+&lt;P class="p85 ft2"&gt;&lt;SPAN class="ft2"&gt;1.&lt;/SPAN&gt;&lt;SPAN class="ft14"&gt;Sveriges styrkebidrag till Minusma har det övergripande målet att bidra till att uppfylla Minusmas mandat enligt säkerhetsrådets resolution och därigenom bidra till förbättrad säkerhet i Mali och långsiktig fred. Sverige ska bidra till stabilitet inom operationsområdet.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p86 ft2"&gt;&lt;SPAN class="ft2"&gt;2.&lt;/SPAN&gt;&lt;SPAN class="ft14"&gt;Sverige ska när så är möjligt och med tillgängliga resurser stödja förband från andra truppbidragarländer att stärka sin kompetens och på så sätt ha större möjligheter att bidra till Minusmas mandatuppfyllnad och skydd av civila samt sig själva. Under rapporteringsperioden har det svenska militära bidraget stöttat förband från andra truppbidragarländer att stärka sin kompetens.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p87 ft2"&gt;14&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_15"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t3"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td53"&gt;&lt;SPAN class="p88 ft2"&gt;3.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td54"&gt;&lt;SPAN class="p89 ft2"&gt;Genom den feministiska utrikespolitiken arbetar Sverige för att&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td13"&gt;&lt;SPAN class="p15 ft2"&gt;Prop. 2019/20:29&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td53"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td54"&gt;&lt;SPAN class="p89 ft2"&gt;stärka kvinnors och flickors inflytande och egenmakt samt&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td53"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td55"&gt;&lt;SPAN class="p89 ft2"&gt;åtnjutande av de mänskliga rättigheterna. Kvinnors deltagande i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p90 ft5"&gt;fredsprocesser samt i freds- och statsbyggande är en förutsättning för hållbar fred och säkerhet. FN:s säkerhetsresolution 1325 om kvinnor, fred och säkerhet och dess efterföljande resolutioner utgör en viktig del av Minusmas verksamhet och genomförandet av dess mandat. Sverige ska som deltagare i insatsen stödja och påskynda ansträngningarna att genomföra FN:s säkerhetsrådsresolution 1325 från år 2000, med efterföljande resolutioner, om kvinnor, fred och säkerhet. Resolutionens åtaganden ska genomsyra det svenska förbandets verksamhet. All svensk personal som ingått i det svenska bidraget under rapporteringsperioden har varit utbildad och haft kunskap i praktisk tillämpning av resolution 1325. Sverige ska även fortsättningsvis säkerställa att så förblir fallet för all personal som ingår i insatsen.&lt;/P&gt;
+&lt;P class="p91 ft2"&gt;&lt;SPAN class="ft2"&gt;4.&lt;/SPAN&gt;&lt;SPAN class="ft14"&gt;Ytterligare en målsättning med svenskt deltagande i Minusma är att Försvarsmakten ska fördjupa sin kunskap om och erfarenhet av FN:s fredsfrämjande verksamhet, för att när tillfälle ges kunna lämna ytterligare styrkebidrag till FN om behov finns och efterfrågad förmåga finns tillgänglig, samt bidra till att bygga förmågan hos våra nationella krigsförband och staber genom att skapa möjligheter att utveckla personal genom erfarenheter i en internationell kontext.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p92 ft2"&gt;&lt;SPAN class="ft2"&gt;5.&lt;/SPAN&gt;&lt;SPAN class="ft14"&gt;Sverige är en solidarisk samarbetspartner i FN och dess fredsfrämjande verksamhet, och deltagandet i Minusma är ett uttryck för detta engagemang. På så sätt bidrar Sverige till arbetet för en ökad säkerhet, förebyggandet av konflikter samt för att skapa förutsättningar för hållbar fattigdomsbekämpning och utveckling. Detta engagemang går hand i hand med Sveriges övriga stöd till &lt;/SPAN&gt;&lt;NOBR&gt;FN-sekretariatet&lt;/NOBR&gt; samt organisationens fonder och program som är aktiva i Sahelregionen.&lt;/P&gt;
+&lt;P class="p92 ft2"&gt;&lt;SPAN class="ft2"&gt;6.&lt;/SPAN&gt;&lt;SPAN class="ft14"&gt;Försvarsmakten har militärstrategiska och militärtekniska mål med deltagandet i Minusma. Deltagandet i Minusma ska bidra till att utveckla förmågan hos nationella krigsförband att samverka i en internationell kontext. Genom deltagandet i multinationella insatser främjas svensk militär personals interoperabilitet och förståelse för kunskaper om metoder, procedurer och arbetssätt. Detta är tillsammans med erfarenheten av att delta i skarp operativ verksamhet svårt att uppnå endast genom övnings- och träningsverksamhet i en nationell kontext och utgör en viktig och värdefull erfarenhet för Försvarsmakten.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t10"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td56"&gt;&lt;SPAN class="p15 ft2"&gt;FN utvärderar kontinuerligt insatsen genom generalsekreterarens&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td57"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td56"&gt;&lt;SPAN class="p15 ft2"&gt;kvartalsvisa rapporter samt strategiska översyner. Regeringen och&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td57"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td56"&gt;&lt;SPAN class="p15 ft2"&gt;Försvarsmakten analyserar löpande det svenska bidraget och dess&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td57"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td56"&gt;&lt;SPAN class="p15 ft2"&gt;verksamhet. Rapportering och analys från ambassaden i Bamako av de&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td57"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td56"&gt;&lt;SPAN class="p15 ft2"&gt;politiska, militära och humanitära förhållandena i landet vägs också in i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td57"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td56"&gt;&lt;SPAN class="p15 ft2"&gt;regeringens sammanvägda överväganden kring det svenska bidraget.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td57"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td56"&gt;&lt;SPAN class="p37 ft2"&gt;I en politiskt och ekonomiskt turbulent period i Mali kan det vara svårt&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td57"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td56"&gt;&lt;SPAN class="p15 ft2"&gt;att mer detaljerat mäta effekten på utvecklingen i landet av Minusmas&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td57"&gt;&lt;SPAN class="p17 ft2"&gt;15&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_16"&gt;
+
+
+&lt;P class="p64 ft2"&gt;Prop. 2019/20:29 närvaro och det svenska bidragets insatser. Det svenska förbandsbidraget utgör endast en liten del av &lt;NOBR&gt;FN-insatsen,&lt;/NOBR&gt; vilket bidrar till metodologiska svårigheter vid utvärdering av bidraget. Möjligheten att mäta det svenska bidragets effekt på leveransen av Minusmas mandat. samt säkerhetsutvecklingen i Mali och genomförandet av fredsavtalet är begränsad, vilket måste tas i beaktande vid utvärderingar.&lt;/P&gt;
+&lt;P class="p93 ft2"&gt;Regeringen återkommer till riksdagen om en förlängning av truppbidraget blir aktuellt.&lt;/P&gt;
+&lt;P class="p94 ft1"&gt;&lt;SPAN class="ft1"&gt;8&lt;/SPAN&gt;&lt;SPAN class="ft8"&gt;Det svenska militära bidraget till Minusma&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p67 ft2"&gt;Det svenska bidraget till Minusma föreslås under 2020 utgöras av ett lätt skyttekompani. I det svenska förbandet skulle även en nationell stödenhet bland annat innehållande sjukvårdsförmågor samt personal för drift och underhåll av nationell infrastruktur och materiel ingå. Avsikten är dessutom att även fortsättningsvis placera stabsofficerare vid relevanta staber.&lt;/P&gt;
+&lt;P class="p95 ft2"&gt;Huvuduppgiften för det svenska förbandet är att inom ramen för tillgängliga resurser och förmågor bidra till upprätthållandet av insatsens mandat i enlighet med säkerhetsrådets resolution 2480 (2019).&lt;/P&gt;
+&lt;P class="p69 ft2"&gt;Det svenska skyttekompaniet föreslås vara stationerat i Gao, huvudort i Minusmas östra sektor. Emellertid kan det svenska styrkebidraget användas i hela Minusmas insatsområde.&lt;/P&gt;
+&lt;P class="p96 ft2"&gt;Parallellt med det svenska styrkebidraget i Gao ska det svenska bidraget också utgöras av en styrka för avvecklingen av det tidigare svenska förbandsbidraget med tillhörande infrastruktur i Timbuktu. Bidraget kommer att stå till sektorchefens förfogande för att lösa uppgifter inom ramen för befintliga förmågor och resurser.&lt;/P&gt;
+&lt;P class="p97 ft2"&gt;Avvecklingsstyrkan ska innehålla för uppgiften relevanta förmågor, bland annat för skydd och bevakning samt nödvändiga sjukvårdsförmågor. Sverige kommer att fortsätta bidra med att förstärka skyddet av Camp Nobel i Timbuktu och FN:s stora förläggning i Sektor Väst med en varningsradar så länge ett svenskt truppbidrag finns på plats.&lt;/P&gt;
+&lt;P class="p95 ft2"&gt;Det svenska bidraget förutses under normala omständigheter uppgå till cirka 220 personer på plats.&lt;/P&gt;
+&lt;P class="p69 ft2"&gt;Styrkan ska med kort varsel kunna förstärkas tillfälligt för &lt;NOBR&gt;räddnings-,&lt;/NOBR&gt; evakuerings- och förstärkningsinsatser vid försämrat säkerhetsläge eller förbandsrotationer. Sammantaget ska det svenska bidraget kunna uppgå till högst 470 personer.&lt;/P&gt;
+&lt;P class="p69 ft2"&gt;Sverige arbetar aktivt med att nå FN:s mål om att öka antalet kvinnor i de militära insatserna. Hotbilden för personalen kommer att variera. Försvarsmakten kommer att göra löpande hot- och riskbedömningar och vidta eventuella åtgärder utifrån denna bedömning. Det innebär bland annat att insatsen anpassar verksamheten till tillgången på helikoptrar, då det alltjämt finns brister i förmågan och tillgången till helikoptrar med&lt;/P&gt;
+&lt;P class="p98 ft2"&gt;ombordbaserad sjukvårdspersonal. Sverige har arbetat aktivt med frågan&lt;/P&gt;
+&lt;P class="p13 ft2"&gt;16&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_17"&gt;
+
+
+&lt;P class="p99 ft2"&gt;med FN vid återkommande tillfällen och situationen har förbättrats. Med Prop. 2019/20:29 anledning av att brister kvarstår anpassas verksamheten så att nationella&lt;/P&gt;
+&lt;P class="p100 ft2"&gt;krav på tillgång till medicinsk behandling kan garanteras. Bristen på helikoptrar påverkar inte sjukvårdsförmågan utan endast operationsradien för det svenska förbandet.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t11"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr0 td4"&gt;&lt;SPAN class="p101 ft1"&gt;9&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td58"&gt;&lt;SPAN class="p102 ft1"&gt;Regeringens överväganden och förslag&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td59"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr9 td60"&gt;&lt;SPAN class="p52 ft2"&gt;&lt;SPAN class="ft15"&gt;Regeringens förslag&lt;/SPAN&gt;: Riksdagen medger att regeringen ställer en svensk&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr9 td60"&gt;&lt;SPAN class="p52 ft2"&gt;väpnad styrka bestående av högst 470 personer till förfogande för&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td60"&gt;&lt;SPAN class="p52 ft2"&gt;deltagande i Förenta nationernas stabiliseringsinsats i Mali (Minusma) till&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td60"&gt;&lt;SPAN class="p52 ft2"&gt;den 31 december 2020, under förutsättning att det även fortsättningsvis&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td60"&gt;&lt;SPAN class="p52 ft2"&gt;finns ett giltigt mandat för styrkan enligt beslut av FN:s säkerhetsråd.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td61"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td62"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;SPAN class="ft15"&gt;Regeringens bedömning&lt;/SPAN&gt;: Det svenska styrkebidraget kommer under&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td60"&gt;&lt;SPAN class="p52 ft2"&gt;normala omständigheter att uppgå till cirka 220 personer på plats.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr15 td63"&gt;&lt;SPAN class="p15 ft16"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr15 td64"&gt;&lt;SPAN class="p15 ft16"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr16 td50"&gt;&lt;SPAN class="p15 ft17"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr17 td4"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr17 td58"&gt;&lt;SPAN class="p15 ft15"&gt;Skälen för regeringens förslag och bedömning&lt;SPAN class="ft2"&gt;: Sedan början av 2012&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr17 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td65"&gt;&lt;SPAN class="p52 ft2"&gt;och fram till det internationella samfundets ingripande i januari 2013&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr9 td65"&gt;&lt;SPAN class="p52 ft2"&gt;gjorde sig väpnade terrorist- och extremistgrupper samt kriminella grupper&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td65"&gt;&lt;SPAN class="p52 ft2"&gt;skyldiga till omfattande övergrepp och orsakade stort mänskligt lidande i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td65"&gt;&lt;SPAN class="p52 ft2"&gt;Mali, särskilt i landets norra delar. Under 2013 förbättrades säkerheten i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td65"&gt;&lt;SPAN class="p52 ft2"&gt;Mali och en konstitutionell och demokratisk ordning återupprättades.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr9 td65"&gt;&lt;SPAN class="p52 ft2"&gt;År 2014 försämrades emellertid säkerhetssituationen igen, med väpnade&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td65"&gt;&lt;SPAN class="p52 ft2"&gt;attacker mot civilbefolkning, maliska säkerhetsstyrkor och Minusma. Ett&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr9 td65"&gt;&lt;SPAN class="p52 ft2"&gt;fredsavtal slöts i Bamako i juni 2015 efter flera månaders förhandlingar i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td65"&gt;&lt;SPAN class="p52 ft2"&gt;Alger. Genomförandet av fredsavtalet har gått långsamt och huvuddelen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td65"&gt;&lt;SPAN class="p52 ft2"&gt;av avtalet har inte genomförts. Den av avtalet föreskrivna &lt;NOBR&gt;DDR-processen&lt;/NOBR&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td65"&gt;&lt;SPAN class="p52 ft2"&gt;har gått framåt sedan 2018, medan genomförandet av de politiska och&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr9 td65"&gt;&lt;SPAN class="p52 ft2"&gt;institutionella reformerna, inklusive decentraliseringen, i allt väsentligt&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td65"&gt;&lt;SPAN class="p52 ft2"&gt;återstår. Det internationella samfundet har vid upprepade tillfällen påpekat&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr9 td65"&gt;&lt;SPAN class="p52 ft2"&gt;vikten av att fredsavtalets genomförande sker skyndsamt.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td4"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td58"&gt;&lt;SPAN class="p15 ft2"&gt;Samtidigt fortsätter situationen i Mali, framför allt i de centrala delarna,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td65"&gt;&lt;SPAN class="p52 ft2"&gt;att förvärras. Detta relaterar bland annat till säkerhetsutmaningar såsom&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td65"&gt;&lt;SPAN class="p52 ft2"&gt;terrorism, transnationell organiserad brottslighet och trafficking. Sedan&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr9 td65"&gt;&lt;SPAN class="p52 ft2"&gt;tidigare råder en svår humanitär situation, som allvarligt försämrats på&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td65"&gt;&lt;SPAN class="p52 ft2"&gt;grund av säkerhetsläget. Därtill har konflikten i Mali haft ett negativt&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr9 td65"&gt;&lt;SPAN class="p52 ft2"&gt;inflytande på individers möjligheter att åtnjuta sina mänskliga rättigheter&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td65"&gt;&lt;SPAN class="p52 ft2"&gt;och på säkerheten och utvecklingen i regionen som helhet. Mali har ett&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td65"&gt;&lt;SPAN class="p52 ft2"&gt;långsiktigt behov av omfattande stöd för att skapa en säkerhetsnivå som&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td65"&gt;&lt;SPAN class="p52 ft2"&gt;möjliggör den utveckling som den nuvarande regeringen nu planerar för&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr9 td65"&gt;&lt;SPAN class="p52 ft2"&gt;och som befolkningen är i stort behov av, inte minst i landets centrala och&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td65"&gt;&lt;SPAN class="p52 ft2"&gt;norra delar.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td4"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td58"&gt;&lt;SPAN class="p15 ft2"&gt;Som ett led i uppfyllandet av sitt mandat att skydda civila har Minusma&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td65"&gt;&lt;SPAN class="p52 ft2"&gt;i ökad utsträckning tvingats använda sig av en mer offensiv taktik. Som en&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td65"&gt;&lt;SPAN class="p52 ft2"&gt;konsekvens av detta har insatsens opartiskhet i konflikten emellanåt&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr9 td65"&gt;&lt;SPAN class="p52 ft2"&gt;ifrågasatts av vissa av de väpnade grupperingarna.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td4"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td58"&gt;&lt;SPAN class="p15 ft2"&gt;Regeringen välkomnar FN:s säkerhetsrådsresolutioner 2100 (2013),&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td50"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr2 td65"&gt;&lt;SPAN class="p52 ft2"&gt;2164 (2014), 2227 (2015), 2295 (2016), 2364 (2017), 2423 (2018) och&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td50"&gt;&lt;SPAN class="p17 ft2"&gt;17&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_18"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t8"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td66"&gt;&lt;SPAN class="p103 ft2"&gt;Prop. 2019/20:29&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr7 td15"&gt;&lt;SPAN class="p15 ft2"&gt;2480 (2019) samt det mångsidiga mandat som därigenom getts till&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;Minusma. Regeringen välkomnar även att FN:s generalsekreterares&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;särskilda representant getts ett tydligt mandat att stödja parterna att&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;uppfylla fredsavtalet samt bidra till nationell dialog och försoning i Mali.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;Regeringen välkomnar vidare det arbete som pågår vid &lt;NOBR&gt;FN-sekretariatet&lt;/NOBR&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;för att effektivisera FN:s fredsfrämjande arbete och skyddet av den&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;fredsbevarande personalen med grund i den så kallade &lt;NOBR&gt;Cruz-rapporten.&lt;/NOBR&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p37 ft2"&gt;Säkerhetsrådets beslut genom resolution 2480 (2019), och inbjudan av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;Malis regering till FN, ger en tydlig folkrättslig grund för ett svenskt&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td67"&gt;&lt;SPAN class="p15 ft2"&gt;bidrag till Minusma.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td68"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td69"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td18"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td7"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td17"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p37 ft2"&gt;Ett fortsatt svenskt styrkebidrag till Minusma ligger i linje med Sveriges&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;engagemang för fred och utveckling i Sahelregionen och är en del av en&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;samlad svensk ansats i Mali. Sverige är engagerat i Mali med ett&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;omfattande humanitärt stöd, bilateralt utvecklingssamarbete och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;sekundering av poliser till Minusma. Sverige bidrar med civila experter till&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;EU:s civila rådgivningsinsats riktad till säkerhetssektorn, EUCap Sahel&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;Mali, och med personal till EU:s militära utbildnings- och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr5 td70"&gt;&lt;SPAN class="p15 ft2"&gt;rådgivningsinsats till stöd för Malis försvarsmakt, EUTM Mali.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td17"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p37 ft2"&gt;Det finns också ett svenskt intresse av att bidra till de internationella&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;ansträngningarna att minska förekomsten av terrorism och grov&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;organiserad brottslighet, däribland människosmuggling. Det kan också&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;noteras att problem i Mali som relaterar till bland annat irreguljär&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;migration samt till organiserad brottslighet har konsekvenser inte bara för&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td71"&gt;&lt;SPAN class="p15 ft2"&gt;länderna i regionen utan även för Europa.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td18"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td7"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td17"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p37 ft2"&gt;FN:s säkerhetsrådsresolutioner 2100 (2013), 2164 (2014), 2227 (2015),&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;2295 (2016), 2364 (2017), 2423 (2018) och 2480 (2019) har gett ett&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;kraftfullt mandat som bland annat gett Minusma goda förutsättningar att&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;öka säkerheten såväl för nödlidande människor som för humanitära&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;biståndsorganisationer som är verksamma i Mali och regionen. För att&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;Minusma ska kunna genomföra sitt mandat krävs att FN:s medlemsstater&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;ställer resurser i form av välutbildade styrkebidrag till förfogande. Detta&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;är särskilt angeläget eftersom insatsen verkar i en komplex miljö och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;behöver hantera en militär problematik bland annat med asymmetriska hot&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;i en omfattning som är ny för FN. Det svenska bidraget är ett kvalificerat&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;bidrag med adekvat utbildning och utrustning som kommer att bidra till att&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr5 td70"&gt;&lt;SPAN class="p15 ft2"&gt;öka den militära styrkechefens samlade militära förmåga.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td17"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p37 ft2"&gt;Det svenska styrkebidraget föreslås bestå av ett lätt skyttekompani som&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;tillsammans med en nationell stödenhet ska utgöra del av Minusmas&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;samlade förmåga att upprätthålla säkerhetsresolution 2480 (2019). Det&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;svenska skyttekompaniet planeras vara stationerat i Gao, huvudort i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;Minusmas östra sektor. Emellertid kan det svenska styrkebidraget&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td71"&gt;&lt;SPAN class="p15 ft2"&gt;användas i hela Minusmas insatsområde.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td18"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td7"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td17"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p37 ft2"&gt;Parallellt med det svenska styrkebidraget i Gao ska det svenska bidraget&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;också utgöras av en styrka för avveckling av det tidigare svenska&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr5 td70"&gt;&lt;SPAN class="p15 ft2"&gt;förbandsbidraget med tillhörande infrastruktur i Timbuktu.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td17"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr9 td15"&gt;&lt;SPAN class="p37 ft2"&gt;Förstärkningen med varningsradar inleddes under augusti 2017 och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;förlängs med anledning av det försämrade säkerhetsläget så länge&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;Försvarsmakten anser att förmågan är relevant i insatsområdet kopplat till&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=7 class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;myndighetens hot- och riskbedömning. Bidraget omfattar även&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td66"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td72"&gt;&lt;SPAN class="p15 ft2"&gt;stabsofficerare&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td73"&gt;&lt;SPAN class="p15 ft2"&gt;vid&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td68"&gt;&lt;SPAN class="p104 ft2"&gt;relevanta&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td69"&gt;&lt;SPAN class="p105 ft5"&gt;staber.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td18"&gt;&lt;SPAN class="p15 ft2"&gt;Det&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td7"&gt;&lt;SPAN class="p15 ft2"&gt;totala&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p15 ft5"&gt;svenska&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td66"&gt;&lt;SPAN class="p106 ft2"&gt;18&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td67"&gt;&lt;SPAN class="p15 ft2"&gt;underrättelsebidraget&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td68"&gt;&lt;SPAN class="p15 ft2"&gt;till insatsen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td69"&gt;&lt;SPAN class="p107 ft2"&gt;kommer att&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td18"&gt;&lt;SPAN class="p34 ft2"&gt;uppgå&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td13"&gt;&lt;SPAN class="p33 ft2"&gt;till ungefär 220&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_19"&gt;
+
+
+&lt;P class="p108 ft2"&gt;personer på plats fram till den 31 december 2020. Regeringen angav i Prop. 2019/20:29 propositionen Svenskt deltagande i Förenta nationernas stabiliserings-&lt;/P&gt;
+&lt;P class="p73 ft2"&gt;insats i Mali (prop. 2017/18:180) att ett eventuellt fortsatt styrkebidrag till Minusma skulle kräva en ominriktning av det svenska förbandsbidraget. Avvecklingen av Camp Nobel är en del av denna process.&lt;/P&gt;
+&lt;P class="p76 ft2"&gt;Av 15 kap. 16 § regeringsformen följer att riksdagens medgivande krävs för att en svensk väpnad styrka ska kunna sändas till ett annat land om det inte finns en skyldighet att fullgöra en internationell förpliktelse som riksdagen har godkänt eller ett medgivande i lag. Eftersom det i detta fall inte är fråga om en internationell förpliktelse som har godkänts av riksdagen och ett bemyndigande i lag saknas, krävs riksdagens medgivande för att en svensk väpnad styrka ska kunna delta i Minusma. Det aktuella svenska styrkebidragets förmåga och uppgifter är sådana att det är att betrakta som en väpnad styrka i regeringsformens mening.&lt;/P&gt;
+&lt;P class="p76 ft2"&gt;Under försämrade säkerhetsförhållanden är det viktigt att regeringen har möjlighet att tillfälligt förstärka de väpnade militära insatser som Sverige genomför. Förstärkningen kan omfatta exempelvis tillförsel av materiel, undsättning och evakuering. En &lt;NOBR&gt;räddnings-,&lt;/NOBR&gt; evakuerings- och förstärkningsinsats är till sin natur tillfällig och tidskritisk. En insats av detta slag måste även vara anpassad till den specifika situationen. Detta gör att det i förväg är svårt att uppskatta omfattningen av och kostnaderna för en sådan insats.&lt;/P&gt;
+&lt;P class="p109 ft2"&gt;Mot denna bakgrund, och även om normalnivån på det svenska bidraget under 2020 kommer att vara cirka 220 personer på plats, söker regeringen riksdagens medgivande att ställa en svensk väpnad styrka om högst&lt;/P&gt;
+&lt;P class="p110 ft2"&gt;470 personer till förfogande för Minusma till den 31 december 2020. Medgivandet bör enligt regeringens mening gälla under förutsättning att det även fortsättningsvis finns ett giltigt mandat från FN:s säkerhetsråd.&lt;/P&gt;
+&lt;P class="p10 ft2"&gt;Försvarsmakten kommer att göra löpande hot- och riskbedömningar och vidta eventuella åtgärder utifrån denna bedömning.&lt;/P&gt;
+&lt;P class="p111 ft1"&gt;&lt;SPAN class="ft1"&gt;10&lt;/SPAN&gt;&lt;SPAN class="ft18"&gt;Ekonomiska konsekvenser&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p78 ft2"&gt;Regeringen beräknar att kostnaden för det svenska bidraget under 2020 kommer att uppgå till högst 800 000 000 kronor.&lt;/P&gt;
+&lt;P class="p74 ft2"&gt;Kostnaderna ska belasta det under utgiftsområde 6 Försvar och samhällets krisberedskap uppförda anslaget &lt;SPAN class="ft3"&gt;1:2 Försvarsmaktens insatser internationellt &lt;/SPAN&gt;och är beräknade utifrån den justerade beräkningsmodellen för kostnadsfördelning mellan anslag &lt;SPAN class="ft3"&gt;1:2 Försvarsmaktens insatser internationellt &lt;/SPAN&gt;och anslag &lt;SPAN class="ft3"&gt;1:1 Förbandsverksamhet och beredskap&lt;/SPAN&gt;. Merkostnader för eventuella förstärknings- och evakueringsåtgärder samt återställandekostnader till följd av insatsen ryms inom den i budgetpropositionen för 2019 beräknade ramen för 2020 för anslaget &lt;SPAN class="ft3"&gt;1:2 Försvarsmaktens insatser internationellt.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p112 ft2"&gt;19&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_20"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p113 ft2"&gt;Prop. 2019/20:29 Bilaga 1&lt;/P&gt;
+&lt;P class="p114 ft2"&gt;20&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p13 ft1"&gt;Förkortningar&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t12"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td74"&gt;&lt;SPAN class="p15 ft2"&gt;Afisma&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td75"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;NOBR&gt;African-led&lt;/NOBR&gt; International Support Mission to Mali&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td74"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td75"&gt;&lt;SPAN class="p15 ft2"&gt;(Afrikanskledda internationella stödinsatsen i Mali)&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td74"&gt;&lt;SPAN class="p15 ft2"&gt;Aqim&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td75"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;NOBR&gt;Al-Qaeda&lt;/NOBR&gt; in the Islamic Maghreb &lt;NOBR&gt;(al-Qaida&lt;/NOBR&gt; i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td74"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td75"&gt;&lt;SPAN class="p15 ft2"&gt;islamiska Maghreb)&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr17 td74"&gt;&lt;SPAN class="p15 ft2"&gt;Asifu&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr17 td75"&gt;&lt;SPAN class="p15 ft2"&gt;All Sources Information Fusion Unit&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td74"&gt;&lt;SPAN class="p15 ft2"&gt;AU&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td75"&gt;&lt;SPAN class="p15 ft2"&gt;African Union (Afrikanska unionen)&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td74"&gt;&lt;SPAN class="p15 ft2"&gt;Cerf&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td75"&gt;&lt;SPAN class="p15 ft2"&gt;Central Emergency Response Fund (FN:s&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td74"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td75"&gt;&lt;SPAN class="p15 ft2"&gt;katastroffond)&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td74"&gt;&lt;SPAN class="p15 ft2"&gt;CMA&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td75"&gt;&lt;SPAN class="p15 ft2"&gt;Coordination des mouvements de l’Azawad&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td74"&gt;&lt;SPAN class="p15 ft2"&gt;DDR&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td75"&gt;&lt;SPAN class="p15 ft2"&gt;Disarmament, demobilisation and reintegration&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td74"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td75"&gt;&lt;SPAN class="p15 ft2"&gt;(avväpning, demobilisering och återintegrering)&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr17 td74"&gt;&lt;SPAN class="p15 ft2"&gt;Ecowas&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr17 td75"&gt;&lt;SPAN class="p15 ft2"&gt;Economic Community of West African States&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td74"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td75"&gt;&lt;SPAN class="p15 ft2"&gt;(Västafrikanska staters ekonomiska gemenskap)&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td74"&gt;&lt;SPAN class="p15 ft2"&gt;EDF&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td75"&gt;&lt;SPAN class="p15 ft2"&gt;European Development Fund (Europeiska&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td74"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td75"&gt;&lt;SPAN class="p15 ft2"&gt;utvecklingsfonden)&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr17 td74"&gt;&lt;SPAN class="p15 ft2"&gt;EU&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr17 td75"&gt;&lt;SPAN class="p15 ft2"&gt;Europeiska unionen&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td74"&gt;&lt;SPAN class="p15 ft2"&gt;EUCap Sahel Mali&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td75"&gt;&lt;SPAN class="p15 ft2"&gt;European Union &lt;NOBR&gt;Capacity-building&lt;/NOBR&gt; Mission Sahel&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td74"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td75"&gt;&lt;SPAN class="p15 ft2"&gt;Mali (Europeiska unionens afirådgivnings- och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td74"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td75"&gt;&lt;SPAN class="p15 ft2"&gt;utbildningsinsats till stöd för Malis civila&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td74"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td75"&gt;&lt;SPAN class="p15 ft2"&gt;säkerhetsstyrkor)&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td74"&gt;&lt;SPAN class="p15 ft2"&gt;EUSR&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td75"&gt;&lt;SPAN class="p15 ft2"&gt;EU Special Representative (särskild representant för&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td74"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td75"&gt;&lt;SPAN class="p15 ft2"&gt;EU)&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td74"&gt;&lt;SPAN class="p15 ft2"&gt;EUTM Mali&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td75"&gt;&lt;SPAN class="p15 ft2"&gt;European Union Training Mission Mali (Europeiska&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td74"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td75"&gt;&lt;SPAN class="p15 ft2"&gt;unionens militära uppdrag i syfte att bidra till&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td74"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td75"&gt;&lt;SPAN class="p15 ft2"&gt;utbildning av den maliska försvarsmakten)&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td74"&gt;&lt;SPAN class="p15 ft2"&gt;FN&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td75"&gt;&lt;SPAN class="p15 ft2"&gt;Förenta nationerna&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td74"&gt;&lt;SPAN class="p15 ft2"&gt;ICC&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td75"&gt;&lt;SPAN class="p15 ft2"&gt;International Criminal Court (Internationella&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td74"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td75"&gt;&lt;SPAN class="p15 ft2"&gt;brottsmålsdomstolen)&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td74"&gt;&lt;SPAN class="p15 ft2"&gt;ICRC&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td75"&gt;&lt;SPAN class="p15 ft2"&gt;Internationella rödakorskommittén&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td74"&gt;&lt;SPAN class="p15 ft2"&gt;IRC&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td75"&gt;&lt;SPAN class="p15 ft2"&gt;International Rescue Committee&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr17 td74"&gt;&lt;SPAN class="p15 ft2"&gt;JNIM&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr17 td75"&gt;&lt;SPAN class="p15 ft2"&gt;Jama'a Nusrat &lt;NOBR&gt;ul-Islam&lt;/NOBR&gt; wa &lt;NOBR&gt;al-Muslimin'&lt;/NOBR&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_21"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t7"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td74"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td76"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td13"&gt;&lt;SPAN class="p15 ft2"&gt;Prop. 2019/20:29&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td74"&gt;&lt;SPAN class="p15 ft2"&gt;Minusma&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td76"&gt;&lt;SPAN class="p15 ft2"&gt;United Nations Multidimensional Integrated&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td13"&gt;&lt;SPAN class="p15 ft2"&gt;Bilaga 1&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td74"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td76"&gt;&lt;SPAN class="p15 ft2"&gt;Stabilization Mission in Mali (FN:s&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td74"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td76"&gt;&lt;SPAN class="p15 ft2"&gt;stabiliseringsinsats i Mali)&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td74"&gt;&lt;SPAN class="p15 ft2"&gt;MNLA&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td76"&gt;&lt;SPAN class="p15 ft2"&gt;Mouvement National pour la Libération de&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td74"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td76"&gt;&lt;SPAN class="p15 ft2"&gt;l’Azawad (Nationella rörelsen för Azawads&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td74"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td76"&gt;&lt;SPAN class="p15 ft2"&gt;befrielse)&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr17 td74"&gt;&lt;SPAN class="p15 ft2"&gt;NRC&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr17 td76"&gt;&lt;SPAN class="p15 ft2"&gt;Norwegian Refugee Committee&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr17 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td74"&gt;&lt;SPAN class="p15 ft2"&gt;OHCHR&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td76"&gt;&lt;SPAN class="p15 ft2"&gt;Office of the High Commissioner for Human Rights&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td74"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td76"&gt;&lt;SPAN class="p15 ft2"&gt;(FN:s högkommissarie för mänskliga rättigheter)&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr17 td74"&gt;&lt;SPAN class="p15 ft2"&gt;UNISS&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr17 td76"&gt;&lt;SPAN class="p15 ft2"&gt;United Nations Integrated Strategy for the Sahel&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr17 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td74"&gt;&lt;SPAN class="p15 ft2"&gt;WFP&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td76"&gt;&lt;SPAN class="p15 ft2"&gt;World Food Programme (FN:s livsmedelsprogram)&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p115 ft2"&gt;21&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_22"&gt;
+&lt;DIV id="p22dimg1"&gt;
+&lt;INGENBILD zsrc="H7032922x1.jpg/" id="p22img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p116 ft2"&gt;Prop. 2019/20:29&lt;/P&gt;
+&lt;P class="p117 ft1"&gt;Utrikesdepartementet&lt;/P&gt;
+&lt;P class="p118 ft2"&gt;Utdrag ur protokoll vid regeringssammanträde den 10 oktober 2019&lt;/P&gt;
+&lt;P class="p119 ft2"&gt;Närvarande: statsminister Löfven, ordförande, och statsråden Lövin, Johansson, Baylan, Hallengren, Hultqvist, Damberg, Shekarabi, Ygeman, Linde, Ekström, Eneroth, Dahlgren, Nilsson, Lindhagen, Hallberg, Nordmark, Micko&lt;/P&gt;
+&lt;P class="p120 ft2"&gt;Föredragande: statsrådet Linde&lt;/P&gt;
+&lt;P class="p121 ft2"&gt;Regeringen beslutar proposition Svenskt deltagande i Förenta nationernas stabiliseringsinsats i Mali&lt;/P&gt;
+&lt;P class="p122 ft2"&gt;22&lt;/P&gt;
+&lt;/DIV&gt;
+
+&lt;/div&gt;&lt;style&gt;
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+&lt;/style&gt;
+</html>
+  </dokument>
+<dokforslag>
+<forslag>
+<nummer datatype="int32">1</nummer>
+<beteckning datatype="string">1</beteckning>
+<lydelse datatype="string">Riksdagen medger att regeringen ställer en svensk väpnad styrka bestående av högst 470 personer till förfogande för deltagande i Förenta nationernas stabiliseringsinsats i Mali (Minusma) till den 31 december 2020, under förutsättning att det även fortsättningsvis finns ett giltigt mandat för styrkan enligt beslut av FN:s säkerhetsråd (avsnitt 9). </lydelse>
+<lydelse2 datatype="string" />
+<utskottet datatype="string">Bifall</utskottet>
+<kammaren datatype="string">Bifall</kammaren>
+<behandlas_i datatype="string">2019/20:UFöU3</behandlas_i>
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string">UFöU</intressent>
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+</dokforslag>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">INL</kod>
+<namn datatype="string">Inlämnad</namn>
+<datum datatype="datetime">2019-10-16 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">B</kod>
+<namn datatype="string">Bordlagd</namn>
+<datum datatype="datetime">2019-10-16 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">HÄN</kod>
+<namn datatype="string">Hänvisad</namn>
+<datum datatype="datetime">2019-10-17 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">MOT</kod>
+<namn datatype="string">Motionstid slutar</namn>
+<datum datatype="datetime">2019-10-31 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+</dokaktivitet>
+<dokintressent>
+<intressent>
+<intressent_id datatype="string">0218878014918</intressent_id>
+<namn datatype="string">Stefan Löfven</namn>
+<partibet datatype="string">S</partibet>
+<ordning datatype="int16">1</ordning>
+<roll datatype="string">Statsråd1</roll>
+</intressent>
+<intressent>
+<intressent_id datatype="string">0992800527915</intressent_id>
+<namn datatype="string">Ann Linde</namn>
+<partibet datatype="string">S</partibet>
+<ordning datatype="int16">2</ordning>
+<roll datatype="string">Statsråd2</roll>
+</intressent>
+</dokintressent>
+<dokuppgift>
+<uppgift>
+<kod datatype="string">inlamnatav</kod>
+<namn datatype="string">Inlämnat av</namn>
+<text datatype="string">Utrikesdepartementet</text>
+<dok_id datatype="string">H70329</dok_id>
+<systemdatum datatype="datetime">2019-12-04 16:29:03</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">tilldelat</kod>
+<namn datatype="string">Tilldelat</namn>
+<text datatype="string">Utrikesutskottet</text>
+<dok_id datatype="string">H70329</dok_id>
+<systemdatum datatype="datetime">2019-12-04 16:29:03</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">statustext</kod>
+<namn datatype="string">statustext</namn>
+<text datatype="string">Propositionen bereds i utskott</text>
+<dok_id datatype="string">H70329</dok_id>
+<systemdatum datatype="datetime">2019-10-17 09:01:14</systemdatum>
+</uppgift>
+</dokuppgift>
+<dokbilaga>
+<bilaga>
+<dok_id datatype="string">H70329</dok_id>
+<titel datatype="string">Svenskt deltagande i Förenta nationernas stabiliseringsinsats i Mali</titel>
+<subtitel datatype="string" />
+<filnamn datatype="string">prop_201920__29.pdf</filnamn>
+<filstorlek datatype="int32">200041</filstorlek>
+<filtyp datatype="string">pdf</filtyp>
+<fil_url datatype="string">http://data.riksdagen.se/fil/18B549BC-6A4C-4A7F-95CC-4C8B4880F2C4</fil_url>
+</bilaga>
+</dokbilaga>
+<dokreferens>
+<referens>
+<referenstyp datatype="string">behandlas_i</referenstyp>
+<uppgift datatype="string">2019/20:UFöU3</uppgift>
+<ref_dok_id datatype="string">H701UFöU3</ref_dok_id>
+<ref_dok_typ datatype="string">bet</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">UFöU3</ref_dok_bet>
+<ref_dok_titel datatype="string">Svenskt deltagande i Förenta nationernas stabiliseringsinsats i Mali</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">bet</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Betänkande</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">följdmotion</referenstyp>
+<uppgift datatype="string">av Joar Forssell m.fl. (L)&lt;br /&gt;med anledning av prop. 2019/20:29 Svenskt deltagande i Förenta nationernas stabiliseringsinsats i Mali</uppgift>
+<ref_dok_id datatype="string">H7023413</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3413</ref_dok_bet>
+<ref_dok_titel datatype="string">med anledning av prop. 2019/20:29 Svenskt deltagande i Förenta nationernas stabiliseringsinsats i Mali</ref_dok_titel>
+<ref_dok_subtitel datatype="string">av Joar Forssell m.fl. (L)</ref_dok_subtitel>
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">följdmotion</referenstyp>
+<uppgift datatype="string">av Hans Wallmark m.fl. (M)&lt;br /&gt;med anledning av prop. 2019/20:29 Svenskt deltagande i Förenta nationernas stabiliseringsinsats i Mali</uppgift>
+<ref_dok_id datatype="string">H7023417</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3417</ref_dok_bet>
+<ref_dok_titel datatype="string">med anledning av prop. 2019/20:29 Svenskt deltagande i Förenta nationernas stabiliseringsinsats i Mali</ref_dok_titel>
+<ref_dok_subtitel datatype="string">av Hans Wallmark m.fl. (M)</ref_dok_subtitel>
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">följdmotion</referenstyp>
+<uppgift datatype="string">av Björn Söder m.fl. (SD)&lt;br /&gt;med anledning av prop. 2019/20:29 Svenskt deltagande i Förenta nationernas stabiliseringsinsats i Mali </uppgift>
+<ref_dok_id datatype="string">H7023411</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3411</ref_dok_bet>
+<ref_dok_titel datatype="string">med anledning av prop. 2019/20:29 Svenskt deltagande i Förenta nationernas stabiliseringsinsats i Mali </ref_dok_titel>
+<ref_dok_subtitel datatype="string">av Björn Söder m.fl. (SD)</ref_dok_subtitel>
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+</dokreferens>
+<debatt /></dokumentstatus>

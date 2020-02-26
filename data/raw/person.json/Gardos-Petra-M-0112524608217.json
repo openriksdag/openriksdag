@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "c6335009-5b36-42e7-997f-d54f81a62800",
+    "sourceid": "1d3bc80b-0e7f-11d6-8929-0040ca15020f",
+    "intressent_id": "0112524608217",
+    "hangar_id": "2343510",
+    "fodd_ar": "1972",
+    "kon": "kvinna",
+    "efternamn": "Gardos",
+    "tilltalsnamn": "Petra",
+    "sorteringsnamn": "Gardos,Petra",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/1d3bc80b-0e7f-11d6-8929-0040ca15020f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1d3bc80b-0e7f-11d6-8929-0040ca15020f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1d3bc80b-0e7f-11d6-8929-0040ca15020f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1d3bc80b-0e7f-11d6-8929-0040ca15020f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "29",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2002-01-01",
+          "tom": "2002-09-30",
+          "uppgift": "",
+          "intressent_id": "0112524608217",
+          "hangar_id": "2343510",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "LU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-01-01",
+          "tom": "2002-09-29",
+          "uppgift": "Lagutskottet",
+          "intressent_id": "0112524608217",
+          "hangar_id": "2343510",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "jurist",
+          "typ": "titlar",
+          "intressent_id": "0112524608217",
+          "hangar_id": "2343510"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0112524608217",
+          "hangar_id": "2343510"
+        }
+      ]
+    }
+  }
+}

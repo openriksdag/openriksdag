@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "66410b54-1915-4545-af29-304be76a33f7",
+    "sourceid": "e6304e43-6c98-46f3-b2d6-d59d474b4509",
+    "intressent_id": "0979018047922",
+    "hangar_id": "2369333",
+    "fodd_ar": "1983",
+    "kon": "kvinna",
+    "efternamn": "Lunderquist",
+    "tilltalsnamn": "Kajsa",
+    "sorteringsnamn": "Lunderquist,Kajsa",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Malmö kommun",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/e6304e43-6c98-46f3-b2d6-d59d474b4509",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e6304e43-6c98-46f3-b2d6-d59d474b4509_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e6304e43-6c98-46f3-b2d6-d59d474b4509_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e6304e43-6c98-46f3-b2d6-d59d474b4509_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "36",
+          "status": "Ledig Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2014-02-24",
+          "tom": "2014-09-28",
+          "uppgift": "Tobias Billström   Föräldraledighet",
+          "intressent_id": "0979018047922",
+          "hangar_id": "2369333",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "36",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2012-07-01",
+          "tom": "2014-02-23",
+          "uppgift": "Tobias Billström",
+          "intressent_id": "0979018047922",
+          "hangar_id": "2369333",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "36",
+          "status": "Ledig Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2011-12-13",
+          "tom": "2012-06-30",
+          "uppgift": "Tobias Billström   Föräldraledighet",
+          "intressent_id": "0979018047922",
+          "hangar_id": "2369333",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "36",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-04",
+          "tom": "2011-12-12",
+          "uppgift": "Tobias Billström",
+          "intressent_id": "0979018047922",
+          "hangar_id": "2369333",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-03-13",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0979018047922",
+          "hangar_id": "2369333",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-28",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0979018047922",
+          "hangar_id": "2369333",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Biträdande jurist/jur. kand.",
+          "typ": "titlar",
+          "intressent_id": "0979018047922",
+          "hangar_id": "2369333"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0979018047922",
+          "hangar_id": "2369333"
+        }
+      ]
+    }
+  }
+}

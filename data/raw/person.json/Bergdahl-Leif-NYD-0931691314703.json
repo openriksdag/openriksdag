@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "9fd2f05b-3a1c-42da-8d73-56c034efb019",
+    "sourceid": "befcbbb3-e8f3-4725-8692-391a2ef0df1b",
+    "intressent_id": "0931691314703",
+    "hangar_id": "2342128",
+    "fodd_ar": "1941",
+    "kon": "man",
+    "efternamn": "Bergdahl",
+    "tilltalsnamn": "Leif",
+    "sorteringsnamn": "Bergdahl,Leif",
+    "iort": "",
+    "parti": "NYD",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/befcbbb3-e8f3-4725-8692-391a2ef0df1b",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/befcbbb3-e8f3-4725-8692-391a2ef0df1b_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/befcbbb3-e8f3-4725-8692-391a2ef0df1b_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/befcbbb3-e8f3-4725-8692-391a2ef0df1b_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "221",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0931691314703",
+          "hangar_id": "2342128",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1993-03-18",
+          "tom": "1994-10-02",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0931691314703",
+          "hangar_id": "2342128",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1993-03-18",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0931691314703",
+          "hangar_id": "2342128",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1993-03-17",
+          "tom": "1994-10-02",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0931691314703",
+          "hangar_id": "2342128",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "docent, med.dr.",
+          "typ": "titlar",
+          "intressent_id": "0931691314703",
+          "hangar_id": "2342128"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0931691314703",
+          "hangar_id": "2342128"
+        }
+      ]
+    }
+  }
+}

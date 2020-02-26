@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "d26b9be7-3dfe-48ac-a624-c17c5dacc94d",
+    "sourceid": "81633d22-4ede-4f68-bda9-3219ccaae321",
+    "intressent_id": "0814703093208",
+    "hangar_id": "2342324",
+    "fodd_ar": "1945",
+    "kon": "man",
+    "efternamn": "Holmsten",
+    "tilltalsnamn": "Lennart",
+    "sorteringsnamn": "Holmsten,Lennart",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/81633d22-4ede-4f68-bda9-3219ccaae321",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/81633d22-4ede-4f68-bda9-3219ccaae321_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/81633d22-4ede-4f68-bda9-3219ccaae321_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/81633d22-4ede-4f68-bda9-3219ccaae321_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0814703093208",
+          "hangar_id": "2342324",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1984-05-08",
+          "tom": "1984-06-08",
+          "uppgift": "Axel Andersson",
+          "intressent_id": "0814703093208",
+          "hangar_id": "2342324",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "kommunalråd",
+          "typ": "titlar",
+          "intressent_id": "0814703093208",
+          "hangar_id": "2342324"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0814703093208",
+          "hangar_id": "2342324"
+        }
+      ]
+    }
+  }
+}

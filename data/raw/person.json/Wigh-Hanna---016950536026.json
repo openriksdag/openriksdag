@@ -1,0 +1,82 @@
+{
+  "person": {
+    "hangar_guid": "835c8001-b618-4fa9-9667-e1bd944a5868",
+    "sourceid": "26f00744-ea57-4ebd-bf10-6d12f424ae9f",
+    "intressent_id": "016950536026",
+    "hangar_id": "3057455",
+    "fodd_ar": "1986",
+    "kon": "kvinna",
+    "efternamn": "Wigh",
+    "tilltalsnamn": "Hanna",
+    "sorteringsnamn": "Wigh,Hanna",
+    "iort": "",
+    "parti": "-",
+    "valkrets": "Norrbottens län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/26f00744-ea57-4ebd-bf10-6d12f424ae9f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/26f00744-ea57-4ebd-bf10-6d12f424ae9f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/26f00744-ea57-4ebd-bf10-6d12f424ae9f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/26f00744-ea57-4ebd-bf10-6d12f424ae9f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "349",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "016950536026",
+          "hangar_id": "3057455",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "19",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-14",
+          "tom": "2018-09-24",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "016950536026",
+          "hangar_id": "3057455",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2015-04-24",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "016950536026",
+          "hangar_id": "3057455",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "false",
+        "typ": "val",
+        "intressent_id": "016950536026",
+        "hangar_id": "3057455"
+      }
+    }
+  }
+}

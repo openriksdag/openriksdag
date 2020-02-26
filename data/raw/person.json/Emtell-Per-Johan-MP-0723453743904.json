@@ -1,0 +1,48 @@
+{
+  "person": {
+    "hangar_guid": "d5d590df-fe8e-4a7a-a0a7-3c1e37722d0e",
+    "sourceid": "9dcb7a3b-0a4f-4bbb-903e-4c72a5ab2cf3",
+    "intressent_id": "0723453743904",
+    "hangar_id": "2369700",
+    "fodd_ar": "1944",
+    "kon": "man",
+    "efternamn": "Emtell",
+    "tilltalsnamn": "Per-Johan",
+    "sorteringsnamn": "Emtell,Per-Johan",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "Gävleborgs län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/9dcb7a3b-0a4f-4bbb-903e-4c72a5ab2cf3",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9dcb7a3b-0a4f-4bbb-903e-4c72a5ab2cf3_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9dcb7a3b-0a4f-4bbb-903e-4c72a5ab2cf3_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9dcb7a3b-0a4f-4bbb-903e-4c72a5ab2cf3_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Riksdagsledamot",
+        "ordningsnummer": "106",
+        "status": "Tjänstgörande",
+        "typ": "kammaruppdrag",
+        "from": "2014-06-24",
+        "tom": "2014-09-29",
+        "uppgift": "",
+        "intressent_id": "0723453743904",
+        "hangar_id": "2369700",
+        "sortering": "10",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "10"
+      }
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "per-johan.emtell[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0723453743904",
+        "hangar_id": "2369700"
+      }
+    }
+  }
+}

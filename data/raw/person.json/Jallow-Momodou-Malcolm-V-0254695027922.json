@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "1e304529-b736-4975-8e29-b17bb607293a",
+    "sourceid": "f257311a-2900-4db5-a2e2-df250c764ad6",
+    "intressent_id": "0254695027922",
+    "hangar_id": "3057234",
+    "fodd_ar": "1975",
+    "kon": "man",
+    "efternamn": "Jallow",
+    "tilltalsnamn": "Momodou Malcolm",
+    "sorteringsnamn": "Jallow,Momodou Malcolm",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "Malmö kommun",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/f257311a-2900-4db5-a2e2-df250c764ad6",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f257311a-2900-4db5-a2e2-df250c764ad6_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f257311a-2900-4db5-a2e2-df250c764ad6_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f257311a-2900-4db5-a2e2-df250c764ad6_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "185",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0254695027922",
+          "hangar_id": "3057234",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "152",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2017-08-31",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0254695027922",
+          "hangar_id": "3057234",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "ER",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-11-01",
+          "tom": "2022-10-31",
+          "uppgift": "Europarådets svenska delegation",
+          "intressent_id": "0254695027922",
+          "hangar_id": "3057234",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "8",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0254695027922",
+          "hangar_id": "3057234",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "23",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-16",
+          "tom": "2022-09-26",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0254695027922",
+          "hangar_id": "3057234",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-09-07",
+          "tom": "2018-09-24",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0254695027922",
+          "hangar_id": "3057234",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-09-07",
+          "tom": "2018-09-24",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0254695027922",
+          "hangar_id": "3057234",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "momodou-malcolm.jallow[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0254695027922",
+          "hangar_id": "3057234"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0254695027922",
+          "hangar_id": "3057234"
+        }
+      ]
+    }
+  }
+}

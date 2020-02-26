@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "8762f353-edca-46f0-8ade-09bacf956812",
+    "sourceid": "300c041c-1f7e-4daa-97e0-4d2ec8e6f4f5",
+    "intressent_id": "0279488554424",
+    "hangar_id": "5003920",
+    "fodd_ar": "1981",
+    "kon": "man",
+    "efternamn": "Christiansson",
+    "tilltalsnamn": "Alexander",
+    "sorteringsnamn": "Christiansson,Alexander",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Göteborgs kommun",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/300c041c-1f7e-4daa-97e0-4d2ec8e6f4f5",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/300c041c-1f7e-4daa-97e0-4d2ec8e6f4f5_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/300c041c-1f7e-4daa-97e0-4d2ec8e6f4f5_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/300c041c-1f7e-4daa-97e0-4d2ec8e6f4f5_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "263",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0279488554424",
+          "hangar_id": "5003920",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "ER",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-12-14",
+          "tom": "2022-10-31",
+          "uppgift": "Europarådets svenska delegation",
+          "intressent_id": "0279488554424",
+          "hangar_id": "5003920",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0279488554424",
+          "hangar_id": "5003920",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "42",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-09",
+          "tom": "2022-10-04",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0279488554424",
+          "hangar_id": "5003920",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "alexander.christiansson[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0279488554424",
+        "hangar_id": "5003920"
+      }
+    }
+  }
+}

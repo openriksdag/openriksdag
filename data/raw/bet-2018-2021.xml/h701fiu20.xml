@@ -1,0 +1,131 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5044052</hangar_id>
+    <dok_id datatype="string">H701FiU20</dok_id>
+    <rm datatype="string">2019/20</rm>
+    <beteckning datatype="string">FiU20</beteckning>
+    <typ datatype="string">bet</typ>
+    <subtyp datatype="string">bet</subtyp>
+    <doktyp datatype="string">bet</doktyp>
+    <typrubrik datatype="string">Betänkande 2019/20:FiU20</typrubrik>
+    <dokumentnamn datatype="string">Betänkande</dokumentnamn>
+    <debattnamn datatype="string">Debatt om förslag</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">FiU</organ>
+    <mottagare datatype="string"></mottagare>
+    <nummer datatype="int32">20</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2019-10-16 00:00:00</datum>
+    <systemdatum datatype="datetime">2020-01-27 11:11:39</systemdatum>
+    <publicerad datatype="datetime">2019-10-16 14:01:42</publicerad>
+    <titel datatype="string">Riktlinjer för den ekonomiska politiken</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">planerat</status>
+    <htmlformat datatype="string"></htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">Brus</source>
+    <sourceid datatype="string">41e83c70-c080-4eef-9969-327d604530ff</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H701FiU20/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H701FiU20</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H701FiU20</dokumentstatus_url_xml>
+    <utskottsforslag_url_xml datatype="stext">http://data.riksdagen.se/utskottsforslag/H701FiU20</utskottsforslag_url_xml>
+    <html datatype="text">&lt;h2&gt;Riktlinjer för den ekonomiska politiken&lt;/h2&gt;
+Dokumentet är inte publicerat</html>
+  </dokument>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">UBE</kod>
+<namn datatype="string">Beredning</namn>
+<datum datatype="datetime">2020-05-26 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">UBE</kod>
+<namn datatype="string">Beredning</namn>
+<datum datatype="datetime">2020-06-09 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">JUS</kod>
+<namn datatype="string">Justering</namn>
+<datum datatype="datetime">2020-06-11 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">TRY</kod>
+<namn datatype="string">Trycklov</namn>
+<datum datatype="datetime">2020-06-11 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+</dokaktivitet>
+<dokreferens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1400 Hållbar ekonomisk tillväxt</uppgift>
+<ref_dok_id datatype="string">H7021400</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1400</ref_dok_bet>
+<ref_dok_titel datatype="string">Hållbar ekonomisk tillväxt</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2223 Utgiftsområde 2 Samhällsekonomi och finansförvaltning</uppgift>
+<ref_dok_id datatype="string">H7022223</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2223</ref_dok_bet>
+<ref_dok_titel datatype="string">Utgiftsområde 2 Samhällsekonomi och finansförvaltning</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2055 Liberal politik för ett starkare Europasamarbete</uppgift>
+<ref_dok_id datatype="string">H7022055</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2055</ref_dok_bet>
+<ref_dok_titel datatype="string">Liberal politik för ett starkare Europasamarbete</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2616 Minska klyftorna</uppgift>
+<ref_dok_id datatype="string">H7022616</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2616</ref_dok_bet>
+<ref_dok_titel datatype="string">Minska klyftorna</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1098 Sätt mål för jämlikheten </uppgift>
+<ref_dok_id datatype="string">H7021098</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1098</ref_dok_bet>
+<ref_dok_titel datatype="string">Sätt mål för jämlikheten </ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+</dokreferens>
+<debatt /></dokumentstatus>

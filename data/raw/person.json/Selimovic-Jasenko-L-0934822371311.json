@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "7164ed23-df1b-4a3c-91b7-362fcad764af",
+    "sourceid": "f168e60f-3288-4661-b5bb-7dc5abf4c7cd",
+    "intressent_id": "0934822371311",
+    "hangar_id": "2369592",
+    "fodd_ar": "1968",
+    "kon": "man",
+    "efternamn": "Selimovic",
+    "tilltalsnamn": "Jasenko",
+    "sorteringsnamn": "Selimovic,Jasenko",
+    "iort": "",
+    "parti": "L",
+    "valkrets": "Göteborgs kommun",
+    "status": "Tidigare europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/f168e60f-3288-4661-b5bb-7dc5abf4c7cd",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f168e60f-3288-4661-b5bb-7dc5abf4c7cd_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f168e60f-3288-4661-b5bb-7dc5abf4c7cd_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f168e60f-3288-4661-b5bb-7dc5abf4c7cd_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "EP",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "5",
+        "status": "",
+        "typ": "Europaparlamentet",
+        "from": "2015-09-30",
+        "tom": "2019-07-02",
+        "uppgift": "Europaparlamentet",
+        "intressent_id": "0934822371311",
+        "hangar_id": "2369592",
+        "sortering": "30",
+        "organ_sortering": "100",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "46037e30-6845-49d4-867b-c8fa947c1ce8",
+    "sourceid": "2f0a4a14-fa52-4095-8317-85966d78daf2",
+    "intressent_id": "0315172621102",
+    "hangar_id": "2342243",
+    "fodd_ar": "1943",
+    "kon": "man",
+    "efternamn": "Ahlquist",
+    "tilltalsnamn": "Bengt",
+    "sorteringsnamn": "Ahlquist,Bengt",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/2f0a4a14-fa52-4095-8317-85966d78daf2",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2f0a4a14-fa52-4095-8317-85966d78daf2_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2f0a4a14-fa52-4095-8317-85966d78daf2_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2f0a4a14-fa52-4095-8317-85966d78daf2_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "70",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1994-02-07",
+          "tom": "1994-03-31",
+          "uppgift": "Håkan Holmberg",
+          "intressent_id": "0315172621102",
+          "hangar_id": "2342243",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "70",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1993-03-08",
+          "tom": "1993-04-12",
+          "uppgift": "Håkan Holmberg",
+          "intressent_id": "0315172621102",
+          "hangar_id": "2342243",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-02-07",
+          "tom": "1994-03-31",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0315172621102",
+          "hangar_id": "2342243",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1993-03-09",
+          "tom": "1993-04-12",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0315172621102",
+          "hangar_id": "2342243",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "informatör",
+          "typ": "titlar",
+          "intressent_id": "0315172621102",
+          "hangar_id": "2342243"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0315172621102",
+          "hangar_id": "2342243"
+        }
+      ]
+    }
+  }
+}

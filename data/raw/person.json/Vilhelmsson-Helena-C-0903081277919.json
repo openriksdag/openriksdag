@@ -1,0 +1,82 @@
+{
+  "person": {
+    "hangar_guid": "27fd2797-b082-4a3d-be56-27fde95885d7",
+    "sourceid": "bcf8f6dc-7be4-46d3-bb3e-df793b2c5256",
+    "intressent_id": "0903081277919",
+    "hangar_id": "5004024",
+    "fodd_ar": "1965",
+    "kon": "kvinna",
+    "efternamn": "Vilhelmsson",
+    "tilltalsnamn": "Helena",
+    "sorteringsnamn": "Vilhelmsson,Helena",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Örebro län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/bcf8f6dc-7be4-46d3-bb3e-df793b2c5256",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/bcf8f6dc-7be4-46d3-bb3e-df793b2c5256_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/bcf8f6dc-7be4-46d3-bb3e-df793b2c5256_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/bcf8f6dc-7be4-46d3-bb3e-df793b2c5256_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "306",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0903081277919",
+          "hangar_id": "5004024",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "23",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-16",
+          "tom": "2022-09-26",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0903081277919",
+          "hangar_id": "5004024",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0903081277919",
+          "hangar_id": "5004024",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "helena.vilhelmsson[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0903081277919",
+        "hangar_id": "5004024"
+      }
+    }
+  }
+}

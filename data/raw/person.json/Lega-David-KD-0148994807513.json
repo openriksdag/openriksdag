@@ -1,0 +1,48 @@
+{
+  "person": {
+    "hangar_guid": "0c75031c-6529-46d8-949e-b62eed329712",
+    "sourceid": "ff713053-ab30-457b-b2f1-4776976e33ab",
+    "intressent_id": "0148994807513",
+    "hangar_id": "2369606",
+    "fodd_ar": "1973",
+    "kon": "man",
+    "efternamn": "Lega",
+    "tilltalsnamn": "David",
+    "sorteringsnamn": "Lega,David",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Göteborgs kommun",
+    "status": "Europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/ff713053-ab30-457b-b2f1-4776976e33ab",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ff713053-ab30-457b-b2f1-4776976e33ab_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ff713053-ab30-457b-b2f1-4776976e33ab_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ff713053-ab30-457b-b2f1-4776976e33ab_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "EP",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "9",
+        "status": "",
+        "typ": "Europaparlamentet",
+        "from": "2019-07-02",
+        "tom": "2024-07-02",
+        "uppgift": "Europaparlamentet",
+        "intressent_id": "0148994807513",
+        "hangar_id": "2369606",
+        "sortering": "30",
+        "organ_sortering": "100",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "true",
+        "typ": "val",
+        "intressent_id": "0148994807513",
+        "hangar_id": "2369606"
+      }
+    }
+  }
+}

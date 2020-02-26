@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "2bf1ec39-4624-482b-8605-78ba0d1584d6",
+    "sourceid": "da0f2189-a8ae-4812-bf5b-bab23afa738b",
+    "intressent_id": "0817420987900",
+    "hangar_id": "2341996",
+    "fodd_ar": "1938",
+    "kon": "man",
+    "efternamn": "Andersson",
+    "tilltalsnamn": "John",
+    "sorteringsnamn": "Andersson,John",
+    "iort": "",
+    "parti": "-",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/da0f2189-a8ae-4812-bf5b-bab23afa738b",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/da0f2189-a8ae-4812-bf5b-bab23afa738b_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/da0f2189-a8ae-4812-bf5b-bab23afa738b_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/da0f2189-a8ae-4812-bf5b-bab23afa738b_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "333",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0817420987900",
+          "hangar_id": "2341996",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0817420987900",
+          "hangar_id": "2341996",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0817420987900",
+          "hangar_id": "2341996",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0817420987900",
+          "hangar_id": "2341996",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1992-10-13",
+          "tom": "1993-01-13",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0817420987900",
+          "hangar_id": "2341996",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "LU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1993-01-13",
+          "uppgift": "Lagutskottet",
+          "intressent_id": "0817420987900",
+          "hangar_id": "2341996",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0817420987900",
+          "hangar_id": "2341996"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "skogsarbetare",
+          "typ": "titlar",
+          "intressent_id": "0817420987900",
+          "hangar_id": "2341996"
+        }
+      ]
+    }
+  }
+}

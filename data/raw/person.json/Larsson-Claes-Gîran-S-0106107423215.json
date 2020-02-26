@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "6bfa19c5-c1a5-4386-9b03-a9d880ba9fb8",
+    "sourceid": "a4a0470b-5a28-4101-a69e-a649fd7d5d70",
+    "intressent_id": "0106107423215",
+    "hangar_id": "2342824",
+    "fodd_ar": "1954",
+    "kon": "man",
+    "efternamn": "Larsson",
+    "tilltalsnamn": "Claes-Göran",
+    "sorteringsnamn": "Larsson,Claes-Göran",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Avliden  1994-09-28",
+    "person_url_xml": "http://data.riksdagen.se/person/a4a0470b-5a28-4101-a69e-a649fd7d5d70",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a4a0470b-5a28-4101-a69e-a649fd7d5d70_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a4a0470b-5a28-4101-a69e-a649fd7d5d70_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a4a0470b-5a28-4101-a69e-a649fd7d5d70_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Riksdagsledamot",
+        "ordningsnummer": "254",
+        "status": "Ledig",
+        "typ": "kammaruppdrag",
+        "from": "1994-10-04",
+        "tom": "1994-11-28",
+        "uppgift": "Ingibjörg Sigurdsdóttir 1994-10-04 - 1994-11-28",
+        "intressent_id": "0106107423215",
+        "hangar_id": "2342824",
+        "sortering": "10",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "30"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "verktygsmakare",
+          "typ": "titlar",
+          "intressent_id": "0106107423215",
+          "hangar_id": "2342824"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0106107423215",
+          "hangar_id": "2342824"
+        }
+      ]
+    }
+  }
+}

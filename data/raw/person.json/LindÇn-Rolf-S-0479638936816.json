@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "93b58c67-b2f9-4557-b336-a317cb5e3047",
+    "sourceid": "9202680f-bbfb-4a79-a4ed-5769823a49f3",
+    "intressent_id": "0479638936816",
+    "hangar_id": "2342962",
+    "fodd_ar": "1957",
+    "kon": "man",
+    "efternamn": "Lindén",
+    "tilltalsnamn": "Rolf",
+    "sorteringsnamn": "Lindén,Rolf",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Göteborgs kommun",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/9202680f-bbfb-4a79-a4ed-5769823a49f3",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9202680f-bbfb-4a79-a4ed-5769823a49f3_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9202680f-bbfb-4a79-a4ed-5769823a49f3_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9202680f-bbfb-4a79-a4ed-5769823a49f3_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2002-09-30",
+          "tom": "2006-10-02",
+          "uppgift": "",
+          "intressent_id": "0479638936816",
+          "hangar_id": "2342962",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2006-10-02",
+          "uppgift": "",
+          "intressent_id": "0479638936816",
+          "hangar_id": "2342962",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0479638936816",
+          "hangar_id": "2342962",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-24",
+          "tom": "2006-10-02",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0479638936816",
+          "hangar_id": "2342962",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2002-10-23",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0479638936816",
+          "hangar_id": "2342962",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2003-03-12",
+          "tom": "2006-10-02",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0479638936816",
+          "hangar_id": "2342962",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UMJU",
+          "roll_kod": "Deputerad",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2003-02-18",
+          "tom": "2003-05-21",
+          "uppgift": "Sammansatta utrikes-, miljö- och jordbruksutskottet",
+          "intressent_id": "0479638936816",
+          "hangar_id": "2342962",
+          "sortering": "40",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "metallarbetare",
+          "typ": "titlar",
+          "intressent_id": "0479638936816",
+          "hangar_id": "2342962"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Metal Worker",
+          "typ": "titlar",
+          "intressent_id": "0479638936816",
+          "hangar_id": "2342962"
+        }
+      ]
+    }
+  }
+}

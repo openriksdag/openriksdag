@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "ba000e8a-be83-4c6f-836d-dc8cd09f2703",
+    "sourceid": "366bb944-025a-4a8c-ac56-0c53796fea00",
+    "intressent_id": "0127096240702",
+    "hangar_id": "2341742",
+    "fodd_ar": "1929",
+    "kon": "man",
+    "efternamn": "Thun",
+    "tilltalsnamn": "Sture",
+    "sorteringsnamn": "Thun,Sture",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/366bb944-025a-4a8c-ac56-0c53796fea00",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/366bb944-025a-4a8c-ac56-0c53796fea00_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/366bb944-025a-4a8c-ac56-0c53796fea00_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/366bb944-025a-4a8c-ac56-0c53796fea00_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "91",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0127096240702",
+          "hangar_id": "2341742",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0127096240702",
+          "hangar_id": "2341742",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0127096240702",
+          "hangar_id": "2341742",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0127096240702",
+          "hangar_id": "2341742",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "VPN",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1988-11-10",
+          "tom": "1991-09-30",
+          "uppgift": "Valprövningsnämnden",
+          "intressent_id": "0127096240702",
+          "hangar_id": "2341742",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "elmästare",
+          "typ": "titlar",
+          "intressent_id": "0127096240702",
+          "hangar_id": "2341742"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0127096240702",
+          "hangar_id": "2341742"
+        }
+      ]
+    }
+  }
+}

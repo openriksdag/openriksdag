@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "783d7f20-a76d-4c15-9d4f-e64b5b77c71b",
+    "sourceid": "10862e5a-91f4-499a-bc7b-33a402246cf5",
+    "intressent_id": "0229037492514",
+    "hangar_id": "2342798",
+    "fodd_ar": "1954",
+    "kon": "kvinna",
+    "efternamn": "Nordenvall",
+    "tilltalsnamn": "Margareta E",
+    "sorteringsnamn": "Nordenvall,Margareta E",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/10862e5a-91f4-499a-bc7b-33a402246cf5",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/10862e5a-91f4-499a-bc7b-33a402246cf5_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/10862e5a-91f4-499a-bc7b-33a402246cf5_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/10862e5a-91f4-499a-bc7b-33a402246cf5_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "57",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1994-10-03",
+          "tom": "1997-09-21",
+          "uppgift": "",
+          "intressent_id": "0229037492514",
+          "hangar_id": "2342798",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1997-09-21",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0229037492514",
+          "hangar_id": "2342798",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1997-09-21",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0229037492514",
+          "hangar_id": "2342798",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "med.dr.leg.läkare",
+          "typ": "titlar",
+          "intressent_id": "0229037492514",
+          "hangar_id": "2342798"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0229037492514",
+          "hangar_id": "2342798"
+        }
+      ]
+    }
+  }
+}

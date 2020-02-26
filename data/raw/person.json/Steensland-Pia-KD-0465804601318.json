@@ -1,0 +1,137 @@
+{
+  "person": {
+    "hangar_guid": "d4664b6a-8a2d-4823-b938-8640305fefa9",
+    "sourceid": "0255b271-a7f0-43bc-9f5b-9fa694990dab",
+    "intressent_id": "0465804601318",
+    "hangar_id": "5003742",
+    "fodd_ar": "1972",
+    "kon": "kvinna",
+    "efternamn": "Steensland",
+    "tilltalsnamn": "Pia",
+    "sorteringsnamn": "Steensland,Pia",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Södermanlands län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/0255b271-a7f0-43bc-9f5b-9fa694990dab",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0255b271-a7f0-43bc-9f5b-9fa694990dab_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0255b271-a7f0-43bc-9f5b-9fa694990dab_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0255b271-a7f0-43bc-9f5b-9fa694990dab_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "324",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0465804601318",
+          "hangar_id": "5003742",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0465804601318",
+          "hangar_id": "5003742",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-24",
+          "tom": "2022-09-26",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0465804601318",
+          "hangar_id": "5003742",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "17",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2018-10-24",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0465804601318",
+          "hangar_id": "5003742",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "25",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-16",
+          "tom": "2022-09-26",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0465804601318",
+          "hangar_id": "5003742",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "pia.steensland[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0465804601318",
+          "hangar_id": "5003742"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "65503",
+          "typ": "telefonnummer",
+          "intressent_id": "0465804601318",
+          "hangar_id": "5003742"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Ph.D., Docent.",
+          "typ": "titlar",
+          "intressent_id": "0465804601318",
+          "hangar_id": "5003742"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0465804601318",
+          "hangar_id": "5003742"
+        }
+      ]
+    }
+  }
+}

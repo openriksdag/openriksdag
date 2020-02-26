@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">2e852ecd-84c4-41c8-9257-b9501089b7f0</hangar_guid>
+<sourceid datatype="string">7a30df9e-ae40-408d-b0af-d3d7abd32604</sourceid>
+<intressent_id datatype="string">0673813596104</intressent_id>
+<hangar_id datatype="int32">2342272</hangar_id>
+<fodd_ar datatype="int16">1944</fodd_ar>
+<kon datatype="string">kvinna</kon>
+<efternamn datatype="string">Wennerlund</efternamn>
+<tilltalsnamn datatype="string">Alwa</tilltalsnamn>
+<sorteringsnamn datatype="string">Wennerlund,Alwa</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">KD</parti>
+<valkrets datatype="string"></valkrets>
+<status datatype="string">Tidigare riksdagsledamot</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/7a30df9e-ae40-408d-b0af-d3d7abd32604</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/7a30df9e-ae40-408d-b0af-d3d7abd32604_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/7a30df9e-ae40-408d-b0af-d3d7abd32604_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/7a30df9e-ae40-408d-b0af-d3d7abd32604_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">183</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1991-09-30</from>
+<tom datatype="datetime">1994-10-03</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0673813596104</intressent_id>
+<hangar_id datatype="int32">2342272</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">KrU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">1991-10-08</from>
+<tom datatype="datetime">1994-10-02</tom>
+<uppgift datatype="string">Kulturutskottet</uppgift>
+<intressent_id datatype="string">0673813596104</intressent_id>
+<hangar_id datatype="int32">2342272</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">UU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">1992-02-10</from>
+<tom datatype="datetime">1994-10-02</tom>
+<uppgift datatype="string">Utrikesutskottet</uppgift>
+<intressent_id datatype="string">0673813596104</intressent_id>
+<hangar_id datatype="int32">2342272</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+<uppgift>
+<kod datatype="string">sv</kod>
+<uppgift datatype="string">marknadsförare</uppgift>
+<typ datatype="string">titlar</typ>
+<intressent_id datatype="string">0673813596104</intressent_id>
+<hangar_id datatype="int32">2342272</hangar_id>
+</uppgift>
+<uppgift>
+<kod datatype="string">en</kod>
+<uppgift datatype="string"></uppgift>
+<typ datatype="string">titlar</typ>
+<intressent_id datatype="string">0673813596104</intressent_id>
+<hangar_id datatype="int32">2342272</hangar_id>
+</uppgift>
+</personuppgift>
+</person>

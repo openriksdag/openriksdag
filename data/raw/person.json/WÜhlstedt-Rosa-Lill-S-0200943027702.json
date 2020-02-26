@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "ab5eef86-7a4c-444a-aac2-b86e515ecc0c",
+    "sourceid": "0db50e98-22c5-422a-9a65-ecc26671f37f",
+    "intressent_id": "0200943027702",
+    "hangar_id": "2342378",
+    "fodd_ar": "1946",
+    "kon": "kvinna",
+    "efternamn": "Wåhlstedt",
+    "tilltalsnamn": "Rosa-Lill",
+    "sorteringsnamn": "Wåhlstedt,Rosa-Lill",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Avliden  1991-05-26",
+    "person_url_xml": "http://data.riksdagen.se/person/0db50e98-22c5-422a-9a65-ecc26671f37f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0db50e98-22c5-422a-9a65-ecc26671f37f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0db50e98-22c5-422a-9a65-ecc26671f37f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0db50e98-22c5-422a-9a65-ecc26671f37f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-05-26",
+          "uppgift": "",
+          "intressent_id": "0200943027702",
+          "hangar_id": "2342378",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-05-26",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0200943027702",
+          "hangar_id": "2342378",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-05-26",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0200943027702",
+          "hangar_id": "2342378",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

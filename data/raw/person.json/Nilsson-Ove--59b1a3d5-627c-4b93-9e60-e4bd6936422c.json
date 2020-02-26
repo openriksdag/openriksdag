@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "c2d56053-8861-491f-921e-d455471ff73b",
+    "sourceid": "59b1a3d5-627c-4b93-9e60-e4bd6936422c",
+    "intressent_id": "",
+    "hangar_id": "4788809",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Nilsson",
+    "tilltalsnamn": "Ove",
+    "sorteringsnamn": "Nilsson,Ove",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Ordförande i Statsrådsarvodesnämnden",
+    "person_url_xml": "http://data.riksdagen.se/person/59b1a3d5-627c-4b93-9e60-e4bd6936422c",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/59b1a3d5-627c-4b93-9e60-e4bd6936422c_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/59b1a3d5-627c-4b93-9e60-e4bd6936422c_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/59b1a3d5-627c-4b93-9e60-e4bd6936422c_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "SN",
+          "roll_kod": "Ordförande",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-11-28",
+          "tom": "2022-11-28",
+          "uppgift": "Statsrådsarvodesnämnden",
+          "intressent_id": "",
+          "hangar_id": "4788809",
+          "sortering": "10",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SN",
+          "roll_kod": "Ordförande",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2014-11-27",
+          "tom": "2018-11-27",
+          "uppgift": "Statsrådsarvodesnämnden",
+          "intressent_id": "",
+          "hangar_id": "4788809",
+          "sortering": "10",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SN",
+          "roll_kod": "Ordförande",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2008-06-04",
+          "tom": "2014-11-27",
+          "uppgift": "Statsrådsarvodesnämnden",
+          "intressent_id": "",
+          "hangar_id": "4788809",
+          "sortering": "10",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "8016443b-36b4-4087-a9e0-64d62a727359",
+    "sourceid": "d5d83d1e-21ba-49c0-8925-330d26b16bea",
+    "intressent_id": "0217339006825",
+    "hangar_id": "3057356",
+    "fodd_ar": "1983",
+    "kon": "man",
+    "efternamn": "Dulny",
+    "tilltalsnamn": "Christoffer",
+    "sorteringsnamn": "Dulny,Christoffer",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Västra Götalands läns östra",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/d5d83d1e-21ba-49c0-8925-330d26b16bea",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d5d83d1e-21ba-49c0-8925-330d26b16bea_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d5d83d1e-21ba-49c0-8925-330d26b16bea_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d5d83d1e-21ba-49c0-8925-330d26b16bea_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Riksdagsledamot",
+        "ordningsnummer": "131",
+        "status": "Tjänstgörande",
+        "typ": "kammaruppdrag",
+        "from": "2014-09-29",
+        "tom": "2014-09-29",
+        "uppgift": "",
+        "intressent_id": "0217339006825",
+        "hangar_id": "3057356",
+        "sortering": "10",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "10"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "christoffer.dulny[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0217339006825",
+          "hangar_id": "3057356"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "66487",
+          "typ": "telefonnummer",
+          "intressent_id": "0217339006825",
+          "hangar_id": "3057356"
+        }
+      ]
+    }
+  }
+}

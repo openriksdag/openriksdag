@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "39273b3c-19e3-4041-993d-d8f586fb97f0",
+    "sourceid": "04af55d8-8fed-4e2f-8f47-035c4e8deb6e",
+    "intressent_id": "0209004049600",
+    "hangar_id": "2342497",
+    "fodd_ar": "1948",
+    "kon": "man",
+    "efternamn": "Attefors",
+    "tilltalsnamn": "Kenneth",
+    "sorteringsnamn": "Attefors,Kenneth",
+    "iort": "",
+    "parti": "NYD",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/04af55d8-8fed-4e2f-8f47-035c4e8deb6e",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/04af55d8-8fed-4e2f-8f47-035c4e8deb6e_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/04af55d8-8fed-4e2f-8f47-035c4e8deb6e_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/04af55d8-8fed-4e2f-8f47-035c4e8deb6e_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "151",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0209004049600",
+          "hangar_id": "2342497",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0209004049600",
+          "hangar_id": "2342497",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "sjökapten",
+          "typ": "titlar",
+          "intressent_id": "0209004049600",
+          "hangar_id": "2342497"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0209004049600",
+          "hangar_id": "2342497"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "person": {
+    "hangar_guid": "a334c32b-0078-42ba-beb3-2cad66ac86f7",
+    "sourceid": "3234a755-70b3-40db-b414-d5afb960ed4e",
+    "intressent_id": "0681030112815",
+    "hangar_id": "3057412",
+    "fodd_ar": "1961",
+    "kon": "man",
+    "efternamn": "Helander",
+    "tilltalsnamn": "Peter",
+    "sorteringsnamn": "Helander,Peter",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Dalarnas län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/3234a755-70b3-40db-b414-d5afb960ed4e",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3234a755-70b3-40db-b414-d5afb960ed4e_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3234a755-70b3-40db-b414-d5afb960ed4e_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3234a755-70b3-40db-b414-d5afb960ed4e_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "309",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0681030112815",
+          "hangar_id": "3057412",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "134",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2016-01-11",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0681030112815",
+          "hangar_id": "3057412",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "RB",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-10-09",
+          "tom": "2022-10-09",
+          "uppgift": "Riksbanksfullmäktige",
+          "intressent_id": "0681030112815",
+          "hangar_id": "3057412",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-01-13",
+          "tom": "2018-09-24",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0681030112815",
+          "hangar_id": "3057412",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "27",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-04-20",
+          "tom": "2018-09-24",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0681030112815",
+          "hangar_id": "3057412",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0681030112815",
+          "hangar_id": "3057412",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "17",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-03-14",
+          "tom": "2022-09-26",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0681030112815",
+          "hangar_id": "3057412",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-03-14",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0681030112815",
+          "hangar_id": "3057412",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-01-13",
+          "tom": "2018-09-24",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0681030112815",
+          "hangar_id": "3057412",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "peter.helander[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0681030112815",
+          "hangar_id": "3057412"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Egen företagare.",
+          "typ": "titlar",
+          "intressent_id": "0681030112815",
+          "hangar_id": "3057412"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0681030112815",
+          "hangar_id": "3057412"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0681030112815",
+          "hangar_id": "3057412"
+        }
+      ]
+    }
+  }
+}

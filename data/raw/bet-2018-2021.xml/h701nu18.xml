@@ -1,0 +1,183 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5053841</hangar_id>
+    <dok_id datatype="string">H701NU18</dok_id>
+    <rm datatype="string">2019/20</rm>
+    <beteckning datatype="string">NU18</beteckning>
+    <typ datatype="string">bet</typ>
+    <subtyp datatype="string">bet</subtyp>
+    <doktyp datatype="string">bet</doktyp>
+    <typrubrik datatype="string">Betänkande 2019/20:NU18</typrubrik>
+    <dokumentnamn datatype="string">Betänkande</dokumentnamn>
+    <debattnamn datatype="string">Debatt om förslag</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">NU</organ>
+    <mottagare datatype="string"></mottagare>
+    <nummer datatype="int32">18</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2020-01-28 00:00:00</datum>
+    <systemdatum datatype="datetime">2020-01-28 15:49:22</systemdatum>
+    <publicerad datatype="datetime">2020-01-28 09:22:10</publicerad>
+    <titel datatype="string">Skärpt straff för de allvarligaste fallen av immaterialrättsintrång</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">planerat</status>
+    <htmlformat datatype="string"></htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">Brus</source>
+    <sourceid datatype="string">bcf04399-1dd1-4284-9643-9d4947006eb5</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H701NU18/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H701NU18</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H701NU18</dokumentstatus_url_xml>
+    <utskottsforslag_url_xml datatype="stext">http://data.riksdagen.se/utskottsforslag/H701NU18</utskottsforslag_url_xml>
+    <html datatype="text">&lt;h2&gt;Skärpt straff för de allvarligaste fallen av immaterialrättsintrång&lt;/h2&gt;
+Dokumentet är inte publicerat</html>
+  </dokument>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">UBE</kod>
+<namn datatype="string">Beredning</namn>
+<datum datatype="datetime">2020-05-07 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">JUS</kod>
+<namn datatype="string">Justering</namn>
+<datum datatype="datetime">2020-06-02 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">TRY</kod>
+<namn datatype="string">Trycklov</namn>
+<datum datatype="datetime">2020-06-04 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+</dokaktivitet>
+<dokreferens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:392 En upphovsrätt anpassad efter det digitala samhället</uppgift>
+<ref_dok_id datatype="string">H702392</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">392</ref_dok_bet>
+<ref_dok_titel datatype="string">En upphovsrätt anpassad efter det digitala samhället</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2677 Fler företag och stärkt konkurrenskraft</uppgift>
+<ref_dok_id datatype="string">H7022677</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2677</ref_dok_bet>
+<ref_dok_titel datatype="string">Fler företag och stärkt konkurrenskraft</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:684 Fri spridning av offentlig konst</uppgift>
+<ref_dok_id datatype="string">H702684</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">684</ref_dok_bet>
+<ref_dok_titel datatype="string">Fri spridning av offentlig konst</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3263 Digitalisering</uppgift>
+<ref_dok_id datatype="string">H7023263</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3263</ref_dok_bet>
+<ref_dok_titel datatype="string">Digitalisering</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2414 Registrering av och handel med upphovsrätt och immateriella rättigheter i Sverige</uppgift>
+<ref_dok_id datatype="string">H7022414</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2414</ref_dok_bet>
+<ref_dok_titel datatype="string">Registrering av och handel med upphovsrätt och immateriella rättigheter i Sverige</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1560 Privatkopieringsersättning</uppgift>
+<ref_dok_id datatype="string">H7021560</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1560</ref_dok_bet>
+<ref_dok_titel datatype="string">Privatkopieringsersättning</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1768 Panoramafrihet</uppgift>
+<ref_dok_id datatype="string">H7021768</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1768</ref_dok_bet>
+<ref_dok_titel datatype="string">Panoramafrihet</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:693 En fungerande politik för alla samer i och utanför Sápmi</uppgift>
+<ref_dok_id datatype="string">H702693</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">693</ref_dok_bet>
+<ref_dok_titel datatype="string">En fungerande politik för alla samer i och utanför Sápmi</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1699 Lagför innehav av falska produkter</uppgift>
+<ref_dok_id datatype="string">H7021699</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1699</ref_dok_bet>
+<ref_dok_titel datatype="string">Lagför innehav av falska produkter</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3150 Civilrättsliga sanktioner på immaterialrättens område</uppgift>
+<ref_dok_id datatype="string">H7023150</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3150</ref_dok_bet>
+<ref_dok_titel datatype="string">Civilrättsliga sanktioner på immaterialrättens område</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+</dokreferens>
+<debatt /></dokumentstatus>

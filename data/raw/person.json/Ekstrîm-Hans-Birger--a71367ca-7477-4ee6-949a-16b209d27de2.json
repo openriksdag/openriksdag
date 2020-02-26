@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "17203350-41f5-4f86-95f5-3b93e43f6369",
+    "sourceid": "a71367ca-7477-4ee6-949a-16b209d27de2",
+    "intressent_id": "",
+    "hangar_id": "4788820",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Ekström",
+    "tilltalsnamn": "Hans Birger",
+    "sorteringsnamn": "Ekström,Hans Birger",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Ledamot i Riksbanksfullmäktige",
+    "person_url_xml": "http://data.riksdagen.se/person/a71367ca-7477-4ee6-949a-16b209d27de2",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a71367ca-7477-4ee6-949a-16b209d27de2_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a71367ca-7477-4ee6-949a-16b209d27de2_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a71367ca-7477-4ee6-949a-16b209d27de2_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "RB",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-10-09",
+          "tom": "2022-10-09",
+          "uppgift": "Riksbanksfullmäktige",
+          "intressent_id": "",
+          "hangar_id": "4788820",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RB",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2014-10-14",
+          "tom": "2018-10-09",
+          "uppgift": "Riksbanksfullmäktige",
+          "intressent_id": "",
+          "hangar_id": "4788820",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RB",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2010-10-19",
+          "tom": "2014-10-14",
+          "uppgift": "Riksbanksfullmäktige",
+          "intressent_id": "",
+          "hangar_id": "4788820",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

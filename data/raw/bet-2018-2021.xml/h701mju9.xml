@@ -1,0 +1,452 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5045846</hangar_id>
+    <dok_id datatype="string">H701MJU9</dok_id>
+    <rm datatype="string">2019/20</rm>
+    <beteckning datatype="string">MJU9</beteckning>
+    <typ datatype="string">bet</typ>
+    <subtyp datatype="string">bet</subtyp>
+    <doktyp datatype="string">bet</doktyp>
+    <typrubrik datatype="string">Betänkande 2019/20:MJU9</typrubrik>
+    <dokumentnamn datatype="string">Betänkande</dokumentnamn>
+    <debattnamn datatype="string">Debatt om förslag</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">MJU</organ>
+    <mottagare datatype="string"></mottagare>
+    <nummer datatype="int32">9</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2020-01-28 00:00:00</datum>
+    <systemdatum datatype="datetime">2020-01-31 15:58:32</systemdatum>
+    <publicerad datatype="datetime">2020-01-28 11:22:20</publicerad>
+    <titel datatype="string">Djurskydd</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">planerat</status>
+    <htmlformat datatype="string"></htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">Brus</source>
+    <sourceid datatype="string">d7d19da3-a942-4a80-a25d-bafe0542715b</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H701MJU9/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H701MJU9</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H701MJU9</dokumentstatus_url_xml>
+    <utskottsforslag_url_xml datatype="stext">http://data.riksdagen.se/utskottsforslag/H701MJU9</utskottsforslag_url_xml>
+    <html datatype="text">&lt;h2&gt;Djurskydd&lt;/h2&gt;
+Dokumentet är inte publicerat</html>
+  </dokument>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">UBE</kod>
+<namn datatype="string">Beredning</namn>
+<datum datatype="datetime">2020-01-30 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">UBE</kod>
+<namn datatype="string">Beredning</namn>
+<datum datatype="datetime">2020-02-18 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">JUS</kod>
+<namn datatype="string">Justering</namn>
+<datum datatype="datetime">2020-03-03 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">TRY</kod>
+<namn datatype="string">Trycklov</namn>
+<datum datatype="datetime">2020-03-12 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+</dokaktivitet>
+<dokuppgift>
+<uppgift>
+<kod datatype="string">statustext</kod>
+<namn datatype="string">statustext</namn>
+<text datatype="string">Utskottet arbetar med ärendet</text>
+<dok_id datatype="string">H701MJU9</dok_id>
+<systemdatum datatype="datetime">2020-01-30 12:03:26</systemdatum>
+</uppgift>
+</dokuppgift>
+<dokreferens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:602 Ett stärkt djurskydd</uppgift>
+<ref_dok_id datatype="string">H702602</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">602</ref_dok_bet>
+<ref_dok_titel datatype="string">Ett stärkt djurskydd</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1925 Avveckla djurparker </uppgift>
+<ref_dok_id datatype="string">H7021925</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1925</ref_dok_bet>
+<ref_dok_titel datatype="string">Avveckla djurparker </ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3179 Skärpta krav för bl.a. trubbnosdjur</uppgift>
+<ref_dok_id datatype="string">H7023179</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3179</ref_dok_bet>
+<ref_dok_titel datatype="string">Skärpta krav för bl.a. trubbnosdjur</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3260 Hållbara gröna näringar</uppgift>
+<ref_dok_id datatype="string">H7023260</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3260</ref_dok_bet>
+<ref_dok_titel datatype="string">Hållbara gröna näringar</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:603 Det svenska jordbruket</uppgift>
+<ref_dok_id datatype="string">H702603</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">603</ref_dok_bet>
+<ref_dok_titel datatype="string">Det svenska jordbruket</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3152 Privatisera distriktsveterinärverksamheten</uppgift>
+<ref_dok_id datatype="string">H7023152</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3152</ref_dok_bet>
+<ref_dok_titel datatype="string">Privatisera distriktsveterinärverksamheten</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3211 Obedövad slakt och foie gras</uppgift>
+<ref_dok_id datatype="string">H7023211</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3211</ref_dok_bet>
+<ref_dok_titel datatype="string">Obedövad slakt och foie gras</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3213 Djurbalk, djurskyddsmyndighet samt internationellt erkänd deklaration om djurs välfärd</uppgift>
+<ref_dok_id datatype="string">H7023213</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3213</ref_dok_bet>
+<ref_dok_titel datatype="string">Djurbalk, djurskyddsmyndighet samt internationellt erkänd deklaration om djurs välfärd</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3200 Förhindra vanvård av katter</uppgift>
+<ref_dok_id datatype="string">H7023200</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3200</ref_dok_bet>
+<ref_dok_titel datatype="string">Förhindra vanvård av katter</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:971 Ett slutdatum för burarna i den svenska äggindustrin</uppgift>
+<ref_dok_id datatype="string">H702971</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">971</ref_dok_bet>
+<ref_dok_titel datatype="string">Ett slutdatum för burarna i den svenska äggindustrin</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2486 Hästens betydelse för Sverige </uppgift>
+<ref_dok_id datatype="string">H7022486</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2486</ref_dok_bet>
+<ref_dok_titel datatype="string">Hästens betydelse för Sverige </ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2669 Bättre förutsättningar för svenskt jordbruk och svensk livsmedelsproduktion</uppgift>
+<ref_dok_id datatype="string">H7022669</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2669</ref_dok_bet>
+<ref_dok_titel datatype="string">Bättre förutsättningar för svenskt jordbruk och svensk livsmedelsproduktion</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3370 Tydligare märkning av kött från djur som slaktas utan bedövning</uppgift>
+<ref_dok_id datatype="string">H7023370</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3370</ref_dok_bet>
+<ref_dok_titel datatype="string">Tydligare märkning av kött från djur som slaktas utan bedövning</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2760 Utgiftsområde 23 Areella näringar, landsbygd och livsmedel</uppgift>
+<ref_dok_id datatype="string">H7022760</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2760</ref_dok_bet>
+<ref_dok_titel datatype="string">Utgiftsområde 23 Areella näringar, landsbygd och livsmedel</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1544 Registrering och id-märkning av katter</uppgift>
+<ref_dok_id datatype="string">H7021544</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1544</ref_dok_bet>
+<ref_dok_titel datatype="string">Registrering och id-märkning av katter</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2685 Förbud mot halal- och koscherslakt</uppgift>
+<ref_dok_id datatype="string">H7022685</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2685</ref_dok_bet>
+<ref_dok_titel datatype="string">Förbud mot halal- och koscherslakt</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1329 Ökad beredskap för ett eventuellt utbrott av svinpest i Sverige</uppgift>
+<ref_dok_id datatype="string">H7021329</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1329</ref_dok_bet>
+<ref_dok_titel datatype="string">Ökad beredskap för ett eventuellt utbrott av svinpest i Sverige</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3057 Skärpta straff för djurplågeri</uppgift>
+<ref_dok_id datatype="string">H7023057</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3057</ref_dok_bet>
+<ref_dok_titel datatype="string">Skärpta straff för djurplågeri</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:576 Förbud mot att hålla delfiner i fångenskap</uppgift>
+<ref_dok_id datatype="string">H702576</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">576</ref_dok_bet>
+<ref_dok_titel datatype="string">Förbud mot att hålla delfiner i fångenskap</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:606 Sverigevänlig konsumentpolitik</uppgift>
+<ref_dok_id datatype="string">H702606</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">606</ref_dok_bet>
+<ref_dok_titel datatype="string">Sverigevänlig konsumentpolitik</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:675 Förbjud försäljning av fjädrar av fågeldun</uppgift>
+<ref_dok_id datatype="string">H702675</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">675</ref_dok_bet>
+<ref_dok_titel datatype="string">Förbjud försäljning av fjädrar av fågeldun</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1422 Märkning och registrering av katter</uppgift>
+<ref_dok_id datatype="string">H7021422</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1422</ref_dok_bet>
+<ref_dok_titel datatype="string">Märkning och registrering av katter</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:699 Gårdsnära slakt</uppgift>
+<ref_dok_id datatype="string">H702699</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">699</ref_dok_bet>
+<ref_dok_titel datatype="string">Gårdsnära slakt</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2241 Systematiskt arbete mot antibiotikaresistens</uppgift>
+<ref_dok_id datatype="string">H7022241</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2241</ref_dok_bet>
+<ref_dok_titel datatype="string">Systematiskt arbete mot antibiotikaresistens</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2857 Översyn av den etiska prövningen av djurförsök</uppgift>
+<ref_dok_id datatype="string">H7022857</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2857</ref_dok_bet>
+<ref_dok_titel datatype="string">Översyn av den etiska prövningen av djurförsök</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2118 Förbjud alla djur på cirkus </uppgift>
+<ref_dok_id datatype="string">H7022118</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2118</ref_dok_bet>
+<ref_dok_titel datatype="string">Förbjud alla djur på cirkus </ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3106 Frihetsreformer för Sveriges landsbygd</uppgift>
+<ref_dok_id datatype="string">H7023106</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3106</ref_dok_bet>
+<ref_dok_titel datatype="string">Frihetsreformer för Sveriges landsbygd</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:598 Svenska livsmedel</uppgift>
+<ref_dok_id datatype="string">H702598</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">598</ref_dok_bet>
+<ref_dok_titel datatype="string">Svenska livsmedel</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1782 Undantag från regeln som kräver att nötdjur ska ha sällskap av artfrände</uppgift>
+<ref_dok_id datatype="string">H7021782</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1782</ref_dok_bet>
+<ref_dok_titel datatype="string">Undantag från regeln som kräver att nötdjur ska ha sällskap av artfrände</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3199 Förbud mot valar i fångenskap</uppgift>
+<ref_dok_id datatype="string">H7023199</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3199</ref_dok_bet>
+<ref_dok_titel datatype="string">Förbud mot valar i fångenskap</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1303 Underlätta insamlingen av chronic wasting disease-prover</uppgift>
+<ref_dok_id datatype="string">H7021303</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1303</ref_dok_bet>
+<ref_dok_titel datatype="string">Underlätta insamlingen av chronic wasting disease-prover</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+</dokreferens>
+<debatt /></dokumentstatus>

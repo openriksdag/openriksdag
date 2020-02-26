@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "5108b657-3310-4120-be32-d8d5946cea17",
+    "sourceid": "c98474d0-9fda-4dbe-b59b-4292f2284f96",
+    "intressent_id": "0654651796309",
+    "hangar_id": "2342091",
+    "fodd_ar": "1940",
+    "kon": "man",
+    "efternamn": "Lassen",
+    "tilltalsnamn": "Frank",
+    "sorteringsnamn": "Lassen,Frank",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/c98474d0-9fda-4dbe-b59b-4292f2284f96",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c98474d0-9fda-4dbe-b59b-4292f2284f96_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c98474d0-9fda-4dbe-b59b-4292f2284f96_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c98474d0-9fda-4dbe-b59b-4292f2284f96_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "255",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1996-07-01",
+          "tom": "1998-10-05",
+          "uppgift": "",
+          "intressent_id": "0654651796309",
+          "hangar_id": "2342091",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "253",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1995-10-03",
+          "tom": "1996-06-30",
+          "uppgift": "Bo Finnkvist",
+          "intressent_id": "0654651796309",
+          "hangar_id": "2342091",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1996-11-20",
+          "tom": "1998-10-04",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0654651796309",
+          "hangar_id": "2342091",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1995-10-10",
+          "tom": "1996-06-30",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0654651796309",
+          "hangar_id": "2342091",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "diversearbetare",
+          "typ": "titlar",
+          "intressent_id": "0654651796309",
+          "hangar_id": "2342091"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0654651796309",
+          "hangar_id": "2342091"
+        }
+      ]
+    }
+  }
+}

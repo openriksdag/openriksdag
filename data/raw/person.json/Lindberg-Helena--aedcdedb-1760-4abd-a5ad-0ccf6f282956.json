@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "e9db47cc-fc17-4a32-b32c-41572931d41d",
+    "sourceid": "aedcdedb-1760-4abd-a5ad-0ccf6f282956",
+    "intressent_id": "",
+    "hangar_id": "4788878",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Lindberg",
+    "tilltalsnamn": "Helena",
+    "sorteringsnamn": "Lindberg,Helena",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Riksrevisor i Riksrevisorerna",
+    "person_url_xml": "http://data.riksdagen.se/person/aedcdedb-1760-4abd-a5ad-0ccf6f282956",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/aedcdedb-1760-4abd-a5ad-0ccf6f282956_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/aedcdedb-1760-4abd-a5ad-0ccf6f282956_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/aedcdedb-1760-4abd-a5ad-0ccf6f282956_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RR",
+        "roll_kod": "Riksrevisor",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2017-03-15",
+        "tom": "2023-03-15",
+        "uppgift": "Riksrevisorerna",
+        "intressent_id": "",
+        "hangar_id": "4788878",
+        "sortering": "",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

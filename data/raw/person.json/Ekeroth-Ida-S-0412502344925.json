@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "64a6f22a-6823-4ae1-bb14-aa87b7a33260",
+    "sourceid": "8e2f51ce-da1c-4832-9708-20fd1923b2f3",
+    "intressent_id": "0412502344925",
+    "hangar_id": "3057359",
+    "fodd_ar": "1991",
+    "kon": "kvinna",
+    "efternamn": "Ekeroth",
+    "tilltalsnamn": "Ida",
+    "sorteringsnamn": "Ekeroth,Ida",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Västra Götalands läns östra",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/8e2f51ce-da1c-4832-9708-20fd1923b2f3",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8e2f51ce-da1c-4832-9708-20fd1923b2f3_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8e2f51ce-da1c-4832-9708-20fd1923b2f3_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8e2f51ce-da1c-4832-9708-20fd1923b2f3_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Talmansersättare",
+          "ordningsnummer": "18",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2015-10-12",
+          "tom": "2015-12-31",
+          "uppgift": "Urban Ahlin",
+          "intressent_id": "0412502344925",
+          "hangar_id": "3057359",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2015-10-12",
+          "tom": "2015-12-31",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0412502344925",
+          "hangar_id": "3057359",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2015-10-12",
+          "tom": "2015-12-31",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0412502344925",
+          "hangar_id": "3057359",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "ida.ekeroth[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0412502344925",
+          "hangar_id": "3057359"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0412502344925",
+          "hangar_id": "3057359"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "person": {
+    "hangar_guid": "0769a3e9-31fa-4aa4-a034-d0a7351acd55",
+    "sourceid": "2b6d77ba-9bda-4c59-98f2-78c898899f5e",
+    "intressent_id": "0246624521815",
+    "hangar_id": "2369602",
+    "fodd_ar": "1971",
+    "kon": "kvinna",
+    "efternamn": "Östring Bergman",
+    "tilltalsnamn": "Karin",
+    "sorteringsnamn": "Östring Bergman,Karin",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Göteborgs kommun",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/2b6d77ba-9bda-4c59-98f2-78c898899f5e",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2b6d77ba-9bda-4c59-98f2-78c898899f5e_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2b6d77ba-9bda-4c59-98f2-78c898899f5e_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2b6d77ba-9bda-4c59-98f2-78c898899f5e_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "332",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2014-03-03",
+          "tom": "2014-04-03",
+          "uppgift": "Anders Flanking",
+          "intressent_id": "0246624521815",
+          "hangar_id": "2369602",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "332",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2013-10-21",
+          "tom": "2013-12-20",
+          "uppgift": "Anders Flanking",
+          "intressent_id": "0246624521815",
+          "hangar_id": "2369602",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-03-03",
+          "tom": "2014-04-03",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0246624521815",
+          "hangar_id": "2369602",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2013-11-13",
+          "tom": "2013-12-20",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0246624521815",
+          "hangar_id": "2369602",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-03-03",
+          "tom": "2014-04-03",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0246624521815",
+          "hangar_id": "2369602",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-03-03",
+          "tom": "2014-04-03",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0246624521815",
+          "hangar_id": "2369602",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2013-10-23",
+          "tom": "2013-12-20",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0246624521815",
+          "hangar_id": "2369602",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "karin.ostring.bergman[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0246624521815",
+          "hangar_id": "2369602"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "66526",
+          "typ": "telefonnummer",
+          "intressent_id": "0246624521815",
+          "hangar_id": "2369602"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0246624521815",
+          "hangar_id": "2369602"
+        }
+      ]
+    }
+  }
+}

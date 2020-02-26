@@ -1,0 +1,82 @@
+{
+  "person": {
+    "hangar_guid": "5b665f97-db25-4258-bb00-0a3cd9023418",
+    "sourceid": "a6a8678d-8fe2-414c-9dc4-da76ad161d23",
+    "intressent_id": "0737666060225",
+    "hangar_id": "5003943",
+    "fodd_ar": "1976",
+    "kon": "man",
+    "efternamn": "Järrebring",
+    "tilltalsnamn": "Joakim",
+    "sorteringsnamn": "Järrebring,Joakim",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Västra Götalands läns västra",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/a6a8678d-8fe2-414c-9dc4-da76ad161d23",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a6a8678d-8fe2-414c-9dc4-da76ad161d23_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a6a8678d-8fe2-414c-9dc4-da76ad161d23_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a6a8678d-8fe2-414c-9dc4-da76ad161d23_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "337",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0737666060225",
+          "hangar_id": "5003943",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0737666060225",
+          "hangar_id": "5003943",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "joakim.jarrebring[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0737666060225",
+          "hangar_id": "5003943"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Facklig ombudsman.",
+          "typ": "titlar",
+          "intressent_id": "0737666060225",
+          "hangar_id": "5003943"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0737666060225",
+          "hangar_id": "5003943"
+        }
+      ]
+    }
+  }
+}

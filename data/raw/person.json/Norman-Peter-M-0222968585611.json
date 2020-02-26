@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "131d4246-f715-4798-9c11-aca61cf25514",
+    "sourceid": "261f2d98-f06e-4286-b574-c4b20bcfb1e9",
+    "intressent_id": "0222968585611",
+    "hangar_id": "2370269",
+    "fodd_ar": "1958",
+    "kon": "man",
+    "efternamn": "Norman",
+    "tilltalsnamn": "Peter",
+    "sorteringsnamn": "Norman,Peter",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare statsråd",
+    "person_url_xml": "http://data.riksdagen.se/person/261f2d98-f06e-4286-b574-c4b20bcfb1e9",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/261f2d98-f06e-4286-b574-c4b20bcfb1e9_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/261f2d98-f06e-4286-b574-c4b20bcfb1e9_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/261f2d98-f06e-4286-b574-c4b20bcfb1e9_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "Fi",
+        "roll_kod": "Statsråd",
+        "ordningsnummer": "13",
+        "status": "",
+        "typ": "Departement",
+        "from": "2010-10-06",
+        "tom": "2014-10-03",
+        "uppgift": "Finansdepartementet",
+        "intressent_id": "0222968585611",
+        "hangar_id": "2370269",
+        "sortering": "100",
+        "organ_sortering": "",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Ekonom",
+          "typ": "titlar",
+          "intressent_id": "0222968585611",
+          "hangar_id": "2370269"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0222968585611",
+          "hangar_id": "2370269"
+        }
+      ]
+    }
+  }
+}

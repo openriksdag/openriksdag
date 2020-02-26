@@ -1,0 +1,517 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5053281</hangar_id>
+    <dok_id datatype="string">H701TU15</dok_id>
+    <rm datatype="string">2019/20</rm>
+    <beteckning datatype="string">TU15</beteckning>
+    <typ datatype="string">bet</typ>
+    <subtyp datatype="string">bet</subtyp>
+    <doktyp datatype="string">bet</doktyp>
+    <typrubrik datatype="string">Betänkande 2019/20:TU15</typrubrik>
+    <dokumentnamn datatype="string">Betänkande</dokumentnamn>
+    <debattnamn datatype="string">Debatt om förslag</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">TU</organ>
+    <mottagare datatype="string"></mottagare>
+    <nummer datatype="int32">15</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2020-01-16 00:00:00</datum>
+    <systemdatum datatype="datetime">2020-01-28 13:08:05</systemdatum>
+    <publicerad datatype="datetime">2020-01-16 16:56:53</publicerad>
+    <titel datatype="string">Järnvägs- och kollektivtrafikfrågor</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">planerat</status>
+    <htmlformat datatype="string"></htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">Brus</source>
+    <sourceid datatype="string">0270e267-bbb2-46ee-99eb-5beb72019db7</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H701TU15/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H701TU15</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H701TU15</dokumentstatus_url_xml>
+    <utskottsforslag_url_xml datatype="stext">http://data.riksdagen.se/utskottsforslag/H701TU15</utskottsforslag_url_xml>
+    <html datatype="text">&lt;h2&gt;Järnvägs- och kollektivtrafikfrågor&lt;/h2&gt;
+Dokumentet är inte publicerat</html>
+  </dokument>
+<dokreferens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1528 Bygg de nya stambanorna för höghastighetståg med grön betong och andra miljökrav</uppgift>
+<ref_dok_id datatype="string">H7021528</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1528</ref_dok_bet>
+<ref_dok_titel datatype="string">Bygg de nya stambanorna för höghastighetståg med grön betong och andra miljökrav</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2775 Utgiftsområde 22 Kommunikationer</uppgift>
+<ref_dok_id datatype="string">H7022775</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2775</ref_dok_bet>
+<ref_dok_titel datatype="string">Utgiftsområde 22 Kommunikationer</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:615 En konkurrenskraftig svensk järnväg</uppgift>
+<ref_dok_id datatype="string">H702615</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">615</ref_dok_bet>
+<ref_dok_titel datatype="string">En konkurrenskraftig svensk järnväg</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2731 Bygg nya stambanor för höghastighetståg</uppgift>
+<ref_dok_id datatype="string">H7022731</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2731</ref_dok_bet>
+<ref_dok_titel datatype="string">Bygg nya stambanor för höghastighetståg</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2557 Jönköpings län, Götalandsbanan och Europakorridoren</uppgift>
+<ref_dok_id datatype="string">H7022557</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2557</ref_dok_bet>
+<ref_dok_titel datatype="string">Jönköpings län, Götalandsbanan och Europakorridoren</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2597 Transporter för jobb och tillväxt</uppgift>
+<ref_dok_id datatype="string">H7022597</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2597</ref_dok_bet>
+<ref_dok_titel datatype="string">Transporter för jobb och tillväxt</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2746 Liberal infrastruktur för en hållbar framtid</uppgift>
+<ref_dok_id datatype="string">H7022746</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2746</ref_dok_bet>
+<ref_dok_titel datatype="string">Liberal infrastruktur för en hållbar framtid</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3246 En hållbar infrastruktur för hela landet</uppgift>
+<ref_dok_id datatype="string">H7023246</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3246</ref_dok_bet>
+<ref_dok_titel datatype="string">En hållbar infrastruktur för hela landet</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1623 Stärkt järnväg och kollektivtrafik för en fossilfri transportsektor</uppgift>
+<ref_dok_id datatype="string">H7021623</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1623</ref_dok_bet>
+<ref_dok_titel datatype="string">Stärkt järnväg och kollektivtrafik för en fossilfri transportsektor</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2387 Möjlighet för andra aktörer att sälja biljetter via SJ:s webbplats och app</uppgift>
+<ref_dok_id datatype="string">H7022387</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2387</ref_dok_bet>
+<ref_dok_titel datatype="string">Möjlighet för andra aktörer att sälja biljetter via SJ:s webbplats och app</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3264 Ledarskap för klimat och grön omställning</uppgift>
+<ref_dok_id datatype="string">H7023264</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3264</ref_dok_bet>
+<ref_dok_titel datatype="string">Ledarskap för klimat och grön omställning</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:233 Trådbuss i tätortstrafik</uppgift>
+<ref_dok_id datatype="string">H702233</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">233</ref_dok_bet>
+<ref_dok_titel datatype="string">Trådbuss i tätortstrafik</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2075 Skärpta åtgärder mot spårspring</uppgift>
+<ref_dok_id datatype="string">H7022075</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2075</ref_dok_bet>
+<ref_dok_titel datatype="string">Skärpta åtgärder mot spårspring</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:328 Resenärernas möjlighet att påverka kollektivtrafiken</uppgift>
+<ref_dok_id datatype="string">H702328</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">328</ref_dok_bet>
+<ref_dok_titel datatype="string">Resenärernas möjlighet att påverka kollektivtrafiken</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1630 Förändrade prioriteringsregler för spårlägen för tåg</uppgift>
+<ref_dok_id datatype="string">H7021630</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1630</ref_dok_bet>
+<ref_dok_titel datatype="string">Förändrade prioriteringsregler för spårlägen för tåg</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1209 Kollektivtrafik över länsgränser</uppgift>
+<ref_dok_id datatype="string">H7021209</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1209</ref_dok_bet>
+<ref_dok_titel datatype="string">Kollektivtrafik över länsgränser</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:867 Hållbar sjöfart</uppgift>
+<ref_dok_id datatype="string">H702867</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">867</ref_dok_bet>
+<ref_dok_titel datatype="string">Hållbar sjöfart</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:614 En konkurrenskraftig svensk sjöfart</uppgift>
+<ref_dok_id datatype="string">H702614</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">614</ref_dok_bet>
+<ref_dok_titel datatype="string">En konkurrenskraftig svensk sjöfart</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2098 Höghastighetsbana Oslo-Göteborg-Köpenhamn</uppgift>
+<ref_dok_id datatype="string">H7022098</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2098</ref_dok_bet>
+<ref_dok_titel datatype="string">Höghastighetsbana Oslo-Göteborg-Köpenhamn</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:612 En konkurrenskraftig svensk flygindustri</uppgift>
+<ref_dok_id datatype="string">H702612</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">612</ref_dok_bet>
+<ref_dok_titel datatype="string">En konkurrenskraftig svensk flygindustri</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:505 Europeiskt bokningssystem för tågresande</uppgift>
+<ref_dok_id datatype="string">H702505</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">505</ref_dok_bet>
+<ref_dok_titel datatype="string">Europeiskt bokningssystem för tågresande</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1129 Förändring av prioriteringar vid tågförseningar samt att införa en nationell trafikledning</uppgift>
+<ref_dok_id datatype="string">H7021129</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1129</ref_dok_bet>
+<ref_dok_titel datatype="string">Förändring av prioriteringar vid tågförseningar samt att införa en nationell trafikledning</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3107 Ansvar och resultat för klimat och miljö</uppgift>
+<ref_dok_id datatype="string">H7023107</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3107</ref_dok_bet>
+<ref_dok_titel datatype="string">Ansvar och resultat för klimat och miljö</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2209 En familjevänlig tågtrafik</uppgift>
+<ref_dok_id datatype="string">H7022209</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2209</ref_dok_bet>
+<ref_dok_titel datatype="string">En familjevänlig tågtrafik</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:873 Värmedetektorer mot banvallsbränder</uppgift>
+<ref_dok_id datatype="string">H702873</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">873</ref_dok_bet>
+<ref_dok_titel datatype="string">Värmedetektorer mot banvallsbränder</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2873 Konkurrensneutral biljettplattform</uppgift>
+<ref_dok_id datatype="string">H7022873</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2873</ref_dok_bet>
+<ref_dok_titel datatype="string">Konkurrensneutral biljettplattform</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1035 Gotlandstrafiken</uppgift>
+<ref_dok_id datatype="string">H7021035</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1035</ref_dok_bet>
+<ref_dok_titel datatype="string">Gotlandstrafiken</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:888 Nationell rullstolstaxi</uppgift>
+<ref_dok_id datatype="string">H702888</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">888</ref_dok_bet>
+<ref_dok_titel datatype="string">Nationell rullstolstaxi</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1629 Vite på ej nyttjade beviljade spårlägen</uppgift>
+<ref_dok_id datatype="string">H7021629</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1629</ref_dok_bet>
+<ref_dok_titel datatype="string">Vite på ej nyttjade beviljade spårlägen</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3358 Liberal politik för utveckling och företagande i hela Sverige</uppgift>
+<ref_dok_id datatype="string">H7023358</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3358</ref_dok_bet>
+<ref_dok_titel datatype="string">Liberal politik för utveckling och företagande i hela Sverige</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:864 Tillgänglighet på nattåg</uppgift>
+<ref_dok_id datatype="string">H702864</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">864</ref_dok_bet>
+<ref_dok_titel datatype="string">Tillgänglighet på nattåg</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1144 Kvalitetskrav vid upphandling av resor för funktionshindrade</uppgift>
+<ref_dok_id datatype="string">H7021144</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1144</ref_dok_bet>
+<ref_dok_titel datatype="string">Kvalitetskrav vid upphandling av resor för funktionshindrade</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:911 Gränsregional statistik</uppgift>
+<ref_dok_id datatype="string">H702911</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">911</ref_dok_bet>
+<ref_dok_titel datatype="string">Gränsregional statistik</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1850 Åtgärder för att uppnå målet om minskade utsläpp från inrikes transporter</uppgift>
+<ref_dok_id datatype="string">H7021850</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1850</ref_dok_bet>
+<ref_dok_titel datatype="string">Åtgärder för att uppnå målet om minskade utsläpp från inrikes transporter</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3351 Liberal politik för klimatet</uppgift>
+<ref_dok_id datatype="string">H7023351</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3351</ref_dok_bet>
+<ref_dok_titel datatype="string">Liberal politik för klimatet</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2117 Färdtjänst över nationsgränser</uppgift>
+<ref_dok_id datatype="string">H7022117</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2117</ref_dok_bet>
+<ref_dok_titel datatype="string">Färdtjänst över nationsgränser</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1631 Skapa fleråriga tågplaner</uppgift>
+<ref_dok_id datatype="string">H7021631</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1631</ref_dok_bet>
+<ref_dok_titel datatype="string">Skapa fleråriga tågplaner</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2045 Förtydliga färdtjänstreglerna</uppgift>
+<ref_dok_id datatype="string">H7022045</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2045</ref_dok_bet>
+<ref_dok_titel datatype="string">Förtydliga färdtjänstreglerna</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:803 Översyn av färdtjänsten</uppgift>
+<ref_dok_id datatype="string">H702803</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">803</ref_dok_bet>
+<ref_dok_titel datatype="string">Översyn av färdtjänsten</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:851 Krav på verksamhetsövergång och meddelarfrihet vid upphandlingar i kollektivtrafiken</uppgift>
+<ref_dok_id datatype="string">H702851</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">851</ref_dok_bet>
+<ref_dok_titel datatype="string">Krav på verksamhetsövergång och meddelarfrihet vid upphandlingar i kollektivtrafiken</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+</dokreferens>
+<debatt /></dokumentstatus>

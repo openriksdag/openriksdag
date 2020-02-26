@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "5f85cc1d-5a65-4e1a-a836-d36c3bac7c27",
+    "sourceid": "55825680-b776-4622-9b18-eb0a0d88e7ac",
+    "intressent_id": "0432998314415",
+    "hangar_id": "2369681",
+    "fodd_ar": "1956",
+    "kon": "kvinna",
+    "efternamn": "Duàn",
+    "tilltalsnamn": "Annika",
+    "sorteringsnamn": "Duàn,Annika",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Västmanlands län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/55825680-b776-4622-9b18-eb0a0d88e7ac",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/55825680-b776-4622-9b18-eb0a0d88e7ac_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/55825680-b776-4622-9b18-eb0a0d88e7ac_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/55825680-b776-4622-9b18-eb0a0d88e7ac_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "307",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2013-01-15",
+          "tom": "2013-06-10",
+          "uppgift": "Anna Wallén",
+          "intressent_id": "0432998314415",
+          "hangar_id": "2369681",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2013-01-15",
+          "tom": "2013-06-10",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0432998314415",
+          "hangar_id": "2369681",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2013-01-15",
+          "tom": "2013-06-10",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0432998314415",
+          "hangar_id": "2369681",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "annika.duan[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0432998314415",
+          "hangar_id": "2369681"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "66560",
+          "typ": "telefonnummer",
+          "intressent_id": "0432998314415",
+          "hangar_id": "2369681"
+        }
+      ]
+    }
+  }
+}

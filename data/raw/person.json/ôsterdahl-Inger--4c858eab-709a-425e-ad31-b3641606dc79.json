@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "d4abe3d0-cf58-4eb3-8eec-465aa4e15a68",
+    "sourceid": "4c858eab-709a-425e-ad31-b3641606dc79",
+    "intressent_id": "",
+    "hangar_id": "4788795",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Österdahl",
+    "tilltalsnamn": "Inger",
+    "sorteringsnamn": "Österdahl,Inger",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ledamot i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/4c858eab-709a-425e-ad31-b3641606dc79",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4c858eab-709a-425e-ad31-b3641606dc79_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4c858eab-709a-425e-ad31-b3641606dc79_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4c858eab-709a-425e-ad31-b3641606dc79_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "RJ",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2010-11-01",
+          "tom": "2012-10-31",
+          "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+          "intressent_id": "",
+          "hangar_id": "4788795",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RJ",
+          "roll_kod": "Personlig suppleant",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2008-11-01",
+          "tom": "2010-10-31",
+          "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+          "intressent_id": "",
+          "hangar_id": "4788795",
+          "sortering": "48",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

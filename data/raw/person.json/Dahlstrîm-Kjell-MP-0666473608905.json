@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "43d6654e-ab43-4a01-82d5-77df429d54f8",
+    "sourceid": "25943772-a07b-4929-9a22-f19265a67e06",
+    "intressent_id": "0666473608905",
+    "hangar_id": "2342283",
+    "fodd_ar": "1944",
+    "kon": "man",
+    "efternamn": "Dahlström",
+    "tilltalsnamn": "Kjell",
+    "sorteringsnamn": "Dahlström,Kjell",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/25943772-a07b-4929-9a22-f19265a67e06",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/25943772-a07b-4929-9a22-f19265a67e06_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/25943772-a07b-4929-9a22-f19265a67e06_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/25943772-a07b-4929-9a22-f19265a67e06_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "170",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-04",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0666473608905",
+          "hangar_id": "2342283",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "RFK",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1990-10-04",
+          "tom": "1991-09-30",
+          "uppgift": "Riksdagens förvaltningskontor",
+          "intressent_id": "0666473608905",
+          "hangar_id": "2342283",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "VPN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1998-12-02",
+          "tom": "1999-11-16",
+          "uppgift": "Valprövningsnämnden",
+          "intressent_id": "0666473608905",
+          "hangar_id": "2342283",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1989-10-04",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0666473608905",
+          "hangar_id": "2342283",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0666473608905",
+          "hangar_id": "2342283",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-10-04",
+          "tom": "1991-09-29",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "0666473608905",
+          "hangar_id": "2342283",
+          "sortering": "30",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "arkitekt (SAR), tekn.dr.",
+          "typ": "titlar",
+          "intressent_id": "0666473608905",
+          "hangar_id": "2342283"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0666473608905",
+          "hangar_id": "2342283"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "ea712553-f776-45d5-a2e9-b8fb26d03956",
+    "sourceid": "83c27b01-f806-46eb-801d-311850b0e75d",
+    "intressent_id": "0370147780007",
+    "hangar_id": "2341762",
+    "fodd_ar": "1930",
+    "kon": "man",
+    "efternamn": "Johansson",
+    "tilltalsnamn": "Rune",
+    "sorteringsnamn": "Johansson,Rune",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/83c27b01-f806-46eb-801d-311850b0e75d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/83c27b01-f806-46eb-801d-311850b0e75d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/83c27b01-f806-46eb-801d-311850b0e75d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/83c27b01-f806-46eb-801d-311850b0e75d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "230",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0370147780007",
+          "hangar_id": "2341762",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0370147780007",
+          "hangar_id": "2341762",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0370147780007",
+          "hangar_id": "2341762",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0370147780007",
+          "hangar_id": "2341762",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1976-10-04",
+          "tom": "1979-10-01",
+          "uppgift": "",
+          "intressent_id": "0370147780007",
+          "hangar_id": "2341762",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "1:e verkmästare",
+          "typ": "titlar",
+          "intressent_id": "0370147780007",
+          "hangar_id": "2341762"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0370147780007",
+          "hangar_id": "2341762"
+        }
+      ]
+    }
+  }
+}

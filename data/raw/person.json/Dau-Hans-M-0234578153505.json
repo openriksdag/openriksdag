@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "645c8096-376d-4405-bc15-b6709f4d2a21",
+    "sourceid": "be17c889-937c-4f5f-ace4-d4bd027ac537",
+    "intressent_id": "0234578153505",
+    "hangar_id": "2341801",
+    "fodd_ar": "1932",
+    "kon": "man",
+    "efternamn": "Dau",
+    "tilltalsnamn": "Hans",
+    "sorteringsnamn": "Dau,Hans",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/be17c889-937c-4f5f-ace4-d4bd027ac537",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/be17c889-937c-4f5f-ace4-d4bd027ac537_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/be17c889-937c-4f5f-ace4-d4bd027ac537_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/be17c889-937c-4f5f-ace4-d4bd027ac537_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "334",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0234578153505",
+          "hangar_id": "2341801",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "335",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1990-11-01",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0234578153505",
+          "hangar_id": "2341801",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "335",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "1990-10-02",
+          "tom": "1990-10-31",
+          "uppgift": "Marianne Löfstedt 1990-10-02 - 1990-10-31",
+          "intressent_id": "0234578153505",
+          "hangar_id": "2341801",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "335",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1990-10-01",
+          "uppgift": "",
+          "intressent_id": "0234578153505",
+          "hangar_id": "2341801",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0234578153505",
+          "hangar_id": "2341801",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-02",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0234578153505",
+          "hangar_id": "2341801",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0234578153505",
+          "hangar_id": "2341801",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "hemmansägare",
+          "typ": "titlar",
+          "intressent_id": "0234578153505",
+          "hangar_id": "2341801"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0234578153505",
+          "hangar_id": "2341801"
+        }
+      ]
+    }
+  }
+}

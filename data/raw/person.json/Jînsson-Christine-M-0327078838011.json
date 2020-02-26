@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "92ad99ac-d237-4f99-8138-74bf945db88c",
+    "sourceid": "27fcaceb-7b51-4376-96da-b36781a62d43",
+    "intressent_id": "0327078838011",
+    "hangar_id": "2343023",
+    "fodd_ar": "1958",
+    "kon": "kvinna",
+    "efternamn": "Jönsson",
+    "tilltalsnamn": "Christine",
+    "sorteringsnamn": "Jönsson,Christine",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Skåne läns södra",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/27fcaceb-7b51-4376-96da-b36781a62d43",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/27fcaceb-7b51-4376-96da-b36781a62d43_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/27fcaceb-7b51-4376-96da-b36781a62d43_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/27fcaceb-7b51-4376-96da-b36781a62d43_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "223",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-04",
+          "tom": "2011-01-10",
+          "uppgift": "",
+          "intressent_id": "0327078838011",
+          "hangar_id": "2343023",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "295",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0327078838011",
+          "hangar_id": "2343023",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2011-01-10",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0327078838011",
+          "hangar_id": "2343023",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0327078838011",
+          "hangar_id": "2343023",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2011-01-10",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0327078838011",
+          "hangar_id": "2343023",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0327078838011",
+          "hangar_id": "2343023",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Personaladministratör",
+          "typ": "titlar",
+          "intressent_id": "0327078838011",
+          "hangar_id": "2343023"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0327078838011",
+          "hangar_id": "2343023"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "ff6adc69-5a96-469e-b661-239dc29fef7f",
+    "sourceid": "2fd46ef0-458c-4da6-9879-3e19b5c81a51",
+    "intressent_id": "0991145731807",
+    "hangar_id": "2341687",
+    "fodd_ar": "1925",
+    "kon": "man",
+    "efternamn": "Dalström",
+    "tilltalsnamn": "Bengt",
+    "sorteringsnamn": "Dalström,Bengt",
+    "iort": "",
+    "parti": "NYD",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/2fd46ef0-458c-4da6-9879-3e19b5c81a51",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2fd46ef0-458c-4da6-9879-3e19b5c81a51_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2fd46ef0-458c-4da6-9879-3e19b5c81a51_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2fd46ef0-458c-4da6-9879-3e19b5c81a51_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "191",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1993-12-18",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0991145731807",
+          "hangar_id": "2341687",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "191",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "1993-11-18",
+          "tom": "1993-12-17",
+          "uppgift": "Vivianne Franzén 1993-11-18 - 1993-12-17",
+          "intressent_id": "0991145731807",
+          "hangar_id": "2341687",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "191",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1993-11-17",
+          "uppgift": "",
+          "intressent_id": "0991145731807",
+          "hangar_id": "2341687",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "EFTA",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1991-10-15",
+          "tom": "1994-10-03",
+          "uppgift": "EFTA-delegationen",
+          "intressent_id": "0991145731807",
+          "hangar_id": "2341687",
+          "sortering": "50",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0991145731807",
+          "hangar_id": "2341687",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1992-06-10",
+          "tom": "1993-06-04",
+          "uppgift": "EES-utskottet",
+          "intressent_id": "0991145731807",
+          "hangar_id": "2341687",
+          "sortering": "50",
+          "organ_sortering": "199",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "direktör",
+          "typ": "titlar",
+          "intressent_id": "0991145731807",
+          "hangar_id": "2341687"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0991145731807",
+          "hangar_id": "2341687"
+        }
+      ]
+    }
+  }
+}

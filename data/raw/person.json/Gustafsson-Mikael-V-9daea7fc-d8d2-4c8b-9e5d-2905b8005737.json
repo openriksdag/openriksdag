@@ -1,0 +1,66 @@
+{
+  "person": {
+    "hangar_guid": "3d7e294b-c2f8-4499-adf0-5ac040c28e22",
+    "sourceid": "9daea7fc-d8d2-4c8b-9e5d-2905b8005737",
+    "intressent_id": "",
+    "hangar_id": "4788837",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Gustafsson",
+    "tilltalsnamn": "Mikael",
+    "sorteringsnamn": "Gustafsson,Mikael",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "",
+    "status": "Tidigare europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/9daea7fc-d8d2-4c8b-9e5d-2905b8005737",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9daea7fc-d8d2-4c8b-9e5d-2905b8005737_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9daea7fc-d8d2-4c8b-9e5d-2905b8005737_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9daea7fc-d8d2-4c8b-9e5d-2905b8005737_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "EP",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "16",
+          "status": "",
+          "typ": "Europaparlamentet",
+          "from": "2011-12-01",
+          "tom": "2014-07-01",
+          "uppgift": "Europaparlamentet",
+          "intressent_id": "",
+          "hangar_id": "4788837",
+          "sortering": "30",
+          "organ_sortering": "100",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EP",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "Europaparlamentet",
+          "from": "2011-09-22",
+          "tom": "2011-11-30",
+          "uppgift": "Europaparlamentet",
+          "intressent_id": "",
+          "hangar_id": "4788837",
+          "sortering": "30",
+          "organ_sortering": "100",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Webbsida",
+        "uppgift": "http://www.europarl.europa.eu/meps/sv/109649/MIKAEL_GUSTAFSSON.html",
+        "typ": "eadress",
+        "intressent_id": "",
+        "hangar_id": "4788837"
+      }
+    }
+  }
+}

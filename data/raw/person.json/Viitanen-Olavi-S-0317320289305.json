@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "01a4d0ae-45f9-444f-8f76-3e58eff22eff",
+    "sourceid": "9dd18740-91ee-4f68-a13d-97408f382721",
+    "intressent_id": "0317320289305",
+    "hangar_id": "2341948",
+    "fodd_ar": "1937",
+    "kon": "man",
+    "efternamn": "Viitanen",
+    "tilltalsnamn": "Olavi",
+    "sorteringsnamn": "Viitanen,Olavi",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Status saknas",
+    "person_url_xml": "http://data.riksdagen.se/person/9dd18740-91ee-4f68-a13d-97408f382721",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9dd18740-91ee-4f68-a13d-97408f382721_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9dd18740-91ee-4f68-a13d-97408f382721_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9dd18740-91ee-4f68-a13d-97408f382721_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-04-10",
+          "tom": "1991-09-29",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0317320289305",
+          "hangar_id": "2341948",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-11-12",
+          "tom": "1988-12-11",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0317320289305",
+          "hangar_id": "2341948",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-04-10",
+          "tom": "1991-09-29",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0317320289305",
+          "hangar_id": "2341948",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-11-12",
+          "tom": "1988-12-11",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0317320289305",
+          "hangar_id": "2341948",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "metallarbetare",
+          "typ": "titlar",
+          "intressent_id": "0317320289305",
+          "hangar_id": "2341948"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0317320289305",
+          "hangar_id": "2341948"
+        }
+      ]
+    }
+  }
+}

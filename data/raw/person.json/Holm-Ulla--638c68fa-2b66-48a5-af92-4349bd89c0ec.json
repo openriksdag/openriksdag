@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "f373bc1c-68ea-4d92-a1a2-4864bea2d0d3",
+    "sourceid": "638c68fa-2b66-48a5-af92-4349bd89c0ec",
+    "intressent_id": "",
+    "hangar_id": "4788794",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Holm",
+    "tilltalsnamn": "Ulla",
+    "sorteringsnamn": "Holm,Ulla",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare personlig suppleant i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/638c68fa-2b66-48a5-af92-4349bd89c0ec",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/638c68fa-2b66-48a5-af92-4349bd89c0ec_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/638c68fa-2b66-48a5-af92-4349bd89c0ec_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/638c68fa-2b66-48a5-af92-4349bd89c0ec_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RJ",
+        "roll_kod": "Personlig suppleant",
+        "ordningsnummer": "8",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2008-11-01",
+        "tom": "2010-10-31",
+        "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+        "intressent_id": "",
+        "hangar_id": "4788794",
+        "sortering": "48",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

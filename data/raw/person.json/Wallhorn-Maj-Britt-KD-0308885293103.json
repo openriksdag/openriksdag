@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "89ed0a63-20a1-4997-99d2-469d4923b348",
+    "sourceid": "e7e413d4-b4df-11d5-8079-0040ca16072a",
+    "intressent_id": "0308885293103",
+    "hangar_id": "2341709",
+    "fodd_ar": "1926",
+    "kon": "kvinna",
+    "efternamn": "Wallhorn",
+    "tilltalsnamn": "Maj-Britt",
+    "sorteringsnamn": "Wallhorn,Maj-Britt",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/e7e413d4-b4df-11d5-8079-0040ca16072a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e7e413d4-b4df-11d5-8079-0040ca16072a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e7e413d4-b4df-11d5-8079-0040ca16072a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e7e413d4-b4df-11d5-8079-0040ca16072a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "149",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1998-10-05",
+          "tom": "1999-10-15",
+          "uppgift": "",
+          "intressent_id": "0308885293103",
+          "hangar_id": "2341709",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "1999-10-15",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0308885293103",
+          "hangar_id": "2341709",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

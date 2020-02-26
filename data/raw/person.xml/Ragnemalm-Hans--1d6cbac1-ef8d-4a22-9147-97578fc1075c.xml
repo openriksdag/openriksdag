@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">a4732291-277f-4bd0-ba9b-4eaa3989b1c2</hangar_guid>
+<sourceid datatype="string">1d6cbac1-ef8d-4a22-9147-97578fc1075c</sourceid>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">4788817</hangar_id>
+<fodd_ar datatype="int16">0</fodd_ar>
+<kon datatype="string">man</kon>
+<efternamn datatype="string">Ragnemalm</efternamn>
+<tilltalsnamn datatype="string">Hans</tilltalsnamn>
+<sorteringsnamn datatype="string">Ragnemalm,Hans</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string"></parti>
+<valkrets datatype="string"></valkrets>
+<status datatype="string">Avliden  2016-08-07</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/1d6cbac1-ef8d-4a22-9147-97578fc1075c</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/1d6cbac1-ef8d-4a22-9147-97578fc1075c_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/1d6cbac1-ef8d-4a22-9147-97578fc1075c_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/1d6cbac1-ef8d-4a22-9147-97578fc1075c_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">JO</organ_kod>
+<roll_kod datatype="string">Ställföreträdande ombudsman</roll_kod>
+<ordningsnummer datatype="int32">6</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">2015-11-15</from>
+<tom datatype="datetime">2016-08-07</tom>
+<uppgift datatype="string">Riksdagens ombudsmän</uppgift>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">4788817</hangar_id>
+<sortering datatype="int32"></sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">JO</organ_kod>
+<roll_kod datatype="string">Ställföreträdande ombudsman</roll_kod>
+<ordningsnummer datatype="int32">6</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">2013-11-15</from>
+<tom datatype="datetime">2015-11-15</tom>
+<uppgift datatype="string">Riksdagens ombudsmän</uppgift>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">4788817</hangar_id>
+<sortering datatype="int32"></sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">JO</organ_kod>
+<roll_kod datatype="string">Ställföreträdande ombudsman</roll_kod>
+<ordningsnummer datatype="int32">6</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">2011-11-15</from>
+<tom datatype="datetime">2013-11-15</tom>
+<uppgift datatype="string">Riksdagens ombudsmän</uppgift>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">4788817</hangar_id>
+<sortering datatype="int32"></sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">JO</organ_kod>
+<roll_kod datatype="string">Ställföreträdande ombudsman</roll_kod>
+<ordningsnummer datatype="int32">6</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">2005-11-16</from>
+<tom datatype="datetime">2011-11-15</tom>
+<uppgift datatype="string">Riksdagens ombudsmän</uppgift>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">4788817</hangar_id>
+<sortering datatype="int32"></sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">PN</organ_kod>
+<roll_kod datatype="string">Ledamot</roll_kod>
+<ordningsnummer datatype="int32">2</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">2008-03-26</from>
+<tom datatype="datetime">2014-04-30</tom>
+<uppgift datatype="string">Partibidragsnämnden</uppgift>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">4788817</hangar_id>
+<sortering datatype="int32">30</sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+</personuppgift>
+</person>

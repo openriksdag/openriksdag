@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "c9a2732a-5949-462c-b38d-bdd520728183",
+    "sourceid": "b6a63daf-9aa7-478d-92b6-57d3d276f66d",
+    "intressent_id": "053406930216",
+    "hangar_id": "2369303",
+    "fodd_ar": "1952",
+    "kon": "man",
+    "efternamn": "Wessberg",
+    "tilltalsnamn": "HG",
+    "sorteringsnamn": "Wessberg,HG",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms kommun",
+    "status": "Avliden  2018-03-29",
+    "person_url_xml": "http://data.riksdagen.se/person/b6a63daf-9aa7-478d-92b6-57d3d276f66d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b6a63daf-9aa7-478d-92b6-57d3d276f66d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b6a63daf-9aa7-478d-92b6-57d3d276f66d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b6a63daf-9aa7-478d-92b6-57d3d276f66d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "280",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-05",
+          "tom": "2010-10-26",
+          "uppgift": "Cecilia Brinck 2010-10-05 - 2010-10-18, Anton Abele 2010-10-19 - 2010-10-25  Offentligt uppdrag",
+          "intressent_id": "053406930216",
+          "hangar_id": "2369303",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "280",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-04",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "053406930216",
+          "hangar_id": "2369303",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

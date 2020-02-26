@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "a9c4ba87-badf-4585-923a-876c4a21b1ed",
+    "sourceid": "65645554-cfec-493d-a2cd-626331cb4192",
+    "intressent_id": "0244659729601",
+    "hangar_id": "2341908",
+    "fodd_ar": "1936",
+    "kon": "kvinna",
+    "efternamn": "Svensson",
+    "tilltalsnamn": "Lilian",
+    "sorteringsnamn": "Svensson,Lilian",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Status saknas",
+    "person_url_xml": "http://data.riksdagen.se/person/65645554-cfec-493d-a2cd-626331cb4192",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/65645554-cfec-493d-a2cd-626331cb4192_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/65645554-cfec-493d-a2cd-626331cb4192_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/65645554-cfec-493d-a2cd-626331cb4192_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-10-04",
+          "tom": "1990-11-04",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0244659729601",
+          "hangar_id": "2341908",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-10-02",
+          "tom": "1990-11-04",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "0244659729601",
+          "hangar_id": "2341908",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "fru",
+          "typ": "titlar",
+          "intressent_id": "0244659729601",
+          "hangar_id": "2341908"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0244659729601",
+          "hangar_id": "2341908"
+        }
+      ]
+    }
+  }
+}

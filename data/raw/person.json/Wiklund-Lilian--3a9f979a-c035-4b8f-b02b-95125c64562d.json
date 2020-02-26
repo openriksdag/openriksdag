@@ -1,0 +1,90 @@
+{
+  "person": {
+    "hangar_guid": "b3fe0d03-0962-4302-a8fd-b54382b1686f",
+    "sourceid": "3a9f979a-c035-4b8f-b02b-95125c64562d",
+    "intressent_id": "",
+    "hangar_id": "4788819",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Wiklund",
+    "tilltalsnamn": "Lilian",
+    "sorteringsnamn": "Wiklund,Lilian",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Ställföreträdande ombudsman i Riksdagens ombudsmän",
+    "person_url_xml": "http://data.riksdagen.se/person/3a9f979a-c035-4b8f-b02b-95125c64562d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3a9f979a-c035-4b8f-b02b-95125c64562d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3a9f979a-c035-4b8f-b02b-95125c64562d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3a9f979a-c035-4b8f-b02b-95125c64562d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "JO",
+          "roll_kod": "Ställföreträdande ombudsman",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-05-01",
+          "tom": "2020-05-01",
+          "uppgift": "Riksdagens ombudsmän",
+          "intressent_id": "",
+          "hangar_id": "4788819",
+          "sortering": "",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JO",
+          "roll_kod": "Ställföreträdande ombudsman",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2016-05-01",
+          "tom": "2018-04-30",
+          "uppgift": "Riksdagens ombudsmän",
+          "intressent_id": "",
+          "hangar_id": "4788819",
+          "sortering": "",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JO",
+          "roll_kod": "Justitieombudsman",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2015-01-01",
+          "tom": "2016-01-31",
+          "uppgift": "Riksdagens ombudsmän",
+          "intressent_id": "",
+          "hangar_id": "4788819",
+          "sortering": "",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JO",
+          "roll_kod": "Justitieombudsman",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2011-01-01",
+          "tom": "2014-12-31",
+          "uppgift": "Riksdagens ombudsmän",
+          "intressent_id": "",
+          "hangar_id": "4788819",
+          "sortering": "",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

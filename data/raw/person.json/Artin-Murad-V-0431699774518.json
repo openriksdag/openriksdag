@@ -1,0 +1,171 @@
+{
+  "person": {
+    "hangar_guid": "269e6a59-3bd2-4374-ab4f-616cec9fefad",
+    "sourceid": "d7c32984-83e4-11d4-ae60-0050040c9b55",
+    "intressent_id": "0431699774518",
+    "hangar_id": "2343092",
+    "fodd_ar": "1960",
+    "kon": "man",
+    "efternamn": "Artin",
+    "tilltalsnamn": "Murad",
+    "sorteringsnamn": "Artin,Murad",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "Örebro län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/d7c32984-83e4-11d4-ae60-0050040c9b55",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c32984-83e4-11d4-ae60-0050040c9b55_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c32984-83e4-11d4-ae60-0050040c9b55_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c32984-83e4-11d4-ae60-0050040c9b55_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "276",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1998-10-06",
+          "tom": "2002-09-30",
+          "uppgift": "",
+          "intressent_id": "0431699774518",
+          "hangar_id": "2343092",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "IPU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1998-10-21",
+          "tom": "2002-12-18",
+          "uppgift": "Riksdagens delegation till Interparlamentariska unionen",
+          "intressent_id": "0431699774518",
+          "hangar_id": "2343092",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "2002-09-30",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0431699774518",
+          "hangar_id": "2343092",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-05",
+          "tom": "2002-09-30",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0431699774518",
+          "hangar_id": "2343092",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-05-31",
+          "tom": "2002-06-12",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0431699774518",
+          "hangar_id": "2343092",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-01-17",
+          "tom": "2002-01-18",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0431699774518",
+          "hangar_id": "2343092",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Deputerad",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2001-10-25",
+          "tom": "2001-12-11",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0431699774518",
+          "hangar_id": "2343092",
+          "sortering": "40",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1999-03-23",
+          "tom": "1999-09-13",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0431699774518",
+          "hangar_id": "2343092",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "arbetsförmedlare",
+          "typ": "titlar",
+          "intressent_id": "0431699774518",
+          "hangar_id": "2343092"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Employment Officer",
+          "typ": "titlar",
+          "intressent_id": "0431699774518",
+          "hangar_id": "2343092"
+        }
+      ]
+    }
+  }
+}

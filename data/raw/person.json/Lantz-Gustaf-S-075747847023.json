@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "0139137c-73f8-46ba-8a6d-af713c4bcf03",
+    "sourceid": "82c56b96-b106-4b16-958c-98b153d02639",
+    "intressent_id": "075747847023",
+    "hangar_id": "3057149",
+    "fodd_ar": "1981",
+    "kon": "man",
+    "efternamn": "Lantz",
+    "tilltalsnamn": "Gustaf",
+    "sorteringsnamn": "Lantz,Gustaf",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Uppsala län",
+    "status": "Tjänstgörande statsrådsersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/82c56b96-b106-4b16-958c-98b153d02639",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/82c56b96-b106-4b16-958c-98b153d02639_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/82c56b96-b106-4b16-958c-98b153d02639_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/82c56b96-b106-4b16-958c-98b153d02639_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "87",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "Ardalan Shekarabi",
+          "intressent_id": "075747847023",
+          "hangar_id": "3057149",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "87",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2017-04-24",
+          "tom": "2017-12-31",
+          "uppgift": "Ardalan Shekarabi",
+          "intressent_id": "075747847023",
+          "hangar_id": "3057149",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "075747847023",
+          "hangar_id": "3057149",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-04-24",
+          "tom": "2017-12-31",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "075747847023",
+          "hangar_id": "3057149",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-04-24",
+          "tom": "2017-12-31",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "075747847023",
+          "hangar_id": "3057149",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-04-24",
+          "tom": "2017-12-31",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "075747847023",
+          "hangar_id": "3057149",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "gustaf.lantz[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "075747847023",
+          "hangar_id": "3057149"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "075747847023",
+          "hangar_id": "3057149"
+        }
+      ]
+    }
+  }
+}

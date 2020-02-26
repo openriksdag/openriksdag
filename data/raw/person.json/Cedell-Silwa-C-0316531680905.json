@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "336096da-5da9-428a-9191-850edf701c99",
+    "sourceid": "49e5da6a-3003-4efb-af5d-8f56b1f74583",
+    "intressent_id": "0316531680905",
+    "hangar_id": "2342052",
+    "fodd_ar": "1939",
+    "kon": "kvinna",
+    "efternamn": "Cedell",
+    "tilltalsnamn": "Silwa",
+    "sorteringsnamn": "Cedell,Silwa",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "",
+    "status": "Status saknas",
+    "person_url_xml": "http://data.riksdagen.se/person/49e5da6a-3003-4efb-af5d-8f56b1f74583",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/49e5da6a-3003-4efb-af5d-8f56b1f74583_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/49e5da6a-3003-4efb-af5d-8f56b1f74583_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/49e5da6a-3003-4efb-af5d-8f56b1f74583_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "MJU",
+        "roll_kod": "Suppleant",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "uppdrag",
+        "from": "1989-11-13",
+        "tom": "1989-12-18",
+        "uppgift": "Miljö- och jordbruksutskottet",
+        "intressent_id": "0316531680905",
+        "hangar_id": "2342052",
+        "sortering": "50",
+        "organ_sortering": "150",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "hemkonsulent",
+          "typ": "titlar",
+          "intressent_id": "0316531680905",
+          "hangar_id": "2342052"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0316531680905",
+          "hangar_id": "2342052"
+        }
+      ]
+    }
+  }
+}

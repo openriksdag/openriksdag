@@ -1,0 +1,169 @@
+{
+  "person": {
+    "hangar_guid": "c94ac972-8116-4aba-997d-3a2c22913197",
+    "sourceid": "7365e865-e602-44fb-adf2-e58cf9c0a6f9",
+    "intressent_id": "0373223420310",
+    "hangar_id": "2369467",
+    "fodd_ar": "1970",
+    "kon": "man",
+    "efternamn": "Malmberg",
+    "tilltalsnamn": "Niclas",
+    "sorteringsnamn": "Malmberg,Niclas",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "Uppsala län",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/7365e865-e602-44fb-adf2-e58cf9c0a6f9",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7365e865-e602-44fb-adf2-e58cf9c0a6f9_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7365e865-e602-44fb-adf2-e58cf9c0a6f9_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7365e865-e602-44fb-adf2-e58cf9c0a6f9_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "117",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0373223420310",
+          "hangar_id": "2369467",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "RJ",
+          "roll_kod": "Personlig suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2014-11-01",
+          "tom": "2018-09-24",
+          "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+          "intressent_id": "0373223420310",
+          "hangar_id": "2369467",
+          "sortering": "48",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "20",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-14",
+          "tom": "2015-02-18",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0373223420310",
+          "hangar_id": "2369467",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0373223420310",
+          "hangar_id": "2369467",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "28",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-11-23",
+          "tom": "2018-09-24",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0373223420310",
+          "hangar_id": "2369467",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0373223420310",
+          "hangar_id": "2369467",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "CKrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-03-13",
+          "tom": "2018-05-24",
+          "uppgift": "Sammansatta civil- och kulturutskottet",
+          "intressent_id": "0373223420310",
+          "hangar_id": "2369467",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "niclas.malmberg[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0373223420310",
+          "hangar_id": "2369467"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Journalist",
+          "typ": "titlar",
+          "intressent_id": "0373223420310",
+          "hangar_id": "2369467"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0373223420310",
+          "hangar_id": "2369467"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0373223420310",
+          "hangar_id": "2369467"
+        }
+      ]
+    }
+  }
+}

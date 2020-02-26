@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "9f2f3bd1-6bd3-4f5b-89bf-fdc82c9516d9",
+    "sourceid": "f04f0b70-90e1-4f06-8339-edda773f5362",
+    "intressent_id": "0890727249707",
+    "hangar_id": "2341767",
+    "fodd_ar": "1930",
+    "kon": "man",
+    "efternamn": "Levi",
+    "tilltalsnamn": "Lennart",
+    "sorteringsnamn": "Levi,Lennart",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Stockholms län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/f04f0b70-90e1-4f06-8339-edda773f5362",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f04f0b70-90e1-4f06-8339-edda773f5362_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f04f0b70-90e1-4f06-8339-edda773f5362_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f04f0b70-90e1-4f06-8339-edda773f5362_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "213",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0890727249707",
+          "hangar_id": "2341767",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0890727249707",
+          "hangar_id": "2341767",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0890727249707",
+          "hangar_id": "2341767",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Professor emeritus, med.dr",
+          "typ": "titlar",
+          "intressent_id": "0890727249707",
+          "hangar_id": "2341767"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0890727249707",
+          "hangar_id": "2341767"
+        }
+      ]
+    }
+  }
+}

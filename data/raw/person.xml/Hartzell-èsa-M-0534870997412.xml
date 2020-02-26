@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">27e2ca2c-9c6c-48fc-a313-8de74709ed05</hangar_guid>
+<sourceid datatype="string">f965c024-1cd1-4a10-bff1-7615c8b1bde4</sourceid>
+<intressent_id datatype="string">0534870997412</intressent_id>
+<hangar_id datatype="int32">5003932</hangar_id>
+<fodd_ar datatype="int16">1963</fodd_ar>
+<kon datatype="string">kvinna</kon>
+<efternamn datatype="string">Hartzell</efternamn>
+<tilltalsnamn datatype="string">Åsa</tilltalsnamn>
+<sorteringsnamn datatype="string">Hartzell,Åsa</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">M</parti>
+<valkrets datatype="string">Göteborgs kommun</valkrets>
+<status datatype="string">Tillgänglig ersättare</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/f965c024-1cd1-4a10-bff1-7615c8b1bde4</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/f965c024-1cd1-4a10-bff1-7615c8b1bde4_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/f965c024-1cd1-4a10-bff1-7615c8b1bde4_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/f965c024-1cd1-4a10-bff1-7615c8b1bde4_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Ersättare</roll_kod>
+<ordningsnummer datatype="int32">128</ordningsnummer>
+<status datatype="string">Ersättare</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2019-02-25</from>
+<tom datatype="datetime">2019-05-10</tom>
+<uppgift datatype="string">Lars Hjälmered</uppgift>
+<intressent_id datatype="string">0534870997412</intressent_id>
+<hangar_id datatype="int32">5003932</hangar_id>
+<sortering datatype="int32">45</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">20</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">NU</organ_kod>
+<roll_kod datatype="string">Extra suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2019-02-25</from>
+<tom datatype="datetime">2019-05-10</tom>
+<uppgift datatype="string">Näringsutskottet</uppgift>
+<intressent_id datatype="string">0534870997412</intressent_id>
+<hangar_id datatype="int32">5003932</hangar_id>
+<sortering datatype="int32">55</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+</personuppgift>
+</person>

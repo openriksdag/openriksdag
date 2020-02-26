@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "2b8c86f4-1d4e-44b2-9072-2478fb84320e",
+    "sourceid": "136d143f-abf0-4cd3-8a28-fde79373dc54",
+    "intressent_id": "0412860732608",
+    "hangar_id": "2341978",
+    "fodd_ar": "1937",
+    "kon": "man",
+    "efternamn": "Carlsson",
+    "tilltalsnamn": "Roine",
+    "sorteringsnamn": "Carlsson,Roine",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/136d143f-abf0-4cd3-8a28-fde79373dc54",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/136d143f-abf0-4cd3-8a28-fde79373dc54_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/136d143f-abf0-4cd3-8a28-fde79373dc54_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/136d143f-abf0-4cd3-8a28-fde79373dc54_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "262",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "Jarl Lander 1985-09-30 - 1988-10-03",
+          "intressent_id": "0412860732608",
+          "hangar_id": "2341978",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "Jarl Lander 1985-09-30 - 1988-10-03",
+          "intressent_id": "0412860732608",
+          "hangar_id": "2341978",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "KD",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1988-10-18",
+          "tom": "1991-09-30",
+          "uppgift": "Krigsdelegationen",
+          "intressent_id": "0412860732608",
+          "hangar_id": "2341978",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

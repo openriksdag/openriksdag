@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "cbf0684a-7df1-4882-af7e-a63e22d828b4",
+    "sourceid": "a24011df-7f7e-41b5-adad-35b933f13afc",
+    "intressent_id": "0800081986104",
+    "hangar_id": "2342041",
+    "fodd_ar": "1939",
+    "kon": "kvinna",
+    "efternamn": "Raud",
+    "tilltalsnamn": "Christina",
+    "sorteringsnamn": "Raud,Christina",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Status saknas",
+    "person_url_xml": "http://data.riksdagen.se/person/a24011df-7f7e-41b5-adad-35b933f13afc",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a24011df-7f7e-41b5-adad-35b933f13afc_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a24011df-7f7e-41b5-adad-35b933f13afc_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a24011df-7f7e-41b5-adad-35b933f13afc_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "NU",
+        "roll_kod": "Suppleant",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "uppdrag",
+        "from": "1991-04-25",
+        "tom": "1991-05-30",
+        "uppgift": "Näringsutskottet",
+        "intressent_id": "0800081986104",
+        "hangar_id": "2342041",
+        "sortering": "50",
+        "organ_sortering": "150",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "textillärare",
+          "typ": "titlar",
+          "intressent_id": "0800081986104",
+          "hangar_id": "2342041"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0800081986104",
+          "hangar_id": "2342041"
+        }
+      ]
+    }
+  }
+}

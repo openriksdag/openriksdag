@@ -1,0 +1,2356 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5030745</hangar_id>
+    <dok_id datatype="string">H60395</dok_id>
+    <rm datatype="string">2018/19</rm>
+    <beteckning datatype="string">95</beteckning>
+    <typ datatype="string">prop</typ>
+    <subtyp datatype="string">prop</subtyp>
+    <doktyp datatype="string">prop</doktyp>
+    <typrubrik datatype="string">Proposition 2018/19:95</typrubrik>
+    <dokumentnamn datatype="string">Proposition</dokumentnamn>
+    <debattnamn datatype="string">Proposition</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">Miljödepartementet</organ>
+    <mottagare datatype="string">MJU</mottagare>
+    <nummer datatype="int32">95</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2019-04-09 00:00:00</datum>
+    <systemdatum datatype="datetime">2019-06-04 15:47:10</systemdatum>
+    <publicerad datatype="datetime">2019-04-09 00:00:00</publicerad>
+    <titel datatype="string">Ansvar för miljöskador i Sveriges ekonomiska zon</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">Klar</status>
+    <htmlformat datatype="string">html-ec</htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">prop-RIM</source>
+    <sourceid datatype="string">18bf2f94-3508-4c99-965f-91e5aed5764a</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H60395/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H60395</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H60395</dokumentstatus_url_xml>
+    <html datatype="text">&lt;div style="margin:3px;"&gt;
+&lt;STYLE type="text/css"&gt;
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:10px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_1 #p1dimg1 {position:absolute;top:0px;left:651px;z-index:-1;width:56px;height:98px;}
+#page_1 #p1dimg1 #p1img1 {width:56px;height:98px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+#page_4 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_4 #id_2 {float:left;border:none;z:b;margin:15px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+#page_6 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_6 #id_1 #id_1_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 405px;overflow: hidden;}
+#page_6 #id_1 #id_1_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+#page_6 #id_2 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_6 #id_2 #id_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_6 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_6 #id_3 {border:none;z:b;margin:10px 0px 0px 10px ;padding: 0px;border:none;width: 766px;overflow: hidden;}
+#page_6 #id_3 #id_3_1 {float:left;border:none;z:b;margin:74px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_6 #id_3 #id_3_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+#page_6 #p6dimg1 {position:absolute;top:275px;left:105px;z-index:-1;width:124px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_6 #p6dimg1 #p6img1 {width:124px;height:1px;}
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:15px 0px 51px 10px ;padding: 0px;border: none;width: 947px;}
+#page_7 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 902px;overflow: hidden;}
+#page_7 #id_2 {border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_7 #id_2 #id_2_1 {float:left;border:none;z:b;margin:10px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_7 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_7 #id_3 {border:none;z:b;margin:10px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+
+#page_7 #p7dimg1 {position:absolute;top:430px;left:147px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_7 #p7dimg1 #p7img1 {width:123px;height:1px;}
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+#page_10 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_10 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_11 #p11dimg1 {position:absolute;top:136px;left:147px;z-index:-1;width:393px;height:70px;}
+#page_11 #p11dimg1 #p11img1 {width:393px;height:70px;}
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_12 #p12dimg1 {position:absolute;top:651px;left:294px;z-index:-1;width:394px;height:54px;}
+#page_12 #p12dimg1 #p12img1 {width:394px;height:54px;}
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_13 #p13dimg1 {position:absolute;top:504px;left:147px;z-index:-1;width:393px;height:39px;}
+#page_13 #p13dimg1 #p13img1 {width:393px;height:39px;}
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+#page_14 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_14 #id_2 {float:left;border:none;z:b;margin:15px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 766px;}
+#page_15 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_15 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+#page_16 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_16 #id_2 {float:left;border:none;z:b;margin:15px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+
+
+
+
+
+#page_19 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_20 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+#page_20 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_20 #id_2 {float:left;border:none;z:b;margin:15px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+
+
+
+
+#page_21 {position:relative; overflow: hidden;z:b;margin:14px 0px 51px 10px ;padding: 0px;border: none;width: 766px;}
+#page_21 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_21 #id_2 {border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_21 #id_2 #id_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_21 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_21 #id_3 {border:none;z:b;margin:9px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+
+
+
+
+
+#page_22 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+#page_22 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_22 #id_1 #id_1_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_22 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_22 #id_1 #id_1_3 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_22 #id_2 {border:none;z:b;margin:11px 0px 0px 10px ;padding: 0px;border:none;width: 902px;overflow: hidden;}
+
+#page_22 #p22dimg1 {position:absolute;top:155px;left:294px;z-index:-1;width:124px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_22 #p22dimg1 #p22img1 {width:124px;height:1px;}
+
+
+
+
+#page_23 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_24 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+#page_24 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_24 #id_2 {float:left;border:none;z:b;margin:15px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+
+
+
+
+#page_25 {position:relative; overflow: hidden;z:b;margin:14px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_26 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+#page_26 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_26 #id_1 #id_1_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_26 #id_1 #id_1_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+#page_26 #id_2 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_26 #id_2 #id_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_26 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_26 #id_3 {border:none;z:b;margin:9px 0px 0px 10px ;padding: 0px;border:none;width: 766px;overflow: hidden;}
+#page_26 #id_3 #id_3_1 {float:left;border:none;z:b;margin:74px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_26 #id_3 #id_3_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+#page_26 #p26dimg1 {position:absolute;top:277px;left:105px;z-index:-1;width:124px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_26 #p26dimg1 #p26img1 {width:124px;height:1px;}
+
+
+
+
+#page_27 {position:relative; overflow: hidden;z:b;margin:14px 0px 52px 10px ;padding: 0px;border: none;width: 586px;}
+
+
+
+
+
+#page_28 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 631px;}
+#page_28 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_28 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+
+
+
+
+
+#page_29 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 766px;}
+#page_29 #id_1 {float:left;border:none;z:b;margin:14px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_29 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+
+#page_29 #p29dimg1 {position:absolute;top:237px;left:0px;z-index:-1;width:112px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_29 #p29dimg1 #p29img1 {width:112px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  18px 'Verdana' !important;l-h: 32px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft2{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft3{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft4{font:  12px 'Verdana' !important;l-h: 17px;}
+.ft5{font: italic  12px 'Verdana' !important;l-h: 17px;}
+.ft6{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft7{font:  12px 'Verdana' !important;margin-left: 32px;l-h: 15px;}
+.ft8{font:  14px 'Verdana' !important;margin-left: 50px;l-h: 22px;}
+.ft9{font:  12px 'Verdana' !important;margin-left: 9px;l-h: 15px;}
+.ft10{font:  12px 'Verdana' !important;margin-left: 9px;l-h: 18px;}
+.ft11{font:  12px 'Verdana' !important;l-h: 18px;}
+.ft12{font:  14px 'Verdana' !important;margin-left: 51px;l-h: 22px;}
+.ft13{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft14{font:  14px 'Verdana' !important;margin-left: 39px;l-h: 19px;}
+.ft15{font:  10px 'Verdana' !important;l-h: 12px;position: relative; bottom: 5px;}
+.ft16{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft17{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft18{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft19{font: italic  12px 'Verdana' !important;text-decoration: underline;margin-left: 3px;l-h: 15px;}
+.ft20{font: italic  12px 'Verdana' !important;text-decoration: underline;margin-left: 3px;l-h: 17px;}
+.ft21{font:  10px 'Verdana' !important;l-h: 8px;}
+.ft22{font:  12px 'Verdana' !important;margin-left: 2px;l-h: 13px;}
+.ft23{font:  12px 'Verdana' !important;l-h: 13px;}
+.ft24{font:  10px 'Verdana' !important;l-h: 8px;position: relative; bottom: 4px;}
+.ft25{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft26{font: italic  12px 'Verdana' !important;text-decoration: underline;l-h: 16px;}
+.ft27{font: italic  12px 'Verdana' !important;text-decoration: underline;margin-left: 4px;l-h: 15px;}
+.ft28{font: italic  12px 'Verdana' !important;text-decoration: underline;margin-left: 4px;l-h: 16px;}
+.ft29{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft30{font:  10px 'Verdana' !important;l-h: 14px;}
+.ft31{font: italic  12px 'Verdana' !important;l-h: 14px;}
+.ft32{font: italic bold  12px 'Verdana' !important;l-h: 16px;}
+.ft33{font: italic  12px 'Verdana' !important;margin-left: 4px;l-h: 16px;}
+.ft34{font: italic  12px 'Verdana' !important;l-h: 16px;}
+.ft35{font: bold  12px 'Verdana' !important;margin-left: 3px;l-h: 22px;}
+.ft36{font:  12px 'Verdana' !important;l-h: 22px;}
+.ft37{font:  10px 'Verdana' !important;l-h: 19px;position: relative; bottom: 5px;}
+.ft38{font: bold  12px 'Verdana' !important;l-h: 22px;}
+.ft39{font:  12px 'Verdana' !important;margin-left: 2px;l-h: 14px;}
+.ft40{font:  14px 'Verdana' !important;margin-left: 38px;l-h: 23px;}
+.ft41{font:  14px 'Verdana' !important;l-h: 23px;}
+.ft42{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 15px;}
+.ft43{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 16px;}
+.ft44{font:  10px 'Verdana' !important;l-h: 13px;}
+.ft45{font:  10px 'Verdana' !important;l-h: 2px;}
+.ft46{font:  10px 'Verdana' !important;l-h: 3px;}
+.ft47{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft48{font:  10px 'Verdana' !important;l-h: 5px;}
+.ft49{font: bold  12px 'Verdana' !important;l-h: 16px;}
+.ft50{font: bold  12px 'Verdana' !important;l-h: 17px;}
+.ft51{font:  14px 'Verdana' !important;margin-left: 51px;l-h: 26px;}
+.ft52{font:  14px 'Verdana' !important;l-h: 26px;}
+.ft53{font: bold  12px 'Verdana' !important;l-h: 14px;}
+.ft54{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft55{font: italic  12px 'Verdana' !important;text-decoration: underline;margin-left: 2px;l-h: 14px;}
+.ft56{font:  12px 'Verdana' !important;l-h: 13px;}
+.ft57{font: italic  12px 'Verdana' !important;text-decoration: underline;margin-left: 2px;l-h: 13px;}
+.ft58{font: italic  12px 'Verdana' !important;l-h: 13px;}
+.ft59{font: italic  12px 'Verdana' !important;l-h: 14px;}
+.ft60{font: italic bold  12px 'Verdana' !important;l-h: 15px;}
+.ft61{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft62{font:  14px 'Verdana' !important;margin-left: 39px;l-h: 23px;}
+.ft63{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 15px;}
+.ft64{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 14px;}
+.ft65{font: italic  12px 'Verdana' !important;margin-left: 3px;l-h: 14px;}
+.ft66{font: bold  12px 'Verdana' !important;margin-left: 4px;l-h: 23px;}
+.ft67{font:  12px 'Verdana' !important;l-h: 23px;}
+.ft68{font:  10px 'Verdana' !important;l-h: 20px;position: relative; bottom: 5px;}
+.ft69{font: bold  12px 'Verdana' !important;l-h: 23px;}
+.ft70{font: bold  12px 'Verdana' !important;margin-left: 3px;l-h: 23px;}
+.ft71{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 15px;}
+.ft72{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 16px;}
+.ft73{font: italic  12px 'Verdana' !important;l-h: 16px;}
+.ft74{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft75{font: italic  12px 'Verdana' !important;text-decoration: underline;l-h: 15px;}
+
+.p0{text-align: left;padding-left: 120px;padding-right: 525px;margin-top: 22px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;padding-left: 120px;margin-top: 17px;margin-bottom: 0px !important;}
+.p4{text-align: left;padding-left: 120px;margin-top: 16px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 120px;margin-top: 32px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 260px;padding-right: 525px;margin-top: 19px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 120px;margin-top: 47px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 27px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 140px;margin-top: 4px;margin-bottom: 0px !important;}
+.p10{text-align: right;padding-right: 126px;margin-top: 259px;margin-bottom: 0px !important;}
+.p11{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p12{text-align: left;padding-left: 0px;margin-top: 35px;margin-bottom: 0px !important;}
+.p13{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p14{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p15{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p17{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p18{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p19{text-align: left;margin-top: 258px;margin-bottom: 0px !important;}
+.p20{text-align: left;padding-left: 520px;margin-top: 0px;margin-bottom: 0px !important;}
+.p21{text-align: left;padding-left: 120px;margin-top: 34px;margin-bottom: 0px !important;}
+.p22{text-align: left;padding-left: 120px;margin-top: 0px;margin-bottom: 0px !important;}
+.p23{text-align: left;padding-left: 140px;padding-right: 336px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 0.19px;}
+.p24{text-align: right;padding-right: 126px;margin-top: 612px;margin-bottom: 0px !important;}
+.p25{text-align: left;margin-top: 753px;margin-bottom: 0px !important;}
+.p26{text-align: left;margin-top: 18px;margin-bottom: 0px !important;}
+.p27{text-align: left;margin-top: 15px;margin-bottom: 0px !important;}
+.p28{text-align: left;margin-top: 10px;margin-bottom: 0px !important;}
+.p29{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p30{text-align: left;padding-left: 160px;margin-top: 15px;margin-bottom: 0px !important;}
+.p31{text-align: left;padding-left: 160px;margin-top: 9px;margin-bottom: 0px !important;}
+.p32{text-align: left;padding-right: 147px;margin-top: 3px;margin-bottom: 0px !important;}
+.p33{text-align: right;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p34{text-align: left;padding-left: 160px;margin-top: 20px;margin-bottom: 0px !important;}
+.p35{text-align: left;padding-left: 160px;margin-top: 8px;margin-bottom: 0px !important;}
+.p36{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 12px;}
+.p37{text-align: left;padding-right: 147px;margin-top: 20px;margin-bottom: 0px !important;}
+.p38{text-align: left;margin-top: 2px;margin-bottom: 0px !important;}
+.p39{text-align: left;padding-left: 120px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p40{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p41{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p42{text-align: right;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p43{text-align: right;padding-right: 126px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p44{text-align: left;padding-left: 300px;margin-top: 27px;margin-bottom: 0px !important;}
+.p45{text-align: left;padding-left: 320px;padding-right: 336px;margin-top: 7px;margin-bottom: 0px !important;}
+.p46{text-align: left;padding-left: 320px;margin-top: 3px;margin-bottom: 0px !important;}
+.p47{text-align: left;padding-left: 320px;padding-right: 315px;margin-top: 8px;margin-bottom: 0px !important;}
+.p48{text-align: right;padding-right: 126px;margin-top: 40px;margin-bottom: 0px !important;}
+.p49{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.11px;}
+.p50{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p51{text-align: left;padding-right: 1px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p52{text-align: left;margin-top: 17px;margin-bottom: 0px !important;text-indent: 11px;}
+.p53{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p54{text-align: left;margin-top: 465px;margin-bottom: 0px !important;}
+.p55{text-align: right;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p56{text-align: left;padding-left: 180px;padding-right: 336px;margin-top: 18px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p57{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 5px;margin-bottom: 0px !important;}
+.p58{text-align: left;padding-left: 300px;margin-top: 12px;margin-bottom: 0px !important;}
+.p59{text-align: left;padding-left: 120px;margin-top: 6px;margin-bottom: 0px !important;}
+.p60{text-align: left;padding-left: 140px;margin-top: 1px;margin-bottom: 0px !important;}
+.p61{text-align: left;padding-left: 140px;margin-top: 0px;margin-bottom: 0px !important;}
+.p62{text-align: left;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p63{text-align: left;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p64{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p65{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 16px;margin-bottom: 0px !important;}
+.p66{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p67{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p68{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p69{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p70{text-align: left;padding-left: 0px;margin-top: 18px;margin-bottom: 0px !important;}
+.p71{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 6px;margin-bottom: 0px !important;}
+.p72{text-align: left;padding-left: 380px;margin-top: 0px;margin-bottom: 0px !important;}
+.p73{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p74{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p75{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p76{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p77{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p78{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p79{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p80{text-align: left;padding-right: 147px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p81{text-align: left;padding-right: 147px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p82{text-align: left;margin-top: 19px;margin-bottom: 0px !important;}
+.p83{text-align: left;padding-right: 147px;margin-top: 6px;margin-bottom: 0px !important;}
+.p84{text-align: left;padding-left: 120px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p85{text-align: left;padding-left: 120px;margin-top: 1px;margin-bottom: 0px !important;}
+.p86{text-align: left;padding-left: 140px;padding-right: 336px;margin-top: 21px;margin-bottom: 0px !important;}
+.p87{text-align: left;padding-left: 140px;padding-right: 336px;margin-top: 5px;margin-bottom: 0px !important;}
+.p88{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 0px;margin-bottom: 0px !important;}
+.p89{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p90{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 11px;}
+.p91{text-align: right;padding-right: 126px;margin-top: 4px;margin-bottom: 0px !important;}
+.p92{text-align: left;padding-left: 220px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p93{text-align: left;padding-left: 220px;padding-right: 147px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p94{text-align: left;padding-left: 220px;padding-right: 147px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p95{text-align: left;padding-left: 220px;padding-right: 147px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 11px;}
+.p96{text-align: left;padding-left: 280px;padding-right: 189px;margin-top: 44px;margin-bottom: 0px !important;text-indent: 0.61px;}
+.p97{text-align: left;padding-left: 220px;padding-right: 168px;margin-top: 14px;margin-bottom: 0px !important;}
+.p98{text-align: left;padding-left: 220px;padding-right: 147px;margin-top: 6px;margin-bottom: 0px !important;}
+.p99{text-align: right;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p100{text-align: left;padding-left: 0px;margin-top: 14px;margin-bottom: 0px !important;}
+.p101{text-align: left;padding-left: 120px;padding-right: 315px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p102{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 1px;margin-bottom: 0px !important;}
+.p103{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p104{text-align: left;padding-left: 120px;margin-top: 42px;margin-bottom: 0px !important;}
+.p105{text-align: left;padding-left: 140px;padding-right: 336px;margin-top: 21px;margin-bottom: 0px !important;}
+.p106{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p107{text-align: left;padding-left: 140px;margin-top: 16px;margin-bottom: 0px !important;}
+.p108{text-align: right;padding-right: 126px;margin-top: 112px;margin-bottom: 0px !important;}
+.p109{text-align: left;margin-top: 17px;margin-bottom: 0px !important;}
+.p110{text-align: left;padding-right: 147px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p111{text-align: left;padding-right: 147px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p112{text-align: left;padding-right: 147px;margin-top: 5px;margin-bottom: 0px !important;}
+.p113{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p114{text-align: left;padding-right: 0px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p115{text-align: left;padding-right: 0px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p116{text-align: left;margin-top: 22px;margin-bottom: 0px !important;}
+.p117{text-align: left;padding-right: 0px;margin-top: 5px;margin-bottom: 0px !important;}
+.p118{text-align: right;padding-right: 126px;margin-top: 752px;margin-bottom: 0px !important;}
+.p119{text-align: left;margin-top: 11px;margin-bottom: 0px !important;}
+.p120{text-align: left;padding-right: 147px;margin-top: 10px;margin-bottom: 0px !important;}
+.p121{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p122{text-align: left;margin-top: 20px;margin-bottom: 0px !important;}
+.p123{text-align: left;padding-right: 147px;margin-top: 4px;margin-bottom: 0px !important;}
+.p124{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 12px;}
+.p125{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p126{text-align: left;padding-left: 120px;margin-top: 11px;margin-bottom: 0px !important;}
+.p127{text-align: left;padding-left: 120px;padding-right: 315px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p128{text-align: left;padding-left: 120px;margin-top: 21px;margin-bottom: 0px !important;}
+.p129{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 6px;margin-bottom: 0px !important;}
+.p130{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 10px;margin-bottom: 0px !important;}
+.p131{text-align: left;padding-left: 140px;margin-top: 6px;margin-bottom: 0px !important;}
+.p132{text-align: left;padding-left: 120px;margin-top: 20px;margin-bottom: 0px !important;}
+.p133{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 3px;margin-bottom: 0px !important;}
+.p134{text-align: right;padding-right: 126px;margin-top: 0px;margin-bottom: 0px !important;}
+.p135{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p136{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p137{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p138{text-align: left;padding-left: 0px;padding-right: 399px;margin-top: 1px;margin-bottom: 0px !important;}
+.p139{text-align: left;padding-left: 160px;padding-right: 189px;margin-top: 28px;margin-bottom: 0px !important;text-indent: 0.61px;}
+.p140{text-align: left;padding-left: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p141{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p142{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 10px;margin-bottom: 0px !important;}
+.p143{text-align: left;padding-left: 0px;margin-top: 4px;margin-bottom: 0px !important;}
+.p144{text-align: left;margin-top: 193px;margin-bottom: 0px !important;}
+.p145{text-align: left;padding-left: 520px;margin-top: 3px;margin-bottom: 0px !important;}
+.p146{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 16px;margin-bottom: 0px !important;}
+.p147{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p148{text-align: right;padding-right: 126px;margin-top: 468px;margin-bottom: 0px !important;}
+.p149{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;}
+.p150{text-align: left;margin-top: 734px;margin-bottom: 0px !important;}
+.p151{text-align: left;margin-top: 16px;margin-bottom: 0px !important;}
+.p152{text-align: left;margin-top: 1px;margin-bottom: 0px !important;}
+.p153{text-align: left;padding-left: 160px;padding-right: 441px;margin-top: 12px;margin-bottom: 0px !important;text-indent: 0.7px;}
+.p154{text-align: left;padding-left: 160px;padding-right: 441px;margin-top: 12px;margin-bottom: 0px !important;text-indent: 0.3px;}
+.p155{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p156{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p157{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p158{text-align: left;padding-left: 140px;margin-top: 11px;margin-bottom: 0px !important;}
+.p159{text-align: left;padding-left: 180px;padding-right: 336px;margin-top: 6px;margin-bottom: 0px !important;}
+.p160{text-align: left;padding-left: 180px;margin-top: 5px;margin-bottom: 0px !important;}
+.p161{text-align: left;padding-left: 180px;padding-right: 315px;margin-top: 7px;margin-bottom: 0px !important;}
+.p162{text-align: left;padding-left: 160px;padding-right: 567px;margin-top: 11px;margin-bottom: 0px !important;text-indent: 0.10px;}
+.p163{text-align: left;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p164{text-align: right;padding-right: 441px;margin-top: 0px;margin-bottom: 0px !important;}
+.p165{text-align: left;padding-left: 0px;margin-top: 583px;margin-bottom: 0px !important;}
+.p166{text-align: right;padding-right: 126px;margin-top: 285px;margin-bottom: 0px !important;}
+.p167{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 1px;margin-bottom: 0px !important;}
+.p168{text-align: left;padding-left: 160px;margin-top: 16px;margin-bottom: 0px !important;}
+.p169{text-align: left;padding-left: 160px;margin-top: 8px;margin-bottom: 0px !important;}
+.p170{text-align: left;padding-left: 160px;padding-right: 441px;margin-top: 11px;margin-bottom: 0px !important;text-indent: 0.3px;}
+.p171{text-align: left;padding-right: 147px;margin-top: 56px;margin-bottom: 0px !important;}
+.p172{text-align: right;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p173{text-align: left;padding-left: 320px;padding-right: 336px;margin-top: 15px;margin-bottom: 0px !important;}
+.p174{text-align: right;padding-right: 126px;margin-top: 32px;margin-bottom: 0px !important;}
+.p175{text-align: left;padding-right: 1px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p176{text-align: left;margin-top: 18px;margin-bottom: 0px !important;text-indent: 11px;}
+.p177{text-align: left;margin-top: 463px;margin-bottom: 0px !important;}
+.p178{text-align: left;margin-top: 14px;margin-bottom: 0px !important;}
+.p179{text-align: left;padding-right: 21px;margin-top: 16px;margin-bottom: 0px !important;}
+.p180{text-align: left;margin-top: 13px;margin-bottom: 0px !important;}
+.p181{text-align: left;padding-right: 42px;margin-top: 76px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 404px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 122px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 404px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 122px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 7px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 397px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 6px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 65px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 332px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 55px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 334px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 14px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 390px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 79px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 318px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 215px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 198px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 197px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 106px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 352px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 177px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 11px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 402px;vertical-align: bottom;}
+.td23{padding: 0px;margin: 0px;width: 116px;vertical-align: bottom;}
+.td24{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 413px;vertical-align: bottom;}
+.td25{border-left: #000000 1px solid;border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 411px;vertical-align: bottom;}
+.td26{border-left: #000000 1px solid;padding: 0px;margin: 0px;width: 10px;vertical-align: bottom;}
+.td27{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 401px;vertical-align: bottom;}
+.td28{border-left: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 10px;vertical-align: bottom;}
+.td29{border-right: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 401px;vertical-align: bottom;}
+.td30{padding: 0px;margin: 0px;width: 413px;vertical-align: bottom;}
+.td31{padding: 0px;margin: 0px;width: 426px;vertical-align: bottom;}
+.td32{padding: 0px;margin: 0px;width: 97px;vertical-align: bottom;}
+.td33{padding: 0px;margin: 0px;width: 87px;vertical-align: bottom;}
+.td34{padding: 0px;margin: 0px;width: 30px;vertical-align: bottom;}
+.td35{padding: 0px;margin: 0px;width: 59px;vertical-align: bottom;}
+.td36{padding: 0px;margin: 0px;width: 33px;vertical-align: bottom;}
+.td37{padding: 0px;margin: 0px;width: 211px;vertical-align: bottom;}
+.td38{padding: 0px;margin: 0px;width: 90px;vertical-align: bottom;}
+.td39{padding: 0px;margin: 0px;width: 117px;vertical-align: bottom;}
+.td40{padding: 0px;margin: 0px;width: 392px;vertical-align: bottom;}
+.td41{padding: 0px;margin: 0px;width: 319px;vertical-align: bottom;}
+.td42{padding: 0px;margin: 0px;width: 103px;vertical-align: bottom;}
+
+.tr0{heightzzz: 31px;}
+.tr1{heightzzz: 25px;}
+.tr2{heightzzz: 23px;}
+.tr3{heightzzz: 20px;}
+.tr4{heightzzz: 15px;}
+.tr5{heightzzz: 18px;}
+.tr6{heightzzz: 21px;}
+.tr7{heightzzz: 22px;}
+.tr8{heightzzz: 17px;}
+.tr9{heightzzz: 16px;}
+.tr10{heightzzz: 14px;}
+.tr11{heightzzz: 27px;}
+.tr12{heightzzz: 13px;}
+.tr13{heightzzz: 2px;}
+.tr14{heightzzz: 3px;}
+.tr15{heightzzz: 35px;}
+.tr16{heightzzz: 19px;}
+.tr17{heightzzz: 29px;}
+.tr18{heightzzz: 5px;}
+.tr19{heightzzz: 40px;}
+.tr20{heightzzz: 51px;}
+.tr21{heightzzz: 24px;}
+.tr22{heightzzz: 28px;}
+
+.t0{width: 552px;margin-leftZ: 154px;margin-top: 5px;f:20px 'Verdana' !important;}
+.t1{width: 431px;margin-leftZ: 113px;margin-top: 16px;f:13px 'Verdana' !important;}
+.t2{width: 432px;margin-leftZ: 113px;f:13px 'Verdana' !important;}
+.t3{width: 433px;f:13px 'Verdana' !important;}
+.t4{width: 433px;margin-top: 2px;f:13px 'Verdana' !important;}
+.t5{width: 432px;margin-leftZ: 153px;f:13px 'Verdana' !important;}
+.t6{width: 336px;margin-leftZ: 153px;margin-top: 9px;f:italic 13px 'Verdana' !important;}
+.t7{width: 555px;margin-top: 306px;f:7px 'Verdana' !important;}
+.t8{width: 555px;margin-top: 28px;f:13px 'Verdana' !important;}
+.t9{width: 336px;margin-top: 14px;f:italic 13px 'Verdana' !important;}
+.t10{width: 548px;f:13px 'Verdana' !important;}
+.t11{width: 555px;f:7px 'Verdana' !important;}
+.t12{width: 548px;margin-leftZ: 153px;f:13px 'Verdana' !important;}
+.t13{width: 555px;f:13px 'Verdana' !important;}
+
+&lt;/STYLE&gt;
+
+
+
+&lt;DIV id="page_1"&gt;
+&lt;DIV id="p1dimg1"&gt;
+&lt;INGENBILD zsrc="H603951x1.jpg/" id="p1img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV class="dclr"&gt;&lt;/DIV&gt;
+&lt;P class="p0 ft0"&gt;Regeringens proposition 2018/19:95&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t0"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr0 td0"&gt;&lt;SPAN class="p1 ft1"&gt;Ansvar för miljöskador i Sveriges ekonomiska&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td1"&gt;&lt;SPAN class="p2 ft1"&gt;Prop.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td2"&gt;&lt;SPAN class="p1 ft1"&gt;zon&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td3"&gt;&lt;SPAN class="p2 ft1"&gt;2018/19:95&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p3 ft2"&gt;Regeringen överlämnar denna proposition till riksdagen.&lt;/P&gt;
+&lt;P class="p4 ft2"&gt;Stockholm den 4 april 2019&lt;/P&gt;
+&lt;P class="p5 ft3"&gt;Stefan Löfven&lt;/P&gt;
+&lt;P class="p6 ft5"&gt;Isabella Lövin &lt;SPAN class="ft4"&gt;(Miljödepartementet)&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p7 ft1"&gt;Propositionens huvudsakliga innehåll&lt;/P&gt;
+&lt;P class="p8 ft2"&gt;I propositionen föreslås ändringar i miljöbalken och lagen om Sveriges ekonomiska zon. Ändringarna innebär att miljöbalken ska tillämpas även i fråga om allvarliga miljöskador i Sveriges ekonomiska zon. Det görs också en ändring i miljöbalken som innebär att den som på en fastighet, byggnad eller anläggning ska vidta en åtgärd för att enligt 10 kap. miljöbalken avhjälpa en miljöskada ska ha rätt till tillträde till fastigheten, byggnaden eller anläggningen under en viss tid.&lt;/P&gt;
+&lt;P class="p9 ft2"&gt;Lagändringarna föreslås träda i kraft den 1 augusti 2019.&lt;/P&gt;
+&lt;P class="p10 ft2"&gt;1&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_2"&gt;
+
+
+&lt;P class="p11 ft2"&gt;Prop. 2018/19:95&lt;/P&gt;
+&lt;P class="p12 ft1"&gt;Innehållsförteckning&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t1"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td4"&gt;&lt;SPAN class="p13 ft2"&gt;1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr2 td5"&gt;&lt;SPAN class="p14 ft2"&gt;Förslag till riksdagsbeslut .................................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td6"&gt;&lt;SPAN class="p13 ft2"&gt;3&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td4"&gt;&lt;SPAN class="p13 ft2"&gt;2&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td7"&gt;&lt;SPAN class="p14 ft2"&gt;Lagtext&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td8"&gt;&lt;SPAN class="p13 ft2"&gt;..............................................................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p13 ft2"&gt;4&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td4"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td7"&gt;&lt;SPAN class="p14 ft2"&gt;2.1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td8"&gt;&lt;SPAN class="p13 ft2"&gt;Förslag till lag om ändring i miljöbalken ...........................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p13 ft2"&gt;4&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p16 ft2"&gt;&lt;SPAN class="ft2"&gt;2.2&lt;/SPAN&gt;&lt;SPAN class="ft7"&gt;Förslag till lag om ändring i lagen (1992:1140) om&lt;/SPAN&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t2"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td4"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td9"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td10"&gt;&lt;SPAN class="p17 ft2"&gt;Sveriges ekonomiska zon ...................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td11"&gt;&lt;SPAN class="p18 ft2"&gt;7&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td4"&gt;&lt;SPAN class="p13 ft2"&gt;3&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr6 td12"&gt;&lt;SPAN class="p14 ft2"&gt;Ärendet och dess beredning ..............................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td11"&gt;&lt;SPAN class="p18 ft2"&gt;8&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td4"&gt;&lt;SPAN class="p13 ft2"&gt;4&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr7 td12"&gt;&lt;SPAN class="p14 ft2"&gt;Allvarlig miljöskada i Sveriges ekonomiska zon..............................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td11"&gt;&lt;SPAN class="p18 ft2"&gt;9&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td4"&gt;&lt;SPAN class="p13 ft2"&gt;5&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr7 td12"&gt;&lt;SPAN class="p14 ft2"&gt;Tillträde för att avhjälpa en miljöskada ..........................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td11"&gt;&lt;SPAN class="p18 ft2"&gt;11&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td4"&gt;&lt;SPAN class="p13 ft2"&gt;6&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr7 td12"&gt;&lt;SPAN class="p14 ft2"&gt;Sveriges sjöterritorium och maritima zoner....................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td11"&gt;&lt;SPAN class="p13 ft2"&gt;12&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td4"&gt;&lt;SPAN class="p13 ft2"&gt;7&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr7 td12"&gt;&lt;SPAN class="p14 ft2"&gt;Ikraftträdande..................................................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td11"&gt;&lt;SPAN class="p13 ft2"&gt;13&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td4"&gt;&lt;SPAN class="p13 ft2"&gt;8&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr7 td12"&gt;&lt;SPAN class="p14 ft2"&gt;Konsekvenser..................................................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td11"&gt;&lt;SPAN class="p13 ft2"&gt;14&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td4"&gt;&lt;SPAN class="p13 ft2"&gt;9&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr6 td12"&gt;&lt;SPAN class="p14 ft2"&gt;Författningskommentar...................................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td11"&gt;&lt;SPAN class="p18 ft2"&gt;16&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td4"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td9"&gt;&lt;SPAN class="p14 ft2"&gt;9.1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td10"&gt;&lt;SPAN class="p17 ft2"&gt;Förslaget till lag om ändring i miljöbalken ......................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td11"&gt;&lt;SPAN class="p18 ft2"&gt;16&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p16 ft2"&gt;&lt;SPAN class="ft2"&gt;9.2&lt;/SPAN&gt;&lt;SPAN class="ft7"&gt;Förslaget till lag om ändring i lagen (1992:1140) om&lt;/SPAN&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t2"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td13"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td14"&gt;&lt;SPAN class="p15 ft2"&gt;Sveriges ekonomiska zon .................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td11"&gt;&lt;SPAN class="p18 ft2"&gt;18&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td13"&gt;&lt;SPAN class="p15 ft2"&gt;Bilaga 1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td14"&gt;&lt;SPAN class="p15 ft2"&gt;Sammanfattning av promemorian ....................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td11"&gt;&lt;SPAN class="p18 ft2"&gt;19&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td13"&gt;&lt;SPAN class="p15 ft2"&gt;Bilaga 2&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p15 ft2"&gt;Promemorians lagförslag..................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td11"&gt;&lt;SPAN class="p18 ft2"&gt;20&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td13"&gt;&lt;SPAN class="p15 ft2"&gt;Bilaga 3&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p15 ft2"&gt;Förteckning över remissinstanserna .................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td11"&gt;&lt;SPAN class="p18 ft2"&gt;23&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td13"&gt;&lt;SPAN class="p15 ft2"&gt;Bilaga 4&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p15 ft2"&gt;Lagrådsremissens lagförslag ............................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td11"&gt;&lt;SPAN class="p13 ft2"&gt;24&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td13"&gt;&lt;SPAN class="p15 ft2"&gt;Bilaga 5&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p15 ft2"&gt;Lagrådets yttrande............................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td11"&gt;&lt;SPAN class="p13 ft2"&gt;27&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr7 td5"&gt;&lt;SPAN class="p15 ft2"&gt;Utdrag ur protokoll vid regeringssammanträde den 4 april 2019 ...........&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td11"&gt;&lt;SPAN class="p18 ft2"&gt;29&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p19 ft2"&gt;2&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_3"&gt;
+
+
+&lt;P class="p20 ft2"&gt;Prop. 2018/19:95&lt;/P&gt;
+&lt;P class="p21 ft1"&gt;&lt;SPAN class="ft1"&gt;1&lt;/SPAN&gt;&lt;SPAN class="ft8"&gt;Förslag till riksdagsbeslut&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p4 ft2"&gt;Regeringens förslag:&lt;/P&gt;
+&lt;P class="p22 ft2"&gt;&lt;SPAN class="ft2"&gt;1.&lt;/SPAN&gt;&lt;SPAN class="ft9"&gt;Riksdagen antar regeringens förslag till lag om ändring i miljöbalken.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p23 ft11"&gt;&lt;SPAN class="ft2"&gt;2.&lt;/SPAN&gt;&lt;SPAN class="ft10"&gt;Riksdagen antar regeringens förslag till lag om ändring i lagen (1992:1140) om Sveriges ekonomiska zon.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p24 ft2"&gt;3&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_4"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p11 ft2"&gt;Prop. 2018/19:95&lt;/P&gt;
+&lt;P class="p25 ft2"&gt;4&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft1"&gt;&lt;SPAN class="ft1"&gt;2&lt;/SPAN&gt;&lt;SPAN class="ft12"&gt;Lagtext&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p26 ft2"&gt;Regeringen har följande förslag till lagtext.&lt;/P&gt;
+&lt;P class="p27 ft13"&gt;&lt;SPAN class="ft13"&gt;2.1&lt;/SPAN&gt;&lt;SPAN class="ft14"&gt;Förslag till lag om ändring i miljöbalken&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p28 ft2"&gt;Härigenom föreskrivs&lt;SPAN class="ft15"&gt;1 &lt;/SPAN&gt;i fråga om miljöbalken&lt;/P&gt;
+&lt;P class="p29 ft4"&gt;&lt;SPAN class="ft5"&gt;dels &lt;/SPAN&gt;att 1 kap. 2 §, 5 kap. 13 § och 28 kap. 5 § ska ha följande lydelse, &lt;SPAN class="ft5"&gt;dels &lt;/SPAN&gt;att det ska införas en ny paragraf, 10 kap. 18 a §, och närmast före&lt;/P&gt;
+&lt;P class="p11 ft2"&gt;10 kap. 18 a § en ny rubrik av följande lydelse.&lt;/P&gt;
+&lt;P class="p27 ft3"&gt;Nuvarande lydelse&lt;SPAN style="padding-left:105px;"&gt;Föreslagen lydelse&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p30 ft16"&gt;1 kap.&lt;/P&gt;
+&lt;P class="p31 ft2"&gt;2 §&lt;SPAN class="ft15"&gt;2&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p32 ft17"&gt;Bestämmelserna i denna balk om hushållning med mark- och vattenområden, tillstånd, anmälan och tillåtlighet ska i fråga om geologisk lagring av koldioxid tillämpas även på Sveriges kontinentalsockel utanför territorial-&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t3"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p15 ft2"&gt;gränsen.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td16"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p2 ft2"&gt;Ytterligare bestämmelser om bal-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p13 ft2"&gt;Ytterligare bestämmelser om bal-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;kens tillämpning utanför territorial-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td16"&gt;&lt;SPAN class="p13 ft2"&gt;kens tillämpning utanför territorial-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;gränsen finns i 7 kap. 32 § och&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p13 ft2"&gt;gränsen finns i 7 kap. 32 §&lt;SPAN class="ft3"&gt;, 10 kap.&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;15 kap. 27 § samt i lagen (1966:314)&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;SPAN class="ft3"&gt;18 a § &lt;/SPAN&gt;och 15 kap. 27 § samt i lagen&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;om kontinentalsockeln och i lagen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td16"&gt;&lt;SPAN class="p13 ft2"&gt;(1966:314) om kontinentalsockeln&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;(1992:1140) om Sveriges ekonomi-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p13 ft2"&gt;och i lagen (1992:1140) om Sveri-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;ska zon.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td16"&gt;&lt;SPAN class="p33 ft2"&gt;ges ekonomiska zon.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p34 ft16"&gt;5 kap.&lt;/P&gt;
+&lt;P class="p35 ft2"&gt;13 §&lt;SPAN class="ft15"&gt;3&lt;/SPAN&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t4"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td15"&gt;&lt;SPAN class="p15 ft2"&gt;För förvaltningen av kvaliteten på&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td16"&gt;&lt;SPAN class="p15 ft2"&gt;För förvaltningen av kvaliteten på&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;vattenmiljön &lt;SPAN class="ft3"&gt;skall &lt;/SPAN&gt;Sveriges landom-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p15 ft2"&gt;vattenmiljön &lt;SPAN class="ft3"&gt;ska &lt;/SPAN&gt;Sveriges landom-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;råden och kustvattenområden delas&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p15 ft18"&gt;råden och kustvattenområden delas&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;in i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p15 ft2"&gt;in i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p36 ft2"&gt;&lt;SPAN class="ft2"&gt;1.&lt;/SPAN&gt;&lt;SPAN class="ft19"&gt;Bottenvikens vattendistrikt:&lt;/SPAN&gt; det landområde från vilket all ytvattenavrinning sker direkt till eller i avrinningsområden som mynnar i Bottenviken,&lt;/P&gt;
+&lt;P class="p36 ft4"&gt;&lt;SPAN class="ft2"&gt;2.&lt;/SPAN&gt;&lt;SPAN class="ft20"&gt;Bottenhavets vattendistrikt:&lt;/SPAN&gt; det landområde från vilket all ytvattenavrinning sker direkt till eller i avrinningsområden som mynnar i Bottenhavet,&lt;/P&gt;
+&lt;P class="p37 ft23"&gt;&lt;SPAN class="ft21"&gt;1&lt;/SPAN&gt;&lt;SPAN class="ft22"&gt;Jfr Europaparlamentets och rådets direktiv 2004/35/EG av den 21 april 2004 om miljöansvar för att förebygga och avhjälpa miljöskador, i lydelsen enligt Europaparlamentets och rådets direktiv 2013/30/EU.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p38 ft25"&gt;&lt;SPAN class="ft24"&gt;2 &lt;/SPAN&gt;Senaste lydelse 2016:782.&lt;/P&gt;
+&lt;P class="p11 ft25"&gt;&lt;SPAN class="ft24"&gt;3 &lt;/SPAN&gt;Paragrafen fick sin nuvarande beteckning genom 2018:1407.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_5"&gt;
+
+
+&lt;P class="p39 ft17"&gt;3. &lt;SPAN class="ft26"&gt;Norra Östersjöns vattendistrikt:&lt;/SPAN&gt; det landområde från vilket all yt- Prop. 2018/19:95 vattenavrinning sker direkt till eller i avrinningsområden som mynnar i&lt;/P&gt;
+&lt;P class="p22 ft2"&gt;södra Ålands hav eller norra Gotlandshavet,&lt;/P&gt;
+&lt;P class="p40 ft2"&gt;&lt;SPAN class="ft2"&gt;4.&lt;/SPAN&gt;&lt;SPAN class="ft27"&gt;Södra Östersjöns vattendistrikt:&lt;/SPAN&gt; det landområde från vilket all ytvattenavrinning sker direkt till eller i avrinningsområden som mynnar i västra Gotlandshavet, östra Gotlandshavet, Bornholmshavet, Arkonahavet eller Öresund, och&lt;/P&gt;
+&lt;P class="p40 ft17"&gt;&lt;SPAN class="ft2"&gt;5.&lt;/SPAN&gt;&lt;SPAN class="ft28"&gt;Västerhavets vattendistrikt:&lt;/SPAN&gt; det landområde från vilket all ytvattenavrinning sker direkt till eller i avrinningsområden som mynnar i Västerhavet.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t5"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p41 ft2"&gt;I varje vattendistrikt ingår &lt;SPAN class="ft3"&gt;det &lt;/SPAN&gt;an-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td17"&gt;&lt;SPAN class="p13 ft2"&gt;I varje vattendistrikt ingår anslu-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p41 ft3"&gt;&lt;SPAN class="ft2"&gt;slutande &lt;/SPAN&gt;grundvattnet &lt;SPAN class="ft2"&gt;och &lt;/SPAN&gt;det &lt;SPAN class="ft2"&gt;an-&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft2"&gt;tande &lt;SPAN class="ft3"&gt;grundvatten &lt;/SPAN&gt;och anslutande&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p41 ft3"&gt;&lt;SPAN class="ft2"&gt;slutande &lt;/SPAN&gt;kustvattenområdet &lt;SPAN class="ft2"&gt;ut till&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p13 ft3"&gt;kustvatten &lt;SPAN class="ft2"&gt;ut till &lt;/SPAN&gt;de särskilda av-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p41 ft29"&gt;en nautisk mil utanför den baslinje&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft29"&gt;gränsningslinjer, en nautisk mil räk-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p41 ft3"&gt;som avses i lagen (1966:374) om&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft3"&gt;nat från baslinjerna, som framgår&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p42 ft3"&gt;Sveriges sjöterritorium.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p13 ft3"&gt;av bilaga 6 till lagen (2017:1272)&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft29"&gt;om Sveriges sjöterritorium och mari-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td15"&gt;&lt;SPAN class="p15 ft30"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td17"&gt;&lt;SPAN class="p43 ft31"&gt;tima zoner.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p40 ft2"&gt;Med avrinningsområde avses ett landområde från vilket all ytvattenavrinning strömmar till havet genom ett enda utlopp eller delta.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t5"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p41 ft2"&gt;Ytvatten, grundvatten, kustvatten&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td17"&gt;&lt;SPAN class="p13 ft2"&gt;Ytvatten, grundvatten, kustvatten&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p41 ft2"&gt;och landområden vid kusten som&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft2"&gt;och landområden vid kusten som&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p41 ft2"&gt;inte kan hänföras till ett visst avrin-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p13 ft2"&gt;inte kan hänföras till ett visst avrin-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p41 ft2"&gt;ningsområde &lt;SPAN class="ft3"&gt;skall &lt;/SPAN&gt;hänföras till det&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft2"&gt;ningsområde &lt;SPAN class="ft3"&gt;ska &lt;/SPAN&gt;hänföras till det&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p41 ft2"&gt;vattendistrikt som är närmast eller&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft2"&gt;vattendistrikt som är närmast eller&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;lämpligast.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p15 ft2"&gt;lämpligast.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p41 ft2"&gt;Regeringen &lt;SPAN class="ft3"&gt;meddelar &lt;/SPAN&gt;föreskrifter&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;SPAN class="ft2"&gt;Regeringen &lt;/SPAN&gt;kan med stöd av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p41 ft2"&gt;om gränsdragningen mellan vatten-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft3"&gt;8 kap. 7 § regeringsformen medde-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p41 ft2"&gt;distrikten. Vid gränsdragningen får&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;SPAN class="ft3"&gt;la &lt;/SPAN&gt;föreskrifter om gränsdragningen&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p41 ft18"&gt;ett enskilt avrinningsområde hänfö-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft2"&gt;mellan vattendistrikten. Vid gräns-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p41 ft2"&gt;ras till annat vattendistrikt än vad&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft18"&gt;dragningen får ett enskilt avrinnings-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p41 ft2"&gt;som följer av första stycket, om det&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p13 ft2"&gt;område hänföras till annat vatten-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p41 ft2"&gt;är lämpligt med hänsyn till förvalt-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft2"&gt;distrikt än vad som följer av första&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;ningsarbetet.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft18"&gt;stycket, om det är lämpligt med hän-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td17"&gt;&lt;SPAN class="p15 ft2"&gt;syn till förvaltningsarbetet.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p44 ft16"&gt;10 kap.&lt;/P&gt;
+&lt;P class="p45 ft32"&gt;Allvarliga miljöskador i Sveriges ekonomiska zon&lt;/P&gt;
+&lt;P class="p46 ft3"&gt;18 a §&lt;/P&gt;
+&lt;P class="p47 ft34"&gt;&lt;SPAN class="ft3"&gt;I&lt;/SPAN&gt;&lt;SPAN class="ft33"&gt;fråga om sådana allvarliga miljöskador som avses i 1 § andra stycket 2 ska bestämmelserna i denna balk tillämpas även i Sveriges ekonomiska zon.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p48 ft2"&gt;5&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_6"&gt;
+&lt;DIV id="p6dimg1"&gt;
+&lt;INGENBILD zsrc="H603956x1.jpg/" id="p6img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;DIV id="id_1_1"&gt;
+&lt;P class="p11 ft2"&gt;Prop. 2018/19:95&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_1_2"&gt;
+&lt;P class="p49 ft38"&gt;&lt;SPAN class="ft16"&gt;28&lt;/SPAN&gt;&lt;SPAN class="ft35"&gt;kap. &lt;/SPAN&gt;&lt;SPAN class="ft36"&gt;5 §&lt;/SPAN&gt;&lt;SPAN class="ft37"&gt;4&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;DIV id="id_2_1"&gt;
+&lt;P class="p50 ft18"&gt;Länsstyrelsen får besluta &lt;SPAN class="ft29"&gt;om tillträde under viss tid till &lt;/SPAN&gt;en fastighet, &lt;SPAN class="ft29"&gt;en &lt;/SPAN&gt;byggnad eller &lt;SPAN class="ft29"&gt;en &lt;/SPAN&gt;anläggning, &lt;SPAN class="ft29"&gt;om någon annan än den som äger eller innehar den är skyldig enligt 10 kap. att där vidta en åtgärd för att avhjälpa en miljöskada.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p51 ft17"&gt;Den som utför åtgärden &lt;SPAN class="ft34"&gt;skall &lt;/SPAN&gt;betala ersättning för skada och intrång om inte fastighetsägaren eller innehavaren av särskild rätt själv har kostnadsansvar för åtgärden. Talan om ersättning &lt;SPAN class="ft34"&gt;skall &lt;/SPAN&gt;väckas vid mark- och &lt;SPAN class="ft34"&gt;miljödomstol&lt;/SPAN&gt;.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2_2"&gt;
+&lt;P class="p50 ft18"&gt;Länsstyrelsen får besluta &lt;SPAN class="ft29"&gt;att den som på &lt;/SPAN&gt;en fastighet, byggnad eller anläggning &lt;SPAN class="ft29"&gt;ska vidta en åtgärd för att enligt 10 kap. avhjälpa en miljöskada ska ha rätt till tillträde till fastigheten, byggnaden eller anläggningen under en viss tid.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p52 ft17"&gt;Den som utför åtgärden &lt;SPAN class="ft34"&gt;ska &lt;/SPAN&gt;betala ersättning för skada och intrång om inte fastighetsägaren eller innehavaren av särskild rätt själv har kostnadsansvar för åtgärden. Talan om ersättning &lt;SPAN class="ft34"&gt;ska &lt;/SPAN&gt;väckas vid &lt;SPAN class="ft34"&gt;mark- och miljödomstolen&lt;/SPAN&gt;.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_3"&gt;
+&lt;DIV id="id_3_1"&gt;
+&lt;P class="p11 ft2"&gt;6&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_3_2"&gt;
+&lt;P class="p53 ft2"&gt;Denna lag träder i kraft den 1 augusti 2019.&lt;/P&gt;
+&lt;P class="p54 ft25"&gt;&lt;SPAN class="ft21"&gt;4&lt;/SPAN&gt;&lt;SPAN class="ft39"&gt;Senaste lydelse 2010:923.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_7"&gt;
+&lt;DIV id="p7dimg1"&gt;
+&lt;INGENBILD zsrc="H603957x1.jpg/" id="p7img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;P class="p55 ft2"&gt;Prop. 2018/19:95&lt;/P&gt;
+&lt;P class="p56 ft41"&gt;&lt;SPAN class="ft13"&gt;2.2&lt;/SPAN&gt;&lt;SPAN class="ft40"&gt;Förslag till lag om ändring i lagen (1992:1140) om Sveriges ekonomiska zon&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p57 ft11"&gt;Härigenom föreskrivs att 3 § lagen (1992:1140) om Sveriges ekonomiska zon ska ha följande lydelse.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t6"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td15"&gt;&lt;SPAN class="p15 ft3"&gt;Nuvarande lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td18"&gt;&lt;SPAN class="p15 ft29"&gt;Föreslagen lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p58 ft2"&gt;3 §&lt;SPAN class="ft15"&gt;1&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p59 ft2"&gt;Till skydd för den marina miljön finns det också bestämmelser om&lt;/P&gt;
+&lt;P class="p60 ft2"&gt;&lt;SPAN class="ft2"&gt;1.&lt;/SPAN&gt;&lt;SPAN class="ft42"&gt;geologisk lagring av koldioxid i 1 kap. 2 § och 4 kap. 9 § miljöbalken,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p61 ft2"&gt;&lt;SPAN class="ft2"&gt;2.&lt;/SPAN&gt;&lt;SPAN class="ft42"&gt;särskilda skyddade naturområden i 7 kap. &lt;/SPAN&gt;&lt;NOBR&gt;27–30&lt;/NOBR&gt; och 32 §§ miljöbal-&lt;/P&gt;
+&lt;P class="p22 ft2"&gt;ken,&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;DIV id="id_2_1"&gt;
+&lt;P class="p62 ft4"&gt;&lt;SPAN class="ft5"&gt;3&lt;/SPAN&gt;. dumpning i 15 kap. &lt;NOBR&gt;27–29&lt;/NOBR&gt; §§ miljöbalken,&lt;/P&gt;
+&lt;P class="p62 ft2"&gt;&lt;SPAN class="ft3"&gt;4&lt;/SPAN&gt;. föroreningar från fartyg i lagen (1980:424) om åtgärder mot förorening från fartyg, och&lt;/P&gt;
+&lt;P class="p62 ft17"&gt;&lt;SPAN class="ft34"&gt;5&lt;/SPAN&gt;. hantering och kontroll av fartygs barlastvatten och sediment från sådant vatten i barlastvattenlagen (2009:1165).&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2_2"&gt;
+&lt;P class="p63 ft34"&gt;&lt;SPAN class="ft3"&gt;3.&lt;/SPAN&gt;&lt;SPAN class="ft33"&gt;allvarliga miljöskador i 10 kap. 18 a § miljöbalken,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p63 ft17"&gt;&lt;SPAN class="ft3"&gt;4.&lt;/SPAN&gt;&lt;SPAN class="ft43"&gt;dumpning i 15 kap. &lt;/SPAN&gt;&lt;NOBR&gt;27–29&lt;/NOBR&gt; §§ miljöbalken,&lt;/P&gt;
+&lt;P class="p62 ft2"&gt;&lt;SPAN class="ft3"&gt;5.&lt;/SPAN&gt;&lt;SPAN class="ft42"&gt;föroreningar från fartyg i lagen (1980:424) om åtgärder mot förorening från fartyg, och&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p62 ft17"&gt;&lt;SPAN class="ft3"&gt;6.&lt;/SPAN&gt;&lt;SPAN class="ft43"&gt;hantering och kontroll av fartygs barlastvatten och sediment från sådant vatten i barlastvattenlagen (2009:1165).&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_3"&gt;
+&lt;P class="p64 ft2"&gt;Denna lag träder i kraft den 1 augusti 2019.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t7"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td19"&gt;&lt;SPAN class="p15 ft25"&gt;&lt;SPAN class="ft24"&gt;1 &lt;/SPAN&gt;Senaste lydelse 2016:788 (jfr 2017:72).&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td20"&gt;&lt;SPAN class="p13 ft2"&gt;7&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_8"&gt;
+
+
+&lt;P class="p11 ft2"&gt;Prop. 2018/19:95&lt;/P&gt;
+&lt;P class="p12 ft1"&gt;&lt;SPAN class="ft1"&gt;3&lt;/SPAN&gt;&lt;SPAN class="ft12"&gt;Ärendet och dess beredning&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p65 ft2"&gt;EU har antagit ett direktiv som fastställer minimikrav för att förebygga allvarliga olyckor vid olje- och gasverksamhet till havs och för att begränsa konsekvenserna av sådana olyckor. Direktivet kallas här offshoredirektivet, men dess fullständiga namn är Europaparlamentets och rådets direktiv 2013/30/EU av den 12 juni 2013 om säkerhet för olje- och gasverksamhet till havs och om ändring av direktiv 2004/35/EG. Genom offshoredirektivet görs ändringar i miljöansvarsdirektivet, dvs. Europaparlamentets och rådets direktiv 2004/35/EG av den 21 april 2004 om miljöansvar för att förebygga och avhjälpa miljöskador. I svensk lagstiftning genomförs miljöansvarsdirektivet bland annat med bestämmelser i 10 kap. miljöbalken och förordningen (2007:667) om allvarliga miljöskador, se propositionen Ett utvidgat miljöansvar (prop. 2006/07:95 bet. 2006/07:MJU17, rskr. 2006/07:207).&lt;/P&gt;
+&lt;P class="p66 ft17"&gt;Europeiska kommissionen har granskat det svenska genomförandet av offshoredirektivet i den del det avser ändringen i miljöansvarsdirektivet och bedömt att det behövs ändringar i den svenska lagstiftningen (dnr M2017/02861/R och M2018/02096/R).&lt;/P&gt;
+&lt;P class="p67 ft2"&gt;Statens geotekniska institut har i sin rapport Juridiska flaskhalsar i efterbehandlingsarbetet redovisat ett antal förslag i syfte att förbättra arbetet med sanering av förorenade områden. I detta lagstiftningsärende behandlas förslaget i rapporten om att ändra tillträdesreglerna i 28 kap. miljöbalken så att huvudmannen vid statligt medfinansierad efterbehandling kan garanteras tillträde mot fastighetsägarens vilja (dnr M2013/01699/R).&lt;/P&gt;
+&lt;P class="p68 ft17"&gt;Havs- och vattenmyndigheten har uppmärksammat regeringen på att en hänvisning behöver uppdateras i 5 kap. 13 § miljöbalken.&lt;/P&gt;
+&lt;P class="p69 ft2"&gt;Med anledning av detta har Regeringskansliet (Miljö- och energidepartementet) tagit fram promemorian Förbättrat genomförande av miljöansvarsdirektivet (dnr M2018/02563/R) med förslag till ändringar för att bland annat förtydliga och förstärka genomförandet av direktivet. Promemorian innehåller förslag till såväl lagsom förordningsändringar. Förslagen till lagändringar behandlas i detta lagstiftningsärende. En sammanfattning av promemorian i den del som avser lagförslaget finns i &lt;SPAN class="ft3"&gt;bilaga 1&lt;/SPAN&gt;. Promemorians lagförslag återges i &lt;SPAN class="ft3"&gt;bilaga 2&lt;/SPAN&gt;. Promemorian har remissbehandlats. En förteckning över remissinstanserna finns i &lt;SPAN class="ft3"&gt;bilaga 3&lt;/SPAN&gt;. Remissvaren finns tillgängliga i Miljödepartementet (dnr M2018/02563/R).&lt;/P&gt;
+&lt;P class="p70 ft3"&gt;Lagrådet&lt;/P&gt;
+&lt;P class="p71 ft17"&gt;Regeringen beslutade den 28 februari 2019 att inhämta Lagrådets yttrande över de lagförslag som återges i &lt;SPAN class="ft34"&gt;bilaga 4&lt;/SPAN&gt;. Lagrådets yttrande finns i &lt;SPAN class="ft34"&gt;bilaga 5&lt;/SPAN&gt;. Med anledning av Lagrådets synpunkter lämnas ett förslag till ändring i lagen (1992:1140) om Sveriges ekonomiska zon. Förslaget och Lagrådets synpunkter behandlas i avsnitt 4 och i författningskommentaren. Regeringen har följt Lagrådets förslag.&lt;/P&gt;
+&lt;P class="p28 ft2"&gt;8&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_9"&gt;
+
+
+&lt;P class="p72 ft2"&gt;Prop. 2018/19:95&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t8"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr0 td21"&gt;&lt;SPAN class="p18 ft1"&gt;4&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td22"&gt;&lt;SPAN class="p73 ft1"&gt;Allvarlig miljöskada i Sveriges&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td21"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td22"&gt;&lt;SPAN class="p73 ft1"&gt;ekonomiska zon&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr12 td24"&gt;&lt;SPAN class="p15 ft44"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td23"&gt;&lt;SPAN class="p15 ft30"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr8 td25"&gt;&lt;SPAN class="p74 ft2"&gt;&lt;SPAN class="ft16"&gt;Regeringens förslag: &lt;/SPAN&gt;I fråga om allvarliga miljöskador på ett vatten-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td25"&gt;&lt;SPAN class="p74 ft2"&gt;område eller grundvatten ska miljöbalken tillämpas även i Sveriges&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td25"&gt;&lt;SPAN class="p74 ft2"&gt;ekonomiska zon.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td26"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td27"&gt;&lt;SPAN class="p75 ft2"&gt;I lagen om Sveriges ekonomiska zon införs en upplysning om att det&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td25"&gt;&lt;SPAN class="p74 ft2"&gt;enligt 10 kap. 18 a § miljöbalken finns bestämmelser i balken om all-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td25"&gt;&lt;SPAN class="p74 ft2"&gt;varliga miljöskador i Sveriges ekonomiska zon som ska tillämpas till&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td25"&gt;&lt;SPAN class="p74 ft2"&gt;skydd för den marina miljön.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td28"&gt;&lt;SPAN class="p15 ft45"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td29"&gt;&lt;SPAN class="p15 ft45"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td23"&gt;&lt;SPAN class="p15 ft46"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td21"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td22"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;SPAN class="ft16"&gt;Promemorians förslag &lt;/SPAN&gt;överensstämmer i sak med regeringens. Den&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td30"&gt;&lt;SPAN class="p15 ft2"&gt;nya bestämmelsen om allvarliga miljöskador i Sveriges ekonomiska zon&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr9 td30"&gt;&lt;SPAN class="p15 ft2"&gt;har fått en annan placering. Promemorian innehåller inte något förslag till&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td30"&gt;&lt;SPAN class="p15 ft2"&gt;ändring i lagen om Sveriges ekonomiska zon.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td21"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td22"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;SPAN class="ft16"&gt;Remissinstanserna: &lt;/SPAN&gt;Samtliga remissinstanser som yttrar sig förutom&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr9 td30"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;SPAN class="ft3"&gt;Försvarsmakten &lt;/SPAN&gt;är positiva till eller har inte några synpunkter på förslaget&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td30"&gt;&lt;SPAN class="p15 ft2"&gt;till lagändringar om utvidgat tillämpningsområde för miljöbalken. För-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td30"&gt;&lt;SPAN class="p15 ft18"&gt;svarsmakten anser att ett omtag kring förändringen bör göras för att i bestäm-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr9 td30"&gt;&lt;SPAN class="p15 ft2"&gt;melsen precisera vilken typ av förorening som ska åtgärdas för att kunna&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr8 td30"&gt;&lt;SPAN class="p15 ft2"&gt;bedöma och vidta eventuella materiella och infrastrukturella åtgärder.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr15 td30"&gt;&lt;SPAN class="p15 ft16"&gt;Skälen för regeringens förslag&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr15 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr16 td30"&gt;&lt;SPAN class="p15 ft3"&gt;Miljöansvarsdirektivet har ändrats genom offshoredirektivet&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr16 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr16 td30"&gt;&lt;SPAN class="p15 ft2"&gt;Genom artikel 38.1 i offshoredirektivet ändrades artikel 2.1 b i miljöans-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr16 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr9 td30"&gt;&lt;SPAN class="p15 ft2"&gt;varsdirektivet med avseende på definitionen av ”skador på vatten” på så&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr8 td30"&gt;&lt;SPAN class="p15 ft2"&gt;sätt att ett nytt led, ii, lades till. Artikel 2.1 b fick följande lydelse.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td21"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td22"&gt;&lt;SPAN class="p76 ft18"&gt;b) &lt;SPAN class="ft29"&gt;skador på vatten&lt;/SPAN&gt;, dvs. skador som har betydande negativa effekter&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td21"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td22"&gt;&lt;SPAN class="p76 ft18"&gt;i) på det berörda vattnets ekologiska, kemiska eller kvantitativa status&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td21"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td22"&gt;&lt;SPAN class="p76 ft2"&gt;eller ekologiska potential, enligt definitionen i direktiv 2000/60/EG,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td21"&gt;&lt;SPAN class="p15 ft30"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td22"&gt;&lt;SPAN class="p76 ft47"&gt;med undantag för sådana negativa effekter som omfattas av artikel 4.7 i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td23"&gt;&lt;SPAN class="p15 ft30"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td21"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td22"&gt;&lt;SPAN class="p76 ft2"&gt;det direktivet, eller&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td21"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td22"&gt;&lt;SPAN class="p76 ft18"&gt;ii) på miljöstatusen för de berörda marina farvattnen, enligt definitionen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td21"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td22"&gt;&lt;SPAN class="p76 ft2"&gt;i direktiv 2008/56/EG, i den mån särskilda aspekter av den marina&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td21"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td22"&gt;&lt;SPAN class="p76 ft2"&gt;miljöns miljöstatus inte redan beaktas i direktiv 2000/60/EG.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr17 td30"&gt;&lt;SPAN class="p15 ft3"&gt;Tillämpning utanför territorialgränsen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr17 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr16 td30"&gt;&lt;SPAN class="p15 ft2"&gt;Miljöbalken är enligt grundläggande rättsliga principer tillämplig endast&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr16 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td30"&gt;&lt;SPAN class="p15 ft2"&gt;på svenskt territorium. Tillämpningsområdet kan dock utvidgas till att&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr9 td30"&gt;&lt;SPAN class="p15 ft2"&gt;sträcka sig utanför svenskt territorium om det särskilt anges i miljöbalken&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td30"&gt;&lt;SPAN class="p15 ft2"&gt;eller i annan lag, jfr propositionen Miljöbalk (prop. 1997/98:45, del 2,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td30"&gt;&lt;SPAN class="p15 ft2"&gt;s. 11) och propositionen Miljöskyddet i Sveriges ekonomiska zon (prop.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr9 td30"&gt;&lt;SPAN class="p15 ft2"&gt;2007/08:154 s. 8 f.). Sådana bestämmelser finns i 1 kap. miljöbalken som&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td23"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr5 td30"&gt;&lt;SPAN class="p15 ft2"&gt;reglerar miljöbalkens mål och tillämpningsområde, i 7 kap. som innehåller&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD rowspan=2 class="tr2 td23"&gt;&lt;SPAN class="p13 ft2"&gt;9&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr18 td21"&gt;&lt;SPAN class="p15 ft48"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr18 td22"&gt;&lt;SPAN class="p15 ft48"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_10"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p77 ft2"&gt;Prop. 2018/19:95&lt;/P&gt;
+&lt;P class="p25 ft2"&gt;10&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p78 ft17"&gt;bestämmelser om skydd av områden och i 15 kap. som innehåller bestämmelser om avfall. I lagen (1966:314) om kontinentalsockeln och lagen (1992:1140) om Sveriges ekonomiska zon finns också bestämmelser som utsträcker miljöbalkens tillämpningsområde utanför Sveriges territorium.&lt;/P&gt;
+&lt;P class="p79 ft2"&gt;Genom bestämmelserna i lagen om Sveriges ekonomiska zon och lagen om kontinentalsockeln är de allmänna hänsynsreglerna, däribland den rättsligt bindande materiella regeln i 2 kap. 8 § miljöbalken, tillämpliga även inom den ekonomiska zonen och på kontinentalsockeln. Enligt 2 kap. 8 § miljöbalken gäller att alla som bedriver eller har bedrivit en verksamhet eller vidtagit en åtgärd som medfört skada eller olägenhet för miljön ansvarar till dess att skadan eller olägenheten har upphört för att denna avhjälps i den omfattning det kan anses skäligt enligt 10 kap. miljöbalken. Reglerna i 10 kap. är en precisering av detta ansvar. I miljöbalken finns också en bestämmelse i 7 kap. 32 § som innebär att balkens bestämmelser om Natura &lt;NOBR&gt;2000-områden&lt;/NOBR&gt; ska tillämpas även i Sveriges ekonomiska zon.&lt;/P&gt;
+&lt;P class="p80 ft17"&gt;Enligt den utvidgade definitionen av skador på vatten i miljöansvarsdirektivets artikel 2.1 b ii ska direktivet tillämpas inte bara på kust- och territorialvatten utan även ut till den yttersta gränsen för den ekonomiska zonen.&lt;/P&gt;
+&lt;P class="p79 ft2"&gt;Som nämnts innehåller miljöbalken och annan lagstiftning regler till skydd för och bevarande av den marina miljön i den ekonomiska zonen. Svensk lagstiftning innehåller dock inte några regler som direkt avser skada på miljöstatusen utanför territorialgränsen och de därav följande kraven enligt miljöansvarsdirektivet. För att miljöansvarsdirektivets bestämmelser om miljöansvar ska få rättsligt bindande effekt i ekonomiska zonen bör det därför införas en ny paragraf i miljöbalken, 10 kap. 18 a §, med innebörden att bestämmelserna i miljöbalken ska tillämpas även i Sveriges ekonomiska zon i fråga om allvarliga miljöskador på ett vattenområde eller grundvatten. Det bör även göras en följdändring i 1 kap. 2 § miljöbalken på så sätt att den nya bestämmelsen 10 kap. 18 a § läggs till i uppräkningen över bestämmelser om miljöbalkens tillämpningsområde utanför Sveriges gränser.&lt;/P&gt;
+&lt;P class="p81 ft2"&gt;Den nya bestämmelsen i 10 kap. 18 a § miljöbalken reglerar endast det territoriella tillämpningsområdet för miljöbalkens bestämmelser i fråga om allvarliga miljöskador. Vägledande för att avgöra vilken påverkan som utgör en allvarlig miljöskada är begreppen miljöstatus i Europaparlamentets och rådets direktiv 2008/56/EG av den 17 juni 2008 om upprättande av en ram för gemenskapens åtgärder på havsmiljöpolitikens område respektive vattnets ekologiska, kemiska eller kvantitativa status eller ekologiska potential i Europaparlamentets och rådets direktiv 2000/60/EG av den 23 oktober 2000 om upprättande av en ram för gemenskapens åtgärder på vattenpolitikens område. Det är alltså inte möjligt att inom ramen för detta ärende precisera vilken typ av förorening som ska åtgärdas, på det sätt som &lt;SPAN class="ft3"&gt;Försvarsmakten &lt;/SPAN&gt;begärt.&lt;/P&gt;
+&lt;P class="p82 ft3"&gt;Lagen om Sveriges ekonomiska zon&lt;/P&gt;
+&lt;P class="p83 ft17"&gt;I 3 § lagen om Sveriges ekonomiska zon finns hänvisningar till bestämmelser i miljöbalken och annan lagstiftning som ska tillämpas till skydd för den marina miljön. Till följd av förslaget om att införa en ny bestämmelse, 10 kap. 18 a § miljöbalken, som innebär att balken ska tillämpas&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_11"&gt;
+&lt;DIV id="p11dimg1"&gt;
+&lt;INGENBILD zsrc="H6039511x1.jpg/" id="p11img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p84 ft17"&gt;även i Sveriges ekonomiska zon i fråga om allvarliga miljöskador på ett Prop. 2018/19:95 vattenområde eller grundvatten bör det, som &lt;SPAN class="ft34"&gt;Lagrådet &lt;/SPAN&gt;anfört, införas en&lt;/P&gt;
+&lt;P class="p85 ft2"&gt;upplysning om den bestämmelsen i lagen om Sveriges ekonomiska zon.&lt;/P&gt;
+&lt;P class="p7 ft1"&gt;&lt;SPAN class="ft1"&gt;5&lt;/SPAN&gt;&lt;SPAN class="ft8"&gt;Tillträde för att avhjälpa en miljöskada&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p86 ft17"&gt;&lt;SPAN class="ft49"&gt;Regeringens förslag: &lt;/SPAN&gt;Länsstyrelsen får besluta att den som på en fastighet, byggnad eller anläggning ska vidta en åtgärd för att enligt 10 kap. miljöbalken avhjälpa en miljöskada ska ha rätt till tillträde till fastigheten, byggnaden eller anläggningen under en viss tid.&lt;/P&gt;
+&lt;P class="p87 ft4"&gt;&lt;SPAN class="ft50"&gt;Promemorians förslag &lt;/SPAN&gt;överensstämmer med regeringens. &lt;SPAN class="ft50"&gt;Remissinstanserna: &lt;/SPAN&gt;Majoriteten av de remissinstanser som yttrar sig är&lt;/P&gt;
+&lt;P class="p88 ft2"&gt;positiva till eller har inte några synpunkter på förslaget till lagändringar om tillträdesrätt i 28 kap. miljöbalken. &lt;SPAN class="ft3"&gt;Statens geotekniska institut &lt;/SPAN&gt;bedömer att den föreslagna ändringen möjliggör önskat resultat. &lt;SPAN class="ft3"&gt;Försvarsmakten &lt;/SPAN&gt;anser dock att ett undantag bör införas för de fastigheter, byggnader och anläggningar som myndigheten nyttjar, med anledning av rikets säkerhet samt då dessa utgör skyddsvärda objekt som inte länsstyrelsen bör ha möjlighet att medge tillträde till.&lt;/P&gt;
+&lt;P class="p40 ft2"&gt;&lt;SPAN class="ft16"&gt;Skälen för regeringens förslag: &lt;/SPAN&gt;I förordningen (2004:100) om avhjälpande av föroreningsskador och statligt stöd för sådant avhjälpande finns bestämmelser om bidrag för att avhjälpa föroreningsskador som aves i 10 kap. miljöbalken. Bidrag kan ges till undersöknings- och avhjälpandeåtgärder enligt vad som närmare specificeras i 2 § i nämnda förordning. Naturvårdsverket ansvarar för bedömningar, prioriteringar och utbetalningar av medel, men det är länsstyrelsen som ansöker om och erhåller bidraget. Länsstyrelsen får besluta att överlämna bidraget till en kommun eller till en annan myndighet som är huvudman för avhjälpandet.&lt;/P&gt;
+&lt;P class="p89 ft2"&gt;I de fall ett område har prioriterats för statliga bidrag och en myndighet eller en kommun har utsetts att vara huvudman för projektet är markägaren normalt intresserad av att föroreningsskadan avhjälps. För de ovanliga fallen att ägaren eller innehavaren av marken skulle motsätta sig ett avhjälpande ges i 28 kap. 5 § miljöbalken ett rättsligt stöd för att tvångsvis genomföra åtgärder för den som är skyldig enligt 10 kap. miljöbalken att avhjälpa en miljöskada. En kommun eller en myndighet som har utsetts att vara huvudman för ett efterbehandlingsprojekt kan emellertid inte anses ha en skyldighet enligt 10 kap. miljöbalken att avhjälpa en miljöskada. Bestämmelsen i 28 kap. 5 § miljöbalken bör därför ändras så att den som ska vidta en åtgärd för att avhjälpa en miljöskada kan ges rätt till tillträde efter beslut av länsstyrelsen. Kommunen eller myndigheten ges därmed en tillträdesrätt eftersom de genom huvudmannaskapet har åtagit sig ansvaret för att avhjälpa skadan.&lt;/P&gt;
+&lt;P class="p90 ft17"&gt;När det gäller det som &lt;SPAN class="ft34"&gt;Försvarsmakten &lt;/SPAN&gt;har anfört om att ett undantag bör införas för de fastigheter, byggnader och anläggningar som Försvarsmakten nyttjar kan konstateras att 28 kap. miljöbalken, utöver i 5 §, innehåller flera bestämmelser som möjliggör beslut om tillträde till fastigheter,&lt;/P&gt;
+&lt;P class="p91 ft2"&gt;11&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_12"&gt;
+&lt;DIV id="p12dimg1"&gt;
+&lt;INGENBILD zsrc="H6039512x1.jpg/" id="p12img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p92 ft2"&gt;Prop. 2018/19:95 anläggningar och byggnader. Något undantag för de fastigheter, anläggningar och byggnader som Försvarsmakten nyttjar finns inte. Den ändring av 28 kap. 5 § miljöbalken som nu föreslås syftar endast till att möjliggöra för tillträdesbeslut när en kommun eller en myndighet har utsetts att vara huvudman för ett efterbehandlingsprojekt. Det rör sig alltså om en mindre ändring som inte i sig bör föranleda ett undantag som avviker från miljöbalkens övriga regler om tillträde.&lt;/P&gt;
+&lt;P class="p93 ft2"&gt;Därutöver är tillträdesbestämmelsen i 28 kap. 5 § avsedd för de ovanliga fall då markägaren motsätter sig ett avhjälpande av en miljöskada. När staten, till exempel genom Försvarsmakten, bedriver en verksamhet eller vidtar en åtgärd är en naturlig utgångspunkt att staten tar ansvar för avhjälpande av miljöskador som orsakas av verksamheten eller åtgärden. Denna utgångspunkt gäller även inom ramen för Försvarsmaktens verksamhet i den mån denna inte enligt 22 § förordningen (2007:667) om allvarliga miljöskador är undantagen kraven på avhjälpande. Undantaget för försvarsverksamheter följer av att miljöansvarsdirektivet enligt artikel 4.6 inte omfattar verksamheter vars främsta syfte är att tillhandahålla tjänster åt det nationella försvaret eller tjäna internationell säkerhet, se propositionen Ett utvidgat miljöansvar (prop. 2006/07:95 s. 83 och 84).&lt;/P&gt;
+&lt;P class="p94 ft2"&gt;Utgångspunkten är alltså att bestämmelsen om beslut om tillträde inte kommer att behöva användas när det gäller fastigheter, anläggningar och byggnader som nyttjas av Försvarsmakten. Om det ändå skulle bli aktuellt, gäller att förutsättningarna för tillträde kan vara begränsade med anledning av att den aktuella fastigheten, anläggningen eller byggnaden utgör ett skyddsobjekt, vilket typiskt sätt innebär tillträdesförbud för de som är obehöriga enligt skyddslagen (2010:305). Vilka som är behöriga avgörs av den som äger eller nyttjar skyddsobjektet. Även byggnader, andra anläggningar och områden som ägs av enskilda kan beslutas vara skyddsobjekt. Ett skäl för att det fattats ett sådant beslut kan vara att det på byggnaden bedrivs säkerhetskänslig verksamhet enligt säkerhetsskyddslagen (2018:585). Länsstyrelsen måste vid beslut om tillträde till en sådan byggnad för att avhjälpa en miljöskada försäkra sig om att åtgärderna inte innebär risk för skada för Sveriges säkerhet.&lt;/P&gt;
+&lt;P class="p95 ft4"&gt;Det finns därmed inte skäl att införa ett sådant undantag för försvarsanläggningar som Försvarsmakten har efterfrågat.&lt;/P&gt;
+&lt;P class="p96 ft52"&gt;&lt;SPAN class="ft1"&gt;6&lt;/SPAN&gt;&lt;SPAN class="ft51"&gt;Sveriges sjöterritorium och maritima zoner&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p97 ft17"&gt;&lt;SPAN class="ft49"&gt;Regeringens förslag: &lt;/SPAN&gt;En hänvisning i miljöbalken till vattendistriktens geografiska omfattning justeras så att rätt uttryck används och hänvisningen görs till rätt bestämmelser.&lt;/P&gt;
+&lt;P class="p98 ft4"&gt;&lt;SPAN class="ft50"&gt;Promemorians förslag &lt;/SPAN&gt;överensstämmer med regeringens. &lt;SPAN class="ft50"&gt;Remissinstanserna: &lt;/SPAN&gt;Samtliga remissinstanser som yttrar sig är positiva&lt;/P&gt;
+&lt;P class="p99 ft2"&gt;till eller har inte några synpunkter på lagändringarna som rör Sveriges&lt;/P&gt;
+&lt;P class="p100 ft2"&gt;12&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_13"&gt;
+&lt;DIV id="p13dimg1"&gt;
+&lt;INGENBILD zsrc="H6039513x1.jpg/" id="p13img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p84 ft17"&gt;sjöterritorium och maritima zoner. Några länsstyrelser, däribland &lt;SPAN class="ft34"&gt;Läns- &lt;/SPAN&gt;Prop. 2018/19:95 &lt;SPAN class="ft34"&gt;styrelsen i Västernorrlands län &lt;/SPAN&gt;som även är vattenmyndighet för Botten-&lt;/P&gt;
+&lt;P class="p88 ft2"&gt;havets vattendistrikt, anser att för frågor som rör vattenförvaltningen innebär förslaget att ändringar behöver göras i avgränsningen av kustvattenförekomsterna i vattendistrikten.&lt;/P&gt;
+&lt;P class="p101 ft2"&gt;&lt;SPAN class="ft16"&gt;Skälen för regeringens förslag: &lt;/SPAN&gt;Lagen (2017:1272) om Sveriges sjöterritorium och maritima zoner ersatte bland annat lagen (1966:374) om Sveriges sjöterritorium. I en bilaga till den nya lagen anges de särskilda avgränsningslinjer i havet, en nautisk mil räknat från baslinjerna, som förekommer inom &lt;NOBR&gt;EU-samarbetet&lt;/NOBR&gt; med enhetliga geografiska koordinater. I&lt;/P&gt;
+&lt;P class="p102 ft2"&gt;4 kap. 10 § första stycket miljöbalken ändrades hänvisningen från den baslinje som avses i den gamla lagen om Sveriges sjöterritorium till de särskilda avgränsningslinjer som framgår av bilaga 6 till den nya lagen om Sveriges sjöterritorium och maritima zoner, se propositionen Sveriges sjöterritorium och maritima zoner (prop. 2016/17:215, bet. 2017/18:UU7 och rskr. 2017/18:49).&lt;/P&gt;
+&lt;P class="p103 ft17"&gt;I 5 kap. 13 § andra stycket miljöbalken finns en hänvisning till samma avgränsningslinjer som i 4 kap. 10 § första stycket miljöbalken. Av förbiseende gjordes dock inte motsvarande ändring i 5 kap. 13 §. Den ändringen bör göras.&lt;/P&gt;
+&lt;P class="p40 ft17"&gt;Den föreslagna följdändringen i 5 kap. 13 § miljöbalken är en anpassning till den geografiska avgränsning som vattendistrikten har fått genom den nya lagen om Sveriges sjöterritorium och maritima zoner. De eventuella problem som den nya avgränsningen kan föranleda för vattenförvaltningen måste hanteras i ett annat sammanhang. Synpunkter från ett antal länsstyrelser, däribland &lt;SPAN class="ft34"&gt;Länsstyrelsen i Västernorrlands län, &lt;/SPAN&gt;kan alltså inte hanteras inom ramen för detta ärende.&lt;/P&gt;
+&lt;P class="p104 ft1"&gt;&lt;SPAN class="ft1"&gt;7&lt;/SPAN&gt;&lt;SPAN class="ft8"&gt;Ikraftträdande&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p105 ft4"&gt;&lt;SPAN class="ft50"&gt;Regeringens förslag: &lt;/SPAN&gt;Lagändringarna ska träda i kraft den 1 augusti 2019.&lt;/P&gt;
+&lt;P class="p106 ft2"&gt;&lt;SPAN class="ft16"&gt;Promemorians förslag: &lt;/SPAN&gt;Lagändringarna ska träda i kraft den 1 juli 2019.&lt;/P&gt;
+&lt;P class="p107 ft2"&gt;&lt;SPAN class="ft16"&gt;Remissinstanserna &lt;/SPAN&gt;yttrar sig inte i frågan om ikraftträdande.&lt;/P&gt;
+&lt;P class="p103 ft17"&gt;&lt;SPAN class="ft49"&gt;Skälen för regeringens förslag: &lt;/SPAN&gt;Eftersom en del av de föreslagna författningsändringarna avser genomförande av ett direktiv och är föranledda av kritik från kommissionen bör de träda i kraft så snart som möjligt. Övriga författningsändringar bör träda i kraft samtidigt.&lt;/P&gt;
+&lt;P class="p108 ft2"&gt;13&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_14"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p77 ft2"&gt;Prop. 2018/19:95&lt;/P&gt;
+&lt;P class="p25 ft2"&gt;14&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft1"&gt;&lt;SPAN class="ft1"&gt;8&lt;/SPAN&gt;&lt;SPAN class="ft12"&gt;Konsekvenser&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p109 ft3"&gt;Allvarlig miljöskada i Sveriges ekonomiska zon&lt;/P&gt;
+&lt;P class="p32 ft2"&gt;En bedömning av konsekvenserna av att genomföra miljöansvarsdirektivet har tidigare gjorts i propositionen Ett utvidgat miljöansvar (prop. 2006/07:95). Syftet med det nu aktuella förslaget är att komma till rätta med en brist i genomförandet av offshoredirektivet i den del som avser ändringen i miljöansvarsdirektivet och som kommissionen pekat på i sin granskning av Sveriges genomförande.&lt;/P&gt;
+&lt;P class="p110 ft2"&gt;Förslagen medför att de svenska bestämmelserna på ett tydligare sätt genomför direktivet. Ändringarna går inte utöver de skyldigheter som följer av Sveriges anslutning till Europeiska unionen. Mot bakgrund av kommissionens kritik och att kommissionen har inlett ett överträdelseförfarande mot Sverige är förändringar i den svenska lagstiftningen nödvändiga. Förslaget är avsett att komma till rätta med de brister som kommissionen pekat på och som kräver ändring i lag. Det är inte möjligt att komma till rätta med bristerna genom vägledning eller frivilliga åtaganden. Om kommissionen bedömer att Sverige inte genomfört ändringar som motsvarar miljöansvarsdirektivets krav kan kommissionen gå vidare i överträdelseförfarandet och komma att väcka talan om fördragsbrott mot Sverige i EU- domstolen.&lt;/P&gt;
+&lt;P class="p111 ft4"&gt;De ändringar som föreslås är endast mindre justeringar av den reglering som tidigare genomförts och förslaget bedöms inte medföra några ökade kostnader eller konsekvenser av betydelse.&lt;/P&gt;
+&lt;P class="p28 ft3"&gt;Tillträde för att avhjälpa en miljöskada&lt;/P&gt;
+&lt;P class="p112 ft2"&gt;I de allra flesta fall är markägaren intresserad av att efterbehandling genomförs. Den föreslagna ändringen ger en möjlighet till tillträde för de ovanliga fall då markägaren motsätter sig att en miljöskada avhjälps trots att området har prioriterats för statliga bidrag. Bestämmelsen aktualiserar därför det skydd för egendom som gäller enligt 2 kap. 15 § regeringsformen, artikel 17 i EU:s stadga om de grundläggande rättigheterna &lt;NOBR&gt;(EU-stad-&lt;/NOBR&gt; gan) och artikel 1 i första tilläggsprotokollet till den europeiska konventionen om skydd för de mänskliga rättigheterna och de grundläggande friheterna (Europakonventionen). Bestämmelsen i 2 kap. 15 § regeringsformen ger skydd mot bland annat ingrepp som innebär att det allmänna inskränker användningen av enskildas mark och byggnader. En sådan rådighetsinskränkning är tillåten enligt regeringsformen bara om den görs för att tillgodose angelägna allmänna intressen. Den närmare innebörden av uttrycket allmänna intressen är inte möjligt att beskriva i detalj men det handlar ofta om sådana ingrepp som är motiverade med hänsyn till intresset av att kunna tillgodose allmänhetens berättigande krav på en god miljö och möjligheterna att kunna bevara och skydda områden som är av särskild betydelse från naturvårdssynpunkt. I praktiken blir det ofta fråga om att göra en proportionalitetsbedömning när det avgörs vad som är ett angeläget allmänt intresse. Vad som är ett angeläget allmänt intresse måste&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_15"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p113 ft18"&gt;till slut i viss mån också bli föremål för en politisk värdering där hänsyn tas till vad som är godtagbart från rättssäkerhetssynpunkt i ett modernt och demokratiskt samhälle, se propositionen Inkorporering av Europakonventionen och andra fri- och rättighetsfrågor (prop. 1993/94:117 s. 48). Även artikel 17 i &lt;NOBR&gt;EU-stadgan&lt;/NOBR&gt; och artikel 1 i första tilläggsprotokollet till Europakonventionen bygger på att det görs en avvägning mellan allmänna och enskilda intressen samt att en rimlig balans uppnås däremellan.&lt;/P&gt;
+&lt;P class="p114 ft2"&gt;Om någon reglering inte kommer till stånd skulle en kommun eller en myndighet som har utsetts till huvudman inte kunna avhjälpa en miljöskada inom områden som har prioriterats för efterbehandling om markägaren motsätter sig åtgärden. Det övergripande syftet med efterbehandling av förorenade områden är att minska riskerna för människors hälsa och miljön. Arbetet är en viktig del för att nå miljökvalitetsmålet Giftfri miljö, men även andra miljökvalitetsmål. Att avhjälpa en miljöskada är alltså av starkt allmänt intresse som väger tungt vid en proportionalitetsbedömning.&lt;/P&gt;
+&lt;P class="p115 ft2"&gt;Bestämmelsen förväntas tillämpas endast i begränsad omfattning. För kommuner och myndigheter som genomför efterbehandling medför förslaget endast fördelar genom förbättrade möjligheter till tillträde. För ägare till sådana fastigheter som har prioriterats eller kan komma att prioriteras för efterbehandling och som motsätter sig sådan innebär förslaget en rådighetsinskränkning. I 28 kap. 6 § miljöbalken finns en aktsamhetsregel som är gemensam för bestämmelserna om tillträde. Undersökningar och andra åtgärder ska utföras så att minsta skada och intrång orsakas och tillträde till bostäder är begränsad med hänsyn till det särskilda integritetsintrång som ett sådant tillträde innebär. Vidare följer av 28 kap. 5 § miljöbalken att det är länsstyrelsen som prövar frågan om tillträde. Det innebär att förvaltningslagens (2017:900) regler för handläggning av förvaltningsärenden blir tillämpliga. Bland annat ska den som berörs av tillträdet beredas tillfälle att yttra sig och prövningsmyndigheten ska enligt 5 § tredje stycket förvaltningslagen göra en proportionalitetsbedömning (se prop. 2016/17:180 s. 60 f.). Det innebär att en åtgärd endast får vidtas om den är nödvändig, lämplig och proportionerlig. Sammanfattningsvis är bedömningen att den marginella utökning av tvångsingreppen i 28 kap. miljöbalken som nu föreslås är förenlig med egendomsskyddet i 2 kap. 15 § första stycket regeringsformen, artikel 17 i &lt;NOBR&gt;EU-stadgan&lt;/NOBR&gt; och artikel 1 i första tilläggsprotokollet till Europakonventionen.&lt;/P&gt;
+&lt;P class="p116 ft3"&gt;Sveriges sjöterritorium och maritima zoner&lt;/P&gt;
+&lt;P class="p117 ft17"&gt;Konsekvenserna av att vattendistrikten avgränsas genom avgränsningslinjer som framgår av bilaga 6 till lagen (2017:1272) om Sveriges sjöterritorium och maritima zoner i stället för baslinjer enligt den upphävda lagen (1966:374) om Sveriges sjöterritorium har redan bedömts i lagstiftningsärendet om den nya lagen om Sveriges sjöterritorium (prop. 2016/17:215).&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft2"&gt;Prop. 2018/19:95&lt;/P&gt;
+&lt;P class="p118 ft2"&gt;15&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_16"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p77 ft2"&gt;Prop. 2018/19:95&lt;/P&gt;
+&lt;P class="p25 ft2"&gt;16&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft1"&gt;&lt;SPAN class="ft1"&gt;9&lt;/SPAN&gt;&lt;SPAN class="ft12"&gt;Författningskommentar&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p109 ft13"&gt;&lt;SPAN class="ft13"&gt;9.1&lt;/SPAN&gt;&lt;SPAN class="ft14"&gt;Förslaget till lag om ändring i miljöbalken&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p119 ft16"&gt;1 kap.&lt;/P&gt;
+&lt;P class="p32 ft47"&gt;&lt;SPAN class="ft53"&gt;2 § &lt;/SPAN&gt;Bestämmelserna i denna balk om hushållning med mark- och vattenområden, tillstånd, anmälan och tillåtlighet ska i fråga om geologisk lagring av koldioxid tillämpas även på Sveriges kontinentalsockel utanför territorialgränsen.&lt;/P&gt;
+&lt;P class="p110 ft18"&gt;Ytterligare bestämmelser om balkens tillämpning utanför territorialgränsen finns i 7 kap. 32 §&lt;SPAN class="ft29"&gt;, 10 kap. 18 a § &lt;/SPAN&gt;och 15 kap. 27 § samt i lagen (1966:314) om kontinentalsockeln och i lagen (1992:1140) om Sveriges ekonomiska zon.&lt;/P&gt;
+&lt;P class="p120 ft17"&gt;Paragrafens &lt;SPAN class="ft34"&gt;första stycke &lt;/SPAN&gt;innehåller bestämmelser om miljöbalkens tillämpningsområde utanför Sveriges gränser i fråga om geologisk lagring av koldioxid.&lt;/P&gt;
+&lt;P class="p79 ft2"&gt;&lt;SPAN class="ft3"&gt;Andra stycket &lt;/SPAN&gt;innehåller en upplysning om att det finns ytterligare bestämmelser om miljöbalkens tillämpning utanför Sveriges gränser i balken och i annan lagstiftning. Det nya i bestämmelsen är att en hänvisning till den nya 10 kap. 18 a § har lagts till. Genom den nya hänvisningen upplyses det om att miljöbalken ska tillämpas även i Sveriges ekonomiska zon i fråga om allvarliga miljöskador på ett vattenområde eller grundvatten.&lt;/P&gt;
+&lt;P class="p121 ft2"&gt;Övervägandena finns i avsnitt 4.&lt;/P&gt;
+&lt;P class="p122 ft16"&gt;5 kap.&lt;/P&gt;
+&lt;P class="p123 ft18"&gt;&lt;SPAN class="ft54"&gt;13 § &lt;/SPAN&gt;För förvaltningen av kvaliteten på vattenmiljön &lt;SPAN class="ft29"&gt;ska &lt;/SPAN&gt;Sveriges landområden och kustvattenområden delas in i&lt;/P&gt;
+&lt;P class="p124 ft47"&gt;&lt;SPAN class="ft47"&gt;1.&lt;/SPAN&gt;&lt;SPAN class="ft55"&gt;Bottenvikens vattendistrikt:&lt;/SPAN&gt; det landområde från vilket all ytvattenavrinning sker direkt till eller i avrinningsområden som mynnar i Bottenviken,&lt;/P&gt;
+&lt;P class="p124 ft56"&gt;&lt;SPAN class="ft56"&gt;2.&lt;/SPAN&gt;&lt;SPAN class="ft57"&gt;Bottenhavets vattendistrikt:&lt;/SPAN&gt; det landområde från vilket all ytvattenavrinning sker direkt till eller i avrinningsområden som mynnar i Bottenhavet,&lt;/P&gt;
+&lt;P class="p36 ft47"&gt;&lt;SPAN class="ft47"&gt;3.&lt;/SPAN&gt;&lt;SPAN class="ft55"&gt;Norra Östersjöns vattendistrikt:&lt;/SPAN&gt; det landområde från vilket all ytvattenavrinning sker direkt till eller i avrinningsområden som mynnar i södra Ålands hav eller norra Gotlandshavet,&lt;/P&gt;
+&lt;P class="p36 ft47"&gt;&lt;SPAN class="ft47"&gt;4.&lt;/SPAN&gt;&lt;SPAN class="ft55"&gt;Södra Östersjöns vattendistrikt:&lt;/SPAN&gt; det landområde från vilket all ytvattenavrinning sker direkt till eller i avrinningsområden som mynnar i västra Gotlandshavet, östra Gotlandshavet, Bornholmshavet, Arkonahavet eller Öresund, och&lt;/P&gt;
+&lt;P class="p124 ft47"&gt;&lt;SPAN class="ft47"&gt;5.&lt;/SPAN&gt;&lt;SPAN class="ft55"&gt;Västerhavets vattendistrikt:&lt;/SPAN&gt; det landområde från vilket all ytvattenavrinning sker direkt till eller i avrinningsområden som mynnar i Västerhavet.&lt;/P&gt;
+&lt;P class="p79 ft56"&gt;I varje vattendistrikt ingår anslutande &lt;SPAN class="ft58"&gt;grundvatten &lt;/SPAN&gt;och anslutande &lt;SPAN class="ft58"&gt;kustvatten &lt;/SPAN&gt;ut till &lt;SPAN class="ft58"&gt;de särskilda avgränsningslinjer, en nautisk mil räknat från baslinjerna, som framgår av bilaga 6 till lagen (2017:1272) om Sveriges sjöterritorium och maritima zoner.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p125 ft18"&gt;Med avrinningsområde avses ett landområde från vilket all ytvattenavrinning strömmar till havet genom ett enda utlopp eller delta.&lt;/P&gt;
+&lt;P class="p79 ft47"&gt;Ytvatten, grundvatten, kustvatten och landområden vid kusten som inte kan hänföras till ett visst avrinningsområde &lt;SPAN class="ft59"&gt;ska &lt;/SPAN&gt;hänföras till det vattendistrikt som är närmast eller lämpligast.&lt;/P&gt;
+&lt;P class="p79 ft29"&gt;&lt;SPAN class="ft18"&gt;Regeringen &lt;/SPAN&gt;kan med stöd av 8 kap. 7 § regeringsformen meddela &lt;SPAN class="ft18"&gt;föreskrifter om gränsdragningen mellan vattendistrikten. Vid gränsdragningen får ett enskilt&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_17"&gt;
+
+
+&lt;P class="p84 ft18"&gt;avrinningsområde hänföras till annat vattendistrikt än vad som följer av första &lt;SPAN class="ft2"&gt;Prop. 2018/19:95 &lt;/SPAN&gt;stycket, om det är lämpligt med hänsyn till förvaltningsarbetet.&lt;/P&gt;
+&lt;P class="p126 ft2"&gt;I paragrafen beskrivs Sveriges indelning i vattendistrikt.&lt;/P&gt;
+&lt;P class="p40 ft2"&gt;Ändringen i &lt;SPAN class="ft3"&gt;andra stycket &lt;/SPAN&gt;innebär att hänvisningen till baslinjer enligt den upphävda lagen (1966:374) om Sveriges sjöterritorium ersätts av en hänvisning till de avgränsningslinjer som framgår av bilaga 6 till lagen (2017:1272) om Sveriges sjöterritorium och maritima zoner. Lagen om Sveriges sjöterritorium har ersatts av lagen om Sveriges sjöterritorium och maritima zoner (prop. 2016/17:215, bet. 2017/18:UU7, rskr. 2017/18:49).&lt;/P&gt;
+&lt;P class="p127 ft3"&gt;Första &lt;SPAN class="ft2"&gt;och &lt;/SPAN&gt;fjärde styckena &lt;SPAN class="ft2"&gt;moderniseras språkligt. I &lt;/SPAN&gt;femte stycket&lt;SPAN class="ft2"&gt;, som tidigare hade beteckningen 5 kap. 10 § fjärde stycket, görs en språklig ändring för att tydliggöra att bestämmelsen är en upplysningsbestämmelse (se propositionen Förvaltning av kvaliteten på vattenmiljön, prop. 2003/04:2 s. 26 och 35), det vill säga en upplysning om att regeringen enligt 8 kap. 7 § regeringsformen kan meddela verkställighetsföreskrifter eller föreskrifter med stöd av restkompetensen. Ingen ändring i sak är avsedd.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p9 ft2"&gt;Övervägandena finns i avsnitt 6.&lt;/P&gt;
+&lt;P class="p128 ft16"&gt;10 kap.&lt;/P&gt;
+&lt;P class="p129 ft29"&gt;&lt;SPAN class="ft60"&gt;18 a § &lt;/SPAN&gt;I fråga om sådana allvarliga miljöskador som avses i 1 § andra stycket 2 ska bestämmelserna i denna balk tillämpas även i Sveriges ekonomiska zon.&lt;/P&gt;
+&lt;P class="p130 ft2"&gt;Paragrafen är ny och innebär att miljöbalken ska tillämpas även i Sveriges ekonomiska zon i fråga om allvarliga miljöskador på ett vattenområde eller grundvatten i zonen. För sådana miljöskador ska alltså de bestämmelser i 10 kap. som handlar om allvarliga miljöskador, men även till exempel den bevisbörderegel som finns i 2 kap. 1 § tillämpas även i Sveriges ekonomiska zon. Den som bedriver eller har bedrivit en verksamhet eller vidtagit en åtgärd som har bidragit till en allvarlig miljöskada på ett vattenområde eller grundvatten i Sveriges ekonomiska zon är alltså ansvarig för att avhjälpa skadan enligt 10 kap. Bestämmelsens placering i kapitlet följer &lt;SPAN class="ft3"&gt;Lagrådets &lt;/SPAN&gt;förslag.&lt;/P&gt;
+&lt;P class="p131 ft2"&gt;Övervägandena finns i avsnitt 4.&lt;/P&gt;
+&lt;P class="p132 ft16"&gt;28 kap.&lt;/P&gt;
+&lt;P class="p133 ft47"&gt;&lt;SPAN class="ft53"&gt;5 § &lt;/SPAN&gt;Länsstyrelsen får besluta &lt;SPAN class="ft59"&gt;att den som på &lt;/SPAN&gt;en fastighet, byggnad eller anläggning &lt;SPAN class="ft59"&gt;ska vidta en åtgärd för att enligt 10 kap. avhjälpa en miljöskada ska ha rätt till tillträde till fastigheten, byggnaden eller anläggningen under en viss tid.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p103 ft18"&gt;Den som utför åtgärden &lt;SPAN class="ft29"&gt;ska &lt;/SPAN&gt;betala ersättning för skada och intrång om inte fastighetsägaren eller innehavaren av särskild rätt själv har kostnadsansvar för åtgärden. Talan om ersättning &lt;SPAN class="ft29"&gt;ska &lt;/SPAN&gt;väckas vid &lt;SPAN class="ft29"&gt;mark- och miljödomstolen&lt;/SPAN&gt;.&lt;/P&gt;
+&lt;P class="p130 ft17"&gt;I paragrafen ges ett rättsligt stöd för att tvångsvis genomföra åtgärder för att avhjälpa en miljöskada.&lt;/P&gt;
+&lt;P class="p40 ft2"&gt;&lt;SPAN class="ft3"&gt;Första stycket &lt;/SPAN&gt;ändras så att kravet på att det ska finnas en skyldighet enligt 10 kap. att vidta en åtgärd för att avhjälpa en miljöskada tas bort. I stället används uttrycket ”ska vidta en åtgärd”. Ändringen innebär att tillträdesrätten inte längre är knuten till att den som begär tillträde har en&lt;/P&gt;
+&lt;P class="p22 ft61"&gt;skyldighet att avhjälpa en miljöskada enligt ansvarsbestämmelserna i&lt;/P&gt;
+&lt;P class="p134 ft2"&gt;17&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_18"&gt;
+
+
+&lt;P class="p135 ft2"&gt;Prop. 2018/19:95 10 kap. Det är fortfarande länsstyrelsen som ska fatta ett beslut om tillträde. Genom ändringen kan en kommun eller en myndighet som har utsetts att vara huvudman för att avhjälpa en föroreningsskada ges rätt att vidta åtgärder på en fastighet, byggnad eller anläggning som tillhör någon annan. Det är alltså fråga om sådana fall där avhjälpande ska genomföras enligt bestämmelserna i förordningen (2004:100) om avhjälpande av föroreningsskador och statligt stöd för sådant avhjälpande.&lt;/P&gt;
+&lt;P class="p136 ft17"&gt;Det ska även fortsättningsvis vara möjligt för länsstyrelsen att besluta om tillträde för den som har en skyldighet enligt 10 kap. att avhjälpa en miljöskada.&lt;/P&gt;
+&lt;P class="p137 ft2"&gt;Innebörden av ordet avhjälpande förklaras i 10 kap. 1 § tredje stycket. Där framgår att åtgärder som ska vidtas innefattar såväl undersökning som efterbehandling.&lt;/P&gt;
+&lt;P class="p138 ft4"&gt;Bestämmelsen moderniseras också språkligt. Övervägandena finns i avsnitt 5.&lt;/P&gt;
+&lt;P class="p139 ft41"&gt;&lt;SPAN class="ft13"&gt;9.2&lt;/SPAN&gt;&lt;SPAN class="ft62"&gt;Förslaget till lag om ändring i lagen (1992:1140) om Sveriges ekonomiska zon&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p140 ft18"&gt;&lt;SPAN class="ft54"&gt;3 § &lt;/SPAN&gt;Till skydd för den marina miljön finns det också bestämmelser om&lt;/P&gt;
+&lt;P class="p141 ft18"&gt;&lt;SPAN class="ft18"&gt;1.&lt;/SPAN&gt;&lt;SPAN class="ft63"&gt;geologisk lagring av koldioxid i 1 kap. 2 § och 4 kap. 9 § miljöbalken,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p141 ft47"&gt;&lt;SPAN class="ft47"&gt;2.&lt;/SPAN&gt;&lt;SPAN class="ft64"&gt;särskilda skyddade naturområden i 7 kap. &lt;/SPAN&gt;&lt;NOBR&gt;27–30&lt;/NOBR&gt; och 32 §§ miljöbalken,&lt;/P&gt;
+&lt;P class="p141 ft59"&gt;&lt;SPAN class="ft59"&gt;3.&lt;/SPAN&gt;&lt;SPAN class="ft65"&gt;allvarliga miljöskador i 10 kap. 18 a § miljöbalken,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p141 ft47"&gt;&lt;SPAN class="ft59"&gt;4&lt;/SPAN&gt;. dumpning i 15 kap. &lt;NOBR&gt;27–29&lt;/NOBR&gt; §§ miljöbalken,&lt;/P&gt;
+&lt;P class="p137 ft47"&gt;&lt;SPAN class="ft59"&gt;5&lt;/SPAN&gt;. föroreningar från fartyg i lagen (1980:424) om åtgärder mot förorening från fartyg, och&lt;/P&gt;
+&lt;P class="p137 ft18"&gt;&lt;SPAN class="ft29"&gt;6&lt;/SPAN&gt;. hantering och kontroll av fartygs barlastvatten och sediment från sådant vatten i barlastvattenlagen (2009:1165).&lt;/P&gt;
+&lt;P class="p142 ft2"&gt;I paragrafen upplyses det om de bestämmelser till skydd för den marina miljön som finns i andra lagar. Uppräkningen kompletteras i en ny &lt;SPAN class="ft3"&gt;tredje punkt &lt;/SPAN&gt;med en hänvisning till den nya bestämmelsen i 10 kap. 18 a § miljöbalken som innebär att miljöbalken ska tillämpas även i Sveriges ekonomiska zon i fråga om allvarliga miljöskador på ett vattenområde eller grundvatten i zonen. Nuvarande punkt &lt;NOBR&gt;3–5&lt;/NOBR&gt; omnumreras. Bestämmelsen har utformats i enlighet med &lt;SPAN class="ft3"&gt;Lagrådets &lt;/SPAN&gt;förslag.&lt;/P&gt;
+&lt;P class="p143 ft2"&gt;Övervägandena finns i avsnitt 4.&lt;/P&gt;
+&lt;P class="p144 ft2"&gt;18&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_19"&gt;
+
+
+&lt;P class="p20 ft2"&gt;Prop. 2018/19:95&lt;/P&gt;
+&lt;P class="p145 ft2"&gt;Bilaga 1&lt;/P&gt;
+&lt;P class="p3 ft1"&gt;Sammanfattning av promemorian&lt;/P&gt;
+&lt;P class="p146 ft2"&gt;I promemorian föreslås ändringar i miljöbalken för att förbättra genomförandet av miljöansvarsdirektivet (Europaparlamentets och rådets direktiv 2004/35/EG av den 21 april 2004 om miljöansvar för att förebygga och avhjälpa miljöskador). De föreslagna ändringarna innebär att miljöbalkens bestämmelser om allvarliga miljöskador även ska tillämpas i Sveriges ekonomiska zon.&lt;/P&gt;
+&lt;P class="p147 ft2"&gt;Det föreslås även en ändring i tillträdesbestämmelserna i 28 kap. miljöbalken. Ändringen innebär att en kommun eller en myndighet som ska genomföra efterbehandling i egenskap av huvudman enligt förordningen (2004:100) om avhjälpande av föroreningsskador och statligt stöd för sådant avhjälpande kan ges tillträde till en fastighet, byggnad eller anläggning för att vidta åtgärderna. Det görs också en hänvisning till den nya lagen (2017:1272) om Sveriges sjöterritorium och maritima zoner och en redaktionell ändring i 5 kap. miljöbalken.&lt;/P&gt;
+&lt;P class="p148 ft2"&gt;19&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_20"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p149 ft4"&gt;Prop. 2018/19:95 Bilaga 2&lt;/P&gt;
+&lt;P class="p150 ft2"&gt;20&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft1"&gt;Promemorians lagförslag&lt;/P&gt;
+&lt;P class="p151 ft2"&gt;Härigenom föreskrivs i fråga om miljöbalken&lt;/P&gt;
+&lt;P class="p29 ft17"&gt;&lt;SPAN class="ft34"&gt;dels &lt;/SPAN&gt;att 1 kap. 2 §, 5 kap. 13 § och 28 kap. 5 § ska ha följande lydelse, &lt;SPAN class="ft34"&gt;dels &lt;/SPAN&gt;att det ska införas en ny paragraf, 10 kap. 22 §, och närmast före&lt;/P&gt;
+&lt;P class="p152 ft2"&gt;10 kap. 22 § en ny rubrik av följande lydelse.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t9"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td15"&gt;&lt;SPAN class="p15 ft3"&gt;Nuvarande lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td18"&gt;&lt;SPAN class="p15 ft29"&gt;Föreslagen lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p153 ft69"&gt;&lt;SPAN class="ft54"&gt;1&lt;/SPAN&gt;&lt;SPAN class="ft66"&gt;kap. &lt;/SPAN&gt;&lt;SPAN class="ft67"&gt;2 §&lt;/SPAN&gt;&lt;SPAN class="ft68"&gt;1&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p78 ft2"&gt;Bestämmelserna i denna balk om hushållning med mark- och vattenområden, tillstånd, anmälan och tillåtlighet ska i fråga om geologisk lagring av koldioxid tillämpas även på Sveriges kontinentalsockel utanför terri-&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t3"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;torialgränsen.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td16"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p2 ft2"&gt;Ytterligare bestämmelser om bal-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td16"&gt;&lt;SPAN class="p13 ft2"&gt;Ytterligare bestämmelser om bal-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;kens tillämpning utanför territorial-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p13 ft2"&gt;kens tillämpning utanför territorial-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;gränsen finns i 7 kap. 32 § och&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p13 ft2"&gt;gränsen finns i 7 kap. 32 §&lt;SPAN class="ft3"&gt;, 10 kap.&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;15 kap. 27 § samt i lagen (1966:314)&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td16"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;SPAN class="ft3"&gt;22 § &lt;/SPAN&gt;och 15 kap. 27 § samt i lagen&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;om kontinentalsockeln och i lagen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p13 ft2"&gt;(1966:314) om kontinentalsockeln&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;(1992:1140) om Sveriges ekonomi-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p13 ft2"&gt;och i lagen (1992:1140) om Sveri-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;ska zon.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td16"&gt;&lt;SPAN class="p33 ft2"&gt;ges ekonomiska zon.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p154 ft69"&gt;&lt;SPAN class="ft54"&gt;5&lt;/SPAN&gt;&lt;SPAN class="ft70"&gt;kap. &lt;/SPAN&gt;&lt;SPAN class="ft67"&gt;13 §&lt;/SPAN&gt;&lt;SPAN class="ft68"&gt;2&lt;/SPAN&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t3"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p15 ft2"&gt;För förvaltningen av kvaliteten på&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td16"&gt;&lt;SPAN class="p15 ft2"&gt;För förvaltningen av kvaliteten på&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;vattenmiljön &lt;SPAN class="ft3"&gt;skall &lt;/SPAN&gt;Sveriges land-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p15 ft2"&gt;vattenmiljön &lt;SPAN class="ft3"&gt;ska &lt;/SPAN&gt;Sveriges land-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;områden och kustvattenområden&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td16"&gt;&lt;SPAN class="p15 ft2"&gt;områden och kustvattenområden&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td15"&gt;&lt;SPAN class="p15 ft61"&gt;delas in i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td16"&gt;&lt;SPAN class="p15 ft61"&gt;delas in i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p36 ft2"&gt;&lt;SPAN class="ft2"&gt;1.&lt;/SPAN&gt;&lt;SPAN class="ft71"&gt;Bottenvikens vattendistrikt: det landområde från vilket all ytvattenavrinning sker direkt till eller i avrinningsområden som mynnar i Bottenviken,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p36 ft2"&gt;&lt;SPAN class="ft2"&gt;2.&lt;/SPAN&gt;&lt;SPAN class="ft71"&gt;Bottenhavets vattendistrikt: det landområde från vilket all ytvattenavrinning sker direkt till eller i avrinningsområden som mynnar i Bottenhavet,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p36 ft17"&gt;&lt;SPAN class="ft2"&gt;3.&lt;/SPAN&gt;&lt;SPAN class="ft72"&gt;Norra Östersjöns vattendistrikt: det landområde från vilket all ytvattenavrinning sker direkt till eller i avrinningsområden som mynnar i södra Ålands hav eller norra Gotlandshavet,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p36 ft17"&gt;&lt;SPAN class="ft2"&gt;4.&lt;/SPAN&gt;&lt;SPAN class="ft72"&gt;Södra Östersjöns vattendistrikt: det landområde från vilket all ytvattenavrinning sker direkt till eller i avrinningsområden som mynnar i västra Gotlandshavet, östra Gotlandshavet, Bornholmshavet, Arkonahavet eller Öresund, och&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p116 ft25"&gt;&lt;SPAN class="ft21"&gt;1&lt;/SPAN&gt;&lt;SPAN class="ft39"&gt;Senaste lydelse 2016:782.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p11 ft25"&gt;&lt;SPAN class="ft21"&gt;2&lt;/SPAN&gt;&lt;SPAN class="ft39"&gt;Paragrafen fick sin nuvarande beteckning genom 2018:1407.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_21"&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t10"&gt;
+&lt;TR&gt;
+	&lt;TD colspan=5 class="tr6 td31"&gt;&lt;SPAN class="p155 ft2"&gt;5. Västerhavets vattendistrikt: det landområde från vilket all ytvattenav-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td32"&gt;&lt;SPAN class="p15 ft2"&gt;Prop. 2018/19:95&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=5 class="tr9 td31"&gt;&lt;SPAN class="p15 ft2"&gt;rinning sker direkt till eller i avrinningsområden som mynnar i Väster-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td32"&gt;&lt;SPAN class="p15 ft2"&gt;Bilaga 2&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;havet.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td33"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td34"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td35"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td36"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p155 ft2"&gt;I varje vattendistrikt ingår &lt;SPAN class="ft3"&gt;det &lt;/SPAN&gt;an-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr4 td37"&gt;&lt;SPAN class="p156 ft2"&gt;I varje vattendistrikt ingår anslu-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft3"&gt;&lt;SPAN class="ft2"&gt;slutande &lt;/SPAN&gt;grundvattnet &lt;SPAN class="ft2"&gt;och &lt;/SPAN&gt;det &lt;SPAN class="ft2"&gt;an-&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr9 td37"&gt;&lt;SPAN class="p156 ft2"&gt;tande &lt;SPAN class="ft3"&gt;grundvatten &lt;/SPAN&gt;och anslutande&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft3"&gt;&lt;SPAN class="ft2"&gt;slutande &lt;/SPAN&gt;kustvattenområdet &lt;SPAN class="ft2"&gt;ut till&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr4 td37"&gt;&lt;SPAN class="p156 ft3"&gt;kustvatten &lt;SPAN class="ft2"&gt;ut till &lt;/SPAN&gt;de särskilda av-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft3"&gt;en nautisk mil utanför den baslinje&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr9 td37"&gt;&lt;SPAN class="p156 ft3"&gt;gränsningslinjer, en nautisk mil&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft3"&gt;som avses i lagen (1966:374) om&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr4 td37"&gt;&lt;SPAN class="p156 ft3"&gt;räknat från baslinjerna, som fram-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft3"&gt;Sveriges sjöterritorium.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr4 td37"&gt;&lt;SPAN class="p157 ft29"&gt;går av bilaga 6 till lagen (2017:1272)&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td33"&gt;&lt;SPAN class="p15 ft3"&gt;om Sveriges&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr9 td38"&gt;&lt;SPAN class="p15 ft3"&gt;sjöterritorium&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td36"&gt;&lt;SPAN class="p156 ft29"&gt;och&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td39"&gt;&lt;SPAN class="p15 ft3"&gt;maritima zoner.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td35"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td36"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=5 class="tr4 td31"&gt;&lt;SPAN class="p155 ft2"&gt;Med avrinningsområde avses ett landområde från vilket all ytvattenav-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=4 class="tr4 td40"&gt;&lt;SPAN class="p15 ft2"&gt;rinning strömmar till havet genom ett enda utlopp eller delta.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td36"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p155 ft2"&gt;Ytvatten, grundvatten, kustvatten&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr9 td37"&gt;&lt;SPAN class="p156 ft2"&gt;Ytvatten, grundvatten, kustvatten&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;och landområden vid kusten som&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr4 td37"&gt;&lt;SPAN class="p156 ft2"&gt;och landområden vid kusten som&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;inte kan hänföras till ett visst av-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr4 td37"&gt;&lt;SPAN class="p156 ft2"&gt;inte kan hänföras till ett visst av-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;rinningsområde &lt;SPAN class="ft3"&gt;skall &lt;/SPAN&gt;hänföras till&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr9 td39"&gt;&lt;SPAN class="p15 ft2"&gt;rinningsområde &lt;SPAN class="ft3"&gt;ska&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td35"&gt;&lt;SPAN class="p74 ft2"&gt;hänföras&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td36"&gt;&lt;SPAN class="p156 ft2"&gt;till&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;det vattendistrikt som är närmast&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr4 td37"&gt;&lt;SPAN class="p156 ft2"&gt;det vattendistrikt som är närmast&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;eller lämpligast.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td39"&gt;&lt;SPAN class="p15 ft2"&gt;eller lämpligast.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td35"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td36"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p155 ft2"&gt;Regeringen &lt;SPAN class="ft3"&gt;meddelar &lt;/SPAN&gt;föreskrifter&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td33"&gt;&lt;SPAN class="p155 ft2"&gt;Regeringen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td34"&gt;&lt;SPAN class="p15 ft3"&gt;kan&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td35"&gt;&lt;SPAN class="p15 ft3"&gt;med stöd&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td36"&gt;&lt;SPAN class="p156 ft3"&gt;av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;om gränsdragningen mellan vatten-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr4 td37"&gt;&lt;SPAN class="p156 ft3"&gt;8 kap. 7 § regeringsformen medde-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;distrikten. Vid gränsdragningen får&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr4 td37"&gt;&lt;SPAN class="p156 ft2"&gt;&lt;SPAN class="ft3"&gt;la &lt;/SPAN&gt;föreskrifter om gränsdragningen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;ett enskilt avrinningsområde hänfö-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr9 td37"&gt;&lt;SPAN class="p156 ft2"&gt;mellan vattendistrikten. Vid gräns-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;ras till annat vattendistrikt än vad&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr4 td37"&gt;&lt;SPAN class="p156 ft2"&gt;dragningen får ett enskilt av-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;som följer av första stycket, om det&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr4 td37"&gt;&lt;SPAN class="p156 ft2"&gt;rinningsområde hänföras till annat&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;är lämpligt med hänsyn till förvalt-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr9 td37"&gt;&lt;SPAN class="p156 ft2"&gt;vattendistrikt än vad som följer av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;ningsarbetet.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr4 td37"&gt;&lt;SPAN class="p156 ft2"&gt;första stycket, om det är lämpligt&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr5 td37"&gt;&lt;SPAN class="p156 ft18"&gt;med hänsyn till förvaltningsarbetet.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td32"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p158 ft16"&gt;10 kap.&lt;/P&gt;
+&lt;P class="p159 ft32"&gt;Allvarliga miljöskador i Sveriges ekonomiska zon&lt;/P&gt;
+&lt;P class="p160 ft2"&gt;22 §&lt;/P&gt;
+&lt;P class="p161 ft34"&gt;&lt;SPAN class="ft3"&gt;I&lt;/SPAN&gt;&lt;SPAN class="ft33"&gt;fråga om sådana allvarliga miljöskador som avses i 1 § andra stycket 2 ska bestämmelserna i denna balk tillämpas även i Sveriges ekonomiska zon.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p162 ft69"&gt;&lt;SPAN class="ft54"&gt;28&lt;/SPAN&gt;&lt;SPAN class="ft70"&gt;kap. &lt;/SPAN&gt;&lt;SPAN class="ft67"&gt;5 §&lt;/SPAN&gt;&lt;SPAN class="ft68"&gt;3&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;DIV id="id_2_1"&gt;
+&lt;P class="p50 ft74"&gt;Länsstyrelsen får besluta &lt;SPAN class="ft73"&gt;om tillträde under viss tid till &lt;/SPAN&gt;en fastighet, &lt;SPAN class="ft73"&gt;en &lt;/SPAN&gt;byggnad eller &lt;SPAN class="ft73"&gt;en &lt;/SPAN&gt;anläggning, &lt;SPAN class="ft73"&gt;om någon annan än den som äger eller innehar den är skyldig enligt&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2_2"&gt;
+&lt;P class="p50 ft74"&gt;Länsstyrelsen får besluta &lt;SPAN class="ft73"&gt;att den som på &lt;/SPAN&gt;en fastighet, byggnad eller anläggning &lt;SPAN class="ft73"&gt;ska vidta en åtgärd för att enligt 10 kap. avhjälpa en miljöskada ska ha rätt till tillträde till&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_3"&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t11"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td41"&gt;&lt;SPAN class="p15 ft25"&gt;&lt;SPAN class="ft24"&gt;3 &lt;/SPAN&gt;Senaste lydelse 2010:923.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td37"&gt;&lt;SPAN class="p13 ft2"&gt;21&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_22"&gt;
+&lt;DIV id="p22dimg1"&gt;
+&lt;INGENBILD zsrc="H6039522x1.jpg/" id="p22img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;DIV id="id_1_1"&gt;
+&lt;P class="p11 ft4"&gt;Prop. 2018/19:95 Bilaga 2&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_1_2"&gt;
+&lt;P class="p50 ft34"&gt;10 kap. att där vidta en åtgärd för att avhjälpa en miljöskada.&lt;/P&gt;
+&lt;P class="p163 ft2"&gt;Den som utför åtgärden &lt;SPAN class="ft3"&gt;skall &lt;/SPAN&gt;betala ersättning för skada och intrång om inte fastighetsägaren eller innehavaren av särskild rätt själv har kostnadsansvar för åtgärden. Talan om ersättning &lt;SPAN class="ft3"&gt;skall &lt;/SPAN&gt;väckas vid mark- och miljödomstol.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_1_3"&gt;
+&lt;P class="p50 ft34"&gt;fastigheten, byggnaden eller anläggningen under en viss tid.&lt;/P&gt;
+&lt;P class="p163 ft2"&gt;Den som utför åtgärden &lt;SPAN class="ft3"&gt;ska &lt;/SPAN&gt;betala ersättning för skada och intrång om inte fastighetsägaren eller innehavaren av särskild rätt själv har kostnadsansvar för åtgärden. Talan om ersättning &lt;SPAN class="ft3"&gt;ska &lt;/SPAN&gt;väckas vid mark- och miljödomstol.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p164 ft2"&gt;Denna lag träder i kraft den 1 juli 2019.&lt;/P&gt;
+&lt;P class="p165 ft2"&gt;22&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_23"&gt;
+
+
+&lt;P class="p20 ft2"&gt;Prop. 2018/19:95&lt;/P&gt;
+&lt;P class="p145 ft2"&gt;Bilaga 3&lt;/P&gt;
+&lt;P class="p3 ft1"&gt;Förteckning över remissinstanserna&lt;/P&gt;
+&lt;P class="p146 ft2"&gt;Yttrande har kommit in från Arvika kommun, Bollnäs kommun, Försvarsmakten, Göteborgs kommun, Havs- och vattenmyndigheten, Kammarkollegiet Katrineholms kommun, Kemikalieinspektionen, Kiruna kommun, Kungliga tekniska högskolan, Kustbevakningen, Lantmäteriet, Lidköpings kommun, Luleå kommun, länsstyrelserna i Blekinge, Gotlands, Hallands, Kalmar (även vattenmyndighet), Norrbottens, Skåne, Stockholms, Västerbottens, Västernorrlands, Västmanlands (även vattenmyndighet), Västra Götalands (även vattenmyndighet), och Östergötlands län, Matfiskodlarna, Myndigheten för samhällsskydd och beredskap, Naturvårdsverket, Polismyndigheten, Regelrådet, Robertsfors kommun, Sjöfartsverket, Skärgårdarnas Riksförbund, Solna kommun, Statens geotekniska institut, Statens jordbruksverk, Svensk Sjöfart, Sveriges Fiskevattenägareförbund, Sveriges geologiska undersökning, Sveriges Kommuner och Landsting, Sveriges lantbruksuniversitet, Trafikverket, Transportstyrelsen, Uppsala kommun, Vaggeryds kommun, Vellinge kommun, Vännäs kommun och Åtvidabergs kommun&lt;/P&gt;
+&lt;P class="p90 ft2"&gt;Svar har inte kommit in från Alvesta kommun, Eda kommun, Fiskekommunerna, Gotlands kommun, Gällivare kommun, Havsmiljöinstitutet Hö- ganäs kommun, IVL Svenska miljöinstitutet, Lantbrukarnas riksförbund, Lekebergs kommun, Maritimt forum, Naturskyddsföreningen, Nykvarns kommun Nyköpings kommun, Oskarshamns kommun, Partille kommun, Ragunda kommun, Rättviks kommun, Samförvaltning norra Bohuslän, Skärgårdsstiftelsen, Storumans kommun, SWEMARC, Svensk skaldjursodling producentorganisation, Svenskt näringsliv, Vattenbrukscentrum Norr, Vattenbrukscentrum Ost, Världsnaturfonden WWF, Ystads kommun, Årjängs kommun och Älvkarleby kommun.&lt;/P&gt;
+&lt;P class="p166 ft2"&gt;23&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_24"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p149 ft4"&gt;Prop. 2018/19:95 Bilaga 4&lt;/P&gt;
+&lt;P class="p150 ft2"&gt;24&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft1"&gt;Lagrådsremissens lagförslag&lt;/P&gt;
+&lt;P class="p109 ft13"&gt;Förslag till lag om ändring i miljöbalken&lt;/P&gt;
+&lt;P class="p28 ft2"&gt;Härigenom föreskrivs&lt;SPAN class="ft15"&gt;1 &lt;/SPAN&gt;i fråga om miljöbalken&lt;/P&gt;
+&lt;P class="p167 ft17"&gt;&lt;SPAN class="ft34"&gt;dels &lt;/SPAN&gt;att 1 kap. 2 §, 5 kap. 13 § och 28 kap. 5 § ska ha följande lydelse, &lt;SPAN class="ft34"&gt;dels &lt;/SPAN&gt;att det ska införas en ny paragraf, 10 kap. 22 §, och närmast före&lt;/P&gt;
+&lt;P class="p11 ft2"&gt;10 kap. 22 § en ny rubrik av följande lydelse.&lt;/P&gt;
+&lt;P class="p151 ft3"&gt;Nuvarande lydelse&lt;SPAN style="padding-left:105px;"&gt;Föreslagen lydelse&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p168 ft16"&gt;1 kap.&lt;/P&gt;
+&lt;P class="p169 ft2"&gt;2 §&lt;SPAN class="ft15"&gt;2&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p83 ft17"&gt;Bestämmelserna i denna balk om hushållning med mark- och vattenområden, tillstånd, anmälan och tillåtlighet ska i fråga om geologisk lagring av koldioxid tillämpas även på Sveriges kontinentalsockel utanför territorial-&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t3"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p15 ft2"&gt;gränsen.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td16"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p2 ft2"&gt;Ytterligare bestämmelser om bal-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p13 ft2"&gt;Ytterligare bestämmelser om bal-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;kens tillämpning utanför territorial-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td16"&gt;&lt;SPAN class="p13 ft2"&gt;kens tillämpning utanför territorial-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;gränsen finns i 7 kap. 32 § och&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p13 ft2"&gt;gränsen finns i 7 kap. 32 §&lt;SPAN class="ft3"&gt;, 10 kap.&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;15 kap. 27 § samt i lagen (1966:314)&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;SPAN class="ft3"&gt;22 § &lt;/SPAN&gt;och 15 kap. 27 § samt i lagen&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;om kontinentalsockeln och i lagen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td16"&gt;&lt;SPAN class="p13 ft2"&gt;(1966:314) om kontinentalsockeln&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;(1992:1140) om Sveriges ekonomi-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p13 ft2"&gt;och i lagen (1992:1140) om Sveri-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;ska zon.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td16"&gt;&lt;SPAN class="p33 ft2"&gt;ges ekonomiska zon.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p170 ft69"&gt;&lt;SPAN class="ft54"&gt;5&lt;/SPAN&gt;&lt;SPAN class="ft70"&gt;kap. &lt;/SPAN&gt;&lt;SPAN class="ft67"&gt;13 §&lt;/SPAN&gt;&lt;SPAN class="ft68"&gt;3&lt;/SPAN&gt;&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t3"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft2"&gt;För förvaltningen av kvaliteten på&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td16"&gt;&lt;SPAN class="p15 ft2"&gt;För förvaltningen av kvaliteten på&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;vattenmiljön &lt;SPAN class="ft3"&gt;skall &lt;/SPAN&gt;Sveriges landom-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p15 ft2"&gt;vattenmiljön &lt;SPAN class="ft3"&gt;ska &lt;/SPAN&gt;Sveriges landom-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;råden och kustvattenområden delas&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p15 ft18"&gt;råden och kustvattenområden delas&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;in i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p15 ft2"&gt;in i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p36 ft2"&gt;&lt;SPAN class="ft2"&gt;1.&lt;/SPAN&gt;&lt;SPAN class="ft19"&gt;Bottenvikens vattendistrikt:&lt;/SPAN&gt; det landområde från vilket all ytvattenavrinning sker direkt till eller i avrinningsområden som mynnar i Bottenviken,&lt;/P&gt;
+&lt;P class="p36 ft4"&gt;&lt;SPAN class="ft2"&gt;2.&lt;/SPAN&gt;&lt;SPAN class="ft20"&gt;Bottenhavets vattendistrikt:&lt;/SPAN&gt; det landområde från vilket all ytvattenavrinning sker direkt till eller i avrinningsområden som mynnar i Bottenhavet,&lt;/P&gt;
+&lt;P class="p171 ft23"&gt;&lt;SPAN class="ft21"&gt;1&lt;/SPAN&gt;&lt;SPAN class="ft22"&gt;Jfr Europaparlamentets och rådets direktiv 2004/35/EG av den 21 april 2004 om miljöansvar för att förebygga och avhjälpa miljöskador, i lydelsen enligt Europaparlamentets och rådets direktiv 2013/30/EU.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p38 ft25"&gt;&lt;SPAN class="ft24"&gt;2 &lt;/SPAN&gt;Senaste lydelse 2016:782.&lt;/P&gt;
+&lt;P class="p11 ft25"&gt;&lt;SPAN class="ft24"&gt;3 &lt;/SPAN&gt;Paragrafen fick sin nuvarande beteckning genom 2018:1407.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_25"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t12"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td31"&gt;&lt;SPAN class="p156 ft2"&gt;3. &lt;SPAN class="ft75"&gt;Norra Östersjöns vattendistrikt:&lt;/SPAN&gt; det landområde från vilket all yt-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td32"&gt;&lt;SPAN class="p15 ft2"&gt;Prop. 2018/19:95&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td31"&gt;&lt;SPAN class="p156 ft2"&gt;vattenavrinning sker direkt till eller i avrinningsområden som mynnar i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td32"&gt;&lt;SPAN class="p15 ft2"&gt;Bilaga 4&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td31"&gt;&lt;SPAN class="p172 ft61"&gt;södra Ålands hav eller norra Gotlandshavet,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td32"&gt;&lt;SPAN class="p15 ft30"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p40 ft2"&gt;&lt;SPAN class="ft2"&gt;4.&lt;/SPAN&gt;&lt;SPAN class="ft27"&gt;Södra Östersjöns vattendistrikt:&lt;/SPAN&gt; det landområde från vilket all ytvattenavrinning sker direkt till eller i avrinningsområden som mynnar i västra Gotlandshavet, östra Gotlandshavet, Bornholmshavet, Arkonahavet eller Öresund, och&lt;/P&gt;
+&lt;P class="p40 ft17"&gt;&lt;SPAN class="ft2"&gt;5.&lt;/SPAN&gt;&lt;SPAN class="ft28"&gt;Västerhavets vattendistrikt:&lt;/SPAN&gt; det landområde från vilket all ytvattenavrinning sker direkt till eller i avrinningsområden som mynnar i Västerhavet.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t5"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p41 ft2"&gt;I varje vattendistrikt ingår &lt;SPAN class="ft3"&gt;det &lt;/SPAN&gt;an-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p13 ft2"&gt;I varje vattendistrikt ingår anslu-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p41 ft3"&gt;&lt;SPAN class="ft2"&gt;slutande &lt;/SPAN&gt;grundvattnet &lt;SPAN class="ft2"&gt;och &lt;/SPAN&gt;det &lt;SPAN class="ft2"&gt;an-&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft2"&gt;tande &lt;SPAN class="ft3"&gt;grundvatten &lt;/SPAN&gt;och anslutande&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p41 ft3"&gt;&lt;SPAN class="ft2"&gt;slutande &lt;/SPAN&gt;kustvattenområdet &lt;SPAN class="ft2"&gt;ut till&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p13 ft3"&gt;kustvatten &lt;SPAN class="ft2"&gt;ut till &lt;/SPAN&gt;de särskilda av-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p41 ft29"&gt;en nautisk mil utanför den baslinje&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft29"&gt;gränsningslinjer, en nautisk mil räk-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p41 ft3"&gt;som avses i lagen (1966:374) om&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft3"&gt;nat från baslinjerna, som framgår&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p42 ft3"&gt;Sveriges sjöterritorium.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p13 ft3"&gt;av bilaga 6 till lagen (2017:1272)&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft29"&gt;om Sveriges sjöterritorium och mari-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td15"&gt;&lt;SPAN class="p15 ft30"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td17"&gt;&lt;SPAN class="p43 ft31"&gt;tima zoner.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p40 ft2"&gt;Med avrinningsområde avses ett landområde från vilket all ytvattenavrinning strömmar till havet genom ett enda utlopp eller delta.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t5"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p41 ft2"&gt;Ytvatten, grundvatten, kustvatten&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td17"&gt;&lt;SPAN class="p13 ft2"&gt;Ytvatten, grundvatten, kustvatten&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p41 ft2"&gt;och landområden vid kusten som&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft2"&gt;och landområden vid kusten som&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p41 ft2"&gt;inte kan hänföras till ett visst avrin-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p13 ft2"&gt;inte kan hänföras till ett visst avrin-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p41 ft2"&gt;ningsområde &lt;SPAN class="ft3"&gt;skall &lt;/SPAN&gt;hänföras till det&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft2"&gt;ningsområde &lt;SPAN class="ft3"&gt;ska &lt;/SPAN&gt;hänföras till det&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p41 ft2"&gt;vattendistrikt som är närmast eller&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft2"&gt;vattendistrikt som är närmast eller&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p15 ft2"&gt;lämpligast.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p15 ft2"&gt;lämpligast.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p41 ft2"&gt;Regeringen &lt;SPAN class="ft3"&gt;meddelar &lt;/SPAN&gt;föreskrifter&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;SPAN class="ft2"&gt;Regeringen &lt;/SPAN&gt;kan med stöd av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p41 ft2"&gt;om gränsdragningen mellan vatten-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft3"&gt;8 kap. 7 § regeringsformen medde-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p41 ft2"&gt;distrikten. Vid gränsdragningen får&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p13 ft2"&gt;&lt;SPAN class="ft3"&gt;la &lt;/SPAN&gt;föreskrifter om gränsdragningen&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p41 ft18"&gt;ett enskilt avrinningsområde hänfö-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft2"&gt;mellan vattendistrikten. Vid gräns-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p41 ft2"&gt;ras till annat vattendistrikt än vad&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft18"&gt;dragningen får ett enskilt avrinnings-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p41 ft2"&gt;som följer av första stycket, om det&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td17"&gt;&lt;SPAN class="p13 ft2"&gt;område hänföras till annat vatten-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p41 ft2"&gt;är lämpligt med hänsyn till förvalt-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft2"&gt;distrikt än vad som följer av första&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p15 ft2"&gt;ningsarbetet.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td17"&gt;&lt;SPAN class="p13 ft18"&gt;stycket, om det är lämpligt med hän-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td17"&gt;&lt;SPAN class="p15 ft2"&gt;syn till förvaltningsarbetet.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p44 ft16"&gt;10 kap.&lt;/P&gt;
+&lt;P class="p173 ft32"&gt;Allvarliga miljöskador i Sveriges ekonomiska zon&lt;/P&gt;
+&lt;P class="p46 ft3"&gt;22 §&lt;/P&gt;
+&lt;P class="p47 ft34"&gt;&lt;SPAN class="ft3"&gt;I&lt;/SPAN&gt;&lt;SPAN class="ft33"&gt;fråga om sådana allvarliga miljöskador som avses i 1 § andra stycket 2 ska bestämmelserna i denna balk tillämpas även i Sveriges ekonomiska zon.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p174 ft2"&gt;25&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_26"&gt;
+&lt;DIV id="p26dimg1"&gt;
+&lt;INGENBILD zsrc="H6039526x1.jpg/" id="p26img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;DIV id="id_1_1"&gt;
+&lt;P class="p11 ft4"&gt;Prop. 2018/19:95 Bilaga 4&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_1_2"&gt;
+&lt;P class="p49 ft69"&gt;&lt;SPAN class="ft16"&gt;28&lt;/SPAN&gt;&lt;SPAN class="ft70"&gt;kap. &lt;/SPAN&gt;&lt;SPAN class="ft67"&gt;5 §&lt;/SPAN&gt;&lt;SPAN class="ft68"&gt;4&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;DIV id="id_2_1"&gt;
+&lt;P class="p50 ft18"&gt;Länsstyrelsen får besluta &lt;SPAN class="ft29"&gt;om tillträde under viss tid till &lt;/SPAN&gt;en fastighet, &lt;SPAN class="ft29"&gt;en &lt;/SPAN&gt;byggnad eller &lt;SPAN class="ft29"&gt;en &lt;/SPAN&gt;anläggning, &lt;SPAN class="ft29"&gt;om någon annan än den som äger eller innehar den är skyldig enligt 10 kap. att där vidta en åtgärd för att avhjälpa en miljöskada.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p175 ft17"&gt;Den som utför åtgärden &lt;SPAN class="ft34"&gt;skall &lt;/SPAN&gt;betala ersättning för skada och intrång om inte fastighetsägaren eller innehavaren av särskild rätt själv har kostnadsansvar för åtgärden. Talan om ersättning &lt;SPAN class="ft34"&gt;skall &lt;/SPAN&gt;väckas vid mark- och miljödomstol.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2_2"&gt;
+&lt;P class="p50 ft18"&gt;Länsstyrelsen får besluta &lt;SPAN class="ft29"&gt;att den som på &lt;/SPAN&gt;en fastighet, byggnad eller anläggning &lt;SPAN class="ft29"&gt;ska vidta en åtgärd för att enligt 10 kap. avhjälpa en miljöskada ska ha rätt till tillträde till fastigheten, byggnaden eller anläggningen under en viss tid.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p176 ft17"&gt;Den som utför åtgärden &lt;SPAN class="ft34"&gt;ska &lt;/SPAN&gt;betala ersättning för skada och intrång om inte fastighetsägaren eller innehavaren av särskild rätt själv har kostnadsansvar för åtgärden. Talan om ersättning &lt;SPAN class="ft34"&gt;ska &lt;/SPAN&gt;väckas vid mark- och miljödomstol&lt;SPAN class="ft34"&gt;en&lt;/SPAN&gt;.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_3"&gt;
+&lt;DIV id="id_3_1"&gt;
+&lt;P class="p11 ft2"&gt;26&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_3_2"&gt;
+&lt;P class="p53 ft2"&gt;Denna lag träder i kraft den 1 augusti 2019.&lt;/P&gt;
+&lt;P class="p177 ft25"&gt;&lt;SPAN class="ft21"&gt;4&lt;/SPAN&gt;&lt;SPAN class="ft39"&gt;Senaste lydelse 2010:923.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_27"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t13"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td31"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td42"&gt;&lt;SPAN class="p15 ft2"&gt;Prop. 2018/19:95&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td31"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td42"&gt;&lt;SPAN class="p15 ft2"&gt;Bilaga 5&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr19 td31"&gt;&lt;SPAN class="p15 ft1"&gt;Lagrådets yttrande&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr19 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr0 td31"&gt;&lt;SPAN class="p15 ft2"&gt;Utdrag ur protokoll vid sammanträde &lt;NOBR&gt;2019-03-15&lt;/NOBR&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr17 td31"&gt;&lt;SPAN class="p15 ft2"&gt;&lt;SPAN class="ft16"&gt;Närvarande&lt;/SPAN&gt;: F.d. justitieråden Eskil Nord och Lena Moore samt justitie-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr17 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td31"&gt;&lt;SPAN class="p15 ft2"&gt;rådet Dag Mattsson.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr20 td31"&gt;&lt;SPAN class="p15 ft13"&gt;Ansvar för miljöskador i Sveriges ekonomiska zon&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr20 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr21 td31"&gt;&lt;SPAN class="p15 ft2"&gt;Enligt en lagrådsremiss den 28 februari 2019 har regeringen (Miljö- och&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr21 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td31"&gt;&lt;SPAN class="p15 ft2"&gt;energidepartementet) beslutat inhämta Lagrådets yttrande över förslag till&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td31"&gt;&lt;SPAN class="p15 ft2"&gt;lag om ändring i miljöbalken.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr22 td31"&gt;&lt;SPAN class="p15 ft2"&gt;Förslaget har inför Lagrådet föredragits av rättssakkunnige Christoffer&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr22 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td31"&gt;&lt;SPAN class="p15 ft2"&gt;Sheats.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr17 td31"&gt;&lt;SPAN class="p15 ft2"&gt;Förslaget föranleder följande yttrande av &lt;SPAN class="ft3"&gt;Lagrådet:&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr17 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr17 td31"&gt;&lt;SPAN class="p15 ft2"&gt;I lagrådsremissen föreslås ändringar i miljöbalken, vilka innebär bl.a. att&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr17 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td31"&gt;&lt;SPAN class="p15 ft2"&gt;balkens bestämmelser ska tillämpas i fråga om allvarliga miljöskador i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td31"&gt;&lt;SPAN class="p15 ft2"&gt;Sveriges ekonomiska zon. Bakgrunden till förslaget i den delen är den&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td31"&gt;&lt;SPAN class="p15 ft2"&gt;granskning Europeiska kommissionen gjort av Sveriges genomförande av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td31"&gt;&lt;SPAN class="p15 ft2"&gt;offshoredirektivet i den del det avser ändringen i miljöansvarsdirektivet.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td31"&gt;&lt;SPAN class="p155 ft2"&gt;Genom den nya 10 kap. 22 § görs bestämmelserna i miljöbalken tillämp-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td31"&gt;&lt;SPAN class="p15 ft2"&gt;liga även i Sveriges ekonomiska zon i fråga om allvarliga miljöskador&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td31"&gt;&lt;SPAN class="p15 ft2"&gt;enligt 10 kap. 1 § andra stycket 2. Den nya paragrafen föregås av en ny&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td31"&gt;&lt;SPAN class="p15 ft2"&gt;rubrik Allvarliga miljöskador i Sveriges ekonomiska zon.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td31"&gt;&lt;SPAN class="p155 ft2"&gt;Paragrafen bör inte placeras sist i kapitlet, efter bestämmelser om undan-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td31"&gt;&lt;SPAN class="p15 ft2"&gt;tag och ansvarsbegränsningar (19 och 20 §§) och bemyndiganden (21 §).&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td31"&gt;&lt;SPAN class="p15 ft2"&gt;För att paragrafen ska bättre passa in i kapitlets struktur föreslår Lagrådet&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td31"&gt;&lt;SPAN class="p15 ft2"&gt;att den jämte den nya rubriken placeras efter 18 §, som en ny 18 a §.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td31"&gt;&lt;SPAN class="p155 ft2"&gt;Miljöbalken är tillämplig endast på svenskt territorium. I enstaka fall&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td31"&gt;&lt;SPAN class="p15 ft2"&gt;kan tillämpningsområdet sträcka sig utanför detta territorium, vilket kan&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td31"&gt;&lt;SPAN class="p15 ft2"&gt;följa av balkens egna regler eller av annan lag. 1 kap. 2 § andra stycket&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td31"&gt;&lt;SPAN class="p15 ft2"&gt;miljöbalken innehåller en upplysning om att bestämmelser om balkens&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td31"&gt;&lt;SPAN class="p15 ft2"&gt;tillämpning utanför territorialgränsen finns i bl.a. lagen om Sveriges eko-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td31"&gt;&lt;SPAN class="p15 ft2"&gt;nomiska zon. Detta andra stycke ska nu tillföras en upplysning om den nya&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td31"&gt;&lt;SPAN class="p15 ft2"&gt;10 kap. 22 § (10 kap. 18 a § enligt Lagrådets förslag).&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td31"&gt;&lt;SPAN class="p155 ft2"&gt;Bestämmelserna i 10 § lagen om Sveriges ekonomiska zon föregås av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td31"&gt;&lt;SPAN class="p15 ft2"&gt;rubriken Folkrättsliga grundsatser. I första stycket anges bl.a. att tillämp-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td31"&gt;&lt;SPAN class="p15 ft2"&gt;ningen av lagen inte får medföra någon inskränkning av de enligt folk-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td31"&gt;&lt;SPAN class="p15 ft2"&gt;rätten gällande rättigheterna till fri sjöfart i den ekonomiska zonen m.m.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td31"&gt;&lt;SPAN class="p15 ft2"&gt;I andra stycket anges att detsamma gäller i fråga om bl.a. tillämpningen av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td31"&gt;&lt;SPAN class="p15 ft2"&gt;de bestämmelser i miljöbalken som anges i 3 § i lagen. I den paragrafen&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td31"&gt;&lt;SPAN class="p15 ft2"&gt;finns en uppräkning i punkterna &lt;NOBR&gt;1–5&lt;/NOBR&gt; av bestämmelser i miljöbalken och&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td42"&gt;&lt;SPAN class="p15 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td31"&gt;&lt;SPAN class="p15 ft2"&gt;annan lagstiftning som ska tillämpas till skydd för den marina miljön.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td42"&gt;&lt;SPAN class="p13 ft2"&gt;27&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_28"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p149 ft4"&gt;Prop. 2018/19:95 Bilaga 5&lt;/P&gt;
+&lt;P class="p150 ft2"&gt;28&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p62 ft17"&gt;Eftersom miljöbalken nu genom den nya 10 kap. 22 § (10 kap. 18 a § enligt Lagrådets förslag) görs tillämplig i den ekonomiska zonen i fråga om angivna allvarliga miljöskador bör 3 § lagen om Sveriges ekonomiska zon tillföras en hänvisning också till den nya paragrafen, förslagsvis som en ny punkt 3. Därigenom tydliggörs, så långt det är möjligt, att verksamhet utanför Sveriges sjöterritorium men i den ekonomiska zonen också har en folkrättslig dimension.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_29"&gt;
+&lt;DIV id="p29dimg1"&gt;
+&lt;INGENBILD zsrc="H6039529x1.jpg/" id="p29img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV class="dclr"&gt;&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p11 ft1"&gt;Miljödepartementet&lt;/P&gt;
+&lt;P class="p178 ft2"&gt;Utdrag ur protokoll vid regeringssammanträde den 4 april 2019&lt;/P&gt;
+&lt;P class="p179 ft17"&gt;Närvarande: statsminister Löfven, ordförande, och statsråden Lövin, Wallström, M Johansson, Baylan, Hallengren, Hultqvist, Andersson, Bolund, Damberg, Eriksson, Linde, Ekström, Eneroth, Dahlgren, Nilsson, Ernkrans, Lindhagen, Lind&lt;/P&gt;
+&lt;P class="p180 ft2"&gt;Föredragande: statsrådet Lövin&lt;/P&gt;
+&lt;P class="p181 ft4"&gt;Regeringen beslutar proposition Ansvar för miljöskador i Sveriges ekonomiska zon&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft2"&gt;Prop. 2018/19:95&lt;/P&gt;
+&lt;P class="p118 ft2"&gt;29&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+
+&lt;/div&gt;&lt;style&gt;
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+&lt;/style&gt;
+</html>
+  </dokument>
+<dokforslag>
+<forslag>
+<nummer datatype="int32">1</nummer>
+<beteckning datatype="string">1</beteckning>
+<lydelse datatype="string">Riksdagen antar regeringens förslag till lag om ändring i miljöbalken.</lydelse>
+<lydelse2 datatype="string" />
+<utskottet datatype="string">Bifall</utskottet>
+<kammaren datatype="string">Bifall</kammaren>
+<behandlas_i datatype="string">2018/19:MJU15</behandlas_i>
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string">MJU</intressent>
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">2</nummer>
+<beteckning datatype="string">2</beteckning>
+<lydelse datatype="string">Riksdagen antar regeringens förslag till lag om ändring i lagen (1992:1140) om Sveriges ekonomiska zon.</lydelse>
+<lydelse2 datatype="string" />
+<utskottet datatype="string">Bifall</utskottet>
+<kammaren datatype="string">Bifall</kammaren>
+<behandlas_i datatype="string">2018/19:MJU15</behandlas_i>
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string">MJU</intressent>
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+</dokforslag>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">INL</kod>
+<namn datatype="string">Inlämnad</namn>
+<datum datatype="datetime">2019-04-09 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">B</kod>
+<namn datatype="string">Bordlagd</namn>
+<datum datatype="datetime">2019-04-09 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">HÄN</kod>
+<namn datatype="string">Hänvisad</namn>
+<datum datatype="datetime">2019-04-10 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">MOT</kod>
+<namn datatype="string">Motionstid slutar</namn>
+<datum datatype="datetime">2019-04-24 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+</dokaktivitet>
+<dokintressent>
+<intressent>
+<intressent_id datatype="string">0218878014918</intressent_id>
+<namn datatype="string">Stefan Löfven</namn>
+<partibet datatype="string">S</partibet>
+<ordning datatype="int16">1</ordning>
+<roll datatype="string">Statsråd1</roll>
+</intressent>
+<intressent>
+<intressent_id datatype="string">0911490574010</intressent_id>
+<namn datatype="string">Isabella Lövin</namn>
+<partibet datatype="string">MP</partibet>
+<ordning datatype="int16">2</ordning>
+<roll datatype="string">Statsråd2</roll>
+</intressent>
+</dokintressent>
+<dokuppgift>
+<uppgift>
+<kod datatype="string">inlamnatav</kod>
+<namn datatype="string">Inlämnat av</namn>
+<text datatype="string">Miljödepartementet</text>
+<dok_id datatype="string">H60395</dok_id>
+<systemdatum datatype="datetime">2019-06-04 15:47:10</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">tilldelat</kod>
+<namn datatype="string">Tilldelat</namn>
+<text datatype="string">Miljö- och jordbruksutskottet</text>
+<dok_id datatype="string">H60395</dok_id>
+<systemdatum datatype="datetime">2019-06-04 15:47:10</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">statustext</kod>
+<namn datatype="string">statustext</namn>
+<text datatype="string">Propositionen bereds i utskott</text>
+<dok_id datatype="string">H60395</dok_id>
+<systemdatum datatype="datetime">2019-04-10 08:31:34</systemdatum>
+</uppgift>
+</dokuppgift>
+<dokbilaga>
+<bilaga>
+<dok_id datatype="string">H60395</dok_id>
+<titel datatype="string">Ansvar för miljöskador i Sveriges ekonomiska zon</titel>
+<subtitel datatype="string" />
+<filnamn datatype="string">prop_201819__95.pdf</filnamn>
+<filstorlek datatype="int32">302556</filstorlek>
+<filtyp datatype="string">pdf</filtyp>
+<fil_url datatype="string">http://data.riksdagen.se/fil/7C388612-B19B-4199-8FDE-41BE808C159D</fil_url>
+</bilaga>
+</dokbilaga>
+<dokreferens>
+<referens>
+<referenstyp datatype="string">behandlas_i</referenstyp>
+<uppgift datatype="string">2018/19:MJU15</uppgift>
+<ref_dok_id datatype="string">H601MJU15</ref_dok_id>
+<ref_dok_typ datatype="string">bet</ref_dok_typ>
+<ref_dok_rm datatype="string">2018/19</ref_dok_rm>
+<ref_dok_bet datatype="string">MJU15</ref_dok_bet>
+<ref_dok_titel datatype="string">Ansvar för miljöskador i Sveriges ekonomiska zon</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">bet</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Betänkande</ref_dok_dokumentnamn>
+</referens>
+</dokreferens>
+<debatt /></dokumentstatus>

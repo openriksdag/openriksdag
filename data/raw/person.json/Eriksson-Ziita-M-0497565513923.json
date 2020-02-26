@@ -1,0 +1,66 @@
+{
+  "person": {
+    "hangar_guid": "6e246566-8619-4bb9-b2bb-230a2123a29a",
+    "sourceid": "629ca13f-4191-4211-993b-25b4711069bd",
+    "intressent_id": "0497565513923",
+    "hangar_id": "2343609",
+    "fodd_ar": "1976",
+    "kon": "kvinna",
+    "efternamn": "Eriksson",
+    "tilltalsnamn": "Ziita",
+    "sorteringsnamn": "Eriksson,Ziita",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Gävleborgs län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/629ca13f-4191-4211-993b-25b4711069bd",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/629ca13f-4191-4211-993b-25b4711069bd_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/629ca13f-4191-4211-993b-25b4711069bd_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/629ca13f-4191-4211-993b-25b4711069bd_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "137",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2013-09-18",
+          "tom": "2013-12-08",
+          "uppgift": "Tomas Tobé",
+          "intressent_id": "0497565513923",
+          "hangar_id": "2343609",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2013-09-18",
+          "tom": "2013-12-08",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0497565513923",
+          "hangar_id": "2343609",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "ziita.eriksson[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0497565513923",
+        "hangar_id": "2343609"
+      }
+    }
+  }
+}

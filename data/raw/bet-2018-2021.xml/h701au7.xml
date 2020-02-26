@@ -1,0 +1,512 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5046437</hangar_id>
+    <dok_id datatype="string">H701AU7</dok_id>
+    <rm datatype="string">2019/20</rm>
+    <beteckning datatype="string">AU7</beteckning>
+    <typ datatype="string">bet</typ>
+    <subtyp datatype="string">bet</subtyp>
+    <doktyp datatype="string">bet</doktyp>
+    <typrubrik datatype="string">Betänkande 2019/20:AU7</typrubrik>
+    <dokumentnamn datatype="string">Betänkande</dokumentnamn>
+    <debattnamn datatype="string">Debatt om förslag</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">AU</organ>
+    <mottagare datatype="string"></mottagare>
+    <nummer datatype="int32">7</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2019-11-08 00:00:00</datum>
+    <systemdatum datatype="datetime">2020-01-29 11:27:50</systemdatum>
+    <publicerad datatype="datetime">2019-11-08 11:54:50</publicerad>
+    <titel datatype="string">Jämställdhet och åtgärder mot diskriminering</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">planerat</status>
+    <htmlformat datatype="string"></htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">Brus</source>
+    <sourceid datatype="string">5120802f-a0e6-4082-966d-fd54e402c948</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H701AU7/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H701AU7</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H701AU7</dokumentstatus_url_xml>
+    <utskottsforslag_url_xml datatype="stext">http://data.riksdagen.se/utskottsforslag/H701AU7</utskottsforslag_url_xml>
+    <html datatype="text">&lt;h2&gt;Jämställdhet och åtgärder mot diskriminering&lt;/h2&gt;
+Dokumentet är inte publicerat</html>
+  </dokument>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">UBE</kod>
+<namn datatype="string">Beredning</namn>
+<datum datatype="datetime">2020-01-16 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">UBE</kod>
+<namn datatype="string">Beredning</namn>
+<datum datatype="datetime">2020-02-06 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">JUS</kod>
+<namn datatype="string">Justering</namn>
+<datum datatype="datetime">2020-02-11 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">TRY</kod>
+<namn datatype="string">Trycklov</namn>
+<datum datatype="datetime">2020-03-02 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+</dokaktivitet>
+<dokuppgift>
+<uppgift>
+<kod datatype="string">statustext</kod>
+<namn datatype="string">statustext</namn>
+<text datatype="string">Utskottet arbetar med ärendet</text>
+<dok_id datatype="string">H701AU7</dok_id>
+<systemdatum datatype="datetime">2020-01-17 00:11:46</systemdatum>
+</uppgift>
+</dokuppgift>
+<dokreferens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2745 Liberal politik mot hedersrelaterat våld och förtryck</uppgift>
+<ref_dok_id datatype="string">H7022745</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2745</ref_dok_bet>
+<ref_dok_titel datatype="string">Liberal politik mot hedersrelaterat våld och förtryck</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3118 Krafttag mot våld och förtryck i hederns namn</uppgift>
+<ref_dok_id datatype="string">H7023118</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3118</ref_dok_bet>
+<ref_dok_titel datatype="string">Krafttag mot våld och förtryck i hederns namn</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2057 Liberal feministisk politik för lika rättigheter och möjligheter</uppgift>
+<ref_dok_id datatype="string">H7022057</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2057</ref_dok_bet>
+<ref_dok_titel datatype="string">Liberal feministisk politik för lika rättigheter och möjligheter</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3124 Utgiftsområde 13 Jämställdhet och nyanlända invandrares etablering</uppgift>
+<ref_dok_id datatype="string">H7023124</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3124</ref_dok_bet>
+<ref_dok_titel datatype="string">Utgiftsområde 13 Jämställdhet och nyanlända invandrares etablering</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2726 Åtgärder för att stärka demokratiska värderingar och mänskliga rättigheter samt motverka hedersrelaterat våld och förtryck</uppgift>
+<ref_dok_id datatype="string">H7022726</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2726</ref_dok_bet>
+<ref_dok_titel datatype="string">Åtgärder för att stärka demokratiska värderingar och mänskliga rättigheter samt motverka hedersrelaterat våld och förtryck</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:810 Jämställdhet</uppgift>
+<ref_dok_id datatype="string">H702810</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">810</ref_dok_bet>
+<ref_dok_titel datatype="string">Jämställdhet</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2758 Liberal politik för hbtq-personers lika rättigheter och möjligheter</uppgift>
+<ref_dok_id datatype="string">H7022758</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2758</ref_dok_bet>
+<ref_dok_titel datatype="string">Liberal politik för hbtq-personers lika rättigheter och möjligheter</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:220 Rättighetsbaserat flyktingmottagande byggt på välfärd</uppgift>
+<ref_dok_id datatype="string">H702220</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">220</ref_dok_bet>
+<ref_dok_titel datatype="string">Rättighetsbaserat flyktingmottagande byggt på välfärd</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3172 Åtgärder för att förebygga hedersbrott och stötta utsatta</uppgift>
+<ref_dok_id datatype="string">H7023172</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3172</ref_dok_bet>
+<ref_dok_titel datatype="string">Åtgärder för att förebygga hedersbrott och stötta utsatta</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3371 Politik för årsrika</uppgift>
+<ref_dok_id datatype="string">H7023371</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3371</ref_dok_bet>
+<ref_dok_titel datatype="string">Politik för årsrika</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:646 Stoppa det hedersrelaterade våldet</uppgift>
+<ref_dok_id datatype="string">H702646</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">646</ref_dok_bet>
+<ref_dok_titel datatype="string">Stoppa det hedersrelaterade våldet</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1928 Hedersförtryck mot hbtq-personer</uppgift>
+<ref_dok_id datatype="string">H7021928</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1928</ref_dok_bet>
+<ref_dok_titel datatype="string">Hedersförtryck mot hbtq-personer</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:798 Ändrat och utvidgat uppdrag för Medlingsinstitutet </uppgift>
+<ref_dok_id datatype="string">H702798</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">798</ref_dok_bet>
+<ref_dok_titel datatype="string">Ändrat och utvidgat uppdrag för Medlingsinstitutet </ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:166 Förenkla för företag inom besöksnäringen</uppgift>
+<ref_dok_id datatype="string">H702166</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">166</ref_dok_bet>
+<ref_dok_titel datatype="string">Förenkla för företag inom besöksnäringen</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:973 En nollvision för mäns våld mot kvinnor</uppgift>
+<ref_dok_id datatype="string">H702973</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">973</ref_dok_bet>
+<ref_dok_titel datatype="string">En nollvision för mäns våld mot kvinnor</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:496 Rättighet att ta med ledarhund och assistanshund</uppgift>
+<ref_dok_id datatype="string">H702496</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">496</ref_dok_bet>
+<ref_dok_titel datatype="string">Rättighet att ta med ledarhund och assistanshund</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:539 Ordning och reda på arbetsmarknaden</uppgift>
+<ref_dok_id datatype="string">H702539</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">539</ref_dok_bet>
+<ref_dok_titel datatype="string">Ordning och reda på arbetsmarknaden</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1930 Vitbok om svenska samhällets brott mot hbt-personer</uppgift>
+<ref_dok_id datatype="string">H7021930</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1930</ref_dok_bet>
+<ref_dok_titel datatype="string">Vitbok om svenska samhällets brott mot hbt-personer</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:319 Utbildning om våld i nära relationer</uppgift>
+<ref_dok_id datatype="string">H702319</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">319</ref_dok_bet>
+<ref_dok_titel datatype="string">Utbildning om våld i nära relationer</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2835 En mer rättvis skadeståndsrätt</uppgift>
+<ref_dok_id datatype="string">H7022835</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2835</ref_dok_bet>
+<ref_dok_titel datatype="string">En mer rättvis skadeståndsrätt</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3318 Sverige bör införa jämlikhetsdata</uppgift>
+<ref_dok_id datatype="string">H7023318</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3318</ref_dok_bet>
+<ref_dok_titel datatype="string">Sverige bör införa jämlikhetsdata</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3360 Liberal integrationspolitik</uppgift>
+<ref_dok_id datatype="string">H7023360</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3360</ref_dok_bet>
+<ref_dok_titel datatype="string">Liberal integrationspolitik</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:405 Motverka hedersvåld och förtryck</uppgift>
+<ref_dok_id datatype="string">H702405</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">405</ref_dok_bet>
+<ref_dok_titel datatype="string">Motverka hedersvåld och förtryck</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3189 Jämställdhet</uppgift>
+<ref_dok_id datatype="string">H7023189</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3189</ref_dok_bet>
+<ref_dok_titel datatype="string">Jämställdhet</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:97 En nollvision för kvinnovåld</uppgift>
+<ref_dok_id datatype="string">H70297</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">97</ref_dok_bet>
+<ref_dok_titel datatype="string">En nollvision för kvinnovåld</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3356 Hbtq-frågor i världen</uppgift>
+<ref_dok_id datatype="string">H7023356</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3356</ref_dok_bet>
+<ref_dok_titel datatype="string">Hbtq-frågor i världen</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2589 Förbättra seniorers villkor på arbetsmarknaden</uppgift>
+<ref_dok_id datatype="string">H7022589</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2589</ref_dok_bet>
+<ref_dok_titel datatype="string">Förbättra seniorers villkor på arbetsmarknaden</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:682 Utökad diskrimineringslagstiftning</uppgift>
+<ref_dok_id datatype="string">H702682</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">682</ref_dok_bet>
+<ref_dok_titel datatype="string">Utökad diskrimineringslagstiftning</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2833 Från bidrag till jobb - Moderaternas integrationspolitik</uppgift>
+<ref_dok_id datatype="string">H7022833</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2833</ref_dok_bet>
+<ref_dok_titel datatype="string">Från bidrag till jobb - Moderaternas integrationspolitik</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3302 Internationell solidaritet - hbtq plus i hela världen</uppgift>
+<ref_dok_id datatype="string">H7023302</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3302</ref_dok_bet>
+<ref_dok_titel datatype="string">Internationell solidaritet - hbtq plus i hela världen</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2330 Maskulinitetsnormen</uppgift>
+<ref_dok_id datatype="string">H7022330</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2330</ref_dok_bet>
+<ref_dok_titel datatype="string">Maskulinitetsnormen</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:111 Politisk uppfattning som diskrimineringsgrund i svensk lagstiftning</uppgift>
+<ref_dok_id datatype="string">H702111</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">111</ref_dok_bet>
+<ref_dok_titel datatype="string">Politisk uppfattning som diskrimineringsgrund i svensk lagstiftning</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3105 Utgiftsområde 12 Ekonomisk trygghet för familjer och barn</uppgift>
+<ref_dok_id datatype="string">H7023105</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3105</ref_dok_bet>
+<ref_dok_titel datatype="string">Utgiftsområde 12 Ekonomisk trygghet för familjer och barn</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:418 Psykisk ohälsa kan leda till diskriminering</uppgift>
+<ref_dok_id datatype="string">H702418</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">418</ref_dok_bet>
+<ref_dok_titel datatype="string">Psykisk ohälsa kan leda till diskriminering</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:157 Jämställd ekonomi - gender budgeting</uppgift>
+<ref_dok_id datatype="string">H702157</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">157</ref_dok_bet>
+<ref_dok_titel datatype="string">Jämställd ekonomi - gender budgeting</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2018 Jämställdhet</uppgift>
+<ref_dok_id datatype="string">H7022018</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2018</ref_dok_bet>
+<ref_dok_titel datatype="string">Jämställdhet</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+</dokreferens>
+<debatt /></dokumentstatus>

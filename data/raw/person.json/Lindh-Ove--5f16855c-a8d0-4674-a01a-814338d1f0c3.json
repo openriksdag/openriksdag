@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "a79e7fa7-e7d6-47e9-8349-16436fc14902",
+    "sourceid": "5f16855c-a8d0-4674-a01a-814338d1f0c3",
+    "intressent_id": "",
+    "hangar_id": "4788810",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Lindh",
+    "tilltalsnamn": "Ove",
+    "sorteringsnamn": "Lindh,Ove",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ledamot i Statsrådsarvodesnämnden",
+    "person_url_xml": "http://data.riksdagen.se/person/5f16855c-a8d0-4674-a01a-814338d1f0c3",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5f16855c-a8d0-4674-a01a-814338d1f0c3_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5f16855c-a8d0-4674-a01a-814338d1f0c3_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5f16855c-a8d0-4674-a01a-814338d1f0c3_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "SN",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2006-12-12",
+        "tom": "2011-02-10",
+        "uppgift": "Statsrådsarvodesnämnden",
+        "intressent_id": "",
+        "hangar_id": "4788810",
+        "sortering": "30",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

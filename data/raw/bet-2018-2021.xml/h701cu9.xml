@@ -1,0 +1,364 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5044764</hangar_id>
+    <dok_id datatype="string">H701CU9</dok_id>
+    <rm datatype="string">2019/20</rm>
+    <beteckning datatype="string">CU9</beteckning>
+    <typ datatype="string">bet</typ>
+    <subtyp datatype="string">bet</subtyp>
+    <doktyp datatype="string">bet</doktyp>
+    <typrubrik datatype="string">Betänkande 2019/20:CU9</typrubrik>
+    <dokumentnamn datatype="string">Betänkande</dokumentnamn>
+    <debattnamn datatype="string">Debatt om förslag</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">CU</organ>
+    <mottagare datatype="string"></mottagare>
+    <nummer datatype="int32">9</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2019-10-24 00:00:00</datum>
+    <systemdatum datatype="datetime">2020-02-03 08:49:30</systemdatum>
+    <publicerad datatype="datetime">2019-10-24 14:31:10</publicerad>
+    <titel datatype="string">Hyresrätt m.m.</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">planerat</status>
+    <htmlformat datatype="string"></htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">Brus</source>
+    <sourceid datatype="string">6bb8dcdb-24b3-4738-bfe2-a3be6ed48608</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H701CU9/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H701CU9</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H701CU9</dokumentstatus_url_xml>
+    <utskottsforslag_url_xml datatype="stext">http://data.riksdagen.se/utskottsforslag/H701CU9</utskottsforslag_url_xml>
+    <html datatype="text">&lt;h2&gt;Hyresrätt m.m.&lt;/h2&gt;
+Dokumentet är inte publicerat</html>
+  </dokument>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">UBE</kod>
+<namn datatype="string">Beredning</namn>
+<datum datatype="datetime">2020-01-16 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">UBE</kod>
+<namn datatype="string">Beredning</namn>
+<datum datatype="datetime">2020-01-28 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">UBE</kod>
+<namn datatype="string">Beredning</namn>
+<datum datatype="datetime">2020-02-06 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">JUS</kod>
+<namn datatype="string">Justering</namn>
+<datum datatype="datetime">2020-02-13 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">TRY</kod>
+<namn datatype="string">Trycklov</namn>
+<datum datatype="datetime">2020-02-14 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">B</kod>
+<namn datatype="string">Bordläggning</namn>
+<datum datatype="datetime">2020-02-18 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">BES</kod>
+<namn datatype="string">Beslut</namn>
+<datum datatype="datetime">2020-02-19 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">BEH</kod>
+<namn datatype="string">Behandling</namn>
+<datum datatype="datetime">2020-02-19 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+</dokaktivitet>
+<dokuppgift>
+<uppgift>
+<kod datatype="string">statustext</kod>
+<namn datatype="string">statustext</namn>
+<text datatype="string">Utskottet arbetar med ärendet</text>
+<dok_id datatype="string">H701CU9</dok_id>
+<systemdatum datatype="datetime">2020-01-17 00:11:46</systemdatum>
+</uppgift>
+</dokuppgift>
+<dokreferens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:869 Stärkt ställning och ökad trygghet för hyresgäster</uppgift>
+<ref_dok_id datatype="string">H702869</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">869</ref_dok_bet>
+<ref_dok_titel datatype="string">Stärkt ställning och ökad trygghet för hyresgäster</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3243 Utgiftsområde 18 Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik</uppgift>
+<ref_dok_id datatype="string">H7023243</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3243</ref_dok_bet>
+<ref_dok_titel datatype="string">Utgiftsområde 18 Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2869 Ändring i bostadsrättslagen </uppgift>
+<ref_dok_id datatype="string">H7022869</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2869</ref_dok_bet>
+<ref_dok_titel datatype="string">Ändring i bostadsrättslagen </ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3139 Åtgärder för en ökad möjlighet till en egen bostad</uppgift>
+<ref_dok_id datatype="string">H7023139</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3139</ref_dok_bet>
+<ref_dok_titel datatype="string">Åtgärder för en ökad möjlighet till en egen bostad</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3355 Ökat byggande med snabbare byggprocesser och ökad tillgång på mark</uppgift>
+<ref_dok_id datatype="string">H7023355</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3355</ref_dok_bet>
+<ref_dok_titel datatype="string">Ökat byggande med snabbare byggprocesser och ökad tillgång på mark</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2802 Liberal bostadspolitik</uppgift>
+<ref_dok_id datatype="string">H7022802</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2802</ref_dok_bet>
+<ref_dok_titel datatype="string">Liberal bostadspolitik</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:843 Garantera hyresgästens bostad och stärk det egna inflytandet vid icke självförvållad skada av hyresbostad</uppgift>
+<ref_dok_id datatype="string">H702843</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">843</ref_dok_bet>
+<ref_dok_titel datatype="string">Garantera hyresgästens bostad och stärk det egna inflytandet vid icke självförvållad skada av hyresbostad</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:516 En ny egnahemsrörelse </uppgift>
+<ref_dok_id datatype="string">H702516</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">516</ref_dok_bet>
+<ref_dok_titel datatype="string">En ny egnahemsrörelse </ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3266 Bostäder och grönt samhällsbyggande</uppgift>
+<ref_dok_id datatype="string">H7023266</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3266</ref_dok_bet>
+<ref_dok_titel datatype="string">Bostäder och grönt samhällsbyggande</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2507 Fri hyressättning av bostäder</uppgift>
+<ref_dok_id datatype="string">H7022507</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2507</ref_dok_bet>
+<ref_dok_titel datatype="string">Fri hyressättning av bostäder</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1436 Bostadsköpares pengar i krisbolag saknar skydd</uppgift>
+<ref_dok_id datatype="string">H7021436</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1436</ref_dok_bet>
+<ref_dok_titel datatype="string">Bostadsköpares pengar i krisbolag saknar skydd</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2149 Hyresrätt och allmännytta</uppgift>
+<ref_dok_id datatype="string">H7022149</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2149</ref_dok_bet>
+<ref_dok_titel datatype="string">Hyresrätt och allmännytta</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1119 Lämplighetsprövning vid köp av fastigheter för att motverka organiserad brottslighet</uppgift>
+<ref_dok_id datatype="string">H7021119</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1119</ref_dok_bet>
+<ref_dok_titel datatype="string">Lämplighetsprövning vid köp av fastigheter för att motverka organiserad brottslighet</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2148 Hyressättning</uppgift>
+<ref_dok_id datatype="string">H7022148</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2148</ref_dok_bet>
+<ref_dok_titel datatype="string">Hyressättning</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2831 Rättvis och hållbar tillväxt</uppgift>
+<ref_dok_id datatype="string">H7022831</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2831</ref_dok_bet>
+<ref_dok_titel datatype="string">Rättvis och hållbar tillväxt</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:954 Ändring i hyreslagen</uppgift>
+<ref_dok_id datatype="string">H702954</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">954</ref_dok_bet>
+<ref_dok_titel datatype="string">Ändring i hyreslagen</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2839 Förhindra kapningar av bostadsrättsföreningar</uppgift>
+<ref_dok_id datatype="string">H7022839</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2839</ref_dok_bet>
+<ref_dok_titel datatype="string">Förhindra kapningar av bostadsrättsföreningar</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:608 Sverigedemokraternas bostadspolitik</uppgift>
+<ref_dok_id datatype="string">H702608</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">608</ref_dok_bet>
+<ref_dok_titel datatype="string">Sverigedemokraternas bostadspolitik</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:329 Kapade och plundrade bostadsrättsföreningar</uppgift>
+<ref_dok_id datatype="string">H702329</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">329</ref_dok_bet>
+<ref_dok_titel datatype="string">Kapade och plundrade bostadsrättsföreningar</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3360 Liberal integrationspolitik</uppgift>
+<ref_dok_id datatype="string">H7023360</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3360</ref_dok_bet>
+<ref_dok_titel datatype="string">Liberal integrationspolitik</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3026 Insatser för att motverka en parallell svart bostadsmarknad</uppgift>
+<ref_dok_id datatype="string">H7023026</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3026</ref_dok_bet>
+<ref_dok_titel datatype="string">Insatser för att motverka en parallell svart bostadsmarknad</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+</dokreferens>
+<debatt /></dokumentstatus>

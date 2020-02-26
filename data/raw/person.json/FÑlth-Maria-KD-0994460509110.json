@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "bd0c48d6-075b-457c-8fdd-a0e590b0fc45",
+    "sourceid": "74748ac8-c8f5-45ea-bb5a-912237ba3879",
+    "intressent_id": "0994460509110",
+    "hangar_id": "2369458",
+    "fodd_ar": "1963",
+    "kon": "kvinna",
+    "efternamn": "Fälth",
+    "tilltalsnamn": "Maria",
+    "sorteringsnamn": "Fälth,Maria",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Stockholms län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/74748ac8-c8f5-45ea-bb5a-912237ba3879",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/74748ac8-c8f5-45ea-bb5a-912237ba3879_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/74748ac8-c8f5-45ea-bb5a-912237ba3879_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/74748ac8-c8f5-45ea-bb5a-912237ba3879_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "4",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2012-10-15",
+          "tom": "2013-01-01",
+          "uppgift": "Mats Odell",
+          "intressent_id": "0994460509110",
+          "hangar_id": "2369458",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "4",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-05",
+          "tom": "2010-10-05",
+          "uppgift": "Mats Odell",
+          "intressent_id": "0994460509110",
+          "hangar_id": "2369458",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-10-15",
+          "tom": "2013-01-01",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0994460509110",
+          "hangar_id": "2369458",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "maria.falth[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0994460509110",
+          "hangar_id": "2369458"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "66360",
+          "typ": "telefonnummer",
+          "intressent_id": "0994460509110",
+          "hangar_id": "2369458"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0994460509110",
+          "hangar_id": "2369458"
+        }
+      ]
+    }
+  }
+}

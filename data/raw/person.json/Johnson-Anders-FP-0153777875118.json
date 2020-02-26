@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "a4ac826b-1ec4-4dbe-a6de-eba0734e247a",
+    "sourceid": "76930ddb-0336-419d-8e0e-5eec0724d7f2",
+    "intressent_id": "0153777875118",
+    "hangar_id": "2342869",
+    "fodd_ar": "1955",
+    "kon": "man",
+    "efternamn": "Johnson",
+    "tilltalsnamn": "Anders",
+    "sorteringsnamn": "Johnson,Anders",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/76930ddb-0336-419d-8e0e-5eec0724d7f2",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/76930ddb-0336-419d-8e0e-5eec0724d7f2_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/76930ddb-0336-419d-8e0e-5eec0724d7f2_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/76930ddb-0336-419d-8e0e-5eec0724d7f2_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Riksdagsledamot",
+        "ordningsnummer": "0",
+        "status": "Tjänstgörande",
+        "typ": "kammaruppdrag",
+        "from": "1998-01-01",
+        "tom": "1998-10-05",
+        "uppgift": "",
+        "intressent_id": "0153777875118",
+        "hangar_id": "2342869",
+        "sortering": "10",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "10"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Skriftställare",
+          "typ": "titlar",
+          "intressent_id": "0153777875118",
+          "hangar_id": "2342869"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0153777875118",
+          "hangar_id": "2342869"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "ad038441-494d-49af-bcca-4e4e0adf57cf",
+    "sourceid": "807aa1c8-4cdd-4596-a91d-cbdf2ba8a8a6",
+    "intressent_id": "0906517990916",
+    "hangar_id": "2342835",
+    "fodd_ar": "1954",
+    "kon": "kvinna",
+    "efternamn": "Weibull Kornias",
+    "tilltalsnamn": "Marie",
+    "sorteringsnamn": "Weibull Kornias,Marie",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Skåne läns västra",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/807aa1c8-4cdd-4596-a91d-cbdf2ba8a8a6",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/807aa1c8-4cdd-4596-a91d-cbdf2ba8a8a6_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/807aa1c8-4cdd-4596-a91d-cbdf2ba8a8a6_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/807aa1c8-4cdd-4596-a91d-cbdf2ba8a8a6_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "329",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0906517990916",
+          "hangar_id": "2342835",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0906517990916",
+          "hangar_id": "2342835",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-11-15",
+          "tom": "2010-10-04",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0906517990916",
+          "hangar_id": "2342835",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2006-11-15",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0906517990916",
+          "hangar_id": "2342835",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "33",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-12-06",
+          "tom": "2010-10-04",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0906517990916",
+          "hangar_id": "2342835",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Informationsadministratör",
+          "typ": "titlar",
+          "intressent_id": "0906517990916",
+          "hangar_id": "2342835"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0906517990916",
+          "hangar_id": "2342835"
+        }
+      ]
+    }
+  }
+}

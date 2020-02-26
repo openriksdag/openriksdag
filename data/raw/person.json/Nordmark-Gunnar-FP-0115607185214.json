@@ -1,0 +1,146 @@
+{
+  "person": {
+    "hangar_guid": "18650e6a-d00a-4a32-b40d-143c5ea6b2c9",
+    "sourceid": "717b6860-11e9-401d-9c78-3a9147522c26",
+    "intressent_id": "0115607185214",
+    "hangar_id": "2342812",
+    "fodd_ar": "1954",
+    "kon": "man",
+    "efternamn": "Nordmark",
+    "tilltalsnamn": "Gunnar",
+    "sorteringsnamn": "Nordmark,Gunnar",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "Kronobergs län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/717b6860-11e9-401d-9c78-3a9147522c26",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/717b6860-11e9-401d-9c78-3a9147522c26_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/717b6860-11e9-401d-9c78-3a9147522c26_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/717b6860-11e9-401d-9c78-3a9147522c26_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "128",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2002-09-30",
+          "tom": "2006-10-02",
+          "uppgift": "",
+          "intressent_id": "0115607185214",
+          "hangar_id": "2342812",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "VPN",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2002-12-10",
+          "tom": "2007-01-17",
+          "uppgift": "Valprövningsnämnden",
+          "intressent_id": "0115607185214",
+          "hangar_id": "2342812",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0115607185214",
+          "hangar_id": "2342812",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2004-09-30",
+          "tom": "2006-03-09",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0115607185214",
+          "hangar_id": "2342812",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-03-09",
+          "tom": "2006-10-02",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0115607185214",
+          "hangar_id": "2342812",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-15",
+          "tom": "2004-09-20",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0115607185214",
+          "hangar_id": "2342812",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "lärare",
+          "typ": "titlar",
+          "intressent_id": "0115607185214",
+          "hangar_id": "2342812"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0115607185214",
+          "hangar_id": "2342812"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0115607185214",
+          "hangar_id": "2342812"
+        }
+      ]
+    }
+  }
+}

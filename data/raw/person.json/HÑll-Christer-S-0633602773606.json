@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "6a642a38-ae89-4662-9f87-c619134b24ed",
+    "sourceid": "825ae56d-70e7-4b41-ab7f-5a765aa40255",
+    "intressent_id": "0633602773606",
+    "hangar_id": "2342161",
+    "fodd_ar": "1942",
+    "kon": "man",
+    "efternamn": "Häll",
+    "tilltalsnamn": "Christer",
+    "sorteringsnamn": "Häll,Christer",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Status saknas",
+    "person_url_xml": "http://data.riksdagen.se/person/825ae56d-70e7-4b41-ab7f-5a765aa40255",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/825ae56d-70e7-4b41-ab7f-5a765aa40255_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/825ae56d-70e7-4b41-ab7f-5a765aa40255_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/825ae56d-70e7-4b41-ab7f-5a765aa40255_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-11-13",
+          "tom": "1989-12-13",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0633602773606",
+          "hangar_id": "2342161",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-11-13",
+          "tom": "1989-12-13",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0633602773606",
+          "hangar_id": "2342161",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "båtman",
+          "typ": "titlar",
+          "intressent_id": "0633602773606",
+          "hangar_id": "2342161"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0633602773606",
+          "hangar_id": "2342161"
+        }
+      ]
+    }
+  }
+}

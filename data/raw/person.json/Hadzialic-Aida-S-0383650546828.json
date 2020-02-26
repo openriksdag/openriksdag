@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "5eb8ac99-d3e2-4d08-8327-4bb3713ec4b2",
+    "sourceid": "db7b58f0-bb0e-46a7-86c9-853396e8e57e",
+    "intressent_id": "0383650546828",
+    "hangar_id": "3057286",
+    "fodd_ar": "1987",
+    "kon": "kvinna",
+    "efternamn": "Hadzialic",
+    "tilltalsnamn": "Aida",
+    "sorteringsnamn": "Hadzialic,Aida",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Hallands län",
+    "status": "Tidigare statsråd",
+    "person_url_xml": "http://data.riksdagen.se/person/db7b58f0-bb0e-46a7-86c9-853396e8e57e",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/db7b58f0-bb0e-46a7-86c9-853396e8e57e_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/db7b58f0-bb0e-46a7-86c9-853396e8e57e_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/db7b58f0-bb0e-46a7-86c9-853396e8e57e_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "U",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "21",
+          "status": "",
+          "typ": "Departement",
+          "from": "2016-05-25",
+          "tom": "2016-08-15",
+          "uppgift": "Utbildningsdepartementet",
+          "intressent_id": "0383650546828",
+          "hangar_id": "3057286",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "U",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "24",
+          "status": "",
+          "typ": "Departement",
+          "from": "2014-10-03",
+          "tom": "2016-05-25",
+          "uppgift": "Utbildningsdepartementet",
+          "intressent_id": "0383650546828",
+          "hangar_id": "3057286",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

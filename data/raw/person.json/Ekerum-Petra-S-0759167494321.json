@@ -1,0 +1,82 @@
+{
+  "person": {
+    "hangar_guid": "91ede3e7-77fe-4261-a257-7c71ca8b7a91",
+    "sourceid": "4e6e190d-6f11-496a-a26c-5f4a8a662a77",
+    "intressent_id": "0759167494321",
+    "hangar_id": "3057322",
+    "fodd_ar": "1980",
+    "kon": "kvinna",
+    "efternamn": "Ekerum",
+    "tilltalsnamn": "Petra",
+    "sorteringsnamn": "Ekerum,Petra",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Västra Götalands läns västra",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/4e6e190d-6f11-496a-a26c-5f4a8a662a77",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4e6e190d-6f11-496a-a26c-5f4a8a662a77_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4e6e190d-6f11-496a-a26c-5f4a8a662a77_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4e6e190d-6f11-496a-a26c-5f4a8a662a77_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "16",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2017-01-10",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0759167494321",
+          "hangar_id": "3057322",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-05-24",
+          "tom": "2018-09-24",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0759167494321",
+          "hangar_id": "3057322",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-01-10",
+          "tom": "2018-05-24",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0759167494321",
+          "hangar_id": "3057322",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "false",
+        "typ": "val",
+        "intressent_id": "0759167494321",
+        "hangar_id": "3057322"
+      }
+    }
+  }
+}

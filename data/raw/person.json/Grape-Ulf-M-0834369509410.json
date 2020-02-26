@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "5c930a4b-d43b-4aae-9562-ed76c8a7320f",
+    "sourceid": "55ddb619-d4a8-4372-8fb6-2406761bab00",
+    "intressent_id": "0834369509410",
+    "hangar_id": "2343120",
+    "fodd_ar": "1960",
+    "kon": "man",
+    "efternamn": "Grape",
+    "tilltalsnamn": "Ulf",
+    "sorteringsnamn": "Grape,Ulf",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Västerbottens län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/55ddb619-d4a8-4372-8fb6-2406761bab00",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/55ddb619-d4a8-4372-8fb6-2406761bab00_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/55ddb619-d4a8-4372-8fb6-2406761bab00_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/55ddb619-d4a8-4372-8fb6-2406761bab00_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "79",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2008-10-01",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0834369509410",
+          "hangar_id": "2343120",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "VPN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2011-04-06",
+          "tom": "2015-02-18",
+          "uppgift": "Valprövningsnämnden",
+          "intressent_id": "0834369509410",
+          "hangar_id": "2343120",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2008-10-02",
+          "tom": "2010-10-04",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0834369509410",
+          "hangar_id": "2343120",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "18",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2008-10-03",
+          "tom": "2010-10-04",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0834369509410",
+          "hangar_id": "2343120",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2009-11-12",
+          "tom": "2009-12-09",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0834369509410",
+          "hangar_id": "2343120",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2009-02-12",
+          "tom": "2009-03-12",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0834369509410",
+          "hangar_id": "2343120",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Direktör",
+          "typ": "titlar",
+          "intressent_id": "0834369509410",
+          "hangar_id": "2343120"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0834369509410",
+          "hangar_id": "2343120"
+        }
+      ]
+    }
+  }
+}

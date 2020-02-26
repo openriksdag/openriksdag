@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "510e9ef2-b7e8-43fe-a3ae-2410a4cd7db1",
+    "sourceid": "f62a097c-522b-4c1a-aa85-58fa00eea0e5",
+    "intressent_id": "0499497337518",
+    "hangar_id": "2342860",
+    "fodd_ar": "1955",
+    "kon": "man",
+    "efternamn": "Lindgren",
+    "tilltalsnamn": "Ulrik",
+    "sorteringsnamn": "Lindgren,Ulrik",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Dalarnas län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/f62a097c-522b-4c1a-aa85-58fa00eea0e5",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f62a097c-522b-4c1a-aa85-58fa00eea0e5_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f62a097c-522b-4c1a-aa85-58fa00eea0e5_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f62a097c-522b-4c1a-aa85-58fa00eea0e5_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "299",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2002-09-30",
+          "tom": "2006-10-02",
+          "uppgift": "",
+          "intressent_id": "0499497337518",
+          "hangar_id": "2342860",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0499497337518",
+          "hangar_id": "2342860",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuSoU",
+          "roll_kod": "Deputerad",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-02-09",
+          "tom": "2006-04-26",
+          "uppgift": "Sammansatta justitie- och socialutskottet",
+          "intressent_id": "0499497337518",
+          "hangar_id": "2342860",
+          "sortering": "40",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "leg.sjuksköterska",
+          "typ": "titlar",
+          "intressent_id": "0499497337518",
+          "hangar_id": "2342860"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0499497337518",
+          "hangar_id": "2342860"
+        }
+      ]
+    }
+  }
+}

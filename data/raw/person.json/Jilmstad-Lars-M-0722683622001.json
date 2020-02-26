@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "d24102e5-42c9-4f9c-ac32-fc8eda4f203c",
+    "sourceid": "66c921d0-cc6d-4137-8e09-bd8c686faa11",
+    "intressent_id": "0722683622001",
+    "hangar_id": "5003685",
+    "fodd_ar": "1946",
+    "kon": "man",
+    "efternamn": "Jilmstad",
+    "tilltalsnamn": "Lars",
+    "sorteringsnamn": "Jilmstad,Lars",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms kommun",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/66c921d0-cc6d-4137-8e09-bd8c686faa11",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/66c921d0-cc6d-4137-8e09-bd8c686faa11_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/66c921d0-cc6d-4137-8e09-bd8c686faa11_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/66c921d0-cc6d-4137-8e09-bd8c686faa11_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "4",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2020-01-01",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0722683622001",
+          "hangar_id": "5003685",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "141",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2019-08-26",
+          "tom": "2019-12-31",
+          "uppgift": "Jessica Rosencrantz",
+          "intressent_id": "0722683622001",
+          "hangar_id": "5003685",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-08-29",
+          "tom": "2020-05-03",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0722683622001",
+          "hangar_id": "5003685",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "lars.jilmstad[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0722683622001",
+          "hangar_id": "5003685"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Direktör.",
+          "typ": "titlar",
+          "intressent_id": "0722683622001",
+          "hangar_id": "5003685"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0722683622001",
+          "hangar_id": "5003685"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "7e2d8685-2001-401f-a404-0eae458689af",
+    "sourceid": "2d957933-bddd-4f9a-ab27-7807017c01b4",
+    "intressent_id": "0207814508895",
+    "hangar_id": "2341651",
+    "fodd_ar": "1922",
+    "kon": "man",
+    "efternamn": "Hovhammar",
+    "tilltalsnamn": "Erik",
+    "sorteringsnamn": "Hovhammar,Erik",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Avliden  2006-12-06",
+    "person_url_xml": "http://data.riksdagen.se/person/2d957933-bddd-4f9a-ab27-7807017c01b4",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2d957933-bddd-4f9a-ab27-7807017c01b4_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2d957933-bddd-4f9a-ab27-7807017c01b4_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2d957933-bddd-4f9a-ab27-7807017c01b4_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0207814508895",
+          "hangar_id": "2341651",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0207814508895",
+          "hangar_id": "2341651",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0207814508895",
+          "hangar_id": "2341651",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1976-10-04",
+          "tom": "1979-10-01",
+          "uppgift": "",
+          "intressent_id": "0207814508895",
+          "hangar_id": "2341651",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "bruksdisponent",
+          "typ": "titlar",
+          "intressent_id": "0207814508895",
+          "hangar_id": "2341651"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0207814508895",
+          "hangar_id": "2341651"
+        }
+      ]
+    }
+  }
+}

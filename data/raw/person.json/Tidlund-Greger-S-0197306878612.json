@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "6837c5eb-9773-45ca-831b-5813e092386c",
+    "sourceid": "949ae3d9-eec1-4804-a0da-5c2a3ada8097",
+    "intressent_id": "0197306878612",
+    "hangar_id": "2342790",
+    "fodd_ar": "1953",
+    "kon": "man",
+    "efternamn": "Tidlund",
+    "tilltalsnamn": "Greger",
+    "sorteringsnamn": "Tidlund,Greger",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Södermanlands län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/949ae3d9-eec1-4804-a0da-5c2a3ada8097",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/949ae3d9-eec1-4804-a0da-5c2a3ada8097_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/949ae3d9-eec1-4804-a0da-5c2a3ada8097_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/949ae3d9-eec1-4804-a0da-5c2a3ada8097_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "87",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2010-02-01",
+          "tom": "2010-05-31",
+          "uppgift": "Fredrik Olovsson",
+          "intressent_id": "0197306878612",
+          "hangar_id": "2342790",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-02-01",
+          "tom": "2010-05-31",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0197306878612",
+          "hangar_id": "2342790",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

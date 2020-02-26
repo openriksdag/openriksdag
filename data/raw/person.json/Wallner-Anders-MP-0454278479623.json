@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "bf652e5b-4620-4a61-b0a0-5eebf167eeff",
+    "sourceid": "35cd88e0-2747-446a-b851-8cb3ee320195",
+    "intressent_id": "0454278479623",
+    "hangar_id": "4467787",
+    "fodd_ar": "1983",
+    "kon": "man",
+    "efternamn": "Wallner",
+    "tilltalsnamn": "Anders",
+    "sorteringsnamn": "Wallner,Anders",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "",
+    "status": "",
+    "person_url_xml": "http://data.riksdagen.se/person/35cd88e0-2747-446a-b851-8cb3ee320195",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/35cd88e0-2747-446a-b851-8cb3ee320195_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/35cd88e0-2747-446a-b851-8cb3ee320195_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/35cd88e0-2747-446a-b851-8cb3ee320195_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "MP",
+        "roll_kod": "Partisekreterare",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "partiuppdrag",
+        "from": "2011-05-20",
+        "tom": "2016-05-14",
+        "uppgift": "Miljöpartiet",
+        "intressent_id": "0454278479623",
+        "hangar_id": "4467787",
+        "sortering": "35",
+        "organ_sortering": "",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

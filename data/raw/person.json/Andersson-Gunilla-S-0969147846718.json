@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "b109bcbf-c94c-4d7c-b50b-192f9cbffaeb",
+    "sourceid": "1872a60d-53c7-47c0-9207-b9135ac0de2e",
+    "intressent_id": "0969147846718",
+    "hangar_id": "2342865",
+    "fodd_ar": "1955",
+    "kon": "kvinna",
+    "efternamn": "Andersson",
+    "tilltalsnamn": "Gunilla",
+    "sorteringsnamn": "Andersson,Gunilla",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Status saknas",
+    "person_url_xml": "http://data.riksdagen.se/person/1872a60d-53c7-47c0-9207-b9135ac0de2e",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1872a60d-53c7-47c0-9207-b9135ac0de2e_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1872a60d-53c7-47c0-9207-b9135ac0de2e_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1872a60d-53c7-47c0-9207-b9135ac0de2e_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-05-12",
+          "tom": "1991-09-29",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0969147846718",
+          "hangar_id": "2342865",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "LU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-05-12",
+          "tom": "1991-09-29",
+          "uppgift": "Lagutskottet",
+          "intressent_id": "0969147846718",
+          "hangar_id": "2342865",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "barnomsorgsassistent",
+          "typ": "titlar",
+          "intressent_id": "0969147846718",
+          "hangar_id": "2342865"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0969147846718",
+          "hangar_id": "2342865"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "person": {
+    "hangar_guid": "30e457a2-4f0d-4c5e-b2b4-6db4cec4f5bb",
+    "sourceid": "d98daec6-a67c-4cbd-a475-9e007b809f7d",
+    "intressent_id": "0950559490627",
+    "hangar_id": "2369647",
+    "fodd_ar": "1984",
+    "kon": "kvinna",
+    "efternamn": "Wickberg",
+    "tilltalsnamn": "Marie",
+    "sorteringsnamn": "Wickberg,Marie",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Värmlands län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/d98daec6-a67c-4cbd-a475-9e007b809f7d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d98daec6-a67c-4cbd-a475-9e007b809f7d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d98daec6-a67c-4cbd-a475-9e007b809f7d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d98daec6-a67c-4cbd-a475-9e007b809f7d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "72",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2011-11-22",
+          "tom": "2012-03-04",
+          "uppgift": "Erik A Eriksson",
+          "intressent_id": "0950559490627",
+          "hangar_id": "2369647",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "72",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2011-05-11",
+          "tom": "2011-06-13",
+          "uppgift": "Erik A Eriksson",
+          "intressent_id": "0950559490627",
+          "hangar_id": "2369647",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-02-05",
+          "tom": "2012-03-04",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0950559490627",
+          "hangar_id": "2369647",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-11-22",
+          "tom": "2012-02-04",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0950559490627",
+          "hangar_id": "2369647",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-05-13",
+          "tom": "2011-06-13",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0950559490627",
+          "hangar_id": "2369647",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-02-05",
+          "tom": "2012-03-04",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0950559490627",
+          "hangar_id": "2369647",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-11-22",
+          "tom": "2012-02-04",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0950559490627",
+          "hangar_id": "2369647",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-05-13",
+          "tom": "2011-06-13",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0950559490627",
+          "hangar_id": "2369647",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "marie.wickberg[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0950559490627",
+          "hangar_id": "2369647"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "64924",
+          "typ": "telefonnummer",
+          "intressent_id": "0950559490627",
+          "hangar_id": "2369647"
+        }
+      ]
+    }
+  }
+}

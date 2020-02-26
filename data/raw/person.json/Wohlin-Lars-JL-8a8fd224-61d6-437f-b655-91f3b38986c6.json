@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "ed021f3f-e404-4937-ba32-a8a3c1bcb133",
+    "sourceid": "8a8fd224-61d6-437f-b655-91f3b38986c6",
+    "intressent_id": "",
+    "hangar_id": "4788865",
+    "fodd_ar": "0",
+    "kon": "okänt",
+    "efternamn": "Wohlin",
+    "tilltalsnamn": "Lars",
+    "sorteringsnamn": "Wohlin,Lars",
+    "iort": "",
+    "parti": "JL",
+    "valkrets": "",
+    "status": "Tidigare europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/8a8fd224-61d6-437f-b655-91f3b38986c6",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8a8fd224-61d6-437f-b655-91f3b38986c6_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8a8fd224-61d6-437f-b655-91f3b38986c6_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8a8fd224-61d6-437f-b655-91f3b38986c6_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "EP",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "18",
+        "status": "",
+        "typ": "Europaparlamentet",
+        "from": "2004-07-20",
+        "tom": "2009-07-14",
+        "uppgift": "Europaparlamentet",
+        "intressent_id": "",
+        "hangar_id": "4788865",
+        "sortering": "30",
+        "organ_sortering": "100",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

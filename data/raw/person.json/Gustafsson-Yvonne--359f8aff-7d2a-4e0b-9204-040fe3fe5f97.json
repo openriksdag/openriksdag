@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "2638f86a-8923-4625-990f-ef946187414e",
+    "sourceid": "359f8aff-7d2a-4e0b-9204-040fe3fe5f97",
+    "intressent_id": "",
+    "hangar_id": "4788845",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Gustafsson",
+    "tilltalsnamn": "Yvonne",
+    "sorteringsnamn": "Gustafsson,Yvonne",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ledamot i Nämnden för lön till riksdagens ombudsmän och riksrevisorerna",
+    "person_url_xml": "http://data.riksdagen.se/person/359f8aff-7d2a-4e0b-9204-040fe3fe5f97",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/359f8aff-7d2a-4e0b-9204-040fe3fe5f97_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/359f8aff-7d2a-4e0b-9204-040fe3fe5f97_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/359f8aff-7d2a-4e0b-9204-040fe3fe5f97_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "NL",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2014-06-12",
+        "tom": "2014-11-27",
+        "uppgift": "Nämnden för lön till riksdagens ombudsmän och riksrevisorerna",
+        "intressent_id": "",
+        "hangar_id": "4788845",
+        "sortering": "30",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

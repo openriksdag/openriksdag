@@ -1,0 +1,121 @@
+{
+  "person": {
+    "hangar_guid": "a70d1e10-6ce0-4627-9914-565aefcc12a4",
+    "sourceid": "3dab7025-7152-4c7f-bd60-eb6a1de42c3b",
+    "intressent_id": "0880137451720",
+    "hangar_id": "3057316",
+    "fodd_ar": "1980",
+    "kon": "kvinna",
+    "efternamn": "Nohrén",
+    "tilltalsnamn": "Emma",
+    "sorteringsnamn": "Nohrén,Emma",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "Göteborgs kommun",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/3dab7025-7152-4c7f-bd60-eb6a1de42c3b",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3dab7025-7152-4c7f-bd60-eb6a1de42c3b_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3dab7025-7152-4c7f-bd60-eb6a1de42c3b_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3dab7025-7152-4c7f-bd60-eb6a1de42c3b_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "192",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0880137451720",
+          "hangar_id": "3057316",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0880137451720",
+          "hangar_id": "3057316",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-06-28",
+          "tom": "2018-09-24",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0880137451720",
+          "hangar_id": "3057316",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2016-09-01",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0880137451720",
+          "hangar_id": "3057316",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "emma.nohren[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0880137451720",
+          "hangar_id": "3057316"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Fil.mag. marinbiologi.",
+          "typ": "titlar",
+          "intressent_id": "0880137451720",
+          "hangar_id": "3057316"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0880137451720",
+          "hangar_id": "3057316"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0880137451720",
+          "hangar_id": "3057316"
+        }
+      ]
+    }
+  }
+}

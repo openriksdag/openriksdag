@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "9d889c54-59c8-4b21-890c-d5fe03af8d65",
+    "sourceid": "ba66a782-f71d-4149-a04b-e9ac3386829c",
+    "intressent_id": "0134750372407",
+    "hangar_id": "2341976",
+    "fodd_ar": "1937",
+    "kon": "kvinna",
+    "efternamn": "Norberg",
+    "tilltalsnamn": "Gunvor",
+    "sorteringsnamn": "Norberg,Gunvor",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/ba66a782-f71d-4149-a04b-e9ac3386829c",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ba66a782-f71d-4149-a04b-e9ac3386829c_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ba66a782-f71d-4149-a04b-e9ac3386829c_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ba66a782-f71d-4149-a04b-e9ac3386829c_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Ersättare",
+        "ordningsnummer": "0",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "1987-11-13",
+        "tom": "1987-12-13",
+        "uppgift": "Görel Thurdin",
+        "intressent_id": "0134750372407",
+        "hangar_id": "2341976",
+        "sortering": "45",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": ""
+  }
+}

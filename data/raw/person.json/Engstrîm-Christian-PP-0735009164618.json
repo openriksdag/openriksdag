@@ -1,0 +1,66 @@
+{
+  "person": {
+    "hangar_guid": "9df4dbf5-7579-4912-8550-ef963616f134",
+    "sourceid": "4af0724f-02ce-4a91-8af0-fa2154606b6f",
+    "intressent_id": "0735009164618",
+    "hangar_id": "2821454",
+    "fodd_ar": "1960",
+    "kon": "man",
+    "efternamn": "Engström",
+    "tilltalsnamn": "Christian",
+    "sorteringsnamn": "Engström,Christian",
+    "iort": "",
+    "parti": "PP",
+    "valkrets": "",
+    "status": "Tidigare europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/4af0724f-02ce-4a91-8af0-fa2154606b6f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4af0724f-02ce-4a91-8af0-fa2154606b6f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4af0724f-02ce-4a91-8af0-fa2154606b6f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4af0724f-02ce-4a91-8af0-fa2154606b6f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "EP",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "19",
+          "status": "",
+          "typ": "Europaparlamentet",
+          "from": "2011-12-01",
+          "tom": "2014-07-01",
+          "uppgift": "Europaparlamentet",
+          "intressent_id": "0735009164618",
+          "hangar_id": "2821454",
+          "sortering": "30",
+          "organ_sortering": "100",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EP",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "18",
+          "status": "",
+          "typ": "Europaparlamentet",
+          "from": "2009-07-14",
+          "tom": "2011-11-30",
+          "uppgift": "Europaparlamentet",
+          "intressent_id": "0735009164618",
+          "hangar_id": "2821454",
+          "sortering": "30",
+          "organ_sortering": "100",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Webbsida",
+        "uppgift": "http://www.europarl.europa.eu/meps/sv/96676/CHRISTIAN_ENGSTROM.html",
+        "typ": "eadress",
+        "intressent_id": "0735009164618",
+        "hangar_id": "2821454"
+      }
+    }
+  }
+}

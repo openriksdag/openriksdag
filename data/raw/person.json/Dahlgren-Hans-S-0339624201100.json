@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "f5462799-682e-4941-ba9d-37b87828739d",
+    "sourceid": "92c700a2-28ce-4de3-8706-83c2b2530bf5",
+    "intressent_id": "0339624201100",
+    "hangar_id": "5020196",
+    "fodd_ar": "1948",
+    "kon": "man",
+    "efternamn": "Dahlgren",
+    "tilltalsnamn": "Hans",
+    "sorteringsnamn": "Dahlgren,Hans",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Statsråd",
+    "person_url_xml": "http://data.riksdagen.se/person/92c700a2-28ce-4de3-8706-83c2b2530bf5",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/92c700a2-28ce-4de3-8706-83c2b2530bf5_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/92c700a2-28ce-4de3-8706-83c2b2530bf5_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/92c700a2-28ce-4de3-8706-83c2b2530bf5_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "SB",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "16",
+          "status": "",
+          "typ": "Departement",
+          "from": "2019-10-01",
+          "tom": "2022-09-26",
+          "uppgift": "Statsrådsberedningen",
+          "intressent_id": "0339624201100",
+          "hangar_id": "5020196",
+          "sortering": "100",
+          "organ_sortering": "400",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SB",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "17",
+          "status": "",
+          "typ": "Departement",
+          "from": "2019-09-10",
+          "tom": "2019-10-01",
+          "uppgift": "Statsrådsberedningen",
+          "intressent_id": "0339624201100",
+          "hangar_id": "5020196",
+          "sortering": "100",
+          "organ_sortering": "400",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SB",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "19",
+          "status": "",
+          "typ": "Departement",
+          "from": "2019-01-21",
+          "tom": "2019-09-10",
+          "uppgift": "Statsrådsberedningen",
+          "intressent_id": "0339624201100",
+          "hangar_id": "5020196",
+          "sortering": "100",
+          "organ_sortering": "400",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Civilekonom.",
+          "typ": "titlar",
+          "intressent_id": "0339624201100",
+          "hangar_id": "5020196"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0339624201100",
+          "hangar_id": "5020196"
+        }
+      ]
+    }
+  }
+}

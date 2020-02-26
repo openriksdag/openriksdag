@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "58903b85-050d-4e1b-bb34-728b1434f6cd",
+    "sourceid": "ad900f76-8ee0-44a1-a639-a2bbf6dfbe77",
+    "intressent_id": "0204145974808",
+    "hangar_id": "2341689",
+    "fodd_ar": "1925",
+    "kon": "man",
+    "efternamn": "Einhorn",
+    "tilltalsnamn": "Jerzy",
+    "sorteringsnamn": "Einhorn,Jerzy",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "",
+    "status": "Avliden  2000-04-28",
+    "person_url_xml": "http://data.riksdagen.se/person/ad900f76-8ee0-44a1-a639-a2bbf6dfbe77",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ad900f76-8ee0-44a1-a639-a2bbf6dfbe77_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ad900f76-8ee0-44a1-a639-a2bbf6dfbe77_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ad900f76-8ee0-44a1-a639-a2bbf6dfbe77_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "20",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0204145974808",
+          "hangar_id": "2341689",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0204145974808",
+          "hangar_id": "2341689",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "professor",
+          "typ": "titlar",
+          "intressent_id": "0204145974808",
+          "hangar_id": "2341689"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0204145974808",
+          "hangar_id": "2341689"
+        }
+      ]
+    }
+  }
+}

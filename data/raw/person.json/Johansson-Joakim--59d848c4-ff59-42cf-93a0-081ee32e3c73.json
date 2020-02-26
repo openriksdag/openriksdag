@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "92f07533-bfe5-4637-8585-d3053eaaec0d",
+    "sourceid": "59d848c4-ff59-42cf-93a0-081ee32e3c73",
+    "intressent_id": "",
+    "hangar_id": "4788881",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Johansson",
+    "tilltalsnamn": "Joakim",
+    "sorteringsnamn": "Johansson,Joakim",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Suppleant i Valprövningsnämnden",
+    "person_url_xml": "http://data.riksdagen.se/person/59d848c4-ff59-42cf-93a0-081ee32e3c73",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/59d848c4-ff59-42cf-93a0-081ee32e3c73_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/59d848c4-ff59-42cf-93a0-081ee32e3c73_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/59d848c4-ff59-42cf-93a0-081ee32e3c73_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "VPN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2019-03-13",
+          "tom": "2022-03-14",
+          "uppgift": "Valprövningsnämnden",
+          "intressent_id": "",
+          "hangar_id": "4788881",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "VPN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2017-12-01",
+          "tom": "2019-03-13",
+          "uppgift": "Valprövningsnämnden",
+          "intressent_id": "",
+          "hangar_id": "4788881",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

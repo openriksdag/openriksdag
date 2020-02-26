@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "bdbc8924-5c10-4560-b558-7f3b12ddc2ec",
+    "sourceid": "2e06480b-3b26-43e5-9126-a622377300eb",
+    "intressent_id": "0706974423606",
+    "hangar_id": "2342443",
+    "fodd_ar": "1947",
+    "kon": "kvinna",
+    "efternamn": "Garstedt",
+    "tilltalsnamn": "Inge",
+    "sorteringsnamn": "Garstedt,Inge",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Malmö kommun",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/2e06480b-3b26-43e5-9126-a622377300eb",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2e06480b-3b26-43e5-9126-a622377300eb_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2e06480b-3b26-43e5-9126-a622377300eb_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2e06480b-3b26-43e5-9126-a622377300eb_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "152",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0706974423606",
+          "hangar_id": "2342443",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "158",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1991-10-15",
+          "tom": "1991-11-17",
+          "uppgift": "Margit Gennser",
+          "intressent_id": "0706974423606",
+          "hangar_id": "2342443",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "ÖN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2006-10-17",
+          "tom": "2010-10-04",
+          "uppgift": "Riksdagens överklagandenämnd",
+          "intressent_id": "0706974423606",
+          "hangar_id": "2342443",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0706974423606",
+          "hangar_id": "2342443",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-18",
+          "tom": "1991-11-17",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0706974423606",
+          "hangar_id": "2342443",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0706974423606",
+          "hangar_id": "2342443",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuSoU",
+          "roll_kod": "Deputerad",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2008-01-29",
+          "tom": "2008-05-07",
+          "uppgift": "Sammansatta justitie- och socialutskottet",
+          "intressent_id": "0706974423606",
+          "hangar_id": "2342443",
+          "sortering": "40",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Jur.kand.",
+          "typ": "titlar",
+          "intressent_id": "0706974423606",
+          "hangar_id": "2342443"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0706974423606",
+          "hangar_id": "2342443"
+        }
+      ]
+    }
+  }
+}

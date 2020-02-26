@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "3df4920d-eb98-4428-9291-fce8b07b821e",
+    "sourceid": "7637d53c-2b40-45a2-af2c-192913c4798f",
+    "intressent_id": "0957300271615",
+    "hangar_id": "2343167",
+    "fodd_ar": "1961",
+    "kon": "man",
+    "efternamn": "Bernal",
+    "tilltalsnamn": "Loui",
+    "sorteringsnamn": "Bernal,Loui",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "",
+    "status": "Status saknas",
+    "person_url_xml": "http://data.riksdagen.se/person/7637d53c-2b40-45a2-af2c-192913c4798f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7637d53c-2b40-45a2-af2c-192913c4798f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7637d53c-2b40-45a2-af2c-192913c4798f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7637d53c-2b40-45a2-af2c-192913c4798f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-04-18",
+          "tom": "1990-06-13",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0957300271615",
+          "hangar_id": "2343167",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-04-18",
+          "tom": "1990-06-13",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0957300271615",
+          "hangar_id": "2343167",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "musiker",
+          "typ": "titlar",
+          "intressent_id": "0957300271615",
+          "hangar_id": "2343167"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0957300271615",
+          "hangar_id": "2343167"
+        }
+      ]
+    }
+  }
+}

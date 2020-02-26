@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "2d384ce6-8902-4b8c-b669-61192e3f6b67",
+    "sourceid": "cda53f92-26af-4787-b77a-8ee43a3ac1c4",
+    "intressent_id": "",
+    "hangar_id": "4788785",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Lindsö",
+    "tilltalsnamn": "Ebba",
+    "sorteringsnamn": "Lindsö,Ebba",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ledamot i Riksbanksfullmäktige",
+    "person_url_xml": "http://data.riksdagen.se/person/cda53f92-26af-4787-b77a-8ee43a3ac1c4",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cda53f92-26af-4787-b77a-8ee43a3ac1c4_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cda53f92-26af-4787-b77a-8ee43a3ac1c4_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cda53f92-26af-4787-b77a-8ee43a3ac1c4_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "RB",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2010-10-19",
+          "tom": "2011-08-25",
+          "uppgift": "Riksbanksfullmäktige",
+          "intressent_id": "",
+          "hangar_id": "4788785",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RB",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "11",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2006-10-17",
+          "tom": "2010-10-19",
+          "uppgift": "Riksbanksfullmäktige",
+          "intressent_id": "",
+          "hangar_id": "4788785",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

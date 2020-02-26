@@ -1,0 +1,66 @@
+{
+  "person": {
+    "hangar_guid": "0de6d350-c90a-4343-b632-ce15df72681a",
+    "sourceid": "cc5084a8-de72-4880-a9f4-f14ed4699312",
+    "intressent_id": "089413816205",
+    "hangar_id": "3057172",
+    "fodd_ar": "1944",
+    "kon": "man",
+    "efternamn": "Hård",
+    "tilltalsnamn": "Leif",
+    "sorteringsnamn": "Hård,Leif",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Södermanlands län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/cc5084a8-de72-4880-a9f4-f14ed4699312",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cc5084a8-de72-4880-a9f4-f14ed4699312_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cc5084a8-de72-4880-a9f4-f14ed4699312_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cc5084a8-de72-4880-a9f4-f14ed4699312_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "251",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-05-18",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "089413816205",
+          "hangar_id": "3057172",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-05-24",
+          "tom": "2018-09-24",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "089413816205",
+          "hangar_id": "3057172",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "true",
+        "typ": "val",
+        "intressent_id": "089413816205",
+        "hangar_id": "3057172"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "17c3bf7c-4e5a-4f14-9e77-2316905c96df",
+    "sourceid": "5952bebf-364b-45f2-a187-6ea3472e313d",
+    "intressent_id": "0894545562818",
+    "hangar_id": "2342616",
+    "fodd_ar": "1950",
+    "kon": "man",
+    "efternamn": "Nygren",
+    "tilltalsnamn": "Jan",
+    "sorteringsnamn": "Nygren,Jan",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare statsråd",
+    "person_url_xml": "http://data.riksdagen.se/person/5952bebf-364b-45f2-a187-6ea3472e313d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5952bebf-364b-45f2-a187-6ea3472e313d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5952bebf-364b-45f2-a187-6ea3472e313d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5952bebf-364b-45f2-a187-6ea3472e313d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "SB",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Departement",
+          "from": "1994-10-07",
+          "tom": "1996-03-22",
+          "uppgift": "Statsrådsberedningen",
+          "intressent_id": "0894545562818",
+          "hangar_id": "2342616",
+          "sortering": "100",
+          "organ_sortering": "400",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KD",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1994-10-18",
+          "tom": "1995-02-20",
+          "uppgift": "Krigsdelegationen",
+          "intressent_id": "0894545562818",
+          "hangar_id": "2342616",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

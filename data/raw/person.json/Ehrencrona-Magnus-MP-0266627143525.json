@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "6b13a7a0-ea0b-415a-a09c-bfc0aa1f4624",
+    "sourceid": "28e057c0-8c15-4388-81de-80e5681b6b6f",
+    "intressent_id": "0266627143525",
+    "hangar_id": "2369334",
+    "fodd_ar": "1978",
+    "kon": "man",
+    "efternamn": "Ehrencrona",
+    "tilltalsnamn": "Magnus",
+    "sorteringsnamn": "Ehrencrona,Magnus",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "Skåne läns västra",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/28e057c0-8c15-4388-81de-80e5681b6b6f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/28e057c0-8c15-4388-81de-80e5681b6b6f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/28e057c0-8c15-4388-81de-80e5681b6b6f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/28e057c0-8c15-4388-81de-80e5681b6b6f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "257",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-04",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0266627143525",
+          "hangar_id": "2369334",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-09-20",
+          "tom": "2014-09-29",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0266627143525",
+          "hangar_id": "2369334",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0266627143525",
+          "hangar_id": "2369334",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0266627143525",
+          "hangar_id": "2369334",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Studerande",
+          "typ": "titlar",
+          "intressent_id": "0266627143525",
+          "hangar_id": "2369334"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0266627143525",
+          "hangar_id": "2369334"
+        }
+      ]
+    }
+  }
+}

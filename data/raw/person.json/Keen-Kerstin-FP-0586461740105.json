@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "bf8ab20d-247a-4ff7-ae3f-cbcd01bf7562",
+    "sourceid": "9dc6570b-64d9-44c9-8fc4-4f9e45269185",
+    "intressent_id": "0586461740105",
+    "hangar_id": "2342058",
+    "fodd_ar": "1939",
+    "kon": "kvinna",
+    "efternamn": "Keen",
+    "tilltalsnamn": "Kerstin",
+    "sorteringsnamn": "Keen,Kerstin",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/9dc6570b-64d9-44c9-8fc4-4f9e45269185",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9dc6570b-64d9-44c9-8fc4-4f9e45269185_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9dc6570b-64d9-44c9-8fc4-4f9e45269185_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9dc6570b-64d9-44c9-8fc4-4f9e45269185_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Riksdagsledamot",
+        "ordningsnummer": "0",
+        "status": "Tjänstgörande",
+        "typ": "kammaruppdrag",
+        "from": "1986-10-07",
+        "tom": "1988-10-03",
+        "uppgift": "",
+        "intressent_id": "0586461740105",
+        "hangar_id": "2342058",
+        "sortering": "10",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "10"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "utbildningschef",
+          "typ": "titlar",
+          "intressent_id": "0586461740105",
+          "hangar_id": "2342058"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0586461740105",
+          "hangar_id": "2342058"
+        }
+      ]
+    }
+  }
+}

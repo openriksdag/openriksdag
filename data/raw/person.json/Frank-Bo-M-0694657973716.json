@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "96b5e67f-ae45-487f-ac9f-183e4a2f8b56",
+    "sourceid": "14cea3fe-9080-4e0f-b0cb-d8098ef838fd",
+    "intressent_id": "0694657973716",
+    "hangar_id": "2342827",
+    "fodd_ar": "1954",
+    "kon": "man",
+    "efternamn": "Frank",
+    "tilltalsnamn": "Bo",
+    "sorteringsnamn": "Frank,Bo",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/14cea3fe-9080-4e0f-b0cb-d8098ef838fd",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/14cea3fe-9080-4e0f-b0cb-d8098ef838fd_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/14cea3fe-9080-4e0f-b0cb-d8098ef838fd_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/14cea3fe-9080-4e0f-b0cb-d8098ef838fd_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "122",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1991-12-31",
+          "uppgift": "",
+          "intressent_id": "0694657973716",
+          "hangar_id": "2342827",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1991-12-31",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0694657973716",
+          "hangar_id": "2342827",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1991-12-31",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0694657973716",
+          "hangar_id": "2342827",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "socionom",
+          "typ": "titlar",
+          "intressent_id": "0694657973716",
+          "hangar_id": "2342827"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0694657973716",
+          "hangar_id": "2342827"
+        }
+      ]
+    }
+  }
+}

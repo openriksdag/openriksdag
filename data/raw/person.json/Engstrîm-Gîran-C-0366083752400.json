@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "824bcc2e-250d-4077-84c7-0c9316921070",
+    "sourceid": "db1e73e4-1638-4c50-9dbf-73b32a7772f1",
+    "intressent_id": "0366083752400",
+    "hangar_id": "2342344",
+    "fodd_ar": "1945",
+    "kon": "man",
+    "efternamn": "Engström",
+    "tilltalsnamn": "Göran",
+    "sorteringsnamn": "Engström,Göran",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/db1e73e4-1638-4c50-9dbf-73b32a7772f1",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/db1e73e4-1638-4c50-9dbf-73b32a7772f1_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/db1e73e4-1638-4c50-9dbf-73b32a7772f1_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/db1e73e4-1638-4c50-9dbf-73b32a7772f1_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "299",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0366083752400",
+          "hangar_id": "2342344",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0366083752400",
+          "hangar_id": "2342344",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-12-15",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0366083752400",
+          "hangar_id": "2342344",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0366083752400",
+          "hangar_id": "2342344",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1976-10-04",
+          "tom": "1979-10-01",
+          "uppgift": "",
+          "intressent_id": "0366083752400",
+          "hangar_id": "2342344",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0366083752400",
+          "hangar_id": "2342344",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0366083752400",
+          "hangar_id": "2342344",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "skogsbrukare",
+          "typ": "titlar",
+          "intressent_id": "0366083752400",
+          "hangar_id": "2342344"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0366083752400",
+          "hangar_id": "2342344"
+        }
+      ]
+    }
+  }
+}

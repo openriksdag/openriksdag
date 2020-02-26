@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "6cbf1a9b-b076-47da-ae9c-10252bdfc5be",
+    "sourceid": "5f2d855a-ebe0-46c2-8fe5-79b08b40e930",
+    "intressent_id": "0555321980101",
+    "hangar_id": "2342101",
+    "fodd_ar": "1941",
+    "kon": "man",
+    "efternamn": "Hammar",
+    "tilltalsnamn": "Bo",
+    "sorteringsnamn": "Hammar,Bo",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "",
+    "status": "Avliden  2016-12-05",
+    "person_url_xml": "http://data.riksdagen.se/person/5f2d855a-ebe0-46c2-8fe5-79b08b40e930",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5f2d855a-ebe0-46c2-8fe5-79b08b40e930_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5f2d855a-ebe0-46c2-8fe5-79b08b40e930_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5f2d855a-ebe0-46c2-8fe5-79b08b40e930_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "22",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0555321980101",
+          "hangar_id": "2342101",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0555321980101",
+          "hangar_id": "2342101",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "VB",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "Valberedningen",
+          "intressent_id": "0555321980101",
+          "hangar_id": "2342101",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "VPN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1991-01-11",
+          "tom": "1991-09-30",
+          "uppgift": "Valprövningsnämnden",
+          "intressent_id": "0555321980101",
+          "hangar_id": "2342101",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0555321980101",
+          "hangar_id": "2342101",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0555321980101",
+          "hangar_id": "2342101",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "redaktör",
+          "typ": "titlar",
+          "intressent_id": "0555321980101",
+          "hangar_id": "2342101"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0555321980101",
+          "hangar_id": "2342101"
+        }
+      ]
+    }
+  }
+}

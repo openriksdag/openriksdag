@@ -1,0 +1,162 @@
+{
+  "person": {
+    "hangar_guid": "0270e90b-dcc2-4359-a8eb-ca9c68f2491d",
+    "sourceid": "ae2d9769-f677-4a9e-8b3c-9757d8e381e1",
+    "intressent_id": "0301987597720",
+    "hangar_id": "2343687",
+    "fodd_ar": "1980",
+    "kon": "kvinna",
+    "efternamn": "Norlin",
+    "tilltalsnamn": "Liza-Maria",
+    "sorteringsnamn": "Norlin,Liza-Maria",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Västernorrlands län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/ae2d9769-f677-4a9e-8b3c-9757d8e381e1",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ae2d9769-f677-4a9e-8b3c-9757d8e381e1_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ae2d9769-f677-4a9e-8b3c-9757d8e381e1_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ae2d9769-f677-4a9e-8b3c-9757d8e381e1_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "309",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2010-03-01",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0301987597720",
+          "hangar_id": "2343687",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "309",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "2009-08-31",
+          "tom": "2010-02-28",
+          "uppgift": "Jan Erik Ågren 2009-08-31 - 2010-02-28",
+          "intressent_id": "0301987597720",
+          "hangar_id": "2343687",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "309",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2009-08-17",
+          "tom": "2009-08-30",
+          "uppgift": "",
+          "intressent_id": "0301987597720",
+          "hangar_id": "2343687",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "309",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "2009-06-15",
+          "tom": "2009-08-16",
+          "uppgift": "Jan Erik Ågren 2009-06-15 - 2009-08-16",
+          "intressent_id": "0301987597720",
+          "hangar_id": "2343687",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "309",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2009-01-15",
+          "tom": "2009-06-14",
+          "uppgift": "",
+          "intressent_id": "0301987597720",
+          "hangar_id": "2343687",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2009-01-16",
+          "tom": "2010-10-04",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0301987597720",
+          "hangar_id": "2343687",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "27",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2009-02-11",
+          "tom": "2010-10-04",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0301987597720",
+          "hangar_id": "2343687",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Gymnasielärare",
+          "typ": "titlar",
+          "intressent_id": "0301987597720",
+          "hangar_id": "2343687"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0301987597720",
+          "hangar_id": "2343687"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0301987597720",
+          "hangar_id": "2343687"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">e75ec71d-6fc6-47c5-9c26-999c9e047ca6</hangar_guid>
+<sourceid datatype="string">3f85d354-5f52-4fdf-a421-7982544f2881</sourceid>
+<intressent_id datatype="string">0539980182314</intressent_id>
+<hangar_id datatype="int32">2343153</hangar_id>
+<fodd_ar datatype="int16">1961</fodd_ar>
+<kon datatype="string">kvinna</kon>
+<efternamn datatype="string">Wilén</efternamn>
+<tilltalsnamn datatype="string">Marie</tilltalsnamn>
+<sorteringsnamn datatype="string">Wilén,Marie</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">C</parti>
+<valkrets datatype="string">Uppsala län</valkrets>
+<status datatype="string">Tidigare riksdagsledamot</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/3f85d354-5f52-4fdf-a421-7982544f2881</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/3f85d354-5f52-4fdf-a421-7982544f2881_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/3f85d354-5f52-4fdf-a421-7982544f2881_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/3f85d354-5f52-4fdf-a421-7982544f2881_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">285</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1996-07-01</from>
+<tom datatype="datetime">1998-10-05</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0539980182314</intressent_id>
+<hangar_id datatype="int32">2343153</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">285</ordningsnummer>
+<status datatype="string">Ledig</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1996-03-11</from>
+<tom datatype="datetime">1996-06-30</tom>
+<uppgift datatype="string">Rolf Edlund 1996-03-11 - 1996-06-30</uppgift>
+<intressent_id datatype="string">0539980182314</intressent_id>
+<hangar_id datatype="int32">2343153</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">30</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">285</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1994-10-03</from>
+<tom datatype="datetime">1996-03-10</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0539980182314</intressent_id>
+<hangar_id datatype="int32">2343153</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">BN</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">1994-10-18</from>
+<tom datatype="datetime">1998-10-05</tom>
+<uppgift datatype="string">Besvärsnämnden</uppgift>
+<intressent_id datatype="string">0539980182314</intressent_id>
+<hangar_id datatype="int32">2343153</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">399</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">MJU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">1994-10-11</from>
+<tom datatype="datetime">1998-10-04</tom>
+<uppgift datatype="string">Miljö- och jordbruksutskottet</uppgift>
+<intressent_id datatype="string">0539980182314</intressent_id>
+<hangar_id datatype="int32">2343153</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">UbU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">1994-10-11</from>
+<tom datatype="datetime">1998-10-04</tom>
+<uppgift datatype="string">Utbildningsutskottet</uppgift>
+<intressent_id datatype="string">0539980182314</intressent_id>
+<hangar_id datatype="int32">2343153</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+<uppgift>
+<kod datatype="string">sv</kod>
+<uppgift datatype="string">fd pressekreterare</uppgift>
+<typ datatype="string">titlar</typ>
+<intressent_id datatype="string">0539980182314</intressent_id>
+<hangar_id datatype="int32">2343153</hangar_id>
+</uppgift>
+<uppgift>
+<kod datatype="string">en</kod>
+<uppgift datatype="string"></uppgift>
+<typ datatype="string">titlar</typ>
+<intressent_id datatype="string">0539980182314</intressent_id>
+<hangar_id datatype="int32">2343153</hangar_id>
+</uppgift>
+</personuppgift>
+</person>

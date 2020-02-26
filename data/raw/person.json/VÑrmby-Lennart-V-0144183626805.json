@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "aa72faf0-7b3c-440e-8ccb-b6bda8aef32d",
+    "sourceid": "d7c325f8-83e4-11d4-ae60-0050040c9b55",
+    "intressent_id": "0144183626805",
+    "hangar_id": "2342289",
+    "fodd_ar": "1944",
+    "kon": "man",
+    "efternamn": "Värmby",
+    "tilltalsnamn": "Lennart",
+    "sorteringsnamn": "Värmby,Lennart",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/d7c325f8-83e4-11d4-ae60-0050040c9b55",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c325f8-83e4-11d4-ae60-0050040c9b55_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c325f8-83e4-11d4-ae60-0050040c9b55_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c325f8-83e4-11d4-ae60-0050040c9b55_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "123",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1998-10-05",
+          "tom": "2002-09-30",
+          "uppgift": "",
+          "intressent_id": "0144183626805",
+          "hangar_id": "2342289",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "2002-09-30",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0144183626805",
+          "hangar_id": "2342289",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "2002-09-30",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0144183626805",
+          "hangar_id": "2342289",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "ombudsman",
+          "typ": "titlar",
+          "intressent_id": "0144183626805",
+          "hangar_id": "2342289"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Ombudsman",
+          "typ": "titlar",
+          "intressent_id": "0144183626805",
+          "hangar_id": "2342289"
+        }
+      ]
+    }
+  }
+}

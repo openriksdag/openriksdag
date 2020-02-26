@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "ed911f58-d2b4-4788-8505-f90f5605c61e",
+    "sourceid": "c8ca9b65-142e-47ee-b945-a6356048e3e4",
+    "intressent_id": "",
+    "hangar_id": "4788848",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Guteland",
+    "tilltalsnamn": "Jytte",
+    "sorteringsnamn": "Guteland,Jytte",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/c8ca9b65-142e-47ee-b945-a6356048e3e4",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c8ca9b65-142e-47ee-b945-a6356048e3e4_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c8ca9b65-142e-47ee-b945-a6356048e3e4_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c8ca9b65-142e-47ee-b945-a6356048e3e4_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "EP",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "Europaparlamentet",
+          "from": "2019-07-02",
+          "tom": "2024-07-02",
+          "uppgift": "Europaparlamentet",
+          "intressent_id": "",
+          "hangar_id": "4788848",
+          "sortering": "30",
+          "organ_sortering": "100",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EP",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "Europaparlamentet",
+          "from": "2014-07-01",
+          "tom": "2019-07-02",
+          "uppgift": "Europaparlamentet",
+          "intressent_id": "",
+          "hangar_id": "4788848",
+          "sortering": "30",
+          "organ_sortering": "100",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

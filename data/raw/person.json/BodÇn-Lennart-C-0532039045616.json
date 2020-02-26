@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "e75b42a4-4a4a-4169-9fcd-4cb82bc23030",
+    "sourceid": "899dd27d-6dcb-4e84-bb16-d0f341adb11c",
+    "intressent_id": "0532039045616",
+    "hangar_id": "2343076",
+    "fodd_ar": "1959",
+    "kon": "man",
+    "efternamn": "Bodén",
+    "tilltalsnamn": "Lennart",
+    "sorteringsnamn": "Bodén,Lennart",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "",
+    "status": "Status saknas",
+    "person_url_xml": "http://data.riksdagen.se/person/899dd27d-6dcb-4e84-bb16-d0f341adb11c",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/899dd27d-6dcb-4e84-bb16-d0f341adb11c_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/899dd27d-6dcb-4e84-bb16-d0f341adb11c_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/899dd27d-6dcb-4e84-bb16-d0f341adb11c_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-10-12",
+          "tom": "1989-11-13",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0532039045616",
+          "hangar_id": "2343076",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-10-12",
+          "tom": "1989-11-13",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0532039045616",
+          "hangar_id": "2343076",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "journalist",
+          "typ": "titlar",
+          "intressent_id": "0532039045616",
+          "hangar_id": "2343076"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0532039045616",
+          "hangar_id": "2343076"
+        }
+      ]
+    }
+  }
+}

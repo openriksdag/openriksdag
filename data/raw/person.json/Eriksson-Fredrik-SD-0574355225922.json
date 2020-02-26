@@ -1,0 +1,105 @@
+{
+  "person": {
+    "hangar_guid": "996ad844-1c61-4712-a689-e084a6ac32bc",
+    "sourceid": "8bd94dfc-abec-476d-9f48-090a2f8c0a86",
+    "intressent_id": "0574355225922",
+    "hangar_id": "3057141",
+    "fodd_ar": "1975",
+    "kon": "man",
+    "efternamn": "Eriksson",
+    "tilltalsnamn": "Fredrik",
+    "sorteringsnamn": "Eriksson,Fredrik",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Västra Götalands läns västra",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/8bd94dfc-abec-476d-9f48-090a2f8c0a86",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8bd94dfc-abec-476d-9f48-090a2f8c0a86_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8bd94dfc-abec-476d-9f48-090a2f8c0a86_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8bd94dfc-abec-476d-9f48-090a2f8c0a86_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "223",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-12-22",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0574355225922",
+          "hangar_id": "3057141",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "290",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2014-10-22",
+          "tom": "2014-12-21",
+          "uppgift": "Jimmie Åkesson",
+          "intressent_id": "0574355225922",
+          "hangar_id": "3057141",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2015-01-22",
+          "tom": "2018-09-24",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0574355225922",
+          "hangar_id": "3057141",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "fredrik.p.eriksson[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0574355225922",
+          "hangar_id": "3057141"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Projektledare.",
+          "typ": "titlar",
+          "intressent_id": "0574355225922",
+          "hangar_id": "3057141"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0574355225922",
+          "hangar_id": "3057141"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0574355225922",
+          "hangar_id": "3057141"
+        }
+      ]
+    }
+  }
+}

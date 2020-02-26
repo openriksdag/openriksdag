@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "d4b074be-c32b-4494-aec4-2e5cd98a10e4",
+    "sourceid": "2c5ec270-056c-45a2-b92d-d48ee950d447",
+    "intressent_id": "0610578308706",
+    "hangar_id": "2341808",
+    "fodd_ar": "1932",
+    "kon": "man",
+    "efternamn": "Göransson",
+    "tilltalsnamn": "Bengt",
+    "sorteringsnamn": "Göransson,Bengt",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/2c5ec270-056c-45a2-b92d-d48ee950d447",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2c5ec270-056c-45a2-b92d-d48ee950d447_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2c5ec270-056c-45a2-b92d-d48ee950d447_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2c5ec270-056c-45a2-b92d-d48ee950d447_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "207",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0610578308706",
+          "hangar_id": "2341808",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0610578308706",
+          "hangar_id": "2341808",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

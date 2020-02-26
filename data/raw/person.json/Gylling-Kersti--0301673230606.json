@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "fb1562f4-8d94-431d-ba7e-fcbe98a73b6e",
+    "sourceid": "49196ff8-2bfc-4c20-a8c2-2444dcca3a6e",
+    "intressent_id": "0301673230606",
+    "hangar_id": "2342294",
+    "fodd_ar": "1944",
+    "kon": "kvinna",
+    "efternamn": "Gylling",
+    "tilltalsnamn": "Kersti",
+    "sorteringsnamn": "Gylling,Kersti",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/49196ff8-2bfc-4c20-a8c2-2444dcca3a6e",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/49196ff8-2bfc-4c20-a8c2-2444dcca3a6e_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/49196ff8-2bfc-4c20-a8c2-2444dcca3a6e_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/49196ff8-2bfc-4c20-a8c2-2444dcca3a6e_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Ersättare",
+        "ordningsnummer": "0",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "1986-11-13",
+        "tom": "1986-12-12",
+        "uppgift": "Birgit Friggebo",
+        "intressent_id": "0301673230606",
+        "hangar_id": "2342294",
+        "sortering": "45",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": ""
+  }
+}

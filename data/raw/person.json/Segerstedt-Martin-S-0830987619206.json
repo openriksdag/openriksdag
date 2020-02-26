@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "7f388bae-9de7-446c-8eef-20e686e5307a",
+    "sourceid": "183ae5dd-7bb8-4de1-a8c2-a83288684042",
+    "intressent_id": "0830987619206",
+    "hangar_id": "2341754",
+    "fodd_ar": "1930",
+    "kon": "man",
+    "efternamn": "Segerstedt",
+    "tilltalsnamn": "Martin",
+    "sorteringsnamn": "Segerstedt,Martin",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Avliden  2014-03-09",
+    "person_url_xml": "http://data.riksdagen.se/person/183ae5dd-7bb8-4de1-a8c2-a83288684042",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/183ae5dd-7bb8-4de1-a8c2-a83288684042_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/183ae5dd-7bb8-4de1-a8c2-a83288684042_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/183ae5dd-7bb8-4de1-a8c2-a83288684042_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "316",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0830987619206",
+          "hangar_id": "2341754",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0830987619206",
+          "hangar_id": "2341754",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0830987619206",
+          "hangar_id": "2341754",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0830987619206",
+          "hangar_id": "2341754",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1976-10-04",
+          "tom": "1979-10-01",
+          "uppgift": "",
+          "intressent_id": "0830987619206",
+          "hangar_id": "2341754",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0830987619206",
+          "hangar_id": "2341754",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0830987619206",
+          "hangar_id": "2341754"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "arbetsförmedlare",
+          "typ": "titlar",
+          "intressent_id": "0830987619206",
+          "hangar_id": "2341754"
+        }
+      ]
+    }
+  }
+}

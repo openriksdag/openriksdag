@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "8e72370a-bc42-42a4-8110-8a3d6e012a4f",
+    "sourceid": "054fcfd6-1970-4a1b-aa3c-ed9a462a8495",
+    "intressent_id": "0783117374519",
+    "hangar_id": "5040923",
+    "fodd_ar": "1955",
+    "kon": "kvinna",
+    "efternamn": "Micko",
+    "tilltalsnamn": "Lena",
+    "sorteringsnamn": "Micko,Lena",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Statsråd",
+    "person_url_xml": "http://data.riksdagen.se/person/054fcfd6-1970-4a1b-aa3c-ed9a462a8495",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/054fcfd6-1970-4a1b-aa3c-ed9a462a8495_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/054fcfd6-1970-4a1b-aa3c-ed9a462a8495_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/054fcfd6-1970-4a1b-aa3c-ed9a462a8495_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "Fi",
+        "roll_kod": "Statsråd",
+        "ordningsnummer": "23",
+        "status": "",
+        "typ": "Departement",
+        "from": "2019-10-01",
+        "tom": "2022-09-26",
+        "uppgift": "Finansdepartementet",
+        "intressent_id": "0783117374519",
+        "hangar_id": "5040923",
+        "sortering": "100",
+        "organ_sortering": "",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

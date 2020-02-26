@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "2e852ecd-84c4-41c8-9257-b9501089b7f0",
+    "sourceid": "7a30df9e-ae40-408d-b0af-d3d7abd32604",
+    "intressent_id": "0673813596104",
+    "hangar_id": "2342272",
+    "fodd_ar": "1944",
+    "kon": "kvinna",
+    "efternamn": "Wennerlund",
+    "tilltalsnamn": "Alwa",
+    "sorteringsnamn": "Wennerlund,Alwa",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/7a30df9e-ae40-408d-b0af-d3d7abd32604",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7a30df9e-ae40-408d-b0af-d3d7abd32604_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7a30df9e-ae40-408d-b0af-d3d7abd32604_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7a30df9e-ae40-408d-b0af-d3d7abd32604_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "183",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0673813596104",
+          "hangar_id": "2342272",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0673813596104",
+          "hangar_id": "2342272",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1992-02-10",
+          "tom": "1994-10-02",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0673813596104",
+          "hangar_id": "2342272",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "marknadsförare",
+          "typ": "titlar",
+          "intressent_id": "0673813596104",
+          "hangar_id": "2342272"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0673813596104",
+          "hangar_id": "2342272"
+        }
+      ]
+    }
+  }
+}

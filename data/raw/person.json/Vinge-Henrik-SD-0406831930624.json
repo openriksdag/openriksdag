@@ -1,0 +1,153 @@
+{
+  "person": {
+    "hangar_guid": "20daf577-8bf6-4b0a-a78e-90a716516342",
+    "sourceid": "1d7d8c9a-7879-4be3-8554-745991b615d2",
+    "intressent_id": "0406831930624",
+    "hangar_id": "5003668",
+    "fodd_ar": "1988",
+    "kon": "man",
+    "efternamn": "Vinge",
+    "tilltalsnamn": "Henrik",
+    "sorteringsnamn": "Vinge,Henrik",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Stockholms kommun",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/1d7d8c9a-7879-4be3-8554-745991b615d2",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1d7d8c9a-7879-4be3-8554-745991b615d2_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1d7d8c9a-7879-4be3-8554-745991b615d2_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1d7d8c9a-7879-4be3-8554-745991b615d2_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "315",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0406831930624",
+          "hangar_id": "5003668",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SD",
+          "roll_kod": "Vice gruppledare",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "partiuppdrag",
+          "from": "2019-04-01",
+          "tom": "2019-11-24 23:59:00",
+          "uppgift": "Sverigedemokraterna",
+          "intressent_id": "0406831930624",
+          "hangar_id": "5003668",
+          "sortering": "30",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SD",
+          "roll_kod": "Gruppledare",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "partiuppdrag",
+          "from": "2019-11-25",
+          "tom": "",
+          "uppgift": "Sverigedemokraterna",
+          "intressent_id": "0406831930624",
+          "hangar_id": "5003668",
+          "sortering": "25",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KD",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "44",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-10-09",
+          "tom": "2022-10-09",
+          "uppgift": "Krigsdelegationen",
+          "intressent_id": "0406831930624",
+          "hangar_id": "5003668",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0406831930624",
+          "hangar_id": "5003668",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-10-25",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0406831930624",
+          "hangar_id": "5003668",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "henrik.vinge[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0406831930624",
+          "hangar_id": "5003668"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "64148",
+          "typ": "telefonnummer",
+          "intressent_id": "0406831930624",
+          "hangar_id": "5003668"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Jurist.",
+          "typ": "titlar",
+          "intressent_id": "0406831930624",
+          "hangar_id": "5003668"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0406831930624",
+          "hangar_id": "5003668"
+        }
+      ]
+    }
+  }
+}

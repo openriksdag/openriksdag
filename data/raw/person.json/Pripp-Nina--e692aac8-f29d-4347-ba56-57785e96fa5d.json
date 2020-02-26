@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "edc86c51-838d-4176-9c85-cae7b4abf12f",
+    "sourceid": "e692aac8-f29d-4347-ba56-57785e96fa5d",
+    "intressent_id": "",
+    "hangar_id": "4788798",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Pripp",
+    "tilltalsnamn": "Nina",
+    "sorteringsnamn": "Pripp,Nina",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ersättare för ordföranden i Valprövningsnämnden",
+    "person_url_xml": "http://data.riksdagen.se/person/e692aac8-f29d-4347-ba56-57785e96fa5d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e692aac8-f29d-4347-ba56-57785e96fa5d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e692aac8-f29d-4347-ba56-57785e96fa5d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e692aac8-f29d-4347-ba56-57785e96fa5d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "VPN",
+        "roll_kod": "Ersättare för ordföranden",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2007-01-18",
+        "tom": "2011-04-05",
+        "uppgift": "Valprövningsnämnden",
+        "intressent_id": "",
+        "hangar_id": "4788798",
+        "sortering": "21",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

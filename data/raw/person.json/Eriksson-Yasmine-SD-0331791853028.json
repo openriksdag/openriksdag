@@ -1,0 +1,153 @@
+{
+  "person": {
+    "hangar_guid": "d93d446f-b3d2-403d-970f-83a6e916fb9a",
+    "sourceid": "ae22d593-d382-40dc-918c-df30916b6d9e",
+    "intressent_id": "0331791853028",
+    "hangar_id": "5003669",
+    "fodd_ar": "1989",
+    "kon": "kvinna",
+    "efternamn": "Eriksson",
+    "tilltalsnamn": "Yasmine",
+    "sorteringsnamn": "Eriksson,Yasmine",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Stockholms kommun",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/ae22d593-d382-40dc-918c-df30916b6d9e",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ae22d593-d382-40dc-918c-df30916b6d9e_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ae22d593-d382-40dc-918c-df30916b6d9e_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ae22d593-d382-40dc-918c-df30916b6d9e_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "316",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0331791853028",
+          "hangar_id": "5003669",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0331791853028",
+          "hangar_id": "5003669",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "19",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-06-18",
+          "tom": "2022-09-26",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0331791853028",
+          "hangar_id": "5003669",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0331791853028",
+          "hangar_id": "5003669",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-06-18",
+          "tom": "2022-09-26",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0331791853028",
+          "hangar_id": "5003669",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "20",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-16",
+          "tom": "2022-09-26",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0331791853028",
+          "hangar_id": "5003669",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "yasmine.eriksson[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0331791853028",
+          "hangar_id": "5003669"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "65430",
+          "typ": "telefonnummer",
+          "intressent_id": "0331791853028",
+          "hangar_id": "5003669"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Pressassistent.",
+          "typ": "titlar",
+          "intressent_id": "0331791853028",
+          "hangar_id": "5003669"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0331791853028",
+          "hangar_id": "5003669"
+        }
+      ]
+    }
+  }
+}

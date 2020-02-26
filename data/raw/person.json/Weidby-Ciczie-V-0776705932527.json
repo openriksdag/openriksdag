@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "58d6dd0e-c8df-4f18-8bdf-fe3b20ced4fb",
+    "sourceid": "b34f05f5-d73a-428c-88a1-4e112c650498",
+    "intressent_id": "0776705932527",
+    "hangar_id": "5003781",
+    "fodd_ar": "1974",
+    "kon": "kvinna",
+    "efternamn": "Weidby",
+    "tilltalsnamn": "Ciczie",
+    "sorteringsnamn": "Weidby,Ciczie",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "Jönköpings län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/b34f05f5-d73a-428c-88a1-4e112c650498",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b34f05f5-d73a-428c-88a1-4e112c650498_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b34f05f5-d73a-428c-88a1-4e112c650498_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b34f05f5-d73a-428c-88a1-4e112c650498_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "326",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0776705932527",
+          "hangar_id": "5003781",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "8",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0776705932527",
+          "hangar_id": "5003781",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "23",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-16",
+          "tom": "2022-09-26",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0776705932527",
+          "hangar_id": "5003781",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "ciczie.weidby[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0776705932527",
+          "hangar_id": "5003781"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Handelsanställd.",
+          "typ": "titlar",
+          "intressent_id": "0776705932527",
+          "hangar_id": "5003781"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0776705932527",
+          "hangar_id": "5003781"
+        }
+      ]
+    }
+  }
+}

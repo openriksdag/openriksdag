@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "5ff6655b-aae4-40b6-9a1c-f6b5baaab313",
+    "sourceid": "d7c326ea-83e4-11d4-ae60-0050040c9b55",
+    "intressent_id": "0558392779801",
+    "hangar_id": "2342228",
+    "fodd_ar": "1943",
+    "kon": "kvinna",
+    "efternamn": "Lindstedt-Staaf",
+    "tilltalsnamn": "Ester",
+    "sorteringsnamn": "Lindstedt-Staaf,Ester",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Hallands län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/d7c326ea-83e4-11d4-ae60-0050040c9b55",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c326ea-83e4-11d4-ae60-0050040c9b55_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c326ea-83e4-11d4-ae60-0050040c9b55_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c326ea-83e4-11d4-ae60-0050040c9b55_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "194",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1998-10-05",
+          "tom": "2002-09-30",
+          "uppgift": "",
+          "intressent_id": "0558392779801",
+          "hangar_id": "2342228",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "2002-09-30",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0558392779801",
+          "hangar_id": "2342228",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "1999-10-18",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0558392779801",
+          "hangar_id": "2342228",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1999-10-18",
+          "tom": "2002-09-30",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0558392779801",
+          "hangar_id": "2342228",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "distriktsläkare",
+          "typ": "titlar",
+          "intressent_id": "0558392779801",
+          "hangar_id": "2342228"
+        },
+        {
+          "kod": "en",
+          "uppgift": "District Medical Officer",
+          "typ": "titlar",
+          "intressent_id": "0558392779801",
+          "hangar_id": "2342228"
+        }
+      ]
+    }
+  }
+}

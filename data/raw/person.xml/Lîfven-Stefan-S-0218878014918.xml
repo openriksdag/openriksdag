@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">9604a92c-61be-4c0a-bec0-b07665d2df76</hangar_guid>
+<sourceid datatype="string">ac737989-5fa0-44bc-ad69-c1a0ddba71bb</sourceid>
+<intressent_id datatype="string">0218878014918</intressent_id>
+<hangar_id datatype="int32">3057097</hangar_id>
+<fodd_ar datatype="int16">1957</fodd_ar>
+<kon datatype="string">man</kon>
+<efternamn datatype="string">Löfven</efternamn>
+<tilltalsnamn datatype="string">Stefan</tilltalsnamn>
+<sorteringsnamn datatype="string">Löfven,Stefan</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">S</parti>
+<valkrets datatype="string">Västernorrlands län</valkrets>
+<status datatype="string">Statsminister</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/ac737989-5fa0-44bc-ad69-c1a0ddba71bb</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/ac737989-5fa0-44bc-ad69-c1a0ddba71bb_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/ac737989-5fa0-44bc-ad69-c1a0ddba71bb_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/ac737989-5fa0-44bc-ad69-c1a0ddba71bb_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">SB</organ_kod>
+<roll_kod datatype="string">Statsminister</roll_kod>
+<ordningsnummer datatype="int32">1</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Departement</typ>
+<from datatype="datetime">2019-01-21</from>
+<tom datatype="datetime">2022-09-26</tom>
+<uppgift datatype="string">Statsrådsberedningen</uppgift>
+<intressent_id datatype="string">0218878014918</intressent_id>
+<hangar_id datatype="int32">3057097</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">400</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">SB</organ_kod>
+<roll_kod datatype="string">Statsminister</roll_kod>
+<ordningsnummer datatype="int32">1</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Departement</typ>
+<from datatype="datetime">2014-10-03</from>
+<tom datatype="datetime">2019-01-21</tom>
+<uppgift datatype="string">Statsrådsberedningen</uppgift>
+<intressent_id datatype="string">0218878014918</intressent_id>
+<hangar_id datatype="int32">3057097</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">400</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">137</ordningsnummer>
+<status datatype="string">Ledig</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2018-09-24</from>
+<tom datatype="datetime">2022-09-26</tom>
+<uppgift datatype="string">Anders Österberg 2017-09-25 - 2018-09-24, Jasenko Omanovic 2018-09-24 - 2022-09-26  Statsråd</uppgift>
+<intressent_id datatype="string">0218878014918</intressent_id>
+<hangar_id datatype="int32">3057097</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">30</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">280</ordningsnummer>
+<status datatype="string">Ledig</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2014-10-03</from>
+<tom datatype="datetime">2018-09-24</tom>
+<uppgift datatype="string">Lawen Redar 2014-10-03 - 2015-09-30, Börje Vestlund 2015-10-01 - 2017-05-28, Teres Lindberg 2017-05-29 - 2017-09-24, Anders Österberg 2017-09-25 - 2018-09-24  Statsråd</uppgift>
+<intressent_id datatype="string">0218878014918</intressent_id>
+<hangar_id datatype="int32">3057097</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">30</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">280</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2014-09-29</from>
+<tom datatype="datetime">2014-10-02</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0218878014918</intressent_id>
+<hangar_id datatype="int32">3057097</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">S</organ_kod>
+<roll_kod datatype="string">Partiledare</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">partiuppdrag</typ>
+<from datatype="datetime">2012-01-27</from>
+<tom datatype="datetime"></tom>
+<uppgift datatype="string">Socialdemokraterna</uppgift>
+<intressent_id datatype="string">0218878014918</intressent_id>
+<hangar_id datatype="int32">3057097</hangar_id>
+<sortering datatype="int32">20</sortering>
+<organ_sortering datatype="int32"></organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+<uppgift>
+<kod datatype="string">KandiderarINastaVal</kod>
+<uppgift datatype="string">true</uppgift>
+<typ datatype="string">val</typ>
+<intressent_id datatype="string">0218878014918</intressent_id>
+<hangar_id datatype="int32">3057097</hangar_id>
+</uppgift>
+</personuppgift>
+</person>

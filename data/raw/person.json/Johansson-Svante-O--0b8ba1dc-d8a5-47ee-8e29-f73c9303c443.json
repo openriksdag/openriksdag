@@ -1,0 +1,90 @@
+{
+  "person": {
+    "hangar_guid": "90ca9fb6-edad-45a3-a625-219703fc5f6a",
+    "sourceid": "0b8ba1dc-d8a5-47ee-8e29-f73c9303c443",
+    "intressent_id": "",
+    "hangar_id": "4788871",
+    "fodd_ar": "0",
+    "kon": "okänt",
+    "efternamn": "Johansson",
+    "tilltalsnamn": "Svante O",
+    "sorteringsnamn": "Johansson,Svante O",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Ersättare för ordföranden i Riksdagens överklagandenämnd",
+    "person_url_xml": "http://data.riksdagen.se/person/0b8ba1dc-d8a5-47ee-8e29-f73c9303c443",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0b8ba1dc-d8a5-47ee-8e29-f73c9303c443_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0b8ba1dc-d8a5-47ee-8e29-f73c9303c443_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0b8ba1dc-d8a5-47ee-8e29-f73c9303c443_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "VPN",
+          "roll_kod": "Ersättare för ordföranden",
+          "ordningsnummer": "8",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2019-03-13",
+          "tom": "2022-03-14",
+          "uppgift": "Valprövningsnämnden",
+          "intressent_id": "",
+          "hangar_id": "4788871",
+          "sortering": "21",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "VPN",
+          "roll_kod": "Ersättare för ordföranden",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2016-03-03",
+          "tom": "2019-03-13",
+          "uppgift": "Valprövningsnämnden",
+          "intressent_id": "",
+          "hangar_id": "4788871",
+          "sortering": "21",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "ÖN",
+          "roll_kod": "Ersättare för ordföranden",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-10-09",
+          "tom": "2022-10-09",
+          "uppgift": "Riksdagens överklagandenämnd",
+          "intressent_id": "",
+          "hangar_id": "4788871",
+          "sortering": "21",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "ÖN",
+          "roll_kod": "Ersättare för ordföranden",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2016-03-03",
+          "tom": "2018-10-09",
+          "uppgift": "Riksdagens överklagandenämnd",
+          "intressent_id": "",
+          "hangar_id": "4788871",
+          "sortering": "21",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

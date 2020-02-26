@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "05788d75-8f53-48f2-80c7-79e0ed38cba8",
+    "sourceid": "10e2970c-6a3c-4927-9aed-e7242c45367e",
+    "intressent_id": "0828690288413",
+    "hangar_id": "5038430",
+    "fodd_ar": "1963",
+    "kon": "kvinna",
+    "efternamn": "Hallberg",
+    "tilltalsnamn": "Anna",
+    "sorteringsnamn": "Hallberg,Anna",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Statsråd",
+    "person_url_xml": "http://data.riksdagen.se/person/10e2970c-6a3c-4927-9aed-e7242c45367e",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/10e2970c-6a3c-4927-9aed-e7242c45367e_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/10e2970c-6a3c-4927-9aed-e7242c45367e_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/10e2970c-6a3c-4927-9aed-e7242c45367e_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "UD",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "21",
+          "status": "",
+          "typ": "Departement",
+          "from": "2019-10-01",
+          "tom": "2022-09-26",
+          "uppgift": "Utrikesdepartementet",
+          "intressent_id": "0828690288413",
+          "hangar_id": "5038430",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UD",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "22",
+          "status": "",
+          "typ": "Departement",
+          "from": "2019-09-10",
+          "tom": "2019-10-01",
+          "uppgift": "Utrikesdepartementet",
+          "intressent_id": "0828690288413",
+          "hangar_id": "5038430",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "20d5ffaa-8de5-49f0-ac3f-fdcc36401e6b",
+    "sourceid": "d7c319e8-83e4-11d4-ae60-0050040c9b55",
+    "intressent_id": "0988598877109",
+    "hangar_id": "2341827",
+    "fodd_ar": "1933",
+    "kon": "man",
+    "efternamn": "Molén",
+    "tilltalsnamn": "Per-Richard",
+    "sorteringsnamn": "Molén,Per-Richard",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/d7c319e8-83e4-11d4-ae60-0050040c9b55",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c319e8-83e4-11d4-ae60-0050040c9b55_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c319e8-83e4-11d4-ae60-0050040c9b55_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c319e8-83e4-11d4-ae60-0050040c9b55_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "314",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1998-10-05",
+          "tom": "2002-01-14",
+          "uppgift": "",
+          "intressent_id": "0988598877109",
+          "hangar_id": "2341827",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "315",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0988598877109",
+          "hangar_id": "2341827",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0988598877109",
+          "hangar_id": "2341827",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0988598877109",
+          "hangar_id": "2341827",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0988598877109",
+          "hangar_id": "2341827",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "2002-09-30",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0988598877109",
+          "hangar_id": "2341827",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "2002-01-14",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0988598877109",
+          "hangar_id": "2341827",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "företagare",
+          "typ": "titlar",
+          "intressent_id": "0988598877109",
+          "hangar_id": "2341827"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Businessman",
+          "typ": "titlar",
+          "intressent_id": "0988598877109",
+          "hangar_id": "2341827"
+        }
+      ]
+    }
+  }
+}

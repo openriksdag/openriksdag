@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "e6948d7d-a94d-4625-80c5-3d03c7118cd1",
+    "sourceid": "e39c5b68-d24e-4348-a6a3-d07ae1ed52ba",
+    "intressent_id": "0285352171912",
+    "hangar_id": "2343399",
+    "fodd_ar": "1968",
+    "kon": "man",
+    "efternamn": "Ripa",
+    "tilltalsnamn": "Henrik",
+    "sorteringsnamn": "Ripa,Henrik",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Västra Götalands läns norra",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/e39c5b68-d24e-4348-a6a3-d07ae1ed52ba",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e39c5b68-d24e-4348-a6a3-d07ae1ed52ba_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e39c5b68-d24e-4348-a6a3-d07ae1ed52ba_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e39c5b68-d24e-4348-a6a3-d07ae1ed52ba_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "266",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-04",
+          "tom": "2014-01-15",
+          "uppgift": "",
+          "intressent_id": "0285352171912",
+          "hangar_id": "2343399",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-01-15",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0285352171912",
+          "hangar_id": "2343399",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Försäljningsingenjör ",
+          "typ": "titlar",
+          "intressent_id": "0285352171912",
+          "hangar_id": "2343399"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0285352171912",
+          "hangar_id": "2343399"
+        }
+      ]
+    }
+  }
+}

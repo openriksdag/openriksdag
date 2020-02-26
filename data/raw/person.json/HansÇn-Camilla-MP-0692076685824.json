@@ -1,0 +1,137 @@
+{
+  "person": {
+    "hangar_guid": "cd25334d-21bf-465d-b860-6c89ecb2c489",
+    "sourceid": "94f81deb-b316-4a83-8712-1e4d9f102ec2",
+    "intressent_id": "0692076685824",
+    "hangar_id": "3057378",
+    "fodd_ar": "1976",
+    "kon": "kvinna",
+    "efternamn": "Hansén",
+    "tilltalsnamn": "Camilla",
+    "sorteringsnamn": "Hansén,Camilla",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "Örebro län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/94f81deb-b316-4a83-8712-1e4d9f102ec2",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/94f81deb-b316-4a83-8712-1e4d9f102ec2_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/94f81deb-b316-4a83-8712-1e4d9f102ec2_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/94f81deb-b316-4a83-8712-1e4d9f102ec2_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "234",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2019-11-04",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0692076685824",
+          "hangar_id": "3057378",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "270",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2016-01-18",
+          "tom": "2016-07-31",
+          "uppgift": "Jonas Eriksson",
+          "intressent_id": "0692076685824",
+          "hangar_id": "3057378",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "26",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-01-18",
+          "tom": "2016-07-31",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0692076685824",
+          "hangar_id": "3057378",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "16",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-11-05",
+          "tom": "2022-09-24",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0692076685824",
+          "hangar_id": "3057378",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "16",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-12-20",
+          "tom": "2022-09-26",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0692076685824",
+          "hangar_id": "3057378",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "camilla.hansen[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0692076685824",
+          "hangar_id": "3057378"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Överförmyndarhandläggare.",
+          "typ": "titlar",
+          "intressent_id": "0692076685824",
+          "hangar_id": "3057378"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0692076685824",
+          "hangar_id": "3057378"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0692076685824",
+          "hangar_id": "3057378"
+        }
+      ]
+    }
+  }
+}

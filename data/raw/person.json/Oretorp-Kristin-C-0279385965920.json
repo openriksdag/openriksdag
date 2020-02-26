@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "11156b63-35d6-4d97-8333-48d985fd4fe7",
+    "sourceid": "02315f0c-52e5-4507-8d5a-ea41af65cd77",
+    "intressent_id": "0279385965920",
+    "hangar_id": "2343596",
+    "fodd_ar": "1975",
+    "kon": "kvinna",
+    "efternamn": "Oretorp",
+    "tilltalsnamn": "Kristin",
+    "sorteringsnamn": "Oretorp,Kristin",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Hallands län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/02315f0c-52e5-4507-8d5a-ea41af65cd77",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/02315f0c-52e5-4507-8d5a-ea41af65cd77_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/02315f0c-52e5-4507-8d5a-ea41af65cd77_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/02315f0c-52e5-4507-8d5a-ea41af65cd77_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "127",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2007-02-13",
+          "tom": "2007-07-15",
+          "uppgift": "Jan Andersson",
+          "intressent_id": "0279385965920",
+          "hangar_id": "2343596",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-02-13",
+          "tom": "2007-07-15",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0279385965920",
+          "hangar_id": "2343596",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-02-13",
+          "tom": "2007-07-15",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0279385965920",
+          "hangar_id": "2343596",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

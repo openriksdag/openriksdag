@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">41329b73-7f6a-4276-9930-f1547d6222a8</hangar_guid>
+<sourceid datatype="string">d293910d-0ddf-486e-a1d1-2ec1f127dff4</sourceid>
+<intressent_id datatype="string">0761174174409</intressent_id>
+<hangar_id datatype="int32">2342487</hangar_id>
+<fodd_ar datatype="int16">1948</fodd_ar>
+<kon datatype="string">kvinna</kon>
+<efternamn datatype="string">Viitamäki-Carlsson</efternamn>
+<tilltalsnamn datatype="string">Seija</tilltalsnamn>
+<sorteringsnamn datatype="string">Viitamäki-Carlsson,Seija</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">V</parti>
+<valkrets datatype="string"></valkrets>
+<status datatype="string">Tidigare ersättare</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/d293910d-0ddf-486e-a1d1-2ec1f127dff4</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/d293910d-0ddf-486e-a1d1-2ec1f127dff4_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/d293910d-0ddf-486e-a1d1-2ec1f127dff4_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/d293910d-0ddf-486e-a1d1-2ec1f127dff4_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Ersättare</roll_kod>
+<ordningsnummer datatype="int32">300</ordningsnummer>
+<status datatype="string">Ersättare</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1991-11-11</from>
+<tom datatype="datetime">1991-12-10</tom>
+<uppgift datatype="string">Bertil Måbrink</uppgift>
+<intressent_id datatype="string">0761174174409</intressent_id>
+<hangar_id datatype="int32">2342487</hangar_id>
+<sortering datatype="int32">45</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">20</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Ersättare</roll_kod>
+<ordningsnummer datatype="int32">302</ordningsnummer>
+<status datatype="string">Ersättare</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1990-11-12</from>
+<tom datatype="datetime">1990-12-11</tom>
+<uppgift datatype="string">Bertil Måbrink</uppgift>
+<intressent_id datatype="string">0761174174409</intressent_id>
+<hangar_id datatype="int32">2342487</hangar_id>
+<sortering datatype="int32">45</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">20</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">UU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">1991-11-11</from>
+<tom datatype="datetime">1991-12-10</tom>
+<uppgift datatype="string">Utrikesutskottet</uppgift>
+<intressent_id datatype="string">0761174174409</intressent_id>
+<hangar_id datatype="int32">2342487</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">UU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">1990-11-12</from>
+<tom datatype="datetime">1990-12-11</tom>
+<uppgift datatype="string">Utrikesutskottet</uppgift>
+<intressent_id datatype="string">0761174174409</intressent_id>
+<hangar_id datatype="int32">2342487</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+<uppgift>
+<kod datatype="string">sv</kod>
+<uppgift datatype="string">leg. sjuksköterska</uppgift>
+<typ datatype="string">titlar</typ>
+<intressent_id datatype="string">0761174174409</intressent_id>
+<hangar_id datatype="int32">2342487</hangar_id>
+</uppgift>
+<uppgift>
+<kod datatype="string">en</kod>
+<uppgift datatype="string"></uppgift>
+<typ datatype="string">titlar</typ>
+<intressent_id datatype="string">0761174174409</intressent_id>
+<hangar_id datatype="int32">2342487</hangar_id>
+</uppgift>
+</personuppgift>
+</person>

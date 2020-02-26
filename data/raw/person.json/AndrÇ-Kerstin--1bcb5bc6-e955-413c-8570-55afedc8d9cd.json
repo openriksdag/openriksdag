@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "64287602-8023-4eb9-8877-406bc9606b2c",
+    "sourceid": "1bcb5bc6-e955-413c-8570-55afedc8d9cd",
+    "intressent_id": "",
+    "hangar_id": "4788813",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "André",
+    "tilltalsnamn": "Kerstin",
+    "sorteringsnamn": "André,Kerstin",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare justitieombudsman i Riksdagens ombudsmän",
+    "person_url_xml": "http://data.riksdagen.se/person/1bcb5bc6-e955-413c-8570-55afedc8d9cd",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1bcb5bc6-e955-413c-8570-55afedc8d9cd_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1bcb5bc6-e955-413c-8570-55afedc8d9cd_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1bcb5bc6-e955-413c-8570-55afedc8d9cd_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "JO",
+        "roll_kod": "Justitieombudsman",
+        "ordningsnummer": "2",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2002-03-21",
+        "tom": "2010-12-31",
+        "uppgift": "Riksdagens ombudsmän",
+        "intressent_id": "",
+        "hangar_id": "4788813",
+        "sortering": "",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

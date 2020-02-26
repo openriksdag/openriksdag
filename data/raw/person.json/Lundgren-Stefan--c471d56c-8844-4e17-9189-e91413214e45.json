@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "e67fa73a-4355-4c0b-b4f2-24b4f11fc105",
+    "sourceid": "c471d56c-8844-4e17-9189-e91413214e45",
+    "intressent_id": "",
+    "hangar_id": "4788880",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Lundgren",
+    "tilltalsnamn": "Stefan",
+    "sorteringsnamn": "Lundgren,Stefan",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Riksrevisor med administrativt ansvar i Riksrevisorerna",
+    "person_url_xml": "http://data.riksdagen.se/person/c471d56c-8844-4e17-9189-e91413214e45",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c471d56c-8844-4e17-9189-e91413214e45_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c471d56c-8844-4e17-9189-e91413214e45_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c471d56c-8844-4e17-9189-e91413214e45_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RR",
+        "roll_kod": "Riksrevisor med administrativt ansvar",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2017-03-15",
+        "tom": "2023-03-15",
+        "uppgift": "Riksrevisorerna",
+        "intressent_id": "",
+        "hangar_id": "4788880",
+        "sortering": "",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

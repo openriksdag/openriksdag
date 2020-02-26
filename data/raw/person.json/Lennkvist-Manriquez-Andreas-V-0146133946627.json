@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "7a66b742-4770-46d3-8ac8-bf2e44a146f7",
+    "sourceid": "edd967aa-9d04-4bc1-946a-708955b2a17d",
+    "intressent_id": "0146133946627",
+    "hangar_id": "5003679",
+    "fodd_ar": "1994",
+    "kon": "man",
+    "efternamn": "Lennkvist Manriquez",
+    "tilltalsnamn": "Andreas",
+    "sorteringsnamn": "Lennkvist Manriquez,Andreas",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "Stockholms kommun",
+    "status": "Tjänstgörande ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/edd967aa-9d04-4bc1-946a-708955b2a17d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/edd967aa-9d04-4bc1-946a-708955b2a17d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/edd967aa-9d04-4bc1-946a-708955b2a17d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/edd967aa-9d04-4bc1-946a-708955b2a17d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "207",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2019-08-19",
+          "tom": "2020-02-29",
+          "uppgift": "Nooshi Dadgostar",
+          "intressent_id": "0146133946627",
+          "hangar_id": "5003679",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "29",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-09-18",
+          "tom": "2020-02-29",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0146133946627",
+          "hangar_id": "5003679",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "27",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-09-18",
+          "tom": "2020-02-29",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0146133946627",
+          "hangar_id": "5003679",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "92",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-09-18",
+          "tom": "2020-02-29",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0146133946627",
+          "hangar_id": "5003679",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "andreas.lennkvist.manriquez[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0146133946627",
+        "hangar_id": "5003679"
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "c6afab1b-390c-4aa0-8586-f069ad294f05",
+    "sourceid": "bc136d6f-158d-45e8-b314-35c35ab92dc9",
+    "intressent_id": "0768605712423",
+    "hangar_id": "3057224",
+    "fodd_ar": "1976",
+    "kon": "man",
+    "efternamn": "Sestrajcic",
+    "tilltalsnamn": "Daniel",
+    "sorteringsnamn": "Sestrajcic,Daniel",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "Malmö kommun",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/bc136d6f-158d-45e8-b314-35c35ab92dc9",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/bc136d6f-158d-45e8-b314-35c35ab92dc9_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/bc136d6f-158d-45e8-b314-35c35ab92dc9_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/bc136d6f-158d-45e8-b314-35c35ab92dc9_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "123",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2017-08-31",
+          "uppgift": "",
+          "intressent_id": "0768605712423",
+          "hangar_id": "3057224",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2017-08-31",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0768605712423",
+          "hangar_id": "3057224",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2017-08-31",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0768605712423",
+          "hangar_id": "3057224",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "daniel.sestrajcic[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0768605712423",
+          "hangar_id": "3057224"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "65170",
+          "typ": "telefonnummer",
+          "intressent_id": "0768605712423",
+          "hangar_id": "3057224"
+        }
+      ]
+    }
+  }
+}

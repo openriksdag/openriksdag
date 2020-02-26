@@ -1,0 +1,201 @@
+{
+  "person": {
+    "hangar_guid": "53a57ed2-70bf-4209-b73c-37a38f876c5d",
+    "sourceid": "087644a0-838d-4768-9133-62745aeee287",
+    "intressent_id": "0495661214429",
+    "hangar_id": "3755279",
+    "fodd_ar": "1989",
+    "kon": "man",
+    "efternamn": "Tovatt",
+    "tilltalsnamn": "Lorentz",
+    "sorteringsnamn": "Tovatt,Lorentz",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "Stockholms kommun",
+    "status": "Tjänstgörande statsrådsersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/087644a0-838d-4768-9133-62745aeee287",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/087644a0-838d-4768-9133-62745aeee287_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/087644a0-838d-4768-9133-62745aeee287_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/087644a0-838d-4768-9133-62745aeee287_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "245",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "Isabella Lövin",
+          "intressent_id": "0495661214429",
+          "hangar_id": "3755279",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "314",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2017-07-15",
+          "tom": "2018-09-24",
+          "uppgift": "Per Olsson Fridh",
+          "intressent_id": "0495661214429",
+          "hangar_id": "3755279",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "LR",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "8",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-10-10",
+          "tom": "2022-10-10",
+          "uppgift": "Ledamotsrådet",
+          "intressent_id": "0495661214429",
+          "hangar_id": "3755279",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "21",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-02-07",
+          "tom": "2022-09-26",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0495661214429",
+          "hangar_id": "3755279",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "16",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0495661214429",
+          "hangar_id": "3755279",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-07-15",
+          "tom": "2018-09-24",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0495661214429",
+          "hangar_id": "3755279",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "16",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0495661214429",
+          "hangar_id": "3755279",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-07-15",
+          "tom": "2018-09-24",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0495661214429",
+          "hangar_id": "3755279",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "88",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-04-11",
+          "tom": "2022-09-26",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0495661214429",
+          "hangar_id": "3755279",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "lorentz.tovatt[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0495661214429",
+          "hangar_id": "3755279"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Student.",
+          "typ": "titlar",
+          "intressent_id": "0495661214429",
+          "hangar_id": "3755279"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0495661214429",
+          "hangar_id": "3755279"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0495661214429",
+          "hangar_id": "3755279"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "966c3310-6865-420f-a3e8-b4410ee939c5",
+    "sourceid": "042102ba-b9c8-4efb-abcb-74c9079330df",
+    "intressent_id": "0648066719018",
+    "hangar_id": "2342737",
+    "fodd_ar": "1952",
+    "kon": "man",
+    "efternamn": "Jousma",
+    "tilltalsnamn": "Robert",
+    "sorteringsnamn": "Jousma,Robert",
+    "iort": "",
+    "parti": "NYD",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/042102ba-b9c8-4efb-abcb-74c9079330df",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/042102ba-b9c8-4efb-abcb-74c9079330df_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/042102ba-b9c8-4efb-abcb-74c9079330df_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/042102ba-b9c8-4efb-abcb-74c9079330df_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "74",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0648066719018",
+          "hangar_id": "2342737",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1992-03-23",
+          "tom": "1994-10-02",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0648066719018",
+          "hangar_id": "2342737",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0648066719018",
+          "hangar_id": "2342737",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1992-05-26",
+          "tom": "1993-06-04",
+          "uppgift": "EES-utskottet",
+          "intressent_id": "0648066719018",
+          "hangar_id": "2342737",
+          "sortering": "50",
+          "organ_sortering": "199",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "arbetsledare",
+          "typ": "titlar",
+          "intressent_id": "0648066719018",
+          "hangar_id": "2342737"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0648066719018",
+          "hangar_id": "2342737"
+        }
+      ]
+    }
+  }
+}

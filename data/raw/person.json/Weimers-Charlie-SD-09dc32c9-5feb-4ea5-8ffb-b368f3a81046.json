@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "81082d6c-3187-40de-81f2-0c4b110c814a",
+    "sourceid": "09dc32c9-5feb-4ea5-8ffb-b368f3a81046",
+    "intressent_id": "",
+    "hangar_id": "5035037",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Weimers",
+    "tilltalsnamn": "Charlie",
+    "sorteringsnamn": "Weimers,Charlie",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "",
+    "status": "Europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/09dc32c9-5feb-4ea5-8ffb-b368f3a81046",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/09dc32c9-5feb-4ea5-8ffb-b368f3a81046_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/09dc32c9-5feb-4ea5-8ffb-b368f3a81046_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/09dc32c9-5feb-4ea5-8ffb-b368f3a81046_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "EP",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "20",
+        "status": "",
+        "typ": "Europaparlamentet",
+        "from": "2019-07-02",
+        "tom": "2024-07-02",
+        "uppgift": "Europaparlamentet",
+        "intressent_id": "",
+        "hangar_id": "5035037",
+        "sortering": "30",
+        "organ_sortering": "100",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

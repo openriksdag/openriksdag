@@ -1,0 +1,35 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5052660</hangar_id>
+    <dok_id datatype="string">H701FiU52</dok_id>
+    <rm datatype="string">2019/20</rm>
+    <beteckning datatype="string">FiU52</beteckning>
+    <typ datatype="string">bet</typ>
+    <subtyp datatype="string">bet</subtyp>
+    <doktyp datatype="string">bet</doktyp>
+    <typrubrik datatype="string">Betänkande 2019/20:FiU52</typrubrik>
+    <dokumentnamn datatype="string">Betänkande</dokumentnamn>
+    <debattnamn datatype="string">Debatt om förslag</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">FiU</organ>
+    <mottagare datatype="string"></mottagare>
+    <nummer datatype="int32">52</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2020-01-14 00:00:00</datum>
+    <systemdatum datatype="datetime">2020-01-14 13:17:37</systemdatum>
+    <publicerad datatype="datetime">2020-01-14 13:15:54</publicerad>
+    <titel datatype="string">Återköp och flytt av fond- och depåförsäkringar</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">planerat</status>
+    <htmlformat datatype="string"></htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">Brus</source>
+    <sourceid datatype="string">6fe7bcbc-1c92-4ec7-93e1-b45dedee2850</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H701FiU52/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H701FiU52</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H701FiU52</dokumentstatus_url_xml>
+    <utskottsforslag_url_xml datatype="stext">http://data.riksdagen.se/utskottsforslag/H701FiU52</utskottsforslag_url_xml>
+    <html datatype="text">&lt;h2&gt;Återköp och flytt av fond- och depåförsäkringar&lt;/h2&gt;
+Dokumentet är inte publicerat</html>
+  </dokument>
+<debatt /></dokumentstatus>

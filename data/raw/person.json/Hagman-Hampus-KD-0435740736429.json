@@ -1,0 +1,162 @@
+{
+  "person": {
+    "hangar_guid": "9d749bf5-28c8-4f56-998d-6c13c74fcc97",
+    "sourceid": "88438cea-b340-48cf-8fa8-230f1a8d2ea2",
+    "intressent_id": "0435740736429",
+    "hangar_id": "5003919",
+    "fodd_ar": "1987",
+    "kon": "man",
+    "efternamn": "Hagman",
+    "tilltalsnamn": "Hampus",
+    "sorteringsnamn": "Hagman,Hampus",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Göteborgs kommun",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/88438cea-b340-48cf-8fa8-230f1a8d2ea2",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/88438cea-b340-48cf-8fa8-230f1a8d2ea2_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/88438cea-b340-48cf-8fa8-230f1a8d2ea2_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/88438cea-b340-48cf-8fa8-230f1a8d2ea2_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "299",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0435740736429",
+          "hangar_id": "5003919",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "25",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-16",
+          "tom": "2022-09-26",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0435740736429",
+          "hangar_id": "5003919",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-02-15",
+          "tom": "2022-09-26",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0435740736429",
+          "hangar_id": "5003919",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "25",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-16",
+          "tom": "2022-09-26",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0435740736429",
+          "hangar_id": "5003919",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0435740736429",
+          "hangar_id": "5003919",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "24",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-16",
+          "tom": "2022-09-26",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0435740736429",
+          "hangar_id": "5003919",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "80",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-02-27",
+          "tom": "2022-09-26",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0435740736429",
+          "hangar_id": "5003919",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "hampus.hagman[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0435740736429",
+          "hangar_id": "5003919"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Statsvetare.",
+          "typ": "titlar",
+          "intressent_id": "0435740736429",
+          "hangar_id": "5003919"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0435740736429",
+          "hangar_id": "5003919"
+        }
+      ]
+    }
+  }
+}

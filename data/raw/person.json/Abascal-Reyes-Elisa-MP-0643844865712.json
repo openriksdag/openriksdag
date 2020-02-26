@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "fb1d1d30-d1ac-4b9f-9d5c-2f6e83d31f45",
+    "sourceid": "5fa54626-81f3-4129-9bbf-cce6af7f8915",
+    "intressent_id": "0643844865712",
+    "hangar_id": "2343549",
+    "fodd_ar": "1973",
+    "kon": "kvinna",
+    "efternamn": "Abascal Reyes",
+    "tilltalsnamn": "Elisa",
+    "sorteringsnamn": "Abascal Reyes,Elisa",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/5fa54626-81f3-4129-9bbf-cce6af7f8915",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5fa54626-81f3-4129-9bbf-cce6af7f8915_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5fa54626-81f3-4129-9bbf-cce6af7f8915_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5fa54626-81f3-4129-9bbf-cce6af7f8915_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "85",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1994-10-03",
+          "tom": "1998-10-05",
+          "uppgift": "",
+          "intressent_id": "0643844865712",
+          "hangar_id": "2343549",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-12-15",
+          "tom": "1998-10-04",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0643844865712",
+          "hangar_id": "2343549",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1998-10-04",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0643844865712",
+          "hangar_id": "2343549",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "ekonomistuderande",
+          "typ": "titlar",
+          "intressent_id": "0643844865712",
+          "hangar_id": "2343549"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0643844865712",
+          "hangar_id": "2343549"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "person": {
+    "hangar_guid": "a61932dc-1ae2-418a-979e-993b18878e43",
+    "sourceid": "8949ff34-0c3c-4f9b-82b8-de1a9b29a54a",
+    "intressent_id": "0321274454602",
+    "hangar_id": "2342538",
+    "fodd_ar": "1948",
+    "kon": "kvinna",
+    "efternamn": "Grönfeldt Bergman",
+    "tilltalsnamn": "Lisbeth",
+    "sorteringsnamn": "Grönfeldt Bergman,Lisbeth",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Göteborgs kommun",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/8949ff34-0c3c-4f9b-82b8-de1a9b29a54a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8949ff34-0c3c-4f9b-82b8-de1a9b29a54a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8949ff34-0c3c-4f9b-82b8-de1a9b29a54a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8949ff34-0c3c-4f9b-82b8-de1a9b29a54a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "297",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0321274454602",
+          "hangar_id": "2342538",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "NR",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2006-10-17",
+          "tom": "2010-10-04",
+          "uppgift": "Nordiska rådets svenska delegation",
+          "intressent_id": "0321274454602",
+          "hangar_id": "2342538",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0321274454602",
+          "hangar_id": "2342538",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-11-15",
+          "tom": "2010-10-04",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0321274454602",
+          "hangar_id": "2342538",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2006-11-15",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0321274454602",
+          "hangar_id": "2342538",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Webbsida",
+        "uppgift": "http://www.lisbeth.moderat.se",
+        "typ": "eadress",
+        "intressent_id": "0321274454602",
+        "hangar_id": "2342538"
+      }
+    }
+  }
+}

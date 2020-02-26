@@ -1,0 +1,114 @@
+{
+  "person": {
+    "hangar_guid": "47ca597e-1b4d-480d-bfc6-45935ea25da5",
+    "sourceid": "d36827d1-ca61-4bf0-8482-7e9db375cb43",
+    "intressent_id": "0575283695521",
+    "hangar_id": "5003908",
+    "fodd_ar": "1995",
+    "kon": "kvinna",
+    "efternamn": "Antoni",
+    "tilltalsnamn": "Helena",
+    "sorteringsnamn": "Antoni,Helena",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Hallands län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/d36827d1-ca61-4bf0-8482-7e9db375cb43",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d36827d1-ca61-4bf0-8482-7e9db375cb43_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d36827d1-ca61-4bf0-8482-7e9db375cb43_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d36827d1-ca61-4bf0-8482-7e9db375cb43_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "66",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2019-07-02",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0575283695521",
+          "hangar_id": "5003908",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "29",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2020-01-29",
+          "tom": "2022-09-26",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0575283695521",
+          "hangar_id": "5003908",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2020-01-29",
+          "tom": "2022-09-26",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0575283695521",
+          "hangar_id": "5003908",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-07-02",
+          "tom": "2022-09-26",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0575283695521",
+          "hangar_id": "5003908",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "helena.antoni[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0575283695521",
+          "hangar_id": "5003908"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Statsvetare.",
+          "typ": "titlar",
+          "intressent_id": "0575283695521",
+          "hangar_id": "5003908"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0575283695521",
+          "hangar_id": "5003908"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "person": {
+    "hangar_guid": "58ad127d-ab84-4e39-a984-2e17b65868c8",
+    "sourceid": "95b85019-4add-44a4-98c1-7a0b8a25812e",
+    "intressent_id": "0534948028412",
+    "hangar_id": "2369567",
+    "fodd_ar": "1958",
+    "kon": "man",
+    "efternamn": "Sjödahl",
+    "tilltalsnamn": "Magnus",
+    "sorteringsnamn": "Sjödahl,Magnus",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Skåne läns södra",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/95b85019-4add-44a4-98c1-7a0b8a25812e",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/95b85019-4add-44a4-98c1-7a0b8a25812e_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/95b85019-4add-44a4-98c1-7a0b8a25812e_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/95b85019-4add-44a4-98c1-7a0b8a25812e_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "258",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2013-02-22",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0534948028412",
+          "hangar_id": "2369567",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2013-02-22",
+          "tom": "2014-09-29",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0534948028412",
+          "hangar_id": "2369567",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "true",
+        "typ": "val",
+        "intressent_id": "0534948028412",
+        "hangar_id": "2369567"
+      }
+    }
+  }
+}

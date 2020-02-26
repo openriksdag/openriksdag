@@ -1,0 +1,35 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5049430</hangar_id>
+    <dok_id datatype="string">H701FiU50</dok_id>
+    <rm datatype="string">2019/20</rm>
+    <beteckning datatype="string">FiU50</beteckning>
+    <typ datatype="string">bet</typ>
+    <subtyp datatype="string">bet</subtyp>
+    <doktyp datatype="string">bet</doktyp>
+    <typrubrik datatype="string">Betänkande 2019/20:FiU50</typrubrik>
+    <dokumentnamn datatype="string">Betänkande</dokumentnamn>
+    <debattnamn datatype="string">Debatt om förslag</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">FiU</organ>
+    <mottagare datatype="string"></mottagare>
+    <nummer datatype="int32">50</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2020-01-14 00:00:00</datum>
+    <systemdatum datatype="datetime">2020-01-14 13:13:36</systemdatum>
+    <publicerad datatype="datetime">2020-01-14 13:13:36</publicerad>
+    <titel datatype="string">Riksrevisonens rapport om det kommunala utjämningssytemet</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">planerat</status>
+    <htmlformat datatype="string"></htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">Brus</source>
+    <sourceid datatype="string">44964fe8-deff-45d9-a385-2a5e4ef771c7</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H701FiU50/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H701FiU50</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H701FiU50</dokumentstatus_url_xml>
+    <utskottsforslag_url_xml datatype="stext">http://data.riksdagen.se/utskottsforslag/H701FiU50</utskottsforslag_url_xml>
+    <html datatype="text">&lt;h2&gt;Riksrevisonens rapport om det kommunala utjämningssytemet&lt;/h2&gt;
+Dokumentet är inte publicerat</html>
+  </dokument>
+<debatt /></dokumentstatus>

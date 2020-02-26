@@ -1,0 +1,169 @@
+{
+  "person": {
+    "hangar_guid": "91ec926e-23e5-4530-9806-ada2b703bbeb",
+    "sourceid": "669411b1-9abf-48dd-86c3-628cc7c5d137",
+    "intressent_id": "0430865615328",
+    "hangar_id": "3245713",
+    "fodd_ar": "1974",
+    "kon": "kvinna",
+    "efternamn": "Lindberg",
+    "tilltalsnamn": "Linda",
+    "sorteringsnamn": "Lindberg,Linda",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Skåne läns västra",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/669411b1-9abf-48dd-86c3-628cc7c5d137",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/669411b1-9abf-48dd-86c3-628cc7c5d137_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/669411b1-9abf-48dd-86c3-628cc7c5d137_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/669411b1-9abf-48dd-86c3-628cc7c5d137_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "328",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0430865615328",
+          "hangar_id": "3245713",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "19",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-09",
+          "tom": "2022-09-26",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0430865615328",
+          "hangar_id": "3245713",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0430865615328",
+          "hangar_id": "3245713",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0430865615328",
+          "hangar_id": "3245713",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0430865615328",
+          "hangar_id": "3245713",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "18",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-09",
+          "tom": "2022-09-26",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0430865615328",
+          "hangar_id": "3245713",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "38",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-06-10",
+          "tom": "2022-09-26",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0430865615328",
+          "hangar_id": "3245713",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "linda.lindberg[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0430865615328",
+          "hangar_id": "3245713"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Florist.",
+          "typ": "titlar",
+          "intressent_id": "0430865615328",
+          "hangar_id": "3245713"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0430865615328",
+          "hangar_id": "3245713"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0430865615328",
+          "hangar_id": "3245713"
+        }
+      ]
+    }
+  }
+}

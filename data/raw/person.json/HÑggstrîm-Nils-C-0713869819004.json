@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "04270ce8-f6a7-4d63-ad1d-4d9dc6aa0dac",
+    "sourceid": "3f2aefcc-c44c-455d-9be4-cf10680811ae",
+    "intressent_id": "0713869819004",
+    "hangar_id": "2341862",
+    "fodd_ar": "1934",
+    "kon": "man",
+    "efternamn": "Häggström",
+    "tilltalsnamn": "Nils",
+    "sorteringsnamn": "Häggström,Nils",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/3f2aefcc-c44c-455d-9be4-cf10680811ae",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3f2aefcc-c44c-455d-9be4-cf10680811ae_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3f2aefcc-c44c-455d-9be4-cf10680811ae_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3f2aefcc-c44c-455d-9be4-cf10680811ae_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "332",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1990-11-12",
+          "tom": "1990-12-11",
+          "uppgift": "Börje Hörnlund",
+          "intressent_id": "0713869819004",
+          "hangar_id": "2341862",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1986-10-18",
+          "tom": "1986-11-17",
+          "uppgift": "Karin Israelsson",
+          "intressent_id": "0713869819004",
+          "hangar_id": "2341862",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1985-05-06",
+          "tom": "1985-06-06",
+          "uppgift": "Börje Hörnlund",
+          "intressent_id": "0713869819004",
+          "hangar_id": "2341862",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-11-12",
+          "tom": "1990-12-11",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0713869819004",
+          "hangar_id": "2341862",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "kommunalråd",
+          "typ": "titlar",
+          "intressent_id": "0713869819004",
+          "hangar_id": "2341862"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0713869819004",
+          "hangar_id": "2341862"
+        }
+      ]
+    }
+  }
+}

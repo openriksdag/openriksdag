@@ -1,0 +1,492 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5053461</hangar_id>
+    <dok_id datatype="string">H701UU15</dok_id>
+    <rm datatype="string">2019/20</rm>
+    <beteckning datatype="string">UU15</beteckning>
+    <typ datatype="string">bet</typ>
+    <subtyp datatype="string">bet</subtyp>
+    <doktyp datatype="string">bet</doktyp>
+    <typrubrik datatype="string">Betänkande 2019/20:UU15</typrubrik>
+    <dokumentnamn datatype="string">Betänkande</dokumentnamn>
+    <debattnamn datatype="string">Debatt om förslag</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">UU</organ>
+    <mottagare datatype="string"></mottagare>
+    <nummer datatype="int32">15</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2020-01-21 00:00:00</datum>
+    <systemdatum datatype="datetime">2020-02-03 09:26:22</systemdatum>
+    <publicerad datatype="datetime">2020-01-21 15:12:17</publicerad>
+    <titel datatype="string">Mänskliga rättigheter</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">planerat</status>
+    <htmlformat datatype="string"></htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">Brus</source>
+    <sourceid datatype="string">5dfb4ea3-0565-4a2d-9448-4f41201c6a0d</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H701UU15/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H701UU15</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H701UU15</dokumentstatus_url_xml>
+    <utskottsforslag_url_xml datatype="stext">http://data.riksdagen.se/utskottsforslag/H701UU15</utskottsforslag_url_xml>
+    <html datatype="text">&lt;h2&gt;Mänskliga rättigheter&lt;/h2&gt;
+Dokumentet är inte publicerat</html>
+  </dokument>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">UBE</kod>
+<namn datatype="string">Beredning</namn>
+<datum datatype="datetime">2020-01-30 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">UBE</kod>
+<namn datatype="string">Beredning</namn>
+<datum datatype="datetime">2020-03-12 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">UBE</kod>
+<namn datatype="string">Beredning</namn>
+<datum datatype="datetime">2020-03-19 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">UBE</kod>
+<namn datatype="string">Beredning</namn>
+<datum datatype="datetime">2020-03-26 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">JUS</kod>
+<namn datatype="string">Justering</namn>
+<datum datatype="datetime">2020-04-14 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">TRY</kod>
+<namn datatype="string">Trycklov</namn>
+<datum datatype="datetime">2020-04-15 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+</dokaktivitet>
+<dokuppgift>
+<uppgift>
+<kod datatype="string">statustext</kod>
+<namn datatype="string">statustext</namn>
+<text datatype="string">Utskottet arbetar med ärendet</text>
+<dok_id datatype="string">H701UU15</dok_id>
+<systemdatum datatype="datetime">2020-01-31 00:07:44</systemdatum>
+</uppgift>
+</dokuppgift>
+<dokreferens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2818 Utgiftsområde 5 Internationell samverkan</uppgift>
+<ref_dok_id datatype="string">H7022818</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2818</ref_dok_bet>
+<ref_dok_titel datatype="string">Utgiftsområde 5 Internationell samverkan</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:1280 Förföljelse av kristna</uppgift>
+<ref_dok_id datatype="string">H7021280</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">1280</ref_dok_bet>
+<ref_dok_titel datatype="string">Förföljelse av kristna</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2018/19:1364 Internationellt stöd till utsatta kristna</uppgift>
+<ref_dok_id datatype="string">H6021364</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2018/19</ref_dok_rm>
+<ref_dok_bet datatype="string">1364</ref_dok_bet>
+<ref_dok_titel datatype="string">Internationellt stöd till utsatta kristna</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3302 Internationell solidaritet - hbtq plus i hela världen</uppgift>
+<ref_dok_id datatype="string">H7023302</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3302</ref_dok_bet>
+<ref_dok_titel datatype="string">Internationell solidaritet - hbtq plus i hela världen</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3357 Ryssland</uppgift>
+<ref_dok_id datatype="string">H7023357</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3357</ref_dok_bet>
+<ref_dok_titel datatype="string">Ryssland</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2018/19:723 Demokratins krympande utrymme</uppgift>
+<ref_dok_id datatype="string">H602723</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2018/19</ref_dok_rm>
+<ref_dok_bet datatype="string">723</ref_dok_bet>
+<ref_dok_titel datatype="string">Demokratins krympande utrymme</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2018/19:2767 Utgiftsområde 7 Internationellt bistånd</uppgift>
+<ref_dok_id datatype="string">H6022767</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2018/19</ref_dok_rm>
+<ref_dok_bet datatype="string">2767</ref_dok_bet>
+<ref_dok_titel datatype="string">Utgiftsområde 7 Internationellt bistånd</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3356 Hbtq-frågor i världen</uppgift>
+<ref_dok_id datatype="string">H7023356</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3356</ref_dok_bet>
+<ref_dok_titel datatype="string">Hbtq-frågor i världen</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2018/19:1382 Sveriges arbete i Europarådet</uppgift>
+<ref_dok_id datatype="string">H6021382</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2018/19</ref_dok_rm>
+<ref_dok_bet datatype="string">1382</ref_dok_bet>
+<ref_dok_titel datatype="string">Sveriges arbete i Europarådet</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2018/19:2903 Frihet, fred och utveckling i världen</uppgift>
+<ref_dok_id datatype="string">H6022903</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2018/19</ref_dok_rm>
+<ref_dok_bet datatype="string">2903</ref_dok_bet>
+<ref_dok_titel datatype="string">Frihet, fred och utveckling i världen</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2018/19:87 Stöd förföljda kristna</uppgift>
+<ref_dok_id datatype="string">H60287</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2018/19</ref_dok_rm>
+<ref_dok_bet datatype="string">87</ref_dok_bet>
+<ref_dok_titel datatype="string">Stöd förföljda kristna</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2018/19:2063 Ett tydligt avstånd till populism och diktaturer</uppgift>
+<ref_dok_id datatype="string">H6022063</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2018/19</ref_dok_rm>
+<ref_dok_bet datatype="string">2063</ref_dok_bet>
+<ref_dok_titel datatype="string">Ett tydligt avstånd till populism och diktaturer</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2018/19:1378 Mänskliga rättigheter i utrikespolitiken</uppgift>
+<ref_dok_id datatype="string">H6021378</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2018/19</ref_dok_rm>
+<ref_dok_bet datatype="string">1378</ref_dok_bet>
+<ref_dok_titel datatype="string">Mänskliga rättigheter i utrikespolitiken</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3157 Utgiftsområde 7 Internationellt bistånd</uppgift>
+<ref_dok_id datatype="string">H7023157</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3157</ref_dok_bet>
+<ref_dok_titel datatype="string">Utgiftsområde 7 Internationellt bistånd</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3362 Liberal utrikes- och biståndspolitik för en demokratisk utveckling</uppgift>
+<ref_dok_id datatype="string">H7023362</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3362</ref_dok_bet>
+<ref_dok_titel datatype="string">Liberal utrikes- och biståndspolitik för en demokratisk utveckling</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:751 Sveriges arbete i Europarådet</uppgift>
+<ref_dok_id datatype="string">H702751</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">751</ref_dok_bet>
+<ref_dok_titel datatype="string">Sveriges arbete i Europarådet</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:756 Internationellt stöd till utsatta kristna</uppgift>
+<ref_dok_id datatype="string">H702756</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">756</ref_dok_bet>
+<ref_dok_titel datatype="string">Internationellt stöd till utsatta kristna</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2018/19:1365 Internationellt demokratiarbete</uppgift>
+<ref_dok_id datatype="string">H6021365</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2018/19</ref_dok_rm>
+<ref_dok_bet datatype="string">1365</ref_dok_bet>
+<ref_dok_titel datatype="string">Internationellt demokratiarbete</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2758 Liberal politik för hbtq-personers lika rättigheter och möjligheter</uppgift>
+<ref_dok_id datatype="string">H7022758</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2758</ref_dok_bet>
+<ref_dok_titel datatype="string">Liberal politik för hbtq-personers lika rättigheter och möjligheter</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2018/19:2266 Skärpta sanktioner mot Ryssland</uppgift>
+<ref_dok_id datatype="string">H6022266</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2018/19</ref_dok_rm>
+<ref_dok_bet datatype="string">2266</ref_dok_bet>
+<ref_dok_titel datatype="string">Skärpta sanktioner mot Ryssland</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:778 Mänskliga rättigheter i utrikespolitiken</uppgift>
+<ref_dok_id datatype="string">H702778</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">778</ref_dok_bet>
+<ref_dok_titel datatype="string">Mänskliga rättigheter i utrikespolitiken</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2830 En utrikespolitik utifrån svenska intressen</uppgift>
+<ref_dok_id datatype="string">H7022830</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2830</ref_dok_bet>
+<ref_dok_titel datatype="string">En utrikespolitik utifrån svenska intressen</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2018/19:669 Biologisk mångfald</uppgift>
+<ref_dok_id datatype="string">H602669</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2018/19</ref_dok_rm>
+<ref_dok_bet datatype="string">669</ref_dok_bet>
+<ref_dok_titel datatype="string">Biologisk mångfald</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3261 Utrikes, omvärld och utveckling</uppgift>
+<ref_dok_id datatype="string">H7023261</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3261</ref_dok_bet>
+<ref_dok_titel datatype="string">Utrikes, omvärld och utveckling</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2018/19:2777 Utgiftsområde 5 Internationell samverkan</uppgift>
+<ref_dok_id datatype="string">H6022777</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2018/19</ref_dok_rm>
+<ref_dok_bet datatype="string">2777</ref_dok_bet>
+<ref_dok_titel datatype="string">Utgiftsområde 5 Internationell samverkan</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2018/19:1366 Förenta nationerna</uppgift>
+<ref_dok_id datatype="string">H6021366</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2018/19</ref_dok_rm>
+<ref_dok_bet datatype="string">1366</ref_dok_bet>
+<ref_dok_titel datatype="string">Förenta nationerna</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:757 Internationellt demokratiarbete</uppgift>
+<ref_dok_id datatype="string">H702757</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">757</ref_dok_bet>
+<ref_dok_titel datatype="string">Internationellt demokratiarbete</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:75 Stöd till förföljda kristna</uppgift>
+<ref_dok_id datatype="string">H70275</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">75</ref_dok_bet>
+<ref_dok_titel datatype="string">Stöd till förföljda kristna</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2018/19:2859 Utrikes, omvärld och utveckling</uppgift>
+<ref_dok_id datatype="string">H6022859</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2018/19</ref_dok_rm>
+<ref_dok_bet datatype="string">2859</ref_dok_bet>
+<ref_dok_titel datatype="string">Utrikes, omvärld och utveckling</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:760 Förenta nationerna</uppgift>
+<ref_dok_id datatype="string">H702760</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">760</ref_dok_bet>
+<ref_dok_titel datatype="string">Förenta nationerna</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:779 Myanmar</uppgift>
+<ref_dok_id datatype="string">H702779</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">779</ref_dok_bet>
+<ref_dok_titel datatype="string">Myanmar</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:2104 Religiösa och etniska minoriteter i Irak och Syrien</uppgift>
+<ref_dok_id datatype="string">H7022104</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">2104</ref_dok_bet>
+<ref_dok_titel datatype="string">Religiösa och etniska minoriteter i Irak och Syrien</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2018/19:2597 Liberal politik för hbtq-personers lika rättigheter och möjligheter</uppgift>
+<ref_dok_id datatype="string">H6022597</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2018/19</ref_dok_rm>
+<ref_dok_bet datatype="string">2597</ref_dok_bet>
+<ref_dok_titel datatype="string">Liberal politik för hbtq-personers lika rättigheter och möjligheter</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+</dokreferens>
+<debatt /></dokumentstatus>

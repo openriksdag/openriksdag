@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "05ca5f88-36b5-401b-89fe-9d71a42827e3",
+    "sourceid": "0e8d74a2-aceb-4a5d-9cff-2c8ceb0e68a4",
+    "intressent_id": "0574555227504",
+    "hangar_id": "2341677",
+    "fodd_ar": "1924",
+    "kon": "man",
+    "efternamn": "Ström",
+    "tilltalsnamn": "Gunnar",
+    "sorteringsnamn": "Ström,Gunnar",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Avliden  2012-04-22",
+    "person_url_xml": "http://data.riksdagen.se/person/0e8d74a2-aceb-4a5d-9cff-2c8ceb0e68a4",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0e8d74a2-aceb-4a5d-9cff-2c8ceb0e68a4_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0e8d74a2-aceb-4a5d-9cff-2c8ceb0e68a4_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0e8d74a2-aceb-4a5d-9cff-2c8ceb0e68a4_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0574555227504",
+          "hangar_id": "2341677",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0574555227504",
+          "hangar_id": "2341677",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "metallarbetare",
+          "typ": "titlar",
+          "intressent_id": "0574555227504",
+          "hangar_id": "2341677"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0574555227504",
+          "hangar_id": "2341677"
+        }
+      ]
+    }
+  }
+}

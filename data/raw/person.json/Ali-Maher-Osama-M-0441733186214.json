@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "ebf9d3f9-3a94-48c2-9a93-a093989b5cd2",
+    "sourceid": "e3e28567-faf6-4907-b04e-f492da6eeb87",
+    "intressent_id": "0441733186214",
+    "hangar_id": "2343414",
+    "fodd_ar": "1968",
+    "kon": "man",
+    "efternamn": "Ali Maher",
+    "tilltalsnamn": "Osama",
+    "sorteringsnamn": "Ali Maher,Osama",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Malmö kommun",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/e3e28567-faf6-4907-b04e-f492da6eeb87",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e3e28567-faf6-4907-b04e-f492da6eeb87_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e3e28567-faf6-4907-b04e-f492da6eeb87_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e3e28567-faf6-4907-b04e-f492da6eeb87_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "122",
+          "status": "Ledig Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2007-02-16",
+          "tom": "2007-12-09",
+          "uppgift": "Tobias Billström",
+          "intressent_id": "0441733186214",
+          "hangar_id": "2343414",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "122",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-06",
+          "tom": "2007-02-15",
+          "uppgift": "Tobias Billström",
+          "intressent_id": "0441733186214",
+          "hangar_id": "2343414",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2007-12-09",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0441733186214",
+          "hangar_id": "2343414",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

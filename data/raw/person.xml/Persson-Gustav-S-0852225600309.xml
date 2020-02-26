@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">3bfd2623-6bdf-4080-af76-c2de9022bd56</hangar_guid>
+<sourceid datatype="string">562a41b3-50e7-45ee-af5d-6865963ffbda</sourceid>
+<intressent_id datatype="string">0852225600309</intressent_id>
+<hangar_id datatype="int32">2341695</hangar_id>
+<fodd_ar datatype="int16">1925</fodd_ar>
+<kon datatype="string">man</kon>
+<efternamn datatype="string">Persson</efternamn>
+<tilltalsnamn datatype="string">Gustav</tilltalsnamn>
+<sorteringsnamn datatype="string">Persson,Gustav</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">S</parti>
+<valkrets datatype="string"></valkrets>
+<status datatype="string">Avliden  2016-03-30</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/562a41b3-50e7-45ee-af5d-6865963ffbda</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/562a41b3-50e7-45ee-af5d-6865963ffbda_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/562a41b3-50e7-45ee-af5d-6865963ffbda_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/562a41b3-50e7-45ee-af5d-6865963ffbda_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">72</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1988-10-03</from>
+<tom datatype="datetime">1991-09-30</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0852225600309</intressent_id>
+<hangar_id datatype="int32">2341695</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1985-09-30</from>
+<tom datatype="datetime">1988-10-03</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0852225600309</intressent_id>
+<hangar_id datatype="int32">2341695</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1982-10-04</from>
+<tom datatype="datetime">1985-09-30</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0852225600309</intressent_id>
+<hangar_id datatype="int32">2341695</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+<uppgift>
+<kod datatype="string">sv</kod>
+<uppgift datatype="string">sekreterare</uppgift>
+<typ datatype="string">titlar</typ>
+<intressent_id datatype="string">0852225600309</intressent_id>
+<hangar_id datatype="int32">2341695</hangar_id>
+</uppgift>
+<uppgift>
+<kod datatype="string">en</kod>
+<uppgift datatype="string"></uppgift>
+<typ datatype="string">titlar</typ>
+<intressent_id datatype="string">0852225600309</intressent_id>
+<hangar_id datatype="int32">2341695</hangar_id>
+</uppgift>
+</personuppgift>
+</person>

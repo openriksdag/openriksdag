@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "afdbb88b-3377-4d83-b601-dc0160c9c5cd",
+    "sourceid": "3dd79f03-4ef0-4c14-b9ed-b0e6f8af9d13",
+    "intressent_id": "",
+    "hangar_id": "4788789",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Edlund",
+    "tilltalsnamn": "Lars-Erik",
+    "sorteringsnamn": "Edlund,Lars-Erik",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ledamot i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/3dd79f03-4ef0-4c14-b9ed-b0e6f8af9d13",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3dd79f03-4ef0-4c14-b9ed-b0e6f8af9d13_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3dd79f03-4ef0-4c14-b9ed-b0e6f8af9d13_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3dd79f03-4ef0-4c14-b9ed-b0e6f8af9d13_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RJ",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "9",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2008-11-01",
+        "tom": "2010-10-31",
+        "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+        "intressent_id": "",
+        "hangar_id": "4788789",
+        "sortering": "30",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

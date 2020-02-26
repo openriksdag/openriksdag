@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "b9905b52-4609-4ef3-a405-9a2ff16f914a",
+    "sourceid": "8d89a2e7-47da-461c-95af-f9b1809d5f73",
+    "intressent_id": "0199679103214",
+    "hangar_id": "2343063",
+    "fodd_ar": "1959",
+    "kon": "kvinna",
+    "efternamn": "Stegö Chilò",
+    "tilltalsnamn": "Cecilia",
+    "sorteringsnamn": "Stegö Chilò,Cecilia",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare kulturminister",
+    "person_url_xml": "http://data.riksdagen.se/person/8d89a2e7-47da-461c-95af-f9b1809d5f73",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8d89a2e7-47da-461c-95af-f9b1809d5f73_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8d89a2e7-47da-461c-95af-f9b1809d5f73_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8d89a2e7-47da-461c-95af-f9b1809d5f73_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "U t.o.m. 1 jan-07",
+        "roll_kod": "Kulturminister",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "Departement",
+        "from": "2006-10-06",
+        "tom": "2006-10-16",
+        "uppgift": "Utbildnings- och kulturdepartementet",
+        "intressent_id": "0199679103214",
+        "hangar_id": "2343063",
+        "sortering": "",
+        "organ_sortering": "",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

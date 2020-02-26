@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "6db5bf14-b9d7-4f13-9f83-ab0a4d893b41",
+    "sourceid": "16da9423-9747-46aa-b024-e63ad6dfff62",
+    "intressent_id": "0705556766027",
+    "hangar_id": "2343633",
+    "fodd_ar": "1977",
+    "kon": "kvinna",
+    "efternamn": "López",
+    "tilltalsnamn": "Karla",
+    "sorteringsnamn": "López,Karla",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "Göteborgs kommun",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/16da9423-9747-46aa-b024-e63ad6dfff62",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/16da9423-9747-46aa-b024-e63ad6dfff62_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/16da9423-9747-46aa-b024-e63ad6dfff62_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/16da9423-9747-46aa-b024-e63ad6dfff62_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "333",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2007-11-13",
+          "uppgift": "",
+          "intressent_id": "0705556766027",
+          "hangar_id": "2343633",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2007-11-13",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0705556766027",
+          "hangar_id": "2343633",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-04-18",
+          "tom": "2007-11-13",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0705556766027",
+          "hangar_id": "2343633",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Deputerad",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-10-18",
+          "tom": "2007-11-13",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0705556766027",
+          "hangar_id": "2343633",
+          "sortering": "40",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "mångsysslare",
+          "typ": "titlar",
+          "intressent_id": "0705556766027",
+          "hangar_id": "2343633"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0705556766027",
+          "hangar_id": "2343633"
+        }
+      ]
+    }
+  }
+}

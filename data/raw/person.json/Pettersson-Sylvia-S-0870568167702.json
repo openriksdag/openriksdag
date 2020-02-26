@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "0ea1f673-16bc-42d4-85b1-988376aa9699",
+    "sourceid": "1292b2aa-0577-4ca7-ac5c-634e84913236",
+    "intressent_id": "0870568167702",
+    "hangar_id": "2341846",
+    "fodd_ar": "1934",
+    "kon": "kvinna",
+    "efternamn": "Pettersson",
+    "tilltalsnamn": "Sylvia",
+    "sorteringsnamn": "Pettersson,Sylvia",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Avliden  2016-08-24",
+    "person_url_xml": "http://data.riksdagen.se/person/1292b2aa-0577-4ca7-ac5c-634e84913236",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1292b2aa-0577-4ca7-ac5c-634e84913236_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1292b2aa-0577-4ca7-ac5c-634e84913236_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1292b2aa-0577-4ca7-ac5c-634e84913236_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "34",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1990-07-01",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0870568167702",
+          "hangar_id": "2341846",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "36",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-04",
+          "tom": "1990-06-30",
+          "uppgift": "Thage G Peterson",
+          "intressent_id": "0870568167702",
+          "hangar_id": "2341846",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-10-01",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0870568167702",
+          "hangar_id": "2341846",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1983-03-01",
+          "tom": "1985-09-30",
+          "uppgift": "Thage G Peterson",
+          "intressent_id": "0870568167702",
+          "hangar_id": "2341846",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1980-04-08",
+          "tom": "1980-05-07",
+          "uppgift": "Ingvar Carlsson",
+          "intressent_id": "0870568167702",
+          "hangar_id": "2341846",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1979-11-01",
+          "tom": "1979-11-30",
+          "uppgift": "Ingvar Carlsson",
+          "intressent_id": "0870568167702",
+          "hangar_id": "2341846",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-11-07",
+          "tom": "1991-09-29",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0870568167702",
+          "hangar_id": "2341846",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "kontorist",
+          "typ": "titlar",
+          "intressent_id": "0870568167702",
+          "hangar_id": "2341846"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0870568167702",
+          "hangar_id": "2341846"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "4fe308c2-d292-4c2f-ba40-fc16013632fc",
+    "sourceid": "ac2b2350-3565-4fef-8890-08126a24a77f",
+    "intressent_id": "0678712094213",
+    "hangar_id": "3057392",
+    "fodd_ar": "1968",
+    "kon": "man",
+    "efternamn": "Jakobsson",
+    "tilltalsnamn": "Stefan",
+    "sorteringsnamn": "Jakobsson,Stefan",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Västmanlands län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/ac2b2350-3565-4fef-8890-08126a24a77f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ac2b2350-3565-4fef-8890-08126a24a77f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ac2b2350-3565-4fef-8890-08126a24a77f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ac2b2350-3565-4fef-8890-08126a24a77f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "345",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0678712094213",
+          "hangar_id": "3057392",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "18",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-14",
+          "tom": "2017-06-07",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0678712094213",
+          "hangar_id": "3057392",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0678712094213",
+          "hangar_id": "3057392",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Lärare",
+          "typ": "titlar",
+          "intressent_id": "0678712094213",
+          "hangar_id": "3057392"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0678712094213",
+          "hangar_id": "3057392"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0678712094213",
+          "hangar_id": "3057392"
+        }
+      ]
+    }
+  }
+}

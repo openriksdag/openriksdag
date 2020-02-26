@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "1d6c389b-ee28-491c-87d3-9ea8d8661f3c",
+    "sourceid": "45b356db-158d-4120-9494-22514b08ae68",
+    "intressent_id": "0710022029620",
+    "hangar_id": "3755281",
+    "fodd_ar": "1992",
+    "kon": "kvinna",
+    "efternamn": "Rasmusson",
+    "tilltalsnamn": "Magda",
+    "sorteringsnamn": "Rasmusson,Magda",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/45b356db-158d-4120-9494-22514b08ae68",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/45b356db-158d-4120-9494-22514b08ae68_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/45b356db-158d-4120-9494-22514b08ae68_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/45b356db-158d-4120-9494-22514b08ae68_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "242",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2015-12-18",
+          "tom": "2015-12-31",
+          "uppgift": "Maria Ferm",
+          "intressent_id": "0710022029620",
+          "hangar_id": "3755281",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "314",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2015-05-18",
+          "tom": "2015-12-17",
+          "uppgift": "Per Olsson Fridh",
+          "intressent_id": "0710022029620",
+          "hangar_id": "3755281",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "20",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2015-05-21",
+          "tom": "2015-12-31",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0710022029620",
+          "hangar_id": "3755281",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2015-05-21",
+          "tom": "2015-12-31",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0710022029620",
+          "hangar_id": "3755281",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Student/Konsult.",
+          "typ": "titlar",
+          "intressent_id": "0710022029620",
+          "hangar_id": "3755281"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0710022029620",
+          "hangar_id": "3755281"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "person": {
+    "hangar_guid": "e085fa2f-cc59-4605-97ff-4c60211675b2",
+    "sourceid": "1512b21b-9312-41bc-80ed-f4f0e58f1de4",
+    "intressent_id": "0587736055221",
+    "hangar_id": "5003831",
+    "fodd_ar": "1978",
+    "kon": "man",
+    "efternamn": "Paarup-Petersen",
+    "tilltalsnamn": "Niels",
+    "sorteringsnamn": "Paarup-Petersen,Niels",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Malmö kommun",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/1512b21b-9312-41bc-80ed-f4f0e58f1de4",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1512b21b-9312-41bc-80ed-f4f0e58f1de4_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1512b21b-9312-41bc-80ed-f4f0e58f1de4_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1512b21b-9312-41bc-80ed-f4f0e58f1de4_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "221",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0587736055221",
+          "hangar_id": "5003831",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "22",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-16",
+          "tom": "2019-03-29",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0587736055221",
+          "hangar_id": "5003831",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "29",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-04-03",
+          "tom": "2022-09-26",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0587736055221",
+          "hangar_id": "5003831",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "23",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-16",
+          "tom": "2022-09-26",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0587736055221",
+          "hangar_id": "5003831",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "niels.paarup-petersen[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0587736055221",
+          "hangar_id": "5003831"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Konsult/Egenföretagare.",
+          "typ": "titlar",
+          "intressent_id": "0587736055221",
+          "hangar_id": "5003831"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0587736055221",
+          "hangar_id": "5003831"
+        }
+      ]
+    }
+  }
+}

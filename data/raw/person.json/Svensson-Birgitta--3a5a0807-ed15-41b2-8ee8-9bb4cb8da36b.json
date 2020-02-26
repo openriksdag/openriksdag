@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "947cc870-333c-4cd9-9b9c-035cc8b5ebfc",
+    "sourceid": "3a5a0807-ed15-41b2-8ee8-9bb4cb8da36b",
+    "intressent_id": "",
+    "hangar_id": "4788790",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Svensson",
+    "tilltalsnamn": "Birgitta",
+    "sorteringsnamn": "Svensson,Birgitta",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ledamot i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/3a5a0807-ed15-41b2-8ee8-9bb4cb8da36b",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3a5a0807-ed15-41b2-8ee8-9bb4cb8da36b_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3a5a0807-ed15-41b2-8ee8-9bb4cb8da36b_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3a5a0807-ed15-41b2-8ee8-9bb4cb8da36b_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RJ",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "10",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2008-11-01",
+        "tom": "2010-10-31",
+        "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+        "intressent_id": "",
+        "hangar_id": "4788790",
+        "sortering": "30",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

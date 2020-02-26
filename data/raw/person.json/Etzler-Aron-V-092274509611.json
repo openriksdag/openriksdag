@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "5c322249-37a2-468a-92fb-8ed6b2c6a42e",
+    "sourceid": "6721cc0e-b772-4ca9-902b-f26b41ec8bf0",
+    "intressent_id": "092274509611",
+    "hangar_id": "4467796",
+    "fodd_ar": "1973",
+    "kon": "man",
+    "efternamn": "Etzler",
+    "tilltalsnamn": "Aron",
+    "sorteringsnamn": "Etzler,Aron",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "",
+    "status": "",
+    "person_url_xml": "http://data.riksdagen.se/person/6721cc0e-b772-4ca9-902b-f26b41ec8bf0",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6721cc0e-b772-4ca9-902b-f26b41ec8bf0_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6721cc0e-b772-4ca9-902b-f26b41ec8bf0_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6721cc0e-b772-4ca9-902b-f26b41ec8bf0_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "V",
+        "roll_kod": "Partisekreterare",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "partiuppdrag",
+        "from": "2012-02-04",
+        "tom": "",
+        "uppgift": "Vänsterpartiet",
+        "intressent_id": "092274509611",
+        "hangar_id": "4467796",
+        "sortering": "35",
+        "organ_sortering": "",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

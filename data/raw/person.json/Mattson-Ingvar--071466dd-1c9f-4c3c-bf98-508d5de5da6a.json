@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "8b68d135-024c-4598-b6d3-4b88418dcc7b",
+    "sourceid": "071466dd-1c9f-4c3c-bf98-508d5de5da6a",
+    "intressent_id": "",
+    "hangar_id": "4788879",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Mattson",
+    "tilltalsnamn": "Ingvar",
+    "sorteringsnamn": "Mattson,Ingvar",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare riksrevisor i Riksrevisorerna",
+    "person_url_xml": "http://data.riksdagen.se/person/071466dd-1c9f-4c3c-bf98-508d5de5da6a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/071466dd-1c9f-4c3c-bf98-508d5de5da6a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/071466dd-1c9f-4c3c-bf98-508d5de5da6a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/071466dd-1c9f-4c3c-bf98-508d5de5da6a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RR",
+        "roll_kod": "Riksrevisor",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2017-03-15",
+        "tom": "2018-09-24",
+        "uppgift": "Riksrevisorerna",
+        "intressent_id": "",
+        "hangar_id": "4788879",
+        "sortering": "",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

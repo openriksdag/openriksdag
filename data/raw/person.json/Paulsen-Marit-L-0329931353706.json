@@ -1,0 +1,48 @@
+{
+  "person": {
+    "hangar_guid": "d6f1e182-bc90-4586-88bd-35fde171aac4",
+    "sourceid": "00598032-419a-487e-9236-8625d4921cf8",
+    "intressent_id": "0329931353706",
+    "hangar_id": "2821433",
+    "fodd_ar": "1939",
+    "kon": "kvinna",
+    "efternamn": "Paulsen",
+    "tilltalsnamn": "Marit",
+    "sorteringsnamn": "Paulsen,Marit",
+    "iort": "",
+    "parti": "L",
+    "valkrets": "",
+    "status": "Tidigare europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/00598032-419a-487e-9236-8625d4921cf8",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/00598032-419a-487e-9236-8625d4921cf8_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/00598032-419a-487e-9236-8625d4921cf8_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/00598032-419a-487e-9236-8625d4921cf8_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "EP",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "5",
+        "status": "",
+        "typ": "Europaparlamentet",
+        "from": "2009-07-14",
+        "tom": "2015-09-30",
+        "uppgift": "Europaparlamentet",
+        "intressent_id": "0329931353706",
+        "hangar_id": "2821433",
+        "sortering": "30",
+        "organ_sortering": "100",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Webbsida",
+        "uppgift": "http://www.europarl.europa.eu/meps/sv/4270/MARIT_PAULSEN.html",
+        "typ": "eadress",
+        "intressent_id": "0329931353706",
+        "hangar_id": "2821433"
+      }
+    }
+  }
+}

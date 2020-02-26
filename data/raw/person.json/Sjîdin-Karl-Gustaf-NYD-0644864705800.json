@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "f00e3f67-5d29-4ad5-9196-f4e1f36efc83",
+    "sourceid": "b83e5935-180e-4a87-8736-d0db66b392e8",
+    "intressent_id": "0644864705800",
+    "hangar_id": "2342506",
+    "fodd_ar": "1948",
+    "kon": "man",
+    "efternamn": "Sjödin",
+    "tilltalsnamn": "Karl Gustaf",
+    "sorteringsnamn": "Sjödin,Karl Gustaf",
+    "iort": "",
+    "parti": "NYD",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/b83e5935-180e-4a87-8736-d0db66b392e8",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b83e5935-180e-4a87-8736-d0db66b392e8_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b83e5935-180e-4a87-8736-d0db66b392e8_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b83e5935-180e-4a87-8736-d0db66b392e8_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "321",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0644864705800",
+          "hangar_id": "2342506",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0644864705800",
+          "hangar_id": "2342506",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "kriminalinspektör",
+          "typ": "titlar",
+          "intressent_id": "0644864705800",
+          "hangar_id": "2342506"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0644864705800",
+          "hangar_id": "2342506"
+        }
+      ]
+    }
+  }
+}

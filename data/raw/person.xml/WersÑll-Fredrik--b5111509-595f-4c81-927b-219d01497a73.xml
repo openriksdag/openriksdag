@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">443a852d-03d9-4371-ae80-4c030f46ba01</hangar_guid>
+<sourceid datatype="string">b5111509-595f-4c81-927b-219d01497a73</sourceid>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">4788839</hangar_id>
+<fodd_ar datatype="int16">0</fodd_ar>
+<kon datatype="string">okänt</kon>
+<efternamn datatype="string">Wersäll</efternamn>
+<tilltalsnamn datatype="string">Fredrik</tilltalsnamn>
+<sorteringsnamn datatype="string">Wersäll,Fredrik</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string"></parti>
+<valkrets datatype="string"></valkrets>
+<status datatype="string">Tidigare ordförande i Riksdagens ansvarsnämnd</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/b5111509-595f-4c81-927b-219d01497a73</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/b5111509-595f-4c81-927b-219d01497a73_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/b5111509-595f-4c81-927b-219d01497a73_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/b5111509-595f-4c81-927b-219d01497a73_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">RAN</organ_kod>
+<roll_kod datatype="string">Ordförande</roll_kod>
+<ordningsnummer datatype="int32">1</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">2016-01-01</from>
+<tom datatype="datetime">2018-06-15</tom>
+<uppgift datatype="string">Riksdagens ansvarsnämnd</uppgift>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">4788839</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">RAN</organ_kod>
+<roll_kod datatype="string">Ordförande</roll_kod>
+<ordningsnummer datatype="int32">1</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">2013-01-01</from>
+<tom datatype="datetime">2015-12-31</tom>
+<uppgift datatype="string">Riksdagens ansvarsnämnd</uppgift>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">4788839</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">RAR</organ_kod>
+<roll_kod datatype="string">Ersättare för ordföranden</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">2016-12-09</from>
+<tom datatype="datetime">2018-11-28</tom>
+<uppgift datatype="string">Riksdagens arvodesnämnd</uppgift>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">4788839</hangar_id>
+<sortering datatype="int32">21</sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">RAR</organ_kod>
+<roll_kod datatype="string">Ersättare för ordföranden</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">2013-01-01</from>
+<tom datatype="datetime">2016-12-09</tom>
+<uppgift datatype="string">Riksdagens arvodesnämnd</uppgift>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">4788839</hangar_id>
+<sortering datatype="int32">21</sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+</personuppgift>
+</person>

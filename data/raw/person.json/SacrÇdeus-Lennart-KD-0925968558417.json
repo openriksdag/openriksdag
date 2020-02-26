@@ -1,0 +1,105 @@
+{
+  "person": {
+    "hangar_guid": "e68d29eb-8df8-4939-bea1-ffaf9512bb4b",
+    "sourceid": "81706481-4335-4a91-9d5e-8b6e552109b6",
+    "intressent_id": "0925968558417",
+    "hangar_id": "2342986",
+    "fodd_ar": "1957",
+    "kon": "man",
+    "efternamn": "Sacrédeus",
+    "tilltalsnamn": "Lennart",
+    "sorteringsnamn": "Sacrédeus,Lennart",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Dalarnas län",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/81706481-4335-4a91-9d5e-8b6e552109b6",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/81706481-4335-4a91-9d5e-8b6e552109b6_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/81706481-4335-4a91-9d5e-8b6e552109b6_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/81706481-4335-4a91-9d5e-8b6e552109b6_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "164",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0925968558417",
+          "hangar_id": "2342986",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0925968558417",
+          "hangar_id": "2342986",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0925968558417",
+          "hangar_id": "2342986",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Webbsida",
+          "uppgift": "http://www.sacredeus.se",
+          "typ": "eadress",
+          "intressent_id": "0925968558417",
+          "hangar_id": "2342986"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Gymnasielärare/journalist",
+          "typ": "titlar",
+          "intressent_id": "0925968558417",
+          "hangar_id": "2342986"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0925968558417",
+          "hangar_id": "2342986"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0925968558417",
+          "hangar_id": "2342986"
+        }
+      ]
+    }
+  }
+}

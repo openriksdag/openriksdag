@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "f76982dc-8802-4b36-a094-11f0d0b9bb2e",
+    "sourceid": "b45212e6-494f-4355-a2aa-8064cb2ff0e2",
+    "intressent_id": "0324473031398",
+    "hangar_id": "2341640",
+    "fodd_ar": "1920",
+    "kon": "man",
+    "efternamn": "Aglert",
+    "tilltalsnamn": "Per Arne",
+    "sorteringsnamn": "Aglert,Per Arne",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/b45212e6-494f-4355-a2aa-8064cb2ff0e2",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b45212e6-494f-4355-a2aa-8064cb2ff0e2_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b45212e6-494f-4355-a2aa-8064cb2ff0e2_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b45212e6-494f-4355-a2aa-8064cb2ff0e2_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Riksdagsledamot",
+        "ordningsnummer": "0",
+        "status": "Tjänstgörande",
+        "typ": "kammaruppdrag",
+        "from": "1985-09-30",
+        "tom": "1988-10-03",
+        "uppgift": "",
+        "intressent_id": "0324473031398",
+        "hangar_id": "2341640",
+        "sortering": "10",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "10"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "intendent",
+          "typ": "titlar",
+          "intressent_id": "0324473031398",
+          "hangar_id": "2341640"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0324473031398",
+          "hangar_id": "2341640"
+        }
+      ]
+    }
+  }
+}

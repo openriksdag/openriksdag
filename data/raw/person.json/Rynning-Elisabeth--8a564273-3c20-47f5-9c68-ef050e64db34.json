@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "aacc4187-e9c1-422d-89cf-262394969ab1",
+    "sourceid": "8a564273-3c20-47f5-9c68-ef050e64db34",
+    "intressent_id": "",
+    "hangar_id": "4788873",
+    "fodd_ar": "0",
+    "kon": "okänt",
+    "efternamn": "Rynning",
+    "tilltalsnamn": "Elisabeth",
+    "sorteringsnamn": "Rynning,Elisabeth",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Chefsjustitieombudsman i Riksdagens ombudsmän",
+    "person_url_xml": "http://data.riksdagen.se/person/8a564273-3c20-47f5-9c68-ef050e64db34",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8a564273-3c20-47f5-9c68-ef050e64db34_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8a564273-3c20-47f5-9c68-ef050e64db34_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8a564273-3c20-47f5-9c68-ef050e64db34_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "JO",
+        "roll_kod": "Chefsjustitieombudsman",
+        "ordningsnummer": "1",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2016-09-05",
+        "tom": "2020-09-05",
+        "uppgift": "Riksdagens ombudsmän",
+        "intressent_id": "",
+        "hangar_id": "4788873",
+        "sortering": "",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "292e7a35-7074-4ed3-b19e-7fa180959441",
+    "sourceid": "b8b04f84-73a3-4cce-852d-379c379b1ceb",
+    "intressent_id": "0687866836701",
+    "hangar_id": "2341737",
+    "fodd_ar": "1928",
+    "kon": "kvinna",
+    "efternamn": "Palmqvist",
+    "tilltalsnamn": "Margareta",
+    "sorteringsnamn": "Palmqvist,Margareta",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/b8b04f84-73a3-4cce-852d-379c379b1ceb",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b8b04f84-73a3-4cce-852d-379c379b1ceb_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b8b04f84-73a3-4cce-852d-379c379b1ceb_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b8b04f84-73a3-4cce-852d-379c379b1ceb_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0687866836701",
+          "hangar_id": "2341737",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0687866836701",
+          "hangar_id": "2341737",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0687866836701",
+          "hangar_id": "2341737",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1976-10-04",
+          "tom": "1976-10-08",
+          "uppgift": "Ingvar Carlsson",
+          "intressent_id": "0687866836701",
+          "hangar_id": "2341737",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "barnmorska",
+          "typ": "titlar",
+          "intressent_id": "0687866836701",
+          "hangar_id": "2341737"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0687866836701",
+          "hangar_id": "2341737"
+        }
+      ]
+    }
+  }
+}

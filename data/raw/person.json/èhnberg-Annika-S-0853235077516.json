@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "00a29d33-2153-4e3c-a2b5-310ac07aed19",
+    "sourceid": "ef371dfd-7e52-4f59-bba1-704e0f62b0b2",
+    "intressent_id": "0853235077516",
+    "hangar_id": "2342597",
+    "fodd_ar": "1949",
+    "kon": "kvinna",
+    "efternamn": "Åhnberg",
+    "tilltalsnamn": "Annika",
+    "sorteringsnamn": "Åhnberg,Annika",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/ef371dfd-7e52-4f59-bba1-704e0f62b0b2",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ef371dfd-7e52-4f59-bba1-704e0f62b0b2_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ef371dfd-7e52-4f59-bba1-704e0f62b0b2_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ef371dfd-7e52-4f59-bba1-704e0f62b0b2_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "51",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0853235077516",
+          "hangar_id": "2342597",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "67",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0853235077516",
+          "hangar_id": "2342597",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-11-23",
+          "tom": "1989-10-04",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0853235077516",
+          "hangar_id": "2342597",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1992-11-02",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0853235077516",
+          "hangar_id": "2342597",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0853235077516",
+          "hangar_id": "2342597",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "socionom",
+          "typ": "titlar",
+          "intressent_id": "0853235077516",
+          "hangar_id": "2342597"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0853235077516",
+          "hangar_id": "2342597"
+        }
+      ]
+    }
+  }
+}

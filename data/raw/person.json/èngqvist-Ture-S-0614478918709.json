@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "431c96b2-d498-4e02-ab37-3491d8eeb6a5",
+    "sourceid": "0840c5e3-39c3-462b-91a7-afc80510cfa8",
+    "intressent_id": "0614478918709",
+    "hangar_id": "2341826",
+    "fodd_ar": "1933",
+    "kon": "man",
+    "efternamn": "Ångqvist",
+    "tilltalsnamn": "Ture",
+    "sorteringsnamn": "Ångqvist,Ture",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/0840c5e3-39c3-462b-91a7-afc80510cfa8",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0840c5e3-39c3-462b-91a7-afc80510cfa8_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0840c5e3-39c3-462b-91a7-afc80510cfa8_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0840c5e3-39c3-462b-91a7-afc80510cfa8_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Riksdagsledamot",
+        "ordningsnummer": "0",
+        "status": "Tjänstgörande",
+        "typ": "kammaruppdrag",
+        "from": "1986-10-07",
+        "tom": "1988-10-03",
+        "uppgift": "",
+        "intressent_id": "0614478918709",
+        "hangar_id": "2341826",
+        "sortering": "10",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "10"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "arbetsförmedlare",
+          "typ": "titlar",
+          "intressent_id": "0614478918709",
+          "hangar_id": "2341826"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0614478918709",
+          "hangar_id": "2341826"
+        }
+      ]
+    }
+  }
+}

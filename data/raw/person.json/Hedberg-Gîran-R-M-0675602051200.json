@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "70fec9d5-0133-4b1f-a065-e6e2b6998fcc",
+    "sourceid": "07fbf45d-64c1-4965-a763-4c026bc92782",
+    "intressent_id": "0675602051200",
+    "hangar_id": "2342216",
+    "fodd_ar": "1943",
+    "kon": "man",
+    "efternamn": "Hedberg",
+    "tilltalsnamn": "Göran R",
+    "sorteringsnamn": "Hedberg,Göran R",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Avliden  1995-12-15",
+    "person_url_xml": "http://data.riksdagen.se/person/07fbf45d-64c1-4965-a763-4c026bc92782",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/07fbf45d-64c1-4965-a763-4c026bc92782_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/07fbf45d-64c1-4965-a763-4c026bc92782_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/07fbf45d-64c1-4965-a763-4c026bc92782_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "312",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1994-10-03",
+          "tom": "1995-12-15",
+          "uppgift": "",
+          "intressent_id": "0675602051200",
+          "hangar_id": "2342216",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1995-12-15",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0675602051200",
+          "hangar_id": "2342216",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "LU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1995-10-11",
+          "tom": "1995-12-15",
+          "uppgift": "Lagutskottet",
+          "intressent_id": "0675602051200",
+          "hangar_id": "2342216",
+          "sortering": "30",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "LU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1995-10-10",
+          "uppgift": "Lagutskottet",
+          "intressent_id": "0675602051200",
+          "hangar_id": "2342216",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "jur kand",
+          "typ": "titlar",
+          "intressent_id": "0675602051200",
+          "hangar_id": "2342216"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0675602051200",
+          "hangar_id": "2342216"
+        }
+      ]
+    }
+  }
+}

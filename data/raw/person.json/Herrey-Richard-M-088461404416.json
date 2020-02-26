@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "ba0aa224-3cc0-4200-9005-8c82633f8e67",
+    "sourceid": "a8deb000-fa7b-4672-b4ed-b0a5b9f98658",
+    "intressent_id": "088461404416",
+    "hangar_id": "5003705",
+    "fodd_ar": "1964",
+    "kon": "man",
+    "efternamn": "Herrey",
+    "tilltalsnamn": "Richard",
+    "sorteringsnamn": "Herrey,Richard",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms län",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/a8deb000-fa7b-4672-b4ed-b0a5b9f98658",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a8deb000-fa7b-4672-b4ed-b0a5b9f98658_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a8deb000-fa7b-4672-b4ed-b0a5b9f98658_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a8deb000-fa7b-4672-b4ed-b0a5b9f98658_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "175",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2019-07-02",
+          "tom": "2019-09-09",
+          "uppgift": "Ida Drougge",
+          "intressent_id": "088461404416",
+          "hangar_id": "5003705",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "73",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-07-02",
+          "tom": "2019-09-09",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "088461404416",
+          "hangar_id": "5003705",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

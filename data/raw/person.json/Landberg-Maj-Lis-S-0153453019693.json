@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "181f4976-3cc0-4be4-9608-188594fff24e",
+    "sourceid": "8532ccb1-04cd-48aa-b8b5-c269d2198788",
+    "intressent_id": "0153453019693",
+    "hangar_id": "2341648",
+    "fodd_ar": "1922",
+    "kon": "kvinna",
+    "efternamn": "Landberg",
+    "tilltalsnamn": "Maj-Lis",
+    "sorteringsnamn": "Landberg,Maj-Lis",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/8532ccb1-04cd-48aa-b8b5-c269d2198788",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8532ccb1-04cd-48aa-b8b5-c269d2198788_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8532ccb1-04cd-48aa-b8b5-c269d2198788_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8532ccb1-04cd-48aa-b8b5-c269d2198788_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0153453019693",
+          "hangar_id": "2341648",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0153453019693",
+          "hangar_id": "2341648",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0153453019693",
+          "hangar_id": "2341648",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1976-10-04",
+          "tom": "1979-10-01",
+          "uppgift": "",
+          "intressent_id": "0153453019693",
+          "hangar_id": "2341648",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "RGK",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1988-10-18",
+          "tom": "1989-06-30",
+          "uppgift": "Fullmäktige i riksgäldskontoret",
+          "intressent_id": "0153453019693",
+          "hangar_id": "2341648",
+          "sortering": "30",
+          "organ_sortering": "399",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "kassör",
+          "typ": "titlar",
+          "intressent_id": "0153453019693",
+          "hangar_id": "2341648"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0153453019693",
+          "hangar_id": "2341648"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "c408db5d-12f3-409f-8cb0-0c421b1bc2d5",
+    "sourceid": "e33c0abb-5a81-4acd-a642-02f058d96923",
+    "intressent_id": "",
+    "hangar_id": "4788842",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Nitzelius",
+    "tilltalsnamn": "Anna",
+    "sorteringsnamn": "Nitzelius,Anna",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ersättare i Riksdagens ansvarsnämnd",
+    "person_url_xml": "http://data.riksdagen.se/person/e33c0abb-5a81-4acd-a642-02f058d96923",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e33c0abb-5a81-4acd-a642-02f058d96923_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e33c0abb-5a81-4acd-a642-02f058d96923_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e33c0abb-5a81-4acd-a642-02f058d96923_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "RAN",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2016-01-01",
+          "tom": "2018-12-31",
+          "uppgift": "Riksdagens ansvarsnämnd",
+          "intressent_id": "",
+          "hangar_id": "4788842",
+          "sortering": "45",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RAN",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2013-01-01",
+          "tom": "2015-12-31",
+          "uppgift": "Riksdagens ansvarsnämnd",
+          "intressent_id": "",
+          "hangar_id": "4788842",
+          "sortering": "45",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

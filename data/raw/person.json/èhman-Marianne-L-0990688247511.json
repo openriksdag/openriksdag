@@ -1,0 +1,128 @@
+{
+  "person": {
+    "hangar_guid": "cc012f1a-6aa3-4b89-8267-092080050b8d",
+    "sourceid": "1d28f496-d353-4b1c-8ea0-6c3689e3846a",
+    "intressent_id": "0990688247511",
+    "hangar_id": "2343030",
+    "fodd_ar": "1958",
+    "kon": "kvinna",
+    "efternamn": "Åhman",
+    "tilltalsnamn": "Marianne",
+    "sorteringsnamn": "Åhman,Marianne",
+    "iort": "",
+    "parti": "L",
+    "valkrets": "Värmlands län",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/1d28f496-d353-4b1c-8ea0-6c3689e3846a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1d28f496-d353-4b1c-8ea0-6c3689e3846a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1d28f496-d353-4b1c-8ea0-6c3689e3846a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1d28f496-d353-4b1c-8ea0-6c3689e3846a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "102",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2011-04-27",
+          "tom": "2011-10-28",
+          "uppgift": "Nina Larsson",
+          "intressent_id": "0990688247511",
+          "hangar_id": "2343030",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-04-27",
+          "tom": "2011-10-28",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0990688247511",
+          "hangar_id": "2343030",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-04-27",
+          "tom": "2011-10-28",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0990688247511",
+          "hangar_id": "2343030",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-04-27",
+          "tom": "2011-10-28",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0990688247511",
+          "hangar_id": "2343030",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "marianne.ahman[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0990688247511",
+          "hangar_id": "2343030"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "64347",
+          "typ": "telefonnummer",
+          "intressent_id": "0990688247511",
+          "hangar_id": "2343030"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Tandhygienist",
+          "typ": "titlar",
+          "intressent_id": "0990688247511",
+          "hangar_id": "2343030"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0990688247511",
+          "hangar_id": "2343030"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0990688247511",
+          "hangar_id": "2343030"
+        }
+      ]
+    }
+  }
+}

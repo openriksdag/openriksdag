@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "64a12ce5-0301-4246-bf21-158871fafaae",
+    "sourceid": "8f2afeb6-2c67-42d7-a9a8-57cb4eadc3c4",
+    "intressent_id": "",
+    "hangar_id": "5033941",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Lennerbrant",
+    "tilltalsnamn": "Per",
+    "sorteringsnamn": "Lennerbrant,Per",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Justitieombudsman i Riksdagens ombudsmän",
+    "person_url_xml": "http://data.riksdagen.se/person/8f2afeb6-2c67-42d7-a9a8-57cb4eadc3c4",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8f2afeb6-2c67-42d7-a9a8-57cb4eadc3c4_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8f2afeb6-2c67-42d7-a9a8-57cb4eadc3c4_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8f2afeb6-2c67-42d7-a9a8-57cb4eadc3c4_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "JO",
+        "roll_kod": "Justitieombudsman",
+        "ordningsnummer": "4",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2019-09-09",
+        "tom": "2023-09-09",
+        "uppgift": "Riksdagens ombudsmän",
+        "intressent_id": "",
+        "hangar_id": "5033941",
+        "sortering": "",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

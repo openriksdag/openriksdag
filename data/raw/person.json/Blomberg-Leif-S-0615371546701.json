@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "e08503ae-3a9d-4e2c-8165-f027b317231f",
+    "sourceid": "5f0d5556-b8ad-45c1-8c12-f3342649868f",
+    "intressent_id": "0615371546701",
+    "hangar_id": "2342102",
+    "fodd_ar": "1941",
+    "kon": "man",
+    "efternamn": "Blomberg",
+    "tilltalsnamn": "Leif",
+    "sorteringsnamn": "Blomberg,Leif",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare statsråd",
+    "person_url_xml": "http://data.riksdagen.se/person/5f0d5556-b8ad-45c1-8c12-f3342649868f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5f0d5556-b8ad-45c1-8c12-f3342649868f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5f0d5556-b8ad-45c1-8c12-f3342649868f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5f0d5556-b8ad-45c1-8c12-f3342649868f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "A",
+        "roll_kod": "Statsråd",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "Departement",
+        "from": "1994-10-07",
+        "tom": "1996-03-22",
+        "uppgift": "Arbetsmarknadsdepartementet",
+        "intressent_id": "0615371546701",
+        "hangar_id": "2342102",
+        "sortering": "100",
+        "organ_sortering": "",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

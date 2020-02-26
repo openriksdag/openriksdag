@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "149a8cc1-e918-4cba-9524-ae045bb5821e",
+    "sourceid": "dddbf85b-741c-4dc0-85c2-39cfe0c1c09e",
+    "intressent_id": "",
+    "hangar_id": "4788869",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Mood",
+    "tilltalsnamn": "Carina",
+    "sorteringsnamn": "Mood,Carina",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Ledamot i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/dddbf85b-741c-4dc0-85c2-39cfe0c1c09e",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dddbf85b-741c-4dc0-85c2-39cfe0c1c09e_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dddbf85b-741c-4dc0-85c2-39cfe0c1c09e_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dddbf85b-741c-4dc0-85c2-39cfe0c1c09e_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "RJ",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2016-11-01",
+          "tom": "2020-10-31",
+          "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+          "intressent_id": "",
+          "hangar_id": "4788869",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RJ",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2016-01-12",
+          "tom": "2016-10-31",
+          "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+          "intressent_id": "",
+          "hangar_id": "4788869",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

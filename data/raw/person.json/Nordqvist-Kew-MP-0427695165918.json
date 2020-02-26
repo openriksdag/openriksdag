@@ -1,0 +1,82 @@
+{
+  "person": {
+    "hangar_guid": "749e2555-8214-4728-9c54-011fc817535b",
+    "sourceid": "5585378b-cdb6-4ebe-bb99-f1c2d4fd67fb",
+    "intressent_id": "0427695165918",
+    "hangar_id": "2369325",
+    "fodd_ar": "1950",
+    "kon": "man",
+    "efternamn": "Nordqvist",
+    "tilltalsnamn": "Kew",
+    "sorteringsnamn": "Nordqvist,Kew",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "Jönköpings län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/5585378b-cdb6-4ebe-bb99-f1c2d4fd67fb",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5585378b-cdb6-4ebe-bb99-f1c2d4fd67fb_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5585378b-cdb6-4ebe-bb99-f1c2d4fd67fb_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5585378b-cdb6-4ebe-bb99-f1c2d4fd67fb_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "325",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-04",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0427695165918",
+          "hangar_id": "2369325",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0427695165918",
+          "hangar_id": "2369325",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "38",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-06-25",
+          "tom": "2014-09-29",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0427695165918",
+          "hangar_id": "2369325",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "true",
+        "typ": "val",
+        "intressent_id": "0427695165918",
+        "hangar_id": "2369325"
+      }
+    }
+  }
+}

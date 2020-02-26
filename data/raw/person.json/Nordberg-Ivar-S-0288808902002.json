@@ -1,0 +1,171 @@
+{
+  "person": {
+    "hangar_guid": "18f440f5-bca0-40e4-8a93-cadcf3797781",
+    "sourceid": "c3870b6b-6fc8-41c8-a1e1-cb0fb9a68a2d",
+    "intressent_id": "0288808902002",
+    "hangar_id": "2341845",
+    "fodd_ar": "1933",
+    "kon": "man",
+    "efternamn": "Nordberg",
+    "tilltalsnamn": "Ivar",
+    "sorteringsnamn": "Nordberg,Ivar",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/c3870b6b-6fc8-41c8-a1e1-cb0fb9a68a2d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c3870b6b-6fc8-41c8-a1e1-cb0fb9a68a2d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c3870b6b-6fc8-41c8-a1e1-cb0fb9a68a2d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c3870b6b-6fc8-41c8-a1e1-cb0fb9a68a2d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "34",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1990-01-12",
+          "tom": "1990-06-30",
+          "uppgift": "",
+          "intressent_id": "0288808902002",
+          "hangar_id": "2341845",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "34",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-05",
+          "tom": "1990-01-11",
+          "uppgift": "Björn Ericson 1988-10-05 - 1990-01-11",
+          "intressent_id": "0288808902002",
+          "hangar_id": "2341845",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "34",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1988-10-04",
+          "uppgift": "",
+          "intressent_id": "0288808902002",
+          "hangar_id": "2341845",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0288808902002",
+          "hangar_id": "2341845",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0288808902002",
+          "hangar_id": "2341845",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0288808902002",
+          "hangar_id": "2341845",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1976-10-04",
+          "tom": "1979-10-01",
+          "uppgift": "",
+          "intressent_id": "0288808902002",
+          "hangar_id": "2341845",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-01-18",
+          "tom": "1990-06-30",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0288808902002",
+          "hangar_id": "2341845",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "ombudsman",
+          "typ": "titlar",
+          "intressent_id": "0288808902002",
+          "hangar_id": "2341845"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0288808902002",
+          "hangar_id": "2341845"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "person": {
+    "hangar_guid": "2d93f6d2-3dc3-424c-a66b-daa6d2dc7216",
+    "sourceid": "1e5d63bb-4abf-415c-b1e4-68e4bbaaef44",
+    "intressent_id": "0813946968912",
+    "hangar_id": "2342786",
+    "fodd_ar": "1953",
+    "kon": "kvinna",
+    "efternamn": "Söderström",
+    "tilltalsnamn": "Elvy",
+    "sorteringsnamn": "Söderström,Elvy",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/1e5d63bb-4abf-415c-b1e4-68e4bbaaef44",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1e5d63bb-4abf-415c-b1e4-68e4bbaaef44_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1e5d63bb-4abf-415c-b1e4-68e4bbaaef44_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1e5d63bb-4abf-415c-b1e4-68e4bbaaef44_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "323",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0813946968912",
+          "hangar_id": "2342786",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "VB",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1991-10-18",
+          "tom": "1994-10-03",
+          "uppgift": "Valberedningen",
+          "intressent_id": "0813946968912",
+          "hangar_id": "2342786",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0813946968912",
+          "hangar_id": "2342786",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0813946968912",
+          "hangar_id": "2342786",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

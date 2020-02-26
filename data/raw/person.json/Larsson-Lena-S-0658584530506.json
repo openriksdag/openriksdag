@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "5fe9453d-1d7e-4ca4-8c70-85ccb1527ed4",
+    "sourceid": "ee6c625c-c8d4-43b8-bc7d-6a5f745c4c0f",
+    "intressent_id": "0658584530506",
+    "hangar_id": "2342439",
+    "fodd_ar": "1947",
+    "kon": "kvinna",
+    "efternamn": "Larsson",
+    "tilltalsnamn": "Lena",
+    "sorteringsnamn": "Larsson,Lena",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/ee6c625c-c8d4-43b8-bc7d-6a5f745c4c0f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ee6c625c-c8d4-43b8-bc7d-6a5f745c4c0f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ee6c625c-c8d4-43b8-bc7d-6a5f745c4c0f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ee6c625c-c8d4-43b8-bc7d-6a5f745c4c0f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "167",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1994-10-03",
+          "tom": "1998-10-05",
+          "uppgift": "",
+          "intressent_id": "0658584530506",
+          "hangar_id": "2342439",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1996-04-18",
+          "tom": "1998-10-04",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0658584530506",
+          "hangar_id": "2342439",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1998-10-04",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "0658584530506",
+          "hangar_id": "2342439",
+          "sortering": "30",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "ombudsman",
+          "typ": "titlar",
+          "intressent_id": "0658584530506",
+          "hangar_id": "2342439"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0658584530506",
+          "hangar_id": "2342439"
+        }
+      ]
+    }
+  }
+}

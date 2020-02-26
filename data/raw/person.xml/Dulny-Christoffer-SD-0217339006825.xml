@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">8016443b-36b4-4087-a9e0-64d62a727359</hangar_guid>
+<sourceid datatype="string">d5d83d1e-21ba-49c0-8925-330d26b16bea</sourceid>
+<intressent_id datatype="string">0217339006825</intressent_id>
+<hangar_id datatype="int32">3057356</hangar_id>
+<fodd_ar datatype="int16">1983</fodd_ar>
+<kon datatype="string">man</kon>
+<efternamn datatype="string">Dulny</efternamn>
+<tilltalsnamn datatype="string">Christoffer</tilltalsnamn>
+<sorteringsnamn datatype="string">Dulny,Christoffer</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">SD</parti>
+<valkrets datatype="string">Västra Götalands läns östra</valkrets>
+<status datatype="string">Tidigare riksdagsledamot</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/d5d83d1e-21ba-49c0-8925-330d26b16bea</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/d5d83d1e-21ba-49c0-8925-330d26b16bea_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/d5d83d1e-21ba-49c0-8925-330d26b16bea_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/d5d83d1e-21ba-49c0-8925-330d26b16bea_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">131</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2014-09-29</from>
+<tom datatype="datetime">2014-09-29</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0217339006825</intressent_id>
+<hangar_id datatype="int32">3057356</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+<uppgift>
+<kod datatype="string">Officiell e-postadress</kod>
+<uppgift datatype="string">christoffer.dulny[på]riksdagen.se</uppgift>
+<typ datatype="string">eadress</typ>
+<intressent_id datatype="string">0217339006825</intressent_id>
+<hangar_id datatype="int32">3057356</hangar_id>
+</uppgift>
+<uppgift>
+<kod datatype="string">Tjänstetelefon</kod>
+<uppgift datatype="string">66487</uppgift>
+<typ datatype="string">telefonnummer</typ>
+<intressent_id datatype="string">0217339006825</intressent_id>
+<hangar_id datatype="int32">3057356</hangar_id>
+</uppgift>
+</personuppgift>
+</person>

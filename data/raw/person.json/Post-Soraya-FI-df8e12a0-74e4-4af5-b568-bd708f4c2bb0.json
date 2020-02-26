@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "f7082c5f-414a-4005-9e85-9f7791fbf868",
+    "sourceid": "df8e12a0-74e4-4af5-b568-bd708f4c2bb0",
+    "intressent_id": "",
+    "hangar_id": "4788846",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Post",
+    "tilltalsnamn": "Soraya",
+    "sorteringsnamn": "Post,Soraya",
+    "iort": "",
+    "parti": "FI",
+    "valkrets": "",
+    "status": "Tidigare europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/df8e12a0-74e4-4af5-b568-bd708f4c2bb0",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/df8e12a0-74e4-4af5-b568-bd708f4c2bb0_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/df8e12a0-74e4-4af5-b568-bd708f4c2bb0_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/df8e12a0-74e4-4af5-b568-bd708f4c2bb0_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "EP",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "20",
+        "status": "",
+        "typ": "Europaparlamentet",
+        "from": "2014-07-01",
+        "tom": "2019-07-02",
+        "uppgift": "Europaparlamentet",
+        "intressent_id": "",
+        "hangar_id": "4788846",
+        "sortering": "30",
+        "organ_sortering": "100",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "person": {
+    "hangar_guid": "848ae540-fd7f-4fc3-a474-ec81b3535080",
+    "sourceid": "0c27c996-eca3-4169-8dd8-6c69f8189440",
+    "intressent_id": "0316177736318",
+    "hangar_id": "2342854",
+    "fodd_ar": "1955",
+    "kon": "man",
+    "efternamn": "Thorén",
+    "tilltalsnamn": "Sverker",
+    "sorteringsnamn": "Thorén,Sverker",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "Kalmar län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/0c27c996-eca3-4169-8dd8-6c69f8189440",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0c27c996-eca3-4169-8dd8-6c69f8189440_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0c27c996-eca3-4169-8dd8-6c69f8189440_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0c27c996-eca3-4169-8dd8-6c69f8189440_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "137",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2002-09-30",
+          "tom": "2006-10-02",
+          "uppgift": "",
+          "intressent_id": "0316177736318",
+          "hangar_id": "2342854",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "NR",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2002-10-15",
+          "tom": "2006-10-02",
+          "uppgift": "Nordiska rådets svenska delegation",
+          "intressent_id": "0316177736318",
+          "hangar_id": "2342854",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-15",
+          "tom": "2004-09-14",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0316177736318",
+          "hangar_id": "2342854",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0316177736318",
+          "hangar_id": "2342854",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2004-09-14",
+          "tom": "2006-10-02",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0316177736318",
+          "hangar_id": "2342854",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UMJU",
+          "roll_kod": "Deputerad",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2003-02-18",
+          "tom": "2003-05-21",
+          "uppgift": "Sammansatta utrikes-, miljö- och jordbruksutskottet",
+          "intressent_id": "0316177736318",
+          "hangar_id": "2342854",
+          "sortering": "40",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "lärare",
+          "typ": "titlar",
+          "intressent_id": "0316177736318",
+          "hangar_id": "2342854"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Teacher",
+          "typ": "titlar",
+          "intressent_id": "0316177736318",
+          "hangar_id": "2342854"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0316177736318",
+          "hangar_id": "2342854"
+        }
+      ]
+    }
+  }
+}

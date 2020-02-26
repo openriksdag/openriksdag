@@ -1,0 +1,790 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5036799</hangar_id>
+    <dok_id datatype="string">H603152</dok_id>
+    <rm datatype="string">2018/19</rm>
+    <beteckning datatype="string">152</beteckning>
+    <typ datatype="string">prop</typ>
+    <subtyp datatype="string">skr</subtyp>
+    <doktyp datatype="string">prop</doktyp>
+    <typrubrik datatype="string">Skrivelse 2018/19:152</typrubrik>
+    <dokumentnamn datatype="string">Skrivelse</dokumentnamn>
+    <debattnamn datatype="string">Proposition</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">Infrastrukturdepartementet</organ>
+    <mottagare datatype="string">CU</mottagare>
+    <nummer datatype="int32">152</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2019-06-18 00:00:00</datum>
+    <systemdatum datatype="datetime">2019-06-19 08:34:46</systemdatum>
+    <publicerad datatype="datetime">2019-06-18 00:00:00</publicerad>
+    <titel datatype="string">Byggnaders energiprestanda</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">Hänvisad</status>
+    <htmlformat datatype="string">html-ec</htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">prop-RIM</source>
+    <sourceid datatype="string">74d23911-1fa1-4b08-a549-f51b23de3cde</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H603152/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H603152</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H603152</dokumentstatus_url_xml>
+    <html datatype="text">&lt;div style="margin:3px;"&gt;
+&lt;STYLE type="text/css"&gt;
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:10px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_1 #p1dimg1 {position:absolute;top:0px;left:546px;z-index:-1;width:54px;height:97px;}
+#page_1 #p1dimg1 #p1img1 {width:54px;height:97px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 586px;}
+#page_2 #id_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_2 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:16px 0px 20px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_6 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_6 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+#page_7 #p7dimg1 {position:absolute;top:199px;left:63px;z-index:-1;width:455px;height:359px;}
+#page_7 #p7dimg1 #p7img1 {width:455px;height:359px;}
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+#page_8 #p8dimg1 {position:absolute;top:524px;left:105px;z-index:-1;width:409px;height:234px;}
+#page_8 #p8dimg1 #p8img1 {width:409px;height:234px;}
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_9 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_9 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 180px;overflow: hidden;}
+
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_11 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_11 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_12 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_12 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_13 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_13 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_14 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_14 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_15 #p15dimg1 {position:absolute;top:219px;left:63px;z-index:-1;width:112px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_15 #p15dimg1 #p15img1 {width:112px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  18px 'Verdana' !important;l-h: 29px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft2{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft3{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft4{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft5{font:  10px 'Verdana' !important;l-h: 8px;}
+.ft6{font:  14px 'Verdana' !important;margin-left: 51px;l-h: 22px;}
+.ft7{font:  10px 'Verdana' !important;l-h: 12px;position: relative; bottom: 5px;}
+.ft8{font:  12px 'Verdana' !important;margin-left: 18px;l-h: 15px;}
+.ft9{font:  12px 'Verdana' !important;margin-left: 18px;l-h: 16px;}
+.ft10{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft11{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft12{font:  10px 'Verdana' !important;l-h: 8px;}
+.ft13{font:  10px 'Verdana' !important;l-h: 12px;}
+.ft14{font:  12px 'Verdana' !important;l-h: 12px;}
+.ft15{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft16{font:  10px 'Verdana' !important;l-h: 5px;}
+.ft17{font:  10px 'Verdana' !important;l-h: 12px;}
+.ft18{font:  14px 'Verdana' !important;margin-left: 51px;l-h: 23px;}
+.ft19{font:  14px 'Verdana' !important;l-h: 23px;}
+.ft20{font:  14px 'Verdana' !important;margin-left: 50px;l-h: 22px;}
+.ft21{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft22{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft23{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft24{font:  10px 'Verdana' !important;l-h: 10px;}
+
+.p0{text-align: left;padding-left: 0px;padding-right: 441px;margin-top: 26px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p4{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 0px;margin-top: 32px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 180px;padding-right: 357px;margin-top: 20px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 0px;margin-top: 52px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 27px;margin-bottom: 0px !important;}
+.p10{text-align: right;padding-right: 42px;margin-top: 278px;margin-bottom: 0px !important;}
+.p11{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p12{text-align: left;margin-top: 753px;margin-bottom: 0px !important;}
+.p13{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p14{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p15{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p17{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 16px;margin-bottom: 0px !important;}
+.p18{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p19{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p20{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 54px;margin-bottom: 0px !important;text-indent: 0.61px;}
+.p21{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 18px;margin-bottom: 0px !important;}
+.p22{text-align: right;margin-top: 83px;margin-bottom: 0px !important;}
+.p23{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p24{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 16px;margin-bottom: 0px !important;text-indent: 7px;}
+.p25{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p26{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;}
+.p27{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p28{text-align: left;padding-left: 140px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 0.24px;}
+.p29{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p30{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 17px;margin-bottom: 0px !important;}
+.p31{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 6px;margin-bottom: 0px !important;}
+.p32{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p33{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p34{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p35{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p36{text-align: left;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;}
+.p37{text-align: left;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;}
+.p38{text-align: left;padding-right: 168px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p39{text-align: left;margin-top: 16px;margin-bottom: 0px !important;}
+.p40{text-align: left;padding-right: 168px;margin-top: 6px;margin-bottom: 0px !important;}
+.p41{text-align: left;padding-left: 0px;padding-right: 273px;margin-top: 55px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p42{text-align: left;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;}
+.p43{text-align: left;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p44{text-align: left;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p45{text-align: left;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p46{text-align: left;padding-right: 63px;margin-top: 6px;margin-bottom: 0px !important;}
+.p47{text-align: left;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p48{text-align: left;padding-left: 0px;padding-right: 6px;margin-top: 0px;margin-bottom: 0px !important;}
+.p49{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 1px;margin-bottom: 0px !important;}
+.p50{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 17px;margin-bottom: 0px !important;}
+.p51{text-align: left;padding-left: 0px;padding-right: 126px;margin-top: 424px;margin-bottom: 0px !important;text-indent: 0.61px;}
+.p52{text-align: right;margin-top: 0px;margin-bottom: 0px !important;}
+.p53{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p54{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 21px;margin-bottom: 0px !important;text-indent: 11px;}
+.p55{text-align: left;padding-left: 140px;padding-right: 84px;margin-top: 52px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p56{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 20px;margin-bottom: 0px !important;}
+.p57{text-align: left;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p58{text-align: left;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p59{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p60{text-align: right;padding-right: 42px;margin-top: 752px;margin-bottom: 0px !important;}
+.p61{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p62{text-align: left;padding-left: 0px;margin-top: 21px;margin-bottom: 0px !important;}
+.p63{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 6px;margin-bottom: 0px !important;}
+.p64{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;}
+.p65{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p66{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;}
+.p67{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p68{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p69{text-align: left;padding-right: 0px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p70{text-align: left;margin-top: 20px;margin-bottom: 0px !important;}
+.p71{text-align: left;padding-right: 0px;margin-top: 5px;margin-bottom: 0px !important;}
+.p72{text-align: left;padding-right: 0px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 11px;}
+.p73{text-align: left;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p74{text-align: left;margin-top: 15px;margin-bottom: 0px !important;}
+.p75{text-align: left;margin-top: 17px;margin-bottom: 0px !important;}
+.p76{text-align: left;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 18px;}
+.p77{text-align: left;margin-top: 18px;margin-bottom: 0px !important;}
+.p78{text-align: left;padding-right: 0px;margin-top: 6px;margin-bottom: 0px !important;}
+.p79{text-align: left;padding-right: 0px;margin-top: 18px;margin-bottom: 0px !important;text-indent: 11px;}
+.p80{text-align: left;padding-right: 0px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p81{text-align: left;padding-left: 440px;margin-top: 0px;margin-bottom: 0px !important;}
+.p82{text-align: left;padding-left: 0px;margin-top: 33px;margin-bottom: 0px !important;}
+.p83{text-align: left;padding-left: 0px;margin-top: 14px;margin-bottom: 0px !important;}
+.p84{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p85{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p86{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p87{text-align: left;padding-left: 0px;margin-top: 76px;margin-bottom: 0px !important;}
+.p88{text-align: right;padding-right: 42px;margin-top: 485px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 328px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 198px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 328px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 198px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 396px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 14px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 16px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 380px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 36px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 389px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 97px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 7px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 116px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 399px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 515px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 468px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 61px;vertical-align: bottom;}
+
+.tr0{heightzzz: 27px;}
+.tr1{heightzzz: 23px;}
+.tr2{heightzzz: 33px;}
+.tr3{heightzzz: 22px;}
+.tr4{heightzzz: 15px;}
+.tr5{heightzzz: 16px;}
+.tr6{heightzzz: 26px;}
+.tr7{heightzzz: 18px;}
+.tr8{heightzzz: 8px;}
+.tr9{heightzzz: 14px;}
+.tr10{heightzzz: 12px;}
+.tr11{heightzzz: 13px;}
+.tr12{heightzzz: 20px;}
+.tr13{heightzzz: 5px;}
+
+.t0{width: 552px;margin-leftZ: 69px;margin-top: 11px;f:20px 'Verdana' !important;}
+.t1{width: 431px;f:13px 'Verdana' !important;}
+.t2{width: 548px;margin-leftZ: 68px;f:20px 'Verdana' !important;}
+.t3{width: 547px;margin-top: 29px;f:10px 'Verdana' !important;}
+.t4{width: 555px;margin-top: 14px;f:italic 13px 'Verdana' !important;}
+
+&lt;/STYLE&gt;
+
+
+
+&lt;DIV id="page_1"&gt;
+&lt;DIV id="p1dimg1"&gt;
+&lt;INGENBILD zsrc="H6031521x1.jpg/" id="p1img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV class="dclr"&gt;&lt;/DIV&gt;
+&lt;P class="p0 ft0"&gt;Regeringens skrivelse 2018/19:152&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t0"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr0 td0"&gt;&lt;SPAN class="p1 ft1"&gt;Byggnaders energiprestanda&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td1"&gt;&lt;SPAN class="p2 ft1"&gt;Skr.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td2"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td3"&gt;&lt;SPAN class="p2 ft1"&gt;2018/19:152&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p4 ft3"&gt;Regeringen överlämnar denna skrivelse till riksdagen.&lt;/P&gt;
+&lt;P class="p5 ft3"&gt;Stockholm den 13 juni 2019&lt;/P&gt;
+&lt;P class="p6 ft4"&gt;Stefan Löfven&lt;/P&gt;
+&lt;P class="p7 ft4"&gt;Anders Ygeman &lt;SPAN class="ft3"&gt;(Infrastrukturdepartementet)&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p8 ft1"&gt;Skrivelsens huvudsakliga innehåll&lt;/P&gt;
+&lt;P class="p9 ft3"&gt;I skrivelsen redogör regeringen för sin syn på systemgränsen för byggnaders energiprestanda. Regeringen gör vidare bedömningen att byggreglerna på ett kostnadseffektivt sätt ska bidra till teknikneutrala val av hållbara, dvs. &lt;NOBR&gt;icke-fossilbränslebaserade&lt;/NOBR&gt; uppvärmningssystem, långsiktigt energieffektiva byggnader med bra klimatskärm samt en effektiv elanvändning i uppvärmningen och att reglerna ska beakta effektutmaningen.&lt;/P&gt;
+&lt;P class="p10 ft3"&gt;1&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_2"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p11 ft3"&gt;Skr. 2018/19:152&lt;/P&gt;
+&lt;P class="p12 ft3"&gt;2&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t1"&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr0 td4"&gt;&lt;SPAN class="p3 ft1"&gt;Innehållsförteckning&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td5"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td6"&gt;&lt;SPAN class="p3 ft3"&gt;&lt;A href="#page_3"&gt;1&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td7"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_3"&gt;Ärendet..............................................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td5"&gt;&lt;SPAN class="p14 ft3"&gt;&lt;A href="#page_3"&gt;3&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p3 ft3"&gt;&lt;A href="#page_3"&gt;2&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td7"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_3"&gt;Direktivet om byggnaders energiprestanda.......................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td5"&gt;&lt;SPAN class="p14 ft3"&gt;&lt;A href="#page_3"&gt;3&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p3 ft3"&gt;&lt;A href="#page_5"&gt;3&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td7"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_5"&gt;Systemgräns för byggnaders energiprestanda ...................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td5"&gt;&lt;SPAN class="p14 ft3"&gt;&lt;A href="#page_5"&gt;5&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p3 ft3"&gt;&lt;A href="#page_7"&gt;4&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td7"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_7"&gt;Energikommissionens bedömningar i fråga om systemgränsen&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td5"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td7"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_7"&gt;för byggnaders energiprestanda ........................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td5"&gt;&lt;SPAN class="p14 ft3"&gt;&lt;A href="#page_7"&gt;7&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p3 ft3"&gt;&lt;A href="#page_8"&gt;5&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td7"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_8"&gt;Energikraven ska bidra till en effektiv styrning och vara&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td5"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td7"&gt;&lt;SPAN class="p13 ft3"&gt;&lt;A href="#page_8"&gt;teknikneutrala....................................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td5"&gt;&lt;SPAN class="p14 ft3"&gt;&lt;A href="#page_8"&gt;8&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr3 td4"&gt;&lt;SPAN class="p3 ft3"&gt;&lt;A href="#page_15"&gt;Utdrag ur protokoll vid regeringssammanträde den 13 juni 2019...........&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td5"&gt;&lt;SPAN class="p14 ft3"&gt;&lt;A href="#page_15"&gt;15&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_3"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t2"&gt;
+&lt;TR&gt;
+	&lt;TD rowspan=2 class="tr6 td8"&gt;&lt;SPAN class="p15 ft1"&gt;1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD rowspan=2 class="tr6 td9"&gt;&lt;SPAN class="p16 ft1"&gt;Ärendet&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td10"&gt;&lt;SPAN class="p3 ft3"&gt;Skr. 2018/19:152&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td10"&gt;&lt;SPAN class="p3 ft5"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p17 ft3"&gt;I mars 2015 beslutade regeringen att tillsätta en kommitté i form av en parlamentariskt sammansatt kommission för översyn av energipolitiken (dir. 2015:25). Kommittén antog namnet Energikommissionen. Energikommissionens uppdrag var att bl.a. ta fram underlag för en bred överenskommelse om energipolitiken med särskilt fokus på förhållandena för elförsörjningen efter åren &lt;NOBR&gt;2025–2030.&lt;/NOBR&gt; Den 10 juni 2016 slöts en ramöverenskommelse om den svenska energipolitiken mellan Socialdemokraterna, Moderaterna, Miljöpartiet de gröna, Centerpartiet och Kristdemokraterna.&lt;/P&gt;
+&lt;P class="p18 ft3"&gt;Ramöverenskommelsen (även kallad energiöverenskommelsen) ligger till grund för de förslag och bedömningar som finns i Energikommissionens betänkande Kraftsamling för framtidens energi (SOU 2017:2). Betänkandet har remissbehandlats (dnr M2017/00026/Ee).&lt;/P&gt;
+&lt;P class="p19 ft3"&gt;I propositionen Energipolitikens inriktning (prop. 2017/18:228) föreslog regeringen nya energipolitiska mål samt redovisade sin bedömning av energipolitikens inriktning med utgångspunkt i de förslag och bedömningar som Energikommissionen redovisat i sitt betänkande. De bedömningar om systemgränsen för byggnaders energiprestanda som redovisades i betänkandet behandlades dock inte i propositionen. Regeringen aviserade i stället att man avsåg att återkomma till riksdagen i denna fråga i ett annat ärende. Regeringen överlämnar därför denna skrivelse till riksdagen. I skrivelsen redogör regeringen för att kraven på byggnaders energiprestanda även i fortsättningen ska utgå från systemgränsen levererad energi uttryckt i primärenergi. Regeringen gör vidare bedömningen att byggreglerna på ett kostnadseffektivt sätt ska bidra till teknikneutrala val av hållbara, dvs. &lt;NOBR&gt;icke-fossilbränslebaserade&lt;/NOBR&gt; uppvärmningssystem, långsiktigt energieffektiva byggnader med bra klimatskärm samt en effektiv elanvändning i uppvärmningen och att reglerna ska beakta effektutmaningen.&lt;/P&gt;
+&lt;P class="p20 ft1"&gt;&lt;SPAN class="ft1"&gt;2&lt;/SPAN&gt;&lt;SPAN class="ft6"&gt;Direktivet om byggnaders energiprestanda&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p21 ft3"&gt;Europaparlamentets och rådets direktiv 2002/91/EG av den 16 december 2002 om byggnaders energiprestanda antogs 2002 och har till syfte att förbättra byggnaders energiprestanda samtidigt som hänsyn tas till utomhusklimat och lokala förhållanden samt till krav på inomhusklimat och kostnadseffektivitet. Ett övergripande mål är att minska den energi som behövs för att uppfylla energibehovet vid normal användning av&lt;/P&gt;
+&lt;P class="p22 ft3"&gt;3&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_4"&gt;
+
+
+&lt;P class="p23 ft3"&gt;Skr. 2018/19:152 byggnader. Direktivet reviderades 2010&lt;SPAN class="ft7"&gt;1 &lt;/SPAN&gt;och har återigen omarbetats 2018&lt;SPAN class="ft7"&gt;2&lt;/SPAN&gt;.&lt;/P&gt;
+&lt;P class="p24 ft3"&gt;Vid beräkningen av en byggnads energiprestanda ska de krav som finns i direktivet uppfyllas. I texterna nedan beskrivs bestämmelserna efter den senaste omarbetningen av direktivet. Det omarbetade direktivet ska vara genomfört senast den 10 mars 2020.&lt;/P&gt;
+&lt;P class="p25 ft4"&gt;Beräkning av en byggnads energiprestanda&lt;/P&gt;
+&lt;P class="p26 ft3"&gt;När en byggnads energiprestanda beräknas ska flera olika aspekter beaktas:&lt;/P&gt;
+&lt;P class="p27 ft3"&gt;&lt;SPAN class="ft3"&gt;•&lt;/SPAN&gt;&lt;SPAN class="ft8"&gt;Systemgräns: Vad omfattas av beräkningen?&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p28 ft10"&gt;&lt;SPAN class="ft3"&gt;•&lt;/SPAN&gt;&lt;SPAN class="ft9"&gt;Primärenergi- eller viktningsfaktorer: Hur tas det hänsyn till energi som tillförs av olika energibärare?&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p29 ft3"&gt;&lt;SPAN class="ft3"&gt;•&lt;/SPAN&gt;&lt;SPAN class="ft8"&gt;Nivå: Vilken nivå ska energikraven för byggnader ha?&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p30 ft3"&gt;I direktivet anges att medlemsstaterna ska ta fram en metod för beräkningen (artikel 3). Metoden ska följa den gemensamma allmänna ramen enligt bilaga I till direktivet. Minimikrav angående energiprestanda ska fastställas i avsikt att uppnå kostnadsoptimala nivåer (minimikrav enligt artikel 4) både för nya byggnader (artikel 6) och befintliga byggnader (artikel 7). Den ska även finnas med i energideklarationen för en byggnad vilket framgår av definitionen av energicertifikat (i artikel 2.12).&lt;/P&gt;
+&lt;P class="p25 ft4"&gt;Vad ska omfattas av systemgränsberäkningen?&lt;/P&gt;
+&lt;P class="p31 ft11"&gt;I första punkten första stycket i bilaga I till direktivet anges att en byggnads energiprestanda ska bestämmas på grundval av den beräknade eller faktiska energianvändningen och återspegla normal energianvändning för rumsuppvärmning, rumskylning, varmvatten för hushållsbruk, ventilation och fast belysning samt för andra installationssystem.&lt;/P&gt;
+&lt;P class="p32 ft3"&gt;I tredje punkten anges att metoden för beräkning av en byggnads energiprestanda ska fastställas med beaktande av åtminstone de faktorer som räknas upp i de efterföljande punkterna &lt;NOBR&gt;a–i.&lt;/NOBR&gt; I punkten a) anges byggnadens termiska egenskaper. Därefter anges i punkterna &lt;NOBR&gt;b–i&lt;/NOBR&gt; faktorer som rör installationer och andra funktioner i byggnaden.&lt;/P&gt;
+&lt;P class="p33 ft4"&gt;Hur ska hänsyn tas till energi som tillförs av olika energibärare?&lt;/P&gt;
+&lt;P class="p31 ft3"&gt;Enligt första punkten andra stycket i bilaga I till direktivet ska en byggnads energiprestanda uttryckas med en numerisk indikator för primärenergianvändning i enheten kWh/m&lt;SPAN class="ft7"&gt;2 &lt;/SPAN&gt;och år både för certifiering av energiprestanda (energideklarationsklassning) och för minimikraven för energiprestanda. Beräkningen av primärenergi ska, enligt andra punkten andra stycket i bilaga I, baseras på primärenergi- eller viktningsfaktorer. Vid&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t3"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td11"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td12"&gt;&lt;SPAN class="p34 ft12"&gt;1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td13"&gt;&lt;SPAN class="p35 ft13"&gt;Europaparlamentets och rådets direktiv 2010/31/EU av den 19 maj 2010 om byggnaders&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td11"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr10 td14"&gt;&lt;SPAN class="p34 ft14"&gt;energiprestanda.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td11"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td12"&gt;&lt;SPAN class="p34 ft12"&gt;2&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td13"&gt;&lt;SPAN class="p35 ft13"&gt;Europaparlamentets och rådets direktiv 2018/844/EU av den 30 maj 2018 om ändring av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD rowspan=2 class="tr0 td11"&gt;&lt;SPAN class="p14 ft3"&gt;4&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr11 td14"&gt;&lt;SPAN class="p34 ft13"&gt;direktiv 2010/31/EU om byggnaders energiprestanda och av direktiv 2012/27/EU om&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr9 td14"&gt;&lt;SPAN class="p34 ft15"&gt;energieffektivitet.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_5"&gt;
+
+
+&lt;P class="p36 ft3"&gt;tillämpningen av dessa faktorer på beräkningen av energiprestanda ska Skr. 2018/19:152 medlemsstaterna säkerställa att optimal energiprestanda för klimatskalet&lt;/P&gt;
+&lt;P class="p37 ft3"&gt;eftersträvas. I artikel 2 finns en definition av primärenergi. Primärenergi är energi från förnybara och &lt;NOBR&gt;icke-förnybara&lt;/NOBR&gt; energikällor som inte har genomgått någon omvandling.&lt;/P&gt;
+&lt;P class="p38 ft3"&gt;Bilaga I innehåller också ett tillägg om att medlemsstaterna vid beräkningen av primärenergifaktorerna får beakta energi från förnybara energikällor som levereras genom energibäraren och energi från förnybara energikällor som produceras och används på plats, förutsatt att detta tillämpas på ett &lt;NOBR&gt;icke-diskriminerade&lt;/NOBR&gt; sätt.&lt;/P&gt;
+&lt;P class="p39 ft4"&gt;Vilken nivå ska minimikraven ha?&lt;/P&gt;
+&lt;P class="p40 ft3"&gt;Enligt artikel 4 ska medlemsstaterna vidta nödvändiga åtgärder för att se till att minimikrav avseende byggnaders eller byggnadsenheters energiprestanda fastställs i avsikt att uppnå kostnadsoptimala nivåer. Nivån på energikraven ska ses över minst var femte år. En beskrivning av den jämförelsemetod som medlemsstaterna ska använda för beräkningen av kostnadsoptimala nivåer för minimikrav avseende energiprestanda för byggnader och byggnadselement finns i kommissionens delegerade förordning (EU) nr 244/2012 av den 16 januari 2012 om komplettering av Europaparlamentets och rådets direktiv 2010/31/EU om byggnaders energiprestanda genom fastställande av en ram för jämförelsemetod för beräkning av kostnadsoptimala nivåer för minimikrav avseende energiprestanda för byggnader och byggnadselement. I riktlinjer till den delegerade förordningen beskrivs beräkningsstegen i detalj (riktlinjer bifogade till kommissionens delegerade förordning (EU) nr 244/2012 av den 16 januari 2012 om komplettering av Europaparlamentets och rådets direktiv 2010/31/EU om byggnaders energiprestanda genom att fastställa en ram för jämförbara metoder för beräkning av kostnadsoptimala nivåer för minimikrav avseende byggnaders och byggnadselements energiprestanda (2012/C 115/01). Av den delegerade förordningen framgår att minimikraven för byggnaders energiprestanda inte bör vara mer än 15 procent lägre än den beräknade kostnadsoptimala nivån, men medlemsländerna har flexibilitet att gå utöver vad som är kostnadsoptimalt.&lt;/P&gt;
+&lt;P class="p41 ft1"&gt;3 Systemgräns för byggnaders energiprestanda&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t4"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p3 ft4"&gt;Systemgräns baserad på använd energi&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td15"&gt;&lt;SPAN class="p3 ft3"&gt;Använd energi (nettoenergi) ger information om byggnadens slutliga&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p3 ft3"&gt;energibehov för uppvärmning, komfortkyla, tappvarmvatten och&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p3 ft3"&gt;fastighetsel, men säger inget om vilken energi som levereras till&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p3 ft3"&gt;byggnaden eller effektiviteten i byggnadens installationssystem. För att&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p3 ft3"&gt;styra energianvändningen inom systemgränsen använd energi ställs kraven&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p3 ft3"&gt;på byggnadens isoleringsförmåga och täthet. Med energiprestandakrav&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td15"&gt;&lt;SPAN class="p3 ft3"&gt;som utgår från använd energi blir byggnadernas isoleringsförmåga&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td15"&gt;&lt;SPAN class="p3 ft3"&gt;styrande.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD rowspan=2 class="tr12 td16"&gt;&lt;SPAN class="p14 ft3"&gt;5&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p3 ft16"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_6"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p11 ft3"&gt;Skr. 2018/19:152&lt;/P&gt;
+&lt;P class="p12 ft3"&gt;6&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft4"&gt;Funktionskrav och systemgränsen levererad energi&lt;/P&gt;
+&lt;P class="p42 ft3"&gt;År 1994 införde Sverige att nytt sätt att ställa krav på byggnader. I stället för att ha detaljerade krav infördes funktionskrav. Ett funktionskrav innebär att föreskriften innehåller ett definierat krav (en prestanda) som ska uppnås. Lösningen för att uppfylla kravet kan se olika ut. Syftet med att utforma reglerna som funktionskrav är att främja teknisk utveckling och konkurrens. För såväl byggnader som för hur energikraven kan uppfyllas innebär det att man kan arbeta med hög isoleringsförmåga på byggnadens klimatskärm och samtidigt arbeta med energieffektiva installationer (värmepumpar med hög verkningsgrad, ventilationsanläggningar med värmeåtervinning och utnyttjande av andra effektiva installationer) för att byggnaden sammantaget ska få goda egenskaper när det gäller energieffektivitet.&lt;/P&gt;
+&lt;P class="p43 ft3"&gt;Systemgränsen levererad energi är i linje med principen att reglera med funktionskrav. Systemgränsen levererad energi ger information om den energi som årligen levereras till en byggnad för uppvärmning, komfortkyla, tappvarmvatten och byggnadens fastighetsenergi. Systemgränsen levererad energi innebär att gränsen, jämförd med använd energi, utvidgas och även omfattar byggnadens system för energitillförsel.&lt;/P&gt;
+&lt;P class="p44 ft3"&gt;Levererad energi beskriver byggnadens behov av tillförd energi. Omvandlingsförluster som sker i interna anläggningar i byggnaden och på tomten inkluderas, medan de som sker i anläggningar utanför tomten inte räknas in.&lt;/P&gt;
+&lt;P class="p45 ft3"&gt;Att energiprestandan ska uttryckas i primärenergi innebär att hänsyn tas till den totala energimängd som går åt för att producera den energi som levereras till byggnaden (utvinning av energiråvara, förädling, transporter, omvandling osv.). Den levererade energin delas upp i olika energibärare vars egenskaper beskrivs med hjälp av faktorer.&lt;/P&gt;
+&lt;P class="p39 ft4"&gt;De svenska energikraven i byggreglerna&lt;/P&gt;
+&lt;P class="p46 ft3"&gt;De svenska energiprestandakraven för byggnader finns i plan- och bygglagen (2010:900), plan- och byggförordningen (2011:338) och i Bo- verkets byggregler – föreskrifter och allmänna råd – BFS 2011:6. År 2016 beslutades även Boverkets föreskrifter och allmänna råd (BFS 2016:12) om fastställande av byggnadens energianvändning vid normalt brukande och ett normalår (BEN) i syfte att uppfylla kraven i det reviderade EU- direktivet om byggnaders energiprestanda (2010/31/EU). I BEN finns bestämmelser om hur byggnadens energianvändning ska fastställas, dels vid beräkning, dels utifrån mätning.&lt;/P&gt;
+&lt;P class="p47 ft3"&gt;Byggreglerna har sedan 2006 utgått från systemgränsen levererad energi. Byggreglerna innehåller ett övergripande krav på byggnadens energiprestanda. År 2006 infördes särskilda krav på elvärmda byggnader. Kraven skärptes 2009, 2012 och 2015. Sedan juli 2017 anges prestandan med ett primärenergital som beräknas utifrån den levererade energin. Frågan om utformningen och beräkningen av primärenergifaktorer per energibärare har varit föremål för utredning hos Boverket sedan 2016. Energiprestandan beräknas enligt anvisningarna i direktivet om byggnaders energiprestanda och omfattar byggnadens energianvändning för uppvärmning, varmvatten och fastighetsel och utrycks som ett primärenergital med enheten kWh/m&lt;SPAN class="ft7"&gt;2 &lt;/SPAN&gt;och år. Till kravet på energiprestanda finns&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_7"&gt;
+&lt;DIV id="p7dimg1"&gt;
+&lt;IMG src="http://data.riksdagen.se/fil/H603152/H6031527x1.jpg" style="width:474px;height:374px"  id="p7img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p48 ft3"&gt;också två kompletterande krav. Det ena är ett krav på klimatskärmens Skr. 2018/19:152 värmeisoleringsförmåga i form av en maximal genomsnittlig värmegenomgångskoefficient (U&lt;SPAN class="ft17"&gt;m&lt;/SPAN&gt;). Kravet garanterar att byggnaden har en viss&lt;/P&gt;
+&lt;P class="p49 ft3"&gt;bestämd isolerande förmåga, oavsett hur mycket energi som tillförs. Det andra kompletterande kravet ställs på den maximalt tillåtna installerade eleffekten för uppvärmning. Kravet innebär att det finns en gräns för hur stor sammanlagd eleffekt en byggnad får ha för att upprätthålla inomhusklimatet och produktionen av tappvarmvatten när behovet av eleffekt är som störst (vintertid).&lt;/P&gt;
+&lt;P class="p50 ft3"&gt;I Tabell 3.1 redovisas nuvarande energikrav och i Tabell 3.2 nuvarande primärenergifaktorer i Boverkets byggregler.&lt;/P&gt;
+&lt;P class="p51 ft19"&gt;&lt;SPAN class="ft1"&gt;4&lt;/SPAN&gt;&lt;SPAN class="ft18"&gt;Energikommissionens bedömningar i fråga om systemgränsen för byggnaders energiprestanda&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p17 ft3"&gt;I betänkandet Kraftsamling för framtidens energi (SOU 2017:2) gjorde Energikommissionen bedömningen att systemgränsen för byggnaders energiprestanda i Boverkets byggregler och definitionen av näranollenergibyggnad bör fokusera på använd energi i stället för, som i dag, levererad energi. Även den parlamentariska Miljömålsberedningen gjorde&lt;/P&gt;
+&lt;P class="p52 ft3"&gt;7&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_8"&gt;
+&lt;DIV id="p8dimg1"&gt;
+&lt;INGENBILD zsrc="H6031528x1.jpg/" id="p8img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p53 ft3"&gt;Skr. 2018/19:152 motsvarande ställningstagande i sitt delbetänkande (SOU 2016:47). Skälen som angavs i Energikommissionens betänkande var att befintlig systemgräns levererad energi gynnar individuella uppvärmningslösningar (t.ex. värmepumpar) framför gemensamma energisystem (t.ex. fjärrvärme). Energikommissionen ansåg att byggreglerna bör vara neutrala till valet mellan el och fjärrvärme genom att fokusera på använd energi snarare än levererad energi. Energikommissionen framhöll att en systemgräns som gynnar elbaserad uppvärmning riskerar att försämra effektbalansen i elsystemet vid hög andel direktverkande el eller gammal ineffektiv teknik, exempelvis feldimensionerade värmepumpar, eftersom elanvändningen riskerar att öka under redan ansträngda effektsituationer samtidigt som moderna värmepumpar med exempelvis varvtalsstyrning och värmelager kan bidra med viktiga lösningar vid ansträngda effektsituationer.&lt;/P&gt;
+&lt;P class="p54 ft3"&gt;Vidare gjorde Energikommissionen bedömningen att en effektiv användning av el och annan energi är gynnsam för såväl hushåll och företag som för det svenska elsystemet och att en effektivisering, framför allt vad gäller effekt, är särskilt viktig för att möta de framtida utmaningarna för det svenska elsystemet. Energikommissionen angav också i betänkandet att ett viktigt steg bör vara att se över regelverk på energiområdet och modifiera dem så att de är anpassade till effektutmaningen, dvs. systemets förmåga att tillhandahålla effekt under årets alla timmar. Energikommissionen ansåg att en effektiv elanvändning och en konkurrenskraftig fjärrvärmesektor är förutsättningar för att klara den framtida el- och värmeförsörjningen under kalla vinterdagar. Effektfrågan och frågan om en effektiv användning av energi behandlas i propositionen Energipolitikens inriktning (prop. 2017/18:228).&lt;/P&gt;
+&lt;P class="p55 ft1"&gt;&lt;SPAN class="ft1"&gt;5&lt;/SPAN&gt;&lt;SPAN class="ft20"&gt;Energikraven ska bidra till en effektiv styrning och vara teknikneutrala&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p56 ft3"&gt;&lt;SPAN class="ft21"&gt;Regeringens bedömning: &lt;/SPAN&gt;Byggreglerna ska på ett kostnadseffektivt sätt bidra till långsiktigt energieffektiva byggnader med bra klimatskärm och en effektiv elanvändning i uppvärmningen och beakta effektutmaningen. Byggreglerna ska vara neutrala till valet av hållbara, dvs. &lt;NOBR&gt;icke-fossil-&lt;/NOBR&gt; bränslebaserade uppvärmningssystem. Systemgränsen för byggnaders energiprestandakrav ska även i fortsättningen utgå från levererad energi uttryckt i primärenergi. Boverket och Statens energimyndighet (Energimyndigheten) ska ges i uppdrag att ta fram ett förslag om hur ett kompletterande krav som utgår ifrån byggnadens energibehov, dvs. använd energi, ska utformas med beaktande av samhällsekonomiska konsekvenser. Boverket och Energimyndigheten ska vidare ges i uppdrag att genomföra kontrollstationer för att följa upp och utvärdera kraven på byggnaders energiprestanda. Energiprestandakraven ska beräknas med viktningsfaktorer i stället för primärenergifaktorer men ska på samma sätt ta sikte på kostnadsoptimala nivåer.&lt;/P&gt;
+&lt;P class="p39 ft3"&gt;8&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_9"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p57 ft21"&gt;Energikommissionens bedömning &lt;SPAN class="ft3"&gt;överensstämmer inte med regeringens. Energikommissionen gjorde bedömningen att systemgränsen för byggnaders energiprestanda och definitionen för &lt;/SPAN&gt;&lt;NOBR&gt;&lt;SPAN class="ft3"&gt;nära-nollenergi-&lt;/SPAN&gt;&lt;/NOBR&gt;&lt;SPAN class="ft3"&gt; byggnader bör fokusera på använd energi i stället för levererad energi.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p58 ft11"&gt;&lt;SPAN class="ft22"&gt;Remissinstanserna: &lt;/SPAN&gt;Många remissinstanser har yttrat sig över Energikommissionens förslag om systemgränsen för energikrav på näranollenergibyggnader och en stor majoritet har tillstyrkt förslaget. Till dessa hör bland andra &lt;SPAN class="ft23"&gt;Länsstyrelsen i Hallands län, Karlshamns kommun, Sveriges Kommuner och Landsting, Energiföretagen Sverige, Världsnaturfonden, Eon Sverige AB &lt;/SPAN&gt;och &lt;SPAN class="ft23"&gt;Sveriges Allmännyttiga Bostadsbolag AB (SABO). Länsstyrelsen i Hallands län &lt;/SPAN&gt;anser att frågan om systemgränsen har bäring på effektproblematiken i elsystemet vid tillfällen med hög belastning och att det är en viktig fråga för konkurrenssituationen mellan exempelvis el och fjärrvärme&lt;SPAN class="ft23"&gt;. Sveriges Kommuner och Landsting &lt;/SPAN&gt;anser att Boverkets byggregler är utformade så att de lättare uppnås med värmepumpar än med fjärrvärme&lt;SPAN class="ft23"&gt;. Energiföretagen Sverige &lt;/SPAN&gt;framför att det är angeläget att energikraven i byggreglerna fokuserar på långsiktigt energieffektiva byggnader och inte på valet av uppvärmningslösning samt att energikraven bör räkna all tillförd energi till en byggnad lika oberoende av var den är producerad i energisystemet. &lt;SPAN class="ft23"&gt;E.on Sverige AB &lt;/SPAN&gt;anser att Boverkets byggregler missgynnar energi som produceras utanför fastighetsgränsen. &lt;SPAN class="ft23"&gt;Sveriges Allmännyttiga Bostadsbolag AB (SABO) &lt;/SPAN&gt;anser att systemgränsen använd energi sätter fokus på kvalitet och utformning av byggnaders klimatskal samtidigt som den innebär neutralitet mellan olika uppvärmningsformer. &lt;SPAN class="ft23"&gt;Boverket &lt;/SPAN&gt;bedömer att systemgränsen levererad energi är den som bäst uppfyller kriterierna i direktivet om byggnaders energiprestanda. Verket anser vidare att systemgränsen levererad energi ger byggherren flexibilitet att arbeta både med klimatskalet och med installationerna samt att levererad energi också stämmer med formatet for byggreglerna (funktionskrav), där ett krav ställs på vad som ska uppnås men inte i detalj hur detta ska göras. Boverket framför även att valet av systemgräns kan få effekt på vilket energislag som gynnas men att denna ojämnhet kan uppvägas genom användandet av primärenergifaktorer. &lt;SPAN class="ft23"&gt;Energimyndigheten &lt;/SPAN&gt;stöder i sitt remissyttrande Energikommissionens bedömning att Boverkets byggregler bör fokusera på använd energi. I skrivelser som kommit in efter remissförfarandet framför myndigheten dock att systemgränsen levererad energi bör läggas fast och att man därefter bör hitta vägar till det hållbara energisystemet. Som skäl för detta anger myndigheten att direktivet ställer krav på att en byggnads energiprestanda ska uttryckas med en numerisk indikator för primärenergianvändning och att den endast är möjlig att beräkna med utgångspunkt i systemgränsen levererad energi. Myndigheten framför också att det efter revideringen är förenligt med direktivet att använda viktningsfaktorer, och att detta är en fördel eftersom sådana faktorer kan användas för att balansera icke önskvärda konsekvenser av systemgränsen levererad energi medan primärenergifaktorer för tankarna till något som går att bestämma på naturvetenskaplig grund (dnr M2018/02201/Ee och dnr I2019/00916- 38/E). &lt;SPAN class="ft23"&gt;Sveriges Byggindustrier &lt;/SPAN&gt;ser det som ett problem att Boverket, EU- kommissionen och Energikommissionen har olika syn på hur krav på energiprestanda ska ställas. Remissvaren finns tillgängliga i Miljö- och energidepartementet (dnr M2017/00026/Ee).&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p59 ft3"&gt;Skr. 2018/19:152&lt;/P&gt;
+&lt;P class="p60 ft3"&gt;9&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_10"&gt;
+
+
+&lt;P class="p61 ft3"&gt;Skr. 2018/19:152&lt;/P&gt;
+&lt;P class="p62 ft21"&gt;Skälen för regeringens bedömning&lt;/P&gt;
+&lt;P class="p63 ft3"&gt;Energipolitikens grundpelare är försörjningstrygghet, konkurrenskraft och ekologisk hållbarhet. Energipolitiken ska skapa villkor för en effektiv och hållbar energianvändning och en kostnadseffektiv energiförsörjning med låg negativ påverkan på hälsa, miljö och klimat samt underlätta omställningen till ett ekologiskt hållbart samhälle. Utmaningarna i energipolitiken består till stor del av att balansera de tre grundpelarna för att nå önskat resultat. Vid utformningen av politiken måste Sverige som medlemsstat i EU även hålla sig inom de ramar som ges i olika &lt;NOBR&gt;EU-rätts-&lt;/NOBR&gt; akter. Bestämmelserna gällande byggnaders energiprestanda innehåller flera typer av krav och det är därför viktigt att se till helheten av dessa när enskilda delar diskuteras. Det väsentliga är att kravens samlade effekt styr mot önskad utveckling gällande både energisystemet och bostads- och byggnadspolitiken. Det innebär att kraven bl.a. behöver beakta målet för samhällsplanering, bostadsmarknad, byggande och lantmäteriverksamhet som är att ge alla människor i alla delar av landet en från social synpunkt god livsmiljö där en långsiktigt god hushållning med naturresurser och energi främjas samt där bostadsbyggande och ekonomisk utveckling underlättas.&lt;/P&gt;
+&lt;P class="p62 ft4"&gt;Värme i Sverige&lt;/P&gt;
+&lt;P class="p64 ft3"&gt;Sektorn bostäder och service, där ungefär 90 procent av energianvändningen utgörs av bebyggelsens energibehov, använder energi främst i form av fjärrvärme, el och biobränslen. Den totala energianvändningen för uppvärmning och varmvatten i bostäder och lokaler, exklusive upptagen värmeenergi från värmepumpar, uppgick till 80,5 TWh under 2017 (inklusive upptagen värmeenergi från värmepumpar ca 98 TWh). Under 2017 användes 46,2 TWh fjärrvärme, 20,8 TWh el, 11,8 TWh biobränsle och 1,8 TWh olja och gas för uppvärmning och varmvatten i bostäder och lokaler. Av denna energi användes ca 40 procent i småhus, 33 procent i flerbostadshus och 27 procent i lokaler. Sedan början av &lt;NOBR&gt;2000-talet&lt;/NOBR&gt; är de största förändringarna på den svenska värmemarknaden att olja för uppvärmning minskat kraftigt, att värmepumpar i stor omfattning ersatt direktverkande el och att användningen av fjärrvärme ökat något.&lt;/P&gt;
+&lt;P class="p65 ft4"&gt;Systemgränsen levererad energi&lt;/P&gt;
+&lt;P class="p66 ft3"&gt;Levererad energi är den systemgräns som infördes i byggreglerna vid genomförandet av det första direktivet om byggnaders energiprestanda. Under åren har anpassningar gjorts för att motsvara de krav som det omarbetade direktivet från 2010 ställer. Bl.a. har det gjorts anpassningar vid genomförandet av &lt;NOBR&gt;nära-nollenergikraven&lt;/NOBR&gt; 2017. En &lt;NOBR&gt;nära-nollenergi-&lt;/NOBR&gt; byggnad definieras som en byggnad som har mycket hög energiprestanda, som bestäms i enlighet med bilaga I till direktivet om byggnaders energiprestanda. &lt;NOBR&gt;Nära-nollnivån&lt;/NOBR&gt; ska ta sikte på kostnadsoptimala nivåer. Eftersom direktivet ställer krav på att byggnaders energiprestanda ska&lt;/P&gt;
+&lt;P class="p67 ft3"&gt;anges i primärenergi, är systemgränsen levererad energi den systemgräns&lt;/P&gt;
+&lt;P class="p11 ft3"&gt;10&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_11"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p68 ft3"&gt;som bedöms vara förenlig med direktivet. Det går inte att räkna fram primärenergianvändningen utan att inkludera installationerna och deras omvandlingsförluster.&lt;/P&gt;
+&lt;P class="p69 ft3"&gt;Systemgränsen levererad energi som utgångspunkt för energikraven har utvecklats under många år och är väletablerad. Den levererade energin viktas med primärenergifaktorer sedan 2017. Systemgränsen omfattar såväl klimatskärm som installationer. Den är förenlig med direktivet om byggnaders energiprestanda och kan, tillsammans med övriga kompletterande energikrav på byggnader, på ett kostnadseffektivt sätt bidra till långsiktigt energieffektiva byggnader med bra klimatskärm och en effektiv elanvändning i uppvärmningen. Den kan också möjliggöra byggregler som är neutrala till valet av hållbara, dvs. &lt;NOBR&gt;icke-fossilbränsle-&lt;/NOBR&gt; baserade uppvärmningssystem. Energiprestandakraven bör därför även i fortsättningen sättas med utgångspunkt i levererad energi. Däremot kan vissa förändringar beträffande övriga energikrav övervägas för att systemgränsen tillsammans med dessa kompletterande krav ska bidra till en kostnadsoptimal styrning. Det bör även genomföras regelbundna kontrollstationer för att säkerställa att avsedda effekter uppnås.&lt;/P&gt;
+&lt;P class="p70 ft4"&gt;Långsiktigt energieffektiva byggnader&lt;/P&gt;
+&lt;P class="p71 ft3"&gt;Utöver huvudkravet på en begränsad mängd levererad energi finns ett kompletterade krav i Boverkets föreskrifter på byggnadens klimatskärm i form av en maximal genomsnittlig värmegenomgångskoefficient (U&lt;SPAN class="ft17"&gt;m&lt;/SPAN&gt;). Syftet med det kompletterande kravet är att säkerställa att byggnaderna byggs med god värmeisolering och ett lågt effektbehov. Kravet finns för att säkerställa att en byggnad har en god klimatskärm i de fall då kravet på primärenergianvändning (levererad energi) uppfylls t.ex. genom installationer med mycket hög prestanda, och det ska säkerställa att byggnaden får en bra klimatskärm som håller hela brukstiden. Detta är angeläget då en byggnads klimatskärm har en betydligt längre livslängd jämfört med installationer. U&lt;SPAN class="ft17"&gt;m &lt;/SPAN&gt;är ett sammanvägt värde för isoleringsförmågan hos väggar, fönster, dörrar, golv och tak. Det finns en övre gräns för tillåtet U&lt;SPAN class="ft17"&gt;m &lt;/SPAN&gt;för de olika byggnadskategorierna småhus, flerbostadshus och lokaler. &lt;NOBR&gt;U&lt;SPAN class="ft17"&gt;m&lt;/SPAN&gt;-kravet&lt;/NOBR&gt; ska ta sin utgångspunkt i avvägningen mellan kostnaden för ytterligare förbättring av klimatskärmen och nyttan av minskade uppvärmningskostnader över tid. &lt;NOBR&gt;U&lt;SPAN class="ft17"&gt;m&lt;/SPAN&gt;-kravet&lt;/NOBR&gt; för småhus och lokaler bör ses över för att tillgodose att byggnader blir långsiktigt energieffektiva. Boverket planerar att genomföra en sådan ändring av byggreglerna.&lt;/P&gt;
+&lt;P class="p72 ft3"&gt;Energikommissionen har i sitt betänkande gjort bedömningen att systemgränsen bör fokusera på använd energi i stället för, som i dag, levererad energi. För att tillgodose detta ska Boverket och Energimyndigheten ges i uppdrag att ta fram ett förslag om hur ett kompletterande krav som utgår ifrån byggnadens energibehov, dvs. använd energi, ska utformas med beaktande av de samhällsekonomiska konsekvenserna. Uppdraget ska inte omfatta en översyn av huvudkravet som även fortsättningsvis ska vara baserat på systemgränsen levererad energi. Även behovet av andra kompletterande energikrav, exempelvis avseende solvärmelast, bör dock kunna utredas i detta sammanhang. En sådan utredning bör tillsättas snarast för att dess slutsatser ska kunna&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft3"&gt;Skr. 2018/19:152&lt;/P&gt;
+&lt;P class="p60 ft3"&gt;11&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_12"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p61 ft3"&gt;Skr. 2018/19:152&lt;/P&gt;
+&lt;P class="p12 ft3"&gt;12&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p73 ft3"&gt;omhändertas vid den första av de kontrollstationer som kommer att genomföras enligt nedan.&lt;/P&gt;
+&lt;P class="p74 ft4"&gt;Krav på installerad eleffekt&lt;/P&gt;
+&lt;P class="p46 ft3"&gt;I plan- och byggförordningen (2011:388) ställs krav på särskild hushållning med elenergi. Kravet specificeras i Boverkets byggregler och är formulerat som maximalt tillåten installerad eleffekt. Installerad eleffekt för uppvärmning definieras som den sammanlagda eleffekt som maximalt kan upptas av de elektriska apparater för uppvärmning som behövs för att upprätthålla avsett inomhusklimat och tappvarmvattenproduktion när byggnadens maximala effektbehov föreligger. Kravet har en grundnivå på 4,5 kW där tillägg kan tillåtas beroende på byggnadens storlek och var i Sverige byggnaden ligger. Följden av regleringen är att det i princip inte är möjligt att använda direktverkande el för uppvärmning av nya byggnader.&lt;/P&gt;
+&lt;P class="p43 ft3"&gt;Energikommissionen anger i sitt betänkande att ett viktigt steg bör vara att se över regelverk på energiområdet och modifiera dem så att de är anpassade till effektutmaningen, dvs. systemets förmåga att tillhandahålla effekt under årets alla timmar. Vidare anges att en effektiv elanvändning och en konkurrenskraftig fjärrvärmesektor är förutsättningar för att klara den framtida el- och värmeförsörjningen under kalla vinterdagar. Energikraven i byggreglerna bör utformas så att de bidrar till en effektiv elanvändning samt till kostnadsoptimalitet och beaktar effektutmaningen.&lt;/P&gt;
+&lt;P class="p75 ft4"&gt;Viktningsfaktorer bör ersätta primärenergifaktorer&lt;/P&gt;
+&lt;P class="p46 ft3"&gt;I bilaga I till direktivet om byggnaders energiprestanda anges att beräkningen av primärenergital ska baseras på primärenergi- eller viktningsfaktorer per energibärare. Begreppet viktningsfaktor fanns inte med i den tidigare versionen av direktivet. Bedömningen är därför att begreppen inte är synonyma. Det framgår av bilaga I att såväl primärenergi- som viktningsfaktorer kan baseras på nationella, regionala eller lokala viktade års- och eventuellt även säsongs- eller månadsmedelvärden eller på mer specifik information som görs tillgänglig för enskilda fjärrvärmenät. Det framgår även av bilagan att medlemsstaten, vid tillämpningen av faktorerna i beräkningen av energiprestandan, ska säkerställa att en optimal energiprestanda på klimatskalet eftersträvas. Medlemsstaterna har således stor frihet att sätta primärenergi- eller viktningsfaktorer under förutsättning att man eftersträvar sistnämnda krav på klimatskalet. I fråga om primärenergifaktorer ligger det dock en begränsning i uttrycket primärenergi som i direktivet definieras som energi utan omvandling. Detta innebär att primärenergifaktorerna bestäms utifrån energiförluster i energisystemet.&lt;/P&gt;
+&lt;P class="p76 ft3"&gt;I direktivet definieras inte vad som avses med viktningsfaktorer. Detta innebär att viktningsfaktorer till exempel bör kunna sättas för att eftersträva teknikneutralitet. Inriktningen är att viktningsfaktorer ska fastställas genom att byggnader i kostnadsoptimalt utförande med respektive uppvärmningssystem i nybyggnation ges samma primärenergital. Nivån på primärenergitalen bestäms utifrån beräkningar av kostnadsoptimalitet. Det kostnadsoptimala utförandet avseende klimatskärm och ventilation kan se olika ut för olika uppvärmningssystem.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_13"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p68 ft3"&gt;Genom att fastställa kostnadsoptimala energikrav för respektive byggnadskategori, uttryckta i primärenergital, skapas förutsättningar där olika uppvärmningssystem och andra tekniska lösningar konkurrerar med varandra på lika villkor. Byggreglerna ska vara neutrala till valet av hållbara, dvs. &lt;NOBR&gt;icke-fossilbränslebaserade&lt;/NOBR&gt; uppvärmningssystem. Eftersom det finns ett behov av den styrning som införandet av viktningsfaktorer skulle möjliggöra bör sådana faktorer ersätta nuvarande primärenergifaktorer. Att övergå från primärenergifaktorer till viktningsfaktorer vid beräkningen av energiprestanda kräver ändringar i plan- och byggförordningen. Regeringen avser att återkomma med förslag om sådana ändringar.&lt;/P&gt;
+&lt;P class="p77 ft4"&gt;Förnybar energi som alstras inom en byggnads tomtgräns&lt;/P&gt;
+&lt;P class="p78 ft11"&gt;I plan- och byggförordningen (2011:338) anges att energiprestanda är den mängd levererad energi som behövs för uppvärmning, kylning, ventilation, varmvatten och belysning vid ett normalt bruk av en byggnad, undantaget sådan energi från sol, vind, mark, luft eller vatten som alstras i byggnaden eller på dess tomt. Dessa tekniska lösningar är delar av byggnadens installationssystem. Genom det omarbetade direktivet får medlemsstaterna frihet att välja om energi från förnybara energikällor som levereras genom energibäraren och energi från förnybara energikällor som produceras och används på plats ska beaktas. Om sådan energi beaktas, är det en förutsättning att det sker på ett &lt;NOBR&gt;icke-diskriminerande&lt;/NOBR&gt; sätt.&lt;/P&gt;
+&lt;P class="p79 ft3"&gt;Bestämmelsen i plan- och byggförordningen om att förnybar energi som alstras i en byggnad eller på dess tomt får räknas bort har funnits sedan 2006 i Boverkets byggregler och blev inarbetad i förordningen vid genomförandet av direktivets &lt;NOBR&gt;nära-nollenergikrav.&lt;/NOBR&gt; Ändrar man på den bestämmelsen behöver en större översyn av systemet göras. Det är dock angeläget att det säkerställs att konkurrensneutraliteten mellan hållbara, dvs. &lt;NOBR&gt;icke-fossilbränslebaserade,&lt;/NOBR&gt; uppvärmningssystem inte snedvrids av reglerna om undantag för förnybar energi som alstras inom byggnadens tomtgräns. Till exempel kan en byggnad med fjärrvärme ha solfångare i stället för solceller för att minska mängden levererad energi och få bättre energiprestanda. De viktningsfaktorer som enligt planeringen ska införas syftar till att neutralisera oönskade effekter på konkurrenssituationen. En ändring i plan- och byggförordningen som tydliggör att den energi som alstras inom en byggnads tomtgräns även ska användas i byggnaden eller på dess tomt för att få beaktas vid beräkning av energiprestandan planeras också. Att dessa åtgärder ger önskad effekt bör dock följas upp inom ramen för den kontrollstation som planeras till 2022, se nedan.&lt;/P&gt;
+&lt;P class="p80 ft11"&gt;Det finns även en begränsning i maximalt installerad eleffekt och en begränsning i klimatskärmens genomsnittliga värmegångskoefficient (U&lt;SPAN class="ft24"&gt;m&lt;/SPAN&gt;) som säkerställer att klimatskärmen är tillräckligt bra även på vintern för det fall att exempelvis solceller finns på byggnaden. Som ovan nämnts kommer &lt;NOBR&gt;U&lt;SPAN class="ft24"&gt;m&lt;/SPAN&gt;-kraven&lt;/NOBR&gt; att ses över. Boverket och Energimyndigheten ska även få i uppdrag att ta fram ett förslag om hur ett kompletterande krav som utgår ifrån byggnadens energibehov, dvs. använd energi, ska utformas med hänsyn till samhällsekonomiska konsekvenser. Dessa åtgärder kommer att ytterligare säkerställa att byggnaderna blir energieffektiva.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft3"&gt;Skr. 2018/19:152&lt;/P&gt;
+&lt;P class="p60 ft3"&gt;13&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_14"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p61 ft3"&gt;Skr. 2018/19:152&lt;/P&gt;
+&lt;P class="p12 ft3"&gt;14&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft4"&gt;Kontrollstationer&lt;/P&gt;
+&lt;P class="p42 ft3"&gt;För att byggreglerna och energideklarationerna för byggnader på ett kostnadseffektivt sätt ska bidra till teknikneutrala val av hållbara, dvs. &lt;NOBR&gt;icke-fossilbränslebaserade&lt;/NOBR&gt; uppvärmningssystem, långsiktigt energieffektiva byggnader med bra klimatskärm samt en effektiv elanvändning i uppvärmningen och beakta effektutmaningen behöver de följas upp och utvärderas regelbundet. Av direktivet följer att medlemsstaterna ska beräkna kostnadsoptimala nivåer för energiprestandakraven och rapportera dessa till kommissionen vart femte år. De nationella uppföljningarna och utvärderingarna bör dock göras med tätare intervall, den första kontrollstationen bör genomföras 2022, dvs. två år efter att det omarbetade direktivet om byggnaders energiprestanda har genomförts. Därefter bör kontrollstationer genomföras minst vart tredje år. Boverket bör i samråd med Energimyndigheten ges i uppdrag att genomföra sådana kontrollstationer där även berörda branscher ska höras.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_15"&gt;
+&lt;DIV id="p15dimg1"&gt;
+&lt;INGENBILD zsrc="H60315215x1.jpg/" id="p15img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p81 ft3"&gt;Skr. 2018/19:152&lt;/P&gt;
+&lt;P class="p82 ft1"&gt;Infrastrukturdepartementet&lt;/P&gt;
+&lt;P class="p83 ft3"&gt;Utdrag ur protokoll vid regeringssammanträde den 13 juni 2019&lt;/P&gt;
+&lt;P class="p5 ft3"&gt;Närvarande: statsminister Löfven, ordförande, och statsråden Lövin,&lt;/P&gt;
+&lt;P class="p84 ft3"&gt;Wallström, M Johansson, Baylan, Bolund, Strandhäll, Ygeman,&lt;/P&gt;
+&lt;P class="p85 ft3"&gt;Eriksson, Linde, Ekström, Eneroth, Dahlgren, Nilsson, Ernkrans, Lind&lt;/P&gt;
+&lt;P class="p86 ft3"&gt;Föredragande: statsrådet Anders Ygeman&lt;/P&gt;
+&lt;P class="p87 ft3"&gt;Regeringen beslutar skrivelse 2018/19:152 Byggnaders energiprestanda&lt;/P&gt;
+&lt;P class="p88 ft3"&gt;15&lt;/P&gt;
+&lt;/DIV&gt;
+
+&lt;/div&gt;&lt;style&gt;
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+&lt;/style&gt;
+</html>
+  </dokument>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">INL</kod>
+<namn datatype="string">Inlämnad</namn>
+<datum datatype="datetime">2019-06-18 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">B</kod>
+<namn datatype="string">Bordlagd</namn>
+<datum datatype="datetime">2019-06-18 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">HÄN</kod>
+<namn datatype="string">Hänvisad</namn>
+<datum datatype="datetime">2019-06-19 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">MOT</kod>
+<namn datatype="string">Motionstid slutar</namn>
+<datum datatype="datetime">2019-09-18 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+</dokaktivitet>
+<dokintressent>
+<intressent>
+<intressent_id datatype="string">0218878014918</intressent_id>
+<namn datatype="string">Stefan Löfven</namn>
+<partibet datatype="string">S</partibet>
+<ordning datatype="int16">1</ordning>
+<roll datatype="string">Statsråd1</roll>
+</intressent>
+<intressent>
+<intressent_id datatype="string">0744993950910</intressent_id>
+<namn datatype="string">Anders Ygeman</namn>
+<partibet datatype="string">S</partibet>
+<ordning datatype="int16">2</ordning>
+<roll datatype="string">Statsråd2</roll>
+</intressent>
+</dokintressent>
+<dokuppgift>
+<uppgift>
+<kod datatype="string">inlamnatav</kod>
+<namn datatype="string">Inlämnat av</namn>
+<text datatype="string">Infrastrukturdepartementet</text>
+<dok_id datatype="string">H603152</dok_id>
+<systemdatum datatype="datetime">2019-06-19 08:34:46</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">tilldelat</kod>
+<namn datatype="string">Tilldelat</namn>
+<text datatype="string">Civilutskottet</text>
+<dok_id datatype="string">H603152</dok_id>
+<systemdatum datatype="datetime">2019-06-19 08:34:46</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">statustext</kod>
+<namn datatype="string">statustext</namn>
+<text datatype="string">Skrivelsen är inlämnad</text>
+<dok_id datatype="string">H603152</dok_id>
+<systemdatum datatype="datetime">2019-06-18 12:22:25</systemdatum>
+</uppgift>
+</dokuppgift>
+<dokbilaga>
+<bilaga>
+<dok_id datatype="string">H603152</dok_id>
+<titel datatype="string">Byggnaders energiprestanda</titel>
+<subtitel datatype="string" />
+<filnamn datatype="string">skr_201819__152.pdf</filnamn>
+<filstorlek datatype="int32">425226</filstorlek>
+<filtyp datatype="string">pdf</filtyp>
+<fil_url datatype="string">http://data.riksdagen.se/fil/B1083815-AB91-406E-970D-8F138B8C3728</fil_url>
+</bilaga>
+</dokbilaga>
+<debatt /></dokumentstatus>

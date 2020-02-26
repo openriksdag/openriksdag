@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "72aca1b6-fddf-40a7-a85c-93b4e26433e1",
+    "sourceid": "8510f52b-fa5e-49ad-a90d-5ad73d0ebaf0",
+    "intressent_id": "0854683362596",
+    "hangar_id": "2341637",
+    "fodd_ar": "1920",
+    "kon": "kvinna",
+    "efternamn": "Häggmark",
+    "tilltalsnamn": "Siri",
+    "sorteringsnamn": "Häggmark,Siri",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/8510f52b-fa5e-49ad-a90d-5ad73d0ebaf0",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8510f52b-fa5e-49ad-a90d-5ad73d0ebaf0_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8510f52b-fa5e-49ad-a90d-5ad73d0ebaf0_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8510f52b-fa5e-49ad-a90d-5ad73d0ebaf0_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0854683362596",
+          "hangar_id": "2341637",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0854683362596",
+          "hangar_id": "2341637",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0854683362596",
+          "hangar_id": "2341637",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0854683362596",
+          "hangar_id": "2341637"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "distriktssköterska",
+          "typ": "titlar",
+          "intressent_id": "0854683362596",
+          "hangar_id": "2341637"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "1772b715-7f73-4a76-a8f6-562db12c4cd3",
+    "sourceid": "f7887de4-6233-4c6d-940c-6abfb1c09ac3",
+    "intressent_id": "0686532742102",
+    "hangar_id": "2342250",
+    "fodd_ar": "1943",
+    "kon": "kvinna",
+    "efternamn": "Hed",
+    "tilltalsnamn": "Maria",
+    "sorteringsnamn": "Hed,Maria",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Status saknas",
+    "person_url_xml": "http://data.riksdagen.se/person/f7887de4-6233-4c6d-940c-6abfb1c09ac3",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f7887de4-6233-4c6d-940c-6abfb1c09ac3_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f7887de4-6233-4c6d-940c-6abfb1c09ac3_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f7887de4-6233-4c6d-940c-6abfb1c09ac3_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-09-30",
+          "tom": "1991-10-04",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0686532742102",
+          "hangar_id": "2342250",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-03-06",
+          "tom": "1991-09-29",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0686532742102",
+          "hangar_id": "2342250",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-09-30",
+          "tom": "1991-10-04",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0686532742102",
+          "hangar_id": "2342250",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-03-06",
+          "tom": "1991-09-29",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0686532742102",
+          "hangar_id": "2342250",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "kommunalråd",
+          "typ": "titlar",
+          "intressent_id": "0686532742102",
+          "hangar_id": "2342250"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0686532742102",
+          "hangar_id": "2342250"
+        }
+      ]
+    }
+  }
+}

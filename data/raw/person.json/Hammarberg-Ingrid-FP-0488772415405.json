@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "3afe361d-beff-40d1-90a9-de5d9d267b55",
+    "sourceid": "14b66d9e-b4e4-49b4-b944-51c010384adc",
+    "intressent_id": "0488772415405",
+    "hangar_id": "2342143",
+    "fodd_ar": "1942",
+    "kon": "kvinna",
+    "efternamn": "Hammarberg",
+    "tilltalsnamn": "Ingrid",
+    "sorteringsnamn": "Hammarberg,Ingrid",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "Gävleborgs län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/14b66d9e-b4e4-49b4-b944-51c010384adc",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/14b66d9e-b4e4-49b4-b944-51c010384adc_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/14b66d9e-b4e4-49b4-b944-51c010384adc_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/14b66d9e-b4e4-49b4-b944-51c010384adc_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Ersättare",
+        "ordningsnummer": "0",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "2005-07-04",
+        "tom": "2005-08-17",
+        "uppgift": "",
+        "intressent_id": "0488772415405",
+        "hangar_id": "2342143",
+        "sortering": "45",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Företagare",
+          "typ": "titlar",
+          "intressent_id": "0488772415405",
+          "hangar_id": "2342143"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0488772415405",
+          "hangar_id": "2342143"
+        }
+      ]
+    }
+  }
+}

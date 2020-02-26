@@ -1,0 +1,82 @@
+{
+  "person": {
+    "hangar_guid": "e4860eb7-d404-4764-b362-001d87b7a625",
+    "sourceid": "d2d94e0b-a745-4457-8c2f-9557caf78cdf",
+    "intressent_id": "0358278412329",
+    "hangar_id": "5003816",
+    "fodd_ar": "1982",
+    "kon": "man",
+    "efternamn": "Petersson",
+    "tilltalsnamn": "Björn",
+    "sorteringsnamn": "Petersson,Björn",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Kalmar län",
+    "status": "Tjänstgörande statsrådsersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/d2d94e0b-a745-4457-8c2f-9557caf78cdf",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d2d94e0b-a745-4457-8c2f-9557caf78cdf_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d2d94e0b-a745-4457-8c2f-9557caf78cdf_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d2d94e0b-a745-4457-8c2f-9557caf78cdf_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "33",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "Lena Hallengren",
+          "intressent_id": "0358278412329",
+          "hangar_id": "5003816",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0358278412329",
+          "hangar_id": "5003816",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0358278412329",
+          "hangar_id": "5003816",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "bjorn.petersson[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0358278412329",
+        "hangar_id": "5003816"
+      }
+    }
+  }
+}

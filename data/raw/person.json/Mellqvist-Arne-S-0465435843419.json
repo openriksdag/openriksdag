@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "87a005cd-1e29-4891-9ee3-e43edb2ded1a",
+    "sourceid": "911412b2-c69d-4dc1-9d66-7df590392e8b",
+    "intressent_id": "0465435843419",
+    "hangar_id": "2342623",
+    "fodd_ar": "1950",
+    "kon": "man",
+    "efternamn": "Mellqvist",
+    "tilltalsnamn": "Arne",
+    "sorteringsnamn": "Mellqvist,Arne",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/911412b2-c69d-4dc1-9d66-7df590392e8b",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/911412b2-c69d-4dc1-9d66-7df590392e8b_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/911412b2-c69d-4dc1-9d66-7df590392e8b_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/911412b2-c69d-4dc1-9d66-7df590392e8b_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "288",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1995-01-10",
+          "tom": "1995-10-09",
+          "uppgift": "Bengt-Ola Ryttar",
+          "intressent_id": "0465435843419",
+          "hangar_id": "2342623",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "300",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0465435843419",
+          "hangar_id": "2342623",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0465435843419",
+          "hangar_id": "2342623",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1995-01-19",
+          "tom": "1995-10-09",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0465435843419",
+          "hangar_id": "2342623",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0465435843419",
+          "hangar_id": "2342623",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "kanslichef",
+          "typ": "titlar",
+          "intressent_id": "0465435843419",
+          "hangar_id": "2342623"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0465435843419",
+          "hangar_id": "2342623"
+        }
+      ]
+    }
+  }
+}

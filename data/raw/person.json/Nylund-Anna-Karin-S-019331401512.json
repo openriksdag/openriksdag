@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "986be49f-5124-4edd-8806-5beebfaaf617",
+    "sourceid": "3115d07c-e9f5-4527-89d3-36dddbdf496a",
+    "intressent_id": "019331401512",
+    "hangar_id": "2343327",
+    "fodd_ar": "1966",
+    "kon": "kvinna",
+    "efternamn": "Nylund",
+    "tilltalsnamn": "Anna-Karin",
+    "sorteringsnamn": "Nylund,Anna-Karin",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Norrbottens län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/3115d07c-e9f5-4527-89d3-36dddbdf496a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3115d07c-e9f5-4527-89d3-36dddbdf496a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3115d07c-e9f5-4527-89d3-36dddbdf496a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3115d07c-e9f5-4527-89d3-36dddbdf496a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "313",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2008-11-03",
+          "tom": "2008-12-31",
+          "uppgift": "Leif Pettersson",
+          "intressent_id": "019331401512",
+          "hangar_id": "2343327",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2008-11-10",
+          "tom": "2008-12-31",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "019331401512",
+          "hangar_id": "2343327",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2008-11-10",
+          "tom": "2008-12-31",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "019331401512",
+          "hangar_id": "2343327",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2008-11-10",
+          "tom": "2008-12-31",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "019331401512",
+          "hangar_id": "2343327",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Elevassistent",
+          "typ": "titlar",
+          "intressent_id": "019331401512",
+          "hangar_id": "2343327"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "019331401512",
+          "hangar_id": "2343327"
+        }
+      ]
+    }
+  }
+}

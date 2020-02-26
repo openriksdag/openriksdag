@@ -1,0 +1,69 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5053671</hangar_id>
+    <dok_id datatype="string">H701JuU38</dok_id>
+    <rm datatype="string">2019/20</rm>
+    <beteckning datatype="string">JuU38</beteckning>
+    <typ datatype="string">bet</typ>
+    <subtyp datatype="string">bet</subtyp>
+    <doktyp datatype="string">bet</doktyp>
+    <typrubrik datatype="string">Betänkande 2019/20:JuU38</typrubrik>
+    <dokumentnamn datatype="string">Betänkande</dokumentnamn>
+    <debattnamn datatype="string">Debatt om förslag</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">JuU</organ>
+    <mottagare datatype="string"></mottagare>
+    <nummer datatype="int32">38</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2020-01-23 00:00:00</datum>
+    <systemdatum datatype="datetime">2020-01-23 14:02:17</systemdatum>
+    <publicerad datatype="datetime">2020-01-23 14:02:16</publicerad>
+    <titel datatype="string">Straffrättsliga åtgärder mot tillgreppsbrott och vissa andra brott</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">planerat</status>
+    <htmlformat datatype="string"></htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">Brus</source>
+    <sourceid datatype="string">b02a14cd-6f91-4df1-946f-c962251dd42b</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H701JuU38/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H701JuU38</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H701JuU38</dokumentstatus_url_xml>
+    <utskottsforslag_url_xml datatype="stext">http://data.riksdagen.se/utskottsforslag/H701JuU38</utskottsforslag_url_xml>
+    <html datatype="text">&lt;h2&gt;Straffrättsliga åtgärder mot tillgreppsbrott och vissa andra brott&lt;/h2&gt;
+Dokumentet är inte publicerat</html>
+  </dokument>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">UBE</kod>
+<namn datatype="string">Beredning</namn>
+<datum datatype="datetime">2020-04-23 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">UBE</kod>
+<namn datatype="string">Beredning</namn>
+<datum datatype="datetime">2020-05-07 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">JUS</kod>
+<namn datatype="string">Justering</namn>
+<datum datatype="datetime">2020-05-14 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">TRY</kod>
+<namn datatype="string">Trycklov</namn>
+<datum datatype="datetime">2020-05-15 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+</dokaktivitet>
+<debatt /></dokumentstatus>

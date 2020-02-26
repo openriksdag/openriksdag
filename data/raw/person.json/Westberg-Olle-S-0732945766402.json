@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "4587898a-985b-4a0e-b766-4a82afa67241",
+    "sourceid": "362905b8-1718-42f2-a619-946b4f2ed822",
+    "intressent_id": "0732945766402",
+    "hangar_id": "2341707",
+    "fodd_ar": "1926",
+    "kon": "man",
+    "efternamn": "Westberg",
+    "tilltalsnamn": "Olle",
+    "sorteringsnamn": "Westberg,Olle",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Avliden  2013-05-14",
+    "person_url_xml": "http://data.riksdagen.se/person/362905b8-1718-42f2-a619-946b4f2ed822",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/362905b8-1718-42f2-a619-946b4f2ed822_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/362905b8-1718-42f2-a619-946b4f2ed822_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/362905b8-1718-42f2-a619-946b4f2ed822_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0732945766402",
+          "hangar_id": "2341707",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0732945766402",
+          "hangar_id": "2341707",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0732945766402",
+          "hangar_id": "2341707",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1976-10-04",
+          "tom": "1979-10-01",
+          "uppgift": "",
+          "intressent_id": "0732945766402",
+          "hangar_id": "2341707",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "RGK",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1988-10-18",
+          "tom": "1989-06-30",
+          "uppgift": "Fullmäktige i riksgäldskontoret",
+          "intressent_id": "0732945766402",
+          "hangar_id": "2341707",
+          "sortering": "50",
+          "organ_sortering": "399",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0732945766402",
+          "hangar_id": "2341707"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "svarvare",
+          "typ": "titlar",
+          "intressent_id": "0732945766402",
+          "hangar_id": "2341707"
+        }
+      ]
+    }
+  }
+}

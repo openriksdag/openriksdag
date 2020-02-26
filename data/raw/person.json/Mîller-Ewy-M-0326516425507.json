@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "cf46db19-d9cc-4e15-b96c-53a7c198304c",
+    "sourceid": "522c4140-cf4e-4475-84c9-7ebdc4f31743",
+    "intressent_id": "0326516425507",
+    "hangar_id": "2341718",
+    "fodd_ar": "1927",
+    "kon": "kvinna",
+    "efternamn": "Möller",
+    "tilltalsnamn": "Ewy",
+    "sorteringsnamn": "Möller,Ewy",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Avliden  1991-01-23",
+    "person_url_xml": "http://data.riksdagen.se/person/522c4140-cf4e-4475-84c9-7ebdc4f31743",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/522c4140-cf4e-4475-84c9-7ebdc4f31743_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/522c4140-cf4e-4475-84c9-7ebdc4f31743_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/522c4140-cf4e-4475-84c9-7ebdc4f31743_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "127",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-01-23",
+          "uppgift": "",
+          "intressent_id": "0326516425507",
+          "hangar_id": "2341718",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0326516425507",
+          "hangar_id": "2341718",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0326516425507",
+          "hangar_id": "2341718",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1981-10-06",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0326516425507",
+          "hangar_id": "2341718",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "LU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-01-23",
+          "uppgift": "Lagutskottet",
+          "intressent_id": "0326516425507",
+          "hangar_id": "2341718",
+          "sortering": "30",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "fru",
+          "typ": "titlar",
+          "intressent_id": "0326516425507",
+          "hangar_id": "2341718"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0326516425507",
+          "hangar_id": "2341718"
+        }
+      ]
+    }
+  }
+}

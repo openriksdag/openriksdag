@@ -1,0 +1,114 @@
+{
+  "person": {
+    "hangar_guid": "c0f6d66d-101c-4e78-bef5-ae8721247b89",
+    "sourceid": "2658d745-0315-41b7-926c-f136a7803b88",
+    "intressent_id": "0522240580423",
+    "hangar_id": "5003670",
+    "fodd_ar": "1988",
+    "kon": "man",
+    "efternamn": "Karapet",
+    "tilltalsnamn": "Arin",
+    "sorteringsnamn": "Karapet,Arin",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms kommun",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/2658d745-0315-41b7-926c-f136a7803b88",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2658d745-0315-41b7-926c-f136a7803b88_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2658d745-0315-41b7-926c-f136a7803b88_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2658d745-0315-41b7-926c-f136a7803b88_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "314",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0522240580423",
+          "hangar_id": "5003670",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "ER",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2019-06-19",
+          "tom": "2022-09-26",
+          "uppgift": "Europarådets svenska delegation",
+          "intressent_id": "0522240580423",
+          "hangar_id": "5003670",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-02-13",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0522240580423",
+          "hangar_id": "5003670",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "17",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0522240580423",
+          "hangar_id": "5003670",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-11-20",
+          "tom": "2022-10-04",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0522240580423",
+          "hangar_id": "5003670",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "arin.karapet[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0522240580423",
+        "hangar_id": "5003670"
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "ae07ac20-8152-4ea0-a8dc-bec388a26c88",
+    "sourceid": "ae8543cf-a7b3-44d2-94df-c3edab707475",
+    "intressent_id": "",
+    "hangar_id": "4788786",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Tolstoy",
+    "tilltalsnamn": "Stephan",
+    "sorteringsnamn": "Tolstoy,Stephan",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Status saknas",
+    "person_url_xml": "http://data.riksdagen.se/person/ae8543cf-a7b3-44d2-94df-c3edab707475",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ae8543cf-a7b3-44d2-94df-c3edab707475_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ae8543cf-a7b3-44d2-94df-c3edab707475_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ae8543cf-a7b3-44d2-94df-c3edab707475_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RB",
+        "roll_kod": "Suppleant",
+        "ordningsnummer": "4",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2002-10-15",
+        "tom": "2010-10-19",
+        "uppgift": "Riksbanksfullmäktige",
+        "intressent_id": "",
+        "hangar_id": "4788786",
+        "sortering": "50",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

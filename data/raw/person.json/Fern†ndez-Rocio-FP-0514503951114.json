@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "8c7dcb71-1b8e-4030-9dd8-725a3aa2a21d",
+    "sourceid": "a54809f5-12e8-461d-b3a0-2169f5c2556b",
+    "intressent_id": "0514503951114",
+    "hangar_id": "2343415",
+    "fodd_ar": "1968",
+    "kon": "kvinna",
+    "efternamn": "Fernández",
+    "tilltalsnamn": "Rocio",
+    "sorteringsnamn": "Fernández,Rocio",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "Göteborgs kommun",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/a54809f5-12e8-461d-b3a0-2169f5c2556b",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a54809f5-12e8-461d-b3a0-2169f5c2556b_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a54809f5-12e8-461d-b3a0-2169f5c2556b_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a54809f5-12e8-461d-b3a0-2169f5c2556b_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2005-05-09",
+          "tom": "2005-06-10",
+          "uppgift": "",
+          "intressent_id": "0514503951114",
+          "hangar_id": "2343415",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2005-05-09",
+          "tom": "2005-06-10",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0514503951114",
+          "hangar_id": "2343415",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

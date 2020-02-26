@@ -1,0 +1,90 @@
+{
+  "person": {
+    "hangar_guid": "4b0962bf-9beb-4226-a10b-e88cb9c3ef1c",
+    "sourceid": "f03ff48a-c476-11d4-ae40-006008578ce8",
+    "intressent_id": "0425392189902",
+    "hangar_id": "2342247",
+    "fodd_ar": "1943",
+    "kon": "man",
+    "efternamn": "Degerliden",
+    "tilltalsnamn": "Lennart",
+    "sorteringsnamn": "Degerliden,Lennart",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/f03ff48a-c476-11d4-ae40-006008578ce8",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f03ff48a-c476-11d4-ae40-006008578ce8_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f03ff48a-c476-11d4-ae40-006008578ce8_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f03ff48a-c476-11d4-ae40-006008578ce8_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "337",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2000-11-17",
+          "tom": "2000-12-18",
+          "uppgift": "Yvonne Ångström",
+          "intressent_id": "0425392189902",
+          "hangar_id": "2342247",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2000-11-21",
+          "tom": "2000-12-18",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0425392189902",
+          "hangar_id": "2342247",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2000-11-21",
+          "tom": "2000-12-18",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0425392189902",
+          "hangar_id": "2342247",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2000-11-21",
+          "tom": "2000-12-18",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "0425392189902",
+          "hangar_id": "2342247",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

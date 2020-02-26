@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">b32c06af-e27c-4b49-b952-b80089515461</hangar_guid>
+<sourceid datatype="string">d7c32246-83e4-11d4-ae60-0050040c9b55</sourceid>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<fodd_ar datatype="int16">1957</fodd_ar>
+<kon datatype="string">man</kon>
+<efternamn datatype="string">Erlandsson</efternamn>
+<tilltalsnamn datatype="string">Eskil</tilltalsnamn>
+<sorteringsnamn datatype="string">Erlandsson,Eskil</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">C</parti>
+<valkrets datatype="string">Kronobergs län</valkrets>
+<status datatype="string">Avgången riksdagsledamot</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/d7c32246-83e4-11d4-ae60-0050040c9b55</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c32246-83e4-11d4-ae60-0050040c9b55_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c32246-83e4-11d4-ae60-0050040c9b55_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c32246-83e4-11d4-ae60-0050040c9b55_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">L</organ_kod>
+<roll_kod datatype="string">Landsbygdsminister</roll_kod>
+<ordningsnummer datatype="int32">6</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Departement</typ>
+<from datatype="datetime">2011-01-01</from>
+<tom datatype="datetime">2014-10-03</tom>
+<uppgift datatype="string">Landsbygdsdepartementet</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32"></sortering>
+<organ_sortering datatype="int32"></organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">Jo</organ_kod>
+<roll_kod datatype="string">Landsbygdsminister</roll_kod>
+<ordningsnummer datatype="int32">7</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Departement</typ>
+<from datatype="datetime">2010-10-06</from>
+<tom datatype="datetime">2010-12-31</tom>
+<uppgift datatype="string">Jordbruksdepartementet</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32"></sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">Jo</organ_kod>
+<roll_kod datatype="string">Jordbruksminister</roll_kod>
+<ordningsnummer datatype="int32">8</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Departement</typ>
+<from datatype="datetime">2006-10-06</from>
+<tom datatype="datetime">2010-10-05</tom>
+<uppgift datatype="string">Jordbruksdepartementet</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">90</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2018-09-24</from>
+<tom datatype="datetime">2019-03-12</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">182</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2014-10-04</from>
+<tom datatype="datetime">2018-09-24</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">182</ordningsnummer>
+<status datatype="string">Ledig</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2014-09-29</from>
+<tom datatype="datetime">2014-10-03</tom>
+<uppgift datatype="string">Karin Nilsson 2010-10-04 - 2014-09-29, Karin Nilsson 2014-09-29 - 2014-10-03  Statsråd</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">30</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">291</ordningsnummer>
+<status datatype="string">Ledig</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2010-10-04</from>
+<tom datatype="datetime">2014-09-29</tom>
+<uppgift datatype="string">Karin Nilsson 2006-10-06 - 2010-10-04, Karin Nilsson 2010-10-04 - 2014-09-29  Statsråd</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">30</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">182</ordningsnummer>
+<status datatype="string">Ledig</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2006-10-06</from>
+<tom datatype="datetime">2010-10-04</tom>
+<uppgift datatype="string">Karin Nilsson 2006-10-06 - 2010-10-04</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">30</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">182</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2006-10-02</from>
+<tom datatype="datetime">2006-10-05</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">123</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2002-09-30</from>
+<tom datatype="datetime">2006-10-02</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">120</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1998-10-05</from>
+<tom datatype="datetime">2002-09-30</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">119</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">1994-10-03</from>
+<tom datatype="datetime">1998-10-05</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">OSSE</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">1996-03-15</from>
+<tom datatype="datetime">1998-10-05</tom>
+<uppgift datatype="string">OSSE-delegationen</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">RFK</organ_kod>
+<roll_kod datatype="string">Ledamot</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">1998-10-13</from>
+<tom datatype="datetime">2000-06-30</tom>
+<uppgift datatype="string">Riksdagens förvaltningskontor</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">30</sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">FöU</organ_kod>
+<roll_kod datatype="string">Ordförande</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2002-10-08</from>
+<tom datatype="datetime">2006-10-02</tom>
+<uppgift datatype="string">Försvarsutskottet</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">KU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">23</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2018-10-16</from>
+<tom datatype="datetime">2019-03-12</tom>
+<uppgift datatype="string">Konstitutionsutskottet</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">MJU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">21</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2014-10-14</from>
+<tom datatype="datetime">2018-09-24</tom>
+<uppgift datatype="string">Miljö- och jordbruksutskottet</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">MJU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2002-10-08</from>
+<tom datatype="datetime">2006-10-02</tom>
+<uppgift datatype="string">Miljö- och jordbruksutskottet</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">MJU</organ_kod>
+<roll_kod datatype="string">Ledamot</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">1998-10-13</from>
+<tom datatype="datetime">2002-09-30</tom>
+<uppgift datatype="string">Miljö- och jordbruksutskottet</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">30</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">NU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">1998-12-18</from>
+<tom datatype="datetime">2002-09-30</tom>
+<uppgift datatype="string">Näringsutskottet</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">SkU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">1998-10-13</from>
+<tom datatype="datetime">2002-09-30</tom>
+<uppgift datatype="string">Skatteutskottet</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">SkU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">1994-10-11</from>
+<tom datatype="datetime">1998-10-04</tom>
+<uppgift datatype="string">Skatteutskottet</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">UFöU</organ_kod>
+<roll_kod datatype="string">Ordförande</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2006-05-18</from>
+<tom datatype="datetime">2006-06-14</tom>
+<uppgift datatype="string">Sammansatta utrikes- och försvarsutskottet</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">160</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">UFöU</organ_kod>
+<roll_kod datatype="string">Vice ordförande</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2005-11-22</from>
+<tom datatype="datetime">2005-12-07</tom>
+<uppgift datatype="string">Sammansatta utrikes- och försvarsutskottet</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">20</sortering>
+<organ_sortering datatype="int32">160</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">UFöU</organ_kod>
+<roll_kod datatype="string">Vice ordförande</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2004-10-19</from>
+<tom datatype="datetime">2004-12-15</tom>
+<uppgift datatype="string">Sammansatta utrikes- och försvarsutskottet</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">20</sortering>
+<organ_sortering datatype="int32">160</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">UFöU</organ_kod>
+<roll_kod datatype="string">Vice ordförande</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2004-05-11</from>
+<tom datatype="datetime">2004-05-26</tom>
+<uppgift datatype="string">Sammansatta utrikes- och försvarsutskottet</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">20</sortering>
+<organ_sortering datatype="int32">160</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">UFöU</organ_kod>
+<roll_kod datatype="string">Ordförande</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2004-02-05</from>
+<tom datatype="datetime">2004-02-18</tom>
+<uppgift datatype="string">Sammansatta utrikes- och försvarsutskottet</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">160</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">UFöU</organ_kod>
+<roll_kod datatype="string">Vice ordförande</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2003-06-11</from>
+<tom datatype="datetime">2003-06-12</tom>
+<uppgift datatype="string">Sammansatta utrikes- och försvarsutskottet</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">20</sortering>
+<organ_sortering datatype="int32">160</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">UFöU</organ_kod>
+<roll_kod datatype="string">Ordförande</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2002-12-03</from>
+<tom datatype="datetime">2002-12-18</tom>
+<uppgift datatype="string">Sammansatta utrikes- och försvarsutskottet</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">160</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">BoU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">1994-10-11</from>
+<tom datatype="datetime">1998-10-04</tom>
+<uppgift datatype="string">Bostadsutskottet</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">165</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">EUN</organ_kod>
+<roll_kod datatype="string">Förste vice ordförande</roll_kod>
+<ordningsnummer datatype="int32">7</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2019-03-01</from>
+<tom datatype="datetime">2019-03-12</tom>
+<uppgift datatype="string">EU-nämnden</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">15</sortering>
+<organ_sortering datatype="int32">170</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">EUN</organ_kod>
+<roll_kod datatype="string">Vice ordförande</roll_kod>
+<ordningsnummer datatype="int32">7</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2018-10-03</from>
+<tom datatype="datetime">2019-03-01</tom>
+<uppgift datatype="string">EU-nämnden</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">20</sortering>
+<organ_sortering datatype="int32">170</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">EUN</organ_kod>
+<roll_kod datatype="string">Ledamot</roll_kod>
+<ordningsnummer datatype="int32">7</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2018-10-02</from>
+<tom datatype="datetime">2018-10-03</tom>
+<uppgift datatype="string">EU-nämnden</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">30</sortering>
+<organ_sortering datatype="int32">170</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">EUN</organ_kod>
+<roll_kod datatype="string">Ledamot</roll_kod>
+<ordningsnummer datatype="int32">7</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2018-10-03</from>
+<tom datatype="datetime">2018-10-03</tom>
+<uppgift datatype="string">EU-nämnden</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">30</sortering>
+<organ_sortering datatype="int32">170</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">EUN</organ_kod>
+<roll_kod datatype="string">Vice ordförande</roll_kod>
+<ordningsnummer datatype="int32">9</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2014-10-08</from>
+<tom datatype="datetime">2018-10-02</tom>
+<uppgift datatype="string">EU-nämnden</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">20</sortering>
+<organ_sortering datatype="int32">170</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">EUN</organ_kod>
+<roll_kod datatype="string">Ledamot</roll_kod>
+<ordningsnummer datatype="int32">9</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2014-10-07</from>
+<tom datatype="datetime">2014-10-08</tom>
+<uppgift datatype="string">EU-nämnden</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">30</sortering>
+<organ_sortering datatype="int32">170</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">EUN</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2002-10-08</from>
+<tom datatype="datetime">2006-10-10</tom>
+<uppgift datatype="string">EU-nämnden</uppgift>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">170</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+<uppgift>
+<kod datatype="string">sv</kod>
+<uppgift datatype="string">Lantmästare.</uppgift>
+<typ datatype="string">titlar</typ>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+</uppgift>
+<uppgift>
+<kod datatype="string">en</kod>
+<uppgift datatype="string">Former Municipal Commissioner, Farm Foreman</uppgift>
+<typ datatype="string">titlar</typ>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+</uppgift>
+<uppgift>
+<kod datatype="string">KandiderarINastaVal</kod>
+<uppgift datatype="string">true</uppgift>
+<typ datatype="string">val</typ>
+<intressent_id datatype="string">0465398691116</intressent_id>
+<hangar_id datatype="int32">2342961</hangar_id>
+</uppgift>
+</personuppgift>
+</person>

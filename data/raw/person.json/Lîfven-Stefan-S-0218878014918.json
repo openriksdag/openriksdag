@@ -1,0 +1,130 @@
+{
+  "person": {
+    "hangar_guid": "9604a92c-61be-4c0a-bec0-b07665d2df76",
+    "sourceid": "ac737989-5fa0-44bc-ad69-c1a0ddba71bb",
+    "intressent_id": "0218878014918",
+    "hangar_id": "3057097",
+    "fodd_ar": "1957",
+    "kon": "man",
+    "efternamn": "Löfven",
+    "tilltalsnamn": "Stefan",
+    "sorteringsnamn": "Löfven,Stefan",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Västernorrlands län",
+    "status": "Statsminister",
+    "person_url_xml": "http://data.riksdagen.se/person/ac737989-5fa0-44bc-ad69-c1a0ddba71bb",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ac737989-5fa0-44bc-ad69-c1a0ddba71bb_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ac737989-5fa0-44bc-ad69-c1a0ddba71bb_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ac737989-5fa0-44bc-ad69-c1a0ddba71bb_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "SB",
+          "roll_kod": "Statsminister",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "Departement",
+          "from": "2019-01-21",
+          "tom": "2022-09-26",
+          "uppgift": "Statsrådsberedningen",
+          "intressent_id": "0218878014918",
+          "hangar_id": "3057097",
+          "sortering": "10",
+          "organ_sortering": "400",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SB",
+          "roll_kod": "Statsminister",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "Departement",
+          "from": "2014-10-03",
+          "tom": "2019-01-21",
+          "uppgift": "Statsrådsberedningen",
+          "intressent_id": "0218878014918",
+          "hangar_id": "3057097",
+          "sortering": "10",
+          "organ_sortering": "400",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "137",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "Anders Österberg 2017-09-25 - 2018-09-24, Jasenko Omanovic 2018-09-24 - 2022-09-26  Statsråd",
+          "intressent_id": "0218878014918",
+          "hangar_id": "3057097",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "280",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "2014-10-03",
+          "tom": "2018-09-24",
+          "uppgift": "Lawen Redar 2014-10-03 - 2015-09-30, Börje Vestlund 2015-10-01 - 2017-05-28, Teres Lindberg 2017-05-29 - 2017-09-24, Anders Österberg 2017-09-25 - 2018-09-24  Statsråd",
+          "intressent_id": "0218878014918",
+          "hangar_id": "3057097",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "280",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2014-10-02",
+          "uppgift": "",
+          "intressent_id": "0218878014918",
+          "hangar_id": "3057097",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "S",
+          "roll_kod": "Partiledare",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "partiuppdrag",
+          "from": "2012-01-27",
+          "tom": "",
+          "uppgift": "Socialdemokraterna",
+          "intressent_id": "0218878014918",
+          "hangar_id": "3057097",
+          "sortering": "20",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "true",
+        "typ": "val",
+        "intressent_id": "0218878014918",
+        "hangar_id": "3057097"
+      }
+    }
+  }
+}

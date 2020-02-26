@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">3f2b768a-6818-4d72-b315-6dc575582526</hangar_guid>
+<sourceid datatype="string">7790cb87-5512-4241-b614-504674174466</sourceid>
+<intressent_id datatype="string">0551169456620</intressent_id>
+<hangar_id datatype="int32">3057397</hangar_id>
+<fodd_ar datatype="int16">1985</fodd_ar>
+<kon datatype="string">man</kon>
+<efternamn datatype="string">Wikström</efternamn>
+<tilltalsnamn datatype="string">Gabriel</tilltalsnamn>
+<sorteringsnamn datatype="string">Wikström,Gabriel</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">S</parti>
+<valkrets datatype="string">Västmanlands län</valkrets>
+<status datatype="string">Tidigare riksdagsledamot</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/7790cb87-5512-4241-b614-504674174466</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/7790cb87-5512-4241-b614-504674174466_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/7790cb87-5512-4241-b614-504674174466_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/7790cb87-5512-4241-b614-504674174466_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">S</organ_kod>
+<roll_kod datatype="string">Statsråd</roll_kod>
+<ordningsnummer datatype="int32">20</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Departement</typ>
+<from datatype="datetime">2016-05-25</from>
+<tom datatype="datetime">2017-07-27</tom>
+<uppgift datatype="string">Socialdepartementet</uppgift>
+<intressent_id datatype="string">0551169456620</intressent_id>
+<hangar_id datatype="int32">3057397</hangar_id>
+<sortering datatype="int32">100</sortering>
+<organ_sortering datatype="int32"></organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">S</organ_kod>
+<roll_kod datatype="string">Statsråd</roll_kod>
+<ordningsnummer datatype="int32">23</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Departement</typ>
+<from datatype="datetime">2014-10-03</from>
+<tom datatype="datetime">2016-05-25</tom>
+<uppgift datatype="string">Socialdepartementet</uppgift>
+<intressent_id datatype="string">0551169456620</intressent_id>
+<hangar_id datatype="int32">3057397</hangar_id>
+<sortering datatype="int32">100</sortering>
+<organ_sortering datatype="int32"></organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Riksdagsledamot</roll_kod>
+<ordningsnummer datatype="int32">343</ordningsnummer>
+<status datatype="string">Tjänstgörande</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2018-03-20</from>
+<tom datatype="datetime">2018-03-21</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0551169456620</intressent_id>
+<hangar_id datatype="int32">3057397</hangar_id>
+<sortering datatype="int32">10</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">10</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+</personuppgift>
+</person>

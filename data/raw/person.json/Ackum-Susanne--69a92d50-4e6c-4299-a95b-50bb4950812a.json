@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "8d9be89f-32f7-40c7-846e-dce051c892e7",
+    "sourceid": "69a92d50-4e6c-4299-a95b-50bb4950812a",
+    "intressent_id": "",
+    "hangar_id": "4788861",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Ackum",
+    "tilltalsnamn": "Susanne",
+    "sorteringsnamn": "Ackum,Susanne",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare riksrevisor i Riksrevisorerna",
+    "person_url_xml": "http://data.riksdagen.se/person/69a92d50-4e6c-4299-a95b-50bb4950812a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/69a92d50-4e6c-4299-a95b-50bb4950812a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/69a92d50-4e6c-4299-a95b-50bb4950812a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/69a92d50-4e6c-4299-a95b-50bb4950812a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "RB",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-10-09",
+          "tom": "2018-12-19",
+          "uppgift": "Riksbanksfullmäktige",
+          "intressent_id": "",
+          "hangar_id": "4788861",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RR",
+          "roll_kod": "Riksrevisor",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2015-08-01",
+          "tom": "2016-08-25",
+          "uppgift": "Riksrevisorerna",
+          "intressent_id": "",
+          "hangar_id": "4788861",
+          "sortering": "",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

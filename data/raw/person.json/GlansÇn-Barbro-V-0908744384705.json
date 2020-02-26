@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "4ef2f7d6-9dc6-45f9-9aca-d3ed2377627c",
+    "sourceid": "3bff2673-1d29-4cff-91e3-0f8a0491aba4",
+    "intressent_id": "0908744384705",
+    "hangar_id": "2342429",
+    "fodd_ar": "1947",
+    "kon": "kvinna",
+    "efternamn": "Glansén",
+    "tilltalsnamn": "Barbro",
+    "sorteringsnamn": "Glansén,Barbro",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/3bff2673-1d29-4cff-91e3-0f8a0491aba4",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3bff2673-1d29-4cff-91e3-0f8a0491aba4_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3bff2673-1d29-4cff-91e3-0f8a0491aba4_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3bff2673-1d29-4cff-91e3-0f8a0491aba4_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "218",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1993-10-22",
+          "tom": "1993-11-21",
+          "uppgift": "Lars Bäckström",
+          "intressent_id": "0908744384705",
+          "hangar_id": "2342429",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1993-10-22",
+          "tom": "1993-11-21",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0908744384705",
+          "hangar_id": "2342429",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "lärare",
+          "typ": "titlar",
+          "intressent_id": "0908744384705",
+          "hangar_id": "2342429"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0908744384705",
+          "hangar_id": "2342429"
+        }
+      ]
+    }
+  }
+}

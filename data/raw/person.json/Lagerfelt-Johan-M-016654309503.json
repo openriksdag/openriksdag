@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "a5896e5e-1f5f-4f86-a650-36d6e1b07e1d",
+    "sourceid": "e91a3f7c-9214-4dee-8b22-8bfb23ef0efa",
+    "intressent_id": "016654309503",
+    "hangar_id": "2342561",
+    "fodd_ar": "1949",
+    "kon": "man",
+    "efternamn": "Lagerfelt",
+    "tilltalsnamn": "Johan",
+    "sorteringsnamn": "Lagerfelt,Johan",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Örebro län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/e91a3f7c-9214-4dee-8b22-8bfb23ef0efa",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e91a3f7c-9214-4dee-8b22-8bfb23ef0efa_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e91a3f7c-9214-4dee-8b22-8bfb23ef0efa_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e91a3f7c-9214-4dee-8b22-8bfb23ef0efa_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Ersättare",
+        "ordningsnummer": "272",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "2002-01-21",
+        "tom": "2002-02-22",
+        "uppgift": "Ola Karlsson",
+        "intressent_id": "016654309503",
+        "hangar_id": "2342561",
+        "sortering": "45",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "leg. läkare",
+          "typ": "titlar",
+          "intressent_id": "016654309503",
+          "hangar_id": "2342561"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "016654309503",
+          "hangar_id": "2342561"
+        }
+      ]
+    }
+  }
+}

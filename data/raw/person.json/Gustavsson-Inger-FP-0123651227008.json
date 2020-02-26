@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "c297ae3b-37c0-43df-98ef-d6f4b25990ae",
+    "sourceid": "e6709fd1-7342-4485-a84a-42ca113d930f",
+    "intressent_id": "0123651227008",
+    "hangar_id": "2342088",
+    "fodd_ar": "1940",
+    "kon": "kvinna",
+    "efternamn": "Gustavsson",
+    "tilltalsnamn": "Inger",
+    "sorteringsnamn": "Gustavsson,Inger",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/e6709fd1-7342-4485-a84a-42ca113d930f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e6709fd1-7342-4485-a84a-42ca113d930f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e6709fd1-7342-4485-a84a-42ca113d930f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e6709fd1-7342-4485-a84a-42ca113d930f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "225",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1992-11-15",
+          "tom": "1992-12-14",
+          "uppgift": "Elver Jonsson",
+          "intressent_id": "0123651227008",
+          "hangar_id": "2342088",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1992-11-16",
+          "tom": "1992-12-14",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0123651227008",
+          "hangar_id": "2342088",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "speciallärare",
+          "typ": "titlar",
+          "intressent_id": "0123651227008",
+          "hangar_id": "2342088"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0123651227008",
+          "hangar_id": "2342088"
+        }
+      ]
+    }
+  }
+}

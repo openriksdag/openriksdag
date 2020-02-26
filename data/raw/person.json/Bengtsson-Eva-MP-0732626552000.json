@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "d621fb34-f137-487d-8226-0f9c4ea8b80d",
+    "sourceid": "03ef25cd-d2cd-4e0d-836d-e4628bdc909f",
+    "intressent_id": "0732626552000",
+    "hangar_id": "2341730",
+    "fodd_ar": "1928",
+    "kon": "kvinna",
+    "efternamn": "Bengtsson",
+    "tilltalsnamn": "Eva",
+    "sorteringsnamn": "Bengtsson,Eva",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "",
+    "status": "Status saknas",
+    "person_url_xml": "http://data.riksdagen.se/person/03ef25cd-d2cd-4e0d-836d-e4628bdc909f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/03ef25cd-d2cd-4e0d-836d-e4628bdc909f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/03ef25cd-d2cd-4e0d-836d-e4628bdc909f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/03ef25cd-d2cd-4e0d-836d-e4628bdc909f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-05-15",
+          "tom": "1991-06-15",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0732626552000",
+          "hangar_id": "2341730",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-05-15",
+          "tom": "1991-06-15",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0732626552000",
+          "hangar_id": "2341730",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "fru",
+          "typ": "titlar",
+          "intressent_id": "0732626552000",
+          "hangar_id": "2341730"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0732626552000",
+          "hangar_id": "2341730"
+        }
+      ]
+    }
+  }
+}

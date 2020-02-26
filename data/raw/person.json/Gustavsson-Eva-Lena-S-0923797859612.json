@@ -1,0 +1,130 @@
+{
+  "person": {
+    "hangar_guid": "12586407-0197-4dfa-b1ea-da0c7f9bc9de",
+    "sourceid": "6db86cfe-8613-469e-b440-0f1906e0e07b",
+    "intressent_id": "0923797859612",
+    "hangar_id": "2369652",
+    "fodd_ar": "1956",
+    "kon": "kvinna",
+    "efternamn": "Gustavsson",
+    "tilltalsnamn": "Eva-Lena",
+    "sorteringsnamn": "Gustavsson,Eva-Lena",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Värmlands län",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/6db86cfe-8613-469e-b440-0f1906e0e07b",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6db86cfe-8613-469e-b440-0f1906e0e07b_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6db86cfe-8613-469e-b440-0f1906e0e07b_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6db86cfe-8613-469e-b440-0f1906e0e07b_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "19",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-03-27",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0923797859612",
+          "hangar_id": "2369652",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "132",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2017-08-02",
+          "tom": "2018-01-21",
+          "uppgift": "Jonas Gunnarsson",
+          "intressent_id": "0923797859612",
+          "hangar_id": "2369652",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-08-31",
+          "tom": "2018-01-21",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0923797859612",
+          "hangar_id": "2369652",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-04-10",
+          "tom": "2018-09-24",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0923797859612",
+          "hangar_id": "2369652",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-08-31",
+          "tom": "2018-01-21",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0923797859612",
+          "hangar_id": "2369652",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "eva-lena.gustavsson[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0923797859612",
+          "hangar_id": "2369652"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "66469",
+          "typ": "telefonnummer",
+          "intressent_id": "0923797859612",
+          "hangar_id": "2369652"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0923797859612",
+          "hangar_id": "2369652"
+        }
+      ]
+    }
+  }
+}

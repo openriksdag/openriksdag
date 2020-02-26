@@ -1,0 +1,656 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5009937</hangar_id>
+    <dok_id datatype="string">H60318</dok_id>
+    <rm datatype="string">2018/19</rm>
+    <beteckning datatype="string">18</beteckning>
+    <typ datatype="string">prop</typ>
+    <subtyp datatype="string">prop</subtyp>
+    <doktyp datatype="string">prop</doktyp>
+    <typrubrik datatype="string">Proposition 2018/19:18</typrubrik>
+    <dokumentnamn datatype="string">Proposition</dokumentnamn>
+    <debattnamn datatype="string">Proposition</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">Försvarsdepartementet</organ>
+    <mottagare datatype="string">FöU</mottagare>
+    <nummer datatype="int32">18</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2018-11-22 00:00:00</datum>
+    <systemdatum datatype="datetime">2018-12-18 15:53:21</systemdatum>
+    <publicerad datatype="datetime">2018-11-22 00:00:00</publicerad>
+    <titel datatype="string">Inrättande av försvarsgrensstaber</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">Klar</status>
+    <htmlformat datatype="string">html-ec</htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">prop-RIM</source>
+    <sourceid datatype="string">21f6fefe-21e7-4c02-b40d-4787ff8be06e</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H60318/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H60318</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H60318</dokumentstatus_url_xml>
+    <html datatype="text">&lt;div style="margin:3px;"&gt;
+&lt;STYLE type="text/css"&gt;
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:10px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_1 #p1dimg1 {position:absolute;top:0px;left:546px;z-index:-1;width:54px;height:97px;}
+#page_1 #p1dimg1 #p1img1 {width:54px;height:97px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+#page_4 #p4dimg1 {position:absolute;top:382px;left:105px;z-index:-1;width:394px;height:69px;}
+#page_4 #p4dimg1 #p4img1 {width:394px;height:69px;}
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 586px;}
+
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_7 #p7dimg1 {position:absolute;top:235px;left:63px;z-index:-1;width:112px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_7 #p7dimg1 #p7img1 {width:112px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  18px 'Verdana' !important;l-h: 29px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft2{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft3{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft4{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft5{font:  10px 'Verdana' !important;l-h: 7px;}
+.ft6{font:  10px 'Verdana' !important;l-h: 8px;}
+.ft7{font:  14px 'Verdana' !important;margin-left: 50px;l-h: 22px;}
+.ft8{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft9{font:  12px 'Verdana' !important;l-h: 15px;}
+
+.p0{text-align: left;padding-left: 0px;padding-right: 420px;margin-top: 26px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p4{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 0px;margin-top: 32px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 180px;padding-right: 378px;margin-top: 20px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 0px;margin-top: 52px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 27px;margin-bottom: 0px !important;}
+.p10{text-align: right;padding-right: 42px;margin-top: 323px;margin-bottom: 0px !important;}
+.p11{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p12{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p13{text-align: left;margin-top: 586px;margin-bottom: 0px !important;}
+.p14{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p15{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p17{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p18{text-align: right;padding-right: 42px;margin-top: 668px;margin-bottom: 0px !important;}
+.p19{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p20{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p21{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 16px;margin-bottom: 0px !important;}
+.p22{text-align: left;padding-left: 0px;margin-top: 50px;margin-bottom: 0px !important;}
+.p23{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p24{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 20px;margin-bottom: 0px !important;}
+.p25{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p26{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p27{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p28{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p29{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p30{text-align: left;padding-right: 6px;margin-top: 0px;margin-bottom: 0px !important;}
+.p31{text-align: left;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p32{text-align: left;padding-right: 105px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p33{text-align: left;padding-right: 105px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p34{text-align: left;padding-right: 105px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p35{text-align: left;padding-right: 105px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p36{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p37{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p38{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p39{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 6px;margin-bottom: 0px !important;}
+.p40{text-align: left;padding-left: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p41{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p42{text-align: left;margin-top: 467px;margin-bottom: 0px !important;}
+.p43{text-align: left;padding-left: 440px;margin-top: 0px;margin-bottom: 0px !important;}
+.p44{text-align: left;padding-left: 0px;margin-top: 33px;margin-bottom: 0px !important;}
+.p45{text-align: left;padding-left: 0px;margin-top: 14px;margin-bottom: 0px !important;}
+.p46{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 15px;margin-bottom: 0px !important;}
+.p47{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p48{text-align: left;padding-left: 0px;margin-top: 76px;margin-bottom: 0px !important;}
+.p49{text-align: right;padding-right: 42px;margin-top: 470px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 348px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 178px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 348px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 178px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 108px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 415px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 7px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 17px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 397px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 36px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 389px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 97px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 63px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 469px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 309px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 43px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 116px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 223px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 32px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 53px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 159px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 168px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 55px;vertical-align: bottom;}
+.td23{padding: 0px;margin: 0px;width: 431px;vertical-align: bottom;}
+.td24{padding: 0px;margin: 0px;width: 61px;vertical-align: bottom;}
+.td25{padding: 0px;margin: 0px;width: 468px;vertical-align: bottom;}
+
+.tr0{heightzzz: 27px;}
+.tr1{heightzzz: 23px;}
+.tr2{heightzzz: 20px;}
+.tr3{heightzzz: 7px;}
+.tr4{heightzzz: 34px;}
+.tr5{heightzzz: 22px;}
+.tr6{heightzzz: 15px;}
+.tr7{heightzzz: 26px;}
+.tr8{heightzzz: 18px;}
+.tr9{heightzzz: 8px;}
+.tr10{heightzzz: 16px;}
+.tr11{heightzzz: 29px;}
+.tr12{heightzzz: 21px;}
+.tr13{heightzzz: 17px;}
+
+.t0{width: 552px;margin-leftZ: 69px;margin-top: 11px;f:20px 'Verdana' !important;}
+.t1{width: 556px;f:13px 'Verdana' !important;}
+.t2{width: 548px;margin-leftZ: 68px;f:20px 'Verdana' !important;}
+.t3{width: 557px;margin-top: 9px;f:13px 'Verdana' !important;}
+.t4{width: 555px;margin-top: 45px;f:italic 13px 'Verdana' !important;}
+
+&lt;/STYLE&gt;
+
+
+
+&lt;DIV id="page_1"&gt;
+&lt;DIV id="p1dimg1"&gt;
+&lt;INGENBILD zsrc="H603181x1.jpg/" id="p1img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV class="dclr"&gt;&lt;/DIV&gt;
+&lt;P class="p0 ft0"&gt;Regeringens proposition 2018/19:18&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t0"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr0 td0"&gt;&lt;SPAN class="p1 ft1"&gt;Inrättande av försvarsgrensstaber&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td1"&gt;&lt;SPAN class="p2 ft1"&gt;Prop.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td2"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td3"&gt;&lt;SPAN class="p2 ft1"&gt;2018/19:18&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p4 ft3"&gt;Regeringen överlämnar denna proposition till riksdagen.&lt;/P&gt;
+&lt;P class="p5 ft3"&gt;Stockholm den 22 november 2018&lt;/P&gt;
+&lt;P class="p6 ft4"&gt;Stefan Löfven&lt;/P&gt;
+&lt;P class="p7 ft4"&gt;Peter Hultqvist &lt;SPAN class="ft3"&gt;(Försvarsdepartementet)&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p8 ft1"&gt;Propositionens huvudsakliga innehåll&lt;/P&gt;
+&lt;P class="p9 ft3"&gt;I propositionen föreslås att riksdagen bemyndigar regeringen att inrätta organisationsenheter i form av en arméstab, en marinstab och en flygstab i Försvarsmakten samt lokalisera dessa till Enköping, Haninge/Muskö respektive Uppsala.&lt;/P&gt;
+&lt;P class="p10 ft3"&gt;1&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_2"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t1"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td4"&gt;&lt;SPAN class="p3 ft3"&gt;Prop. 2018/19:18&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 rowspan=2 class="tr0 td5"&gt;&lt;SPAN class="p11 ft1"&gt;Innehållsförteckning&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td6"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td4"&gt;&lt;SPAN class="p3 ft5"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p3 ft5"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td4"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td7"&gt;&lt;SPAN class="p11 ft3"&gt;&lt;A href="#page_3"&gt;1&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td8"&gt;&lt;SPAN class="p12 ft3"&gt;&lt;A href="#page_3"&gt;Förslag till riksdagsbeslut .................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p12 ft3"&gt;&lt;A href="#page_3"&gt;3&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td4"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td7"&gt;&lt;SPAN class="p11 ft3"&gt;&lt;A href="#page_4"&gt;2&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td8"&gt;&lt;SPAN class="p12 ft3"&gt;&lt;A href="#page_4"&gt;Ärendet och dess beredning ..............................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p12 ft3"&gt;&lt;A href="#page_4"&gt;4&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td4"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td7"&gt;&lt;SPAN class="p11 ft3"&gt;&lt;A href="#page_4"&gt;3&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td8"&gt;&lt;SPAN class="p12 ft3"&gt;&lt;A href="#page_4"&gt;Bakgrund...........................................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p12 ft3"&gt;&lt;A href="#page_4"&gt;4&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td4"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td7"&gt;&lt;SPAN class="p11 ft3"&gt;&lt;A href="#page_4"&gt;4&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td8"&gt;&lt;SPAN class="p12 ft3"&gt;&lt;A href="#page_4"&gt;Inrättande av försvarsgrensstaber......................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p12 ft3"&gt;&lt;A href="#page_4"&gt;4&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td4"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td7"&gt;&lt;SPAN class="p11 ft3"&gt;&lt;A href="#page_5"&gt;5&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td8"&gt;&lt;SPAN class="p12 ft3"&gt;&lt;A href="#page_5"&gt;Konsekvenser ....................................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p12 ft3"&gt;&lt;A href="#page_5"&gt;5&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td4"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr5 td5"&gt;&lt;SPAN class="p11 ft3"&gt;&lt;A href="#page_7"&gt;Utdrag ur protokoll vid regeringssammanträde den 22 november&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td6"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td4"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td7"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td8"&gt;&lt;SPAN class="p12 ft3"&gt;&lt;A href="#page_7"&gt;2018 .........................................................................................&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td6"&gt;&lt;SPAN class="p12 ft3"&gt;&lt;A href="#page_7"&gt;7&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p13 ft3"&gt;2&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_3"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t2"&gt;
+&lt;TR&gt;
+	&lt;TD rowspan=2 class="tr7 td9"&gt;&lt;SPAN class="p14 ft1"&gt;1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD rowspan=2 class="tr7 td10"&gt;&lt;SPAN class="p15 ft1"&gt;Förslag till riksdagsbeslut&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td11"&gt;&lt;SPAN class="p3 ft3"&gt;Prop. 2018/19:18&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td11"&gt;&lt;SPAN class="p3 ft6"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p16 ft3"&gt;Regeringens förslag:&lt;/P&gt;
+&lt;P class="p17 ft3"&gt;Riksdagen bemyndigar regeringen att inrätta organisationsenheter i form av en arméstab, en marinstab och en flygstab i Försvarsmakten samt lokalisera dessa till Enköping, Haninge/Muskö respektive Uppsala.&lt;/P&gt;
+&lt;P class="p18 ft3"&gt;3&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_4"&gt;
+&lt;DIV id="p4dimg1"&gt;
+&lt;INGENBILD zsrc="H603184x1.jpg/" id="p4img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p19 ft3"&gt;Prop. 2018/19:18&lt;/P&gt;
+&lt;P class="p20 ft1"&gt;&lt;SPAN class="ft1"&gt;2&lt;/SPAN&gt;&lt;SPAN class="ft7"&gt;Ärendet och dess beredning&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p21 ft3"&gt;I budgetunderlaget för 2019 (Fö2018/00323/MFI) begärde Försvarsmakten om att få att inrätta försvarsgrensstaber med lokalisering till Enköping (armén), Haninge/Muskö (marinen) och Uppsala (flygvapnet).&lt;/P&gt;
+&lt;P class="p22 ft1"&gt;&lt;SPAN class="ft1"&gt;3&lt;/SPAN&gt;&lt;SPAN class="ft7"&gt;Bakgrund&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p21 ft3"&gt;Försvarsmakten har begärt att tre försvarsgrensstaber ska inrättas och att de ska lokaliseras till Enköping (arméstab), Haninge/Muskö (marinstab) och Uppsala (flygstab).&lt;/P&gt;
+&lt;P class="p23 ft3"&gt;Inrättandet och lokaliseringen av försvarsgrensstaberna motiveras enligt Försvarsmakten bl.a. av den försämrade omvärldsutvecklingen. Syftet med att inrätta staberna är att öka robustheten i ledningsorganisationen genom en ökad geografisk spridning.&lt;/P&gt;
+&lt;P class="p22 ft1"&gt;&lt;SPAN class="ft1"&gt;4&lt;/SPAN&gt;&lt;SPAN class="ft7"&gt;Inrättande av försvarsgrensstaber&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p24 ft3"&gt;&lt;SPAN class="ft8"&gt;Regeringens förslag: &lt;/SPAN&gt;Regeringen bemyndigas att inrätta organisationsenheter i form av en arméstab, en marinstab och en flygstab i Försvarsmakten samt att lokalisera dessa till Enköping, Haninge/Muskö respektive Uppsala.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t3"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td12"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr8 td13"&gt;&lt;SPAN class="p12 ft3"&gt;&lt;SPAN class="ft8"&gt;Skälen för regeringens förslag&lt;/SPAN&gt;: I propositionen Försvarspolitisk&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td12"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr6 td13"&gt;&lt;SPAN class="p12 ft3"&gt;inriktning, Sveriges försvar &lt;NOBR&gt;2016–2020&lt;/NOBR&gt; (prop. 2014/15:109) angav&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td12"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr6 td13"&gt;&lt;SPAN class="p12 ft3"&gt;regeringen att den säkerhetspolitiska situationen försämrats, och att detta&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td12"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr10 td13"&gt;&lt;SPAN class="p12 ft3"&gt;innebär förändrade krav på den svenska försvarsförmågan. I propositionen&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td12"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr6 td13"&gt;&lt;SPAN class="p12 ft3"&gt;bedömde regeringen att det enskilt viktigaste under försvars-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td12"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr6 td13"&gt;&lt;SPAN class="p25 ft3"&gt;inriktningsperioden &lt;NOBR&gt;2016-2020&lt;/NOBR&gt; är att öka den operativa förmågan i&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td12"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr10 td13"&gt;&lt;SPAN class="p25 ft3"&gt;krigsförbanden och att säkerställa den samlade förmågan i totalförsvaret.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td12"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr6 td13"&gt;&lt;SPAN class="p12 ft3"&gt;Försvarsutskottet delade regeringens bedömning (bet. 2014/15:FöU11 s.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td12"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr6 td13"&gt;&lt;SPAN class="p25 ft3"&gt;16, rskr. 2014/15:251). I propositionen anförde regeringen vidare att&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td12"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr10 td13"&gt;&lt;SPAN class="p25 ft3"&gt;utformningen av försvaret i första hand bör bygga på förmågan att möta&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td12"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr6 td13"&gt;&lt;SPAN class="p12 ft3"&gt;ett väpnat angrepp, och att den måste medge politisk och militär&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td12"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr6 td13"&gt;&lt;SPAN class="p25 ft3"&gt;handlingsfrihet och ha en inneboende flexibilitet för att kunna hantera&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td12"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr10 td14"&gt;&lt;SPAN class="p26 ft3"&gt;föränderligheten i utmaningar och hot&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td15"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td12"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr6 td13"&gt;&lt;SPAN class="p25 ft3"&gt;Försvarsmakten bedriver ett kontinuerligt utvecklingsarbete i linje med&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td12"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=4 class="tr6 td14"&gt;&lt;SPAN class="p26 ft3"&gt;den inriktning som regeringen fastställt.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td15"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td12"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr10 td13"&gt;&lt;SPAN class="p12 ft3"&gt;Den nuvarande ledningen av Försvarsmakten har sedan länge utgått från&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td12"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr6 td13"&gt;&lt;SPAN class="p25 ft3"&gt;en centraliserad styrning av myndighetens uppgifter. Centraliseringen av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td12"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr6 td13"&gt;&lt;SPAN class="p25 ft3"&gt;ledningskapaciteten till Stockholms innerstad skapar i det förändrade&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td12"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=6 class="tr10 td13"&gt;&lt;SPAN class="p25 ft3"&gt;omvärldsläget en ökad sårbarhet. Som ett led i arbetet att stärka den&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td12"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr6 td17"&gt;&lt;SPAN class="p26 ft3"&gt;svenska försvarsförmågan&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td18"&gt;&lt;SPAN class="p3 ft3"&gt;och&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td19"&gt;&lt;SPAN class="p3 ft3"&gt;öka den&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr6 td20"&gt;&lt;SPAN class="p25 ft3"&gt;operativa förmågan har&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td12"&gt;&lt;SPAN class="p27 ft3"&gt;4&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td21"&gt;&lt;SPAN class="p26 ft3"&gt;Försvarsmakten&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td22"&gt;&lt;SPAN class="p3 ft3"&gt;förordat&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td18"&gt;&lt;SPAN class="p28 ft3"&gt;att&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td19"&gt;&lt;SPAN class="p29 ft3"&gt;tre&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p3 ft3"&gt;nya&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td16"&gt;&lt;SPAN class="p12 ft9"&gt;organisationsenheter&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_5"&gt;
+
+
+&lt;P class="p30 ft3"&gt;(försvarsgrensstaber) ska inrättas; en arméstab i Enköping, en marinstab i Prop. 2018/19:18 Haninge/Muskö och en flygstab i Uppsala.&lt;/P&gt;
+&lt;P class="p31 ft3"&gt;Försvarsgrensstaberna avses vara en del av Försvarsmaktens ledningsstruktur. Majoriteten av Försvarsmaktens förband kommer enligt myndigheten att underställas någon av staberna. Försvarsmakten anger vidare att avsikten är att försvarsgrensstaberna med underställda förband kommer att underställas produktionschefen, men att de kommer att lyda under insatschefen i fråga om operationer. Utöver att inrätta försvarsgrensstaberna som organisationsenheter föreslår Försvarsmakten att försvarsgrensstaberna organiseras som krigsförband.&lt;/P&gt;
+&lt;P class="p32 ft3"&gt;Enligt regeringen är det av betydelse för försvaret av Sverige att Försvarsmakten genom en ökad geografisk spridning kan öka robustheten och uthålligheten i myndighetens ledningsförmåga. Försvarsmakten planerar även att försvarsgrensstaberna ska få ett ansvar när det gäller vidmakthållandet av Försvarsmaktens materiel. Förslaget har därigenom en koppling till den av riksdagen och regeringen tidigare beslutade omorganisationen och förändringen av ansvarsförhållanden avseende materiel- och logistikförsörjningen mellan Försvarsmakten och Försvarets materielverk (prop. 2017/18:1, utg.omr. 6, bet. 2017/18:FöU1, rskr. 2017/18:101 och bet. 2017/18:FöU6, rskr. 2017/18:265), vilken i högre grad stödjer krigsförbandens operativa förmåga och beredskap.&lt;/P&gt;
+&lt;P class="p33 ft3"&gt;Försvarsmakten bedömer att förslaget förbättrar försvarsgrensintern koordinering mellan insats- och förbandsproduktionsverksamheterna. Ett inrättande av försvarsgrensstaber bedöms även förenkla lednings- och organisationsförhållanden gentemot underlydande organisationsenheter med ansvar för krigsförbanden, liksom övergången till ledning vid högre beredskapsnivåer.&lt;/P&gt;
+&lt;P class="p34 ft3"&gt;Försvarsmakten bedömer att ett beslut om stabernas inrättande behöver ske snarast. Försvarsmaktens översyn av ledningsstrukturen och målsättningen för den nämnda omorganisationen och förändringen av ansvarsförhållandena avseende materiel- och logistikförsörjningen mellan Försvarsmakten och Försvarets materielverk påverkas annars negativt.&lt;/P&gt;
+&lt;P class="p34 ft3"&gt;Det utrymme som frigörs i myndighetens högkvartergenom att försvarsgrensstaberna flyttar ut är planerat att inhysa funktioner och verksamheter i Försvarsmakten som i dag huvudsakligen använder lokaler som hyrs ut av civila fastighetsägare.&lt;/P&gt;
+&lt;P class="p35 ft3"&gt;Regeringen delar Försvarsmaktens bedömning att nämnda organisationsenheter bör inrättas och anser det angeläget att detta kan ske så snart som möjligt.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t4"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr0 td9"&gt;&lt;SPAN class="p3 ft1"&gt;5&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td23"&gt;&lt;SPAN class="p15 ft1"&gt;Konsekvenser&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td24"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr11 td25"&gt;&lt;SPAN class="p3 ft4"&gt;Ekonomiska konsekvenser&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td24"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr12 td25"&gt;&lt;SPAN class="p3 ft3"&gt;Finansiering av förslaget kommer, enligt Försvarsmakten, att ske genom&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td24"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr6 td25"&gt;&lt;SPAN class="p3 ft3"&gt;reducerade hyreskostnader på grund av möjligheter att lämna lokaler i&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td24"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr10 td25"&gt;&lt;SPAN class="p3 ft3"&gt;centrala Stockholm. Vid en fortsatt lokalisering i centrala Stockholm, av&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td24"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr6 td25"&gt;&lt;SPAN class="p3 ft3"&gt;den verksamhet som ska utövas av försvarsgrenstaberna, kommer&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td24"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr13 td25"&gt;&lt;SPAN class="p3 ft3"&gt;Försvarsmaktens hyreskostnader att utvecklas på ett sätt som är&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td24"&gt;&lt;SPAN class="p12 ft3"&gt;5&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_6"&gt;
+
+
+&lt;P class="p36 ft3"&gt;Prop. 2018/19:18 ofördelaktigt för myndigheten. Investeringar i infrastruktur kommer att behöva göras på de nya lokaliseringsorterna. Försvarsmaktens bedömning är att dessa inledningsvis ökade kostnader över tid kommer att balanseras mot minskade hyreskostnader.&lt;/P&gt;
+&lt;P class="p37 ft3"&gt;Myndigheten bedömer att inrättandet och lokaliseringen av försvarsgrensstaberna kan ske inom ramen för befintliga och beräknade anslagsramar. Effekterna på statens budget och på det offentligfinansiella sparandet bedöms därmed vara marginella.&lt;/P&gt;
+&lt;P class="p38 ft4"&gt;Personella konsekvenser&lt;/P&gt;
+&lt;P class="p39 ft3"&gt;Inrättandet av försvarsgrensstaber medför en begränsad utökning av antalet befattningar jämfört med idag.&lt;/P&gt;
+&lt;P class="p40 ft4"&gt;Övriga konsekvenser&lt;/P&gt;
+&lt;P class="p39 ft3"&gt;Förslagen bedöms inte medföra några konsekvenser för statliga myndigheter, kommuner och landsting, för enskilda verksamhetsutövare eller för jämställdheten mellan män och kvinnor.&lt;/P&gt;
+&lt;P class="p41 ft3"&gt;Regeringens förslag bedöms inte ha någon direkt inverkan på miljön. Förslagen bedöms vara förenliga med &lt;NOBR&gt;EU-rätten&lt;/NOBR&gt;&lt;/P&gt;
+&lt;P class="p42 ft3"&gt;6&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_7"&gt;
+&lt;DIV id="p7dimg1"&gt;
+&lt;INGENBILD zsrc="H603187x1.jpg/" id="p7img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p43 ft3"&gt;Prop. 2018/19:18&lt;/P&gt;
+&lt;P class="p44 ft1"&gt;Försvarsdepartementet&lt;/P&gt;
+&lt;P class="p45 ft3"&gt;Utdrag ur protokoll vid regeringssammanträde den 22 november 2018&lt;/P&gt;
+&lt;P class="p46 ft3"&gt;Närvarande: statsminister Löfven, ordförande, och statsråden Lövin, Wallström, M Johansson, Baylan, Hallengren, Hultqvist, Andersson, Hellmark Knutsson, Bolund, Damberg, Strandhäll, Fridolin, Linde, Skog, Ekström, Fritzon, Eneroth&lt;/P&gt;
+&lt;P class="p47 ft3"&gt;Föredragande: statsrådet Hultqvist&lt;/P&gt;
+&lt;P class="p48 ft3"&gt;Regeringen beslutar proposition Inrättande av försvarsgrensstaber&lt;/P&gt;
+&lt;P class="p49 ft3"&gt;7&lt;/P&gt;
+&lt;/DIV&gt;
+
+&lt;/div&gt;&lt;style&gt;
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+&lt;/style&gt;
+</html>
+  </dokument>
+<dokforslag>
+<forslag>
+<nummer datatype="int32">1</nummer>
+<beteckning datatype="string">1</beteckning>
+<lydelse datatype="string">Riksdagen bemyndigar regeringen att inrätta organisationsenheter i form av en arméstab, en marinstab och en flygstab i Försvarsmakten samt lokalisera dessa till Enköping, Haninge/Muskö respektive Uppsala.</lydelse>
+<lydelse2 datatype="string" />
+<utskottet datatype="string">Bifall</utskottet>
+<kammaren datatype="string">Bifall</kammaren>
+<behandlas_i datatype="string">2018/19:FöU3</behandlas_i>
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string">FöU</intressent>
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+</dokforslag>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">INL</kod>
+<namn datatype="string">Inlämnad</namn>
+<datum datatype="datetime">2018-11-22 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">B</kod>
+<namn datatype="string">Bordlagd</namn>
+<datum datatype="datetime">2018-11-22 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">HÄN</kod>
+<namn datatype="string">Hänvisad</namn>
+<datum datatype="datetime">2018-11-27 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">MOT</kod>
+<namn datatype="string">Motionstid slutar</namn>
+<datum datatype="datetime">2018-12-07 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+</dokaktivitet>
+<dokintressent>
+<intressent>
+<intressent_id datatype="string">0218878014918</intressent_id>
+<namn datatype="string">Stefan Löfven</namn>
+<partibet datatype="string">S</partibet>
+<ordning datatype="int16">1</ordning>
+<roll datatype="string">Statsråd1</roll>
+</intressent>
+<intressent>
+<intressent_id datatype="string">0937688366013</intressent_id>
+<namn datatype="string">Peter Hultqvist</namn>
+<partibet datatype="string">S</partibet>
+<ordning datatype="int16">2</ordning>
+<roll datatype="string">Statsråd2</roll>
+</intressent>
+</dokintressent>
+<dokuppgift>
+<uppgift>
+<kod datatype="string">inlamnatav</kod>
+<namn datatype="string">Inlämnat av</namn>
+<text datatype="string">Försvarsdepartementet</text>
+<dok_id datatype="string">H60318</dok_id>
+<systemdatum datatype="datetime">2018-12-18 15:53:21</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">tilldelat</kod>
+<namn datatype="string">Tilldelat</namn>
+<text datatype="string">Försvarsutskottet</text>
+<dok_id datatype="string">H60318</dok_id>
+<systemdatum datatype="datetime">2018-12-18 15:53:21</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">statustext</kod>
+<namn datatype="string">statustext</namn>
+<text datatype="string">Propositionen bereds i utskott</text>
+<dok_id datatype="string">H60318</dok_id>
+<systemdatum datatype="datetime">2018-11-27 13:33:06</systemdatum>
+</uppgift>
+</dokuppgift>
+<dokbilaga>
+<bilaga>
+<dok_id datatype="string">H60318</dok_id>
+<titel datatype="string">Inrättande av försvarsgrensstaber</titel>
+<subtitel datatype="string" />
+<filnamn datatype="string">prop_201819__18.pdf</filnamn>
+<filstorlek datatype="int32">280348</filstorlek>
+<filtyp datatype="string">pdf</filtyp>
+<fil_url datatype="string">http://data.riksdagen.se/fil/BFEC8DEA-D05E-4248-ACE6-C79E3DCC5268</fil_url>
+</bilaga>
+</dokbilaga>
+<dokreferens>
+<referens>
+<referenstyp datatype="string">behandlas_i</referenstyp>
+<uppgift datatype="string">2018/19:FöU3</uppgift>
+<ref_dok_id datatype="string">H601FöU3</ref_dok_id>
+<ref_dok_typ datatype="string">bet</ref_dok_typ>
+<ref_dok_rm datatype="string">2018/19</ref_dok_rm>
+<ref_dok_bet datatype="string">FöU3</ref_dok_bet>
+<ref_dok_titel datatype="string">Inrättande av försvarsgrensstaber</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">bet</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Betänkande</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">följdmotion</referenstyp>
+<uppgift datatype="string">av Allan Widman m.fl. (L)&lt;br /&gt;med anledning av prop. 2018/19:18 Inrättande av försvarsgrensstaber </uppgift>
+<ref_dok_id datatype="string">H6022999</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2018/19</ref_dok_rm>
+<ref_dok_bet datatype="string">2999</ref_dok_bet>
+<ref_dok_titel datatype="string">med anledning av prop. 2018/19:18 Inrättande av försvarsgrensstaber </ref_dok_titel>
+<ref_dok_subtitel datatype="string">av Allan Widman m.fl. (L)</ref_dok_subtitel>
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+</dokreferens>
+<debatt /></dokumentstatus>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">23a9039d-271e-469f-bf60-13de0836d95f</hangar_guid>
+<sourceid datatype="string">b643cc67-ab7c-4268-9ef8-1c64c69fffd5</sourceid>
+<intressent_id datatype="string">0951422950012</intressent_id>
+<hangar_id datatype="int32">2343406</hangar_id>
+<fodd_ar datatype="int16">1968</fodd_ar>
+<kon datatype="string">kvinna</kon>
+<efternamn datatype="string">Ågerfalk</efternamn>
+<tilltalsnamn datatype="string">Anna</tilltalsnamn>
+<sorteringsnamn datatype="string">Ågerfalk,Anna</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">FP</parti>
+<valkrets datatype="string">Örebro län</valkrets>
+<status datatype="string">Tidigare ersättare</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/b643cc67-ab7c-4268-9ef8-1c64c69fffd5</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/b643cc67-ab7c-4268-9ef8-1c64c69fffd5_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/b643cc67-ab7c-4268-9ef8-1c64c69fffd5_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/b643cc67-ab7c-4268-9ef8-1c64c69fffd5_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Ersättare</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string">Ersättare</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2006-01-10</from>
+<tom datatype="datetime">2006-02-10</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0951422950012</intressent_id>
+<hangar_id datatype="int32">2343406</hangar_id>
+<sortering datatype="int32">45</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">20</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Ersättare</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string">Ersättare</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2003-11-18</from>
+<tom datatype="datetime">2003-12-18</tom>
+<uppgift datatype="string"></uppgift>
+<intressent_id datatype="string">0951422950012</intressent_id>
+<hangar_id datatype="int32">2343406</hangar_id>
+<sortering datatype="int32">45</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">20</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">JuU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2006-01-10</from>
+<tom datatype="datetime">2006-02-10</tom>
+<uppgift datatype="string">Justitieutskottet</uppgift>
+<intressent_id datatype="string">0951422950012</intressent_id>
+<hangar_id datatype="int32">2343406</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">JuU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2003-11-19</from>
+<tom datatype="datetime">2003-12-18</tom>
+<uppgift datatype="string">Justitieutskottet</uppgift>
+<intressent_id datatype="string">0951422950012</intressent_id>
+<hangar_id datatype="int32">2343406</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">KU</organ_kod>
+<roll_kod datatype="string">Suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2003-11-19</from>
+<tom datatype="datetime">2003-12-18</tom>
+<uppgift datatype="string">Konstitutionsutskottet</uppgift>
+<intressent_id datatype="string">0951422950012</intressent_id>
+<hangar_id datatype="int32">2343406</hangar_id>
+<sortering datatype="int32">50</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+<uppgift>
+<kod datatype="string">KandiderarINastaVal</kod>
+<uppgift datatype="string">true</uppgift>
+<typ datatype="string">val</typ>
+<intressent_id datatype="string">0951422950012</intressent_id>
+<hangar_id datatype="int32">2343406</hangar_id>
+</uppgift>
+</personuppgift>
+</person>

@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "b6ff54fe-fca5-4f31-9c34-21205c748ca7",
+    "sourceid": "ea801cbb-33d2-4988-b3e5-bef60a3192d1",
+    "intressent_id": "0441279609311",
+    "hangar_id": "2343126",
+    "fodd_ar": "1960",
+    "kon": "man",
+    "efternamn": "Lövendahl",
+    "tilltalsnamn": "Torbjörn",
+    "sorteringsnamn": "Lövendahl,Torbjörn",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Skåne läns södra",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/ea801cbb-33d2-4988-b3e5-bef60a3192d1",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ea801cbb-33d2-4988-b3e5-bef60a3192d1_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ea801cbb-33d2-4988-b3e5-bef60a3192d1_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ea801cbb-33d2-4988-b3e5-bef60a3192d1_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "155",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2009-10-05",
+          "tom": "2009-12-31",
+          "uppgift": "Morgan Johansson",
+          "intressent_id": "0441279609311",
+          "hangar_id": "2343126",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "27",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2009-10-12",
+          "tom": "2009-12-31",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0441279609311",
+          "hangar_id": "2343126",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Kommunalråd",
+          "typ": "titlar",
+          "intressent_id": "0441279609311",
+          "hangar_id": "2343126"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0441279609311",
+          "hangar_id": "2343126"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">0b62f6c4-4a6a-4ac8-95f1-35a5beaf35ea</hangar_guid>
+<sourceid datatype="string">a18bbb25-d4a3-4d01-949b-430407186fe4</sourceid>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">5035032</hangar_id>
+<fodd_ar datatype="int16">0</fodd_ar>
+<kon datatype="string">man</kon>
+<efternamn datatype="string">Danielsson</efternamn>
+<tilltalsnamn datatype="string">Johan</tilltalsnamn>
+<sorteringsnamn datatype="string">Danielsson,Johan</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">S</parti>
+<valkrets datatype="string"></valkrets>
+<status datatype="string">Europaparlamentariker</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/a18bbb25-d4a3-4d01-949b-430407186fe4</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/a18bbb25-d4a3-4d01-949b-430407186fe4_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/a18bbb25-d4a3-4d01-949b-430407186fe4_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/a18bbb25-d4a3-4d01-949b-430407186fe4_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">EP</organ_kod>
+<roll_kod datatype="string">Ledamot</roll_kod>
+<ordningsnummer datatype="int32">11</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Europaparlamentet</typ>
+<from datatype="datetime">2019-07-02</from>
+<tom datatype="datetime">2024-07-02</tom>
+<uppgift datatype="string">Europaparlamentet</uppgift>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">5035032</hangar_id>
+<sortering datatype="int32">30</sortering>
+<organ_sortering datatype="int32">100</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+</personuppgift>
+</person>

@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "9dd82122-fc2a-4751-8338-828a336cdf4b",
+    "sourceid": "58a2e792-4509-4f8d-be18-64def59e3fb4",
+    "intressent_id": "0365641780005",
+    "hangar_id": "2342053",
+    "fodd_ar": "1939",
+    "kon": "man",
+    "efternamn": "Selberg",
+    "tilltalsnamn": "Åke",
+    "sorteringsnamn": "Selberg,Åke",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/58a2e792-4509-4f8d-be18-64def59e3fb4",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/58a2e792-4509-4f8d-be18-64def59e3fb4_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/58a2e792-4509-4f8d-be18-64def59e3fb4_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/58a2e792-4509-4f8d-be18-64def59e3fb4_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "342",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0365641780005",
+          "hangar_id": "2342053",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "343",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0365641780005",
+          "hangar_id": "2342053",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0365641780005",
+          "hangar_id": "2342053",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0365641780005",
+          "hangar_id": "2342053",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "EU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1992-11-06",
+          "tom": "1993-06-04",
+          "uppgift": "EES-utskottet",
+          "intressent_id": "0365641780005",
+          "hangar_id": "2342053",
+          "sortering": "50",
+          "organ_sortering": "199",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "hemmansägare",
+          "typ": "titlar",
+          "intressent_id": "0365641780005",
+          "hangar_id": "2342053"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0365641780005",
+          "hangar_id": "2342053"
+        }
+      ]
+    }
+  }
+}

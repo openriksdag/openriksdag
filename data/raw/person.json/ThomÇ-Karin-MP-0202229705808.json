@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "659981ca-b05d-4bf1-becb-2af4e8cde84b",
+    "sourceid": "3dc3ce2c-16c4-4b35-a135-a021cd5a52c2",
+    "intressent_id": "0202229705808",
+    "hangar_id": "2341887",
+    "fodd_ar": "1935",
+    "kon": "kvinna",
+    "efternamn": "Thomé",
+    "tilltalsnamn": "Karin",
+    "sorteringsnamn": "Thomé,Karin",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/3dc3ce2c-16c4-4b35-a135-a021cd5a52c2",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3dc3ce2c-16c4-4b35-a135-a021cd5a52c2_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3dc3ce2c-16c4-4b35-a135-a021cd5a52c2_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3dc3ce2c-16c4-4b35-a135-a021cd5a52c2_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "62",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1989-10-14",
+          "tom": "1989-11-14",
+          "uppgift": "Anna Horn af Rantzien",
+          "intressent_id": "0202229705808",
+          "hangar_id": "2341887",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-10-16",
+          "tom": "1989-11-14",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0202229705808",
+          "hangar_id": "2341887",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-10-16",
+          "tom": "1989-11-14",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0202229705808",
+          "hangar_id": "2341887",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "programmerare",
+          "typ": "titlar",
+          "intressent_id": "0202229705808",
+          "hangar_id": "2341887"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0202229705808",
+          "hangar_id": "2341887"
+        }
+      ]
+    }
+  }
+}

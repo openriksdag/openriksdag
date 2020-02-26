@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "73f1a282-aa5b-42f2-90a9-21be3293431a",
+    "sourceid": "148b5bbc-8e67-4e7e-abc7-e8be89c604ac",
+    "intressent_id": "024173757595",
+    "hangar_id": "2341636",
+    "fodd_ar": "1920",
+    "kon": "man",
+    "efternamn": "Edin",
+    "tilltalsnamn": "Erik",
+    "sorteringsnamn": "Edin,Erik",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/148b5bbc-8e67-4e7e-abc7-e8be89c604ac",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/148b5bbc-8e67-4e7e-abc7-e8be89c604ac_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/148b5bbc-8e67-4e7e-abc7-e8be89c604ac_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/148b5bbc-8e67-4e7e-abc7-e8be89c604ac_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Ersättare",
+        "ordningsnummer": "0",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "1987-11-14",
+        "tom": "1987-12-14",
+        "uppgift": "Birgit Friggebo",
+        "intressent_id": "024173757595",
+        "hangar_id": "2341636",
+        "sortering": "45",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": ""
+  }
+}

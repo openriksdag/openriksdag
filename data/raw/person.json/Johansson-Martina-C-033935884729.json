@@ -1,0 +1,130 @@
+{
+  "person": {
+    "hangar_guid": "3eff6044-3879-418a-87c8-b2b915d027e9",
+    "sourceid": "5f965f4e-69e5-489d-99bf-a8908fc3e34a",
+    "intressent_id": "033935884729",
+    "hangar_id": "5003741",
+    "fodd_ar": "1975",
+    "kon": "kvinna",
+    "efternamn": "Johansson",
+    "tilltalsnamn": "Martina",
+    "sorteringsnamn": "Johansson,Martina",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Södermanlands län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/5f965f4e-69e5-489d-99bf-a8908fc3e34a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5f965f4e-69e5-489d-99bf-a8908fc3e34a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5f965f4e-69e5-489d-99bf-a8908fc3e34a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5f965f4e-69e5-489d-99bf-a8908fc3e34a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "325",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "033935884729",
+          "hangar_id": "5003741",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "LR",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-10-10",
+          "tom": "2022-10-10",
+          "uppgift": "Ledamotsrådet",
+          "intressent_id": "033935884729",
+          "hangar_id": "5003741",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "033935884729",
+          "hangar_id": "5003741",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "22",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-03-29",
+          "tom": "2022-09-26",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "033935884729",
+          "hangar_id": "5003741",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "58",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-16",
+          "tom": "2022-10-04",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "033935884729",
+          "hangar_id": "5003741",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "martina.johansson[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "033935884729",
+          "hangar_id": "5003741"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Verksamhetschef.",
+          "typ": "titlar",
+          "intressent_id": "033935884729",
+          "hangar_id": "5003741"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "033935884729",
+          "hangar_id": "5003741"
+        }
+      ]
+    }
+  }
+}

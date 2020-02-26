@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "e5816df1-87b1-4f07-a6cd-593fbba0db4b",
+    "sourceid": "db72bcbc-f874-4f84-bde0-dd121fb93015",
+    "intressent_id": "0590096877813",
+    "hangar_id": "2342795",
+    "fodd_ar": "1953",
+    "kon": "kvinna",
+    "efternamn": "Andersson",
+    "tilltalsnamn": "Marianne",
+    "sorteringsnamn": "Andersson,Marianne",
+    "iort": "Gislaved",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/db72bcbc-f874-4f84-bde0-dd121fb93015",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/db72bcbc-f874-4f84-bde0-dd121fb93015_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/db72bcbc-f874-4f84-bde0-dd121fb93015_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/db72bcbc-f874-4f84-bde0-dd121fb93015_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "115",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1990-02-20",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0590096877813",
+          "hangar_id": "2342795",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-11-13",
+          "tom": "1988-12-12",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0590096877813",
+          "hangar_id": "2342795",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-03-07",
+          "tom": "1991-09-29",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0590096877813",
+          "hangar_id": "2342795",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-03-07",
+          "tom": "1991-09-29",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0590096877813",
+          "hangar_id": "2342795",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-11-13",
+          "tom": "1988-12-12",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0590096877813",
+          "hangar_id": "2342795",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "kontorist",
+          "typ": "titlar",
+          "intressent_id": "0590096877813",
+          "hangar_id": "2342795"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0590096877813",
+          "hangar_id": "2342795"
+        }
+      ]
+    }
+  }
+}

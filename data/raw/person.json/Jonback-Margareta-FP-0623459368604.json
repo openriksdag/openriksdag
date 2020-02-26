@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "91117d6f-5812-4750-a82e-a2f570962d19",
+    "sourceid": "87aefcc6-47e0-4394-91e6-26f7788c26c5",
+    "intressent_id": "0623459368604",
+    "hangar_id": "2341861",
+    "fodd_ar": "1934",
+    "kon": "kvinna",
+    "efternamn": "Jonback",
+    "tilltalsnamn": "Margareta",
+    "sorteringsnamn": "Jonback,Margareta",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/87aefcc6-47e0-4394-91e6-26f7788c26c5",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/87aefcc6-47e0-4394-91e6-26f7788c26c5_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/87aefcc6-47e0-4394-91e6-26f7788c26c5_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/87aefcc6-47e0-4394-91e6-26f7788c26c5_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "297",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1988-11-15",
+          "tom": "1988-12-14",
+          "uppgift": "Lars De Geer",
+          "intressent_id": "0623459368604",
+          "hangar_id": "2341861",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-11-15",
+          "tom": "1988-12-14",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0623459368604",
+          "hangar_id": "2341861",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-11-15",
+          "tom": "1988-12-14",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0623459368604",
+          "hangar_id": "2341861",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0623459368604",
+          "hangar_id": "2341861"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "receptarie",
+          "typ": "titlar",
+          "intressent_id": "0623459368604",
+          "hangar_id": "2341861"
+        }
+      ]
+    }
+  }
+}

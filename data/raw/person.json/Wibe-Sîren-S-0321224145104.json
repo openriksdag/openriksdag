@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "90d9a802-f788-404e-9b24-d17261dc0d5d",
+    "sourceid": "21fc674a-9319-4b99-8433-35f566646772",
+    "intressent_id": "0321224145104",
+    "hangar_id": "2342409",
+    "fodd_ar": "1946",
+    "kon": "man",
+    "efternamn": "Wibe",
+    "tilltalsnamn": "Sören",
+    "sorteringsnamn": "Wibe,Sören",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Västerbottens län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/21fc674a-9319-4b99-8433-35f566646772",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/21fc674a-9319-4b99-8433-35f566646772_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/21fc674a-9319-4b99-8433-35f566646772_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/21fc674a-9319-4b99-8433-35f566646772_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "337",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2002-09-30",
+          "tom": "2006-10-02",
+          "uppgift": "",
+          "intressent_id": "0321224145104",
+          "hangar_id": "2342409",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0321224145104",
+          "hangar_id": "2342409",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0321224145104",
+          "hangar_id": "2342409",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "professor",
+          "typ": "titlar",
+          "intressent_id": "0321224145104",
+          "hangar_id": "2342409"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Professor",
+          "typ": "titlar",
+          "intressent_id": "0321224145104",
+          "hangar_id": "2342409"
+        }
+      ]
+    }
+  }
+}

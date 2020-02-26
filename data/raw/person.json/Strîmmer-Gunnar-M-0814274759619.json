@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "12e7e700-2f72-4c5b-95c9-017973c3e981",
+    "sourceid": "f164e0fc-522e-4c3e-a21f-8263b55a649a",
+    "intressent_id": "0814274759619",
+    "hangar_id": "4780518",
+    "fodd_ar": "1972",
+    "kon": "man",
+    "efternamn": "Strömmer",
+    "tilltalsnamn": "Gunnar",
+    "sorteringsnamn": "Strömmer,Gunnar",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "",
+    "person_url_xml": "http://data.riksdagen.se/person/f164e0fc-522e-4c3e-a21f-8263b55a649a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f164e0fc-522e-4c3e-a21f-8263b55a649a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f164e0fc-522e-4c3e-a21f-8263b55a649a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f164e0fc-522e-4c3e-a21f-8263b55a649a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "M",
+        "roll_kod": "Partisekreterare",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "partiuppdrag",
+        "from": "2017-10-12",
+        "tom": "",
+        "uppgift": "Moderaterna",
+        "intressent_id": "0814274759619",
+        "hangar_id": "4780518",
+        "sortering": "35",
+        "organ_sortering": "",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

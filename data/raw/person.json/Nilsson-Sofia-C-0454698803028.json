@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "c39d84a2-bdaa-4c64-afb8-eba6c30225e2",
+    "sourceid": "560c0817-1b91-478a-b273-87a82888328e",
+    "intressent_id": "0454698803028",
+    "hangar_id": "3057270",
+    "fodd_ar": "1982",
+    "kon": "kvinna",
+    "efternamn": "Nilsson",
+    "tilltalsnamn": "Sofia",
+    "sorteringsnamn": "Nilsson,Sofia",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Skåne läns norra och östra",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/560c0817-1b91-478a-b273-87a82888328e",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/560c0817-1b91-478a-b273-87a82888328e_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/560c0817-1b91-478a-b273-87a82888328e_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/560c0817-1b91-478a-b273-87a82888328e_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "333",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0454698803028",
+          "hangar_id": "3057270",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "RRR",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2019-04-01",
+          "tom": "2022-10-31",
+          "uppgift": "Riksdagens råd för Riksrevisionen",
+          "intressent_id": "0454698803028",
+          "hangar_id": "3057270",
+          "sortering": "30",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "22",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-16",
+          "tom": "2022-09-26",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0454698803028",
+          "hangar_id": "3057270",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0454698803028",
+          "hangar_id": "3057270",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "sofia.nilsson[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0454698803028",
+          "hangar_id": "3057270"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0454698803028",
+          "hangar_id": "3057270"
+        }
+      ]
+    }
+  }
+}

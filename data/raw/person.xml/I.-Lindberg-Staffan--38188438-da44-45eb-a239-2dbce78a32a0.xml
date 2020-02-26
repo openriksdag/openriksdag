@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">bfeda7e0-c74f-4944-84b3-ebcd70aba529</hangar_guid>
+<sourceid datatype="string">38188438-da44-45eb-a239-2dbce78a32a0</sourceid>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">5005120</hangar_id>
+<fodd_ar datatype="int16">0</fodd_ar>
+<kon datatype="string">man</kon>
+<efternamn datatype="string">I. Lindberg</efternamn>
+<tilltalsnamn datatype="string">Staffan</tilltalsnamn>
+<sorteringsnamn datatype="string">I. Lindberg,Staffan</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string"></parti>
+<valkrets datatype="string"></valkrets>
+<status datatype="string">Personlig suppleant i Styrelsen för Stiftelsen Riksbankens Jubileumsfond</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/38188438-da44-45eb-a239-2dbce78a32a0</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/38188438-da44-45eb-a239-2dbce78a32a0_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/38188438-da44-45eb-a239-2dbce78a32a0_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/38188438-da44-45eb-a239-2dbce78a32a0_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">RJ</organ_kod>
+<roll_kod datatype="string">Personlig suppleant</roll_kod>
+<ordningsnummer datatype="int32">7</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">Riksdagsorgan</typ>
+<from datatype="datetime">2018-11-01</from>
+<tom datatype="datetime">2020-10-31</tom>
+<uppgift datatype="string">Styrelsen för Stiftelsen Riksbankens Jubileumsfond</uppgift>
+<intressent_id datatype="string"></intressent_id>
+<hangar_id datatype="int32">5005120</hangar_id>
+<sortering datatype="int32">48</sortering>
+<organ_sortering datatype="int32">300</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+</personuppgift>
+</person>

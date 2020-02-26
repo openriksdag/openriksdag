@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "bee28f8b-45b3-404d-a5f0-8184d4b8b248",
+    "sourceid": "56c948c8-7be8-4668-867c-bd11099500b4",
+    "intressent_id": "0824343942006",
+    "hangar_id": "2342304",
+    "fodd_ar": "1944",
+    "kon": "man",
+    "efternamn": "Thingwall",
+    "tilltalsnamn": "Göran",
+    "sorteringsnamn": "Thingwall,Göran",
+    "iort": "",
+    "parti": "-",
+    "valkrets": "Stockholms län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/56c948c8-7be8-4668-867c-bd11099500b4",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/56c948c8-7be8-4668-867c-bd11099500b4_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/56c948c8-7be8-4668-867c-bd11099500b4_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/56c948c8-7be8-4668-867c-bd11099500b4_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "144",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2008-03-01",
+          "tom": "2010-10-04",
+          "uppgift": "Ewa Björling",
+          "intressent_id": "0824343942006",
+          "hangar_id": "2342304",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "282",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2007-09-18",
+          "tom": "2008-02-29",
+          "uppgift": "Mikael Sandström",
+          "intressent_id": "0824343942006",
+          "hangar_id": "2342304",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "210",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2006-11-17",
+          "tom": "2007-04-11",
+          "uppgift": "Anna Kinberg Batra",
+          "intressent_id": "0824343942006",
+          "hangar_id": "2342304",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-09-27",
+          "tom": "2010-01-27",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0824343942006",
+          "hangar_id": "2342304",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "leg.läkare",
+          "typ": "titlar",
+          "intressent_id": "0824343942006",
+          "hangar_id": "2342304"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0824343942006",
+          "hangar_id": "2342304"
+        }
+      ]
+    }
+  }
+}

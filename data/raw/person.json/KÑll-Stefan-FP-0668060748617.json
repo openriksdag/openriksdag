@@ -1,0 +1,130 @@
+{
+  "person": {
+    "hangar_guid": "323100d8-0212-4835-98d9-ed6ef183146b",
+    "sourceid": "e0413b38-5264-401d-88d5-2dce49fe77b5",
+    "intressent_id": "0668060748617",
+    "hangar_id": "2343186",
+    "fodd_ar": "1962",
+    "kon": "man",
+    "efternamn": "Käll",
+    "tilltalsnamn": "Stefan",
+    "sorteringsnamn": "Käll,Stefan",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "Södermanlands län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/e0413b38-5264-401d-88d5-2dce49fe77b5",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e0413b38-5264-401d-88d5-2dce49fe77b5_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e0413b38-5264-401d-88d5-2dce49fe77b5_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e0413b38-5264-401d-88d5-2dce49fe77b5_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "322",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2012-10-01",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0668060748617",
+          "hangar_id": "2343186",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-10-01",
+          "tom": "2014-09-29",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0668060748617",
+          "hangar_id": "2343186",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "18",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-10-01",
+          "tom": "2014-09-29",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0668060748617",
+          "hangar_id": "2343186",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "24",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-10-16",
+          "tom": "2014-09-29",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0668060748617",
+          "hangar_id": "2343186",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-10-01",
+          "tom": "2014-09-29",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0668060748617",
+          "hangar_id": "2343186",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Jurist",
+          "typ": "titlar",
+          "intressent_id": "0668060748617",
+          "hangar_id": "2343186"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0668060748617",
+          "hangar_id": "2343186"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0668060748617",
+          "hangar_id": "2343186"
+        }
+      ]
+    }
+  }
+}

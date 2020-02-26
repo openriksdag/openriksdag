@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "5e11bb5c-e9ae-4a0c-9321-4abc0f3f4b5a",
+    "sourceid": "59fcd4e3-35a1-48b3-9758-0a2333d00f1f",
+    "intressent_id": "0123485846301",
+    "hangar_id": "2341703",
+    "fodd_ar": "1926",
+    "kon": "kvinna",
+    "efternamn": "Johansson",
+    "tilltalsnamn": "Kersti",
+    "sorteringsnamn": "Johansson,Kersti",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/59fcd4e3-35a1-48b3-9758-0a2333d00f1f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/59fcd4e3-35a1-48b3-9758-0a2333d00f1f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/59fcd4e3-35a1-48b3-9758-0a2333d00f1f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/59fcd4e3-35a1-48b3-9758-0a2333d00f1f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "110",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0123485846301",
+          "hangar_id": "2341703",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0123485846301",
+          "hangar_id": "2341703",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0123485846301",
+          "hangar_id": "2341703",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "lantbrukare",
+          "typ": "titlar",
+          "intressent_id": "0123485846301",
+          "hangar_id": "2341703"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0123485846301",
+          "hangar_id": "2341703"
+        }
+      ]
+    }
+  }
+}

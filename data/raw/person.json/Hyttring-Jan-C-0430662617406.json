@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "18a5bddd-eb12-4fbd-a7ce-288eb873eef8",
+    "sourceid": "89b1a6e6-6993-49f6-9dfa-621e4d2a53e8",
+    "intressent_id": "0430662617406",
+    "hangar_id": "2342158",
+    "fodd_ar": "1942",
+    "kon": "man",
+    "efternamn": "Hyttring",
+    "tilltalsnamn": "Jan",
+    "sorteringsnamn": "Hyttring,Jan",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "",
+    "status": "Avliden  2020-01-04",
+    "person_url_xml": "http://data.riksdagen.se/person/89b1a6e6-6993-49f6-9dfa-621e4d2a53e8",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/89b1a6e6-6993-49f6-9dfa-621e4d2a53e8_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/89b1a6e6-6993-49f6-9dfa-621e4d2a53e8_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/89b1a6e6-6993-49f6-9dfa-621e4d2a53e8_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "260",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0430662617406",
+          "hangar_id": "2342158",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0430662617406",
+          "hangar_id": "2342158",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1983-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0430662617406",
+          "hangar_id": "2342158",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0430662617406",
+          "hangar_id": "2342158",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0430662617406",
+          "hangar_id": "2342158",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "ingenjör",
+          "typ": "titlar",
+          "intressent_id": "0430662617406",
+          "hangar_id": "2342158"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0430662617406",
+          "hangar_id": "2342158"
+        }
+      ]
+    }
+  }
+}

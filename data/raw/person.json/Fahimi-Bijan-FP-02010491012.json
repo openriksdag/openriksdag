@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "a1434e25-6384-475b-a261-f10b9be8a92a",
+    "sourceid": "be5ea1d2-94be-4d6a-8267-d83652aa61fb",
+    "intressent_id": "02010491012",
+    "hangar_id": "2343237",
+    "fodd_ar": "1963",
+    "kon": "man",
+    "efternamn": "Fahimi",
+    "tilltalsnamn": "Bijan",
+    "sorteringsnamn": "Fahimi,Bijan",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/be5ea1d2-94be-4d6a-8267-d83652aa61fb",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/be5ea1d2-94be-4d6a-8267-d83652aa61fb_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/be5ea1d2-94be-4d6a-8267-d83652aa61fb_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/be5ea1d2-94be-4d6a-8267-d83652aa61fb_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Ersättare",
+        "ordningsnummer": "51",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "1999-11-22",
+        "tom": "1999-12-28",
+        "uppgift": "Karin Pilsäter",
+        "intressent_id": "02010491012",
+        "hangar_id": "2343237",
+        "sortering": "45",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": ""
+  }
+}

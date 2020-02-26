@@ -1,0 +1,66 @@
+{
+  "person": {
+    "hangar_guid": "f2b4feb0-8298-4728-911f-ca6bbc4bb46f",
+    "sourceid": "fc3b3864-8e29-4fd4-ae65-fe387f3f6f4b",
+    "intressent_id": "091303475611",
+    "hangar_id": "5004115",
+    "fodd_ar": "1970",
+    "kon": "man",
+    "efternamn": "Palmqvist",
+    "tilltalsnamn": "Eric",
+    "sorteringsnamn": "Palmqvist,Eric",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Norrbottens län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/fc3b3864-8e29-4fd4-ae65-fe387f3f6f4b",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fc3b3864-8e29-4fd4-ae65-fe387f3f6f4b_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fc3b3864-8e29-4fd4-ae65-fe387f3f6f4b_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fc3b3864-8e29-4fd4-ae65-fe387f3f6f4b_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "313",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "091303475611",
+          "hangar_id": "5004115",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "091303475611",
+          "hangar_id": "5004115",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "eric.palmqvist[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "091303475611",
+        "hangar_id": "5004115"
+      }
+    }
+  }
+}

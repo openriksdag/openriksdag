@@ -1,0 +1,114 @@
+{
+  "person": {
+    "hangar_guid": "6b4842b7-b963-477d-9285-ca456d439703",
+    "sourceid": "c0b88fff-b506-45e4-b87a-29dd67a1dde2",
+    "intressent_id": "0548038946425",
+    "hangar_id": "3057094",
+    "fodd_ar": "1981",
+    "kon": "man",
+    "efternamn": "Olsson Fridh",
+    "tilltalsnamn": "Per",
+    "sorteringsnamn": "Olsson Fridh,Per",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "Stockholms kommun",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/c0b88fff-b506-45e4-b87a-29dd67a1dde2",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c0b88fff-b506-45e4-b87a-29dd67a1dde2_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c0b88fff-b506-45e4-b87a-29dd67a1dde2_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c0b88fff-b506-45e4-b87a-29dd67a1dde2_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "314",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "2014-10-14",
+          "tom": "2018-09-24",
+          "uppgift": "Jakop Dalunde 2014-10-14 - 2015-05-17, Magda Rasmusson 2015-05-18 - 2015-12-17, Jakop Dalunde 2015-12-18 - 2016-06-06, Stefan Nilsson 2016-06-07 - 2017-07-14, Lorentz Tovatt 2017-07-15 - 2018-09-24  Offentligt uppdrag",
+          "intressent_id": "0548038946425",
+          "hangar_id": "3057094",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "314",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2014-10-13",
+          "uppgift": "",
+          "intressent_id": "0548038946425",
+          "hangar_id": "3057094",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2014-10-21",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0548038946425",
+          "hangar_id": "3057094",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "21",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-14",
+          "tom": "2014-10-21",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0548038946425",
+          "hangar_id": "3057094",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "21",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-14",
+          "tom": "2014-10-21",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0548038946425",
+          "hangar_id": "3057094",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "true",
+        "typ": "val",
+        "intressent_id": "0548038946425",
+        "hangar_id": "3057094"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5004202</hangar_id>
+    <dok_id datatype="string">H601UU3</dok_id>
+    <rm datatype="string">2018/19</rm>
+    <beteckning datatype="string">UU3</beteckning>
+    <typ datatype="string">bet</typ>
+    <subtyp datatype="string">bet</subtyp>
+    <doktyp datatype="string">bet</doktyp>
+    <typrubrik datatype="string">Betänkande 2018/19:UU3</typrubrik>
+    <dokumentnamn datatype="string">Betänkande</dokumentnamn>
+    <debattnamn datatype="string">Debatt om förslag</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">UU</organ>
+    <mottagare datatype="string"></mottagare>
+    <nummer datatype="int32">3</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2019-04-10 00:00:00</datum>
+    <systemdatum datatype="datetime">2019-08-15 09:45:09</systemdatum>
+    <publicerad datatype="datetime">2019-04-10 10:09:49</publicerad>
+    <titel datatype="string">Avtal om politisk dialog och samarbete mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Kuba, å andra sidan</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">planerat</status>
+    <htmlformat datatype="string"></htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">Brus</source>
+    <sourceid datatype="string">198bedb9-30c9-452b-924c-0efded45ea4d</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H601UU3/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H601UU3</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H601UU3</dokumentstatus_url_xml>
+    <utskottsforslag_url_xml datatype="stext">http://data.riksdagen.se/utskottsforslag/H601UU3</utskottsforslag_url_xml>
+    <html datatype="text">&lt;h2&gt;Avtal om politisk dialog och samarbete mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Kuba, å andra sidan&lt;/h2&gt;
+Dokumentet är inte publicerat</html>
+  </dokument>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">UBE</kod>
+<namn datatype="string">Beredning</namn>
+<datum datatype="datetime">2019-03-28 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">UBE</kod>
+<namn datatype="string">Beredning</namn>
+<datum datatype="datetime">2019-04-04 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">UBE</kod>
+<namn datatype="string">Beredning</namn>
+<datum datatype="datetime">2019-04-11 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+</dokaktivitet>
+<dokuppgift>
+<uppgift>
+<kod datatype="string">statustext</kod>
+<namn datatype="string">statustext</namn>
+<text datatype="string">Utskottet arbetar med ärendet</text>
+<dok_id datatype="string">H601UU3</dok_id>
+<systemdatum datatype="datetime">2019-04-10 10:32:27</systemdatum>
+</uppgift>
+</dokuppgift>
+<debatt /></dokumentstatus>

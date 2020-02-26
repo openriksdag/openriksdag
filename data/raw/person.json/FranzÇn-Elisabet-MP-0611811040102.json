@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "20e99b25-56fe-4dba-bdfa-278bae9e3725",
+    "sourceid": "725c1250-db50-46b6-88da-a56f31105863",
+    "intressent_id": "0611811040102",
+    "hangar_id": "2342117",
+    "fodd_ar": "1941",
+    "kon": "kvinna",
+    "efternamn": "Franzén",
+    "tilltalsnamn": "Elisabet",
+    "sorteringsnamn": "Franzén,Elisabet",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/725c1250-db50-46b6-88da-a56f31105863",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/725c1250-db50-46b6-88da-a56f31105863_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/725c1250-db50-46b6-88da-a56f31105863_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/725c1250-db50-46b6-88da-a56f31105863_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "214",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-04",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0611811040102",
+          "hangar_id": "2342117",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0611811040102",
+          "hangar_id": "2342117",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "LU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Lagutskottet",
+          "intressent_id": "0611811040102",
+          "hangar_id": "2342117",
+          "sortering": "30",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

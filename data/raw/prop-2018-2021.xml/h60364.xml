@@ -1,0 +1,1718 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5024116</hangar_id>
+    <dok_id datatype="string">H60364</dok_id>
+    <rm datatype="string">2018/19</rm>
+    <beteckning datatype="string">64</beteckning>
+    <typ datatype="string">prop</typ>
+    <subtyp datatype="string">prop</subtyp>
+    <doktyp datatype="string">prop</doktyp>
+    <typrubrik datatype="string">Proposition 2018/19:64</typrubrik>
+    <dokumentnamn datatype="string">Proposition</dokumentnamn>
+    <debattnamn datatype="string">Proposition</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">Miljö- och energidepartementet</organ>
+    <mottagare datatype="string">MJU</mottagare>
+    <nummer datatype="int32">64</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2019-03-12 00:00:00</datum>
+    <systemdatum datatype="datetime">2019-05-09 16:45:29</systemdatum>
+    <publicerad datatype="datetime">2019-03-12 00:00:00</publicerad>
+    <titel datatype="string">Säkerhet vid geologisk lagring av koldioxid</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">Klar</status>
+    <htmlformat datatype="string">html-ec</htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">prop-RIM</source>
+    <sourceid datatype="string">0ddd8f20-ef3d-409a-8926-5f098dc6b26e</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H60364/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H60364</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H60364</dokumentstatus_url_xml>
+    <html datatype="text">&lt;div style="margin:3px;"&gt;
+&lt;STYLE type="text/css"&gt;
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:10px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_1 #p1dimg1 {position:absolute;top:0px;left:651px;z-index:-1;width:56px;height:98px;}
+#page_1 #p1dimg1 #p1img1 {width:56px;height:98px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+#page_4 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 902px;overflow: hidden;}
+#page_4 #id_2 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_4 #id_2 #id_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_4 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_4 #id_3 {border:none;z:b;margin:7px 0px 0px 10px ;padding: 0px;border:none;width: 766px;overflow: hidden;}
+#page_4 #id_3 #id_3_1 {float:left;border:none;z:b;margin:21px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_4 #id_3 #id_3_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 766px;}
+#page_5 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_5 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+
+#page_5 #p5dimg1 {position:absolute;top:654px;left:0px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_5 #p5dimg1 #p5img1 {width:123px;height:1px;}
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_7 #p7dimg1 {position:absolute;top:89px;left:147px;z-index:-1;width:393px;height:177px;}
+#page_7 #p7dimg1 #p7img1 {width:393px;height:177px;}
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:14px 0px 52px 10px ;padding: 0px;border: none;width: 586px;}
+
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_9 #p9dimg1 {position:absolute;top:481px;left:147px;z-index:-1;width:393px;height:39px;}
+#page_9 #p9dimg1 #p9img1 {width:393px;height:39px;}
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:14px 0px 52px 10px ;padding: 0px;border: none;width: 631px;}
+
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 766px;}
+#page_13 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_13 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:15px 0px 0px 10px ;padding: 0px;border: none;width: 947px;}
+#page_15 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_15 #id_1 #id_1_1 {float:left;border:none;z:b;margin:15px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_15 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_15 #id_2 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 902px;overflow: hidden;}
+#page_15 #id_2 #id_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+#page_15 #id_2 #id_2_1 #id_2_1_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_15 #id_2 #id_2_1 #id_2_1_2 {float:left;border:none;z:b;margin:109px 0px 0px 10px ;padding: 0px;border:none;width: 180px;overflow: hidden;}
+#page_15 #id_2 #id_2_2 {float:left;border:none;z:b;margin:74px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_15 #id_2 #id_2_3 {float:left;border:none;z:b;margin:79px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+#page_16 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_16 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 586px;}
+#page_17 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_17 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+
+#page_17 #p17dimg1 {position:absolute;top:62px;left:0px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_17 #p17dimg1 #p17img1 {width:123px;height:1px;}
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+
+
+
+
+
+#page_19 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+#page_19 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_19 #id_1 #id_1_1 {float:left;border:none;z:b;margin:15px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_19 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_19 #id_2 {border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_19 #id_2 #id_2_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_19 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_19 #id_3 {border:none;z:b;margin:22px 0px 0px 10px ;padding: 0px;border:none;width: 902px;overflow: hidden;}
+
+
+
+
+
+#page_20 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+#page_20 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_20 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+
+
+
+
+#page_21 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 586px;}
+#page_21 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_21 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+
+#page_21 #p21dimg1 {position:absolute;top:62px;left:0px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_21 #p21dimg1 #p21img1 {width:123px;height:1px;}
+
+
+
+
+#page_22 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+
+
+
+
+
+#page_23 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 586px;}
+#page_23 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+#page_23 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+
+
+
+
+
+#page_24 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+
+#page_24 #p24dimg1 {position:absolute;top:238px;left:105px;z-index:-1;width:112px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_24 #p24dimg1 #p24img1 {width:112px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  18px 'Verdana' !important;l-h: 32px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft2{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft3{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft4{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft5{font:  14px 'Verdana' !important;margin-left: 50px;l-h: 22px;}
+.ft6{font:  14px 'Verdana' !important;margin-left: 51px;l-h: 22px;}
+.ft7{font:  10px 'Verdana' !important;l-h: 12px;position: relative; bottom: 5px;}
+.ft8{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft9{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft10{font: italic  12px 'Verdana' !important;l-h: 16px;}
+.ft11{font:  10px 'Verdana' !important;l-h: 8px;position: relative; bottom: 4px;}
+.ft12{font:  12px 'Verdana' !important;l-h: 12px;}
+.ft13{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft14{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft15{font: bold  12px 'Verdana' !important;margin-left: 3px;l-h: 21px;}
+.ft16{font:  12px 'Verdana' !important;l-h: 21px;}
+.ft17{font:  10px 'Verdana' !important;l-h: 18px;position: relative; bottom: 5px;}
+.ft18{font: bold  12px 'Verdana' !important;l-h: 21px;}
+.ft19{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 15px;}
+.ft20{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 16px;}
+.ft21{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft22{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 15px;}
+.ft23{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft24{font:  12px 'Verdana' !important;l-h: 17px;}
+.ft25{font:  10px 'Verdana' !important;l-h: 6px;}
+.ft26{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 14px;}
+.ft27{font: bold  12px 'Verdana' !important;l-h: 16px;}
+.ft28{font: bold  12px 'Verdana' !important;l-h: 17px;}
+.ft29{font: bold  12px 'Verdana' !important;l-h: 14px;}
+.ft30{font: italic  12px 'Verdana' !important;l-h: 14px;}
+.ft31{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft32{font:  10px 'Verdana' !important;l-h: 13px;}
+.ft33{font:  12px 'Verdana' !important;l-h: 13px;}
+.ft34{font:  10px 'Verdana' !important;l-h: 14px;}
+.ft35{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft36{font: bold  12px 'Verdana' !important;margin-left: 4px;l-h: 21px;}
+.ft37{font: italic  10px 'Verdana' !important;l-h: 0px;}
+.ft38{font:  10px 'Verdana' !important;l-h: 0px;}
+.ft39{font: italic  12px 'Verdana' !important;l-h: 0px;}
+.ft40{font:  10px 'Verdana' !important;l-h: 2px;}
+.ft41{font:  10px 'Verdana' !important;margin-left: 159px;l-h: 6px;}
+.ft42{font:  10px 'Verdana' !important;l-h: 6px;}
+.ft43{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 16px;}
+.ft44{font: bold  12px 'Verdana' !important;margin-left: 3px;l-h: 15px;}
+.ft45{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 12px;}
+.ft46{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 17px;}
+.ft47{font:  10px 'Verdana' !important;l-h: 8px;}
+.ft48{font:  12px 'Verdana' !important;margin-left: 2px;l-h: 14px;}
+.ft49{font: bold  12px 'Verdana' !important;l-h: 18px;}
+.ft50{font:  12px 'Verdana' !important;l-h: 18px;}
+.ft51{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft52{font:  10px 'Verdana' !important;l-h: 7px;}
+
+.p0{text-align: left;padding-left: 120px;padding-right: 525px;margin-top: 22px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p4{text-align: left;padding-left: 120px;margin-top: 18px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 120px;margin-top: 15px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 120px;margin-top: 32px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 260px;margin-top: 18px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 260px;margin-top: 2px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 120px;margin-top: 51px;margin-bottom: 0px !important;}
+.p10{text-align: left;padding-left: 120px;margin-top: 26px;margin-bottom: 0px !important;}
+.p11{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p12{text-align: left;padding-left: 140px;margin-top: 4px;margin-bottom: 0px !important;}
+.p13{text-align: right;padding-right: 126px;margin-top: 245px;margin-bottom: 0px !important;}
+.p14{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p15{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p17{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p18{text-align: left;margin-top: 394px;margin-bottom: 0px !important;}
+.p19{text-align: left;padding-left: 520px;margin-top: 0px;margin-bottom: 0px !important;}
+.p20{text-align: left;padding-left: 120px;margin-top: 33px;margin-bottom: 0px !important;}
+.p21{text-align: left;padding-left: 140px;margin-top: 3px;margin-bottom: 0px !important;}
+.p22{text-align: right;padding-right: 126px;margin-top: 649px;margin-bottom: 0px !important;}
+.p23{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p24{text-align: left;padding-left: 220px;margin-top: 34px;margin-bottom: 0px !important;}
+.p25{text-align: left;padding-left: 220px;margin-top: 15px;margin-bottom: 0px !important;}
+.p26{text-align: left;padding-left: 220px;margin-top: 1px;margin-bottom: 0px !important;}
+.p27{text-align: right;padding-right: 147px;margin-top: 2px;margin-bottom: 0px !important;}
+.p28{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p29{text-align: center;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p30{text-align: right;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p31{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p32{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p33{text-align: left;padding-right: 147px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p34{text-align: left;padding-right: 147px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p35{text-align: left;margin-top: 14px;margin-bottom: 0px !important;}
+.p36{text-align: left;padding-right: 147px;margin-top: 8px;margin-bottom: 0px !important;}
+.p37{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p38{text-align: left;margin-top: 7px;margin-bottom: 0px !important;}
+.p39{text-align: left;padding-left: 160px;padding-right: 189px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.10px;}
+.p40{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p41{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p42{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p43{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p44{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p45{text-align: right;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p46{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p47{text-align: left;padding-left: 0px;margin-top: 25px;margin-bottom: 0px !important;}
+.p48{text-align: left;margin-top: 85px;margin-bottom: 0px !important;}
+.p49{text-align: right;padding-right: 126px;margin-top: 752px;margin-bottom: 0px !important;}
+.p50{text-align: left;padding-left: 0px;margin-top: 34px;margin-bottom: 0px !important;}
+.p51{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 16px;margin-bottom: 0px !important;}
+.p52{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p53{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p54{text-align: left;padding-left: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p55{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 5px;margin-bottom: 0px !important;}
+.p56{text-align: left;margin-top: 212px;margin-bottom: 0px !important;}
+.p57{text-align: left;padding-left: 140px;padding-right: 336px;margin-top: 18px;margin-bottom: 0px !important;}
+.p58{text-align: left;padding-left: 140px;padding-right: 336px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p59{text-align: left;padding-left: 140px;padding-right: 336px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p60{text-align: left;padding-left: 120px;padding-right: 315px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p61{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p62{text-align: left;padding-left: 120px;margin-top: 14px;margin-bottom: 0px !important;}
+.p63{text-align: left;padding-left: 120px;margin-top: 5px;margin-bottom: 0px !important;}
+.p64{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 3px;margin-bottom: 0px !important;}
+.p65{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p66{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p67{text-align: right;padding-right: 126px;margin-top: 5px;margin-bottom: 0px !important;}
+.p68{text-align: left;padding-left: 120px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p69{text-align: left;padding-left: 120px;margin-top: 12px;margin-bottom: 0px !important;}
+.p70{text-align: left;padding-left: 120px;padding-right: 315px;margin-top: 5px;margin-bottom: 0px !important;}
+.p71{text-align: left;padding-left: 120px;margin-top: 19px;margin-bottom: 0px !important;}
+.p72{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 5px;margin-bottom: 0px !important;}
+.p73{text-align: left;padding-left: 120px;margin-top: 43px;margin-bottom: 0px !important;}
+.p74{text-align: left;padding-left: 140px;padding-right: 336px;margin-top: 21px;margin-bottom: 0px !important;}
+.p75{text-align: left;padding-left: 140px;margin-top: 0px;margin-bottom: 0px !important;}
+.p76{text-align: left;padding-left: 120px;padding-right: 315px;margin-top: 17px;margin-bottom: 0px !important;}
+.p77{text-align: right;padding-right: 126px;margin-top: 0px;margin-bottom: 0px !important;}
+.p78{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p79{text-align: left;padding-left: 0px;margin-top: 11px;margin-bottom: 0px !important;}
+.p80{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 5px;margin-bottom: 0px !important;}
+.p81{text-align: left;padding-left: 0px;margin-top: 18px;margin-bottom: 0px !important;}
+.p82{text-align: left;padding-left: 0px;margin-top: 12px;margin-bottom: 0px !important;}
+.p83{text-align: left;margin-top: 19px;margin-bottom: 0px !important;}
+.p84{text-align: left;padding-left: 120px;margin-top: 16px;margin-bottom: 0px !important;}
+.p85{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 0px;margin-bottom: 0px !important;}
+.p86{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p87{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 11px;margin-bottom: 0px !important;}
+.p88{text-align: left;padding-left: 120px;padding-right: 315px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p89{text-align: right;padding-right: 126px;margin-top: 78px;margin-bottom: 0px !important;}
+.p90{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p91{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p92{text-align: right;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p93{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p94{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p95{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 16px;margin-bottom: 0px !important;}
+.p96{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p97{text-align: left;margin-top: 414px;margin-bottom: 0px !important;}
+.p98{text-align: left;margin-top: 17px;margin-bottom: 0px !important;}
+.p99{text-align: left;margin-top: 10px;margin-bottom: 0px !important;}
+.p100{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p101{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p102{text-align: left;padding-left: 160px;padding-right: 189px;margin-top: 12px;margin-bottom: 0px !important;text-indent: 0.9px;}
+.p103{text-align: left;padding-right: 672px;margin-top: 0px;margin-bottom: 0px !important;}
+.p104{text-align: left;padding-right: 672px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p105{text-align: left;padding-left: 120px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.153px;}
+.p106{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;}
+.p107{text-align: left;margin-top: 734px;margin-bottom: 0px !important;}
+.p108{text-align: left;padding-left: 160px;padding-right: 441px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.13px;}
+.p109{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 12px;}
+.p110{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 12px;}
+.p111{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p112{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p113{text-align: right;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p114{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p115{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p116{text-align: left;padding-right: 147px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p117{text-align: left;padding-left: 0px;margin-top: 29px;margin-bottom: 0px !important;}
+.p118{text-align: left;padding-right: 6px;margin-top: 0px;margin-bottom: 0px !important;}
+.p119{text-align: right;margin-top: 734px;margin-bottom: 0px !important;}
+.p120{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p121{text-align: left;margin-top: 384px;margin-bottom: 0px !important;}
+.p122{text-align: left;padding-left: 140px;margin-top: 12px;margin-bottom: 0px !important;}
+.p123{text-align: left;padding-left: 160px;margin-top: 6px;margin-bottom: 0px !important;}
+.p124{text-align: left;margin-top: 20px;margin-bottom: 0px !important;text-indent: 11px;}
+.p125{text-align: left;padding-right: 5px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p126{text-align: left;padding-left: 120px;margin-top: 4px;margin-bottom: 0px !important;}
+.p127{text-align: left;padding-left: 180px;margin-top: 0px;margin-bottom: 0px !important;}
+.p128{text-align: left;padding-left: 180px;padding-right: 147px;margin-top: 8px;margin-bottom: 0px !important;}
+.p129{text-align: left;padding-left: 160px;padding-right: 441px;margin-top: 12px;margin-bottom: 0px !important;text-indent: 0.11px;}
+.p130{text-align: left;margin-top: 58px;margin-bottom: 0px !important;}
+.p131{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 15px;margin-bottom: 0px !important;}
+.p132{text-align: left;padding-left: 0px;margin-top: 27px;margin-bottom: 0px !important;}
+.p133{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 12px;margin-bottom: 0px !important;}
+.p134{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 13px;margin-bottom: 0px !important;}
+.p135{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p136{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 4px;margin-bottom: 0px !important;}
+.p137{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p138{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p139{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p140{text-align: right;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p141{text-align: left;margin-top: 0px;margin-bottom: 0px !important;text-indent: 13px;}
+.p142{text-align: left;padding-left: 0px;padding-right: 6px;margin-top: 0px;margin-bottom: 0px !important;}
+.p143{text-align: left;padding-left: 0px;margin-top: 33px;margin-bottom: 0px !important;}
+.p144{text-align: left;padding-left: 0px;margin-top: 14px;margin-bottom: 0px !important;}
+.p145{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 16px;margin-bottom: 0px !important;}
+.p146{text-align: left;padding-left: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p147{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 76px;margin-bottom: 0px !important;}
+.p148{text-align: left;margin-top: 451px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 392px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 134px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 392px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 134px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 397px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 14px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 17px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 380px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 79px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 318px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 149px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 172px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 215px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 197px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 118px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 413px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 124px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 106px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 198px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 85px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 453px;vertical-align: bottom;}
+
+.tr0{heightzzz: 31px;}
+.tr1{heightzzz: 23px;}
+.tr2{heightzzz: 34px;}
+.tr3{heightzzz: 32px;}
+.tr4{heightzzz: 22px;}
+.tr5{heightzzz: 24px;}
+.tr6{heightzzz: 17px;}
+.tr7{heightzzz: 15px;}
+.tr8{heightzzz: 16px;}
+.tr9{heightzzz: 21px;}
+.tr10{heightzzz: 18px;}
+.tr11{heightzzz: 27px;}
+.tr12{heightzzz: 13px;}
+.tr13{heightzzz: 14px;}
+.tr14{heightzzz: 28px;}
+.tr15{heightzzz: 19px;}
+.tr16{heightzzz: 7px;}
+
+.t0{width: 552px;margin-leftZ: 154px;margin-top: 5px;f:20px 'Verdana' !important;}
+.t1{width: 432px;margin-leftZ: 113px;margin-top: 29px;f:13px 'Verdana' !important;}
+.t2{width: 336px;margin-leftZ: 247px;margin-top: 11px;f:italic 13px 'Verdana' !important;}
+.t3{width: 432px;f:13px 'Verdana' !important;}
+.t4{width: 557px;f:13px 'Verdana' !important;}
+.t5{width: 564px;f:italic 12px 'Verdana' !important;}
+.t6{width: 336px;margin-top: 15px;f:italic 13px 'Verdana' !important;}
+.t7{width: 433px;f:13px 'Verdana' !important;}
+.t8{width: 564px;margin-top: 7px;f:13px 'Verdana' !important;}
+
+&lt;/STYLE&gt;
+
+
+
+&lt;DIV id="page_1"&gt;
+&lt;DIV id="p1dimg1"&gt;
+&lt;INGENBILD zsrc="H603641x1.jpg/" id="p1img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV class="dclr"&gt;&lt;/DIV&gt;
+&lt;P class="p0 ft0"&gt;Regeringens proposition 2018/19:64&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t0"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr0 td0"&gt;&lt;SPAN class="p1 ft1"&gt;Säkerhet vid geologisk lagring av koldioxid&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td1"&gt;&lt;SPAN class="p2 ft1"&gt;Prop.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td2"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td3"&gt;&lt;SPAN class="p2 ft1"&gt;2018/19:64&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p4 ft3"&gt;Regeringen överlämnar denna proposition till riksdagen.&lt;/P&gt;
+&lt;P class="p5 ft3"&gt;Stockholm den 7 mars 2019&lt;/P&gt;
+&lt;P class="p6 ft4"&gt;Stefan Löfven&lt;/P&gt;
+&lt;P class="p7 ft4"&gt;Isabella Lövin&lt;/P&gt;
+&lt;P class="p8 ft3"&gt;(Miljö- och energidepartementet)&lt;/P&gt;
+&lt;P class="p9 ft1"&gt;Propositionens huvudsakliga innehåll&lt;/P&gt;
+&lt;P class="p10 ft3"&gt;I propositionen föreslås ändringar i miljöbalken som innebär följande.&lt;/P&gt;
+&lt;P class="p11 ft3"&gt;När ett tillstånd till geologisk lagring av koldioxid ges ska kravet på säkerhet inte längre vara begränsat till att endast omfatta avhjälpande av en miljöskada och andra återställningsåtgärder. Villkor om säkerhet ska kunna justeras om det kan antas att den säkerhet som ställts inte längre är tillräcklig eller är större än vad som behövs. Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om vad som krävs för att en säkerhet ska kunna godtas.&lt;/P&gt;
+&lt;P class="p12 ft3"&gt;Lagändringarna föreslås träda i kraft den 1 augusti 2019.&lt;/P&gt;
+&lt;P class="p13 ft3"&gt;1&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_2"&gt;
+
+
+&lt;P class="p14 ft3"&gt;Prop. 2018/19:64&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t1"&gt;
+&lt;TR height=0&gt;
+	&lt;TD width=17px&gt;&lt;/TD&gt;
+	&lt;TD width=59px&gt;&lt;/TD&gt;
+	&lt;TD width=303px&gt;&lt;/TD&gt;
+	&lt;TD width=14px&gt;&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr2 td4"&gt;&lt;SPAN class="p3 ft1"&gt;Innehållsförteckning&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td5"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr3 td6"&gt;&lt;SPAN class="p3 ft3"&gt;1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr3 td7"&gt;&lt;SPAN class="p15 ft3"&gt;Förslag till riksdagsbeslut .................................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr3 td5"&gt;&lt;SPAN class="p16 ft3"&gt;3&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p3 ft3"&gt;2&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td7"&gt;&lt;SPAN class="p15 ft3"&gt;Förslag till lag om ändring i miljöbalken..........................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td5"&gt;&lt;SPAN class="p16 ft3"&gt;4&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p3 ft3"&gt;3&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td7"&gt;&lt;SPAN class="p15 ft3"&gt;Ärendet och dess beredning ..............................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td5"&gt;&lt;SPAN class="p16 ft3"&gt;6&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p3 ft3"&gt;4&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td7"&gt;&lt;SPAN class="p15 ft3"&gt;Utvidgade bestämmelser om säkerhet...............................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td5"&gt;&lt;SPAN class="p16 ft3"&gt;7&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p3 ft3"&gt;5&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td7"&gt;&lt;SPAN class="p15 ft3"&gt;Ikraftträdande....................................................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td5"&gt;&lt;SPAN class="p16 ft3"&gt;9&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p3 ft3"&gt;6&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td7"&gt;&lt;SPAN class="p15 ft3"&gt;Konsekvenser....................................................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td5"&gt;&lt;SPAN class="p16 ft3"&gt;9&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr4 td6"&gt;&lt;SPAN class="p3 ft3"&gt;7&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD colspan=2 class="tr4 td7"&gt;&lt;SPAN class="p15 ft3"&gt;Författningskommentar...................................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td5"&gt;&lt;SPAN class="p16 ft3"&gt;11&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td8"&gt;&lt;SPAN class="p3 ft3"&gt;Bilaga 1&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td9"&gt;&lt;SPAN class="p3 ft3"&gt;Sammanfattning av promemorian ....................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td5"&gt;&lt;SPAN class="p16 ft3"&gt;14&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td8"&gt;&lt;SPAN class="p3 ft3"&gt;Bilaga 2&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td9"&gt;&lt;SPAN class="p3 ft3"&gt;Promemorians lagförslag..................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td5"&gt;&lt;SPAN class="p16 ft3"&gt;15&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td8"&gt;&lt;SPAN class="p3 ft3"&gt;Bilaga 3&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td9"&gt;&lt;SPAN class="p3 ft3"&gt;Förteckning över remissinstanserna .................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td5"&gt;&lt;SPAN class="p16 ft3"&gt;18&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td8"&gt;&lt;SPAN class="p3 ft3"&gt;Bilaga 4&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td9"&gt;&lt;SPAN class="p3 ft3"&gt;Lagrådsremissens lagförslag ............................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td5"&gt;&lt;SPAN class="p17 ft3"&gt;19&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=2 class="tr4 td8"&gt;&lt;SPAN class="p3 ft3"&gt;Bilaga 5&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td9"&gt;&lt;SPAN class="p3 ft3"&gt;Lagrådets yttrande............................................................&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td5"&gt;&lt;SPAN class="p17 ft3"&gt;22&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD colspan=3 class="tr4 td4"&gt;&lt;SPAN class="p3 ft3"&gt;Utdrag ur protokoll vid regeringssammanträde den 7 mars 2019 ...........&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr4 td5"&gt;&lt;SPAN class="p17 ft3"&gt;24&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p18 ft3"&gt;2&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_3"&gt;
+
+
+&lt;P class="p19 ft3"&gt;Prop. 2018/19:64&lt;/P&gt;
+&lt;P class="p20 ft1"&gt;&lt;SPAN class="ft1"&gt;1&lt;/SPAN&gt;&lt;SPAN class="ft5"&gt;Förslag till riksdagsbeslut&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p5 ft3"&gt;Regeringens förslag:&lt;/P&gt;
+&lt;P class="p21 ft3"&gt;Riksdagen antar regeringens förslag till lag om ändring i miljöbalken.&lt;/P&gt;
+&lt;P class="p22 ft3"&gt;3&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_4"&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;P class="p23 ft3"&gt;Prop. 2018/19:64&lt;/P&gt;
+&lt;P class="p24 ft1"&gt;&lt;SPAN class="ft1"&gt;2&lt;/SPAN&gt;&lt;SPAN class="ft6"&gt;Förslag till lag om ändring i miljöbalken&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p25 ft3"&gt;Härigenom föreskrivs&lt;SPAN class="ft7"&gt;1 &lt;/SPAN&gt;i fråga om miljöbalken&lt;/P&gt;
+&lt;P class="p26 ft3"&gt;&lt;SPAN class="ft4"&gt;dels &lt;/SPAN&gt;att 15 kap. 37 § och 24 kap. 5 § ska ha följande lydelse,&lt;/P&gt;
+&lt;P class="p27 ft3"&gt;&lt;SPAN class="ft4"&gt;dels &lt;/SPAN&gt;att det ska införas en ny paragraf, 15 kap. 37 a §, av följande lydelse.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t2"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td10"&gt;&lt;SPAN class="p3 ft4"&gt;Nuvarande lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td11"&gt;&lt;SPAN class="p28 ft8"&gt;Föreslagen lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td10"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td11"&gt;&lt;SPAN class="p29 ft9"&gt;15 kap.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr5 td10"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr5 td11"&gt;&lt;SPAN class="p30 ft3"&gt;37 §&lt;SPAN class="ft7"&gt;2&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;DIV id="id_2_1"&gt;
+&lt;P class="p31 ft3"&gt;Tillstånd till geologisk lagring av koldioxid &lt;SPAN class="ft4"&gt;får ges endast om &lt;/SPAN&gt;verksamhetsutövaren ställer säkerhet &lt;SPAN class="ft4"&gt;enligt 16 kap. 3 § &lt;/SPAN&gt;eller vidtar någon annan lämplig åtgärd för att säkerställa fullgörandet av de skyldigheter som gäller för verksamheten enligt denna balk, lagen (2004:1199) om handel med utsläppsrätter samt de föreskrifter och tillståndsvillkor som har meddelats med stöd av dessa lagar.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2_2"&gt;
+&lt;P class="p32 ft3"&gt;Tillstånd till geologisk lagring av koldioxid &lt;SPAN class="ft4"&gt;ska för sin giltighet göras beroende av att &lt;/SPAN&gt;verksamhetsutövaren ställer säkerhet eller vidtar någon annan lämplig åtgärd för att säkerställa fullgörandet av de skyldigheter som gäller för verksamheten enligt denna balk, lagen (2004:1199) om handel med utsläppsrätter samt de föreskrifter och tillståndsvillkor som har meddelats med stöd av dessa lagar. &lt;SPAN class="ft4"&gt;En säkerhet får ställas efter hand enligt en plan som vid varje tid tillgodoser det aktuella behovet av säkerhet.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p33 ft8"&gt;När en säkerhet ställs ska den prövas av tillståndsmyndigheten. Säkerheten ska godtas om den visas vara betryggande för sitt ändamål.&lt;/P&gt;
+&lt;P class="p34 ft10"&gt;Staten, kommuner, landsting och kommunalförbund behöver inte ställa säkerhet.&lt;/P&gt;
+&lt;P class="p35 ft4"&gt;37 a §&lt;/P&gt;
+&lt;P class="p36 ft10"&gt;Regeringen eller den myndighet som regeringen bestämmer får meddela ytterligare föreskrifter om vad som krävs för att en säkerhet ska kunna godtas.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_3"&gt;
+&lt;DIV id="id_3_1"&gt;
+&lt;P class="p14 ft3"&gt;4&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_3_2"&gt;
+&lt;P class="p37 ft12"&gt;&lt;SPAN class="ft11"&gt;1 &lt;/SPAN&gt;Jfr Europaparlamentets och rådets direktiv 2009/31/EG av den 23 april 2009 om geologisk lagring av koldioxid och ändring av rådets direktiv 85/337/EEG, Europaparlamentets och rådets direktiv 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG och 2008/1/EG samt förordning (EG) nr 1013/2006, i lydelsen enligt Europaparlamentets och rådets förordning (EU) 2018/1999.&lt;/P&gt;
+&lt;P class="p38 ft13"&gt;&lt;SPAN class="ft11"&gt;2 &lt;/SPAN&gt;Senaste lydelse 2016:782.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_5"&gt;
+&lt;DIV id="p5dimg1"&gt;
+&lt;INGENBILD zsrc="H603645x1.jpg/" id="p5img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p39 ft18"&gt;&lt;SPAN class="ft14"&gt;24&lt;/SPAN&gt;&lt;SPAN class="ft15"&gt;kap. &lt;/SPAN&gt;&lt;SPAN class="ft16"&gt;5 §&lt;/SPAN&gt;&lt;SPAN class="ft17"&gt;3&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p40 ft3"&gt;I fråga om miljöfarlig verksamhet eller vattenverksamhet får tillståndsmyndigheten ompröva tillstånd när det gäller en bestämmelse om tillåten produktionsmängd eller annan liknande bestämmelse om verksamhetens omfattning, samt ändra eller upphäva villkor eller andra bestämmelser eller meddela nya sådana&lt;/P&gt;
+&lt;P class="p41 ft3"&gt;&lt;SPAN class="ft3"&gt;1.&lt;/SPAN&gt;&lt;SPAN class="ft19"&gt;när, från det tillståndsbeslutet fick laga kraft, det förflutit tio år eller den kortare tid som, på grund av vad som följer av Sveriges medlemskap i Europeiska unionen, föreskrivs av regeringen eller den myndighet som regeringen bestämmer,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p42 ft21"&gt;&lt;SPAN class="ft3"&gt;2.&lt;/SPAN&gt;&lt;SPAN class="ft20"&gt;om verksamheten med någon betydelse medverkar till att en miljökvalitetsnorm inte följs,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p41 ft3"&gt;&lt;SPAN class="ft3"&gt;3.&lt;/SPAN&gt;&lt;SPAN class="ft19"&gt;om den som har sökt tillståndet har vilselett tillståndsmyndigheten genom att lämna oriktiga uppgifter eller låta bli att lämna uppgifter av betydelse för tillståndet eller villkoren,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p43 ft3"&gt;&lt;SPAN class="ft3"&gt;4.&lt;/SPAN&gt;&lt;SPAN class="ft19"&gt;när tillståndet eller villkor som gäller för verksamheten inte har följts,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p42 ft21"&gt;&lt;SPAN class="ft3"&gt;5.&lt;/SPAN&gt;&lt;SPAN class="ft20"&gt;om det genom verksamheten uppkommit en olägenhet av någon betydelse som inte förutsågs när verksamheten tilläts,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p43 ft3"&gt;&lt;SPAN class="ft3"&gt;6.&lt;/SPAN&gt;&lt;SPAN class="ft19"&gt;om förhållandena i omgivningen har ändrats väsentligt,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p42 ft21"&gt;&lt;SPAN class="ft3"&gt;7.&lt;/SPAN&gt;&lt;SPAN class="ft20"&gt;om en från hälso- eller miljösynpunkt väsentlig förbättring kan uppnås med användning av någon ny process- eller reningsteknik,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p41 ft3"&gt;&lt;SPAN class="ft3"&gt;8.&lt;/SPAN&gt;&lt;SPAN class="ft19"&gt;om användandet av någon ny teknik för mätning eller uppskattning av förorening eller annan störning skulle medföra väsentligt bättre förutsättningar för att kontrollera verksamheten,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p41 ft3"&gt;&lt;SPAN class="ft3"&gt;9.&lt;/SPAN&gt;&lt;SPAN class="ft19"&gt;om verksamheten helt eller till väsentlig del är förlagd inom ett område där förbud råder enligt en föreskrift eller ett beslut som har meddelats med stöd av 9 kap. 4 §,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p43 ft3"&gt;&lt;SPAN class="ft3"&gt;10.&lt;/SPAN&gt;&lt;SPAN class="ft22"&gt;för att förbättra en anläggnings säkerhet,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p43 ft3"&gt;&lt;SPAN class="ft3"&gt;11.&lt;/SPAN&gt;&lt;SPAN class="ft22"&gt;om det visar sig att anordningar som har vidtagits eller villkor som&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p40 ft21"&gt;har meddelats till skydd för fisket med stöd av 11 kap. 8 § eller enligt 6 kap. 5 § lagen (1998:812) med särskilda bestämmelser om vattenverksamhet är mindre ändamålsenliga, eller&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t3"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td12"&gt;&lt;SPAN class="p44 ft3"&gt;12. om det kan antas att en säker-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td13"&gt;&lt;SPAN class="p17 ft3"&gt;12. om det kan antas att en säker-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td12"&gt;&lt;SPAN class="p44 ft3"&gt;het som ställts enligt 9 kap. 6 e §,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td13"&gt;&lt;SPAN class="p17 ft3"&gt;het som ställts enligt 9 kap. 6 e §,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td12"&gt;&lt;SPAN class="p44 ft3"&gt;15 kap. 35 § eller 16 kap. 3 § inte&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td13"&gt;&lt;SPAN class="p17 ft3"&gt;15 kap. 35 &lt;SPAN class="ft4"&gt;eller 37 &lt;/SPAN&gt;§ eller 16 kap.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td12"&gt;&lt;SPAN class="p44 ft3"&gt;längre är tillräcklig eller är större än&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td13"&gt;&lt;SPAN class="p17 ft3"&gt;3 § inte längre är tillräcklig eller är&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td12"&gt;&lt;SPAN class="p45 ft23"&gt;vad som behövs.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td13"&gt;&lt;SPAN class="p46 ft23"&gt;större än vad som behövs.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p41 ft24"&gt;I fall som avses i första stycket 5 får tillståndsmyndigheten också besluta om andra åtgärder som behövs för att förebygga eller minska olägenheter för framtiden.&lt;/P&gt;
+&lt;P class="p47 ft3"&gt;Denna lag träder i kraft den 1 augusti 2019.&lt;/P&gt;
+&lt;P class="p48 ft13"&gt;&lt;SPAN class="ft25"&gt;3&lt;/SPAN&gt;&lt;SPAN class="ft26"&gt;Senaste lydelse 2018:1407.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p14 ft3"&gt;Prop. 2018/19:64&lt;/P&gt;
+&lt;P class="p49 ft3"&gt;5&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_6"&gt;
+
+
+&lt;P class="p14 ft3"&gt;Prop. 2018/19:64&lt;/P&gt;
+&lt;P class="p50 ft1"&gt;&lt;SPAN class="ft1"&gt;3&lt;/SPAN&gt;&lt;SPAN class="ft6"&gt;Ärendet och dess beredning&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p51 ft3"&gt;EU har antagit ett direktiv om geologisk lagring av koldioxid. Direktivet kallas ofta &lt;NOBR&gt;CCS-direktivet,&lt;/NOBR&gt; där CCS är en förkortning av Carbon Capture and Storage. Direktivets fullständiga namn är Europaparlamentets och rådets direktiv 2009/31/EG av den 23 april 2009 om geologisk lagring av koldioxid och ändring av rådets direktiv 85/337/EEG, Europaparlamentets och rådets direktiv 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG och 2008/1/EG samt förordning (EG) 1013/2006. Direktivet genomförs i svensk lagstiftning bland annat med bestämmelser i miljöbalken, se propositionen Geologisk lagring av koldioxid (prop. 2011/12:125, bet. 2011/12:MJU25, rskr. 2011/12:254) och förordningen (2014:21) om geologisk lagring av koldioxid.&lt;/P&gt;
+&lt;P class="p52 ft3"&gt;Europeiska kommissionen har granskat det svenska genomförandet och bedömt att det behövs förändringar i den svenska lagstiftningen (M2016/01272/R, M2016/03037/R och M2018/00287/R). Med anledning av detta har Regeringskansliet (Miljö- och energidepartementet) tagit fram promemorian Förbättrat genomförande av direktivet om geologisk lagring av koldioxid (M2017/03292/R) med förslag på ändringar för att komma till rätta med bristerna. Promemorian innehåller förslag till lag- och förordningsändringar. Förslagen till lagändringar behandlas i detta lagstiftningsärende. En sammanfattning av promemorian i den del som avser lagförslaget finns i &lt;SPAN class="ft4"&gt;bilaga 1&lt;/SPAN&gt;. Promemorians lagförslag återges i &lt;SPAN class="ft4"&gt;bilaga 2&lt;/SPAN&gt;.&lt;/P&gt;
+&lt;P class="p53 ft21"&gt;Promemorian har remissbehandlats. En förteckning över remissinstanserna finns i &lt;SPAN class="ft10"&gt;bilaga 3&lt;/SPAN&gt;. Remissvaren och en sammanställning av dem finns tillgängliga i Miljö- och energidepartementet (M2017/03292/R).&lt;/P&gt;
+&lt;P class="p54 ft4"&gt;Lagrådet&lt;/P&gt;
+&lt;P class="p55 ft21"&gt;Regeringen beslutade den 14 februari 2019 att inhämta Lagrådets yttrande över de lagförslag som återges i &lt;SPAN class="ft10"&gt;bilaga 4&lt;/SPAN&gt;. Lagrådets yttrande finns i &lt;SPAN class="ft10"&gt;bilaga 5&lt;/SPAN&gt;. Lagrådets synpunkter behandlas i författningskommentaren. Regeringen har följt Lagrådets förslag.&lt;/P&gt;
+&lt;P class="p56 ft3"&gt;6&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_7"&gt;
+&lt;DIV id="p7dimg1"&gt;
+&lt;INGENBILD zsrc="H603647x1.jpg/" id="p7img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p19 ft3"&gt;Prop. 2018/19:64&lt;/P&gt;
+&lt;P class="p20 ft1"&gt;&lt;SPAN class="ft1"&gt;4&lt;/SPAN&gt;&lt;SPAN class="ft5"&gt;Utvidgade bestämmelser om säkerhet&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p57 ft3"&gt;&lt;SPAN class="ft9"&gt;Regeringens förslag: &lt;/SPAN&gt;Det klargörs att tillstånd till geologisk lagring av koldioxid för sin giltighet ska göras beroende av att säkerhet ställs eller att annan lämplig åtgärd vidtas. Säkerheten ska inte längre vara begränsad till kostnader för avhjälpande av en miljöskada och andra återställningsåtgärder. När en säkerhet ställs ska den prövas av tillståndsmyndigheten.&lt;/P&gt;
+&lt;P class="p58 ft21"&gt;Villkor om säkerhet ska kunna justeras om det kan antas att den säkerhet som ställts inte längre är tillräcklig eller är större än vad som behövs.&lt;/P&gt;
+&lt;P class="p59 ft21"&gt;Regeringen eller den myndighet som regeringen bestämmer ska få meddela föreskrifter om vad som krävs för att en säkerhet ska kunna godtas.&lt;/P&gt;
+&lt;P class="p60 ft21"&gt;&lt;SPAN class="ft27"&gt;Promemorians förslag &lt;/SPAN&gt;överensstämmer i huvudsak med regeringens. I promemorian föreslås inte någon ändring i 15 kap. 37 § miljöbalken för att återspegla den uppdelade prövning av säkerheten som normalt görs i enlighet med rättsfallet NJA 2011 s. 296. I promemorian föreslås att möjligheten att vidta annan lämplig åtgärd än ställande av säkerhet tas bort.&lt;/P&gt;
+&lt;P class="p61 ft24"&gt;&lt;SPAN class="ft28"&gt;Remissinstanserna: &lt;/SPAN&gt;Samtliga remissinstanser som yttrar sig är positiva till eller har inte några synpunkter på förslaget till lagändringar om säkerhet.&lt;/P&gt;
+&lt;P class="p62 ft9"&gt;Skälen för regeringens förslag&lt;/P&gt;
+&lt;P class="p63 ft4"&gt;Säkerheten ska täcka fler skyldigheter&lt;/P&gt;
+&lt;P class="p64 ft3"&gt;Artikel 11.4 i &lt;NOBR&gt;CCS-direktivet&lt;/NOBR&gt; rör den situationen att ett tillstånd till geologisk lagring av koldioxid har återkallats. I sådana fall ska den behöriga myndigheten antingen utfärda ett nytt tillstånd eller stänga lagringsplatsen. Fram till dess att ett nytt tillstånd har utfärdats ska den behöriga myndigheten tillfälligt överta alla rättsliga skyldigheter.&lt;/P&gt;
+&lt;P class="p65 ft3"&gt;Av artikeln framgår att de rättsliga skyldigheterna är kriterier för godtagande av koldioxidströmmar om myndigheten beslutar att fortsätta injektionerna av koldioxid, övervakning och korrigerande åtgärder enligt kraven i &lt;NOBR&gt;CCS-direktivet,&lt;/NOBR&gt; överlämnande av utsläppsrätter vid läckage enligt handelsdirektivet (Europaparlamentets och rådets direktiv 2003/87/EG av den 13 oktober 2003 om system för handel med utsläppsrätter för växthusgaser inom gemenskapen och om ändring av rådets direktiv 96/61/EG), samt förebyggande åtgärder och hjälpåtgärder enligt artiklarna 5.1 och 6.1 i miljöansvarsdirektivet (Europaparlamentets och rådets direktiv 2004/35/EG av den 21 april 2004 om miljöansvar för att förebygga och avhjälpa miljöskador).&lt;/P&gt;
+&lt;P class="p66 ft21"&gt;Enligt artikeln ska den behöriga myndigheten begära ersättning från den tidigare verksamhetsutövaren för alla kostnader som myndigheten haft för övertagandet av de rättsliga skyldigheterna, inbegripet genom att utnyttja den finansiella säkerhet som avses i artikel 19 i &lt;NOBR&gt;CCS-direktivet.&lt;/NOBR&gt;&lt;/P&gt;
+&lt;P class="p67 ft3"&gt;7&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_8"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t4"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td14"&gt;&lt;SPAN class="p3 ft3"&gt;Prop. 2018/19:64&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p17 ft3"&gt;Syftet med bestämmelsen är alltså att säkerställa att det i de fall lagrings-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p17 ft3"&gt;platsen inte måste stängas ska finnas någon som ansvarar för att vissa åt-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;gärder vidtas till dess att ett nytt tillstånd hunnit ges. Bestämmelsen inne-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;bär att den finansiella säkerhet som ska ställas ska kunna användas för&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p17 ft3"&gt;kostnader som uppstår från det att ett tillstånd har återkallats till dess att&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p3 ft3"&gt;ett nytt lagringstillstånd har getts.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;Av 65 § förordningen (2014:21) om geologisk lagring av koldioxid&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p16 ft3"&gt;framgår att åtgärder som tillsynsmyndigheten vidtar i stället för verksam-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft23"&gt;hetsutövaren efter att ett tillstånd har återkallats ska göras på verksamhets-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;utövarens bekostnad. Enligt 15 kap. 37 § miljöbalken får tillstånd till geo-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p17 ft3"&gt;logisk lagring av koldioxid endast ges om verksamhetsutövaren ställer sä-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;kerhet enligt 16 kap. 3 § miljöbalken eller vidtar annan lämplig åtgärd för&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;att säkerställa fullgörandet av de skyldigheter som gäller för verksamheten&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p16 ft3"&gt;enligt miljöbalken, lagen (2004:1199) om handel med utsläppsrätter samt&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;de föreskrifter och tillståndsvillkor som har meddelats med stöd av dessa&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;lagar. Den allmänna regeln om säkerhet i 16 kap. 3 § miljöbalken inne-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p17 ft3"&gt;håller inte något obligatoriskt krav på säkerhet, utan ger en möjlighet att&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft23"&gt;göra tillståndet beroende av att säkerhet ställs. Den säkerhet som får krävas&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft23"&gt;enligt bestämmelsen är också avgränsad till att avse kostnader för avhjälp-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p16 ft3"&gt;ande av en miljöskada och de andra återställningsåtgärder som verksam-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;heten kan föranleda. För att uppfylla &lt;NOBR&gt;CCS-direktivets&lt;/NOBR&gt; krav gjordes därför&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p16 ft3"&gt;bedömningen att det behövdes en bestämmelse (numera 15 kap. 37 § mil-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p17 ft3"&gt;jöbalken) som gör det obligatoriskt att ställa säkerhet (se prop.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p3 ft3"&gt;2011/12:125 s. &lt;NOBR&gt;57–59&lt;/NOBR&gt; och 105).&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;Hänvisningen till 16 kap. 3 § i 15 kap. 37 § miljöbalken innebär att det&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p17 ft3"&gt;obligatoriska kravet på att ställa säkerhet vid tillstånd till geologisk lagring&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;av koldioxid är avgränsat till kostnader för att avhjälpa en miljöskada och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;andra återställningsåtgärder som verksamheten kan föranleda. Av artikel&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p17 ft3"&gt;11.4 i &lt;NOBR&gt;CCS-direktivet&lt;/NOBR&gt; följer att säkerheten ska täcka även andra kostnader,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;till exempel kostnader för att fortsätta driva verksamheten när ett tillstånd&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;har återkallats. För att säkerheten ska kunna tas i anspråk för alla de kost-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p17 ft3"&gt;nader som uppkommer för en tillsynsmyndighet om den genomför åtgär-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p16 ft3"&gt;der på verksamhetsutövarens bekostnad när ett tillstånd har återkallats&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;enligt artikel 11.3 i &lt;NOBR&gt;CCS-direktivet&lt;/NOBR&gt; bör hänvisningen till 16 kap. 3 § miljö-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p3 ft3"&gt;balken tas bort.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;Förutom regleringen av vilka kostnader säkerheten ska täcka innehåller&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;16 kap. 3 § miljöbalken allmänna regler om säkerhetens egenskaper –&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p17 ft3"&gt;säkerheten får ställas successivt och den ska prövas av tillståndsmyndig-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;heten och vara betryggande för sitt ändamål. Bestämmelsen innehåller&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;också undantag från kravet på att ställa säkerhet. Allt detta bör gälla även&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p17 ft3"&gt;i fråga om säkerheter för tillstånd till geologisk lagring av koldioxid. Efter-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;som hänvisningen till 16 kap. 3 § i 15 kap. 37 § miljöbalken föreslås tas&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p3 ft3"&gt;bort bör motsvarande bestämmelser föras in i 15 kap. 37 §.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p17 ft3"&gt;Vid tillståndsgivningen prövas om det ska krävas att säkerhet ställs. Ett&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;krav på säkerhet tas i så fall in som villkor i tillståndet. Frågan om vilken&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;form som säkerheten ska ha och om den är tillräckligt betryggande prövas&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p17 ft3"&gt;normalt i samband med att tillståndshavaren tar tillståndet i anspråk och&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;då ställer säkerhet för att uppfylla tillståndsvillkoret (jfr NJA 2011 s. 296).&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p17 ft3"&gt;Bestämmelsen i 15 kap. 37 § miljöbalken bör formuleras på ett sätt som&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td14"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p17 ft3"&gt;bättre återspeglar detta. I linje med formuleringen i 16 kap. 3 § miljöbal-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td14"&gt;&lt;SPAN class="p3 ft3"&gt;8&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td15"&gt;&lt;SPAN class="p17 ft3"&gt;ken bör det anges i lagtexten att tillstånd till geologisk lagring av koldioxid&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_9"&gt;
+&lt;DIV id="p9dimg1"&gt;
+&lt;INGENBILD zsrc="H603649x1.jpg/" id="p9img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p68 ft24"&gt;för sin giltighet ska göras beroende av att verksamhetsutövaren ställer Prop. 2018/19:64 säkerhet.&lt;/P&gt;
+&lt;P class="p69 ft4"&gt;Ett nytt bemyndigande&lt;/P&gt;
+&lt;P class="p70 ft3"&gt;Av artikel 11.4 i &lt;NOBR&gt;CCS-direktivet&lt;/NOBR&gt; följer att tillsynsmyndigheten ska kunna utnyttja den finansiella säkerheten vid ett sådant tillfälligt övertagande som regleras i bestämmelsen. Det finns inte några uttryckliga bestämmelser i 16 kap. 3 § eller 15 kap. 37 § miljöbalken om vem som får ta en säkerhet i anspråk. I förordningen (2014:21) om geologisk lagring av koldioxid finns mer detaljerade bestämmelser om bland annat tillsynsmyndighetens uppgifter vid återkallelse av tillstånd &lt;NOBR&gt;(64–67&lt;/NOBR&gt; §§) och ekonomisk säkerhet (38 §). För att uppfylla kraven i direktivet bör det i förordningen tas in en bestämmelse om att tillsynsmyndigheten ska kunna ta säkerheten i anspråk vid ett tillfälligt övertagande. Befintliga bemyndiganden ger inte utrymme att reglera detta. Det behövs därför ett nytt bemyndigande som gör det möjligt att föreskriva vad som krävs för att en säkerhet ska kunna godtas.&lt;/P&gt;
+&lt;P class="p71 ft4"&gt;Följdändring&lt;/P&gt;
+&lt;P class="p72 ft21"&gt;Villkor om säkerhet som ställts enligt 16 kap. 3 § miljöbalken kan ändras enligt bestämmelserna i 24 kap. 5 § miljöbalken. Säkerhet som ställts vid geologisk lagring av koldioxid bör även fortsättningsvis kunna ändras bland annat för att säkerheten ska kunna anpassas över tiden. När hänvisningen till 16 kap. 3 § nu tas bort i 15 kap. 37 § miljöbalken bör därför även säkerheter enligt 15 kap. 37 § omfattas av omprövningsmöjligheten i 24 kap. 5 §.&lt;/P&gt;
+&lt;P class="p73 ft1"&gt;&lt;SPAN class="ft1"&gt;5&lt;/SPAN&gt;&lt;SPAN class="ft5"&gt;Ikraftträdande&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p74 ft24"&gt;&lt;SPAN class="ft28"&gt;Regeringens förslag: &lt;/SPAN&gt;Lagändringarna ska träda i kraft den 1 augusti 2019.&lt;/P&gt;
+&lt;P class="p66 ft21"&gt;&lt;SPAN class="ft27"&gt;Promemorians förslag: &lt;/SPAN&gt;Lagändringarna ska träda i kraft den 1 augusti 2018.&lt;/P&gt;
+&lt;P class="p75 ft3"&gt;&lt;SPAN class="ft9"&gt;Remissinstanserna &lt;/SPAN&gt;yttrar sig inte i frågan om ikraftträdande.&lt;/P&gt;
+&lt;P class="p11 ft24"&gt;&lt;SPAN class="ft28"&gt;Skälen för regeringens förslag: &lt;/SPAN&gt;Eftersom de föreslagna författningsändringarna avser genomförande av ett direktiv och är föranledda av kritik från &lt;NOBR&gt;EU-kommissionen&lt;/NOBR&gt; bör de träda i kraft så snart som möjligt.&lt;/P&gt;
+&lt;P class="p73 ft1"&gt;&lt;SPAN class="ft1"&gt;6&lt;/SPAN&gt;&lt;SPAN class="ft5"&gt;Konsekvenser&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p76 ft21"&gt;Bedömningen av konsekvenserna påverkas av att det inte finns någon geologisk lagring av koldioxid i Sverige. Det finns alltså inte några aktörer som i praktiken berörs av regleringen. En bedömning av konsekvenserna av att genomföra &lt;NOBR&gt;CCS-direktivet&lt;/NOBR&gt; har tidigare gjorts i propositionen Geolo-&lt;/P&gt;
+&lt;P class="p77 ft3"&gt;9&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_10"&gt;
+
+
+&lt;P class="p78 ft24"&gt;Prop. 2018/19:64 gisk lagring av koldioxid (prop. 2011/12:125). Syftet med nu aktuellt förslag är att komma till rätta med en brist i genomförandet av &lt;NOBR&gt;CCS-direktivet&lt;/NOBR&gt; som kommissionen pekat på i granskningen av Sveriges genomförande.&lt;/P&gt;
+&lt;P class="p79 ft4"&gt;Alternativa lösningar&lt;/P&gt;
+&lt;P class="p80 ft21"&gt;Mot bakgrund av kommissionens kritik är förändringar i den svenska lagstiftningen nödvändiga. Förslaget är avsett att komma till rätta med de brister som kommissionen pekat på och som kräver ändring i lag. Det är inte möjligt att komma till rätta med bristerna genom vägledning eller frivilliga åtaganden. Om kommissionen bedömer att Sverige inte genomför ändringar som motsvarar &lt;NOBR&gt;CCS-direktivets&lt;/NOBR&gt; krav kan kommissionen inleda ett överträdelseärende mot Sverige gällande genomförandet.&lt;/P&gt;
+&lt;P class="p79 ft4"&gt;Konsekvenser som regleringen medför&lt;/P&gt;
+&lt;P class="p80 ft3"&gt;Koldioxidavskiljning och lagring kan vara en kostnadseffektiv åtgärd för att minska nettoutsläpp av koldioxid till atmosfären. Kommissionen har pekat på vikten av &lt;NOBR&gt;CCS-tekniken&lt;/NOBR&gt; bland annat för att minska utsläppen inom energiintensiv industri och för att åstadkomma negativa utsläpp i samband med förbränning av biomassa. De ändringar som nu föreslås är endast mindre justeringar av den reglering som tidigare genomförts. Eftersom de svenska reglerna ska tolkas mot bakgrund av direktivet så bedöms de föreslagna ändringarna leda till en tydligare och mer förutsägbar reglering. Förslaget bedöms inte medföra några ökade kostnader eller konsekvenser av betydelse.&lt;/P&gt;
+&lt;P class="p81 ft4"&gt;Skyldigheter som följer av &lt;NOBR&gt;EU-rätten&lt;/NOBR&gt;&lt;/P&gt;
+&lt;P class="p80 ft21"&gt;De föreslagna bestämmelserna har sin grund i &lt;NOBR&gt;CCS-direktivet.&lt;/NOBR&gt; Syftet med förslaget är att förbättra genomförandet av &lt;NOBR&gt;CCS-direktivet&lt;/NOBR&gt; och komma till rätta med de brister i genomförandet som kommissionen har pekat på. De föreslagna ändringarna går inte utöver de skyldigheter som följer av Sveriges anslutning till Europeiska unionen.&lt;/P&gt;
+&lt;P class="p82 ft4"&gt;Särskild hänsyn till små företag&lt;/P&gt;
+&lt;P class="p80 ft21"&gt;Koldioxidavskiljning är något som på grund av de höga kostnaderna endast kan komma i fråga för verksamheter med stora punktutsläpp. Även lagring av koldioxid är en verksamhet som på grund av höga kostnader endast kommer att komma ifråga för större företag. Bedömningen är därför att dessa bestämmelser inte kommer att beröra små företag.&lt;/P&gt;
+&lt;P class="p82 ft4"&gt;Övriga konsekvenser&lt;/P&gt;
+&lt;P class="p80 ft21"&gt;Det bedöms vara en fördel för skattebetalarna att säkerheten kan användas för andra kostnader som uppstår från det att ett tillstånd har återkallats till dess att ett nytt lagringstillstånd har utfärdats eftersom det innebär att tillsynsmyndighetens kostnader i dessa delar inte behöver finansieras genom skattemedel. Det kan även medföra fördelar för miljön eftersom det kan öka tillsynsmyndighetens möjlighet att agera snabbt om myndigheten behöver överta verksamhetsutövarens skyldigheter.&lt;/P&gt;
+&lt;P class="p83 ft3"&gt;10&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_11"&gt;
+
+
+&lt;P class="p19 ft3"&gt;Prop. 2018/19:64&lt;/P&gt;
+&lt;P class="p20 ft1"&gt;&lt;SPAN class="ft1"&gt;7&lt;/SPAN&gt;&lt;SPAN class="ft5"&gt;Författningskommentar&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p84 ft9"&gt;15 kap.&lt;/P&gt;
+&lt;P class="p85 ft31"&gt;&lt;SPAN class="ft29"&gt;37 § &lt;/SPAN&gt;Tillstånd till geologisk lagring av koldioxid &lt;SPAN class="ft30"&gt;ska för sin giltighet göras beroende av att &lt;/SPAN&gt;verksamhetsutövaren ställer säkerhet eller vidtar någon annan lämplig åtgärd för att säkerställa fullgörandet av de skyldigheter som gäller för verksamheten enligt denna balk, lagen (2004:1199) om handel med utsläppsrätter samt de föreskrifter och tillståndsvillkor som har meddelats med stöd av dessa lagar. &lt;SPAN class="ft30"&gt;En säkerhet får ställas efter hand enligt en plan som vid varje tid tillgodoser det aktuella behovet av säkerhet.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p86 ft8"&gt;När en säkerhet ställs ska den prövas av tillståndsmyndigheten. Säkerheten ska godtas om den visas vara betryggande för sitt ändamål.&lt;/P&gt;
+&lt;P class="p75 ft8"&gt;Staten, kommuner, landsting och kommunalförbund behöver inte ställa säkerhet.&lt;/P&gt;
+&lt;P class="p87 ft3"&gt;I paragrafen genomförs kravet i artikel 19 i &lt;NOBR&gt;CCS-direktivet&lt;/NOBR&gt; på säkerhet vid geologisk lagring av koldioxid. &lt;SPAN class="ft4"&gt;Första stycket &lt;/SPAN&gt;ändras genom att hänvisningen till 16 kap. 3 § tas bort. Ändringen innebär att den begränsning som finns i 16 kap. 3 § till att säkerheten ska avse kostnader för avhjälpande av miljöskada och andra återställningsåtgärder inte gäller för ställande av säkerhet vid geologisk lagring av koldioxid. Det betyder att säkerhet vid geologisk lagring av koldioxid ska kunna användas även för andra kostnader än avhjälpande av miljöskada och andra återställningsåtgärder, till exempel kostnader för att fortsätta driva verksamheten när ett tillstånd har återkallats.&lt;/P&gt;
+&lt;P class="p88 ft3"&gt;Första stycket ändras också så att det framgår att tillstånd till geologisk lagring av koldioxid för sin giltighet ska göras beroende av att säkerhet ställs eller att annan lämplig åtgärd vidtas. Ändringen innebär att tillståndsmyndigheten i enlighet med vad som följer av rättsfallet NJA 2011 s. 296 kan pröva om säkerhetens form är godtagbar i samband med prövningen av om säkerheten är betryggande. För att tydliggöra att prövningen av säkerheten på detta sätt är uppdelad införs i ett nytt &lt;SPAN class="ft4"&gt;andra stycke &lt;/SPAN&gt;en bestämmelse om att när en säkerhet ställs ska den prövas av tillståndsmyndigheten. Bestämmelsen har utformats i enlighet med &lt;SPAN class="ft4"&gt;Lagrådets &lt;/SPAN&gt;förslag.&lt;/P&gt;
+&lt;P class="p86 ft3"&gt;Paragrafen ändras också på så sätt att generella krav som finns på säkerheten i 16 kap. 3 § infogas i paragrafen. I första stycket införs en möjlighet att ställa säkerhet successivt. I andra stycket anges att säkerheten ska godtas om den visas vara betryggande för sitt ändamål. I ett nytt &lt;SPAN class="ft4"&gt;tredje stycke &lt;/SPAN&gt;införs ett undantag från kravet på säkerhet för kommuner, landsting och kommunalförbund. I dessa delar innebär ändringen ingen förändring i sak. Avsikten är alltså att kraven som nu fogas in i 15 kap. 37 § ska motsvara kraven i 16 kap. 3 §.&lt;/P&gt;
+&lt;P class="p12 ft3"&gt;Övervägandena finns i avsnitt 4.&lt;/P&gt;
+&lt;P class="p89 ft3"&gt;11&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_12"&gt;
+
+
+&lt;TABLE cellpadding=0 cellspacing=0 class="t5"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr9 td16"&gt;&lt;SPAN class="p90 ft3"&gt;Prop. 2018/19:64&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr9 td15"&gt;&lt;SPAN class="p3 ft8"&gt;&lt;SPAN class="ft14"&gt;37 a § &lt;/SPAN&gt;Regeringen eller den myndighet som regeringen bestämmer får meddela&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p3 ft8"&gt;ytterligare föreskrifter om vad som krävs för att en säkerhet ska kunna godtas.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr11 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr11 td15"&gt;&lt;SPAN class="p3 ft3"&gt;Paragrafen är ny och innehåller ett normgivningsbemyndigande. Bemyn-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p3 ft3"&gt;digandet kan till exempel användas av regeringen för att på förordningsni-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p3 ft3"&gt;vå införa bestämmelser som innebär att en tillsynsmyndighet ska kunna ta&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p3 ft3"&gt;säkerheten i anspråk vid ett tillfälligt övertagande av en lagringsplats för&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p3 ft3"&gt;geologisk lagring av koldioxid.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td15"&gt;&lt;SPAN class="p91 ft3"&gt;Övervägandena finns i avsnitt 4.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td15"&gt;&lt;SPAN class="p3 ft9"&gt;24 kap.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td15"&gt;&lt;SPAN class="p3 ft23"&gt;&lt;SPAN class="ft14"&gt;5 § &lt;/SPAN&gt;I fråga om miljöfarlig verksamhet eller vattenverksamhet får tillståndsmyn-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td16"&gt;&lt;SPAN class="p3 ft32"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td15"&gt;&lt;SPAN class="p3 ft33"&gt;digheten ompröva tillstånd när det gäller en bestämmelse om tillåten produktions-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p3 ft31"&gt;mängd eller annan liknande bestämmelse om verksamhetens omfattning, samt änd-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p3 ft31"&gt;ra eller upphäva villkor eller andra bestämmelser eller meddela nya sådana&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p91 ft13"&gt;1. när, från det tillståndsbeslutet fick laga kraft, det förflutit tio år eller den korta-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p3 ft13"&gt;re tid som, på grund av vad som följer av Sveriges medlemskap i Europeiska union-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td16"&gt;&lt;SPAN class="p3 ft32"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td15"&gt;&lt;SPAN class="p3 ft33"&gt;en, föreskrivs av regeringen eller den myndighet som regeringen bestämmer,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p91 ft31"&gt;2. om verksamheten med någon betydelse medverkar till att en miljökvalitets-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p3 ft31"&gt;norm inte följs,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p91 ft31"&gt;3. om den som har sökt tillståndet har vilselett tillståndsmyndigheten genom att&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p3 ft13"&gt;lämna oriktiga uppgifter eller låta bli att lämna uppgifter av betydelse för tillståndet&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td16"&gt;&lt;SPAN class="p3 ft32"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td15"&gt;&lt;SPAN class="p3 ft33"&gt;eller villkoren,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p91 ft31"&gt;4. när tillståndet eller villkor som gäller för verksamheten inte har följts,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p91 ft31"&gt;5. om det genom verksamheten uppkommit en olägenhet av någon betydelse&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p3 ft31"&gt;som inte förutsågs när verksamheten tilläts,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p91 ft31"&gt;6. om förhållandena i omgivningen har ändrats väsentligt,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td16"&gt;&lt;SPAN class="p3 ft32"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td15"&gt;&lt;SPAN class="p91 ft33"&gt;7. om en från hälso- eller miljösynpunkt väsentlig förbättring kan uppnås med&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p3 ft31"&gt;användning av någon ny process- eller reningsteknik,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p91 ft31"&gt;8. om användandet av någon ny teknik för mätning eller uppskattning av förore-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p3 ft31"&gt;ning eller annan störning skulle medföra väsentligt bättre förutsättningar för att&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p3 ft31"&gt;kontrollera verksamheten,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td16"&gt;&lt;SPAN class="p3 ft32"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td15"&gt;&lt;SPAN class="p91 ft33"&gt;9. om verksamheten helt eller till väsentlig del är förlagd inom ett område där&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p3 ft31"&gt;förbud råder enligt en föreskrift eller ett beslut som har meddelats med stöd av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p3 ft31"&gt;9 kap. 4 §,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p91 ft31"&gt;10. för att förbättra en anläggnings säkerhet,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p91 ft31"&gt;11. om det visar sig att anordningar som har vidtagits eller villkor som har&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td16"&gt;&lt;SPAN class="p3 ft32"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td15"&gt;&lt;SPAN class="p3 ft33"&gt;meddelats till skydd för fisket med stöd av 11 kap. 8 § eller enligt 6 kap. 5 § lagen&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p3 ft31"&gt;(1998:812) med särskilda bestämmelser om vattenverksamhet är mindre ända-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p3 ft31"&gt;målsenliga, eller&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p91 ft31"&gt;12. om det kan antas att en säkerhet som ställts enligt 9 kap. 6 e §, 15 kap. 35&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p3 ft31"&gt;&lt;SPAN class="ft30"&gt;eller 37 &lt;/SPAN&gt;§ eller 16 kap. 3 § inte längre är tillräcklig eller är större än vad som be-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr12 td16"&gt;&lt;SPAN class="p3 ft32"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr12 td15"&gt;&lt;SPAN class="p3 ft33"&gt;hövs.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p91 ft31"&gt;I fall som avses i första stycket 5 får tillståndsmyndigheten också besluta om&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td16"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p3 ft31"&gt;andra åtgärder som behövs för att förebygga eller minska olägenheter för fram-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p3 ft23"&gt;tiden.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr14 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr14 td15"&gt;&lt;SPAN class="p3 ft3"&gt;Paragrafen innehåller bestämmelser om i vilka fall tillstånd till miljöfarliga&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p3 ft3"&gt;verksamheter eller vattenverksamheter får omprövas eller villkor i sådana&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p3 ft3"&gt;tillstånd får ändras eller upphävas eller nya villkor meddelas. Enligt &lt;SPAN class="ft4"&gt;första&lt;/SPAN&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td15"&gt;&lt;SPAN class="p3 ft23"&gt;&lt;SPAN class="ft8"&gt;stycket tolfte punkten &lt;/SPAN&gt;får detta göras om det kan antas att en säkerhet som&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td16"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td15"&gt;&lt;SPAN class="p3 ft3"&gt;ställts enligt vissa angivna bestämmelser inte längre är tillräcklig eller&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD rowspan=2 class="tr3 td16"&gt;&lt;SPAN class="p92 ft3"&gt;12&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td15"&gt;&lt;SPAN class="p3 ft3"&gt;större än vad som behövs (se prop. 2006/07:95 s. 112 ff. och 136 f.). Det&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td15"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_13"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p40 ft21"&gt;nya i bestämmelsen är att 15 kap. 37 § läggs till bland de uppräknade bestämmelserna. Ändringen innebär alltså att det blir möjligt att justera ett tillståndsvillkor om säkerhet även i ett tillstånd för geologisk lagring av koldioxid.&lt;/P&gt;
+&lt;P class="p43 ft3"&gt;Övervägandena finns i avsnitt 4.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p14 ft3"&gt;Prop. 2018/19:64&lt;/P&gt;
+&lt;P class="p49 ft3"&gt;13&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_14"&gt;
+
+
+&lt;P class="p93 ft3"&gt;Prop. 2018/19:64&lt;/P&gt;
+&lt;P class="p94 ft3"&gt;Bilaga 1&lt;/P&gt;
+&lt;P class="p81 ft1"&gt;Sammanfattning av promemorian&lt;/P&gt;
+&lt;P class="p95 ft3"&gt;I promemorian Förbättrat genomförande av direktivet om geologisk lagring av koldioxid föreslås ändringar för att komma till rätta med brister i genomförandet av &lt;NOBR&gt;CCS-direktivet&lt;/NOBR&gt; (Europaparlamentets och rådets direktiv 2009/31 av den 23 april 2009 om geologisk lagring av koldioxid och ändring av rådets direktiv 85/337/EEG, Europaparlamentets och rådets direktiv 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG och 2008/1/EG samt förordning (EG) nr 1013/2006). Här ges en sammanfattning av promemorian i den del som avser lagförslaget.&lt;/P&gt;
+&lt;P class="p96 ft21"&gt;Ändringar föreslås i miljöbalken för att förtydliga att den ekonomiska säkerheten som ska ställas vid geologisk lagring av koldioxid kan användas till andra kostnader än kostnader för återställningsåtgärder. Det föreslås att ett nytt bemyndigande införs som ger regeringen eller den myndighet som regeringen bestämmer rätt att meddela föreskrifter om vad som krävs för att en säkerhet ska kunna godtas. Det föreslås också en ändring som innebär att tillståndsmyndigheten får ompröva tillstånd om det kan antas att en säkerhet som ställts för geologisk lagring av koldioxid inte är tillräcklig eller är större än vad som behövs.&lt;/P&gt;
+&lt;P class="p97 ft3"&gt;14&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_15"&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;DIV id="id_1_1"&gt;
+&lt;P class="p14 ft1"&gt;Promemorians lagförslag&lt;/P&gt;
+&lt;P class="p98 ft35"&gt;Förslag till lag om ändring i miljöbalken&lt;/P&gt;
+&lt;P class="p99 ft3"&gt;Härigenom föreskrivs&lt;SPAN class="ft7"&gt;1 &lt;/SPAN&gt;i fråga om miljöbalken&lt;/P&gt;
+&lt;P class="p100 ft3"&gt;&lt;SPAN class="ft4"&gt;dels &lt;/SPAN&gt;att 15 kap. 37 § och 24 kap. 5 § ska ha följande lydelse,&lt;/P&gt;
+&lt;P class="p101 ft3"&gt;&lt;SPAN class="ft4"&gt;dels &lt;/SPAN&gt;att det ska införas en ny paragraf, 15 kap. 37 a §, av följande lydelse.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t6"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr15 td12"&gt;&lt;SPAN class="p3 ft4"&gt;Nuvarande lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr15 td17"&gt;&lt;SPAN class="p3 ft8"&gt;Föreslagen lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p102 ft18"&gt;&lt;SPAN class="ft14"&gt;15&lt;/SPAN&gt;&lt;SPAN class="ft36"&gt;kap. &lt;/SPAN&gt;&lt;SPAN class="ft16"&gt;37 §&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_1_2"&gt;
+&lt;P class="p14 ft24"&gt;Prop. 2018/19:64 Bilaga 2&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;DIV id="id_2_1"&gt;
+&lt;DIV id="id_2_1_1"&gt;
+&lt;P class="p31 ft3"&gt;Tillstånd till geologisk lagring av koldioxid får ges endast om verksamhetsutövaren ställer säkerhet &lt;SPAN class="ft4"&gt;enligt 16 kap. 3 § eller vidtar någon annan lämplig åtgärd &lt;/SPAN&gt;för att säkerställa fullgörandet av de skyldigheter som gäller för verksamheten enligt denna balk, lagen (2004:1199) om handel med utsläppsrätter samt de föreskrifter och tillståndsvillkor som har meddelats med stöd av dessa lagar.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2_1_2"&gt;
+&lt;P class="p103 ft38"&gt;Tillstånd till geologisk lagring av koldioxid får ges endast om verksamhetsutövaren ställer säkerhet för att säkerställa fullgörandet av de skyldigheter som gäller för verksamheten enligt denna balk, lagen (2004:1199) om handel med utsläppsrätter samt de föreskrifter och tillståndsvillkor som har meddelats med stöd av dessa lagar. &lt;SPAN class="ft37"&gt;Säkerheten får ställas efter hand enligt en plan som vid varje tid tillgodoser det aktuella behovet av säkerhet.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p104 ft37"&gt;Säkerheten ska prövas av tillståndsmyndigheten. Säkerheten ska godtas om den visas vara betryggande för sitt ändamål.&lt;/P&gt;
+&lt;P class="p104 ft37"&gt;Staten, kommuner, landsting och kommunalförbund behöver inte ställa säkerhet.&lt;/P&gt;
+&lt;P class="p14 ft39"&gt;37 a §&lt;/P&gt;
+&lt;P class="p103 ft37"&gt;Regeringen eller den myndighet som regeringen bestämmer får meddela ytterligare föreskrifter om vad som krävs för att en säkerhet ska kunna godtas.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2_2"&gt;
+&lt;P class="p105 ft42"&gt;&lt;SPAN class="ft40"&gt;1&lt;/SPAN&gt;&lt;SPAN class="ft41"&gt;Jämför Europaparlamentets och rådets direktiv 2009/31/EG av den 23 april 2009 om geologisk lagring av koldioxid och ändring av rådets direktiv 85/337/EEG, Europaparlamentets och rådets direktiv 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG och 2008/1/EG samt förordning (EG) nr 1013/2006.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2_3"&gt;
+&lt;P class="p14 ft3"&gt;15&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_16"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p106 ft24"&gt;Prop. 2018/19:64 Bilaga 2&lt;/P&gt;
+&lt;P class="p107 ft3"&gt;16&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p108 ft18"&gt;&lt;SPAN class="ft9"&gt;24&lt;/SPAN&gt;&lt;SPAN class="ft15"&gt;kap. &lt;/SPAN&gt;&lt;SPAN class="ft16"&gt;5 §&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p37 ft3"&gt;I fråga om miljöfarlig verksamhet eller vattenverksamhet får tillståndsmyndigheten ompröva tillstånd när det gäller en bestämmelse om tillåten produktionsmängd eller annan liknande bestämmelse om verksamhetens omfattning, samt ändra eller upphäva villkor eller andra bestämmelser eller meddela nya sådana&lt;/P&gt;
+&lt;P class="p109 ft3"&gt;&lt;SPAN class="ft3"&gt;1.&lt;/SPAN&gt;&lt;SPAN class="ft22"&gt;när, från det tillståndsbeslutet fick laga kraft, det förflutit tio år eller den kortare tid som, på grund av vad som följer av Sveriges medlemskap i Europeiska unionen, föreskrivs av regeringen eller den myndighet som regeringen bestämmer,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p110 ft21"&gt;&lt;SPAN class="ft3"&gt;2.&lt;/SPAN&gt;&lt;SPAN class="ft43"&gt;om verksamheten med någon betydelse medverkar till att en miljökvalitetsnorm inte följs,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p109 ft3"&gt;&lt;SPAN class="ft3"&gt;3.&lt;/SPAN&gt;&lt;SPAN class="ft22"&gt;om den som har sökt tillståndet har vilselett tillståndsmyndigheten genom att lämna oriktiga uppgifter eller låta bli att lämna uppgifter av betydelse för tillståndet eller villkoren,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p111 ft3"&gt;&lt;SPAN class="ft3"&gt;4.&lt;/SPAN&gt;&lt;SPAN class="ft22"&gt;när tillståndet eller villkor som gäller för verksamheten inte har följts,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p110 ft21"&gt;&lt;SPAN class="ft3"&gt;5.&lt;/SPAN&gt;&lt;SPAN class="ft43"&gt;om det genom verksamheten uppkommit en olägenhet av någon betydelse som inte förutsågs när verksamheten tilläts,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p111 ft3"&gt;&lt;SPAN class="ft3"&gt;6.&lt;/SPAN&gt;&lt;SPAN class="ft22"&gt;om förhållandena i omgivningen har ändrats väsentligt,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p110 ft21"&gt;&lt;SPAN class="ft3"&gt;7.&lt;/SPAN&gt;&lt;SPAN class="ft43"&gt;om en från hälso- eller miljösynpunkt väsentlig förbättring kan uppnås med användning av någon ny process- eller reningsteknik,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p109 ft3"&gt;&lt;SPAN class="ft3"&gt;8.&lt;/SPAN&gt;&lt;SPAN class="ft22"&gt;om användandet av någon ny teknik för mätning eller uppskattning av förorening eller annan störning skulle medföra väsentligt bättre förutsättningar för att kontrollera verksamheten,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p109 ft3"&gt;&lt;SPAN class="ft3"&gt;9.&lt;/SPAN&gt;&lt;SPAN class="ft22"&gt;om verksamheten helt eller till väsentlig del är förlagd inom ett område där förbud råder enligt en föreskrift eller ett beslut som har meddelats med stöd av 9 kap. 4 §,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p111 ft3"&gt;&lt;SPAN class="ft3"&gt;10.&lt;/SPAN&gt;&lt;SPAN class="ft22"&gt;för att förbättra en anläggnings säkerhet,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p111 ft3"&gt;&lt;SPAN class="ft3"&gt;11.&lt;/SPAN&gt;&lt;SPAN class="ft19"&gt;om det visar sig att anordningar som har vidtagits eller villkor som&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p37 ft21"&gt;har meddelats till skydd för fisket med stöd av 11 kap. 8 § eller enligt 6 kap. 5 § lagen (1998:812) med särskilda bestämmelser om vattenverksamhet är mindre ändamålsenliga, eller&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t7"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td12"&gt;&lt;SPAN class="p112 ft3"&gt;12. om det kan antas att en säker-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td18"&gt;&lt;SPAN class="p17 ft3"&gt;12. om det kan antas att en säker-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td12"&gt;&lt;SPAN class="p112 ft3"&gt;het som ställts enligt 9 kap. 6 e §,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td18"&gt;&lt;SPAN class="p16 ft3"&gt;het som ställts enligt 9 kap. 6 e §,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td12"&gt;&lt;SPAN class="p112 ft3"&gt;15 kap. 35 § eller 16 kap. 3 § inte&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td18"&gt;&lt;SPAN class="p16 ft3"&gt;15 kap. 35 &lt;SPAN class="ft4"&gt;eller 37 &lt;/SPAN&gt;§ eller 16 kap.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td12"&gt;&lt;SPAN class="p112 ft3"&gt;längre är tillräcklig eller är större än&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td18"&gt;&lt;SPAN class="p17 ft3"&gt;3 § inte längre är tillräcklig eller är&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td12"&gt;&lt;SPAN class="p113 ft23"&gt;vad som behövs.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td18"&gt;&lt;SPAN class="p114 ft23"&gt;större än vad som behövs.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p115 ft3"&gt;Ändringstillstånd som avses i 16 kap. 2 § får förenas med bestämmelser om ändringar i villkor som tidigare har meddelats för de delar av verksamheten som inte omfattas av ändringen, om de tidigare villkoren har ett samband med ändringen.&lt;/P&gt;
+&lt;P class="p115 ft3"&gt;Ändringstillstånd som avses i 16 kap. 2 § får trots bestämmelserna i första stycket omprövas i samband med att ett tillstånd som omfattar hela verksamheten omprövas.&lt;/P&gt;
+&lt;P class="p116 ft24"&gt;I fall som avses i första stycket 5 får tillståndsmyndigheten också besluta om andra åtgärder som behövs för att förebygga eller minska olägenheter för framtiden.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_17"&gt;
+&lt;DIV id="p17dimg1"&gt;
+&lt;INGENBILD zsrc="H6036417x1.jpg/" id="p17img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV class="dclr"&gt;&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p41 ft21"&gt;Tillståndsmyndigheten får inte med stöd av denna paragraf meddela så ingripande villkor eller andra bestämmelser att verksamheten inte längre kan bedrivas eller att den avsevärt försvåras.&lt;/P&gt;
+&lt;P class="p117 ft3"&gt;Denna lag träder i kraft den 1 augusti 2018.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p118 ft24"&gt;Prop. 2018/19:64 Bilaga 2&lt;/P&gt;
+&lt;P class="p119 ft3"&gt;17&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_18"&gt;
+
+
+&lt;P class="p93 ft3"&gt;Prop. 2018/19:64&lt;/P&gt;
+&lt;P class="p94 ft3"&gt;Bilaga 3&lt;/P&gt;
+&lt;P class="p81 ft1"&gt;Förteckning över remissinstanserna&lt;/P&gt;
+&lt;P class="p95 ft3"&gt;Yttrande har kommit in från Svea hovrätt (Mark- och miljööverdomstolen), Växjö tingsrätt (mark- och miljödomstolen), Boverket, Försvarsmakten, Havs- och vattenmyndigheten, Kammarkollegiet, Kommerskollegium, Konjunkturinstitutet, Myndigheten för tillväxtpolitiska utvärderingar och analyser, Naturvårdsverket, Regelrådet, Sjöfartsverket, Statens geotekniska institut, Statens energimyndighet, Sveriges geologiska undersökning, Sveriges meteorologiska och hydrologiska institut, Tillväxtverket, Transportstyrelsen, länsstyrelserna i Kalmar, Norrbottens, Skåne, Stockholms, Södermanlands, Uppsala, Västerbottens och Västra Götalands län, Göteborgs universitet, Kungl. Tekniska högskolan, Luleå tekniska universitet, Svenska Petroleum och Biodrivmedel Institutet, Svenskt Näringsliv och Uppsala universitet.&lt;/P&gt;
+&lt;P class="p120 ft21"&gt;Svar har inte kommit in från Energiforsk AB, Energiföretagen Sverige, Föreningen Teknikföretagen i Sverige, Greenpeace, IKEM – Innovations- och kemiindustrierna, IVL Svenska Miljöinstitutet, Jernkontoret, Kungl. Ingenjörsvetenskapsakademien, Kustbevakningen, Nacka tingsrätt (mark- och miljödomstolen), Näringslivets Regelnämnd, Skogen, Kemin, Gruvorna och Stålet, Skogsindustrierna, SveMin och Svenska Naturskyddsföreningen.&lt;/P&gt;
+&lt;P class="p121 ft3"&gt;18&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_19"&gt;
+
+
+&lt;DIV id="id_1"&gt;
+&lt;DIV id="id_1_1"&gt;
+&lt;P class="p14 ft1"&gt;Lagrådsremissens lagförslag&lt;/P&gt;
+&lt;P class="p98 ft35"&gt;Förslag till lag om ändring i miljöbalken&lt;/P&gt;
+&lt;P class="p99 ft3"&gt;Härigenom föreskrivs&lt;SPAN class="ft7"&gt;1 &lt;/SPAN&gt;i fråga om miljöbalken&lt;/P&gt;
+&lt;P class="p100 ft3"&gt;&lt;SPAN class="ft4"&gt;dels &lt;/SPAN&gt;att 15 kap. 37 § och 24 kap. 5 § ska ha följande lydelse,&lt;/P&gt;
+&lt;P class="p101 ft3"&gt;&lt;SPAN class="ft4"&gt;dels &lt;/SPAN&gt;att det ska införas en ny paragraf, 15 kap. 37 a §, av följande lydelse.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t6"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr15 td12"&gt;&lt;SPAN class="p3 ft4"&gt;Nuvarande lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr15 td17"&gt;&lt;SPAN class="p3 ft8"&gt;Föreslagen lydelse&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p122 ft9"&gt;&lt;SPAN class="ft14"&gt;15&lt;/SPAN&gt;&lt;SPAN class="ft44"&gt;kap.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p123 ft3"&gt;37 §&lt;SPAN class="ft7"&gt;2&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_1_2"&gt;
+&lt;P class="p14 ft24"&gt;Prop. 2018/19:64 Bilaga 4&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;DIV id="id_2_1"&gt;
+&lt;P class="p31 ft3"&gt;Tillstånd till geologisk lagring av koldioxid &lt;SPAN class="ft4"&gt;får ges endast om &lt;/SPAN&gt;verksamhetsutövaren ställer säkerhet &lt;SPAN class="ft4"&gt;enligt 16 kap. 3 § &lt;/SPAN&gt;eller vidtar någon annan lämplig åtgärd för att säkerställa fullgörandet av de skyldigheter som gäller för verksamheten enligt denna balk, lagen (2004:1199) om handel med utsläppsrätter samt de föreskrifter och tillståndsvillkor som har meddelats med stöd av dessa lagar.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2_2"&gt;
+&lt;P class="p31 ft23"&gt;Tillstånd till geologisk lagring av koldioxid &lt;SPAN class="ft8"&gt;ska för sin giltighet göras beroende av att &lt;/SPAN&gt;verksamhetsutövaren ställer säkerhet eller vidtar någon annan lämplig åtgärd för att säkerställa fullgörandet av de skyldigheter som gäller för verksamheten enligt denna balk, lagen (2004:1199) om handel med utsläppsrätter samt de föreskrifter och tillståndsvillkor som har meddelats med stöd av dessa lagar. &lt;SPAN class="ft8"&gt;En säkerhet får ställas efter hand enligt en plan som vid varje tid tillgodoser det aktuella behovet av säkerhet.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p124 ft8"&gt;Ett villkor om att ställa säkerhet ska innebära att säkerheten ska prövas av tillståndsmyndigheten. Säkerheten ska godtas om den visas vara betryggande för sitt ändamål.&lt;/P&gt;
+&lt;P class="p125 ft10"&gt;Staten, kommuner, landsting och kommunalförbund behöver inte ställa säkerhet.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_3"&gt;
+&lt;P class="p85 ft12"&gt;&lt;SPAN class="ft25"&gt;1&lt;/SPAN&gt;&lt;SPAN class="ft45"&gt;Jfr Europaparlamentets och rådets direktiv 2009/31/EG av den 23 april 2009 om geologisk lagring av koldioxid och ändring av rådets direktiv 85/337/EEG, Europaparlamentets och rådets direktiv 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG och 2008/1/EG samt förordning (EG) nr 1013/2006, i lydelsen enligt Europaparlamentets och rådets förordning (EU) 2018/1999.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p126 ft13"&gt;&lt;SPAN class="ft11"&gt;2 &lt;/SPAN&gt;Senaste lydelse 2016:782.&lt;/P&gt;
+&lt;P class="p77 ft3"&gt;19&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_20"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p106 ft24"&gt;Prop. 2018/19:64 Bilaga 4&lt;/P&gt;
+&lt;P class="p107 ft3"&gt;20&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p127 ft4"&gt;37 a §&lt;/P&gt;
+&lt;P class="p128 ft10"&gt;Regeringen eller den myndighet som regeringen bestämmer får meddela ytterligare föreskrifter om vad som krävs för att en säkerhet ska kunna godtas.&lt;/P&gt;
+&lt;P class="p129 ft18"&gt;&lt;SPAN class="ft9"&gt;24&lt;/SPAN&gt;&lt;SPAN class="ft15"&gt;kap. &lt;/SPAN&gt;&lt;SPAN class="ft16"&gt;5 §&lt;/SPAN&gt;&lt;SPAN class="ft17"&gt;3&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p37 ft3"&gt;I fråga om miljöfarlig verksamhet eller vattenverksamhet får tillståndsmyndigheten ompröva tillstånd när det gäller en bestämmelse om tillåten produktionsmängd eller annan liknande bestämmelse om verksamhetens omfattning, samt ändra eller upphäva villkor eller andra bestämmelser eller meddela nya sådana&lt;/P&gt;
+&lt;P class="p109 ft3"&gt;&lt;SPAN class="ft3"&gt;1.&lt;/SPAN&gt;&lt;SPAN class="ft22"&gt;när, från det tillståndsbeslutet fick laga kraft, det förflutit tio år eller den kortare tid som, på grund av vad som följer av Sveriges medlemskap i Europeiska unionen, föreskrivs av regeringen eller den myndighet som regeringen bestämmer,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p110 ft24"&gt;&lt;SPAN class="ft3"&gt;2.&lt;/SPAN&gt;&lt;SPAN class="ft46"&gt;om verksamheten med någon betydelse medverkar till att en miljökvalitetsnorm inte följs,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p109 ft3"&gt;&lt;SPAN class="ft3"&gt;3.&lt;/SPAN&gt;&lt;SPAN class="ft22"&gt;om den som har sökt tillståndet har vilselett tillståndsmyndigheten genom att lämna oriktiga uppgifter eller låta bli att lämna uppgifter av betydelse för tillståndet eller villkoren,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p111 ft3"&gt;&lt;SPAN class="ft3"&gt;4.&lt;/SPAN&gt;&lt;SPAN class="ft22"&gt;när tillståndet eller villkor som gäller för verksamheten inte har följts,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p110 ft21"&gt;&lt;SPAN class="ft3"&gt;5.&lt;/SPAN&gt;&lt;SPAN class="ft43"&gt;om det genom verksamheten uppkommit en olägenhet av någon betydelse som inte förutsågs när verksamheten tilläts,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p111 ft3"&gt;&lt;SPAN class="ft3"&gt;6.&lt;/SPAN&gt;&lt;SPAN class="ft22"&gt;om förhållandena i omgivningen har ändrats väsentligt,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p110 ft3"&gt;&lt;SPAN class="ft3"&gt;7.&lt;/SPAN&gt;&lt;SPAN class="ft22"&gt;om en från hälso- eller miljösynpunkt väsentlig förbättring kan uppnås med användning av någon ny process- eller reningsteknik,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p109 ft3"&gt;&lt;SPAN class="ft3"&gt;8.&lt;/SPAN&gt;&lt;SPAN class="ft22"&gt;om användandet av någon ny teknik för mätning eller uppskattning av förorening eller annan störning skulle medföra väsentligt bättre förutsättningar för att kontrollera verksamheten,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p109 ft21"&gt;&lt;SPAN class="ft3"&gt;9.&lt;/SPAN&gt;&lt;SPAN class="ft43"&gt;om verksamheten helt eller till väsentlig del är förlagd inom ett område där förbud råder enligt en föreskrift eller ett beslut som har meddelats med stöd av 9 kap. 4 §,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p111 ft3"&gt;&lt;SPAN class="ft3"&gt;10.&lt;/SPAN&gt;&lt;SPAN class="ft22"&gt;för att förbättra en anläggnings säkerhet,&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p111 ft3"&gt;&lt;SPAN class="ft3"&gt;11.&lt;/SPAN&gt;&lt;SPAN class="ft19"&gt;om det visar sig att anordningar som har vidtagits eller villkor som&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p37 ft3"&gt;har meddelats till skydd för fisket med stöd av 11 kap. 8 § eller enligt 6 kap. 5 § lagen (1998:812) med särskilda bestämmelser om vattenverksamhet är mindre ändamålsenliga, eller&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t7"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr6 td12"&gt;&lt;SPAN class="p112 ft3"&gt;12. om det kan antas att en säker-&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td18"&gt;&lt;SPAN class="p17 ft3"&gt;12. om det kan antas att en säker-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr8 td12"&gt;&lt;SPAN class="p112 ft3"&gt;het som ställts enligt 9 kap. 6 e §,&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr8 td18"&gt;&lt;SPAN class="p17 ft3"&gt;het som ställts enligt 9 kap. 6 e §,&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td12"&gt;&lt;SPAN class="p112 ft3"&gt;15 kap. 35 § eller 16 kap. 3 § inte&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td18"&gt;&lt;SPAN class="p17 ft3"&gt;15 kap. 35 &lt;SPAN class="ft4"&gt;eller 37 &lt;/SPAN&gt;§ eller 16 kap.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td12"&gt;&lt;SPAN class="p112 ft3"&gt;längre är tillräcklig eller är större än&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td18"&gt;&lt;SPAN class="p17 ft3"&gt;3 § inte längre är tillräcklig eller är&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr10 td12"&gt;&lt;SPAN class="p113 ft23"&gt;vad som behövs.&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr10 td18"&gt;&lt;SPAN class="p114 ft23"&gt;större än vad som behövs.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p130 ft13"&gt;&lt;SPAN class="ft47"&gt;3&lt;/SPAN&gt;&lt;SPAN class="ft48"&gt;Senaste lydelse 2018:1407.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_21"&gt;
+&lt;DIV id="p21dimg1"&gt;
+&lt;INGENBILD zsrc="H6036421x1.jpg/" id="p21img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV class="dclr"&gt;&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p41 ft21"&gt;I fall som avses i första stycket 5 får tillståndsmyndigheten också besluta om andra åtgärder som behövs för att förebygga eller minska olägenheter för framtiden.&lt;/P&gt;
+&lt;P class="p117 ft3"&gt;Denna lag träder i kraft den 1 augusti 2019.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p118 ft24"&gt;Prop. 2018/19:64 Bilaga 4&lt;/P&gt;
+&lt;P class="p119 ft3"&gt;21&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_22"&gt;
+
+
+&lt;P class="p93 ft3"&gt;Prop. 2018/19:64&lt;/P&gt;
+&lt;P class="p94 ft3"&gt;Bilaga 5&lt;/P&gt;
+&lt;P class="p81 ft1"&gt;Lagrådets yttrande&lt;/P&gt;
+&lt;P class="p81 ft3"&gt;Utdrag ur protokoll vid sammanträde &lt;NOBR&gt;2019-02-21&lt;/NOBR&gt;&lt;/P&gt;
+&lt;P class="p131 ft50"&gt;&lt;SPAN class="ft49"&gt;Närvarande: &lt;/SPAN&gt;F.d. justitierådet Ella Nyström samt justitieråden Erik Nymansson och Thomas Bull.&lt;/P&gt;
+&lt;P class="p132 ft35"&gt;Säkerhet vid geologisk lagring av koldioxid&lt;/P&gt;
+&lt;P class="p133 ft21"&gt;Enligt en lagrådsremiss den 14 februari 2019 har regeringen (Miljö- och energidepartementet) beslutat inhämta Lagrådets yttrande över förslag till lag om ändring i miljöbalken.&lt;/P&gt;
+&lt;P class="p134 ft24"&gt;Förslaget har inför Lagrådet föredragits av rättssakkunnige Christoffer Sheats.&lt;/P&gt;
+&lt;P class="p82 ft3"&gt;Förslaget föranleder följande yttrande av &lt;SPAN class="ft4"&gt;Lagrådet&lt;/SPAN&gt;:&lt;/P&gt;
+&lt;P class="p135 ft9"&gt;15 kap. 37 §&lt;/P&gt;
+&lt;P class="p136 ft3"&gt;I ett nytt andra stycke har införts en bestämmelse om att ett villkor om ställande av säkerhet ska innebära att säkerheten ska prövas av tillståndsmyndigheten. Syftet med ändringen är enligt remissen att tydliggöra att prövningen av säkerheten är uppdelad. Med hänvisning till rättsfallet NJA 2011 s. 296 uttalas att frågan om vilken form säkerheten ska ha, och om den är tillräckligt betryggande, normalt prövas i samband med att tillståndshavaren tar tillståndet i anspråk och då ställer säkerhet för att uppfylla tillståndsvillkoret.&lt;/P&gt;
+&lt;P class="p137 ft3"&gt;Enligt Lagrådets mening är det tveksamt om det föreslagna andra stycket tillgodoser det angivna syftet. Innebörden av den allmänna bestämmelsen om ställande av säkerhet i 16 kap. 3 § miljöbalken har tydliggjorts genom Högsta domstolens uttalanden i NJA 2011 s. 296. Det avsedda klargörandet av hur prövningen av en säkerhet enligt den nu aktuella paragrafen ska ske uppnås genom hänvisningen till rättsfallet i författningskommentaren. Mot den bakgrunden bör paragrafen kunna förenklas något och ges följande lydelse.&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t8"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr15 td19"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr15 td20"&gt;&lt;SPAN class="p138 ft3"&gt;Tillstånd till geologisk lagring av koldioxid ska för sin giltighet göras&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td19"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td20"&gt;&lt;SPAN class="p138 ft23"&gt;beroende av att verksamhetsutövaren ställer säkerhet eller vidtar någon&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td19"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td20"&gt;&lt;SPAN class="p138 ft31"&gt;annan lämplig åtgärd för att säkerställa fullgörandet av de skyldigheter&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td19"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td20"&gt;&lt;SPAN class="p138 ft3"&gt;som gäller för verksamheten enligt denna balk, lagen (2004:1199) om&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td19"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td20"&gt;&lt;SPAN class="p138 ft23"&gt;handel med utsläppsrätter samt de föreskrifter och tillståndsvillkor som&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td19"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td20"&gt;&lt;SPAN class="p138 ft31"&gt;har meddelats med stöd av dessa lagar. En säkerhet får ställas efter hand&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td19"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td20"&gt;&lt;SPAN class="p138 ft3"&gt;enligt en plan som vid varje tid tillgodoser det aktuella behovet av&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr13 td19"&gt;&lt;SPAN class="p3 ft34"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr13 td20"&gt;&lt;SPAN class="p138 ft51"&gt;säkerhet.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr7 td19"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr7 td20"&gt;&lt;SPAN class="p139 ft23"&gt;När en säkerhet ställs ska den prövas av tillståndsmyndigheten. Säker-&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD rowspan=2 class="tr5 td19"&gt;&lt;SPAN class="p140 ft3"&gt;22&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr6 td20"&gt;&lt;SPAN class="p138 ft3"&gt;heten ska godtas om den visas vara betryggande för sitt ändamål.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr16 td20"&gt;&lt;SPAN class="p3 ft52"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_23"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p141 ft21"&gt;Staten, kommuner, landsting och kommunalförbund behöver inte ställa säkerhet.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p142 ft24"&gt;Prop. 2018/19:64 Bilaga 5&lt;/P&gt;
+&lt;P class="p119 ft3"&gt;23&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_24"&gt;
+&lt;DIV id="p24dimg1"&gt;
+&lt;INGENBILD zsrc="H6036424x1.jpg/" id="p24img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p93 ft3"&gt;Prop. 2018/19:64&lt;/P&gt;
+&lt;P class="p143 ft1"&gt;Miljö- och energidepartementet&lt;/P&gt;
+&lt;P class="p144 ft3"&gt;Utdrag ur protokoll vid regeringssammanträde den 7 mars 2019&lt;/P&gt;
+&lt;P class="p145 ft21"&gt;Närvarande: statsminister Löfven, ordförande, och statsråden Lövin, Y Johansson, Baylan, Hallengren, Hultqvist, Andersson, Bolund, Strandhäll, Shekarabi, Ygeman, Eriksson, Linde, Ekström, Eneroth, Dahlgren, Ernkrans, Lind&lt;/P&gt;
+&lt;P class="p146 ft3"&gt;Föredragande: statsrådet Lövin&lt;/P&gt;
+&lt;P class="p147 ft24"&gt;Regeringen beslutar proposition Säkerhet vid geologisk lagring av koldioxid&lt;/P&gt;
+&lt;P class="p148 ft3"&gt;24&lt;/P&gt;
+&lt;/DIV&gt;
+
+&lt;/div&gt;&lt;style&gt;
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+&lt;/style&gt;
+</html>
+  </dokument>
+<dokforslag>
+<forslag>
+<nummer datatype="int32">1</nummer>
+<beteckning datatype="string">1</beteckning>
+<lydelse datatype="string">Riksdagen antar regeringens förslag till lag om ändring i miljöbalken.</lydelse>
+<lydelse2 datatype="string" />
+<utskottet datatype="string">Bifall</utskottet>
+<kammaren datatype="string">Bifall</kammaren>
+<behandlas_i datatype="string">2018/19:MJU14</behandlas_i>
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string">MJU</intressent>
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+</dokforslag>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">INL</kod>
+<namn datatype="string">Inlämnad</namn>
+<datum datatype="datetime">2019-03-12 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">B</kod>
+<namn datatype="string">Bordlagd</namn>
+<datum datatype="datetime">2019-03-12 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">HÄN</kod>
+<namn datatype="string">Hänvisad</namn>
+<datum datatype="datetime">2019-03-13 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">MOT</kod>
+<namn datatype="string">Motionstid slutar</namn>
+<datum datatype="datetime">2019-03-27 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+</dokaktivitet>
+<dokintressent>
+<intressent>
+<intressent_id datatype="string">0218878014918</intressent_id>
+<namn datatype="string">Stefan Löfven</namn>
+<partibet datatype="string">S</partibet>
+<ordning datatype="int16">1</ordning>
+<roll datatype="string">Statsråd1</roll>
+</intressent>
+<intressent>
+<intressent_id datatype="string">0911490574010</intressent_id>
+<namn datatype="string">Isabella Lövin</namn>
+<partibet datatype="string">MP</partibet>
+<ordning datatype="int16">2</ordning>
+<roll datatype="string">Statsråd2</roll>
+</intressent>
+</dokintressent>
+<dokuppgift>
+<uppgift>
+<kod datatype="string">inlamnatav</kod>
+<namn datatype="string">Inlämnat av</namn>
+<text datatype="string">Miljö- och energidepartementet</text>
+<dok_id datatype="string">H60364</dok_id>
+<systemdatum datatype="datetime">2019-05-09 16:45:29</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">tilldelat</kod>
+<namn datatype="string">Tilldelat</namn>
+<text datatype="string">Miljö- och jordbruksutskottet</text>
+<dok_id datatype="string">H60364</dok_id>
+<systemdatum datatype="datetime">2019-05-09 16:45:29</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">statustext</kod>
+<namn datatype="string">statustext</namn>
+<text datatype="string">Propositionen bereds i utskott</text>
+<dok_id datatype="string">H60364</dok_id>
+<systemdatum datatype="datetime">2019-03-13 14:16:24</systemdatum>
+</uppgift>
+</dokuppgift>
+<dokbilaga>
+<bilaga>
+<dok_id datatype="string">H60364</dok_id>
+<titel datatype="string">Säkerhet vid geologisk lagring av koldioxid</titel>
+<subtitel datatype="string" />
+<filnamn datatype="string">prop_201819__64.pdf</filnamn>
+<filstorlek datatype="int32">241156</filstorlek>
+<filtyp datatype="string">pdf</filtyp>
+<fil_url datatype="string">http://data.riksdagen.se/fil/B7FAAE99-EBA9-4081-ACD5-E6EE828A3BE0</fil_url>
+</bilaga>
+</dokbilaga>
+<dokreferens>
+<referens>
+<referenstyp datatype="string">behandlas_i</referenstyp>
+<uppgift datatype="string">2018/19:MJU14</uppgift>
+<ref_dok_id datatype="string">H601MJU14</ref_dok_id>
+<ref_dok_typ datatype="string">bet</ref_dok_typ>
+<ref_dok_rm datatype="string">2018/19</ref_dok_rm>
+<ref_dok_bet datatype="string">MJU14</ref_dok_bet>
+<ref_dok_titel datatype="string">Säkerhet vid geologisk lagring av koldioxid</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">bet</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Betänkande</ref_dok_dokumentnamn>
+</referens>
+</dokreferens>
+<debatt /></dokumentstatus>

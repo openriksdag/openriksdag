@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "8f930c39-6141-4917-8aa0-3c460feeb206",
+    "sourceid": "3c5cc45d-e4cd-11d6-ae81-0004755038ce",
+    "intressent_id": "0472624390304",
+    "hangar_id": "2342412",
+    "fodd_ar": "1946",
+    "kon": "man",
+    "efternamn": "Karlsson",
+    "tilltalsnamn": "Hans",
+    "sorteringsnamn": "Karlsson,Hans",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare statsråd",
+    "person_url_xml": "http://data.riksdagen.se/person/3c5cc45d-e4cd-11d6-ae81-0004755038ce",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3c5cc45d-e4cd-11d6-ae81-0004755038ce_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3c5cc45d-e4cd-11d6-ae81-0004755038ce_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3c5cc45d-e4cd-11d6-ae81-0004755038ce_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "N",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Departement",
+          "from": "2006-10-02",
+          "tom": "2006-10-06",
+          "uppgift": "Näringsdepartementet",
+          "intressent_id": "0472624390304",
+          "hangar_id": "2342412",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "N",
+          "roll_kod": "Statsråd",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Departement",
+          "from": "2002-09-30",
+          "tom": "2006-10-02",
+          "uppgift": "Näringsdepartementet",
+          "intressent_id": "0472624390304",
+          "hangar_id": "2342412",
+          "sortering": "100",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "1fc85a57-9f1b-4501-8523-ba18c1b33af1",
+    "sourceid": "5f648d05-9afa-4a78-aa2b-92adc21c6175",
+    "intressent_id": "0294883731700",
+    "hangar_id": "2342341",
+    "fodd_ar": "1945",
+    "kon": "kvinna",
+    "efternamn": "Wallin-Johansson",
+    "tilltalsnamn": "Margareta",
+    "sorteringsnamn": "Wallin-Johansson,Margareta",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/5f648d05-9afa-4a78-aa2b-92adc21c6175",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5f648d05-9afa-4a78-aa2b-92adc21c6175_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5f648d05-9afa-4a78-aa2b-92adc21c6175_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5f648d05-9afa-4a78-aa2b-92adc21c6175_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Ersättare",
+        "ordningsnummer": "77",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "1994-10-03",
+        "tom": "1994-10-07",
+        "uppgift": "Per Westerberg",
+        "intressent_id": "0294883731700",
+        "hangar_id": "2342341",
+        "sortering": "45",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": ""
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "8b7a6f1e-2e90-485f-885d-e0e7f93699cc",
+    "sourceid": "bba893c3-975b-416b-a830-68bbb77f1b50",
+    "intressent_id": "0348125782828",
+    "hangar_id": "2343589",
+    "fodd_ar": "1974",
+    "kon": "kvinna",
+    "efternamn": "Thulin",
+    "tilltalsnamn": "Ulrika",
+    "sorteringsnamn": "Thulin,Ulrika",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Skåne läns västra",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/bba893c3-975b-416b-a830-68bbb77f1b50",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/bba893c3-975b-416b-a830-68bbb77f1b50_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/bba893c3-975b-416b-a830-68bbb77f1b50_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/bba893c3-975b-416b-a830-68bbb77f1b50_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Statsrådsersättare",
+        "ordningsnummer": "16",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "2006-10-02",
+        "tom": "2006-10-06",
+        "uppgift": "Ylva Johansson",
+        "intressent_id": "0348125782828",
+        "hangar_id": "2343589",
+        "sortering": "",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Patentingenjör",
+          "typ": "titlar",
+          "intressent_id": "0348125782828",
+          "hangar_id": "2343589"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0348125782828",
+          "hangar_id": "2343589"
+        }
+      ]
+    }
+  }
+}

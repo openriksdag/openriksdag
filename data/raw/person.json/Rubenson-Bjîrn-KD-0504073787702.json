@@ -1,0 +1,114 @@
+{
+  "person": {
+    "hangar_guid": "79d959c5-7f67-4b49-9671-1e989312d407",
+    "sourceid": "1b63cd86-7a44-4990-a17a-c8e47f44907b",
+    "intressent_id": "0504073787702",
+    "hangar_id": "3057364",
+    "fodd_ar": "1946",
+    "kon": "man",
+    "efternamn": "Rubenson",
+    "tilltalsnamn": "Björn",
+    "sorteringsnamn": "Rubenson,Björn",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Västra Götalands läns östra",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/1b63cd86-7a44-4990-a17a-c8e47f44907b",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1b63cd86-7a44-4990-a17a-c8e47f44907b_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1b63cd86-7a44-4990-a17a-c8e47f44907b_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1b63cd86-7a44-4990-a17a-c8e47f44907b_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "100",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2017-05-03",
+          "tom": "2017-09-30",
+          "uppgift": "Annika Eclund",
+          "intressent_id": "0504073787702",
+          "hangar_id": "3057364",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-05-04",
+          "tom": "2017-09-30",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0504073787702",
+          "hangar_id": "3057364",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-05-04",
+          "tom": "2017-09-30",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0504073787702",
+          "hangar_id": "3057364",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-05-04",
+          "tom": "2017-09-30",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0504073787702",
+          "hangar_id": "3057364",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-05-04",
+          "tom": "2017-09-30",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0504073787702",
+          "hangar_id": "3057364",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "true",
+        "typ": "val",
+        "intressent_id": "0504073787702",
+        "hangar_id": "3057364"
+      }
+    }
+  }
+}

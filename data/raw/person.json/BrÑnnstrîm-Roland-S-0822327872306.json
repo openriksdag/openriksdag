@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "0f6752a4-ead2-4c47-9c59-283788fb31ac",
+    "sourceid": "fb667890-e8b9-4cec-86b1-ab8de51858f1",
+    "intressent_id": "0822327872306",
+    "hangar_id": "2341755",
+    "fodd_ar": "1930",
+    "kon": "man",
+    "efternamn": "Brännström",
+    "tilltalsnamn": "Roland",
+    "sorteringsnamn": "Brännström,Roland",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Avliden  2019-01-24",
+    "person_url_xml": "http://data.riksdagen.se/person/fb667890-e8b9-4cec-86b1-ab8de51858f1",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fb667890-e8b9-4cec-86b1-ab8de51858f1_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fb667890-e8b9-4cec-86b1-ab8de51858f1_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fb667890-e8b9-4cec-86b1-ab8de51858f1_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "330",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0822327872306",
+          "hangar_id": "2341755",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0822327872306",
+          "hangar_id": "2341755",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0822327872306",
+          "hangar_id": "2341755",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0822327872306",
+          "hangar_id": "2341755",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1976-10-04",
+          "tom": "1979-10-01",
+          "uppgift": "",
+          "intressent_id": "0822327872306",
+          "hangar_id": "2341755",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KD",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1988-10-18",
+          "tom": "1991-09-30",
+          "uppgift": "Krigsdelegationen",
+          "intressent_id": "0822327872306",
+          "hangar_id": "2341755",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RB",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1988-10-18",
+          "tom": "1991-09-30",
+          "uppgift": "Riksbanksfullmäktige",
+          "intressent_id": "0822327872306",
+          "hangar_id": "2341755",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "verkmästare",
+          "typ": "titlar",
+          "intressent_id": "0822327872306",
+          "hangar_id": "2341755"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0822327872306",
+          "hangar_id": "2341755"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "person": {
+    "hangar_guid": "8012e4cf-3106-43b3-9800-44c063117d08",
+    "sourceid": "d7c32612-83e4-11d4-ae60-0050040c9b55",
+    "intressent_id": "0697255175510",
+    "hangar_id": "2342635",
+    "fodd_ar": "1950",
+    "kon": "man",
+    "efternamn": "Söderdahl",
+    "tilltalsnamn": "Willy",
+    "sorteringsnamn": "Söderdahl,Willy",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/d7c32612-83e4-11d4-ae60-0050040c9b55",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c32612-83e4-11d4-ae60-0050040c9b55_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c32612-83e4-11d4-ae60-0050040c9b55_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c32612-83e4-11d4-ae60-0050040c9b55_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "141",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1998-10-05",
+          "tom": "2002-09-30",
+          "uppgift": "",
+          "intressent_id": "0697255175510",
+          "hangar_id": "2342635",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "2002-09-30",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0697255175510",
+          "hangar_id": "2342635",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "2002-02-01",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0697255175510",
+          "hangar_id": "2342635",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-02-01",
+          "tom": "2002-09-29",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0697255175510",
+          "hangar_id": "2342635",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "2002-10-08",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0697255175510",
+          "hangar_id": "2342635",
+          "sortering": "30",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "lärare",
+          "typ": "titlar",
+          "intressent_id": "0697255175510",
+          "hangar_id": "2342635"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Teacher",
+          "typ": "titlar",
+          "intressent_id": "0697255175510",
+          "hangar_id": "2342635"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0697255175510",
+          "hangar_id": "2342635"
+        }
+      ]
+    }
+  }
+}

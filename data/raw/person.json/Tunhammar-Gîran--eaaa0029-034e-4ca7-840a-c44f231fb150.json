@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "555f0c43-f7ca-4408-b3ee-84079ee514ac",
+    "sourceid": "eaaa0029-034e-4ca7-840a-c44f231fb150",
+    "intressent_id": "",
+    "hangar_id": "4788826",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Tunhammar",
+    "tilltalsnamn": "Göran",
+    "sorteringsnamn": "Tunhammar,Göran",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ledamot i Riksdagens arvodesnämnd",
+    "person_url_xml": "http://data.riksdagen.se/person/eaaa0029-034e-4ca7-840a-c44f231fb150",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/eaaa0029-034e-4ca7-840a-c44f231fb150_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/eaaa0029-034e-4ca7-840a-c44f231fb150_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/eaaa0029-034e-4ca7-840a-c44f231fb150_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "RAR",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2012-01-01",
+          "tom": "2012-12-31",
+          "uppgift": "Riksdagens arvodesnämnd",
+          "intressent_id": "",
+          "hangar_id": "4788826",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RAR",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2011-01-01",
+          "tom": "2011-12-31",
+          "uppgift": "Riksdagens arvodesnämnd",
+          "intressent_id": "",
+          "hangar_id": "4788826",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RAR",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2010-01-01",
+          "tom": "2010-12-31",
+          "uppgift": "Riksdagens arvodesnämnd",
+          "intressent_id": "",
+          "hangar_id": "4788826",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

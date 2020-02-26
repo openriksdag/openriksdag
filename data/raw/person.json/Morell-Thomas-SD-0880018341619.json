@@ -1,0 +1,82 @@
+{
+  "person": {
+    "hangar_guid": "612339c7-569f-4f27-9afd-20b6a9a35fd8",
+    "sourceid": "ee4900a4-1434-4ae5-8ddf-4f18755e02cc",
+    "intressent_id": "0880018341619",
+    "hangar_id": "5004069",
+    "fodd_ar": "1957",
+    "kon": "man",
+    "efternamn": "Morell",
+    "tilltalsnamn": "Thomas",
+    "sorteringsnamn": "Morell,Thomas",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Gävleborgs län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/ee4900a4-1434-4ae5-8ddf-4f18755e02cc",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ee4900a4-1434-4ae5-8ddf-4f18755e02cc_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ee4900a4-1434-4ae5-8ddf-4f18755e02cc_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ee4900a4-1434-4ae5-8ddf-4f18755e02cc_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "346",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0880018341619",
+          "hangar_id": "5004069",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0880018341619",
+          "hangar_id": "5004069",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "thomas.morell[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0880018341619",
+          "hangar_id": "5004069"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Sakkunnig yrkestrafik.",
+          "typ": "titlar",
+          "intressent_id": "0880018341619",
+          "hangar_id": "5004069"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0880018341619",
+          "hangar_id": "5004069"
+        }
+      ]
+    }
+  }
+}

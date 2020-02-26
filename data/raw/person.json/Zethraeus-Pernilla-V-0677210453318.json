@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "dbc8d98e-0208-4461-ac02-2a24211bf921",
+    "sourceid": "ff076c5b-363c-437e-a6d4-004c998c053d",
+    "intressent_id": "0677210453318",
+    "hangar_id": "2343201",
+    "fodd_ar": "1962",
+    "kon": "kvinna",
+    "efternamn": "Zethraeus",
+    "tilltalsnamn": "Pernilla",
+    "sorteringsnamn": "Zethraeus,Pernilla",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/ff076c5b-363c-437e-a6d4-004c998c053d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ff076c5b-363c-437e-a6d4-004c998c053d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ff076c5b-363c-437e-a6d4-004c998c053d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ff076c5b-363c-437e-a6d4-004c998c053d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "245",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "2007-09-26",
+          "tom": "2008-06-17",
+          "uppgift": "Mats Einarsson 2007-09-26 - 2008-02-15, Amineh Kakabaveh 2008-02-16 - 2008-06-17",
+          "intressent_id": "0677210453318",
+          "hangar_id": "2343201",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "245",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2007-09-25",
+          "uppgift": "",
+          "intressent_id": "0677210453318",
+          "hangar_id": "2343201",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-24",
+          "tom": "2008-06-17",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0677210453318",
+          "hangar_id": "2343201",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2008-06-17",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0677210453318",
+          "hangar_id": "2343201",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KUU",
+          "roll_kod": "Deputerad",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-03-27",
+          "tom": "2008-06-17",
+          "uppgift": "Sammansatta konstitutions- och utrikesutskottet",
+          "intressent_id": "0677210453318",
+          "hangar_id": "2343201",
+          "sortering": "40",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Fritidsledare",
+          "typ": "titlar",
+          "intressent_id": "0677210453318",
+          "hangar_id": "2343201"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0677210453318",
+          "hangar_id": "2343201"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "person": {
+    "hangar_guid": "5b7550c1-4579-48c0-9946-0fed5313bf76",
+    "sourceid": "d6bcb84c-0102-4eca-b564-c21bd7cf1f4e",
+    "intressent_id": "0523902030928",
+    "hangar_id": "5003942",
+    "fodd_ar": "1992",
+    "kon": "kvinna",
+    "efternamn": "Fazelian",
+    "tilltalsnamn": "Aylin",
+    "sorteringsnamn": "Fazelian,Aylin",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Västra Götalands läns västra",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/d6bcb84c-0102-4eca-b564-c21bd7cf1f4e",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d6bcb84c-0102-4eca-b564-c21bd7cf1f4e_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d6bcb84c-0102-4eca-b564-c21bd7cf1f4e_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d6bcb84c-0102-4eca-b564-c21bd7cf1f4e_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "339",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0523902030928",
+          "hangar_id": "5003942",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "NR",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2019-10-02",
+          "tom": "2020-10-30",
+          "uppgift": "Nordiska rådets svenska delegation",
+          "intressent_id": "0523902030928",
+          "hangar_id": "5003942",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NR",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-10-09",
+          "tom": "2019-10-02",
+          "uppgift": "Nordiska rådets svenska delegation",
+          "intressent_id": "0523902030928",
+          "hangar_id": "5003942",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-12-06",
+          "tom": "2022-09-26",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0523902030928",
+          "hangar_id": "5003942",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-12-16",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0523902030928",
+          "hangar_id": "5003942",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-11-14",
+          "tom": "2019-12-17",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0523902030928",
+          "hangar_id": "5003942",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-05-09",
+          "tom": "2019-06-12",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0523902030928",
+          "hangar_id": "5003942",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-11-15",
+          "tom": "2018-12-05",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0523902030928",
+          "hangar_id": "5003942",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "aylin.fazelian[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0523902030928",
+          "hangar_id": "5003942"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Statsvetare",
+          "typ": "titlar",
+          "intressent_id": "0523902030928",
+          "hangar_id": "5003942"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0523902030928",
+          "hangar_id": "5003942"
+        }
+      ]
+    }
+  }
+}

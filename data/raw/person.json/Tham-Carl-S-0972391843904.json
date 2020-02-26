@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "7aab10bd-4f2f-4900-8ce6-fcd81f20bf8e",
+    "sourceid": "9c2b039e-8a5a-42ef-9037-00f26799e9ec",
+    "intressent_id": "0972391843904",
+    "hangar_id": "2342045",
+    "fodd_ar": "1939",
+    "kon": "man",
+    "efternamn": "Tham",
+    "tilltalsnamn": "Carl",
+    "sorteringsnamn": "Tham,Carl",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/9c2b039e-8a5a-42ef-9037-00f26799e9ec",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9c2b039e-8a5a-42ef-9037-00f26799e9ec_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9c2b039e-8a5a-42ef-9037-00f26799e9ec_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9c2b039e-8a5a-42ef-9037-00f26799e9ec_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "U",
+          "roll_kod": "Utbildningsminister",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Departement",
+          "from": "1994-10-07",
+          "tom": "1998-10-06",
+          "uppgift": "Utbildningsdepartementet",
+          "intressent_id": "0972391843904",
+          "hangar_id": "2342045",
+          "sortering": "",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-12",
+          "tom": "1980-08-31",
+          "uppgift": "Birgit Friggebo",
+          "intressent_id": "0972391843904",
+          "hangar_id": "2342045",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1978-03-07",
+          "tom": "1978-09-30",
+          "uppgift": "Jan-Erik Wikström",
+          "intressent_id": "0972391843904",
+          "hangar_id": "2342045",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

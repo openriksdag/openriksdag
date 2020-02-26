@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "b30c3282-d6a7-49da-baef-f3971930e10c",
+    "sourceid": "28535a60-4698-43e5-aa4f-c572d5c0303e",
+    "intressent_id": "0381231495405",
+    "hangar_id": "2342050",
+    "fodd_ar": "1939",
+    "kon": "man",
+    "efternamn": "Björnlod",
+    "tilltalsnamn": "Leif",
+    "sorteringsnamn": "Björnlod,Leif",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "Värmlands län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/28535a60-4698-43e5-aa4f-c572d5c0303e",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/28535a60-4698-43e5-aa4f-c572d5c0303e_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/28535a60-4698-43e5-aa4f-c572d5c0303e_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/28535a60-4698-43e5-aa4f-c572d5c0303e_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "266",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2002-09-30",
+          "tom": "2006-10-02",
+          "uppgift": "",
+          "intressent_id": "0381231495405",
+          "hangar_id": "2342050",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0381231495405",
+          "hangar_id": "2342050",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0381231495405",
+          "hangar_id": "2342050",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-15",
+          "tom": "2006-10-02",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0381231495405",
+          "hangar_id": "2342050",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuSoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-02-09",
+          "tom": "2006-04-26",
+          "uppgift": "Sammansatta justitie- och socialutskottet",
+          "intressent_id": "0381231495405",
+          "hangar_id": "2342050",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-11-28",
+          "tom": "2006-10-02",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0381231495405",
+          "hangar_id": "2342050",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "folkhögskolelärare",
+          "typ": "titlar",
+          "intressent_id": "0381231495405",
+          "hangar_id": "2342050"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Folk High School Teacher",
+          "typ": "titlar",
+          "intressent_id": "0381231495405",
+          "hangar_id": "2342050"
+        }
+      ]
+    }
+  }
+}

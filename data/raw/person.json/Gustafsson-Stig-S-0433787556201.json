@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "b896a8de-77e1-44e9-bc13-bcd2ee398d10",
+    "sourceid": "f33b2acd-b50e-4ebe-846b-88b7b26f8044",
+    "intressent_id": "0433787556201",
+    "hangar_id": "2341779",
+    "fodd_ar": "1931",
+    "kon": "man",
+    "efternamn": "Gustafsson",
+    "tilltalsnamn": "Stig",
+    "sorteringsnamn": "Gustafsson,Stig",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/f33b2acd-b50e-4ebe-846b-88b7b26f8044",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f33b2acd-b50e-4ebe-846b-88b7b26f8044_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f33b2acd-b50e-4ebe-846b-88b7b26f8044_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f33b2acd-b50e-4ebe-846b-88b7b26f8044_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "17",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1989-01-30",
+          "tom": "1991-09-30",
+          "uppgift": "Bengt Lindqvist",
+          "intressent_id": "0433787556201",
+          "hangar_id": "2341779",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1986-10-07",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0433787556201",
+          "hangar_id": "2341779",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1980-04-23",
+          "tom": "1980-06-12",
+          "uppgift": "Sten Andersson",
+          "intressent_id": "0433787556201",
+          "hangar_id": "2341779",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1979-05-09",
+          "tom": "1979-06-09",
+          "uppgift": "Sten Andersson",
+          "intressent_id": "0433787556201",
+          "hangar_id": "2341779",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0433787556201",
+          "hangar_id": "2341779",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "förbundsjurist",
+          "typ": "titlar",
+          "intressent_id": "0433787556201",
+          "hangar_id": "2341779"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0433787556201",
+          "hangar_id": "2341779"
+        }
+      ]
+    }
+  }
+}

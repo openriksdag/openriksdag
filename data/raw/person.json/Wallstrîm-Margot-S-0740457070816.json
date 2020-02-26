@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "7c6c458b-abba-4c36-9e01-f1d7f968c063",
+    "sourceid": "ca2c6fb1-1a65-4dbf-8260-a075e79c48ef",
+    "intressent_id": "0740457070816",
+    "hangar_id": "2342831",
+    "fodd_ar": "1954",
+    "kon": "kvinna",
+    "efternamn": "Wallström",
+    "tilltalsnamn": "Margot",
+    "sorteringsnamn": "Wallström,Margot",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare utrikesminister",
+    "person_url_xml": "http://data.riksdagen.se/person/ca2c6fb1-1a65-4dbf-8260-a075e79c48ef",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ca2c6fb1-1a65-4dbf-8260-a075e79c48ef_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ca2c6fb1-1a65-4dbf-8260-a075e79c48ef_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ca2c6fb1-1a65-4dbf-8260-a075e79c48ef_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "UD",
+          "roll_kod": "Utrikesminister",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "Departement",
+          "from": "2019-01-21",
+          "tom": "2019-09-10",
+          "uppgift": "Utrikesdepartementet",
+          "intressent_id": "0740457070816",
+          "hangar_id": "2342831",
+          "sortering": "50",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UD",
+          "roll_kod": "Utrikesminister",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "Departement",
+          "from": "2014-10-03",
+          "tom": "2019-01-21",
+          "uppgift": "Utrikesdepartementet",
+          "intressent_id": "0740457070816",
+          "hangar_id": "2342831",
+          "sortering": "50",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

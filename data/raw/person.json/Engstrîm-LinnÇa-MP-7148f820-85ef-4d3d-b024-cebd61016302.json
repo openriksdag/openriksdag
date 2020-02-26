@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "c1232209-1479-4155-a3e2-c37e1e637590",
+    "sourceid": "7148f820-85ef-4d3d-b024-cebd61016302",
+    "intressent_id": "",
+    "hangar_id": "4788867",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Engström",
+    "tilltalsnamn": "Linnéa",
+    "sorteringsnamn": "Engström,Linnéa",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "",
+    "status": "Tidigare europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/7148f820-85ef-4d3d-b024-cebd61016302",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7148f820-85ef-4d3d-b024-cebd61016302_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7148f820-85ef-4d3d-b024-cebd61016302_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7148f820-85ef-4d3d-b024-cebd61016302_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "EP",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "14",
+        "status": "",
+        "typ": "Europaparlamentet",
+        "from": "2014-10-08",
+        "tom": "2019-07-02",
+        "uppgift": "Europaparlamentet",
+        "intressent_id": "",
+        "hangar_id": "4788867",
+        "sortering": "30",
+        "organ_sortering": "100",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

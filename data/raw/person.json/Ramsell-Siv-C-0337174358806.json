@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "97d7a7ef-73d0-476f-94cb-b3451e6b4e03",
+    "sourceid": "50f34d26-9fe9-441d-8892-0ee0ac04a7ae",
+    "intressent_id": "0337174358806",
+    "hangar_id": "2342436",
+    "fodd_ar": "1947",
+    "kon": "kvinna",
+    "efternamn": "Ramsell",
+    "tilltalsnamn": "Siv",
+    "sorteringsnamn": "Ramsell,Siv",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/50f34d26-9fe9-441d-8892-0ee0ac04a7ae",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/50f34d26-9fe9-441d-8892-0ee0ac04a7ae_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/50f34d26-9fe9-441d-8892-0ee0ac04a7ae_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/50f34d26-9fe9-441d-8892-0ee0ac04a7ae_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "290",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1988-11-11",
+          "tom": "1988-12-12",
+          "uppgift": "Birgitta Hambraeus",
+          "intressent_id": "0337174358806",
+          "hangar_id": "2342436",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-11-11",
+          "tom": "1988-12-12",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0337174358806",
+          "hangar_id": "2342436",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "chaufför",
+          "typ": "titlar",
+          "intressent_id": "0337174358806",
+          "hangar_id": "2342436"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0337174358806",
+          "hangar_id": "2342436"
+        }
+      ]
+    }
+  }
+}

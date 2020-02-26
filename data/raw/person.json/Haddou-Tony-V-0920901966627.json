@@ -1,0 +1,82 @@
+{
+  "person": {
+    "hangar_guid": "f42a2c45-94d1-4e93-a8c1-0097852f2a54",
+    "sourceid": "8e21a563-23d4-46cd-a901-acf5839d72d9",
+    "intressent_id": "0920901966627",
+    "hangar_id": "5003916",
+    "fodd_ar": "1989",
+    "kon": "man",
+    "efternamn": "Haddou",
+    "tilltalsnamn": "Tony",
+    "sorteringsnamn": "Haddou,Tony",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "Göteborgs kommun",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/8e21a563-23d4-46cd-a901-acf5839d72d9",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8e21a563-23d4-46cd-a901-acf5839d72d9_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8e21a563-23d4-46cd-a901-acf5839d72d9_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8e21a563-23d4-46cd-a901-acf5839d72d9_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "335",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0920901966627",
+          "hangar_id": "5003916",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "23",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-16",
+          "tom": "2022-09-26",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0920901966627",
+          "hangar_id": "5003916",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "8",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0920901966627",
+          "hangar_id": "5003916",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "tony.haddou[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0920901966627",
+        "hangar_id": "5003916"
+      }
+    }
+  }
+}

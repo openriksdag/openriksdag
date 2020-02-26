@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">df52be55-e591-4976-96e5-fd35fbaabf47</hangar_guid>
+<sourceid datatype="string">9d81f578-88a9-4e1a-b734-77409a25736a</sourceid>
+<intressent_id datatype="string">0376461485627</intressent_id>
+<hangar_id datatype="int32">5003923</hangar_id>
+<fodd_ar datatype="int16">1989</fodd_ar>
+<kon datatype="string">man</kon>
+<efternamn datatype="string">Edin</efternamn>
+<tilltalsnamn datatype="string">Henrik</tilltalsnamn>
+<sorteringsnamn datatype="string">Edin,Henrik</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">L</parti>
+<valkrets datatype="string">Göteborgs kommun</valkrets>
+<status datatype="string">Tillgänglig ersättare</status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/9d81f578-88a9-4e1a-b734-77409a25736a</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/9d81f578-88a9-4e1a-b734-77409a25736a_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/9d81f578-88a9-4e1a-b734-77409a25736a_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/9d81f578-88a9-4e1a-b734-77409a25736a_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">kam</organ_kod>
+<roll_kod datatype="string">Ersättare</roll_kod>
+<ordningsnummer datatype="int32">191</ordningsnummer>
+<status datatype="string">Ersättare</status>
+<typ datatype="string">kammaruppdrag</typ>
+<from datatype="datetime">2019-03-13</from>
+<tom datatype="datetime">2019-05-16</tom>
+<uppgift datatype="string">Robert Hannah</uppgift>
+<intressent_id datatype="string">0376461485627</intressent_id>
+<hangar_id datatype="int32">5003923</hangar_id>
+<sortering datatype="int32">45</sortering>
+<organ_sortering datatype="int32">10</organ_sortering>
+<uppdrag_rollsortering datatype="string">60</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">20</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">AU</organ_kod>
+<roll_kod datatype="string">Extra suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2019-03-13</from>
+<tom datatype="datetime">2019-05-16</tom>
+<uppgift datatype="string">Arbetsmarknadsutskottet</uppgift>
+<intressent_id datatype="string">0376461485627</intressent_id>
+<hangar_id datatype="int32">5003923</hangar_id>
+<sortering datatype="int32">55</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">CU</organ_kod>
+<roll_kod datatype="string">Extra suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2019-03-13</from>
+<tom datatype="datetime">2019-05-16</tom>
+<uppgift datatype="string">Civilutskottet</uppgift>
+<intressent_id datatype="string">0376461485627</intressent_id>
+<hangar_id datatype="int32">5003923</hangar_id>
+<sortering datatype="int32">55</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">JuU</organ_kod>
+<roll_kod datatype="string">Extra suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2019-03-13</from>
+<tom datatype="datetime">2019-05-16</tom>
+<uppgift datatype="string">Justitieutskottet</uppgift>
+<intressent_id datatype="string">0376461485627</intressent_id>
+<hangar_id datatype="int32">5003923</hangar_id>
+<sortering datatype="int32">55</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">TU</organ_kod>
+<roll_kod datatype="string">Extra suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2019-03-13</from>
+<tom datatype="datetime">2019-05-16</tom>
+<uppgift datatype="string">Trafikutskottet</uppgift>
+<intressent_id datatype="string">0376461485627</intressent_id>
+<hangar_id datatype="int32">5003923</hangar_id>
+<sortering datatype="int32">55</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">UbU</organ_kod>
+<roll_kod datatype="string">Extra suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2019-03-13</from>
+<tom datatype="datetime">2019-05-16</tom>
+<uppgift datatype="string">Utbildningsutskottet</uppgift>
+<intressent_id datatype="string">0376461485627</intressent_id>
+<hangar_id datatype="int32">5003923</hangar_id>
+<sortering datatype="int32">55</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+<uppdrag>
+<organ_kod datatype="string">UU</organ_kod>
+<roll_kod datatype="string">Extra suppleant</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">uppdrag</typ>
+<from datatype="datetime">2019-03-13</from>
+<tom datatype="datetime">2019-05-16</tom>
+<uppgift datatype="string">Utrikesutskottet</uppgift>
+<intressent_id datatype="string">0376461485627</intressent_id>
+<hangar_id datatype="int32">5003923</hangar_id>
+<sortering datatype="int32">55</sortering>
+<organ_sortering datatype="int32">150</organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+</personuppgift>
+</person>

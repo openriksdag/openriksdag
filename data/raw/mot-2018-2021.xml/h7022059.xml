@@ -1,0 +1,145 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5041635</hangar_id>
+    <dok_id datatype="string">H7022059</dok_id>
+    <rm datatype="string">2019/20</rm>
+    <beteckning datatype="string">2059</beteckning>
+    <typ datatype="string">mot</typ>
+    <subtyp datatype="string"></subtyp>
+    <doktyp datatype="string">mot</doktyp>
+    <typrubrik datatype="string">Motion 2019/20:2059</typrubrik>
+    <dokumentnamn datatype="string">Motion</dokumentnamn>
+    <debattnamn datatype="string">Motion</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string"></organ>
+    <mottagare datatype="string"></mottagare>
+    <nummer datatype="int32">2059</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2019-10-02 00:00:00</datum>
+    <systemdatum datatype="datetime">2019-10-03 08:48:00</systemdatum>
+    <publicerad datatype="datetime">2019-10-03 00:00:00</publicerad>
+    <titel datatype="string">Motionen utgår</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">Utgången</status>
+    <htmlformat datatype="string">html</htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string"></source>
+    <sourceid datatype="string"></sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H7022059/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H7022059</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H7022059</dokumentstatus_url_xml>
+    <html datatype="text">&lt;p&gt;Motion till riksdagen&lt;br /&gt;2019/20:2059&lt;/p&gt;&lt;p&gt;Motionen utgår.&lt;/p&gt;</html>
+  </dokument>
+<dokforslag>
+<forslag>
+<nummer datatype="int32">1</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">2</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">3</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">4</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">5</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+</dokforslag>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">INL</kod>
+<namn datatype="string">Inlämnad</namn>
+<datum datatype="datetime">2019-10-02 16:52:49</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">Granskad</kod>
+<namn datatype="string">Granskad</namn>
+<datum datatype="datetime">2019-10-02 17:15:47</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">UTG</kod>
+<namn datatype="string">Utgången</namn>
+<datum datatype="datetime">2019-10-03 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+</dokaktivitet>
+<dokuppgift>
+<uppgift>
+<kod datatype="string">statustext</kod>
+<namn datatype="string">statustext</namn>
+<text datatype="string">Motionen behandlas inte</text>
+<dok_id datatype="string">H7022059</dok_id>
+<systemdatum datatype="datetime">2019-10-04 00:21:24</systemdatum>
+</uppgift>
+</dokuppgift>
+<debatt /></dokumentstatus>

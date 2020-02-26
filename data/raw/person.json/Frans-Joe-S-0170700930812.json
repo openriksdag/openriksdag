@@ -1,0 +1,114 @@
+{
+  "person": {
+    "hangar_guid": "f3093dbe-d8e4-420f-88f9-3b512d8ab87f",
+    "sourceid": "69ef2305-9566-4287-bb2b-33ebbdff6764",
+    "intressent_id": "0170700930812",
+    "hangar_id": "2343240",
+    "fodd_ar": "1963",
+    "kon": "man",
+    "efternamn": "Frans",
+    "tilltalsnamn": "Joe",
+    "sorteringsnamn": "Frans,Joe",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/69ef2305-9566-4287-bb2b-33ebbdff6764",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/69ef2305-9566-4287-bb2b-33ebbdff6764_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/69ef2305-9566-4287-bb2b-33ebbdff6764_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/69ef2305-9566-4287-bb2b-33ebbdff6764_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "25",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2002-09-30",
+          "tom": "2006-10-02",
+          "uppgift": "",
+          "intressent_id": "0170700930812",
+          "hangar_id": "2343240",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0170700930812",
+          "hangar_id": "2343240",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0170700930812",
+          "hangar_id": "2343240",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuSoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-02-09",
+          "tom": "2006-04-26",
+          "uppgift": "Sammansatta justitie- och socialutskottet",
+          "intressent_id": "0170700930812",
+          "hangar_id": "2343240",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0170700930812",
+          "hangar_id": "2343240",
+          "sortering": "30",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Webbsida",
+        "uppgift": "http://www.socialdemokraterna.se/Templates/Parliament____266.aspx",
+        "typ": "eadress",
+        "intressent_id": "0170700930812",
+        "hangar_id": "2343240"
+      }
+    }
+  }
+}

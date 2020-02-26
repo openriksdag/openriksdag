@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "8466d4d9-3285-4144-92c1-515048726257",
+    "sourceid": "a63ac592-272c-4ff9-9a87-b26c6928ada8",
+    "intressent_id": "",
+    "hangar_id": "5005121",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Kolbe",
+    "tilltalsnamn": "Laura",
+    "sorteringsnamn": "Kolbe,Laura",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Personlig suppleant i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/a63ac592-272c-4ff9-9a87-b26c6928ada8",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a63ac592-272c-4ff9-9a87-b26c6928ada8_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a63ac592-272c-4ff9-9a87-b26c6928ada8_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a63ac592-272c-4ff9-9a87-b26c6928ada8_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RJ",
+        "roll_kod": "Personlig suppleant",
+        "ordningsnummer": "8",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2018-11-01",
+        "tom": "2020-10-31",
+        "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+        "intressent_id": "",
+        "hangar_id": "5005121",
+        "sortering": "48",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

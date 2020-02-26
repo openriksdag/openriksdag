@@ -1,0 +1,169 @@
+{
+  "person": {
+    "hangar_guid": "62b04d2c-255e-491e-a577-60d7fadb18bf",
+    "sourceid": "c63331e9-02ca-4f71-a7de-9a17e2ec4ac4",
+    "intressent_id": "0170585430421",
+    "hangar_id": "3057295",
+    "fodd_ar": "1975",
+    "kon": "man",
+    "efternamn": "Ståhl",
+    "tilltalsnamn": "Jimmy",
+    "sorteringsnamn": "Ståhl,Jimmy",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Västra Götalands läns norra",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/c63331e9-02ca-4f71-a7de-9a17e2ec4ac4",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c63331e9-02ca-4f71-a7de-9a17e2ec4ac4_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c63331e9-02ca-4f71-a7de-9a17e2ec4ac4_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c63331e9-02ca-4f71-a7de-9a17e2ec4ac4_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "161",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0170585430421",
+          "hangar_id": "3057295",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "300",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0170585430421",
+          "hangar_id": "3057295",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0170585430421",
+          "hangar_id": "3057295",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-02-28",
+          "tom": "2018-09-24",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0170585430421",
+          "hangar_id": "3057295",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0170585430421",
+          "hangar_id": "3057295",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0170585430421",
+          "hangar_id": "3057295",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "51",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-09",
+          "tom": "2022-10-04",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0170585430421",
+          "hangar_id": "3057295",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "jimmy.stahl[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0170585430421",
+          "hangar_id": "3057295"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Hamnarbetare.",
+          "typ": "titlar",
+          "intressent_id": "0170585430421",
+          "hangar_id": "3057295"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0170585430421",
+          "hangar_id": "3057295"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0170585430421",
+          "hangar_id": "3057295"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "b9d6c191-c449-47d1-acc6-145a3097415d",
+    "sourceid": "ad6a8003-98da-411a-b00b-b61894213f7a",
+    "intressent_id": "0646954957610",
+    "hangar_id": "2369461",
+    "fodd_ar": "1972",
+    "kon": "kvinna",
+    "efternamn": "Hatt",
+    "tilltalsnamn": "Anna-Karin",
+    "sorteringsnamn": "Hatt,Anna-Karin",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Stockholms län",
+    "status": "Tidigare statsråd",
+    "person_url_xml": "http://data.riksdagen.se/person/ad6a8003-98da-411a-b00b-b61894213f7a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ad6a8003-98da-411a-b00b-b61894213f7a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ad6a8003-98da-411a-b00b-b61894213f7a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ad6a8003-98da-411a-b00b-b61894213f7a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "N",
+        "roll_kod": "Statsråd",
+        "ordningsnummer": "19",
+        "status": "",
+        "typ": "Departement",
+        "from": "2010-10-06",
+        "tom": "2014-10-03",
+        "uppgift": "Näringsdepartementet",
+        "intressent_id": "0646954957610",
+        "hangar_id": "2369461",
+        "sortering": "100",
+        "organ_sortering": "",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

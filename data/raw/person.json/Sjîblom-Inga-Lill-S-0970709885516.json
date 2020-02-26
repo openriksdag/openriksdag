@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "3d7323be-5460-4135-b207-157cd9dad496",
+    "sourceid": "464de516-7b8b-4ddf-828e-9f373fd52d8e",
+    "intressent_id": "0970709885516",
+    "hangar_id": "5003731",
+    "fodd_ar": "1959",
+    "kon": "kvinna",
+    "efternamn": "Sjöblom",
+    "tilltalsnamn": "Inga-Lill",
+    "sorteringsnamn": "Sjöblom,Inga-Lill",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Uppsala län",
+    "status": "Tjänstgörande ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/464de516-7b8b-4ddf-828e-9f373fd52d8e",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/464de516-7b8b-4ddf-828e-9f373fd52d8e_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/464de516-7b8b-4ddf-828e-9f373fd52d8e_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/464de516-7b8b-4ddf-828e-9f373fd52d8e_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "117",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2019-10-21",
+          "tom": "2020-05-17",
+          "uppgift": "Sanne Lennström",
+          "intressent_id": "0970709885516",
+          "hangar_id": "5003731",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "CU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-10-21",
+          "tom": "2020-05-17",
+          "uppgift": "Civilutskottet",
+          "intressent_id": "0970709885516",
+          "hangar_id": "5003731",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-10-21",
+          "tom": "2020-05-17",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0970709885516",
+          "hangar_id": "5003731",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-10-21",
+          "tom": "2020-05-17",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0970709885516",
+          "hangar_id": "5003731",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "inga-lill.sjoblom[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0970709885516",
+          "hangar_id": "5003731"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "65779",
+          "typ": "telefonnummer",
+          "intressent_id": "0970709885516",
+          "hangar_id": "5003731"
+        }
+      ]
+    }
+  }
+}

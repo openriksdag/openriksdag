@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "c40c32f9-20db-4f13-a80a-8185c37e64df",
+    "sourceid": "0a32dcb1-1b45-4fd2-a66a-5381acc6037a",
+    "intressent_id": "0244061841305",
+    "hangar_id": "2342049",
+    "fodd_ar": "1939",
+    "kon": "kvinna",
+    "efternamn": "Brandoné",
+    "tilltalsnamn": "Anna",
+    "sorteringsnamn": "Brandoné,Anna",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Status saknas",
+    "person_url_xml": "http://data.riksdagen.se/person/0a32dcb1-1b45-4fd2-a66a-5381acc6037a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0a32dcb1-1b45-4fd2-a66a-5381acc6037a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0a32dcb1-1b45-4fd2-a66a-5381acc6037a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0a32dcb1-1b45-4fd2-a66a-5381acc6037a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "UU",
+        "roll_kod": "Suppleant",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "uppdrag",
+        "from": "1988-11-12",
+        "tom": "1988-12-11",
+        "uppgift": "Utrikesutskottet",
+        "intressent_id": "0244061841305",
+        "hangar_id": "2342049",
+        "sortering": "50",
+        "organ_sortering": "150",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "byrådirektör",
+          "typ": "titlar",
+          "intressent_id": "0244061841305",
+          "hangar_id": "2342049"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0244061841305",
+          "hangar_id": "2342049"
+        }
+      ]
+    }
+  }
+}

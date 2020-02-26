@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "050e0b2a-25ff-4680-9be5-8760164f5d41",
+    "sourceid": "d7c3293a-83e4-11d4-ae60-0050040c9b55",
+    "intressent_id": "0937572393290",
+    "hangar_id": "2341631",
+    "fodd_ar": "1918",
+    "kon": "kvinna",
+    "efternamn": "von Sydow",
+    "tilltalsnamn": "Tullia",
+    "sorteringsnamn": "Sydow,Tullia",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/d7c3293a-83e4-11d4-ae60-0050040c9b55",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c3293a-83e4-11d4-ae60-0050040c9b55_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c3293a-83e4-11d4-ae60-0050040c9b55_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c3293a-83e4-11d4-ae60-0050040c9b55_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "24",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1999-02-03",
+          "tom": "2002-09-30",
+          "uppgift": "",
+          "intressent_id": "0937572393290",
+          "hangar_id": "2341631",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "7",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1998-10-05",
+          "tom": "1999-02-02",
+          "uppgift": "Pierre Schori",
+          "intressent_id": "0937572393290",
+          "hangar_id": "2341631",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "2002-09-29",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0937572393290",
+          "hangar_id": "2341631",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "seniorkonsult",
+          "typ": "titlar",
+          "intressent_id": "0937572393290",
+          "hangar_id": "2341631"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Senior Consultant",
+          "typ": "titlar",
+          "intressent_id": "0937572393290",
+          "hangar_id": "2341631"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "f468e1b5-d37f-4127-b386-9efd2a40beed",
+    "sourceid": "aad26e4c-5dc4-4fc2-986f-1e6795bfd920",
+    "intressent_id": "0634013303818",
+    "hangar_id": "2343441",
+    "fodd_ar": "1969",
+    "kon": "man",
+    "efternamn": "Lindberg",
+    "tilltalsnamn": "Niclas",
+    "sorteringsnamn": "Lindberg,Niclas",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Stockholms län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/aad26e4c-5dc4-4fc2-986f-1e6795bfd920",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/aad26e4c-5dc4-4fc2-986f-1e6795bfd920_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/aad26e4c-5dc4-4fc2-986f-1e6795bfd920_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/aad26e4c-5dc4-4fc2-986f-1e6795bfd920_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Talmansersättare",
+          "ordningsnummer": "42",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2004-06-15",
+          "tom": "2004-12-31",
+          "uppgift": "Björn von Sydow",
+          "intressent_id": "0634013303818",
+          "hangar_id": "2343441",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2002-10-21",
+          "tom": "2004-06-14",
+          "uppgift": "Pär Nuder",
+          "intressent_id": "0634013303818",
+          "hangar_id": "2343441",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Talmansersättare",
+          "ordningsnummer": "42",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2002-10-10",
+          "tom": "2002-10-20",
+          "uppgift": "Björn von Sydow",
+          "intressent_id": "0634013303818",
+          "hangar_id": "2343441",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2002-09-30",
+          "tom": "2002-10-09",
+          "uppgift": "",
+          "intressent_id": "0634013303818",
+          "hangar_id": "2343441",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2003-03-12",
+          "tom": "2004-12-31",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0634013303818",
+          "hangar_id": "2343441",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2004-12-31",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0634013303818",
+          "hangar_id": "2343441",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "LU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2004-12-31",
+          "uppgift": "Lagutskottet",
+          "intressent_id": "0634013303818",
+          "hangar_id": "2343441",
+          "sortering": "30",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "bibliotekschef",
+          "typ": "titlar",
+          "intressent_id": "0634013303818",
+          "hangar_id": "2343441"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Chief Librarian",
+          "typ": "titlar",
+          "intressent_id": "0634013303818",
+          "hangar_id": "2343441"
+        }
+      ]
+    }
+  }
+}

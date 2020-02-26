@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "9fb030cc-29d2-4f18-a2c2-d7602c7b6553",
+    "sourceid": "24f274e9-2df5-45e1-952e-86e65252bb81",
+    "intressent_id": "084783547505",
+    "hangar_id": "2342285",
+    "fodd_ar": "1944",
+    "kon": "kvinna",
+    "efternamn": "Hedborg",
+    "tilltalsnamn": "Anna",
+    "sorteringsnamn": "Hedborg,Anna",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare statsråd",
+    "person_url_xml": "http://data.riksdagen.se/person/24f274e9-2df5-45e1-952e-86e65252bb81",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/24f274e9-2df5-45e1-952e-86e65252bb81_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/24f274e9-2df5-45e1-952e-86e65252bb81_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/24f274e9-2df5-45e1-952e-86e65252bb81_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "S",
+        "roll_kod": "Statsråd",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "Departement",
+        "from": "1994-10-07",
+        "tom": "1996-03-22",
+        "uppgift": "Socialdepartementet",
+        "intressent_id": "084783547505",
+        "hangar_id": "2342285",
+        "sortering": "100",
+        "organ_sortering": "",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

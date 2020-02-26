@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "f67e8d2a-ca11-43df-a956-9853a0f4a4cd",
+    "sourceid": "7c371e6d-a443-459b-aa8e-aae1a0e270c5",
+    "intressent_id": "0389381287505",
+    "hangar_id": "2342055",
+    "fodd_ar": "1939",
+    "kon": "kvinna",
+    "efternamn": "Mårtensson",
+    "tilltalsnamn": "Ingela",
+    "sorteringsnamn": "Mårtensson,Ingela",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/7c371e6d-a443-459b-aa8e-aae1a0e270c5",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7c371e6d-a443-459b-aa8e-aae1a0e270c5_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7c371e6d-a443-459b-aa8e-aae1a0e270c5_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7c371e6d-a443-459b-aa8e-aae1a0e270c5_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "205",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0389381287505",
+          "hangar_id": "2342055",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "211",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0389381287505",
+          "hangar_id": "2342055",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0389381287505",
+          "hangar_id": "2342055",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0389381287505",
+          "hangar_id": "2342055",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0389381287505",
+          "hangar_id": "2342055",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "LU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-04-11",
+          "tom": "1994-10-02",
+          "uppgift": "Lagutskottet",
+          "intressent_id": "0389381287505",
+          "hangar_id": "2342055",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "utredningssekreterare",
+          "typ": "titlar",
+          "intressent_id": "0389381287505",
+          "hangar_id": "2342055"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0389381287505",
+          "hangar_id": "2342055"
+        }
+      ]
+    }
+  }
+}

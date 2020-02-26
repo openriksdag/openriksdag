@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "2f1db677-1c67-4851-b92a-a2c311626a17",
+    "sourceid": "baca23df-b11b-4f67-b486-baa7acb7730e",
+    "intressent_id": "0439547246805",
+    "hangar_id": "2341749",
+    "fodd_ar": "1929",
+    "kon": "man",
+    "efternamn": "Östrand",
+    "tilltalsnamn": "Olle",
+    "sorteringsnamn": "Östrand,Olle",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/baca23df-b11b-4f67-b486-baa7acb7730e",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/baca23df-b11b-4f67-b486-baa7acb7730e_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/baca23df-b11b-4f67-b486-baa7acb7730e_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/baca23df-b11b-4f67-b486-baa7acb7730e_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "301",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0439547246805",
+          "hangar_id": "2341749",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0439547246805",
+          "hangar_id": "2341749",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0439547246805",
+          "hangar_id": "2341749",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0439547246805",
+          "hangar_id": "2341749",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1976-10-04",
+          "tom": "1979-10-01",
+          "uppgift": "",
+          "intressent_id": "0439547246805",
+          "hangar_id": "2341749",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "LU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-11-07",
+          "tom": "1991-09-29",
+          "uppgift": "Lagutskottet",
+          "intressent_id": "0439547246805",
+          "hangar_id": "2341749",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0439547246805",
+          "hangar_id": "2341749"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "mätningsföreståndare",
+          "typ": "titlar",
+          "intressent_id": "0439547246805",
+          "hangar_id": "2341749"
+        }
+      ]
+    }
+  }
+}

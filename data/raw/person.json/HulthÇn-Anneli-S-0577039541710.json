@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "8b759641-dc06-4c17-bc92-66f9bb6ffce9",
+    "sourceid": "cb3f1008-2623-46dd-a35b-ec242dc4e4a4",
+    "intressent_id": "0577039541710",
+    "hangar_id": "2343116",
+    "fodd_ar": "1960",
+    "kon": "kvinna",
+    "efternamn": "Hulthén",
+    "tilltalsnamn": "Anneli",
+    "sorteringsnamn": "Hulthén,Anneli",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/cb3f1008-2623-46dd-a35b-ec242dc4e4a4",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cb3f1008-2623-46dd-a35b-ec242dc4e4a4_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cb3f1008-2623-46dd-a35b-ec242dc4e4a4_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cb3f1008-2623-46dd-a35b-ec242dc4e4a4_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "199",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1994-10-03",
+          "tom": "1995-10-09",
+          "uppgift": "",
+          "intressent_id": "0577039541710",
+          "hangar_id": "2343116",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1995-10-10",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0577039541710",
+          "hangar_id": "2343116",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0577039541710",
+          "hangar_id": "2343116",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1995-10-10",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0577039541710",
+          "hangar_id": "2343116",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-29",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0577039541710",
+          "hangar_id": "2343116",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "stadssekreterare",
+          "typ": "titlar",
+          "intressent_id": "0577039541710",
+          "hangar_id": "2343116"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0577039541710",
+          "hangar_id": "2343116"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5048915</hangar_id>
+    <dok_id datatype="string">H701FiU47</dok_id>
+    <rm datatype="string">2019/20</rm>
+    <beteckning datatype="string">FiU47</beteckning>
+    <typ datatype="string">bet</typ>
+    <subtyp datatype="string">bet</subtyp>
+    <doktyp datatype="string">bet</doktyp>
+    <typrubrik datatype="string">Betänkande 2019/20:FiU47</typrubrik>
+    <dokumentnamn datatype="string">Betänkande</dokumentnamn>
+    <debattnamn datatype="string">Debatt om förslag</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">FiU</organ>
+    <mottagare datatype="string"></mottagare>
+    <nummer datatype="int32">47</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2019-12-06 00:00:00</datum>
+    <systemdatum datatype="datetime">2020-01-16 13:46:06</systemdatum>
+    <publicerad datatype="datetime">2019-12-06 13:45:55</publicerad>
+    <titel datatype="string">Redovisning av AP-fondernas verksamhet t.o.m. 2019</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">planerat</status>
+    <htmlformat datatype="string"></htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">Brus</source>
+    <sourceid datatype="string">8b9f0bfa-d4ca-40ea-bc48-785cb9d6f50d</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H701FiU47/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H701FiU47</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H701FiU47</dokumentstatus_url_xml>
+    <utskottsforslag_url_xml datatype="stext">http://data.riksdagen.se/utskottsforslag/H701FiU47</utskottsforslag_url_xml>
+    <html datatype="text">&lt;h2&gt;Redovisning av AP-fondernas verksamhet t.o.m. 2019&lt;/h2&gt;
+Dokumentet är inte publicerat</html>
+  </dokument>
+<debatt /></dokumentstatus>

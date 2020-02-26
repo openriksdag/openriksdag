@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "27e2ca2c-9c6c-48fc-a313-8de74709ed05",
+    "sourceid": "f965c024-1cd1-4a10-bff1-7615c8b1bde4",
+    "intressent_id": "0534870997412",
+    "hangar_id": "5003932",
+    "fodd_ar": "1963",
+    "kon": "kvinna",
+    "efternamn": "Hartzell",
+    "tilltalsnamn": "Åsa",
+    "sorteringsnamn": "Hartzell,Åsa",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Göteborgs kommun",
+    "status": "Tillgänglig ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/f965c024-1cd1-4a10-bff1-7615c8b1bde4",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f965c024-1cd1-4a10-bff1-7615c8b1bde4_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f965c024-1cd1-4a10-bff1-7615c8b1bde4_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f965c024-1cd1-4a10-bff1-7615c8b1bde4_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "128",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2019-02-25",
+          "tom": "2019-05-10",
+          "uppgift": "Lars Hjälmered",
+          "intressent_id": "0534870997412",
+          "hangar_id": "5003932",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-02-25",
+          "tom": "2019-05-10",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0534870997412",
+          "hangar_id": "5003932",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

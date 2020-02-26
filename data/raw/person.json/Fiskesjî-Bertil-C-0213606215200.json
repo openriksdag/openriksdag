@@ -1,0 +1,171 @@
+{
+  "person": {
+    "hangar_guid": "f537b694-a04e-4965-91cb-59c36f713f50",
+    "sourceid": "d3a67681-5a7f-444c-ae98-e8e19cc888d0",
+    "intressent_id": "0213606215200",
+    "hangar_id": "2341728",
+    "fodd_ar": "1928",
+    "kon": "man",
+    "efternamn": "Fiskesjö",
+    "tilltalsnamn": "Bertil",
+    "sorteringsnamn": "Fiskesjö,Bertil",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "",
+    "status": "Avliden  2019-11-30",
+    "person_url_xml": "http://data.riksdagen.se/person/d3a67681-5a7f-444c-ae98-e8e19cc888d0",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d3a67681-5a7f-444c-ae98-e8e19cc888d0_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d3a67681-5a7f-444c-ae98-e8e19cc888d0_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d3a67681-5a7f-444c-ae98-e8e19cc888d0_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "172",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0213606215200",
+          "hangar_id": "2341728",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "174",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0213606215200",
+          "hangar_id": "2341728",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0213606215200",
+          "hangar_id": "2341728",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0213606215200",
+          "hangar_id": "2341728",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0213606215200",
+          "hangar_id": "2341728",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1976-10-04",
+          "tom": "1979-10-01",
+          "uppgift": "",
+          "intressent_id": "0213606215200",
+          "hangar_id": "2341728",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "VPN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1991-12-18",
+          "tom": "1995-12-20",
+          "uppgift": "Valprövningsnämnden",
+          "intressent_id": "0213606215200",
+          "hangar_id": "2341728",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Vice ordförande",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0213606215200",
+          "hangar_id": "2341728",
+          "sortering": "20",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "universitetslektor",
+          "typ": "titlar",
+          "intressent_id": "0213606215200",
+          "hangar_id": "2341728"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0213606215200",
+          "hangar_id": "2341728"
+        }
+      ]
+    }
+  }
+}

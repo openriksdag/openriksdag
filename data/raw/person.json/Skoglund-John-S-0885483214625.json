@@ -1,0 +1,82 @@
+{
+  "person": {
+    "hangar_guid": "d958a396-85cc-4da0-9148-dad2bb60b12e",
+    "sourceid": "66f9a148-dd5e-4fe2-ba23-8f8661df23dd",
+    "intressent_id": "0885483214625",
+    "hangar_id": "3057347",
+    "fodd_ar": "1993",
+    "kon": "man",
+    "efternamn": "Skoglund",
+    "tilltalsnamn": "John",
+    "sorteringsnamn": "Skoglund,John",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Västra Götalands läns norra",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/66f9a148-dd5e-4fe2-ba23-8f8661df23dd",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/66f9a148-dd5e-4fe2-ba23-8f8661df23dd_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/66f9a148-dd5e-4fe2-ba23-8f8661df23dd_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/66f9a148-dd5e-4fe2-ba23-8f8661df23dd_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "160",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2015-10-29",
+          "tom": "2015-12-07",
+          "uppgift": "Peter Johnsson",
+          "intressent_id": "0885483214625",
+          "hangar_id": "3057347",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2015-12-02",
+          "tom": "2015-12-07",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0885483214625",
+          "hangar_id": "3057347",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2015-11-03",
+          "tom": "2015-12-01",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0885483214625",
+          "hangar_id": "3057347",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "john.skoglund[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0885483214625",
+        "hangar_id": "3057347"
+      }
+    }
+  }
+}

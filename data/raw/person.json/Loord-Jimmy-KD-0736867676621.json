@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "a35cebde-ff6e-4e07-b838-a2c920a8e84c",
+    "sourceid": "df3faccf-0ebc-4cae-b824-d18e1d3d0d92",
+    "intressent_id": "0736867676621",
+    "hangar_id": "5003803",
+    "fodd_ar": "1980",
+    "kon": "man",
+    "efternamn": "Loord",
+    "tilltalsnamn": "Jimmy",
+    "sorteringsnamn": "Loord,Jimmy",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Kalmar län",
+    "status": "Avgången riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/df3faccf-0ebc-4cae-b824-d18e1d3d0d92",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/df3faccf-0ebc-4cae-b824-d18e1d3d0d92_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/df3faccf-0ebc-4cae-b824-d18e1d3d0d92_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/df3faccf-0ebc-4cae-b824-d18e1d3d0d92_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "91",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2019-03-31",
+          "uppgift": "",
+          "intressent_id": "0736867676621",
+          "hangar_id": "5003803",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "24",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-16",
+          "tom": "2019-03-31",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0736867676621",
+          "hangar_id": "5003803",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "24",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-16",
+          "tom": "2019-03-31",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0736867676621",
+          "hangar_id": "5003803",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-03-31",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0736867676621",
+          "hangar_id": "5003803",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "jimmy.loord[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0736867676621",
+        "hangar_id": "5003803"
+      }
+    }
+  }
+}

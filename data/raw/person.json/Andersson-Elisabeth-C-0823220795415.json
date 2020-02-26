@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "d89137ab-8163-48b9-b947-de71441e092b",
+    "sourceid": "31deeaa3-5ff4-446e-b4b0-10216a228ecd",
+    "intressent_id": "0823220795415",
+    "hangar_id": "2343165",
+    "fodd_ar": "1961",
+    "kon": "kvinna",
+    "efternamn": "Andersson",
+    "tilltalsnamn": "Elisabeth",
+    "sorteringsnamn": "Andersson,Elisabeth",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/31deeaa3-5ff4-446e-b4b0-10216a228ecd",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/31deeaa3-5ff4-446e-b4b0-10216a228ecd_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/31deeaa3-5ff4-446e-b4b0-10216a228ecd_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/31deeaa3-5ff4-446e-b4b0-10216a228ecd_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "235",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1993-11-18",
+          "tom": "1993-12-17",
+          "uppgift": "Lennart Brunander",
+          "intressent_id": "0823220795415",
+          "hangar_id": "2343165",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "235",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1991-11-08",
+          "tom": "1991-12-09",
+          "uppgift": "Lennart Brunander",
+          "intressent_id": "0823220795415",
+          "hangar_id": "2343165",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1993-11-18",
+          "tom": "1993-12-17",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0823220795415",
+          "hangar_id": "2343165",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1993-11-18",
+          "tom": "1993-12-17",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0823220795415",
+          "hangar_id": "2343165",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-11-08",
+          "tom": "1991-12-09",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0823220795415",
+          "hangar_id": "2343165",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "lågstadielärare",
+          "typ": "titlar",
+          "intressent_id": "0823220795415",
+          "hangar_id": "2343165"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0823220795415",
+          "hangar_id": "2343165"
+        }
+      ]
+    }
+  }
+}

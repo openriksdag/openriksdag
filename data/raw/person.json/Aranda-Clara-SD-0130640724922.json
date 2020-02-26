@@ -1,0 +1,130 @@
+{
+  "person": {
+    "hangar_guid": "fc1598f4-a0d1-44eb-afbf-dbfb78de43ed",
+    "sourceid": "6977f22f-363b-40fb-8f8f-8163b4492345",
+    "intressent_id": "0130640724922",
+    "hangar_id": "5003867",
+    "fodd_ar": "1988",
+    "kon": "kvinna",
+    "efternamn": "Aranda",
+    "tilltalsnamn": "Clara",
+    "sorteringsnamn": "Aranda,Clara",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Skåne läns södra",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/6977f22f-363b-40fb-8f8f-8163b4492345",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6977f22f-363b-40fb-8f8f-8163b4492345_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6977f22f-363b-40fb-8f8f-8163b4492345_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6977f22f-363b-40fb-8f8f-8163b4492345_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "187",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0130640724922",
+          "hangar_id": "5003867",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "19",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-06-18",
+          "tom": "2022-09-26",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0130640724922",
+          "hangar_id": "5003867",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "19",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-09",
+          "tom": "2019-04-26",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0130640724922",
+          "hangar_id": "5003867",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "18",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-09",
+          "tom": "2022-09-26",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0130640724922",
+          "hangar_id": "5003867",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0130640724922",
+          "hangar_id": "5003867",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0130640724922",
+          "hangar_id": "5003867",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "clara.aranda[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0130640724922",
+        "hangar_id": "5003867"
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "9806f99a-88be-4809-8824-99c4c1ee11ce",
+    "sourceid": "7027d7a8-51d8-4b10-94d9-3151efb0816f",
+    "intressent_id": "0129061253610",
+    "hangar_id": "2343309",
+    "fodd_ar": "1965",
+    "kon": "man",
+    "efternamn": "Soting",
+    "tilltalsnamn": "Lars-Erik",
+    "sorteringsnamn": "Soting,Lars-Erik",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Örebro län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/7027d7a8-51d8-4b10-94d9-3151efb0816f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7027d7a8-51d8-4b10-94d9-3151efb0816f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7027d7a8-51d8-4b10-94d9-3151efb0816f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7027d7a8-51d8-4b10-94d9-3151efb0816f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Ersättare",
+        "ordningsnummer": "304",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "2006-10-02",
+        "tom": "2006-10-06",
+        "uppgift": "Matilda Ernkrans",
+        "intressent_id": "0129061253610",
+        "hangar_id": "2343309",
+        "sortering": "45",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": ""
+  }
+}

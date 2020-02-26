@@ -1,0 +1,66 @@
+{
+  "person": {
+    "hangar_guid": "117bfb92-b646-42b3-9e17-361caf914f56",
+    "sourceid": "2e2ee7ef-dcad-4543-8e46-cb995d4f9e97",
+    "intressent_id": "072821648404",
+    "hangar_id": "3057121",
+    "fodd_ar": "1939",
+    "kon": "kvinna",
+    "efternamn": "Bonnier",
+    "tilltalsnamn": "Helena",
+    "sorteringsnamn": "Bonnier,Helena",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/2e2ee7ef-dcad-4543-8e46-cb995d4f9e97",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2e2ee7ef-dcad-4543-8e46-cb995d4f9e97_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2e2ee7ef-dcad-4543-8e46-cb995d4f9e97_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2e2ee7ef-dcad-4543-8e46-cb995d4f9e97_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "316",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2017-07-05",
+          "tom": "2018-03-05",
+          "uppgift": "Tina Ghasemi Liljekvist",
+          "intressent_id": "072821648404",
+          "hangar_id": "3057121",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-07-05",
+          "tom": "2018-03-05",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "072821648404",
+          "hangar_id": "3057121",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "helena.bonnier[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "072821648404",
+        "hangar_id": "3057121"
+      }
+    }
+  }
+}

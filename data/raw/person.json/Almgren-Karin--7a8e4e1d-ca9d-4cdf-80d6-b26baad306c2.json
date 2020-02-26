@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "b94d6fc6-d498-4723-887f-7cfa9048df91",
+    "sourceid": "7a8e4e1d-ca9d-4cdf-80d6-b26baad306c2",
+    "intressent_id": "",
+    "hangar_id": "4788840",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Almgren",
+    "tilltalsnamn": "Karin",
+    "sorteringsnamn": "Almgren,Karin",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Vice ordförande i Riksdagens ansvarsnämnd",
+    "person_url_xml": "http://data.riksdagen.se/person/7a8e4e1d-ca9d-4cdf-80d6-b26baad306c2",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7a8e4e1d-ca9d-4cdf-80d6-b26baad306c2_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7a8e4e1d-ca9d-4cdf-80d6-b26baad306c2_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7a8e4e1d-ca9d-4cdf-80d6-b26baad306c2_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "RAN",
+          "roll_kod": "Vice ordförande",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2019-02-15",
+          "tom": "2021-12-31",
+          "uppgift": "Riksdagens ansvarsnämnd",
+          "intressent_id": "",
+          "hangar_id": "4788840",
+          "sortering": "20",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RAN",
+          "roll_kod": "Vice ordförande",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2016-01-01",
+          "tom": "2018-12-31",
+          "uppgift": "Riksdagens ansvarsnämnd",
+          "intressent_id": "",
+          "hangar_id": "4788840",
+          "sortering": "20",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RAN",
+          "roll_kod": "Vice ordförande",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2013-01-01",
+          "tom": "2015-12-31",
+          "uppgift": "Riksdagens ansvarsnämnd",
+          "intressent_id": "",
+          "hangar_id": "4788840",
+          "sortering": "20",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

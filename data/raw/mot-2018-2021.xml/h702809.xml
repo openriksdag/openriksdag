@@ -1,0 +1,541 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5040268</hangar_id>
+    <dok_id datatype="string">H702809</dok_id>
+    <rm datatype="string">2019/20</rm>
+    <beteckning datatype="string">809</beteckning>
+    <typ datatype="string">mot</typ>
+    <subtyp datatype="string"></subtyp>
+    <doktyp datatype="string">mot</doktyp>
+    <typrubrik datatype="string">Motion 2019/20:809</typrubrik>
+    <dokumentnamn datatype="string">Motion</dokumentnamn>
+    <debattnamn datatype="string">Motion</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string"></organ>
+    <mottagare datatype="string"></mottagare>
+    <nummer datatype="int32">809</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2019-10-01 00:00:00</datum>
+    <systemdatum datatype="datetime">2019-12-16 12:01:22</systemdatum>
+    <publicerad datatype="datetime">2019-12-16 00:00:00</publicerad>
+    <titel datatype="string">Motionen utgår</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">Utgången</status>
+    <htmlformat datatype="string">html</htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string"></source>
+    <sourceid datatype="string"></sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H702809/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H702809</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H702809</dokumentstatus_url_xml>
+    <html datatype="text">&lt;p&gt;Motion till riksdagen&lt;br /&gt;2019/20:809&lt;/p&gt;&lt;p&gt;Motionen utgår.&lt;/p&gt;</html>
+  </dokument>
+<dokforslag>
+<forslag>
+<nummer datatype="int32">1</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">2</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">3</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">4</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">5</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">6</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">7</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">8</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">9</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">10</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">11</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">12</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">13</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">14</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">15</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">16</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">17</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">18</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">19</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">20</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">21</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">22</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">23</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">24</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">25</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">26</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">27</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">28</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">29</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">30</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">31</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+<forslag>
+<nummer datatype="int32">32</nummer>
+<beteckning datatype="string" />
+<lydelse datatype="string" />
+<lydelse2 datatype="string" />
+<utskottet datatype="string" />
+<kammaren datatype="string" />
+<behandlas_i datatype="string" />
+<behandlas_i_punkt datatype="string" />
+<kammarbeslutstyp datatype="string" />
+<intressent datatype="string" />
+<avsnitt datatype="string" />
+<grundforfattning datatype="string" />
+<andringsforfattning datatype="string" />
+</forslag>
+</dokforslag>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">INL</kod>
+<namn datatype="string">Inlämnad</namn>
+<datum datatype="datetime">2019-10-01 08:23:54</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">Granskad</kod>
+<namn datatype="string">Granskad</namn>
+<datum datatype="datetime">2019-10-01 09:08:59</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">UTG</kod>
+<namn datatype="string">Utgången</namn>
+<datum datatype="datetime">2019-10-04 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+</dokaktivitet>
+<debatt /></dokumentstatus>

@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "d03dc768-91b6-4e7b-bbc7-916186b71dee",
+    "sourceid": "315c64ce-8fea-4601-843d-f67c7ee2abc4",
+    "intressent_id": "",
+    "hangar_id": "4788882",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Norling",
+    "tilltalsnamn": "Thomas",
+    "sorteringsnamn": "Norling,Thomas",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Justitieombudsman i Riksdagens ombudsmän",
+    "person_url_xml": "http://data.riksdagen.se/person/315c64ce-8fea-4601-843d-f67c7ee2abc4",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/315c64ce-8fea-4601-843d-f67c7ee2abc4_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/315c64ce-8fea-4601-843d-f67c7ee2abc4_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/315c64ce-8fea-4601-843d-f67c7ee2abc4_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "JO",
+        "roll_kod": "Justitieombudsman",
+        "ordningsnummer": "2",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2018-04-01",
+        "tom": "2022-04-01",
+        "uppgift": "Riksdagens ombudsmän",
+        "intressent_id": "",
+        "hangar_id": "4788882",
+        "sortering": "",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

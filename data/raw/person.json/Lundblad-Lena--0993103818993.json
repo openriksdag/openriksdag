@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "42b7273a-7307-4f4a-9493-3d794b128e0a",
+    "sourceid": "a7c7c7b9-3c9c-491a-a2a2-b5102ea01412",
+    "intressent_id": "0993103818993",
+    "hangar_id": "2341647",
+    "fodd_ar": "1922",
+    "kon": "kvinna",
+    "efternamn": "Lundblad",
+    "tilltalsnamn": "Lena",
+    "sorteringsnamn": "Lundblad,Lena",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/a7c7c7b9-3c9c-491a-a2a2-b5102ea01412",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a7c7c7b9-3c9c-491a-a2a2-b5102ea01412_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a7c7c7b9-3c9c-491a-a2a2-b5102ea01412_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a7c7c7b9-3c9c-491a-a2a2-b5102ea01412_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Ersättare",
+        "ordningsnummer": "0",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "1983-11-18",
+        "tom": "1983-12-20",
+        "uppgift": "Per Unckel",
+        "intressent_id": "0993103818993",
+        "hangar_id": "2341647",
+        "sortering": "45",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": ""
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "fcb17710-5c4a-46a5-aeae-fa83a67e18cd",
+    "sourceid": "ab82f5d0-f3d4-4509-aba5-e0f89476bf24",
+    "intressent_id": "0932188207010",
+    "hangar_id": "2343019",
+    "fodd_ar": "1958",
+    "kon": "man",
+    "efternamn": "Lindström",
+    "tilltalsnamn": "Leif",
+    "sorteringsnamn": "Lindström,Leif",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "Dalarnas län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/ab82f5d0-f3d4-4509-aba5-e0f89476bf24",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ab82f5d0-f3d4-4509-aba5-e0f89476bf24_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ab82f5d0-f3d4-4509-aba5-e0f89476bf24_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ab82f5d0-f3d4-4509-aba5-e0f89476bf24_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "48",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2012-04-18",
+          "tom": "2012-05-20",
+          "uppgift": "Lena Olsson",
+          "intressent_id": "0932188207010",
+          "hangar_id": "2343019",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "FöU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-04-25",
+          "tom": "2012-05-20",
+          "uppgift": "Försvarsutskottet",
+          "intressent_id": "0932188207010",
+          "hangar_id": "2343019",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-04-25",
+          "tom": "2012-05-20",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0932188207010",
+          "hangar_id": "2343019",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "leif.lindstrom[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0932188207010",
+          "hangar_id": "2343019"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "66080",
+          "typ": "telefonnummer",
+          "intressent_id": "0932188207010",
+          "hangar_id": "2343019"
+        }
+      ]
+    }
+  }
+}

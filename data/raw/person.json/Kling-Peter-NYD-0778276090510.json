@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "e2ba393f-cb21-4efb-8a3f-8cadb2151f11",
+    "sourceid": "18c1a7b0-6df3-4d89-bb1b-61a8027217eb",
+    "intressent_id": "0778276090510",
+    "hangar_id": "2342754",
+    "fodd_ar": "1953",
+    "kon": "man",
+    "efternamn": "Kling",
+    "tilltalsnamn": "Peter",
+    "sorteringsnamn": "Kling,Peter",
+    "iort": "",
+    "parti": "NYD",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/18c1a7b0-6df3-4d89-bb1b-61a8027217eb",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/18c1a7b0-6df3-4d89-bb1b-61a8027217eb_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/18c1a7b0-6df3-4d89-bb1b-61a8027217eb_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/18c1a7b0-6df3-4d89-bb1b-61a8027217eb_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "171",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1991-09-30",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0778276090510",
+          "hangar_id": "2342754",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0778276090510",
+          "hangar_id": "2342754",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

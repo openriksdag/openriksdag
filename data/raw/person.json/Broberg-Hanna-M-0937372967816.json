@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "852777fe-cfb1-4b17-a2a6-e21313de9cbf",
+    "sourceid": "f03ff4ea-c476-11d4-ae40-006008578ce8",
+    "intressent_id": "0937372967816",
+    "hangar_id": "2343359",
+    "fodd_ar": "1967",
+    "kon": "kvinna",
+    "efternamn": "Broberg",
+    "tilltalsnamn": "Hanna",
+    "sorteringsnamn": "Broberg,Hanna",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/f03ff4ea-c476-11d4-ae40-006008578ce8",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f03ff4ea-c476-11d4-ae40-006008578ce8_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f03ff4ea-c476-11d4-ae40-006008578ce8_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f03ff4ea-c476-11d4-ae40-006008578ce8_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "74",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2001-01-16",
+          "tom": "2001-02-16",
+          "uppgift": "Per Bill",
+          "intressent_id": "0937372967816",
+          "hangar_id": "2343359",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2001-01-16",
+          "tom": "2001-02-16",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0937372967816",
+          "hangar_id": "2343359",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

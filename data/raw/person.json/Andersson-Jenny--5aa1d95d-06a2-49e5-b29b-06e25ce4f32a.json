@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "fdef1080-25c3-48fb-8438-381a6aa1bf36",
+    "sourceid": "5aa1d95d-06a2-49e5-b29b-06e25ce4f32a",
+    "intressent_id": "",
+    "hangar_id": "5005119",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Andersson",
+    "tilltalsnamn": "Jenny",
+    "sorteringsnamn": "Andersson,Jenny",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ledamot i Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+    "person_url_xml": "http://data.riksdagen.se/person/5aa1d95d-06a2-49e5-b29b-06e25ce4f32a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5aa1d95d-06a2-49e5-b29b-06e25ce4f32a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5aa1d95d-06a2-49e5-b29b-06e25ce4f32a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5aa1d95d-06a2-49e5-b29b-06e25ce4f32a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RJ",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "8",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2018-11-01",
+        "tom": "2019-10-01",
+        "uppgift": "Styrelsen för Stiftelsen Riksbankens Jubileumsfond",
+        "intressent_id": "",
+        "hangar_id": "5005119",
+        "sortering": "30",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

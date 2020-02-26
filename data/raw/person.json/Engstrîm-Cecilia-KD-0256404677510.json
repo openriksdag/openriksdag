@@ -1,0 +1,82 @@
+{
+  "person": {
+    "hangar_guid": "adf6da0f-ac2d-434a-be5f-a1b192f9b8a2",
+    "sourceid": "6225d351-aa7a-4a12-94a0-084b7077a7af",
+    "intressent_id": "0256404677510",
+    "hangar_id": "5003860",
+    "fodd_ar": "1972",
+    "kon": "kvinna",
+    "efternamn": "Engström",
+    "tilltalsnamn": "Cecilia",
+    "sorteringsnamn": "Engström,Cecilia",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Skåne läns västra",
+    "status": "Tjänstgörande ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/6225d351-aa7a-4a12-94a0-084b7077a7af",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6225d351-aa7a-4a12-94a0-084b7077a7af_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6225d351-aa7a-4a12-94a0-084b7077a7af_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6225d351-aa7a-4a12-94a0-084b7077a7af_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "294",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2020-01-14",
+          "tom": "2020-03-29",
+          "uppgift": "Michael Anefur",
+          "intressent_id": "0256404677510",
+          "hangar_id": "5003860",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2020-02-12",
+          "tom": "2020-03-29",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0256404677510",
+          "hangar_id": "5003860",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2020-01-15",
+          "tom": "2020-03-29",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0256404677510",
+          "hangar_id": "5003860",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "cecilia.engstrom[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0256404677510",
+        "hangar_id": "5003860"
+      }
+    }
+  }
+}

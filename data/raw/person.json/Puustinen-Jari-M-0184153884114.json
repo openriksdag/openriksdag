@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "839bd373-5d3a-4c09-ae0f-bcf0b9470434",
+    "sourceid": "dd354456-6060-4c8c-9565-f52f53cfb496",
+    "intressent_id": "0184153884114",
+    "hangar_id": "5003752",
+    "fodd_ar": "1969",
+    "kon": "man",
+    "efternamn": "Puustinen",
+    "tilltalsnamn": "Jari",
+    "sorteringsnamn": "Puustinen,Jari",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Södermanlands län",
+    "status": "Avgången riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/dd354456-6060-4c8c-9565-f52f53cfb496",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dd354456-6060-4c8c-9565-f52f53cfb496_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dd354456-6060-4c8c-9565-f52f53cfb496_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dd354456-6060-4c8c-9565-f52f53cfb496_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Riksdagsledamot",
+        "ordningsnummer": "322",
+        "status": "Tjänstgörande",
+        "typ": "kammaruppdrag",
+        "from": "2019-04-26",
+        "tom": "2019-05-02",
+        "uppgift": "",
+        "intressent_id": "0184153884114",
+        "hangar_id": "5003752",
+        "sortering": "10",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "10"
+      }
+    },
+    "personuppgift": ""
+  }
+}

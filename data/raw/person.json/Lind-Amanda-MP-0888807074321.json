@@ -1,0 +1,114 @@
+{
+  "person": {
+    "hangar_guid": "6bfcb0c2-492b-464f-a1b8-410e7860340f",
+    "sourceid": "cc9a2dce-628c-4cbe-9e82-489b1078f7b8",
+    "intressent_id": "0888807074321",
+    "hangar_id": "5020197",
+    "fodd_ar": "1980",
+    "kon": "kvinna",
+    "efternamn": "Lind",
+    "tilltalsnamn": "Amanda",
+    "sorteringsnamn": "Lind,Amanda",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "",
+    "status": "Kultur- och demokratiminister",
+    "person_url_xml": "http://data.riksdagen.se/person/cc9a2dce-628c-4cbe-9e82-489b1078f7b8",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cc9a2dce-628c-4cbe-9e82-489b1078f7b8_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cc9a2dce-628c-4cbe-9e82-489b1078f7b8_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cc9a2dce-628c-4cbe-9e82-489b1078f7b8_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "Ku",
+          "roll_kod": "Kultur- och demokratiminister",
+          "ordningsnummer": "20",
+          "status": "",
+          "typ": "Departement",
+          "from": "2019-10-01",
+          "tom": "2022-09-26",
+          "uppgift": "Kulturdepartementet",
+          "intressent_id": "0888807074321",
+          "hangar_id": "5020197",
+          "sortering": "",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "Ku",
+          "roll_kod": "Kultur- och demokratiminister",
+          "ordningsnummer": "21",
+          "status": "",
+          "typ": "Departement",
+          "from": "2019-09-10",
+          "tom": "2019-10-01",
+          "uppgift": "Kulturdepartementet",
+          "intressent_id": "0888807074321",
+          "hangar_id": "5020197",
+          "sortering": "",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "Ku",
+          "roll_kod": "Kultur- och demokratiminister",
+          "ordningsnummer": "23",
+          "status": "",
+          "typ": "Departement",
+          "from": "2019-01-21",
+          "tom": "2019-09-10",
+          "uppgift": "Kulturdepartementet",
+          "intressent_id": "0888807074321",
+          "hangar_id": "5020197",
+          "sortering": "",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MP",
+          "roll_kod": "Partisekreterare",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "partiuppdrag",
+          "from": "2016-05-14",
+          "tom": "2019-01-21",
+          "uppgift": "Miljöpartiet",
+          "intressent_id": "0888807074321",
+          "hangar_id": "5020197",
+          "sortering": "35",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "amanda.lind[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0888807074321",
+          "hangar_id": "5020197"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Leg. psykolog.",
+          "typ": "titlar",
+          "intressent_id": "0888807074321",
+          "hangar_id": "5020197"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0888807074321",
+          "hangar_id": "5020197"
+        }
+      ]
+    }
+  }
+}

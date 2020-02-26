@@ -1,0 +1,66 @@
+{
+  "person": {
+    "hangar_guid": "347adbba-17a1-465d-832f-2a4f40ef9836",
+    "sourceid": "f07b9a39-5735-4479-b246-032f1646089f",
+    "intressent_id": "0797352642914",
+    "hangar_id": "3057399",
+    "fodd_ar": "1966",
+    "kon": "man",
+    "efternamn": "Peterson",
+    "tilltalsnamn": "Mikael",
+    "sorteringsnamn": "Peterson,Mikael",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Västmanlands län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/f07b9a39-5735-4479-b246-032f1646089f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f07b9a39-5735-4479-b246-032f1646089f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f07b9a39-5735-4479-b246-032f1646089f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f07b9a39-5735-4479-b246-032f1646089f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "342",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2018-03-22",
+          "tom": "2018-04-29",
+          "uppgift": "Anna Wallén",
+          "intressent_id": "0797352642914",
+          "hangar_id": "3057399",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-04-10",
+          "tom": "2018-04-29",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0797352642914",
+          "hangar_id": "3057399",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "true",
+        "typ": "val",
+        "intressent_id": "0797352642914",
+        "hangar_id": "3057399"
+      }
+    }
+  }
+}

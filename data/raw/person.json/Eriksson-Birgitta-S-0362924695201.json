@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "ee4a8fd0-c3e9-4033-b9ba-721ddf65a4bc",
+    "sourceid": "65313301-329e-48c9-a82b-c0489a77d713",
+    "intressent_id": "0362924695201",
+    "hangar_id": "2342521",
+    "fodd_ar": "1948",
+    "kon": "kvinna",
+    "efternamn": "Eriksson",
+    "tilltalsnamn": "Birgitta",
+    "sorteringsnamn": "Eriksson,Birgitta",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Västra Götalands läns västra",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/65313301-329e-48c9-a82b-c0489a77d713",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/65313301-329e-48c9-a82b-c0489a77d713_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/65313301-329e-48c9-a82b-c0489a77d713_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/65313301-329e-48c9-a82b-c0489a77d713_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "99",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0362924695201",
+          "hangar_id": "2342521",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "IPU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2008-10-22",
+          "tom": "2010-10-04",
+          "uppgift": "Riksdagens delegation till Interparlamentariska unionen",
+          "intressent_id": "0362924695201",
+          "hangar_id": "2342521",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0362924695201",
+          "hangar_id": "2342521",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "4",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0362924695201",
+          "hangar_id": "2342521",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Personalchef",
+          "typ": "titlar",
+          "intressent_id": "0362924695201",
+          "hangar_id": "2342521"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0362924695201",
+          "hangar_id": "2342521"
+        }
+      ]
+    }
+  }
+}

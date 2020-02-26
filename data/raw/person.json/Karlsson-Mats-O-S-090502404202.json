@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "7f9d69fb-398e-415d-b8c6-0d1d31c7efe3",
+    "sourceid": "3f582708-6bdf-409f-8f98-276545978b10",
+    "intressent_id": "090502404202",
+    "hangar_id": "2342256",
+    "fodd_ar": "1943",
+    "kon": "man",
+    "efternamn": "Karlsson",
+    "tilltalsnamn": "Mats O",
+    "sorteringsnamn": "Karlsson,Mats O",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/3f582708-6bdf-409f-8f98-276545978b10",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3f582708-6bdf-409f-8f98-276545978b10_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3f582708-6bdf-409f-8f98-276545978b10_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3f582708-6bdf-409f-8f98-276545978b10_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1988-06-04",
+          "tom": "1988-10-03",
+          "uppgift": "Birgitta Dahl",
+          "intressent_id": "090502404202",
+          "hangar_id": "2342256",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-05-03",
+          "uppgift": "Birgitta Dahl",
+          "intressent_id": "090502404202",
+          "hangar_id": "2342256",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-06-04",
+          "tom": "1988-10-02",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "090502404202",
+          "hangar_id": "2342256",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-05-04",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "090502404202",
+          "hangar_id": "2342256",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-06-04",
+          "tom": "1988-10-02",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "090502404202",
+          "hangar_id": "2342256",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1985-09-30",
+          "tom": "1988-05-04",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "090502404202",
+          "hangar_id": "2342256",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "avdelningschef",
+          "typ": "titlar",
+          "intressent_id": "090502404202",
+          "hangar_id": "2342256"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "090502404202",
+          "hangar_id": "2342256"
+        }
+      ]
+    }
+  }
+}

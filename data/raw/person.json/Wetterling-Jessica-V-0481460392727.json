@@ -1,0 +1,105 @@
+{
+  "person": {
+    "hangar_guid": "1917b8db-cf2b-4ee0-8d85-d8293b348314",
+    "sourceid": "dc0c1e6e-450b-4763-be41-c3f810d50b72",
+    "intressent_id": "0481460392727",
+    "hangar_id": "3057328",
+    "fodd_ar": "1986",
+    "kon": "kvinna",
+    "efternamn": "Wetterling",
+    "tilltalsnamn": "Jessica",
+    "sorteringsnamn": "Wetterling,Jessica",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "Västra Götalands läns västra",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/dc0c1e6e-450b-4763-be41-c3f810d50b72",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dc0c1e6e-450b-4763-be41-c3f810d50b72_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dc0c1e6e-450b-4763-be41-c3f810d50b72_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dc0c1e6e-450b-4763-be41-c3f810d50b72_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "338",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0481460392727",
+          "hangar_id": "3057328",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "VPN",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2019-03-13",
+          "tom": "2022-03-14",
+          "uppgift": "Valprövningsnämnden",
+          "intressent_id": "0481460392727",
+          "hangar_id": "3057328",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "8",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0481460392727",
+          "hangar_id": "3057328",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "jessica.wetterling[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0481460392727",
+          "hangar_id": "3057328"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Stödassistent.",
+          "typ": "titlar",
+          "intressent_id": "0481460392727",
+          "hangar_id": "3057328"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0481460392727",
+          "hangar_id": "3057328"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0481460392727",
+          "hangar_id": "3057328"
+        }
+      ]
+    }
+  }
+}

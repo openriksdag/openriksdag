@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "69a0f727-469e-4d7f-8b95-5e2e38162da6",
+    "sourceid": "8ef6c334-9773-480e-b271-a141bbcd6dcb",
+    "intressent_id": "0973815455017",
+    "hangar_id": "2342608",
+    "fodd_ar": "1950",
+    "kon": "man",
+    "efternamn": "Castberger",
+    "tilltalsnamn": "Anders",
+    "sorteringsnamn": "Castberger,Anders",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "Västra Götalands läns norra",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/8ef6c334-9773-480e-b271-a141bbcd6dcb",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8ef6c334-9773-480e-b271-a141bbcd6dcb_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8ef6c334-9773-480e-b271-a141bbcd6dcb_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8ef6c334-9773-480e-b271-a141bbcd6dcb_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "235",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-03",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0973815455017",
+          "hangar_id": "2342608",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1987-08-11",
+          "tom": "1988-10-03",
+          "uppgift": "",
+          "intressent_id": "0973815455017",
+          "hangar_id": "2342608",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0973815455017",
+          "hangar_id": "2342608",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "riksombudsman",
+          "typ": "titlar",
+          "intressent_id": "0973815455017",
+          "hangar_id": "2342608"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0973815455017",
+          "hangar_id": "2342608"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0973815455017",
+          "hangar_id": "2342608"
+        }
+      ]
+    }
+  }
+}

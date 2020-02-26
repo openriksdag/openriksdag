@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "983d593e-8743-4ed7-9737-d9acc50323d2",
+    "sourceid": "d42e457d-1d37-42b8-a633-e41bd4a59a4f",
+    "intressent_id": "",
+    "hangar_id": "4788832",
+    "fodd_ar": "0",
+    "kon": "okänt",
+    "efternamn": "Fura",
+    "tilltalsnamn": "Elisabet",
+    "sorteringsnamn": "Fura,Elisabet",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Ledamot i Nämnden för prövning av statsråds och statssekreterares övergångsrestriktioner",
+    "person_url_xml": "http://data.riksdagen.se/person/d42e457d-1d37-42b8-a633-e41bd4a59a4f",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d42e457d-1d37-42b8-a633-e41bd4a59a4f_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d42e457d-1d37-42b8-a633-e41bd4a59a4f_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d42e457d-1d37-42b8-a633-e41bd4a59a4f_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "JO",
+          "roll_kod": "Chefsjustitieombudsman",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2012-06-01",
+          "tom": "2016-07-31",
+          "uppgift": "Riksdagens ombudsmän",
+          "intressent_id": "",
+          "hangar_id": "4788832",
+          "sortering": "",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NSÖ",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-07-01",
+          "tom": "2022-07-01",
+          "uppgift": "Nämnden för prövning av statsråds och statssekreterares övergångsrestriktioner",
+          "intressent_id": "",
+          "hangar_id": "4788832",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

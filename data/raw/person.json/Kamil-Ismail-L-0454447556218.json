@@ -1,0 +1,162 @@
+{
+  "person": {
+    "hangar_guid": "7c434c5f-50ad-4418-8f89-cdb64f3ea668",
+    "sourceid": "edee95e1-021e-444f-bdf8-7af6b1eb4442",
+    "intressent_id": "0454447556218",
+    "hangar_id": "2342858",
+    "fodd_ar": "1955",
+    "kon": "man",
+    "efternamn": "Kamil",
+    "tilltalsnamn": "Ismail",
+    "sorteringsnamn": "Kamil,Ismail",
+    "iort": "",
+    "parti": "L",
+    "valkrets": "Uppsala län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/edee95e1-021e-444f-bdf8-7af6b1eb4442",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/edee95e1-021e-444f-bdf8-7af6b1eb4442_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/edee95e1-021e-444f-bdf8-7af6b1eb4442_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/edee95e1-021e-444f-bdf8-7af6b1eb4442_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "116",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-04",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0454447556218",
+          "hangar_id": "2342858",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0454447556218",
+          "hangar_id": "2342858",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "21",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-19",
+          "tom": "2014-09-29",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0454447556218",
+          "hangar_id": "2342858",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2013-09-26",
+          "tom": "2014-09-29",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0454447556218",
+          "hangar_id": "2342858",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2013-02-16",
+          "tom": "2013-09-25",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0454447556218",
+          "hangar_id": "2342858",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2013-02-15",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0454447556218",
+          "hangar_id": "2342858",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2011-06-16",
+          "tom": "2011-06-17",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0454447556218",
+          "hangar_id": "2342858",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Universitetslärare/konsult i sjukvårdsfrågor",
+          "typ": "titlar",
+          "intressent_id": "0454447556218",
+          "hangar_id": "2342858"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0454447556218",
+          "hangar_id": "2342858"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0454447556218",
+          "hangar_id": "2342858"
+        }
+      ]
+    }
+  }
+}

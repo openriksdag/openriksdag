@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "51309706-5ead-4ce0-96c9-3b423d1e68bf",
+    "sourceid": "03b7cad4-b668-4b9d-8757-b40598768afa",
+    "intressent_id": "0943925396910",
+    "hangar_id": "2342640",
+    "fodd_ar": "1950",
+    "kon": "man",
+    "efternamn": "Andersson",
+    "tilltalsnamn": "Hugo",
+    "sorteringsnamn": "Andersson,Hugo",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/03b7cad4-b668-4b9d-8757-b40598768afa",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/03b7cad4-b668-4b9d-8757-b40598768afa_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/03b7cad4-b668-4b9d-8757-b40598768afa_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/03b7cad4-b668-4b9d-8757-b40598768afa_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "90",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1989-05-10",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0943925396910",
+          "hangar_id": "2342640",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-05-22",
+          "tom": "1991-09-29",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0943925396910",
+          "hangar_id": "2342640",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "TU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-05-22",
+          "tom": "1991-09-29",
+          "uppgift": "Trafikutskottet",
+          "intressent_id": "0943925396910",
+          "hangar_id": "2342640",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "elektriker",
+          "typ": "titlar",
+          "intressent_id": "0943925396910",
+          "hangar_id": "2342640"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0943925396910",
+          "hangar_id": "2342640"
+        }
+      ]
+    }
+  }
+}

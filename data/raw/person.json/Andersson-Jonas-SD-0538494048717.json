@@ -1,0 +1,82 @@
+{
+  "person": {
+    "hangar_guid": "1211c04a-811e-4c69-8e23-818ade3e193a",
+    "sourceid": "c5e9daf0-868f-4c8e-9a69-671c7b22855a",
+    "intressent_id": "0538494048717",
+    "hangar_id": "5004101",
+    "fodd_ar": "1972",
+    "kon": "man",
+    "efternamn": "Andersson",
+    "tilltalsnamn": "Jonas",
+    "sorteringsnamn": "Andersson,Jonas",
+    "iort": "Skellefteå",
+    "parti": "SD",
+    "valkrets": "Västerbottens län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/c5e9daf0-868f-4c8e-9a69-671c7b22855a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c5e9daf0-868f-4c8e-9a69-671c7b22855a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c5e9daf0-868f-4c8e-9a69-671c7b22855a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c5e9daf0-868f-4c8e-9a69-671c7b22855a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "204",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0538494048717",
+          "hangar_id": "5004101",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "15",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0538494048717",
+          "hangar_id": "5004101",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "jonas.m.andersson[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0538494048717",
+          "hangar_id": "5004101"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Ungdomspedagog.",
+          "typ": "titlar",
+          "intressent_id": "0538494048717",
+          "hangar_id": "5004101"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0538494048717",
+          "hangar_id": "5004101"
+        }
+      ]
+    }
+  }
+}

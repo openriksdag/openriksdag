@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "a332986a-3ce8-46f7-a43d-b6a107701afa",
+    "sourceid": "87c662bb-3096-47d6-a9fc-7e141f5debd0",
+    "intressent_id": "",
+    "hangar_id": "4788830",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Eliason",
+    "tilltalsnamn": "Marianne",
+    "sorteringsnamn": "Eliason,Marianne",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ledamot i Nämnden för lön till riksdagens ombudsmän och riksrevisorerna",
+    "person_url_xml": "http://data.riksdagen.se/person/87c662bb-3096-47d6-a9fc-7e141f5debd0",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/87c662bb-3096-47d6-a9fc-7e141f5debd0_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/87c662bb-3096-47d6-a9fc-7e141f5debd0_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/87c662bb-3096-47d6-a9fc-7e141f5debd0_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "NL",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2014-11-27",
+          "tom": "2016-08-25",
+          "uppgift": "Nämnden för lön till riksdagens ombudsmän och riksrevisorerna",
+          "intressent_id": "",
+          "hangar_id": "4788830",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "VPN",
+          "roll_kod": "Ordförande",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2011-04-06",
+          "tom": "2015-02-18",
+          "uppgift": "Valprövningsnämnden",
+          "intressent_id": "",
+          "hangar_id": "4788830",
+          "sortering": "10",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

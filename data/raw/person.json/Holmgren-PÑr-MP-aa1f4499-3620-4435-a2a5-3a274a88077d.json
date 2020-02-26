@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "b8cb1289-d03b-4b43-9869-716863390102",
+    "sourceid": "aa1f4499-3620-4435-a2a5-3a274a88077d",
+    "intressent_id": "",
+    "hangar_id": "5035035",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Holmgren",
+    "tilltalsnamn": "Pär",
+    "sorteringsnamn": "Holmgren,Pär",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "",
+    "status": "Europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/aa1f4499-3620-4435-a2a5-3a274a88077d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/aa1f4499-3620-4435-a2a5-3a274a88077d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/aa1f4499-3620-4435-a2a5-3a274a88077d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/aa1f4499-3620-4435-a2a5-3a274a88077d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "EP",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "17",
+        "status": "",
+        "typ": "Europaparlamentet",
+        "from": "2019-07-02",
+        "tom": "2024-07-02",
+        "uppgift": "Europaparlamentet",
+        "intressent_id": "",
+        "hangar_id": "5035035",
+        "sortering": "30",
+        "organ_sortering": "100",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

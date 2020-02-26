@@ -1,0 +1,57 @@
+{
+  "person": {
+    "hangar_guid": "9e7a1abc-c5ac-41f9-b179-d4632b4b1a2a",
+    "sourceid": "4e07aab1-f2c4-49be-a385-6f859da3b23b",
+    "intressent_id": "0958769374801",
+    "hangar_id": "2341918",
+    "fodd_ar": "1936",
+    "kon": "man",
+    "efternamn": "Klang",
+    "tilltalsnamn": "Bengt A",
+    "sorteringsnamn": "Klang,Bengt A",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Status saknas",
+    "person_url_xml": "http://data.riksdagen.se/person/4e07aab1-f2c4-49be-a385-6f859da3b23b",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4e07aab1-f2c4-49be-a385-6f859da3b23b_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4e07aab1-f2c4-49be-a385-6f859da3b23b_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4e07aab1-f2c4-49be-a385-6f859da3b23b_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "MJU",
+        "roll_kod": "Suppleant",
+        "ordningsnummer": "0",
+        "status": "",
+        "typ": "uppdrag",
+        "from": "1988-01-11",
+        "tom": "1988-03-13",
+        "uppgift": "Miljö- och jordbruksutskottet",
+        "intressent_id": "0958769374801",
+        "hangar_id": "2341918",
+        "sortering": "50",
+        "organ_sortering": "150",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "överläkare",
+          "typ": "titlar",
+          "intressent_id": "0958769374801",
+          "hangar_id": "2341918"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0958769374801",
+          "hangar_id": "2341918"
+        }
+      ]
+    }
+  }
+}

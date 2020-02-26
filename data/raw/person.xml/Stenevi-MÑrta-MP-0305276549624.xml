@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<person>
+<hangar_guid datatype="guid">7a6f3dbd-094c-46e0-9246-0ecedb7822e0</hangar_guid>
+<sourceid datatype="string">8b50805c-ec24-4631-8f12-6d02cb385456</sourceid>
+<intressent_id datatype="string">0305276549624</intressent_id>
+<hangar_id datatype="int32">5037192</hangar_id>
+<fodd_ar datatype="int16">1976</fodd_ar>
+<kon datatype="string">kvinna</kon>
+<efternamn datatype="string">Stenevi</efternamn>
+<tilltalsnamn datatype="string">Märta</tilltalsnamn>
+<sorteringsnamn datatype="string">Stenevi,Märta</sorteringsnamn>
+<iort datatype="string"></iort>
+<parti datatype="string">MP</parti>
+<valkrets datatype="string"></valkrets>
+<status datatype="string"></status>
+<person_url_xml datatype="string">http://data.riksdagen.se/person/8b50805c-ec24-4631-8f12-6d02cb385456</person_url_xml>
+<bild_url_80 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/8b50805c-ec24-4631-8f12-6d02cb385456_80.jpg</bild_url_80>
+<bild_url_192 datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/8b50805c-ec24-4631-8f12-6d02cb385456_192.jpg</bild_url_192>
+<bild_url_max datatype="string">http://data.riksdagen.se/filarkiv/bilder/ledamot/8b50805c-ec24-4631-8f12-6d02cb385456_max.jpg</bild_url_max>
+<personuppdrag>
+<uppdrag>
+<organ_kod datatype="string">MP</organ_kod>
+<roll_kod datatype="string">Partisekreterare</roll_kod>
+<ordningsnummer datatype="int32">0</ordningsnummer>
+<status datatype="string"></status>
+<typ datatype="string">partiuppdrag</typ>
+<from datatype="datetime">2019-05-04</from>
+<tom datatype="datetime"></tom>
+<uppgift datatype="string">Miljöpartiet</uppgift>
+<intressent_id datatype="string">0305276549624</intressent_id>
+<hangar_id datatype="int32">5037192</hangar_id>
+<sortering datatype="int32">35</sortering>
+<organ_sortering datatype="int32"></organ_sortering>
+<uppdrag_rollsortering datatype="string">90</uppdrag_rollsortering>
+<uppdrag_statussortering datatype="string">90</uppdrag_statussortering>
+</uppdrag>
+</personuppdrag>
+<personuppgift>
+</personuppgift>
+</person>

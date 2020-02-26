@@ -1,0 +1,74 @@
+{
+  "person": {
+    "hangar_guid": "430d5e3b-762f-48be-9a9f-d82333be0ea7",
+    "sourceid": "7ce541a2-19bc-4c68-9920-cbaab5aa93a7",
+    "intressent_id": "",
+    "hangar_id": "4788827",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Lindström",
+    "tilltalsnamn": "Lars",
+    "sorteringsnamn": "Lindström,Lars",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Ställföreträdande ombudsman i Riksdagens ombudsmän",
+    "person_url_xml": "http://data.riksdagen.se/person/7ce541a2-19bc-4c68-9920-cbaab5aa93a7",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7ce541a2-19bc-4c68-9920-cbaab5aa93a7_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7ce541a2-19bc-4c68-9920-cbaab5aa93a7_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7ce541a2-19bc-4c68-9920-cbaab5aa93a7_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "JO",
+          "roll_kod": "Ställföreträdande ombudsman",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2019-12-01",
+          "tom": "2021-11-30",
+          "uppgift": "Riksdagens ombudsmän",
+          "intressent_id": "",
+          "hangar_id": "4788827",
+          "sortering": "",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JO",
+          "roll_kod": "Justitieombudsman",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2015-02-12",
+          "tom": "2019-08-30",
+          "uppgift": "Riksdagens ombudsmän",
+          "intressent_id": "",
+          "hangar_id": "4788827",
+          "sortering": "",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JO",
+          "roll_kod": "Justitieombudsman",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2011-06-01",
+          "tom": "2015-02-12",
+          "uppgift": "Riksdagens ombudsmän",
+          "intressent_id": "",
+          "hangar_id": "4788827",
+          "sortering": "",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

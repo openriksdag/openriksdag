@@ -1,0 +1,155 @@
+{
+  "person": {
+    "hangar_guid": "de8bdccf-4033-4f79-bca8-87f8d0a6a53c",
+    "sourceid": "30fbf1de-3831-44fd-93f7-eb5ef4301bf1",
+    "intressent_id": "0469626830920",
+    "hangar_id": "2343652",
+    "fodd_ar": "1977",
+    "kon": "man",
+    "efternamn": "Sigfrid",
+    "tilltalsnamn": "Karl",
+    "sorteringsnamn": "Sigfrid,Karl",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/30fbf1de-3831-44fd-93f7-eb5ef4301bf1",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/30fbf1de-3831-44fd-93f7-eb5ef4301bf1_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/30fbf1de-3831-44fd-93f7-eb5ef4301bf1_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/30fbf1de-3831-44fd-93f7-eb5ef4301bf1_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "213",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2010-10-04",
+          "tom": "2014-09-29",
+          "uppgift": "",
+          "intressent_id": "0469626830920",
+          "hangar_id": "2343652",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "320",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-02",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0469626830920",
+          "hangar_id": "2343652",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0469626830920",
+          "hangar_id": "2343652",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0469626830920",
+          "hangar_id": "2343652",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KUU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2007-03-29",
+          "tom": "2009-05-06",
+          "uppgift": "Sammansatta konstitutions- och utrikesutskottet",
+          "intressent_id": "0469626830920",
+          "hangar_id": "2343652",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2010-10-12",
+          "tom": "2014-09-29",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0469626830920",
+          "hangar_id": "2343652",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-12",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0469626830920",
+          "hangar_id": "2343652",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "civilekonom/ek.kand. ",
+          "typ": "titlar",
+          "intressent_id": "0469626830920",
+          "hangar_id": "2343652"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0469626830920",
+          "hangar_id": "2343652"
+        }
+      ]
+    }
+  }
+}

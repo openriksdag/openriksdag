@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "7769d378-77cc-4c7a-8a7e-e96d2327bfa9",
+    "sourceid": "fcdc158d-9f81-4ea0-8590-64d16fa8ec9b",
+    "intressent_id": "0704703749401",
+    "hangar_id": "2342368",
+    "fodd_ar": "1946",
+    "kon": "man",
+    "efternamn": "Löfgren",
+    "tilltalsnamn": "Ulf",
+    "sorteringsnamn": "Löfgren,Ulf",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/fcdc158d-9f81-4ea0-8590-64d16fa8ec9b",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fcdc158d-9f81-4ea0-8590-64d16fa8ec9b_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fcdc158d-9f81-4ea0-8590-64d16fa8ec9b_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fcdc158d-9f81-4ea0-8590-64d16fa8ec9b_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "182",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1990-10-15",
+          "tom": "1990-11-15",
+          "uppgift": "Gösta Lyngå",
+          "intressent_id": "0704703749401",
+          "hangar_id": "2342368",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-10-15",
+          "tom": "1990-11-15",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0704703749401",
+          "hangar_id": "2342368",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-10-15",
+          "tom": "1990-11-15",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0704703749401",
+          "hangar_id": "2342368",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "LU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-10-15",
+          "tom": "1990-11-15",
+          "uppgift": "Lagutskottet",
+          "intressent_id": "0704703749401",
+          "hangar_id": "2342368",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0704703749401",
+          "hangar_id": "2342368"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "mentalskötare",
+          "typ": "titlar",
+          "intressent_id": "0704703749401",
+          "hangar_id": "2342368"
+        }
+      ]
+    }
+  }
+}

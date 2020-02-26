@@ -1,0 +1,114 @@
+{
+  "person": {
+    "hangar_guid": "d5bc6bdd-a1db-4337-ba7b-de6725eb2022",
+    "sourceid": "7c6d9b5a-cef4-4344-9c3f-04883f2875a5",
+    "intressent_id": "0526874284718",
+    "hangar_id": "2369427",
+    "fodd_ar": "1972",
+    "kon": "man",
+    "efternamn": "Svanström",
+    "tilltalsnamn": "Stefan",
+    "sorteringsnamn": "Svanström,Stefan",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/7c6d9b5a-cef4-4344-9c3f-04883f2875a5",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7c6d9b5a-cef4-4344-9c3f-04883f2875a5_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7c6d9b5a-cef4-4344-9c3f-04883f2875a5_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7c6d9b5a-cef4-4344-9c3f-04883f2875a5_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "208",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2016-10-11",
+          "tom": "2017-01-01",
+          "uppgift": "Caroline Szyber",
+          "intressent_id": "0526874284718",
+          "hangar_id": "2369427",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "50",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2013-08-22",
+          "tom": "2014-02-28",
+          "uppgift": "Göran Hägglund",
+          "intressent_id": "0526874284718",
+          "hangar_id": "2369427",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-10-11",
+          "tom": "2017-01-01",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0526874284718",
+          "hangar_id": "2369427",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "26",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2013-09-26",
+          "tom": "2014-02-28",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0526874284718",
+          "hangar_id": "2369427",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-10-11",
+          "tom": "2017-01-01",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0526874284718",
+          "hangar_id": "2369427",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "true",
+        "typ": "val",
+        "intressent_id": "0526874284718",
+        "hangar_id": "2369427"
+      }
+    }
+  }
+}

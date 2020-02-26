@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@octetstream/promisify@2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@octetstream/promisify/-/promisify-2.0.2.tgz#29ac3bd7aefba646db670227f895d812c1a19615"
+  integrity sha512-7XHoRB61hxsz8lBQrjC1tq/3OEIgpvGWg6DKAdwi7WRzruwkmsdwmOoUXbU4Dtd4RSOMDwed0SkP3y8UlMt1Bg==
+
 ajv@^6.5.5:
   version "6.11.0"
   resolved "https://registry.yarnpkg.com/ajv/-/ajv-6.11.0.tgz#c3607cbc8ae392d8a5a536f25b21f8e5f3f87fe9"
@@ -46,6 +51,11 @@ bcrypt-pbkdf@^1.0.0:
   dependencies:
     tweetnacl "^0.14.3"
 
+bluebird@^3.5.0:
+  version "3.7.2"
+  resolved "https://registry.yarnpkg.com/bluebird/-/bluebird-3.7.2.tgz#9f229c15be272454ffa973ace0dbee79a1b0c36f"
+  integrity sha512-XpNj6GDQzdfW+r2Wnn7xiSAd7TM3jzkxGXBGTtWKuSXv1xUV+azxAm8jdWZN06QTQk+2N2XB9jRDkvbmQmcRtg==
+
 caseless@~0.12.0:
   version "0.12.0"
   resolved "https://registry.yarnpkg.com/caseless/-/caseless-0.12.0.tgz#1b681c21ff84033c826543090689420d187151dc"
@@ -62,6 +72,31 @@ core-util-is@1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/core-util-is/-/core-util-is-1.0.2.tgz#b5fd54220aa2bc5ab57aab7140c940754503c1a7"
   integrity sha1-tf1UIgqivFq1eqtxQMlAdUUDwac=
+
+csv-generate@^3.2.4:
+  version "3.2.4"
+  resolved "https://registry.yarnpkg.com/csv-generate/-/csv-generate-3.2.4.tgz#440dab9177339ee0676c9e5c16f50e2b3463c019"
+  integrity sha512-qNM9eqlxd53TWJeGtY1IQPj90b563Zx49eZs8e0uMyEvPgvNVmX1uZDtdzAcflB3PniuH9creAzcFOdyJ9YGvA==
+
+csv-parse@^4.8.2:
+  version "4.8.5"
+  resolved "https://registry.yarnpkg.com/csv-parse/-/csv-parse-4.8.5.tgz#32e92a0e0acedab141bd5c5a3ad6fc3316f2c72d"
+  integrity sha512-rpsLmlLWJZifmLzZEVGbZ9phWnJyi+cCbCGYr4vX2NaHFtgbmQPFk+WmMkmMkQXgsIUn6CgnK9cTuUAfFjoXbA==
+
+csv-stringify@^5.3.4:
+  version "5.3.6"
+  resolved "https://registry.yarnpkg.com/csv-stringify/-/csv-stringify-5.3.6.tgz#2655e2e1c01b97b3963bccbc9407b8fb876dc589"
+  integrity sha512-kPcRbMvo5NLLD71TAqW5K+g9kbM2HpIZJLAzm73Du8U+5TXmDp9YtXKCBLyxEh0q3Jbg8QhNFBz3b5VJzjZ/jw==
+
+csv@^5.3.1:
+  version "5.3.1"
+  resolved "https://registry.yarnpkg.com/csv/-/csv-5.3.1.tgz#8ceb548813182d3d76a13889878c6b06104927b0"
+  integrity sha512-UBO4x5EYpihikfjHUQ7dCTIgC+e9TrWWZbCcoMr935tcAZfXT1MZKHLD+aYSHs1jwW2G1uljpFfJ4XxYwQ6t5w==
+  dependencies:
+    csv-generate "^3.2.4"
+    csv-parse "^4.8.2"
+    csv-stringify "^5.3.4"
+    stream-transform "^2.0.1"
 
 dashdash@^1.12.0:
   version "1.14.1"
@@ -201,6 +236,11 @@ jsprim@^1.2.2:
     json-schema "0.2.3"
     verror "1.10.0"
 
+lodash@^4.17.15:
+  version "4.17.15"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
+  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+
 mime-db@1.43.0:
   version "1.43.0"
   resolved "https://registry.yarnpkg.com/mime-db/-/mime-db-1.43.0.tgz#0a12e0502650e473d735535050e7c8f4eb4fae58"
@@ -213,6 +253,16 @@ mime-types@^2.1.12, mime-types@~2.1.19:
   dependencies:
     mime-db "1.43.0"
 
+mixme@^0.3.1:
+  version "0.3.5"
+  resolved "https://registry.yarnpkg.com/mixme/-/mixme-0.3.5.tgz#304652cdaf24a3df0487205e61ac6162c6906ddd"
+  integrity sha512-SyV9uPETRig5ZmYev0ANfiGeB+g6N2EnqqEfBbCGmmJ6MgZ3E4qv5aPbnHVdZ60KAHHXV+T3sXopdrnIXQdmjQ==
+
+monet@^0.9.1:
+  version "0.9.1"
+  resolved "https://registry.yarnpkg.com/monet/-/monet-0.9.1.tgz#89686a22d9dd8a6228fcde5265fcd86aa63981a7"
+  integrity sha512-GaZw308g6t0WD+U2mGujwJckGp2b8AGGVuB6PiIwkXbq6rJeiqddre2mdbO4PxjyILPi+7GgtRkkfr6dBYXWtA==
+
 oauth-sign@~0.9.0:
   version "0.9.0"
   resolved "https://registry.yarnpkg.com/oauth-sign/-/oauth-sign-0.9.0.tgz#47a7b016baa68b5fa0ecf3dee08a85c679ac6455"
@@ -222,6 +272,13 @@ performance-now@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-2.1.0.tgz#6309f4e0e5fa913ec1c69307ae364b4b377c9e7b"
   integrity sha1-Ywn04OX6kT7BxpMHrjZLSzd8nns=
+
+promise-fs@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/promise-fs/-/promise-fs-2.1.1.tgz#0b725a592c165ff16157d1f13640ba390637e557"
+  integrity sha512-43p7e4QzAQ3w6eyN0+gbBL7jXiZFWLWYITg9wIObqkBySu/a5K1EDcQ/S6UyB/bmiZWDA4NjTbcopKLTaKcGSw==
+  dependencies:
+    "@octetstream/promisify" "2.0.2"
 
 psl@^1.1.28:
   version "1.7.0"
@@ -237,6 +294,23 @@ qs@~6.5.2:
   version "6.5.2"
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
   integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+
+request-promise-core@1.1.3:
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/request-promise-core/-/request-promise-core-1.1.3.tgz#e9a3c081b51380dfea677336061fea879a829ee9"
+  integrity sha512-QIs2+ArIGQVp5ZYbWD5ZLCY29D5CfWizP8eWnm8FoGD1TX61veauETVQbrV60662V0oFBkrDOuaBI8XgtuyYAQ==
+  dependencies:
+    lodash "^4.17.15"
+
+request-promise@^4.2.5:
+  version "4.2.5"
+  resolved "https://registry.yarnpkg.com/request-promise/-/request-promise-4.2.5.tgz#186222c59ae512f3497dfe4d75a9c8461bd0053c"
+  integrity sha512-ZgnepCykFdmpq86fKGwqntyTiUrHycALuGggpyCZwMvGaZWgxW6yagT0FHkgo5LzYvOaCNvxYwWYIjevSH1EDg==
+  dependencies:
+    bluebird "^3.5.0"
+    request-promise-core "1.1.3"
+    stealthy-require "^1.1.1"
+    tough-cookie "^2.3.3"
 
 request@^2.88.2:
   version "2.88.2"
@@ -289,7 +363,19 @@ sshpk@^1.7.0:
     safer-buffer "^2.0.2"
     tweetnacl "~0.14.0"
 
-tough-cookie@~2.5.0:
+stealthy-require@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/stealthy-require/-/stealthy-require-1.1.1.tgz#35b09875b4ff49f26a777e509b3090a3226bf24b"
+  integrity sha1-NbCYdbT/SfJqd35QmzCQoyJr8ks=
+
+stream-transform@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/stream-transform/-/stream-transform-2.0.1.tgz#112ef2b4d8b9b517f9a6994b0bf7b946fa4d51bc"
+  integrity sha512-GiTcO/rRvZP2R8WPwxmxCFP+Of1yIATuFAmYkvSLDfcD93X2WHiPwdgIqeFT2CvL1gyAsjQvu1nB6RDNQ5b2jw==
+  dependencies:
+    mixme "^0.3.1"
+
+tough-cookie@^2.3.3, tough-cookie@~2.5.0:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/tough-cookie/-/tough-cookie-2.5.0.tgz#cd9fb2a0aa1d5a12b473bd9fb96fa3dcff65ade2"
   integrity sha512-nlLsUzgm1kfLXSXfRZMc1KLAugd4hqJHDTvc2hDIwS3mZAfMEuMbc03SujMF+GEcpaX/qboeycw6iO8JwVv2+g==

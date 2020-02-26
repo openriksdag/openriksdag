@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "f49393d2-0815-4629-aad9-100914e8266d",
+    "sourceid": "f769467f-335b-4ef1-80da-52264774bb3e",
+    "intressent_id": "0632149550015",
+    "hangar_id": "2343067",
+    "fodd_ar": "1959",
+    "kon": "man",
+    "efternamn": "Karlsson",
+    "tilltalsnamn": "Lars-Olof",
+    "sorteringsnamn": "Karlsson,Lars-Olof",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/f769467f-335b-4ef1-80da-52264774bb3e",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f769467f-335b-4ef1-80da-52264774bb3e_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f769467f-335b-4ef1-80da-52264774bb3e_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f769467f-335b-4ef1-80da-52264774bb3e_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "239",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1993-10-25",
+          "tom": "1993-11-26",
+          "uppgift": "Berndt Ekholm",
+          "intressent_id": "0632149550015",
+          "hangar_id": "2343067",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1993-10-25",
+          "tom": "1993-11-26",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0632149550015",
+          "hangar_id": "2343067",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1993-10-25",
+          "tom": "1993-11-26",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0632149550015",
+          "hangar_id": "2343067",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "arbetsförmedlare",
+          "typ": "titlar",
+          "intressent_id": "0632149550015",
+          "hangar_id": "2343067"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0632149550015",
+          "hangar_id": "2343067"
+        }
+      ]
+    }
+  }
+}

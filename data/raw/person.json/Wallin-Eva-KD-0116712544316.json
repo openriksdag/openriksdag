@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "3adae7ac-ec1d-4390-a1ad-7f70c8b63fe6",
+    "sourceid": "dbe1bc22-2147-41ca-b40d-fde9d682b09d",
+    "intressent_id": "0116712544316",
+    "hangar_id": "3057320",
+    "fodd_ar": "1967",
+    "kon": "kvinna",
+    "efternamn": "Wallin",
+    "tilltalsnamn": "Eva",
+    "sorteringsnamn": "Wallin,Eva",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Västra Götalands läns västra",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/dbe1bc22-2147-41ca-b40d-fde9d682b09d",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dbe1bc22-2147-41ca-b40d-fde9d682b09d_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dbe1bc22-2147-41ca-b40d-fde9d682b09d_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dbe1bc22-2147-41ca-b40d-fde9d682b09d_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "158",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2016-03-18",
+          "tom": "2016-05-22",
+          "uppgift": "Roland Utbult",
+          "intressent_id": "0116712544316",
+          "hangar_id": "3057320",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "158",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2016-03-08",
+          "tom": "2016-03-17",
+          "uppgift": "Roland Utbult",
+          "intressent_id": "0116712544316",
+          "hangar_id": "3057320",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-04-26",
+          "tom": "2016-05-22",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0116712544316",
+          "hangar_id": "3057320",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-03-08",
+          "tom": "2016-04-24",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0116712544316",
+          "hangar_id": "3057320",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "true",
+        "typ": "val",
+        "intressent_id": "0116712544316",
+        "hangar_id": "3057320"
+      }
+    }
+  }
+}

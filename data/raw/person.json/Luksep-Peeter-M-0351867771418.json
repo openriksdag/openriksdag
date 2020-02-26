@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "0d2f848e-338a-403d-8b0d-86527d1ab6ae",
+    "sourceid": "53baa875-c07d-4978-a010-745c42b1a7f3",
+    "intressent_id": "0351867771418",
+    "hangar_id": "2342855",
+    "fodd_ar": "1955",
+    "kon": "man",
+    "efternamn": "Luksep",
+    "tilltalsnamn": "Peeter",
+    "sorteringsnamn": "Luksep,Peeter",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/53baa875-c07d-4978-a010-745c42b1a7f3",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/53baa875-c07d-4978-a010-745c42b1a7f3_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/53baa875-c07d-4978-a010-745c42b1a7f3_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/53baa875-c07d-4978-a010-745c42b1a7f3_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "4",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1994-10-03",
+          "tom": "1994-10-07",
+          "uppgift": "Margaretha af Ugglas",
+          "intressent_id": "0351867771418",
+          "hangar_id": "2342855",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "12",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1991-10-05",
+          "tom": "1994-10-03",
+          "uppgift": "Carl Bildt",
+          "intressent_id": "0351867771418",
+          "hangar_id": "2342855",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "ESK",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1993-01-21",
+          "tom": "1994-10-03",
+          "uppgift": "ESK-delegationen",
+          "intressent_id": "0351867771418",
+          "hangar_id": "2342855",
+          "sortering": "30",
+          "organ_sortering": "355",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0351867771418",
+          "hangar_id": "2342855",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "LU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-10-08",
+          "tom": "1994-10-02",
+          "uppgift": "Lagutskottet",
+          "intressent_id": "0351867771418",
+          "hangar_id": "2342855",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "projektledare",
+          "typ": "titlar",
+          "intressent_id": "0351867771418",
+          "hangar_id": "2342855"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0351867771418",
+          "hangar_id": "2342855"
+        }
+      ]
+    }
+  }
+}

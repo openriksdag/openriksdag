@@ -1,0 +1,107 @@
+{
+  "person": {
+    "hangar_guid": "12bf9f29-ecda-46f4-8b8b-181f56a5e4e2",
+    "sourceid": "23b4fafa-c7a8-4c66-a605-3e3deac52905",
+    "intressent_id": "0565457468009",
+    "hangar_id": "2341770",
+    "fodd_ar": "1930",
+    "kon": "kvinna",
+    "efternamn": "Stenberg",
+    "tilltalsnamn": "Anita",
+    "sorteringsnamn": "Stenberg,Anita",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/23b4fafa-c7a8-4c66-a605-3e3deac52905",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/23b4fafa-c7a8-4c66-a605-3e3deac52905_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/23b4fafa-c7a8-4c66-a605-3e3deac52905_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/23b4fafa-c7a8-4c66-a605-3e3deac52905_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "168",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-04",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0565457468009",
+          "hangar_id": "2341770",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1990-10-04",
+          "tom": "1991-09-29",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0565457468009",
+          "hangar_id": "2341770",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1989-10-04",
+          "tom": "1990-10-03",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0565457468009",
+          "hangar_id": "2341770",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0565457468009",
+          "hangar_id": "2341770",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "leg.tandläkare",
+          "typ": "titlar",
+          "intressent_id": "0565457468009",
+          "hangar_id": "2341770"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0565457468009",
+          "hangar_id": "2341770"
+        }
+      ]
+    }
+  }
+}

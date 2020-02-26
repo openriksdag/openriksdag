@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "67f84af8-a4a0-4d90-ab81-0be21fa6e0c1",
+    "sourceid": "222bc44f-275d-453f-984f-348188b4c870",
+    "intressent_id": "0410542963401",
+    "hangar_id": "2342226",
+    "fodd_ar": "1943",
+    "kon": "man",
+    "efternamn": "Karlsson",
+    "tilltalsnamn": "Ronny",
+    "sorteringsnamn": "Karlsson,Ronny",
+    "iort": "",
+    "parti": "FP",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/222bc44f-275d-453f-984f-348188b4c870",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/222bc44f-275d-453f-984f-348188b4c870_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/222bc44f-275d-453f-984f-348188b4c870_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/222bc44f-275d-453f-984f-348188b4c870_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "118",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1991-11-09",
+          "tom": "1991-12-09",
+          "uppgift": "Charlotte Branting",
+          "intressent_id": "0410542963401",
+          "hangar_id": "2342226",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1991-11-09",
+          "tom": "1991-12-09",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0410542963401",
+          "hangar_id": "2342226",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "adjunkt",
+          "typ": "titlar",
+          "intressent_id": "0410542963401",
+          "hangar_id": "2342226"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0410542963401",
+          "hangar_id": "2342226"
+        }
+      ]
+    }
+  }
+}

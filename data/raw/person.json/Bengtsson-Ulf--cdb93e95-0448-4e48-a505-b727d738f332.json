@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "e85a509a-b52b-4934-8d27-e86fd7d2ada6",
+    "sourceid": "cdb93e95-0448-4e48-a505-b727d738f332",
+    "intressent_id": "",
+    "hangar_id": "4788860",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Bengtsson",
+    "tilltalsnamn": "Ulf",
+    "sorteringsnamn": "Bengtsson,Ulf",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare riksrevisor i Riksrevisorerna",
+    "person_url_xml": "http://data.riksdagen.se/person/cdb93e95-0448-4e48-a505-b727d738f332",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cdb93e95-0448-4e48-a505-b727d738f332_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cdb93e95-0448-4e48-a505-b727d738f332_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cdb93e95-0448-4e48-a505-b727d738f332_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "RR",
+        "roll_kod": "Riksrevisor",
+        "ordningsnummer": "2",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2015-08-01",
+        "tom": "2016-09-08",
+        "uppgift": "Riksrevisorerna",
+        "intressent_id": "",
+        "hangar_id": "4788860",
+        "sortering": "",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

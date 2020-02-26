@@ -1,0 +1,98 @@
+{
+  "person": {
+    "hangar_guid": "9b9ed4ec-b46b-4c1c-85ce-0f8edda77518",
+    "sourceid": "b0cce726-5e23-4d21-a609-95071f8820f0",
+    "intressent_id": "0512510717328",
+    "hangar_id": "5003992",
+    "fodd_ar": "1987",
+    "kon": "kvinna",
+    "efternamn": "Busch Thor",
+    "tilltalsnamn": "Ebba",
+    "sorteringsnamn": "Busch Thor,Ebba",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Västra Götalands läns östra",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/b0cce726-5e23-4d21-a609-95071f8820f0",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b0cce726-5e23-4d21-a609-95071f8820f0_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b0cce726-5e23-4d21-a609-95071f8820f0_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b0cce726-5e23-4d21-a609-95071f8820f0_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "340",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0512510717328",
+          "hangar_id": "5003992",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KD",
+          "roll_kod": "Partiledare",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "partiuppdrag",
+          "from": "2015-04-25",
+          "tom": "",
+          "uppgift": "Kristdemokraterna",
+          "intressent_id": "0512510717328",
+          "hangar_id": "5003992",
+          "sortering": "20",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KD",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "12",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-10-09",
+          "tom": "2022-10-09",
+          "uppgift": "Krigsdelegationen",
+          "intressent_id": "0512510717328",
+          "hangar_id": "5003992",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UN",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "9",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-10-02",
+          "tom": "2022-10-02",
+          "uppgift": "Utrikesnämnden",
+          "intressent_id": "0512510717328",
+          "hangar_id": "5003992",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "ebba.busch.thor[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0512510717328",
+        "hangar_id": "5003992"
+      }
+    }
+  }
+}

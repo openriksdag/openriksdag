@@ -1,0 +1,91 @@
+{
+  "person": {
+    "hangar_guid": "11fe83af-59be-43d2-9d10-4dccef5f4d9a",
+    "sourceid": "09924aee-97da-48a5-8e80-aabcc03e9b4c",
+    "intressent_id": "0961349903416",
+    "hangar_id": "2369432",
+    "fodd_ar": "1959",
+    "kon": "man",
+    "efternamn": "Hassan",
+    "tilltalsnamn": "Rebwar",
+    "sorteringsnamn": "Hassan,Rebwar",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/09924aee-97da-48a5-8e80-aabcc03e9b4c",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/09924aee-97da-48a5-8e80-aabcc03e9b4c_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/09924aee-97da-48a5-8e80-aabcc03e9b4c_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/09924aee-97da-48a5-8e80-aabcc03e9b4c_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "279",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2012-11-23",
+          "tom": "2013-05-17",
+          "uppgift": "Åsa Romson",
+          "intressent_id": "0961349903416",
+          "hangar_id": "2369432",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "30",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-11-29",
+          "tom": "2013-05-17",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0961349903416",
+          "hangar_id": "2369432",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "26",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2012-11-29",
+          "tom": "2013-05-17",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0961349903416",
+          "hangar_id": "2369432",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "rebwar.hassan[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0961349903416",
+          "hangar_id": "2369432"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "64446",
+          "typ": "telefonnummer",
+          "intressent_id": "0961349903416",
+          "hangar_id": "2369432"
+        }
+      ]
+    }
+  }
+}

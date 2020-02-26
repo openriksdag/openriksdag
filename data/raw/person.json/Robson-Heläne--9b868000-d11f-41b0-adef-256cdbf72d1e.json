@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "5ed2d242-96e4-4d25-8f7a-030903ee5407",
+    "sourceid": "9b868000-d11f-41b0-adef-256cdbf72d1e",
+    "intressent_id": "",
+    "hangar_id": "4788868",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Robson",
+    "tilltalsnamn": "Helène",
+    "sorteringsnamn": "Robson,Helène",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Ledamot i Riksdagens ansvarsnämnd",
+    "person_url_xml": "http://data.riksdagen.se/person/9b868000-d11f-41b0-adef-256cdbf72d1e",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9b868000-d11f-41b0-adef-256cdbf72d1e_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9b868000-d11f-41b0-adef-256cdbf72d1e_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9b868000-d11f-41b0-adef-256cdbf72d1e_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "RAN",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2019-02-15",
+          "tom": "2021-12-31",
+          "uppgift": "Riksdagens ansvarsnämnd",
+          "intressent_id": "",
+          "hangar_id": "4788868",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RAN",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2016-01-01",
+          "tom": "2018-12-31",
+          "uppgift": "Riksdagens ansvarsnämnd",
+          "intressent_id": "",
+          "hangar_id": "4788868",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

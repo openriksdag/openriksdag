@@ -1,0 +1,90 @@
+{
+  "person": {
+    "hangar_guid": "014bc2f2-dd71-492e-8156-33b6eed072ec",
+    "sourceid": "22d9edc0-1d81-431d-979f-4224c077be36",
+    "intressent_id": "0958927082506",
+    "hangar_id": "2341757",
+    "fodd_ar": "1930",
+    "kon": "man",
+    "efternamn": "Mattsson",
+    "tilltalsnamn": "Kjell A",
+    "sorteringsnamn": "Mattsson,Kjell A",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "",
+    "status": "Avliden  2015-01-07",
+    "person_url_xml": "http://data.riksdagen.se/person/22d9edc0-1d81-431d-979f-4224c077be36",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/22d9edc0-1d81-431d-979f-4224c077be36_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/22d9edc0-1d81-431d-979f-4224c077be36_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/22d9edc0-1d81-431d-979f-4224c077be36_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1985-09-30",
+          "tom": "1987-10-31",
+          "uppgift": "",
+          "intressent_id": "0958927082506",
+          "hangar_id": "2341757",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1982-10-04",
+          "tom": "1985-09-30",
+          "uppgift": "",
+          "intressent_id": "0958927082506",
+          "hangar_id": "2341757",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1979-10-01",
+          "tom": "1982-10-04",
+          "uppgift": "",
+          "intressent_id": "0958927082506",
+          "hangar_id": "2341757",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1976-10-04",
+          "tom": "1979-10-01",
+          "uppgift": "",
+          "intressent_id": "0958927082506",
+          "hangar_id": "2341757",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

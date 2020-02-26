@@ -1,0 +1,171 @@
+{
+  "person": {
+    "hangar_guid": "250c6de7-1dfe-4647-8a31-50283920c825",
+    "sourceid": "f31bc5bb-a0e8-4fee-8897-999f39f47c36",
+    "intressent_id": "0229825314217",
+    "hangar_id": "2342600",
+    "fodd_ar": "1949",
+    "kon": "kvinna",
+    "efternamn": "Özürküt",
+    "tilltalsnamn": "Sermin",
+    "sorteringsnamn": "Özürküt,Sermin",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "Stockholms län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/f31bc5bb-a0e8-4fee-8897-999f39f47c36",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f31bc5bb-a0e8-4fee-8897-999f39f47c36_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f31bc5bb-a0e8-4fee-8897-999f39f47c36_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f31bc5bb-a0e8-4fee-8897-999f39f47c36_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "60",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2002-09-30",
+          "tom": "2006-10-02",
+          "uppgift": "",
+          "intressent_id": "0229825314217",
+          "hangar_id": "2342600",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "IPU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2002-12-19",
+          "tom": "2006-10-02",
+          "uppgift": "Riksdagens delegation till Interparlamentariska unionen",
+          "intressent_id": "0229825314217",
+          "hangar_id": "2342600",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "OSSE",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2004-03-23",
+          "tom": "2006-10-02",
+          "uppgift": "OSSE-delegationen",
+          "intressent_id": "0229825314217",
+          "hangar_id": "2342600",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0229825314217",
+          "hangar_id": "2342600",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UFöU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2004-02-05",
+          "tom": "2004-02-18",
+          "uppgift": "Sammansatta utrikes- och försvarsutskottet",
+          "intressent_id": "0229825314217",
+          "hangar_id": "2342600",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UMJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2003-02-18",
+          "tom": "2003-05-21",
+          "uppgift": "Sammansatta utrikes-, miljö- och jordbruksutskottet",
+          "intressent_id": "0229825314217",
+          "hangar_id": "2342600",
+          "sortering": "50",
+          "organ_sortering": "160",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-10-08",
+          "tom": "2006-10-02",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "0229825314217",
+          "hangar_id": "2342600",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "EUN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2004-12-15",
+          "tom": "2006-10-02",
+          "uppgift": "EU-nämnden",
+          "intressent_id": "0229825314217",
+          "hangar_id": "2342600",
+          "sortering": "50",
+          "organ_sortering": "170",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "journalist",
+          "typ": "titlar",
+          "intressent_id": "0229825314217",
+          "hangar_id": "2342600"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Journalist",
+          "typ": "titlar",
+          "intressent_id": "0229825314217",
+          "hangar_id": "2342600"
+        }
+      ]
+    }
+  }
+}

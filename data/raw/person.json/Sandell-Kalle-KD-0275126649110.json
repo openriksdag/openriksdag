@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "dfbb7740-e2c8-465f-821f-fad0b1d9e2dd",
+    "sourceid": "bae9deb7-d2b8-483b-baec-0c646cd42530",
+    "intressent_id": "0275126649110",
+    "hangar_id": "2342749",
+    "fodd_ar": "1953",
+    "kon": "man",
+    "efternamn": "Sandell",
+    "tilltalsnamn": "Kalle",
+    "sorteringsnamn": "Sandell,Kalle",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/bae9deb7-d2b8-483b-baec-0c646cd42530",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/bae9deb7-d2b8-483b-baec-0c646cd42530_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/bae9deb7-d2b8-483b-baec-0c646cd42530_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/bae9deb7-d2b8-483b-baec-0c646cd42530_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "kam",
+        "roll_kod": "Ersättare",
+        "ordningsnummer": "50",
+        "status": "Ersättare",
+        "typ": "kammaruppdrag",
+        "from": "1994-10-03",
+        "tom": "1994-10-07",
+        "uppgift": "Mats Odell",
+        "intressent_id": "0275126649110",
+        "hangar_id": "2342749",
+        "sortering": "45",
+        "organ_sortering": "10",
+        "uppdrag_rollsortering": "60",
+        "uppdrag_statussortering": "20"
+      }
+    },
+    "personuppgift": ""
+  }
+}

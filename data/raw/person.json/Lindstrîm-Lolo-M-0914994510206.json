@@ -1,0 +1,66 @@
+{
+  "person": {
+    "hangar_guid": "51532631-21b0-4ed4-ba9f-85163ce22159",
+    "sourceid": "3c495054-c39f-4fc3-91d9-d6fde269e7a4",
+    "intressent_id": "0914994510206",
+    "hangar_id": "2342448",
+    "fodd_ar": "1947",
+    "kon": "kvinna",
+    "efternamn": "Lindström",
+    "tilltalsnamn": "Lolo",
+    "sorteringsnamn": "Lindström,Lolo",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Örebro län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/3c495054-c39f-4fc3-91d9-d6fde269e7a4",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3c495054-c39f-4fc3-91d9-d6fde269e7a4_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3c495054-c39f-4fc3-91d9-d6fde269e7a4_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3c495054-c39f-4fc3-91d9-d6fde269e7a4_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "268",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2013-09-19",
+          "tom": "2014-09-29",
+          "uppgift": "Elisabeth Svantesson",
+          "intressent_id": "0914994510206",
+          "hangar_id": "2342448",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2013-09-27",
+          "tom": "2014-09-29",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0914994510206",
+          "hangar_id": "2342448",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "lolo.lindstrom[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0914994510206",
+        "hangar_id": "2342448"
+      }
+    }
+  }
+}

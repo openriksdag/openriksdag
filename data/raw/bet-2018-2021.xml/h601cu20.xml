@@ -1,0 +1,35 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5022755</hangar_id>
+    <dok_id datatype="string">H601CU20</dok_id>
+    <rm datatype="string">2018/19</rm>
+    <beteckning datatype="string">CU20</beteckning>
+    <typ datatype="string">bet</typ>
+    <subtyp datatype="string">bet</subtyp>
+    <doktyp datatype="string">bet</doktyp>
+    <typrubrik datatype="string">Betänkande 2018/19:CU20</typrubrik>
+    <dokumentnamn datatype="string">Betänkande</dokumentnamn>
+    <debattnamn datatype="string">Debatt om förslag</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">CU</organ>
+    <mottagare datatype="string"></mottagare>
+    <nummer datatype="int32">20</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2019-02-25 00:00:00</datum>
+    <systemdatum datatype="datetime">2019-05-17 14:11:24</systemdatum>
+    <publicerad datatype="datetime">2019-02-25 10:37:21</publicerad>
+    <titel datatype="string">Om byggnaders energiprestanda</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">planerat</status>
+    <htmlformat datatype="string"></htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">Brus</source>
+    <sourceid datatype="string">ae6ba64e-5f7a-4b25-9581-6df74b7f8259</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H601CU20/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H601CU20</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H601CU20</dokumentstatus_url_xml>
+    <utskottsforslag_url_xml datatype="stext">http://data.riksdagen.se/utskottsforslag/H601CU20</utskottsforslag_url_xml>
+    <html datatype="text">&lt;h2&gt;Om byggnaders energiprestanda&lt;/h2&gt;
+Dokumentet är inte publicerat</html>
+  </dokument>
+<debatt /></dokumentstatus>

@@ -1,0 +1,96 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5045306</hangar_id>
+    <dok_id datatype="string">H701SkU16</dok_id>
+    <rm datatype="string">2019/20</rm>
+    <beteckning datatype="string">SkU16</beteckning>
+    <typ datatype="string">bet</typ>
+    <subtyp datatype="string">bet</subtyp>
+    <doktyp datatype="string">bet</doktyp>
+    <typrubrik datatype="string">Betänkande 2019/20:SkU16</typrubrik>
+    <dokumentnamn datatype="string">Betänkande</dokumentnamn>
+    <debattnamn datatype="string">Debatt om förslag</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">SkU</organ>
+    <mottagare datatype="string"></mottagare>
+    <nummer datatype="int32">16</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2019-10-30 00:00:00</datum>
+    <systemdatum datatype="datetime">2019-12-11 14:18:20</systemdatum>
+    <publicerad datatype="datetime">2019-10-30 09:11:59</publicerad>
+    <titel datatype="string">Trängselskatt i Marieholmstunneln i Göteborg</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">planerat</status>
+    <htmlformat datatype="string"></htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">Brus</source>
+    <sourceid datatype="string">9850624a-ba50-40c9-ae21-7fa232fc5ab4</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H701SkU16/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H701SkU16</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H701SkU16</dokumentstatus_url_xml>
+    <utskottsforslag_url_xml datatype="stext">http://data.riksdagen.se/utskottsforslag/H701SkU16</utskottsforslag_url_xml>
+    <html datatype="text">&lt;h2&gt;Trängselskatt i Marieholmstunneln i Göteborg&lt;/h2&gt;
+Dokumentet är inte publicerat</html>
+  </dokument>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">UBE</kod>
+<namn datatype="string">Beredning</namn>
+<datum datatype="datetime">2020-01-23 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">JUS</kod>
+<namn datatype="string">Justering</namn>
+<datum datatype="datetime">2020-02-13 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+<aktivitet>
+<kod datatype="string">TRY</kod>
+<namn datatype="string">Trycklov</namn>
+<datum datatype="datetime">2020-02-20 00:00:00</datum>
+<status datatype="string">planerat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string" />
+</aktivitet>
+</dokaktivitet>
+<dokuppgift>
+<uppgift>
+<kod datatype="string">statustext</kod>
+<namn datatype="string">statustext</namn>
+<text datatype="string">Utskottet arbetar med ärendet</text>
+<dok_id datatype="string">H701SkU16</dok_id>
+<systemdatum datatype="datetime">2020-01-24 00:10:59</systemdatum>
+</uppgift>
+</dokuppgift>
+<dokreferens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">motion 2019/20:3428 med anledning av prop. 2019/20:30 Trängselskatt i Marieholmstunneln i Göteborg</uppgift>
+<ref_dok_id datatype="string">H7023428</ref_dok_id>
+<ref_dok_typ datatype="string">mot</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">3428</ref_dok_bet>
+<ref_dok_titel datatype="string">med anledning av prop. 2019/20:30 Trängselskatt i Marieholmstunneln i Göteborg</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">mot</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Motion</ref_dok_dokumentnamn>
+</referens>
+<referens>
+<referenstyp datatype="string">behandlar</referenstyp>
+<uppgift datatype="string">Proposition 2019/20:30 Trängselskatt i Marieholmstunneln i Göteborg</uppgift>
+<ref_dok_id datatype="string">H70330</ref_dok_id>
+<ref_dok_typ datatype="string">prop</ref_dok_typ>
+<ref_dok_rm datatype="string">2019/20</ref_dok_rm>
+<ref_dok_bet datatype="string">30</ref_dok_bet>
+<ref_dok_titel datatype="string">Trängselskatt i Marieholmstunneln i Göteborg</ref_dok_titel>
+<ref_dok_subtitel datatype="string" />
+<ref_dok_subtyp datatype="string">prop</ref_dok_subtyp>
+<ref_dok_dokumentnamn datatype="string">Proposition</ref_dok_dokumentnamn>
+</referens>
+</dokreferens>
+<debatt /></dokumentstatus>

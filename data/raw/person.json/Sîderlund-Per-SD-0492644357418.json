@@ -1,0 +1,114 @@
+{
+  "person": {
+    "hangar_guid": "47012412-b0ac-45ec-9656-46c54a6c871c",
+    "sourceid": "f3da7403-18a0-454d-bcac-9a0a36783d38",
+    "intressent_id": "0492644357418",
+    "hangar_id": "5004033",
+    "fodd_ar": "1972",
+    "kon": "man",
+    "efternamn": "Söderlund",
+    "tilltalsnamn": "Per",
+    "sorteringsnamn": "Söderlund,Per",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Örebro län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/f3da7403-18a0-454d-bcac-9a0a36783d38",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f3da7403-18a0-454d-bcac-9a0a36783d38_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f3da7403-18a0-454d-bcac-9a0a36783d38_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f3da7403-18a0-454d-bcac-9a0a36783d38_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "271",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2019-02-01",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0492644357418",
+          "hangar_id": "5004033",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-06-18",
+          "tom": "2022-09-26",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "0492644357418",
+          "hangar_id": "5004033",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "18",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-06-18",
+          "tom": "2022-09-26",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0492644357418",
+          "hangar_id": "5004033",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2019-02-06",
+          "tom": "2022-09-26",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "0492644357418",
+          "hangar_id": "5004033",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "per.soderlund[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0492644357418",
+          "hangar_id": "5004033"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Datortekniker ",
+          "typ": "titlar",
+          "intressent_id": "0492644357418",
+          "hangar_id": "5004033"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0492644357418",
+          "hangar_id": "5004033"
+        }
+      ]
+    }
+  }
+}

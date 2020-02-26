@@ -11,6 +11,14 @@
     "flow-bin": "^0.118.0"
   },
   "dependencies": {
-    "request": "^2.88.2"
+    "csv": "^5.3.1",
+    "monet": "^0.9.1",
+    "promise-fs": "^2.1.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-modules index.js"
   }
 }

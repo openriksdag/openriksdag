@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "f2745219-6ee9-4e5e-9db0-e4879e91f496",
+    "sourceid": "d56e957c-aa80-420a-99d6-e9bd53cb80c4",
+    "intressent_id": "0361964723211",
+    "hangar_id": "2343536",
+    "fodd_ar": "1973",
+    "kon": "man",
+    "efternamn": "Agenberg",
+    "tilltalsnamn": "Tomas",
+    "sorteringsnamn": "Agenberg,Tomas",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/d56e957c-aa80-420a-99d6-e9bd53cb80c4",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d56e957c-aa80-420a-99d6-e9bd53cb80c4_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d56e957c-aa80-420a-99d6-e9bd53cb80c4_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d56e957c-aa80-420a-99d6-e9bd53cb80c4_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2004-11-01",
+          "tom": "2005-04-10",
+          "uppgift": "Anders Ygeman",
+          "intressent_id": "0361964723211",
+          "hangar_id": "2343536",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "BoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2004-11-01",
+          "tom": "2005-04-10",
+          "uppgift": "Bostadsutskottet",
+          "intressent_id": "0361964723211",
+          "hangar_id": "2343536",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

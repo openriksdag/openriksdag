@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "ecf19f36-c3ca-422a-9205-526b71843af1",
+    "sourceid": "b13cf5ce-6f5c-48b9-885f-e9de19d67979",
+    "intressent_id": "0725043815911",
+    "hangar_id": "3057104",
+    "fodd_ar": "1970",
+    "kon": "kvinna",
+    "efternamn": "Karlsbro",
+    "tilltalsnamn": "Karin",
+    "sorteringsnamn": "Karlsbro,Karin",
+    "iort": "",
+    "parti": "L",
+    "valkrets": "Stockholms län",
+    "status": "Europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/b13cf5ce-6f5c-48b9-885f-e9de19d67979",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b13cf5ce-6f5c-48b9-885f-e9de19d67979_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b13cf5ce-6f5c-48b9-885f-e9de19d67979_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b13cf5ce-6f5c-48b9-885f-e9de19d67979_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "EP",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "7",
+          "status": "",
+          "typ": "Europaparlamentet",
+          "from": "2019-07-02",
+          "tom": "2024-07-02",
+          "uppgift": "Europaparlamentet",
+          "intressent_id": "0725043815911",
+          "hangar_id": "3057104",
+          "sortering": "30",
+          "organ_sortering": "100",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "143",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2014-10-03",
+          "uppgift": "Erik Ullenhag",
+          "intressent_id": "0725043815911",
+          "hangar_id": "3057104",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "karin.karlsbro[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0725043815911",
+          "hangar_id": "3057104"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0725043815911",
+          "hangar_id": "3057104"
+        }
+      ]
+    }
+  }
+}

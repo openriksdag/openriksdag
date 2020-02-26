@@ -1,0 +1,90 @@
+{
+  "person": {
+    "hangar_guid": "443a852d-03d9-4371-ae80-4c030f46ba01",
+    "sourceid": "b5111509-595f-4c81-927b-219d01497a73",
+    "intressent_id": "",
+    "hangar_id": "4788839",
+    "fodd_ar": "0",
+    "kon": "okänt",
+    "efternamn": "Wersäll",
+    "tilltalsnamn": "Fredrik",
+    "sorteringsnamn": "Wersäll,Fredrik",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ordförande i Riksdagens ansvarsnämnd",
+    "person_url_xml": "http://data.riksdagen.se/person/b5111509-595f-4c81-927b-219d01497a73",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b5111509-595f-4c81-927b-219d01497a73_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b5111509-595f-4c81-927b-219d01497a73_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b5111509-595f-4c81-927b-219d01497a73_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "RAN",
+          "roll_kod": "Ordförande",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2016-01-01",
+          "tom": "2018-06-15",
+          "uppgift": "Riksdagens ansvarsnämnd",
+          "intressent_id": "",
+          "hangar_id": "4788839",
+          "sortering": "10",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RAN",
+          "roll_kod": "Ordförande",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2013-01-01",
+          "tom": "2015-12-31",
+          "uppgift": "Riksdagens ansvarsnämnd",
+          "intressent_id": "",
+          "hangar_id": "4788839",
+          "sortering": "10",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RAR",
+          "roll_kod": "Ersättare för ordföranden",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2016-12-09",
+          "tom": "2018-11-28",
+          "uppgift": "Riksdagens arvodesnämnd",
+          "intressent_id": "",
+          "hangar_id": "4788839",
+          "sortering": "21",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RAR",
+          "roll_kod": "Ersättare för ordföranden",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2013-01-01",
+          "tom": "2016-12-09",
+          "uppgift": "Riksdagens arvodesnämnd",
+          "intressent_id": "",
+          "hangar_id": "4788839",
+          "sortering": "21",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

@@ -1,0 +1,292 @@
+<dokumentstatus>
+  <dokument>
+    <hangar_id datatype="int32">5035600</hangar_id>
+    <dok_id datatype="string">H603149</dok_id>
+    <rm datatype="string">2018/19</rm>
+    <beteckning datatype="string">149</beteckning>
+    <typ datatype="string">prop</typ>
+    <subtyp datatype="string">skr</subtyp>
+    <doktyp datatype="string">prop</doktyp>
+    <typrubrik datatype="string">Skrivelse 2018/19:149</typrubrik>
+    <dokumentnamn datatype="string">Skrivelse</dokumentnamn>
+    <debattnamn datatype="string">Proposition</debattnamn>
+    <tempbeteckning datatype="string"></tempbeteckning>
+    <organ datatype="string">Utrikesdepartementet</organ>
+    <mottagare datatype="string"></mottagare>
+    <nummer datatype="int32">149</nummer>
+    <slutnummer datatype="int32">0</slutnummer>
+    <datum datatype="datetime">2019-06-11 00:00:00</datum>
+    <systemdatum datatype="datetime">2019-10-31 11:07:30</systemdatum>
+    <publicerad datatype="datetime">2019-06-11 00:00:00</publicerad>
+    <titel datatype="string">Återkallelse av proposition 2017/18:285 Avtal om politisk dialog och samarbete mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Kuba, å andra sidan</titel>
+    <subtitel datatype="string"></subtitel>
+    <status datatype="string">Klar</status>
+    <htmlformat datatype="string">html-ec</htmlformat>
+    <relaterat_id datatype="string"></relaterat_id>
+    <source datatype="string">prop-RIM</source>
+    <sourceid datatype="string">7ae17a3d-3c02-4ed7-a71d-45f68dc55255</sourceid>
+    <dokument_url_text datatype="stext">http://data.riksdagen.se/dokument/H603149/text</dokument_url_text>
+    <dokument_url_html datatype="stext">http://data.riksdagen.se/dokument/H603149</dokument_url_html>
+    <dokumentstatus_url_xml datatype="stext">http://data.riksdagen.se/dokumentstatus/H603149</dokumentstatus_url_xml>
+    <html datatype="text">&lt;div style="margin:3px;"&gt;
+&lt;STYLE type="text/css"&gt;
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:10px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_1 #p1dimg1 {position:absolute;top:0px;left:546px;z-index:-1;width:54px;height:97px;}
+#page_1 #p1dimg1 #p1img1 {width:54px;height:97px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_2 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_2 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_3 #p3dimg1 {position:absolute;top:204px;left:63px;z-index:-1;width:112px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_3 #p3dimg1 #p3img1 {width:112px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  18px 'Verdana' !important;l-h: 29px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft2{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft3{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft4{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft5{font:  14px 'Verdana' !important;l-h: 23px;}
+
+.p0{text-align: left;padding-left: 0px;padding-right: 441px;margin-top: 26px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p4{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 0px;margin-top: 31px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 180px;padding-right: 378px;margin-top: 20px;margin-bottom: 0px !important;}
+.p8{text-align: right;padding-right: 42px;margin-top: 437px;margin-bottom: 0px !important;}
+.p9{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p10{text-align: left;margin-top: 753px;margin-bottom: 0px !important;}
+.p11{text-align: left;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;}
+.p12{text-align: left;padding-right: 63px;margin-top: 16px;margin-bottom: 0px !important;}
+.p13{text-align: left;margin-top: 17px;margin-bottom: 0px !important;}
+.p14{text-align: left;padding-right: 63px;margin-top: 15px;margin-bottom: 0px !important;}
+.p15{text-align: left;padding-left: 440px;margin-top: 0px;margin-bottom: 0px !important;}
+.p16{text-align: left;padding-left: 0px;margin-top: 33px;margin-bottom: 0px !important;}
+.p17{text-align: left;padding-left: 0px;margin-top: 14px;margin-bottom: 0px !important;}
+.p18{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 15px;margin-bottom: 0px !important;}
+.p19{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 76px;margin-bottom: 0px !important;}
+.p20{text-align: right;padding-right: 42px;margin-top: 471px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 405px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 121px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 405px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 121px;vertical-align: bottom;}
+
+.tr0{heightzzz: 27px;}
+.tr1{heightzzz: 23px;}
+.tr2{heightzzz: 24px;}
+
+.t0{width: 552px;margin-leftZ: 69px;margin-top: 11px;f:20px 'Verdana' !important;}
+
+&lt;/STYLE&gt;
+
+
+
+&lt;DIV id="page_1"&gt;
+&lt;DIV id="p1dimg1"&gt;
+&lt;INGENBILD zsrc="H6031491x1.jpg/" id="p1img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;DIV class="dclr"&gt;&lt;/DIV&gt;
+&lt;P class="p0 ft0"&gt;Regeringens skrivelse 2018/19:149&lt;/P&gt;
+&lt;TABLE cellpadding=0 cellspacing=0 class="t0"&gt;
+&lt;TR&gt;
+	&lt;TD class="tr0 td0"&gt;&lt;SPAN class="p1 ft1"&gt;Återkallelse av proposition 2017/18:285 Avtal&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr0 td1"&gt;&lt;SPAN class="p2 ft1"&gt;Skr.&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td0"&gt;&lt;SPAN class="p1 ft1"&gt;om politisk dialog och samarbete mellan&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td1"&gt;&lt;SPAN class="p2 ft1"&gt;2018/19:149&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr1 td0"&gt;&lt;SPAN class="p1 ft1"&gt;Europeiska unionen och dess medlemsstater, å&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr1 td1"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD class="tr2 td2"&gt;&lt;SPAN class="p1 ft1"&gt;ena sidan, och Republiken Kuba, å andra sidan&lt;/SPAN&gt; &lt;/TD&gt;
+	&lt;TD class="tr2 td3"&gt;&lt;SPAN class="p3 ft2"&gt; &lt;/SPAN&gt; &lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;P class="p4 ft3"&gt;Regeringen överlämnar denna skrivelse till riksdagen.&lt;/P&gt;
+&lt;P class="p5 ft3"&gt;Stockholm den 11 juni 2019&lt;/P&gt;
+&lt;P class="p6 ft4"&gt;Stefan Löfven&lt;/P&gt;
+&lt;P class="p7 ft4"&gt;Margot Wallström &lt;SPAN class="ft3"&gt;(Utrikesdepartementet)&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class="p8 ft3"&gt;1&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_2"&gt;
+
+
+&lt;DIV&gt;
+&lt;DIV id="id_1"&gt;
+&lt;P class="p9 ft3"&gt;Skr. 2018/19:149&lt;/P&gt;
+&lt;P class="p10 ft3"&gt;2&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;DIV id="id_2"&gt;
+&lt;P class="p11 ft5"&gt;Återkallelse av proposition 2017/18:285 Avtal om politisk dialog och samarbete mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Kuba, å andra sidan&lt;/P&gt;
+&lt;P class="p12 ft3"&gt;Den 26 juli 2018 överlämnade regeringen propositionen 2017/18:285 Avtal om politisk dialog och samarbete mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Kuba, å andra sidan till riksdagen. Propositionen är remitterad till Utrikesutskottet.&lt;/P&gt;
+&lt;P class="p13 ft4"&gt;Ärendet till riksdagen&lt;/P&gt;
+&lt;P class="p14 ft3"&gt;Regeringen återkallar propositionen 2017/18:285 Avtal om politisk dialog och samarbete mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Kuba, å andra sidan.&lt;/P&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;/DIV&gt;
+&lt;DIV id="page_3"&gt;
+&lt;DIV id="p3dimg1"&gt;
+&lt;INGENBILD zsrc="H6031493x1.jpg/" id="p3img1"&gt;
+&lt;/DIV&gt;
+
+
+&lt;P class="p15 ft3"&gt;Skr. 2018/19:149&lt;/P&gt;
+&lt;P class="p16 ft1"&gt;Utrikesdepartementet&lt;/P&gt;
+&lt;P class="p17 ft3"&gt;Utdrag ur protokoll vid regeringssammanträde den 11 juni 2019&lt;/P&gt;
+&lt;P class="p18 ft3"&gt;Närvarande: statsminister Löfven, ordförande, och statsråden Wallström, Andersson, Strandhäll, Linde, Lindhagen, Lind&lt;/P&gt;
+&lt;P class="p5 ft3"&gt;Föredragande: statsrådet Wallström&lt;/P&gt;
+&lt;P class="p19 ft3"&gt;Regeringen beslutar skrivelse Återkallelse av proposition 2017/18:285 Avtal om politisk dialog och samarbete mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Kuba, å andra sidan&lt;/P&gt;
+&lt;P class="p20 ft3"&gt;3&lt;/P&gt;
+&lt;/DIV&gt;
+
+&lt;/div&gt;&lt;style&gt;
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+&lt;/style&gt;
+</html>
+  </dokument>
+<dokaktivitet>
+<aktivitet>
+<kod datatype="string">INL</kod>
+<namn datatype="string">Inlämnad</namn>
+<datum datatype="datetime">2019-06-11 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">ÅTE</kod>
+<namn datatype="string">Återtagen</namn>
+<datum datatype="datetime">2019-06-12 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+<aktivitet>
+<kod datatype="string">MOT</kod>
+<namn datatype="string">Motionstid slutar</namn>
+<datum datatype="datetime">2019-06-19 00:00:00</datum>
+<status datatype="string">inträffat</status>
+<ordning datatype="int32">0</ordning>
+<process datatype="string">behandling</process>
+</aktivitet>
+</dokaktivitet>
+<dokintressent>
+<intressent>
+<intressent_id datatype="string">0218878014918</intressent_id>
+<namn datatype="string">Stefan Löfven</namn>
+<partibet datatype="string">S</partibet>
+<ordning datatype="int16">1</ordning>
+<roll datatype="string">Statsråd1</roll>
+</intressent>
+<intressent>
+<intressent_id datatype="string">0740457070816</intressent_id>
+<namn datatype="string">Margot Wallström</namn>
+<partibet datatype="string">S</partibet>
+<ordning datatype="int16">2</ordning>
+<roll datatype="string">Statsråd2</roll>
+</intressent>
+</dokintressent>
+<dokuppgift>
+<uppgift>
+<kod datatype="string">inlamnatav</kod>
+<namn datatype="string">Inlämnat av</namn>
+<text datatype="string">Utrikesdepartementet</text>
+<dok_id datatype="string">H603149</dok_id>
+<systemdatum datatype="datetime">2019-10-31 11:07:30</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">tilldelat</kod>
+<namn datatype="string">Tilldelat</namn>
+<text datatype="string" />
+<dok_id datatype="string">H603149</dok_id>
+<systemdatum datatype="datetime">2019-10-31 11:07:30</systemdatum>
+</uppgift>
+<uppgift>
+<kod datatype="string">statustext</kod>
+<namn datatype="string">statustext</namn>
+<text datatype="string">Skrivelsen är inlämnad</text>
+<dok_id datatype="string">H603149</dok_id>
+<systemdatum datatype="datetime">2019-06-11 11:20:46</systemdatum>
+</uppgift>
+</dokuppgift>
+<dokbilaga>
+<bilaga>
+<dok_id datatype="string">H603149</dok_id>
+<titel datatype="string">Återkallelse av proposition 2017/18:285 Avtal om politisk dialog och samarbete mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Kuba, å andra sidan</titel>
+<subtitel datatype="string" />
+<filnamn datatype="string">skr_201819__149.pdf</filnamn>
+<filstorlek datatype="int32">190938</filstorlek>
+<filtyp datatype="string">pdf</filtyp>
+<fil_url datatype="string">http://data.riksdagen.se/fil/7B2D46E8-3121-45A7-BBAC-306C9A60EA52</fil_url>
+</bilaga>
+</dokbilaga>
+<debatt /></dokumentstatus>

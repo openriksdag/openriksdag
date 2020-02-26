@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "adb5f4c4-e7fa-4f1b-8ae1-421694d1faf6",
+    "sourceid": "71cd30a2-f19d-4f1e-8ae7-8c32df9fbaba",
+    "intressent_id": "",
+    "hangar_id": "4788870",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Holgersson",
+    "tilltalsnamn": "Stefan",
+    "sorteringsnamn": "Holgersson,Stefan",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare justitieombudsman i Riksdagens ombudsmän",
+    "person_url_xml": "http://data.riksdagen.se/person/71cd30a2-f19d-4f1e-8ae7-8c32df9fbaba",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/71cd30a2-f19d-4f1e-8ae7-8c32df9fbaba_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/71cd30a2-f19d-4f1e-8ae7-8c32df9fbaba_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/71cd30a2-f19d-4f1e-8ae7-8c32df9fbaba_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "JO",
+        "roll_kod": "Justitieombudsman",
+        "ordningsnummer": "2",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2016-04-01",
+        "tom": "2017-09-17",
+        "uppgift": "Riksdagens ombudsmän",
+        "intressent_id": "",
+        "hangar_id": "4788870",
+        "sortering": "",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

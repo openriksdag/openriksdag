@@ -1,0 +1,58 @@
+{
+  "person": {
+    "hangar_guid": "94edd30c-6124-4099-ac63-f3e5fb1cee3d",
+    "sourceid": "18290c5d-8556-41db-aa67-dcac0d3e6853",
+    "intressent_id": "",
+    "hangar_id": "4788803",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Norgren",
+    "tilltalsnamn": "Claes",
+    "sorteringsnamn": "Norgren,Claes",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare riksrevisor med administrativt ansvar i Riksrevisorerna",
+    "person_url_xml": "http://data.riksdagen.se/person/18290c5d-8556-41db-aa67-dcac0d3e6853",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/18290c5d-8556-41db-aa67-dcac0d3e6853_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/18290c5d-8556-41db-aa67-dcac0d3e6853_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/18290c5d-8556-41db-aa67-dcac0d3e6853_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "RR",
+          "roll_kod": "Riksrevisor med administrativt ansvar",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2011-01-01",
+          "tom": "2015-07-01",
+          "uppgift": "Riksrevisorerna",
+          "intressent_id": "",
+          "hangar_id": "4788803",
+          "sortering": "",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RR",
+          "roll_kod": "Riksrevisor",
+          "ordningsnummer": "1",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2008-07-01",
+          "tom": "2010-12-31",
+          "uppgift": "Riksrevisorerna",
+          "intressent_id": "",
+          "hangar_id": "4788803",
+          "sortering": "",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

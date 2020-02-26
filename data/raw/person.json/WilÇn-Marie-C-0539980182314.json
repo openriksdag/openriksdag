@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "e75ec71d-6fc6-47c5-9c26-999c9e047ca6",
+    "sourceid": "3f85d354-5f52-4fdf-a421-7982544f2881",
+    "intressent_id": "0539980182314",
+    "hangar_id": "2343153",
+    "fodd_ar": "1961",
+    "kon": "kvinna",
+    "efternamn": "Wilén",
+    "tilltalsnamn": "Marie",
+    "sorteringsnamn": "Wilén,Marie",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Uppsala län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/3f85d354-5f52-4fdf-a421-7982544f2881",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3f85d354-5f52-4fdf-a421-7982544f2881_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3f85d354-5f52-4fdf-a421-7982544f2881_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3f85d354-5f52-4fdf-a421-7982544f2881_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "285",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1996-07-01",
+          "tom": "1998-10-05",
+          "uppgift": "",
+          "intressent_id": "0539980182314",
+          "hangar_id": "2343153",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "285",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "1996-03-11",
+          "tom": "1996-06-30",
+          "uppgift": "Rolf Edlund 1996-03-11 - 1996-06-30",
+          "intressent_id": "0539980182314",
+          "hangar_id": "2343153",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "285",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1994-10-03",
+          "tom": "1996-03-10",
+          "uppgift": "",
+          "intressent_id": "0539980182314",
+          "hangar_id": "2343153",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "BN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "1994-10-18",
+          "tom": "1998-10-05",
+          "uppgift": "Besvärsnämnden",
+          "intressent_id": "0539980182314",
+          "hangar_id": "2343153",
+          "sortering": "50",
+          "organ_sortering": "399",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1998-10-04",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0539980182314",
+          "hangar_id": "2343153",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1994-10-11",
+          "tom": "1998-10-04",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0539980182314",
+          "hangar_id": "2343153",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "fd pressekreterare",
+          "typ": "titlar",
+          "intressent_id": "0539980182314",
+          "hangar_id": "2343153"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0539980182314",
+          "hangar_id": "2343153"
+        }
+      ]
+    }
+  }
+}

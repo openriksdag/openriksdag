@@ -1,0 +1,130 @@
+{
+  "person": {
+    "hangar_guid": "2cf7056c-0bee-4563-a9bd-3b380872b407",
+    "sourceid": "c2abb052-6b20-11d7-ae78-0004755038ce",
+    "intressent_id": "0773506435611",
+    "hangar_id": "2342769",
+    "fodd_ar": "1953",
+    "kon": "man",
+    "efternamn": "Larsson",
+    "tilltalsnamn": "Anders",
+    "sorteringsnamn": "Larsson,Anders",
+    "iort": "",
+    "parti": "C",
+    "valkrets": "Örebro län",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/c2abb052-6b20-11d7-ae78-0004755038ce",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c2abb052-6b20-11d7-ae78-0004755038ce_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c2abb052-6b20-11d7-ae78-0004755038ce_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c2abb052-6b20-11d7-ae78-0004755038ce_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2005-04-18",
+          "tom": "2005-11-20",
+          "uppgift": "",
+          "intressent_id": "0773506435611",
+          "hangar_id": "2342769",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "0",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2003-05-05",
+          "tom": "2003-12-19",
+          "uppgift": "",
+          "intressent_id": "0773506435611",
+          "hangar_id": "2342769",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2005-04-18",
+          "tom": "2005-11-20",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0773506435611",
+          "hangar_id": "2342769",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2003-05-05",
+          "tom": "2003-12-19",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0773506435611",
+          "hangar_id": "2342769",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2005-04-18",
+          "tom": "2005-11-20",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0773506435611",
+          "hangar_id": "2342769",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2003-05-05",
+          "tom": "2003-12-19",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0773506435611",
+          "hangar_id": "2342769",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Webbsida",
+        "uppgift": "http://www.public.centerpartiet.se/anders.larsson/",
+        "typ": "eadress",
+        "intressent_id": "0773506435611",
+        "hangar_id": "2342769"
+      }
+    }
+  }
+}

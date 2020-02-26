@@ -1,0 +1,146 @@
+{
+  "person": {
+    "hangar_guid": "21efa0e2-7db6-4910-8101-57745cc3764b",
+    "sourceid": "53c95b05-6cf5-4eae-aee4-e40c5aba8cd1",
+    "intressent_id": "0716036604716",
+    "hangar_id": "3057274",
+    "fodd_ar": "1952",
+    "kon": "kvinna",
+    "efternamn": "Knutsson",
+    "tilltalsnamn": "Elisabet",
+    "sorteringsnamn": "Knutsson,Elisabet",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "Skåne läns norra och östra",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/53c95b05-6cf5-4eae-aee4-e40c5aba8cd1",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/53c95b05-6cf5-4eae-aee4-e40c5aba8cd1_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/53c95b05-6cf5-4eae-aee4-e40c5aba8cd1_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/53c95b05-6cf5-4eae-aee4-e40c5aba8cd1_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "39",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2014-10-03",
+          "tom": "2018-09-24",
+          "uppgift": "Gustav Fridolin",
+          "intressent_id": "0716036604716",
+          "hangar_id": "3057274",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-06-28",
+          "tom": "2018-09-24",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0716036604716",
+          "hangar_id": "3057274",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "20",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-14",
+          "tom": "2016-06-28",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0716036604716",
+          "hangar_id": "3057274",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SoU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-03-09",
+          "tom": "2018-09-24",
+          "uppgift": "Socialutskottet",
+          "intressent_id": "0716036604716",
+          "hangar_id": "3057274",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "10",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-06-28",
+          "tom": "2018-09-24",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0716036604716",
+          "hangar_id": "3057274",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "20",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-14",
+          "tom": "2016-06-28",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0716036604716",
+          "hangar_id": "3057274",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "Högstadielärare matte och No.",
+          "typ": "titlar",
+          "intressent_id": "0716036604716",
+          "hangar_id": "3057274"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0716036604716",
+          "hangar_id": "3057274"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "false",
+          "typ": "val",
+          "intressent_id": "0716036604716",
+          "hangar_id": "3057274"
+        }
+      ]
+    }
+  }
+}

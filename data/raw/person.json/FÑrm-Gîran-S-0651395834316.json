@@ -1,0 +1,48 @@
+{
+  "person": {
+    "hangar_guid": "512556fb-65e4-4cc8-a188-109970aaa0be",
+    "sourceid": "dd6cc92b-d91c-4b89-8405-50daa24bc9c5",
+    "intressent_id": "0651395834316",
+    "hangar_id": "2821436",
+    "fodd_ar": "1949",
+    "kon": "man",
+    "efternamn": "Färm",
+    "tilltalsnamn": "Göran",
+    "sorteringsnamn": "Färm,Göran",
+    "iort": "",
+    "parti": "S",
+    "valkrets": "",
+    "status": "Tidigare europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/dd6cc92b-d91c-4b89-8405-50daa24bc9c5",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dd6cc92b-d91c-4b89-8405-50daa24bc9c5_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dd6cc92b-d91c-4b89-8405-50daa24bc9c5_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dd6cc92b-d91c-4b89-8405-50daa24bc9c5_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "EP",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "13",
+        "status": "",
+        "typ": "Europaparlamentet",
+        "from": "2009-07-14",
+        "tom": "2014-07-01",
+        "uppgift": "Europaparlamentet",
+        "intressent_id": "0651395834316",
+        "hangar_id": "2821436",
+        "sortering": "30",
+        "organ_sortering": "100",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Webbsida",
+        "uppgift": "http://www.europarl.europa.eu/meps/sv/4265/GORAN_FARM.html",
+        "typ": "eadress",
+        "intressent_id": "0651395834316",
+        "hangar_id": "2821436"
+      }
+    }
+  }
+}

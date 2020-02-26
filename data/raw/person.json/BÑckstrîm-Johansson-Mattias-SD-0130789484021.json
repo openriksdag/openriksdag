@@ -1,0 +1,185 @@
+{
+  "person": {
+    "hangar_guid": "5fb07e96-8009-4abe-a3cc-7cd4b4ad1cac",
+    "sourceid": "cb0336b4-54a8-4384-abe3-8d6cbebc63fa",
+    "intressent_id": "0130789484021",
+    "hangar_id": "3057426",
+    "fodd_ar": "1985",
+    "kon": "man",
+    "efternamn": "Bäckström Johansson",
+    "tilltalsnamn": "Mattias",
+    "sorteringsnamn": "Bäckström Johansson,Mattias",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Kalmar län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/cb0336b4-54a8-4384-abe3-8d6cbebc63fa",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cb0336b4-54a8-4384-abe3-8d6cbebc63fa_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cb0336b4-54a8-4384-abe3-8d6cbebc63fa_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cb0336b4-54a8-4384-abe3-8d6cbebc63fa_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "34",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "0130789484021",
+          "hangar_id": "3057426",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "275",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "0130789484021",
+          "hangar_id": "3057426",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "SD",
+          "roll_kod": "Vice gruppledare",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "partiuppdrag",
+          "from": "2019-11-25",
+          "tom": "",
+          "uppgift": "Sverigedemokraterna",
+          "intressent_id": "0130789484021",
+          "hangar_id": "3057426",
+          "sortering": "30",
+          "organ_sortering": "",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "VPN",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2019-03-13",
+          "tom": "2022-03-14",
+          "uppgift": "Valprövningsnämnden",
+          "intressent_id": "0130789484021",
+          "hangar_id": "3057426",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "VPN",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2015-02-18",
+          "tom": "2019-03-13",
+          "uppgift": "Valprövningsnämnden",
+          "intressent_id": "0130789484021",
+          "hangar_id": "3057426",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2019-06-18",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "0130789484021",
+          "hangar_id": "3057426",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0130789484021",
+          "hangar_id": "3057426",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0130789484021",
+          "hangar_id": "3057426",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "mattias.backstrom.johansson[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "0130789484021",
+          "hangar_id": "3057426"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Reaktoroperatör.",
+          "typ": "titlar",
+          "intressent_id": "0130789484021",
+          "hangar_id": "3057426"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0130789484021",
+          "hangar_id": "3057426"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "0130789484021",
+          "hangar_id": "3057426"
+        }
+      ]
+    }
+  }
+}

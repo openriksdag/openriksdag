@@ -1,0 +1,208 @@
+{
+  "person": {
+    "hangar_guid": "5120c979-f774-4d31-8d53-9c7f6b44ac50",
+    "sourceid": "78e41c66-0d03-4914-9369-f03b795217e5",
+    "intressent_id": "055257333723",
+    "hangar_id": "3057164",
+    "fodd_ar": "1981",
+    "kon": "man",
+    "efternamn": "Sjöstedt",
+    "tilltalsnamn": "Oscar",
+    "sorteringsnamn": "Sjöstedt,Oscar",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Västmanlands län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/78e41c66-0d03-4914-9369-f03b795217e5",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/78e41c66-0d03-4914-9369-f03b795217e5_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/78e41c66-0d03-4914-9369-f03b795217e5_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/78e41c66-0d03-4914-9369-f03b795217e5_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "105",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "055257333723",
+          "hangar_id": "3057164",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "323",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "055257333723",
+          "hangar_id": "3057164",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "KD",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "32",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-10-09",
+          "tom": "2022-10-09",
+          "uppgift": "Krigsdelegationen",
+          "intressent_id": "055257333723",
+          "hangar_id": "3057164",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KD",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "35",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2014-10-14",
+          "tom": "2018-10-09",
+          "uppgift": "Krigsdelegationen",
+          "intressent_id": "055257333723",
+          "hangar_id": "3057164",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "RB",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2014-10-14",
+          "tom": "2014-10-23",
+          "uppgift": "Riksbanksfullmäktige",
+          "intressent_id": "055257333723",
+          "hangar_id": "3057164",
+          "sortering": "30",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "055257333723",
+          "hangar_id": "3057164",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "FiU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2018-09-24",
+          "uppgift": "Finansutskottet",
+          "intressent_id": "055257333723",
+          "hangar_id": "3057164",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "19",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-14",
+          "tom": "2016-12-20",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "055257333723",
+          "hangar_id": "3057164",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "19",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-14",
+          "tom": "2016-12-20",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "055257333723",
+          "hangar_id": "3057164",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "oscar.sjostedt[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "055257333723",
+          "hangar_id": "3057164"
+        },
+        {
+          "kod": "Tjänstetelefon",
+          "uppgift": "66449",
+          "typ": "telefonnummer",
+          "intressent_id": "055257333723",
+          "hangar_id": "3057164"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Nationalekonom.",
+          "typ": "titlar",
+          "intressent_id": "055257333723",
+          "hangar_id": "3057164"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "055257333723",
+          "hangar_id": "3057164"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "055257333723",
+          "hangar_id": "3057164"
+        }
+      ]
+    }
+  }
+}

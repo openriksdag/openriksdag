@@ -1,0 +1,82 @@
+{
+  "person": {
+    "hangar_guid": "c4d1decd-081e-4831-b9b0-f748c1c7c8db",
+    "sourceid": "4ba08315-b4b0-4eb6-9f46-b1039177d2da",
+    "intressent_id": "0765747165821",
+    "hangar_id": "5003712",
+    "fodd_ar": "1980",
+    "kon": "man",
+    "efternamn": "Jonsson",
+    "tilltalsnamn": "Marcus",
+    "sorteringsnamn": "Jonsson,Marcus",
+    "iort": "",
+    "parti": "KD",
+    "valkrets": "Stockholms län",
+    "status": "Tjänstgörande ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/4ba08315-b4b0-4eb6-9f46-b1039177d2da",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4ba08315-b4b0-4eb6-9f46-b1039177d2da_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4ba08315-b4b0-4eb6-9f46-b1039177d2da_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4ba08315-b4b0-4eb6-9f46-b1039177d2da_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "85",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2020-01-14",
+          "tom": "2020-02-20",
+          "uppgift": "Jakob Forssmed",
+          "intressent_id": "0765747165821",
+          "hangar_id": "5003712",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "SkU",
+          "roll_kod": "Extra suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2020-01-14",
+          "tom": "2020-02-20",
+          "uppgift": "Skatteutskottet",
+          "intressent_id": "0765747165821",
+          "hangar_id": "5003712",
+          "sortering": "55",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "UU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "26",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2020-01-23",
+          "tom": "2020-02-20",
+          "uppgift": "Utrikesutskottet",
+          "intressent_id": "0765747165821",
+          "hangar_id": "5003712",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Officiell e-postadress",
+        "uppgift": "marcus.jonsson[på]riksdagen.se",
+        "typ": "eadress",
+        "intressent_id": "0765747165821",
+        "hangar_id": "5003712"
+      }
+    }
+  }
+}

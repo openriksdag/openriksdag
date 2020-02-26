@@ -1,0 +1,75 @@
+{
+  "person": {
+    "hangar_guid": "a6b3315c-929d-49ff-afea-fb148753fd8b",
+    "sourceid": "0468abed-c234-4743-8632-24a17e5922b5",
+    "intressent_id": "0316358669112",
+    "hangar_id": "2343034",
+    "fodd_ar": "1958",
+    "kon": "man",
+    "efternamn": "Ohlsson",
+    "tilltalsnamn": "Thommy",
+    "sorteringsnamn": "Ohlsson,Thommy",
+    "iort": "",
+    "parti": "V",
+    "valkrets": "",
+    "status": "Tidigare ersättare",
+    "person_url_xml": "http://data.riksdagen.se/person/0468abed-c234-4743-8632-24a17e5922b5",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0468abed-c234-4743-8632-24a17e5922b5_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0468abed-c234-4743-8632-24a17e5922b5_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0468abed-c234-4743-8632-24a17e5922b5_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "257",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1992-11-16",
+          "tom": "1992-12-16",
+          "uppgift": "Björn Samuelson",
+          "intressent_id": "0316358669112",
+          "hangar_id": "2343034",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "UbU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1992-11-16",
+          "tom": "1992-12-16",
+          "uppgift": "Utbildningsutskottet",
+          "intressent_id": "0316358669112",
+          "hangar_id": "2343034",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "tågklarerare",
+          "typ": "titlar",
+          "intressent_id": "0316358669112",
+          "hangar_id": "2343034"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0316358669112",
+          "hangar_id": "2343034"
+        }
+      ]
+    }
+  }
+}

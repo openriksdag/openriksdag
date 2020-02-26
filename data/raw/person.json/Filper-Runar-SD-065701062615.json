@@ -1,0 +1,201 @@
+{
+  "person": {
+    "hangar_guid": "b98f7539-4822-40bc-ad67-00ee11fff771",
+    "sourceid": "49cb272f-9347-407a-bac0-06403fbec5b5",
+    "intressent_id": "065701062615",
+    "hangar_id": "3057175",
+    "fodd_ar": "1964",
+    "kon": "man",
+    "efternamn": "Filper",
+    "tilltalsnamn": "Runar",
+    "sorteringsnamn": "Filper,Runar",
+    "iort": "",
+    "parti": "SD",
+    "valkrets": "Värmlands län",
+    "status": "Tjänstgörande riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/49cb272f-9347-407a-bac0-06403fbec5b5",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/49cb272f-9347-407a-bac0-06403fbec5b5_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/49cb272f-9347-407a-bac0-06403fbec5b5_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/49cb272f-9347-407a-bac0-06403fbec5b5_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "72",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2018-09-24",
+          "tom": "2022-09-26",
+          "uppgift": "",
+          "intressent_id": "065701062615",
+          "hangar_id": "3057175",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "118",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2014-09-29",
+          "tom": "2018-09-24",
+          "uppgift": "",
+          "intressent_id": "065701062615",
+          "hangar_id": "3057175",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "JuU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "19",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-14",
+          "tom": "2017-03-02",
+          "uppgift": "Justitieutskottet",
+          "intressent_id": "065701062615",
+          "hangar_id": "3057175",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "19",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-14",
+          "tom": "2018-09-24",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "065701062615",
+          "hangar_id": "3057175",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "19",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2016-12-20",
+          "tom": "2017-06-21",
+          "uppgift": "Konstitutionsutskottet",
+          "intressent_id": "065701062615",
+          "hangar_id": "3057175",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "5",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2018-10-02",
+          "tom": "2022-09-26",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "065701062615",
+          "hangar_id": "3057175",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "13",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-06-07",
+          "tom": "2018-09-24",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "065701062615",
+          "hangar_id": "3057175",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2017-03-03",
+          "tom": "2017-06-07",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "065701062615",
+          "hangar_id": "3057175",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "6",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2014-10-07",
+          "tom": "2017-03-02",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "065701062615",
+          "hangar_id": "3057175",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "Officiell e-postadress",
+          "uppgift": "runar.filper[på]riksdagen.se",
+          "typ": "eadress",
+          "intressent_id": "065701062615",
+          "hangar_id": "3057175"
+        },
+        {
+          "kod": "sv",
+          "uppgift": "Hemmansägare.",
+          "typ": "titlar",
+          "intressent_id": "065701062615",
+          "hangar_id": "3057175"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "065701062615",
+          "hangar_id": "3057175"
+        },
+        {
+          "kod": "KandiderarINastaVal",
+          "uppgift": "true",
+          "typ": "val",
+          "intressent_id": "065701062615",
+          "hangar_id": "3057175"
+        }
+      ]
+    }
+  }
+}

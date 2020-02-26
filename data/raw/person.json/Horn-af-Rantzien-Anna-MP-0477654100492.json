@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "1be5cf5c-59c9-4ac2-bacc-cf527fb703fa",
+    "sourceid": "04f582fa-f635-456e-86d2-7b03476b660b",
+    "intressent_id": "0477654100492",
+    "hangar_id": "2341671",
+    "fodd_ar": "1924",
+    "kon": "kvinna",
+    "efternamn": "Horn af Rantzien",
+    "tilltalsnamn": "Anna",
+    "sorteringsnamn": "Horn af Rantzien,Anna",
+    "iort": "",
+    "parti": "MP",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/04f582fa-f635-456e-86d2-7b03476b660b",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/04f582fa-f635-456e-86d2-7b03476b660b_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/04f582fa-f635-456e-86d2-7b03476b660b_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/04f582fa-f635-456e-86d2-7b03476b660b_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "62",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1989-11-15",
+          "tom": "1991-09-30",
+          "uppgift": "",
+          "intressent_id": "0477654100492",
+          "hangar_id": "2341671",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "62",
+          "status": "Ledig",
+          "typ": "kammaruppdrag",
+          "from": "1989-10-14",
+          "tom": "1989-11-14",
+          "uppgift": "Karin Thomé 1989-10-14 - 1989-11-14",
+          "intressent_id": "0477654100492",
+          "hangar_id": "2341671",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "30"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "62",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1988-10-04",
+          "tom": "1989-10-13",
+          "uppgift": "",
+          "intressent_id": "0477654100492",
+          "hangar_id": "2341671",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Ledamot",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0477654100492",
+          "hangar_id": "2341671",
+          "sortering": "30",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1988-10-11",
+          "tom": "1991-09-29",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0477654100492",
+          "hangar_id": "2341671",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "författare, fil. mag.",
+          "typ": "titlar",
+          "intressent_id": "0477654100492",
+          "hangar_id": "2341671"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0477654100492",
+          "hangar_id": "2341671"
+        }
+      ]
+    }
+  }
+}

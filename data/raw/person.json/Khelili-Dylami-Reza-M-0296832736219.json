@@ -1,0 +1,114 @@
+{
+  "person": {
+    "hangar_guid": "60b8d3bc-bb70-4571-8c47-28b11ed2baef",
+    "sourceid": "1c0e172f-ee98-42d0-bc3f-ba4d0369a976",
+    "intressent_id": "0296832736219",
+    "hangar_id": "2343374",
+    "fodd_ar": "1967",
+    "kon": "man",
+    "efternamn": "Khelili Dylami",
+    "tilltalsnamn": "Reza",
+    "sorteringsnamn": "Khelili Dylami,Reza",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms kommun",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/1c0e172f-ee98-42d0-bc3f-ba4d0369a976",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1c0e172f-ee98-42d0-bc3f-ba4d0369a976_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1c0e172f-ee98-42d0-bc3f-ba4d0369a976_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1c0e172f-ee98-42d0-bc3f-ba4d0369a976_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "243",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "2008-05-08",
+          "tom": "2010-10-04",
+          "uppgift": "",
+          "intressent_id": "0296832736219",
+          "hangar_id": "2343374",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "81",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2007-09-18",
+          "tom": "2008-05-07",
+          "uppgift": "Fredrik Reinfeldt",
+          "intressent_id": "0296832736219",
+          "hangar_id": "2343374",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "110",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2006-11-16",
+          "tom": "2007-09-17",
+          "uppgift": "Beatrice Ask",
+          "intressent_id": "0296832736219",
+          "hangar_id": "2343374",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Statsrådsersättare",
+          "ordningsnummer": "51",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "2006-10-06",
+          "tom": "2006-11-15",
+          "uppgift": "Mikael Odenberg",
+          "intressent_id": "0296832736219",
+          "hangar_id": "2343374",
+          "sortering": "",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "AU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "3",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2006-10-10",
+          "tom": "2010-10-04",
+          "uppgift": "Arbetsmarknadsutskottet",
+          "intressent_id": "0296832736219",
+          "hangar_id": "2343374",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "Webbsida",
+        "uppgift": "http://www.rezas.org",
+        "typ": "eadress",
+        "intressent_id": "0296832736219",
+        "hangar_id": "2343374"
+      }
+    }
+  }
+}

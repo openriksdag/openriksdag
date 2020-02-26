@@ -1,0 +1,139 @@
+{
+  "person": {
+    "hangar_guid": "41446585-225c-4ddb-8a61-bb68ae999395",
+    "sourceid": "d7c32856-83e4-11d4-ae60-0050040c9b55",
+    "intressent_id": "0975144579503",
+    "hangar_id": "2342558",
+    "fodd_ar": "1949",
+    "kon": "kvinna",
+    "efternamn": "Dunker",
+    "tilltalsnamn": "Anne-Katrine",
+    "sorteringsnamn": "Dunker,Anne-Katrine",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Gävleborgs län",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/d7c32856-83e4-11d4-ae60-0050040c9b55",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c32856-83e4-11d4-ae60-0050040c9b55_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c32856-83e4-11d4-ae60-0050040c9b55_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c32856-83e4-11d4-ae60-0050040c9b55_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "311",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1998-10-05",
+          "tom": "2002-09-30",
+          "uppgift": "",
+          "intressent_id": "0975144579503",
+          "hangar_id": "2342558",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "RB",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "2",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2006-12-21",
+          "tom": "2010-10-19",
+          "uppgift": "Riksbanksfullmäktige",
+          "intressent_id": "0975144579503",
+          "hangar_id": "2342558",
+          "sortering": "50",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "KrU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "2002-09-30",
+          "uppgift": "Kulturutskottet",
+          "intressent_id": "0975144579503",
+          "hangar_id": "2342558",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "MJU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "2002-03-22",
+          "tom": "2002-09-29",
+          "uppgift": "Miljö- och jordbruksutskottet",
+          "intressent_id": "0975144579503",
+          "hangar_id": "2342558",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "LU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "2002-09-30",
+          "uppgift": "Lagutskottet",
+          "intressent_id": "0975144579503",
+          "hangar_id": "2342558",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "LU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1998-10-13",
+          "tom": "2002-01-01",
+          "uppgift": "Lagutskottet",
+          "intressent_id": "0975144579503",
+          "hangar_id": "2342558",
+          "sortering": "50",
+          "organ_sortering": "165",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "företagare",
+          "typ": "titlar",
+          "intressent_id": "0975144579503",
+          "hangar_id": "2342558"
+        },
+        {
+          "kod": "en",
+          "uppgift": "Businesswoman",
+          "typ": "titlar",
+          "intressent_id": "0975144579503",
+          "hangar_id": "2342558"
+        }
+      ]
+    }
+  }
+}

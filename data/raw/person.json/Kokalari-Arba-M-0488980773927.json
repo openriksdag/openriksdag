@@ -1,0 +1,48 @@
+{
+  "person": {
+    "hangar_guid": "324f5a07-0507-40af-ba52-f5e1bba94891",
+    "sourceid": "4690a9a1-b1d2-4f49-a3ee-a102d0e48f8a",
+    "intressent_id": "0488980773927",
+    "hangar_id": "3057114",
+    "fodd_ar": "1986",
+    "kon": "kvinna",
+    "efternamn": "Kokalari",
+    "tilltalsnamn": "Arba",
+    "sorteringsnamn": "Kokalari,Arba",
+    "iort": "",
+    "parti": "M",
+    "valkrets": "Stockholms kommun",
+    "status": "Europaparlamentariker",
+    "person_url_xml": "http://data.riksdagen.se/person/4690a9a1-b1d2-4f49-a3ee-a102d0e48f8a",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4690a9a1-b1d2-4f49-a3ee-a102d0e48f8a_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4690a9a1-b1d2-4f49-a3ee-a102d0e48f8a_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4690a9a1-b1d2-4f49-a3ee-a102d0e48f8a_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "EP",
+        "roll_kod": "Ledamot",
+        "ordningsnummer": "4",
+        "status": "",
+        "typ": "Europaparlamentet",
+        "from": "2019-07-02",
+        "tom": "2024-07-02",
+        "uppgift": "Europaparlamentet",
+        "intressent_id": "0488980773927",
+        "hangar_id": "3057114",
+        "sortering": "30",
+        "organ_sortering": "100",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": {
+      "uppgift": {
+        "kod": "KandiderarINastaVal",
+        "uppgift": "true",
+        "typ": "val",
+        "intressent_id": "0488980773927",
+        "hangar_id": "3057114"
+      }
+    }
+  }
+}

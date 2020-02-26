@@ -1,0 +1,40 @@
+{
+  "person": {
+    "hangar_guid": "1ecefc78-7d40-4766-9ad7-d06f576f52a4",
+    "sourceid": "20b7c99a-4382-4c7c-b7a4-8f29e83c3cc3",
+    "intressent_id": "",
+    "hangar_id": "4788816",
+    "fodd_ar": "0",
+    "kon": "man",
+    "efternamn": "Pennlöv",
+    "tilltalsnamn": "Jan",
+    "sorteringsnamn": "Pennlöv,Jan",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Tidigare ställföreträdande ombudsman i Riksdagens ombudsmän",
+    "person_url_xml": "http://data.riksdagen.se/person/20b7c99a-4382-4c7c-b7a4-8f29e83c3cc3",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/20b7c99a-4382-4c7c-b7a4-8f29e83c3cc3_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/20b7c99a-4382-4c7c-b7a4-8f29e83c3cc3_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/20b7c99a-4382-4c7c-b7a4-8f29e83c3cc3_max.jpg",
+    "personuppdrag": {
+      "uppdrag": {
+        "organ_kod": "JO",
+        "roll_kod": "Ställföreträdande ombudsman",
+        "ordningsnummer": "5",
+        "status": "",
+        "typ": "Riksdagsorgan",
+        "from": "2009-01-01",
+        "tom": "2012-05-31",
+        "uppgift": "Riksdagens ombudsmän",
+        "intressent_id": "",
+        "hangar_id": "4788816",
+        "sortering": "",
+        "organ_sortering": "300",
+        "uppdrag_rollsortering": "90",
+        "uppdrag_statussortering": "90"
+      }
+    },
+    "personuppgift": ""
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "person": {
+    "hangar_guid": "583fa264-af43-4eb9-a731-ee2062146df0",
+    "sourceid": "48cd5fa5-4c8e-4b19-a1c9-eaa72eca16ee",
+    "intressent_id": "",
+    "hangar_id": "4788800",
+    "fodd_ar": "0",
+    "kon": "kvinna",
+    "efternamn": "Billum",
+    "tilltalsnamn": "Susanne",
+    "sorteringsnamn": "Billum,Susanne",
+    "iort": "",
+    "parti": "",
+    "valkrets": "",
+    "status": "Ordförande i Riksdagens överklagandenämnd",
+    "person_url_xml": "http://data.riksdagen.se/person/48cd5fa5-4c8e-4b19-a1c9-eaa72eca16ee",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/48cd5fa5-4c8e-4b19-a1c9-eaa72eca16ee_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/48cd5fa5-4c8e-4b19-a1c9-eaa72eca16ee_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/48cd5fa5-4c8e-4b19-a1c9-eaa72eca16ee_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "ÖN",
+          "roll_kod": "Ordförande",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2018-10-09",
+          "tom": "2022-10-09",
+          "uppgift": "Riksdagens överklagandenämnd",
+          "intressent_id": "",
+          "hangar_id": "4788800",
+          "sortering": "10",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "ÖN",
+          "roll_kod": "Ordförande",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2014-10-14",
+          "tom": "2018-10-09",
+          "uppgift": "Riksdagens överklagandenämnd",
+          "intressent_id": "",
+          "hangar_id": "4788800",
+          "sortering": "10",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "ÖN",
+          "roll_kod": "Ordförande",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2010-10-19",
+          "tom": "2014-10-14",
+          "uppgift": "Riksdagens överklagandenämnd",
+          "intressent_id": "",
+          "hangar_id": "4788800",
+          "sortering": "10",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "ÖN",
+          "roll_kod": "Ordförande",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "Riksdagsorgan",
+          "from": "2006-10-17",
+          "tom": "2010-10-19",
+          "uppgift": "Riksdagens överklagandenämnd",
+          "intressent_id": "",
+          "hangar_id": "4788800",
+          "sortering": "10",
+          "organ_sortering": "300",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": ""
+  }
+}

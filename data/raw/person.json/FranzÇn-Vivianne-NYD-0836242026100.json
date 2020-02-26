@@ -1,0 +1,123 @@
+{
+  "person": {
+    "hangar_guid": "55dd6310-59d4-468c-bcf2-69f9b6047af3",
+    "sourceid": "88d78e7e-a5c1-4d79-b9f9-c33e6a5d96fb",
+    "intressent_id": "0836242026100",
+    "hangar_id": "2342219",
+    "fodd_ar": "1943",
+    "kon": "kvinna",
+    "efternamn": "Franzén",
+    "tilltalsnamn": "Vivianne",
+    "sorteringsnamn": "Franzén,Vivianne",
+    "iort": "",
+    "parti": "NYD",
+    "valkrets": "",
+    "status": "Tidigare riksdagsledamot",
+    "person_url_xml": "http://data.riksdagen.se/person/88d78e7e-a5c1-4d79-b9f9-c33e6a5d96fb",
+    "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/88d78e7e-a5c1-4d79-b9f9-c33e6a5d96fb_80.jpg",
+    "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/88d78e7e-a5c1-4d79-b9f9-c33e6a5d96fb_192.jpg",
+    "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/88d78e7e-a5c1-4d79-b9f9-c33e6a5d96fb_max.jpg",
+    "personuppdrag": {
+      "uppdrag": [
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Riksdagsledamot",
+          "ordningsnummer": "0",
+          "status": "Tjänstgörande",
+          "typ": "kammaruppdrag",
+          "from": "1993-12-18",
+          "tom": "1994-10-03",
+          "uppgift": "",
+          "intressent_id": "0836242026100",
+          "hangar_id": "2342219",
+          "sortering": "10",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "10"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "191",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1993-11-18",
+          "tom": "1993-12-17",
+          "uppgift": "Bengt Dalström",
+          "intressent_id": "0836242026100",
+          "hangar_id": "2342219",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "kam",
+          "roll_kod": "Ersättare",
+          "ordningsnummer": "250",
+          "status": "Ersättare",
+          "typ": "kammaruppdrag",
+          "from": "1992-11-13",
+          "tom": "1992-12-13",
+          "uppgift": "Lars Moquist",
+          "intressent_id": "0836242026100",
+          "hangar_id": "2342219",
+          "sortering": "45",
+          "organ_sortering": "10",
+          "uppdrag_rollsortering": "60",
+          "uppdrag_statussortering": "20"
+        },
+        {
+          "organ_kod": "NU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1993-11-18",
+          "tom": "1993-12-17",
+          "uppgift": "Näringsutskottet",
+          "intressent_id": "0836242026100",
+          "hangar_id": "2342219",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        },
+        {
+          "organ_kod": "SfU",
+          "roll_kod": "Suppleant",
+          "ordningsnummer": "0",
+          "status": "",
+          "typ": "uppdrag",
+          "from": "1992-11-13",
+          "tom": "1992-12-13",
+          "uppgift": "Socialförsäkringsutskottet",
+          "intressent_id": "0836242026100",
+          "hangar_id": "2342219",
+          "sortering": "50",
+          "organ_sortering": "150",
+          "uppdrag_rollsortering": "90",
+          "uppdrag_statussortering": "90"
+        }
+      ]
+    },
+    "personuppgift": {
+      "uppgift": [
+        {
+          "kod": "sv",
+          "uppgift": "kosmetolog",
+          "typ": "titlar",
+          "intressent_id": "0836242026100",
+          "hangar_id": "2342219"
+        },
+        {
+          "kod": "en",
+          "uppgift": "",
+          "typ": "titlar",
+          "intressent_id": "0836242026100",
+          "hangar_id": "2342219"
+        }
+      ]
+    }
+  }
+}

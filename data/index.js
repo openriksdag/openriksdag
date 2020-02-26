@@ -2,6 +2,7 @@ import fs from 'promise-fs'
 import path from 'path'
 import Monet from 'monet'
 import csvParse from 'csv-parse'
+
 const Maybe = Monet.Maybe
 
 const peoplesDir = 'raw/person.json'
@@ -20,7 +21,13 @@ const isActiveMember = (record) => {
   return status.equals(Maybe.of('Tjänstgörande riksdagsledamot'))
 }
 
-const readPeopleCsv = () => fs.readFile('raw/person.csv').then(csvParse)
+const readPeopleCsv = () => fs.readFile('raw/person.csv').then(input => csvParse(input, {
+  columns: true,
+  quote: '"',
+  trim: true,
+  delimiter: ',',
+  record_delimiter: '\l\r'
+}))
 
 // readPeople().then((people) => {
 //   console.log(`Got ${people.length} entries`)

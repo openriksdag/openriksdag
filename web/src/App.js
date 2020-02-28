@@ -1,6 +1,6 @@
 import React from "react";
 import RiksdagChart from "./components/RiksdagChart";
-import Layout from "./layout.js";
+import Layout from "./components/layout.js";
 
 function App() {
   return (

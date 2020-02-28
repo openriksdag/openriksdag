@@ -11,6 +11,7 @@ const Layout = ({ children }) => {
           Decision-making in the Swedish parliamentary system
         </div>
       </div>
+      <div className="content">{children}</div>
       <div className="navbar">
         <div className="rotation-wrapper-outer">
           <div className="rotation-wrapper-inner">
@@ -22,13 +23,13 @@ const Layout = ({ children }) => {
             <div className="link">About the project</div>
           </div>
         </div>
+
         <div id="git">
           <a href="https://github.com/openriksdag/openriksdag">
             <img alt="Git" src={gitlogo}></img>
           </a>
         </div>
       </div>
-      {children}
     </div>
   );
 };

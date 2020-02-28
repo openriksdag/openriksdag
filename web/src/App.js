@@ -1,8 +1,13 @@
 import React from "react";
+import "./App.css";
+import RiksdagChart from "./components/RiksdagChart";
 import Layout from "./layout.js";
 
 function App() {
-  return <Layout>Beautiful content</Layout>;
+  return (
+       <Layout><RiksdagChart /></Layout>;
+  );
+
 }
 
 export default App;

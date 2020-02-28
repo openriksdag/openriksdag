@@ -1,6 +1,6 @@
 import React from "react";
 import "./layout.css";
-import gitlogo from "./images/github.png";
+import gitlogo from "../images/github.png";
 
 const Layout = ({ children }) => {
   return (

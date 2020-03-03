@@ -7,7 +7,7 @@ function App() {
   return (
     <Layout>
       <MotionsSquare type="Motions" />
-      <RiksdagChart />
+      <MotionsSquare type="Proposals" />
     </Layout>
   );
 }

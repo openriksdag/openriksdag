@@ -15,19 +15,22 @@ const data = [
 ];
 
 const MotionsSquare = props => {
-  const { type } = props;
+  const { type, reverse } = props;
   //Make an SVG Container
   const outerRadius = 200;
 
   return (
-    <figure className="squareContainer">
-      <span className="type">{type}</span>
-      <div className="motionContainer">
-        {data.map((d, i) => (
-          <div key={i} className="motion"></div>
-        ))}
-      </div>
-    </figure>
+    <div className="wrapper">
+      <span className="info">Motions & Proposals</span>
+      <figure className="squareContainer">
+        <span className="type">{type}</span>
+        <div className="motionContainer">
+          {data.map((d, i) => (
+            <div key={i} className="motion"></div>
+          ))}
+        </div>
+      </figure>
+    </div>
   );
 };
 

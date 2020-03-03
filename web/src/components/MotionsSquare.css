@@ -1,3 +1,13 @@
+.wrapper {
+  display: flex;
+}
+
+.info {
+  text-align: end;
+  padding: 12px;
+  font-size: 10pt;
+  width: 70px;
+}
 .squareContainer {
   display: flex;
   justify-content: center;
@@ -6,6 +16,8 @@
   width: 144px;
   height: 122px;
   background-color: #eaeaea;
+  color: #d9d9d9;
+  font-size: 15pt;
   margin: 0;
   padding: 0px;
 }

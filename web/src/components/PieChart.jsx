@@ -1,14 +1,22 @@
 import React from "react";
 import * as d3 from "d3";
 
-const Arc = ({ data, index, createArc, colors, format }) => (
-  <g key={index} className="arc">
-    <path className="arc" d={createArc(data)} fill={colors(index)} />
-  </g>
-);
+const Arc = ({data, index, createArc}) =>
+  (
+    <g key={index} className="arc">
+      <path className="arc" d={createArc(data)} fill={data.data.color}/>
+    </g>
+  );
 
 const PieChart = props => {
-  const { innerRadius, outerRadius, height, width, data, partyColors } = props;
+  const {
+    innerRadius,
+    outerRadius,
+    height,
+    width,
+    data,
+    numCircles
+  } = props;
   const createPie = d3
     .pie()
     .startAngle(-90 * (Math.PI / 180))
@@ -22,11 +30,27 @@ const PieChart = props => {
 
   const format = d3.format(".2f");
   const pieData = createPie(data);
-  console.log(pieData.map(item => item.data.label));
-  const colors = d3
-    .scaleOrdinal()
-    .domain(pieData.map(item => item.data.label))
-    .range(partyColors);
+
+  const createCircles = num => {
+    const circles = [];
+    const distToCenter = innerRadius + (outerRadius - innerRadius) / 2; //hypotenuse
+    for (let n = 1; n <= num; n++) {
+      const angleDeg = (180 * (2 * n - 1)) / (num * 2);
+      const angle = (angleDeg * Math.PI) / 180; // in radians
+      const x = distToCenter * Math.cos(-angle);
+      const y = distToCenter * Math.sin(-angle);
+      circles.push(
+        <circle
+          cx={x}
+          cy={y}
+          r="4"
+          key={n}
+          style={{position: "absolute", fill: "rgba(255, 255, 255, 0.8)"}}
+        />
+      );
+    }
+    return circles;
+  };
   return (
     <svg width={width} height={height}>
       <g transform={`translate(${outerRadius} ${outerRadius})`}>
@@ -36,10 +60,10 @@ const PieChart = props => {
             data={d}
             index={i}
             createArc={createArc}
-            colors={colors}
             format={format}
           />
         ))}
+        {createCircles(numCircles).map(i => i)}
       </g>
     </svg>
   );

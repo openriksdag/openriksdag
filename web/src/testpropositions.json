@@ -1,0 +1,54 @@
+{
+  "H60393": {
+    "dok_id": "H60393",
+    "organ": "Justitiedepartementet",
+    "publicerad": "2019-04-02 00:00:00",
+    "mottagare": "NU",
+    "subtyp": "prop",
+    "attachments": [
+      {
+        "url": "http://data.riksdagen.se/fil/683757F2-0501-4BE2-8295-344ED427277F",
+        "titel": "Skydd f\u00f6r beteckningar som omfattas av EU:s handelsavtal med Japan"
+      }
+    ],
+    "references": [{ "type": "bet", "dok_id": "H601NU16" }],
+    "intressent": [
+      {
+        "intressent_id": "0218878014918",
+        "namn": "Stefan L\u00f6fven",
+        "partibet": "S"
+      },
+      {
+        "intressent_id": "0473783431010",
+        "namn": "Morgan Johansson",
+        "partibet": "S"
+      }
+    ]
+  },
+  "H60385": {
+    "dok_id": "H60385",
+    "organ": "Socialdepartementet",
+    "publicerad": "2019-04-02 00:00:00",
+    "mottagare": "SoU",
+    "subtyp": "prop",
+    "attachments": [
+      {
+        "url": "http://data.riksdagen.se/fil/76D77F0C-2277-48C6-ADEA-C52CF1BA297E",
+        "titel": "Vissa \u00e4ndringar som g\u00e4ller PKU-biobanken"
+      }
+    ],
+    "references": [{ "type": "bet", "dok_id": "H601SoU19" }],
+    "intressent": [
+      {
+        "intressent_id": "0218878014918",
+        "namn": "Stefan L\u00f6fven",
+        "partibet": "S"
+      },
+      {
+        "intressent_id": "0530425150220",
+        "namn": "Annika Strandh\u00e4ll",
+        "partibet": "S"
+      }
+    ]
+  }
+}

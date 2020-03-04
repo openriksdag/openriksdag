@@ -4,34 +4,24 @@ import "./RiksdagsChart.css";
 
 const RiksdagChart = props => {
   const data = [
-    { label: "V", value: 27 },
-    { label: "S", value: 100 },
-    { label: "MP", value: 16 },
-    { label: "SD", value: 62 },
-    { label: "M", value: 70 },
-    { label: "C", value: 31 },
-    { label: "L", value: 19 },
-    { label: "KD", value: 22 }
-  ];
-  const partyColors = [
-    "#9B0100",
-    "#EE1F21",
-    "#53a045",
-    "#DBBE13",
-    "#32ABFF",
-    "#017A26",
-    "#3D6BFF",
-    "#1F3B96"
+    {label: "V", value: 27, color: "#9B0100"},
+    {label: "S", value: 100, color: "#EE1F21"},
+    {label: "MP", value: 16, color: "#53a045"},
+    {label: "SD", value: 62, color: "#DBBE13"},
+    {label: "M", value: 70, color: "#32ABFF"},
+    {label: "C", value: 31, color: "#017A26"},
+    {label: "L", value: 19, color: "#3D6BFF"},
+    {label: "KD", value: 22, color: "#1F3B96"}
   ];
 
-  const createPieCharts = numBows => {
+  const createPieCharts = numberOfArcs => {
     let pieCharts = [];
     let width = 700;
     let height = 115;
     let innerRadius = 100;
     let numCircles = 22;
-    let left = 15 * numBows;
-    for (var i = 0; i < numBows; i++) {
+    let left = 15 * numberOfArcs;
+    for (let i = 0; i < numberOfArcs; i++) {
       height = height + 15;
       innerRadius = innerRadius + 15;
       numCircles = numCircles + 3;
@@ -40,7 +30,7 @@ const RiksdagChart = props => {
         <div
           className="pie-chart"
           key={numCircles}
-          style={{ left: `${left}px` }}
+          style={{left: `${left}px`}}
         >
           <PieChart
             key={numCircles}
@@ -49,7 +39,6 @@ const RiksdagChart = props => {
             height={height}
             innerRadius={innerRadius - 1} // remove 1 px gutter
             outerRadius={height}
-            partyColors={partyColors}
             numCircles={numCircles}
           />
         </div>

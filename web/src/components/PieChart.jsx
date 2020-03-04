@@ -1,11 +1,13 @@
 import React from "react";
 import * as d3 from "d3";
 
-const Arc = ({ data, index, createArc, colors, format }) => (
-  <g key={index} className="arc">
-    <path className="arc" d={createArc(data)} fill={colors(index)} />
-  </g>
-);
+const Arc = ({data, index, createArc}) =>
+  (
+    <g key={index} className="arc">
+      <path className="arc" d={createArc(data)} fill={data.data.color}/>
+    </g>
+  );
+
 const PieChart = props => {
   const {
     innerRadius,
@@ -13,7 +15,6 @@ const PieChart = props => {
     height,
     width,
     data,
-    partyColors,
     numCircles
   } = props;
   const createPie = d3
@@ -29,15 +30,11 @@ const PieChart = props => {
 
   const format = d3.format(".2f");
   const pieData = createPie(data);
-  const colors = d3
-    .scaleOrdinal()
-    .domain(pieData.map(item => item.data.label))
-    .range(partyColors);
 
   const createCircles = num => {
     const circles = [];
     const distToCenter = innerRadius + (outerRadius - innerRadius) / 2; //hypotenuse
-    for (var n = 1; n <= num; n++) {
+    for (let n = 1; n <= num; n++) {
       const angleDeg = (180 * (2 * n - 1)) / (num * 2);
       const angle = (angleDeg * Math.PI) / 180; // in radians
       const x = distToCenter * Math.cos(-angle);
@@ -48,8 +45,8 @@ const PieChart = props => {
           cy={y}
           r="4"
           key={n}
-          style={{ position: "absolute", fill: "rgba(255, 255, 255, 0.8)" }}
-        ></circle>
+          style={{position: "absolute", fill: "rgba(255, 255, 255, 0.8)"}}
+        />
       );
     }
     return circles;
@@ -63,7 +60,6 @@ const PieChart = props => {
             data={d}
             index={i}
             createArc={createArc}
-            colors={colors}
             format={format}
           />
         ))}

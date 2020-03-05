@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import RiksdagChart from "./components/RiksdagChart/RiksdagChart";
-import Layout from "./components/layout";
+import Layout from "./components/Layout/Layout";
 import ChartWrapper from "./ChartWrapper";
 import MotionsSquare from "./components/MotionsSquare";
 import { useSelector } from "react-redux";
@@ -16,18 +16,20 @@ function App(props) {
   return (
     <Layout>
       <RiksdagChart people={peopleData} hovered={hovered} />
-      <MotionsSquare
-        type="Motions"
-        description="Motions & Proposals"
-        data={motionsData}
-      />
+      <div className="motions-container">
+        <MotionsSquare
+          type="Motions"
+          description="Motions & Proposals"
+          data={motionsData}
+        />
+        <MotionsSquare
+          type="Proposals"
+          description="Proposals for decision"
+          data={propoData}
+          reverse
+        />
+      </div>
       <ChartWrapper />
-      <MotionsSquare
-        type="Proposals"
-        description="Proposals for decision"
-        data={propoData}
-        reverse
-      />
     </Layout>
   );
 }

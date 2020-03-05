@@ -1,6 +1,6 @@
 import React from "react";
-import "./layout.css";
-import gitlogo from "../images/github.png";
+import "./Layout.css";
+import gitlogo from "../../images/github.png";
 
 const Layout = ({ children }) => {
   return (
@@ -11,7 +11,13 @@ const Layout = ({ children }) => {
           Decision-making in the Swedish parliamentary system
         </div>
       </div>
-      <div className="content">{children}</div>
+      <div className="content">
+        {children.map((chart, index) => (
+          <div className="chart" key={index}>
+            {chart}
+          </div>
+        ))}
+      </div>
       <div className="navbar">
         <div className="rotation-wrapper-outer">
           <div className="rotation-wrapper-inner">

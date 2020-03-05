@@ -20,7 +20,7 @@
 
 .content {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
@@ -63,4 +63,11 @@
 
 img {
   width: 55%;
+}
+
+.motions-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100vw;
 }

@@ -1,4 +1,4 @@
-import React from "react";
+import React, {useMemo} from "react";
 import "./RiksdagsChart.css";
 import * as R from 'ramda'
 
@@ -24,11 +24,7 @@ const partyData = [
   {label: "KD", name: "Kristdemokraterna", logo: kristdemokraternaLogo, color: "#1F3B96"}
 ]
 
-const RiksdagChart = props => {
-  const {people} = props;
-
-  const validRoleStatuses = ['Tjänstgörande', 'Ersättare']
-
+function arrangeRepresentativesInArcs(numArcs, validRoleStatuses, people) {
   const isChamberMemberAsOf = (date) => ({party, roles}) =>
     (party !== "-" && roles.some(({organ, status, from, to}) =>
         organ === 'kam' && date >= from && date <= to && R.includes(status, validRoleStatuses)
@@ -38,14 +34,6 @@ const RiksdagChart = props => {
   const membersByParty = R.groupBy(x => x.party,
     R.filter(isChamberMemberAsOf('2020-02-01'), R.values(people))
   )
-
-  const numArcs = 10,
-    chartWidth = 700,
-    chartHeight = 300,
-    chartTopPadding = 30,
-    chartBottomPadding = 5,
-    innerRadius = 100,
-    arcWidth = ((chartHeight - innerRadius - chartTopPadding) / numArcs);
 
   const arcSeats = R.range(0, numArcs).map(i => 22 + i * 3)
 
@@ -66,6 +54,26 @@ const RiksdagChart = props => {
   }
 
   const [ignore, arcs] = R.mapAccum(membersToArc, membersByParty, arcSeats)
+  return arcs
+}
+
+const RiksdagChart = props => {
+  const {people} = props;
+
+  const numArcs = 10,
+    chartWidth = 700,
+    chartHeight = 300,
+    chartTopPadding = 30,
+    chartBottomPadding = 5,
+    innerRadius = 100,
+    arcWidth = ((chartHeight - innerRadius - chartTopPadding) / numArcs);
+
+  const validRoleStatuses = ['Tjänstgörande', 'Ersättare']
+
+  const arcs = useMemo(
+    () => arrangeRepresentativesInArcs(numArcs, validRoleStatuses, people), [numArcs, validRoleStatuses, people]
+  )
+
   return <div className="pie-container">
     <svg width={chartWidth} height={chartHeight + chartBottomPadding}>
       {arcs.map((arcData, index) =>

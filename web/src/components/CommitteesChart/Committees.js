@@ -35,11 +35,11 @@ export default class Committees {
             .attr("cy", d => d.cy)
             .attr("r", d => d.r)
             .attr("fill", d => d.color)
-            .on("mouseover", function () {
-                d3.select(this).attr("fill", "black")
-            })
             .on("mouseout", function () {
                 d3.select(this).attr("fill", "#999999")
+            })
+            .on("mousemove", function () {
+                d3.select(this).attr("fill", "black")
             })
 
 
@@ -54,13 +54,6 @@ export default class Committees {
             .attr("text-anchor", "middle")
             .attr("fill", "white")
             .text("AU")
-
-
-
-
-
-
-
 
 
     }

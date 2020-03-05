@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Committees from './Committees'
 
-export default class ChartWrapper extends Component {
+export default class CommitteesWrapper extends Component {
     componentDidMount() {
         new Committees(this.refs.committeesChart);
     }

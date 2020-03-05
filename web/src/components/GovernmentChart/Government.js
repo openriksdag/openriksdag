@@ -17,7 +17,7 @@ export default class Government {
 
     var margin = { top: 10, right: 10, buttom: 10, left: 10 },
       width = 400,
-      height = 400;
+      height = 320;
 
     var svg = d3
       .select(element)
@@ -25,7 +25,7 @@ export default class Government {
       .attr("height", height)
       .attr("width", width)
       .append("g")
-      .attr("transform", "translate(200,200)");
+      .attr("transform", "translate(175,80)");
 
     svg
       .append("path")

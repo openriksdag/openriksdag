@@ -23,8 +23,12 @@ export default class Committees {
 
         var svg = d3.select(element)
             .append("svg")
-            .attr("height", 300)
+            .attr("height", 200)
             .attr("width", 400)
+            .append("g")
+            .attr("transform", "translate(0,-60)")
+
+
 
         const circles = svg.selectAll("circle")
             .data(data)

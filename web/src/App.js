@@ -23,14 +23,16 @@ function App(props) {
           description="Motions and Proposals"
           data={motionsData}
         />
+        <GovernmentChart />
         <MotionsChart
           type="Proposals"
           description="Proposals for decision"
           data={propoData}
           reverse
         />
+
       </div>
-      <GovernmentChart />
+
       <CommitteesChart />
 
 

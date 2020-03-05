@@ -1,13 +1,12 @@
 import React from "react";
 import "./MotionsSquare.css";
 import { values } from "ramda";
-import testData from "../testpropositions.json";
 
 const Title = props => {
-  const { id } = props;
+  const { id, data } = props;
   let title = "";
   let url = "";
-  values(testData).map((d, i) => {
+  values(data).map((d, i) => {
     if (i === id) {
       title = d.attachments[0].titel;
       url = d.attachments[0].url;
@@ -27,20 +26,20 @@ function changeTitle() {
 }
 
 const MotionsSquare = props => {
-  const { type, description, reverse } = props;
+  const { type, description, reverse, data } = props;
 
   return (
     <div className={reverse ? "wrapper reverse" : "wrapper"}>
       <div className={reverse ? "infoContainer flipText" : "infoContainer"}>
         <span id="description">{description}</span>
-        <Title id={0}></Title>
+        <Title id={12} data={data}></Title>
       </div>
 
       <figure className="squareContainer">
         <span className="motionType">{type}</span>
 
         <div className="motionContainer">
-          {values(testData).map((d, i) => (
+          {values(data).map((d, i) => (
             <div
               key={i}
               className="motion"

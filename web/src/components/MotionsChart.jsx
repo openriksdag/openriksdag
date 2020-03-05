@@ -1,5 +1,5 @@
 import React from "react";
-import "./MotionsSquare.css";
+import "./MotionsChart.css";
 import { values } from "ramda";
 
 const Title = props => {
@@ -25,7 +25,7 @@ function changeTitle() {
   console.log("Getting motion id and changing title");
 }
 
-const MotionsSquare = props => {
+const MotionsChart = props => {
   const { type, description, reverse, data } = props;
 
   return (
@@ -53,4 +53,4 @@ const MotionsSquare = props => {
   );
 };
 
-export default MotionsSquare;
+export default MotionsChart;

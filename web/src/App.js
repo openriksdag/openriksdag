@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import RiksdagChart from "./components/RiksdagChart/RiksdagChart";
 import Layout from "./components/Layout/Layout";
 import ChartWrapper from "./ChartWrapper";
-import MotionsSquare from "./components/MotionsSquare";
+import MotionsChart from "./components/MotionsChart";
 import { useSelector } from "react-redux";
 
 import propoData from "./data/propositions.json";
@@ -16,13 +16,13 @@ function App(props) {
   return (
     <Layout>
       <RiksdagChart people={peopleData} hovered={hovered} />
-      <div className="motions-container">
-        <MotionsSquare
+      <div className="mid-section">
+        <MotionsChart
           type="Motions"
-          description="Motions & Proposals"
+          description="Motions and Proposals"
           data={motionsData}
         />
-        <MotionsSquare
+        <MotionsChart
           type="Proposals"
           description="Proposals for decision"
           data={propoData}

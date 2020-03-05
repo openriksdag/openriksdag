@@ -35,6 +35,13 @@ export default class Committees {
             .attr("cy", d => d.cy)
             .attr("r", d => d.r)
             .attr("fill", d => d.color)
+            .on("mouseover", function () {
+                d3.select(this).attr("fill", "black")
+            })
+            .on("mouseout", function () {
+                d3.select(this).attr("fill", "#999999")
+            })
+
 
 
         const texts = svg.selectAll("text")

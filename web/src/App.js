@@ -8,33 +8,6 @@ import { useSelector } from "react-redux";
 import propoData from "./data/propositions.json";
 import motionsData from "./data/motions.json";
 
-<<<<<<< HEAD
-
-class App extends Component {
-  render() {
-    return (
-      <Layout>
-        <ChartWrapper />
-        <RiksdagChart />
-      </Layout>
-
-    )
-  }
-||||||| merged common ancestors
-
-class App extends Component {
-  render() {
-    return (
-      <Layout>
-        <ChartWrapper />
-        <RiksdagChart />
-      </Layout>
-
-
-
-    )
-  }
-=======
 function App(props) {
   const { peopleData, hovered } = useSelector(({ peopleData, hovered }) => ({
     peopleData,
@@ -57,7 +30,6 @@ function App(props) {
       />
     </Layout>
   );
->>>>>>> 0d809dedaea9c21a4c10f94e6775a528b430d7ca
 }
 
 export default App;

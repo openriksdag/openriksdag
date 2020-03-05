@@ -1,17 +1,25 @@
-import React from "react";
+import React, { Component } from 'react';
 import RiksdagChart from "./components/RiksdagChart";
-import Layout from "./layout.js";
+import Layout from "./components/layout";
 import { render } from "@testing-library/react";
-import React, { Component } from "react";
-import Wrapper from "./Wrapper";
-import Government from "./government";
+// import React, { Component } from "react";
+import ChartWrapper from "./ChartWrapper";
+// import Government from "./components/Government.js";
 
-function App() {
-  return (
-    <Layout>
-      <RiksdagChart />
-    </Layout>
-  );
+
+
+class App extends Component {
+  render() {
+    return (
+      <Layout>
+        <ChartWrapper />
+        <RiksdagChart />
+      </Layout>
+
+
+
+    )
+  }
 }
 
 export default App;

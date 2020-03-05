@@ -1,7 +1,8 @@
 import React, { Component } from "react";
 import RiksdagChart from "./components/RiksdagChart/RiksdagChart";
 import Layout from "./components/Layout/Layout";
-import ChartWrapper from "./ChartWrapper";
+import GovernmentChart from "./components/GovernmentChart/GovernmentWrapper"
+import CommitteesChart from "./components/CommitteesChart/CommitteesWrapper"
 import MotionsChart from "./components/MotionsChart";
 import { useSelector } from "react-redux";
 
@@ -29,7 +30,10 @@ function App(props) {
           reverse
         />
       </div>
-      <ChartWrapper />
+      <GovernmentChart />
+      <CommitteesChart />
+
+
     </Layout>
   );
 }

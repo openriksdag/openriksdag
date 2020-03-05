@@ -5,7 +5,6 @@ import * as d3 from "d3"
 
 export const LogosArc = ({data, parties, radius, width, cx, cy}) => {
   const arcs = calculateArcs(parties, data)
-  console.log('arcs', arcs)
   const displayData = arcs.map(arc => ({
     angle: ((arc.endAngle - arc.startAngle) / 2) + arc.startAngle - degreesToRadians(90),
     color: arc.data.color,
@@ -24,8 +23,8 @@ export const LogosArc = ({data, parties, radius, width, cx, cy}) => {
                    width={width}
                    height={width}
                    style={{
-                     'background-size': `${width}px ${width}px`,
-                     'clip-path': `url(#clip-${label})`
+                     backgroundSize: `${width}px ${width}px`,
+                     clipPath: `url(#clip-${label})`
                    }}
             />
             <circle cx={width / 2} cy={width / 2} r={width / 2} strokeWidth={1} stroke={color} fill={'none'}/>

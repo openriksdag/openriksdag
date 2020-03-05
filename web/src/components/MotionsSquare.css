@@ -40,7 +40,7 @@
   width: 144px;
   height: 122px;
   background-color: #eaeaea;
-
+  border: solid #eaeaea 1px;
   margin: 0;
   padding: 0px;
 }

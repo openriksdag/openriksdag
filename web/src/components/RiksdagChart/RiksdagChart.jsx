@@ -42,9 +42,10 @@ const RiksdagChart = props => {
   const numArcs = 10,
     chartWidth = 700,
     chartHeight = 300,
-    chartGutter = 30,
+    chartTopPadding = 30,
+    chartBottomPadding = 5,
     innerRadius = 100,
-    arcWidth = ((chartHeight - innerRadius - chartGutter) / numArcs);
+    arcWidth = ((chartHeight - innerRadius - chartTopPadding) / numArcs);
 
   const arcSeats = R.range(0, numArcs).map(i => 22 + i * 3)
 
@@ -66,7 +67,7 @@ const RiksdagChart = props => {
 
   const [ignore, arcs] = R.mapAccum(membersToArc, membersByParty, arcSeats)
   return <div className="pie-container">
-    <svg width={chartWidth} height={chartHeight}>
+    <svg width={chartWidth} height={chartHeight + chartBottomPadding}>
       {arcs.map((arcData, index) =>
         <RiksdagArc
           key={`arc-${index}`}
@@ -80,7 +81,7 @@ const RiksdagChart = props => {
       <LogosArc data={R.last(arcs)}
                 parties={partyData}
                 radius={chartHeight}
-                width={chartGutter - 4}
+                width={chartTopPadding - 4}
                 cx={chartWidth / 2}
                 cy={chartHeight}
       />

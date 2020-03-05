@@ -4,7 +4,7 @@ import * as R from "ramda"
 import {calculateArcs, degreesToRadians} from "./chart-helpers"
 
 const RiksdagArc = ({data, parties, innerRadius, arcWidth, cx, cy}) => {
-  const outerRadius = innerRadius + arcWidth
+  const outerRadius = innerRadius + arcWidth + 0.5
   const middleRadius = innerRadius + (arcWidth / 2)
 
   const arcs = calculateArcs(parties, data)

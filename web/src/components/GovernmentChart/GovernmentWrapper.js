@@ -13,7 +13,8 @@ export default class GovernmentWrapper extends Component {
                 <div className="logo">
                     <img src={logo} />
                 </div>
-                <div ref="governmentChart"></div>
+                <div className="government" ref="governmentChart">
+                </div>
             </div>
 
         )

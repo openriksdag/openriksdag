@@ -16,8 +16,8 @@ export default class Government {
     ];
 
     var margin = { top: 10, right: 10, buttom: 10, left: 10 },
-      width = 400,
-      height = 320;
+      width = 365,
+      height = 220;
 
     var svg = d3
       .select(element)
@@ -25,27 +25,27 @@ export default class Government {
       .attr("height", height)
       .attr("width", width)
       .append("g")
-      .attr("transform", "translate(175,80)");
+      .attr("transform", "translate(175,40)");
 
-    svg
-      .append("path")
-      .attr("class", "triangle")
-      .attr(
-        "d",
-        "M 0 " +
-        -height / 3 +
-        " L " +
-        -width / 3 +
-        " " +
-        height / 3 +
-        "L " +
-        width / 3 +
-        " " +
-        height / 3 +
-        " Z"
-      )
-      .style("fill", "#EA222A")
-      .attr("transform", "translate(8,40)");
+    // svg
+    //   .append("path")
+    //   .attr("class", "triangle")
+    //   .attr(
+    //     "d",
+    //     "M 0 " +
+    //     -height / 3 +
+    //     " L " +
+    //     -width / 3 +
+    //     " " +
+    //     height / 3 +
+    //     "L " +
+    //     width / 3 +
+    //     " " +
+    //     height / 3 +
+    //     " Z"
+    //   )
+    //   .style("fill", "#EA222A")
+    //   .attr("transform", "translate(8,40)");
 
     const circles = svg.selectAll("circle")
       .data(data);

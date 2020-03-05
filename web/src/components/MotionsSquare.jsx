@@ -1,53 +1,51 @@
 import React from "react";
-import * as d3 from "d3";
 import "./MotionsSquare.css";
 import { values } from "ramda";
 import testData from "../testpropositions.json";
 
-const data = [
-  { title: "motion1" },
-  { title: "motion2" },
-  { title: "motion3" },
-  { title: "motion4" },
-  { title: "motion5" },
-  { title: "motion6" },
-  { title: "motion7" },
-
-  { title: "motion8" }
-];
-
-console.log(values(testData).map(d => d));
-const Organ = () => {
-  return values(testData).map(d => <p key={d.dok_id}>{d.dok_id}</p>);
+const Title = props => {
+  const { id } = props;
+  let title = "";
+  let url = "";
+  values(testData).map((d, i) => {
+    if (i === id) {
+      title = d.attachments[0].titel;
+      url = d.attachments[0].url;
+    }
+    return 0; //Added because the arrow function wants to return a value
+  });
+  return (
+    <a href={url} id="title">
+      {title}
+    </a>
+  );
 };
 
-function test() {
-  console.log("hej");
+function changeTitle() {
+  //Use later to update the title depending on the motion hovered
+  console.log("Getting motion id and changing title");
 }
+
 const MotionsSquare = props => {
-  const { type, title, reverse } = props;
-  //Make an SVG Container
-  const outerRadius = 200;
+  const { type, description, reverse } = props;
 
   return (
     <div className={reverse ? "wrapper reverse" : "wrapper"}>
-      <div className={reverse ? "info reverse" : "info"}>
-        {title}
-        <br />
-        <br />
-        <Organ></Organ>
+      <div className={reverse ? "infoContainer flipText" : "infoContainer"}>
+        <span id="description">{description}</span>
+        <Title id={0}></Title>
       </div>
 
       <figure className="squareContainer">
-        <span className="type">{type}</span>
+        <span className="motionType">{type}</span>
 
         <div className="motionContainer">
-          {data.map((d, i) => (
+          {values(testData).map((d, i) => (
             <div
               key={i}
               className="motion"
-              onMouseEnter={test}
-              onMouseLeave={test}
+              onMouseEnter={changeTitle}
+              onMouseLeave={changeTitle}
             ></div>
           ))}
         </div>

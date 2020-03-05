@@ -6,8 +6,12 @@ import MotionsSquare from "./components/MotionsSquare";
 function App() {
   return (
     <Layout>
-      <MotionsSquare type="Motions" title="Motions & Proposals" />
-      <MotionsSquare type="Proposals" title="Proposals for decision" reverse />
+      <MotionsSquare type="Motions" description="Motions & Proposals" />
+      <MotionsSquare
+        type="Proposals"
+        description="Proposals for decision"
+        reverse
+      />
     </Layout>
   );
 }

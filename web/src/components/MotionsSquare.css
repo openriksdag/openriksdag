@@ -3,16 +3,32 @@
   padding: 1px;
 }
 
-.info {
-  text-align: end;
+.infoContainer {
+  display: flex;
+  flex-direction: column;
   padding: 12px;
-  font-size: 10pt;
-  width: 90px;
+  text-align: end;
+}
+#description {
+  width: auto;
   text-transform: uppercase;
+  font-size: 10pt;
+}
+#title {
+  font-size: 8pt;
+  width: 20vw;
+  padding-top: 20px;
+  text-decoration: none;
+}
+
+#title:hover {
+  text-decoration: underline;
 }
 
 .reverse {
   flex-direction: row-reverse;
+}
+.flipText {
   text-align: start;
 }
 
@@ -29,7 +45,7 @@
   padding: 0px;
 }
 
-.type {
+.motionType {
   transform: rotate(-45deg);
   text-transform: uppercase;
   letter-spacing: 1px;

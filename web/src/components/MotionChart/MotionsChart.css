@@ -6,17 +6,17 @@
 .infoContainer {
   display: flex;
   flex-direction: column;
+  width: 180px;
   padding: 12px;
   text-align: end;
 }
 #description {
-  width: auto;
   text-transform: uppercase;
   font-size: 10pt;
 }
 #title {
   font-size: 8pt;
-  width: 20vw;
+
   padding-top: 20px;
   text-decoration: none;
 }

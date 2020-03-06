@@ -8,12 +8,14 @@ export const Hovered = makeUnion("Hovered", {
   Nothing: () => ({}),
   Representative: data => ({ data }),
   Committee: name => ({ name }),
-  Motion: id => ({ id })
+  Motion: data => ({ data }),
+  Proposition: data => ({ data })
 });
 
 const initialState = {
   peopleData,
   motionsData,
+  propoData,
   hovered: Hovered.Nothing(),
   searchDate: "2020-02-01"
 };

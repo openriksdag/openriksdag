@@ -3,12 +3,17 @@ import RiksdagChart from "./components/RiksdagChart/RiksdagChart";
 import Layout from "./components/Layout/Layout";
 import GovernmentChart from "./components/GovernmentChart/GovernmentWrapper";
 import Committees from "./components/CommitteesChart/Committees";
-import MotionsChart from "./components/MotionsChart";
+import MotionsChart from "./components/MotionChart/MotionsChart";
 import { useSelector } from "react-redux";
-import propoData from "./data/propositions.json";
 
 function App(props) {
-  const { peopleData, motionsData, hovered, searchDate } = useSelector(s => s);
+  const {
+    peopleData,
+    motionsData,
+    propoData,
+    hovered,
+    searchDate
+  } = useSelector(s => s);
 
   return (
     <Layout>
@@ -25,6 +30,7 @@ function App(props) {
           type="Proposals"
           description="Proposals for decision"
           data={propoData}
+          hovered={hovered}
           reverse
         />
       </div>

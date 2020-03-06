@@ -3,6 +3,7 @@ import "./MotionsChart.css";
 import {values} from "ramda";
 import {useDispatch, useSelector} from "react-redux";
 import {ChangeHover, Hovered} from "../../state/state";
+import {isInDocument, isReferencedIn} from "../../relation-helpers"
 
 const Title = props => {
   const {data, type, dispatch, hovered} = props;
@@ -30,10 +31,19 @@ const Title = props => {
     return null;
   }
 };
+
+const byHovered = (currentContainer, hovered) => (doc) =>
+  Hovered.case(hovered, {
+    Representative: ({data: repr}) => isInDocument(doc.intressent, repr.id),
+    Motion: ({data: motion}) => currentContainer === "Motions" ? true : isReferencedIn(doc, motion),
+    Proposition: ({data: proposition}) => currentContainer === "Proposals" ? true : isReferencedIn(doc, proposition),
+    Committee: ({name: committee}) => (currentContainer === "Motions" ? doc.organ : doc.mottagare) === committee,
+    Nothing: () => true
+  })
+
 const MotionsChart = props => {
-  const {type, description, reverse, data} = props;
+  const {type, description, reverse, data, hovered} = props;
   const dispatch = useDispatch();
-  const hovered = useSelector(state => state.hovered);
   const motions = useMemo(() => values(data), [data]);
 
   return (
@@ -45,7 +55,7 @@ const MotionsChart = props => {
       <figure className="squareContainer">
         <span className="motionType">{type}</span>
         <div className="motionContainer">
-          {motions.map(d => (
+          {motions.filter(byHovered(type, hovered)).map(d => (
             <Title
               key={d.dok_id}
               data={d}

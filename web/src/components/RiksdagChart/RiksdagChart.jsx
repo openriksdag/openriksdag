@@ -13,6 +13,7 @@ import kristdemokraternaLogo from '../../images/logo-kd-large.jpg'
 import RiksdagArc from "./RiksdagArc"
 import Representatives from "./Representatives"
 import {LogosArc} from "./LogosArc"
+import {Hovered} from "../../state/state"
 
 const partyData = [
   {label: "V", name: "Vänsterpartiet", logo: vansterpartietLogo, color: "#9B0100"},
@@ -66,6 +67,7 @@ const RiksdagChart = props => {
     chartTopPadding = 30,
     chartBottomPadding = 5,
     innerRadius = 100,
+    textWidth = 150,
     arcWidth = ((chartHeight - innerRadius - chartTopPadding) / numArcs);
 
   const validRoleStatuses = ['Tjänstgörande', 'Ersättare']
@@ -74,6 +76,29 @@ const RiksdagChart = props => {
     () => arrangeRepresentativesInArcs(numArcs, validRoleStatuses, people, date),
     [numArcs, validRoleStatuses, people, date]
   )
+
+  const reprText = Hovered.case(hovered, {
+    Representative: ({data}) => {
+      const name = `${data.first_name} ${data.last_name}`
+      return (<div className={"name-container"} style={{
+        position: "absolute",
+        bottom: chartBottomPadding,
+        left: `${( chartWidth / 2 ) - (textWidth / 2)}px`,
+        width: `${textWidth}px`
+      }}>
+        <div className={"repr-image"}>
+          <img src={data.image} />
+        </div>
+        <div className={"bold"}>
+          {name}
+        </div>
+        <div>
+          {data.district}
+        </div>
+      </div>)
+    },
+    otherwise: () => null
+  })
 
   return <div className="pie-container">
     <svg width={chartWidth} height={chartHeight + chartBottomPadding}>
@@ -107,6 +132,7 @@ const RiksdagChart = props => {
           searchDate={date}
         />)}
     </svg>
+    {reprText}
   </div>;
 };
 

@@ -3,6 +3,7 @@ import React, {useMemo} from "react"
 import * as R from "ramda"
 import {calculateArcs, degreesToRadians} from "./chart-helpers"
 import {useDispatch} from "react-redux"
+import {isInCommittee, isInDocument} from "../../relation-helpers"
 
 const Representatives = ({data, parties, innerRadius, arcWidth, cx, cy, hovered, searchDate}) => {
   const dispatch = useDispatch();
@@ -28,16 +29,11 @@ const Representatives = ({data, parties, innerRadius, arcWidth, cx, cy, hovered,
       otherwise: () => false
     })
 
-  const isInCommittee = ({roles}, committeeName, date) =>
-    roles.some(role =>
-      role.organ === committeeName &&
-      role.from <= date &&
-      role.to >= date
-    )
-
   const isHighlighted = (rep) =>
     Hovered.case(hovered, {
       Committee: ({name}) => isInCommittee(rep, name, searchDate),
+      Motion: ({data}) => isInDocument(data.intressent, rep.id),
+      Proposition: ({data}) => isInDocument(data.intressent, rep.id),
       otherwise: () => false
     })
 

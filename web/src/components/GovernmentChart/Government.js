@@ -47,6 +47,27 @@ export default class Government {
     //   .style("fill", "#EA222A")
     //   .attr("transform", "translate(8,40)");
 
+    // svg.append("svg:defs").append("svg:marker")
+    //   .attr("id", "triangle")
+    //   .attr("refX", 6)
+    //   .attr("refY", 6)
+    //   .attr("markerWidth", 30)
+    //   .attr("markerHeight", 30)
+    //   .attr("markerUnits", "userSpaceOnUse")
+    //   .attr("orient", "auto")
+    //   .append("path")
+    //   .attr("d", "M 0 0 12 6 0 12 3 6")
+    //   .style("fill", "#999999");
+
+    // svg.append("line")
+    //   .attr("x1", 10)
+    //   .attr("y1", 10)
+    //   .attr("x2", 20)
+    //   .attr("y2", 20)
+    //   .attr("stroke-width", 2)
+    //   .attr("stroke", "#999999")
+    //   .attr("marker-end", "url(#triangle)");
+
     const circles = svg.selectAll("circle")
       .data(data);
 

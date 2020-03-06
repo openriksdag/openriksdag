@@ -1,8 +1,8 @@
-import React, {useMemo} from "react";
+import React, { useMemo } from "react";
 import * as d3 from "d3"
-import {calculateArcs} from "./chart-helpers"
+import { calculateArcs } from "./chart-helpers"
 
-const RiksdagArc = ({data, parties, innerRadius, arcWidth, cx, cy}) => {
+const RiksdagArc = ({ data, parties, innerRadius, arcWidth, cx, cy }) => {
   const outerRadius = innerRadius + arcWidth + 0.5
 
   const arcs = useMemo(() => calculateArcs(parties, data), [parties, data])

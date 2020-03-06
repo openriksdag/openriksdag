@@ -5,6 +5,9 @@ import GovernmentChart from "./components/GovernmentChart/GovernmentWrapper";
 import Committees from "./components/CommitteesChart/Committees";
 import MotionsChart from "./components/MotionChart/MotionsChart";
 import { useSelector } from "react-redux";
+// import Arrow from './components/Arrow/Arrow';
+import Arrow from './components/Arrow/ArrowWrapper';
+import AboutUs from './components/AboutUs/AboutUs';
 
 function App(props) {
   const {
@@ -17,7 +20,12 @@ function App(props) {
 
   return (
     <Layout>
-      <RiksdagChart people={peopleData} hovered={hovered} date={searchDate} />
+      <div className="top-section">
+        <Arrow />
+        <RiksdagChart people={peopleData} hovered={hovered} date={searchDate} />
+
+      </div>
+
       <div className="mid-section">
         <MotionsChart
           type="Motions"
@@ -34,7 +42,14 @@ function App(props) {
           reverse
         />
       </div>
-      <Committees />
+      <div className="buttom-section">
+
+        <Committees />
+
+      </div>
+
+
+
     </Layout>
   );
 }

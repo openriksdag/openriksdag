@@ -1,0 +1,33 @@
+.middle-section{
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    margin:auto 100px auto 100px;
+    text-align: center;
+}
+
+
+figure{
+    position: relative;
+    top: 0px;
+    background-size: cover;
+    margin-bottom: 20px;
+    float: left;
+    
+}
+
+figure img {
+    width: 180px;
+    height: 180px;
+    /* border: 10px solid #fff; */
+    background-size: cover;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%;
+  }
+
+  span{
+      margin:auto;
+      display:block;
+  }

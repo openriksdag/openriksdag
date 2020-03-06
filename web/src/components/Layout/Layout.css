@@ -66,6 +66,15 @@ img {
   width: 55%;
 }
 
+.top-section{
+  display:flex;
+  flex-direction:row;
+  justify-content: center;
+  width: calc(100vw - 50px);
+  margin: auto;
+
+}
+
 .mid-section {
   display: flex;
   flex-direction: row;
@@ -73,3 +82,14 @@ img {
   width: calc(100vw - 50px);
   margin: 20px 0;
 }
+
+
+.buttom-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100vw - 50px);
+  margin: 20px 0;
+}
+
+

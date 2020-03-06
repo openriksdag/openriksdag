@@ -1,6 +1,6 @@
-import React, {Component} from 'react';
+import React from 'react';
 import {useDispatch, useSelector} from "react-redux"
-import {Hovered} from '../../state/state'
+import {ChangeHover, Hovered} from '../../state/state'
 
 const committeeData = [
   {cx: 40, cy: 100, r: 25, color: "#999999", nameSv: "Arbetsmarknadsutskottet", shortName: "AU"},
@@ -28,8 +28,16 @@ const committeeRadius = 25,
     highlight: "black"
   }
 
-const Committee = ({cx, cy, name: {sv: fullName, short: shortName}, isHovered, isHighlighted}) =>
-  (<g>
+const Committee = ({
+                     cx,
+                     cy,
+                     name: {sv: fullName, short: shortName},
+                     isHovered,
+                     onHover,
+                     onLeaveHover,
+                     isHighlighted
+                   }) =>
+  (<g onMouseOver={onHover} onMouseLeave={onLeaveHover}>
     <circle cx={cx}
             cy={cy}
             r={committeeRadius}
@@ -69,7 +77,10 @@ const Committees = (props) => {
         cy={cy}
         name={{sv: nameSv, short: shortName}}
         isHovered={isHovered(shortName)}
-        isHighlighted={isHighlighted(shortName)}/>)}
+        onHover={() => dispatch(ChangeHover(Hovered.Committee(shortName)))}
+        onLeaveHover={() => dispatch(ChangeHover(Hovered.Nothing()))}
+        isHighlighted={isHighlighted(shortName)}/>
+    )}
   </svg>)
 }
 export default Committees

@@ -1,10 +1,9 @@
-import React from "react"
+import React, {useMemo} from "react"
 import {calculateArcs, degreesToRadians} from "./chart-helpers"
-import * as R from "ramda"
-import * as d3 from "d3"
 
 export const LogosArc = ({data, parties, radius, width, cx, cy}) => {
-  const arcs = calculateArcs(parties, data)
+  const arcs = useMemo(() => calculateArcs(parties, data), [parties, data])
+
   const displayData = arcs.map(arc => ({
     angle: ((arc.endAngle - arc.startAngle) / 2) + arc.startAngle - degreesToRadians(90),
     color: arc.data.color,

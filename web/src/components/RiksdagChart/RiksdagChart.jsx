@@ -11,6 +11,7 @@ import centerpartietLogo from '../../images/logo-c-large.jpg'
 import liberalernaLogo from '../../images/logo-l-large.jpg'
 import kristdemokraternaLogo from '../../images/logo-kd-large.jpg'
 import RiksdagArc from "./RiksdagArc"
+import Representatives from "./Representatives"
 import {LogosArc} from "./LogosArc"
 
 const partyData = [
@@ -53,13 +54,11 @@ function arrangeRepresentativesInArcs(numArcs, validRoleStatuses, people, date) 
     return [membersRemaining, membersInArc]
   }
 
-  const [ignore, arcs] = R.mapAccum(membersToArc, membersByParty, arcSeats)
-  return arcs
+  return R.mapAccum(membersToArc, membersByParty, arcSeats)[1]
 }
 
 const RiksdagChart = props => {
-  const {people, date} = props;
-  console.assert(date != null)
+  const {people, date, hovered} = props;
 
   const numArcs = 10,
     chartWidth = 700,
@@ -95,6 +94,18 @@ const RiksdagChart = props => {
                 cx={chartWidth / 2}
                 cy={chartHeight}
       />
+      {arcs.map((arcData, index) =>
+        <Representatives
+          key={`reps-${index}`}
+          data={arcData}
+          parties={partyData}
+          innerRadius={innerRadius + (arcWidth * index)}
+          arcWidth={arcWidth}
+          cx={chartWidth / 2}
+          cy={chartHeight}
+          hovered={hovered}
+          searchDate={date}
+        />)}
     </svg>
   </div>;
 };

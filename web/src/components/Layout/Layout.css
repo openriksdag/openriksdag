@@ -70,6 +70,6 @@ img {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  width: 100vw;
+  width: calc(100vw - 50px);
   margin: 20px 0;
 }

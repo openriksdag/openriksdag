@@ -1,18 +1,17 @@
 import peopleData from "../data/people.json";
 import {configureStore, createAction, createReducer} from "@reduxjs/toolkit"
+import makeUnion from "./union"
 
-export const Hovered = {
-  type: 'Hovered',
-  Nothing: () => ({type: 'Hovered.Nothing'}),
-  Representative: (id) => ({type: 'Hovered.Representative', id}),
-}
-
-Hovered.Representative.type = 'Hovered.Representative'
-Hovered.Nothing.type = 'Hovered.Nothing'
+export const Hovered = makeUnion('Hovered', {
+  Nothing: () => ({}),
+  Representative: (data) => ({data}),
+  Committee: (name) => ({name})
+})
 
 const initialState = {
   peopleData,
   hovered: Hovered.Nothing(),
+  searchDate: '2020-02-01'
 }
 
 export const ChangeHover = createAction('ChangeHover')

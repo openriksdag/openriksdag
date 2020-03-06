@@ -11,6 +11,7 @@ import centerpartietLogo from '../../images/logo-c-large.jpg'
 import liberalernaLogo from '../../images/logo-l-large.jpg'
 import kristdemokraternaLogo from '../../images/logo-kd-large.jpg'
 import RiksdagArc from "./RiksdagArc"
+import Representatives from "./Representatives"
 import {LogosArc} from "./LogosArc"
 
 const partyData = [
@@ -24,7 +25,7 @@ const partyData = [
   {label: "KD", name: "Kristdemokraterna", logo: kristdemokraternaLogo, color: "#1F3B96"}
 ]
 
-function arrangeRepresentativesInArcs(numArcs, validRoleStatuses, people) {
+function arrangeRepresentativesInArcs(numArcs, validRoleStatuses, people, date) {
   const isChamberMemberAsOf = (date) => ({party, roles}) =>
     (party !== "-" && roles.some(({organ, status, from, to}) =>
         organ === 'kam' && date >= from && date <= to && R.includes(status, validRoleStatuses)
@@ -32,7 +33,7 @@ function arrangeRepresentativesInArcs(numArcs, validRoleStatuses, people) {
     )
 
   const membersByParty = R.groupBy(x => x.party,
-    R.filter(isChamberMemberAsOf('2020-02-01'), R.values(people))
+    R.filter(isChamberMemberAsOf(date), R.values(people))
   )
 
   const arcSeats = R.range(0, numArcs).map(i => 22 + i * 3)
@@ -53,12 +54,11 @@ function arrangeRepresentativesInArcs(numArcs, validRoleStatuses, people) {
     return [membersRemaining, membersInArc]
   }
 
-  const [ignore, arcs] = R.mapAccum(membersToArc, membersByParty, arcSeats)
-  return arcs
+  return R.mapAccum(membersToArc, membersByParty, arcSeats)[1]
 }
 
 const RiksdagChart = props => {
-  const {people} = props;
+  const {people, date, hovered} = props;
 
   const numArcs = 10,
     chartWidth = 700,
@@ -71,7 +71,8 @@ const RiksdagChart = props => {
   const validRoleStatuses = ['Tjänstgörande', 'Ersättare']
 
   const arcs = useMemo(
-    () => arrangeRepresentativesInArcs(numArcs, validRoleStatuses, people), [numArcs, validRoleStatuses, people]
+    () => arrangeRepresentativesInArcs(numArcs, validRoleStatuses, people, date),
+    [numArcs, validRoleStatuses, people, date]
   )
 
   return <div className="pie-container">
@@ -93,6 +94,18 @@ const RiksdagChart = props => {
                 cx={chartWidth / 2}
                 cy={chartHeight}
       />
+      {arcs.map((arcData, index) =>
+        <Representatives
+          key={`reps-${index}`}
+          data={arcData}
+          parties={partyData}
+          innerRadius={innerRadius + (arcWidth * index)}
+          arcWidth={arcWidth}
+          cx={chartWidth / 2}
+          cy={chartHeight}
+          hovered={hovered}
+          searchDate={date}
+        />)}
     </svg>
   </div>;
 };

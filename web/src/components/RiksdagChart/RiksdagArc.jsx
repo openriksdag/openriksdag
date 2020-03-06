@@ -28,7 +28,12 @@ const RiksdagArc = ({data, parties, innerRadius, arcWidth, cx, cy}) => {
       })
     }))
 
-  const isHovered = (representative) => hovered.type === Hovered.Representative.type && hovered.id === representative.id
+  const isHovered = (representative) =>
+    Hovered.case(hovered, {
+      Representative: ({data}) => data.id === representative.id,
+      otherwise: () => false
+    })
+
   return <g transform={`translate(${cx} ${cy})`}>
     {arcs.map(arc => <path key={`${innerRadius}-${arc.data.label}`} d={arcBuilder(arc)} fill={arc.data.color}/>)}
     {repsData.map(({data, x, y}) =>
@@ -44,7 +49,7 @@ const RiksdagArc = ({data, parties, innerRadius, arcWidth, cx, cy}) => {
         className={`representative ${isHovered(data) ? "highlight" : null}`}
         data-repr-id={data.id}
         data-repr-party={data.party}
-        onMouseOver={() => dispatch(ChangeHover(Hovered.Representative(data.id)))}
+        onMouseOver={() => dispatch(ChangeHover(Hovered.Representative(data)))}
         onMouseLeave={() => dispatch(ChangeHover(Hovered.Nothing()))}
       />
     )}

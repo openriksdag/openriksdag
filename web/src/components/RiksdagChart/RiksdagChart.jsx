@@ -24,7 +24,7 @@ const partyData = [
   {label: "KD", name: "Kristdemokraterna", logo: kristdemokraternaLogo, color: "#1F3B96"}
 ]
 
-function arrangeRepresentativesInArcs(numArcs, validRoleStatuses, people) {
+function arrangeRepresentativesInArcs(numArcs, validRoleStatuses, people, date) {
   const isChamberMemberAsOf = (date) => ({party, roles}) =>
     (party !== "-" && roles.some(({organ, status, from, to}) =>
         organ === 'kam' && date >= from && date <= to && R.includes(status, validRoleStatuses)
@@ -32,7 +32,7 @@ function arrangeRepresentativesInArcs(numArcs, validRoleStatuses, people) {
     )
 
   const membersByParty = R.groupBy(x => x.party,
-    R.filter(isChamberMemberAsOf('2020-02-01'), R.values(people))
+    R.filter(isChamberMemberAsOf(date), R.values(people))
   )
 
   const arcSeats = R.range(0, numArcs).map(i => 22 + i * 3)
@@ -58,7 +58,8 @@ function arrangeRepresentativesInArcs(numArcs, validRoleStatuses, people) {
 }
 
 const RiksdagChart = props => {
-  const {people} = props;
+  const {people, date} = props;
+  console.assert(date != null)
 
   const numArcs = 10,
     chartWidth = 700,
@@ -71,7 +72,8 @@ const RiksdagChart = props => {
   const validRoleStatuses = ['Tjänstgörande', 'Ersättare']
 
   const arcs = useMemo(
-    () => arrangeRepresentativesInArcs(numArcs, validRoleStatuses, people), [numArcs, validRoleStatuses, people]
+    () => arrangeRepresentativesInArcs(numArcs, validRoleStatuses, people, date),
+    [numArcs, validRoleStatuses, people, date]
   )
 
   return <div className="pie-container">

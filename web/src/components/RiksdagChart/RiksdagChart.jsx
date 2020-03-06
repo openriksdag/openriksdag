@@ -13,6 +13,7 @@ import kristdemokraternaLogo from '../../images/logo-kd-large.jpg'
 import RiksdagArc from "./RiksdagArc"
 import Representatives from "./Representatives"
 import {LogosArc} from "./LogosArc"
+import {Hovered} from "../../state/state"
 
 const partyData = [
   {label: "V", name: "Vänsterpartiet", logo: vansterpartietLogo, color: "#9B0100"},
@@ -75,6 +76,28 @@ const RiksdagChart = props => {
     [numArcs, validRoleStatuses, people, date]
   )
 
+  const reprText = Hovered.case(hovered, {
+    Representative: ({data}) =>
+      (<g>
+        <text
+        x={chartWidth / 2}
+        y={chartHeight - 40}
+        textAnchor={"middle"}
+        className={"bold"}
+      >
+        {data.first_name} {data.last_name}
+      </text>
+        <text
+          x={chartWidth / 2}
+          y={chartHeight - 15}
+          textAnchor={"middle"}
+        >
+          {data.district}
+        </text>
+      </g>),
+    otherwise: () => null
+  })
+
   return <div className="pie-container">
     <svg width={chartWidth} height={chartHeight + chartBottomPadding}>
       {arcs.map((arcData, index) =>
@@ -106,6 +129,7 @@ const RiksdagChart = props => {
           hovered={hovered}
           searchDate={date}
         />)}
+      {reprText}
     </svg>
   </div>;
 };

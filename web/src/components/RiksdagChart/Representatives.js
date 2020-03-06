@@ -35,9 +35,14 @@ const Representatives = ({data, parties, innerRadius, arcWidth, cx, cy, hovered,
       role.to >= date
     )
 
+  const isInDocument = (intressents, repId) =>
+    intressents.some(int => int.intressent_id === repId)
+
   const isHighlighted = (rep) =>
     Hovered.case(hovered, {
       Committee: ({name}) => isInCommittee(rep, name, searchDate),
+      Motion: ({data}) => isInDocument(data.intressent, rep.id),
+      Proposition: ({data}) => isInDocument(data.intressent, rep.id),
       otherwise: () => false
     })
 

@@ -1,11 +1,11 @@
-import React, { useMemo } from "react";
+import React, {useMemo} from "react";
 import "./MotionsChart.css";
-import { values } from "ramda";
-import { useDispatch, useSelector } from "react-redux";
-import { ChangeHover, Hovered } from "../../state/state";
+import {values} from "ramda";
+import {useDispatch, useSelector} from "react-redux";
+import {ChangeHover, Hovered} from "../../state/state";
 
 const Title = props => {
-  const { data, type, dispatch, hovered } = props;
+  const {data, type, dispatch, hovered} = props;
   const handleMouseLeave = () => dispatch(ChangeHover(Hovered.Nothing()));
   const handleMouseEnter = () =>
     dispatch(
@@ -31,7 +31,7 @@ const Title = props => {
   }
 };
 const MotionsChart = props => {
-  const { type, description, reverse, data } = props;
+  const {type, description, reverse, data} = props;
   const dispatch = useDispatch();
   const hovered = useSelector(state => state.hovered);
   const motions = useMemo(() => values(data), [data]);
@@ -47,11 +47,12 @@ const MotionsChart = props => {
         <div className="motionContainer">
           {motions.map(d => (
             <Title
+              key={d.dok_id}
               data={d}
               type={type}
               dispatch={dispatch}
               hovered={hovered}
-            ></Title>
+            />
           ))}
         </div>
       </figure>

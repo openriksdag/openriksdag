@@ -12,6 +12,10 @@
     stroke: rgba(0, 0, 0, 0.7);
 }
 
+.pie-container .bold {
+    font-weight: bold;
+}
+
 .pie-chart {
   position: absolute;
   bottom: 0;

@@ -67,6 +67,7 @@ const RiksdagChart = props => {
     chartTopPadding = 30,
     chartBottomPadding = 5,
     innerRadius = 100,
+    textWidth = 150,
     arcWidth = ((chartHeight - innerRadius - chartTopPadding) / numArcs);
 
   const validRoleStatuses = ['Tjänstgörande', 'Ersättare']
@@ -77,24 +78,22 @@ const RiksdagChart = props => {
   )
 
   const reprText = Hovered.case(hovered, {
-    Representative: ({data}) =>
-      (<g>
-        <text
-        x={chartWidth / 2}
-        y={chartHeight - 40}
-        textAnchor={"middle"}
-        className={"bold"}
-      >
-        {data.first_name} {data.last_name}
-      </text>
-        <text
-          x={chartWidth / 2}
-          y={chartHeight - 15}
-          textAnchor={"middle"}
-        >
+    Representative: ({data}) => {
+      const name = `${data.first_name} ${data.last_name}`
+      return (<div className={"name-container"} style={{
+        position: "absolute",
+        bottom: chartBottomPadding,
+        left: `${( chartWidth / 2 ) - (textWidth / 2)}px`,
+        width: `${textWidth}px`
+      }}>
+        <div className={"bold"}>
+          {name}
+        </div>
+        <div>
           {data.district}
-        </text>
-      </g>),
+        </div>
+      </div>)
+    },
     otherwise: () => null
   })
 
@@ -129,8 +128,8 @@ const RiksdagChart = props => {
           hovered={hovered}
           searchDate={date}
         />)}
-      {reprText}
     </svg>
+    {reprText}
   </div>;
 };
 

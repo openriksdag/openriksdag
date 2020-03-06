@@ -16,6 +16,10 @@
     font-weight: bold;
 }
 
+.pie-container .name-container div {
+    text-align: center;
+}
+
 .pie-chart {
   position: absolute;
   bottom: 0;

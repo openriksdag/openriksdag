@@ -21,7 +21,7 @@ function App(props) {
   return (
     <Layout>
       <div className="top-section">
-        <Arrow />
+        {/* <Arrow /> */}
         <RiksdagChart people={peopleData} hovered={hovered} date={searchDate} />
 
       </div>

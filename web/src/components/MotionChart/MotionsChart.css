@@ -6,23 +6,13 @@
 .infoContainer {
   display: flex;
   flex-direction: column;
-  width: 180px;
+  width: 100px;
   padding: 12px;
   text-align: end;
 }
 #description {
   text-transform: uppercase;
   font-size: 10pt;
-}
-#title {
-  font-size: 8pt;
-
-  padding-top: 20px;
-  text-decoration: none;
-}
-
-#title:hover {
-  text-decoration: underline;
 }
 
 .reverse {
@@ -38,7 +28,7 @@
   align-items: center;
   position: relative;
   width: 144px;
-  height: 122px;
+  height: 165px;
   background-color: #eaeaea;
   border: solid #eaeaea 1px;
   margin: 0;
@@ -64,10 +54,17 @@
 
 .motion {
   background-color: white;
-  width: 12px;
-  height: 16px;
+  width: 100%;
   margin: 3px;
+  overflow: clip;
+  font-size: 7pt;
+  padding: 3px;
 }
 .motion:hover {
-  background-color: darkgray;
+  border: solid grey 1px;
+  padding: 2px;
+}
+
+a {
+  text-decoration: none;
 }

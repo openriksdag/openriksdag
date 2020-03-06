@@ -86,6 +86,9 @@ const RiksdagChart = props => {
         left: `${( chartWidth / 2 ) - (textWidth / 2)}px`,
         width: `${textWidth}px`
       }}>
+        <div className={"repr-image"}>
+          <img src={data.image} />
+        </div>
         <div className={"bold"}>
           {name}
         </div>

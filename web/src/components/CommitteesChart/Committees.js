@@ -1,6 +1,7 @@
 import React from 'react';
 import {useDispatch, useSelector} from "react-redux"
 import {ChangeHover, Hovered} from '../../state/state'
+import {isInCommittee} from "../../relation-helpers"
 
 const committeeData = [
   {cx: 40, cy: 100, r: 25, color: "#999999", nameSv: "Arbetsmarknadsutskottet", shortName: "AU"},
@@ -52,22 +53,11 @@ const Committees = (props) => {
 
   const height = 300, width = 400
 
-  const isHovered = (name) => Hovered.case(hovered, {
-    Committee: (x) => x.name === name,
-    otherwise: () => false
-  })
+  const isHovered = (name) => hovered.committee != null && hovered.committee === name
 
-  const isInCommittee = ({roles}, committeeName, date) =>
-    roles.some(role =>
-      role.organ === committeeName &&
-      role.from <= date &&
-      role.to >= date
-    )
 
-  const isHighlighted = (name) => Hovered.case(hovered, {
-    Representative: ({data}) => isInCommittee(data, name, searchDate),
-    otherwise: () => false
-  })
+  const isHighlighted = (name) =>
+    (hovered.representative != null && isInCommittee(hovered.representative, name, searchDate))
 
   return (<svg viewBox={`0 0 ${width} ${height}`} height={height} width={width}>
     {committeeData.map(({cx, cy, nameSv, shortName}) =>

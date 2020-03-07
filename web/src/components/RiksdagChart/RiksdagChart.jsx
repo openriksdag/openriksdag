@@ -13,7 +13,9 @@ import kristdemokraternaLogo from '../../images/logo-kd-large.jpg'
 import RiksdagArc from "./RiksdagArc"
 import Representatives from "./Representatives"
 import {LogosArc} from "./LogosArc"
-import {Hovered} from "../../state/state"
+import {ChangeHover, Hovered} from "../../state/state"
+import {calculateArcs} from "./chart-helpers"
+import {useDispatch} from "react-redux"
 
 const partyData = [
   {label: "V", name: "Vänsterpartiet", logo: vansterpartietLogo, color: "#9B0100"},
@@ -26,7 +28,9 @@ const partyData = [
   {label: "KD", name: "Kristdemokraterna", logo: kristdemokraternaLogo, color: "#1F3B96"}
 ]
 
-function arrangeRepresentativesInArcs(numArcs, validRoleStatuses, people, date) {
+const validRoleStatuses = ['Tjänstgörande', 'Ersättare']
+
+function arrangeRepresentativesInArcs(numArcs, people, date) {
   const isChamberMemberAsOf = (date) => ({party, roles}) =>
     (party !== "-" && roles.some(({organ, status, from, to}) =>
         organ === 'kam' && date >= from && date <= to && R.includes(status, validRoleStatuses)
@@ -60,6 +64,7 @@ function arrangeRepresentativesInArcs(numArcs, validRoleStatuses, people, date) 
 
 const RiksdagChart = props => {
   const {people, date, hovered} = props;
+  const dispatch = useDispatch()
 
   const numArcs = 10,
     chartWidth = 700,
@@ -70,35 +75,33 @@ const RiksdagChart = props => {
     textWidth = 150,
     arcWidth = ((chartHeight - innerRadius - chartTopPadding) / numArcs);
 
-  const validRoleStatuses = ['Tjänstgörande', 'Ersättare']
-
   const arcs = useMemo(
-    () => arrangeRepresentativesInArcs(numArcs, validRoleStatuses, people, date),
-    [numArcs, validRoleStatuses, people, date]
+    () => arrangeRepresentativesInArcs(numArcs, people, date),
+    [numArcs, people, date]
   )
 
-  const reprText = Hovered.case(hovered, {
-    Representative: ({data}) => {
-      const name = `${data.first_name} ${data.last_name}`
-      return (<div className={"name-container"} style={{
-        position: "absolute",
-        bottom: chartBottomPadding,
-        left: `${( chartWidth / 2 ) - (textWidth / 2)}px`,
-        width: `${textWidth}px`
-      }}>
-        <div className={"repr-image"}>
-          <img src={data.image} />
-        </div>
-        <div className={"bold"}>
-          {name}
-        </div>
-        <div>
-          {data.district}
-        </div>
-      </div>)
-    },
-    otherwise: () => null
-  })
+  const reprText = hovered.representative != null ?
+    (<div className={"name-container"} style={{
+      position: "absolute",
+      bottom: chartBottomPadding - 10,
+      left: `${(chartWidth / 2) - (textWidth / 2)}px`,
+      width: `${textWidth}px`
+    }}>
+      <div className={"repr-image"}>
+        <img src={hovered.representative.image}
+             alt={`${hovered.representative.first_name} ${hovered.representative.last_name}, ${hovered.representative.party}`}/>
+      </div>
+      <div className={"bold"}>
+        {`${hovered.representative.first_name} ${hovered.representative.last_name}`}
+      </div>
+      <div>
+        {hovered.representative.district}
+      </div>
+    </div>)
+    : null
+
+  const onHoverRepresentative = (rep) => () => dispatch(ChangeHover(Hovered.Representative(rep)))
+  const onMouseLeaveRep = () => dispatch(ChangeHover(Hovered.Nothing()))
 
   return <div className="pie-container">
     <svg width={chartWidth} height={chartHeight + chartBottomPadding}>
@@ -123,6 +126,7 @@ const RiksdagChart = props => {
         <Representatives
           key={`reps-${index}`}
           data={arcData}
+          arcs={calculateArcs(partyData, arcData)}
           parties={partyData}
           innerRadius={innerRadius + (arcWidth * index)}
           arcWidth={arcWidth}
@@ -130,6 +134,8 @@ const RiksdagChart = props => {
           cy={chartHeight}
           hovered={hovered}
           searchDate={date}
+          onHoverRepresentative={onHoverRepresentative}
+          onMouseLeaveRep={onMouseLeaveRep}
         />)}
     </svg>
     {reprText}

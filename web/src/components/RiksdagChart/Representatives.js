@@ -1,4 +1,3 @@
-import {Hovered} from "../../state/state"
 import React, {memo, useMemo} from "react"
 import * as R from "ramda"
 import {degreesToRadians} from "./chart-helpers"
@@ -19,19 +18,13 @@ const Representative = memo(({x, y, isHighlighted, handleMouseOver, handleMouseL
     onMouseLeave={handleMouseLeave}
   />)
 
-const isHovered = (hovered, representative) =>
-  Hovered.case(hovered, {
-    Representative: ({data}) => data.id === representative.id,
-    otherwise: () => false
-  })
+const isHovered = ({representative: hovered}, representative) =>
+  hovered != null && hovered.id === representative.id
 
-const isHighlighted = (hovered, searchDate, rep) =>
-  Hovered.case(hovered, {
-    Committee: ({name}) => isInCommittee(rep, name, searchDate),
-    Motion: ({data}) => isInDocument(data.intressent, rep.id),
-    Proposition: ({data}) => isInDocument(data.intressent, rep.id),
-    otherwise: () => false
-  })
+const isHighlighted = ({committee, motion, proposition}, searchDate, rep) =>
+  (committee != null && isInCommittee(rep, committee, searchDate)) ||
+  (motion != null && isInDocument(motion.intressent, rep.id)) ||
+  (proposition != null && isInDocument(proposition.intressent, rep.id))
 
 const Representatives = memo(({
                                 innerRadius,
@@ -42,7 +35,7 @@ const Representatives = memo(({
                                 searchDate,
                                 arcs,
                                 onHoverRepresentative,
-                                onLeaveMouseRep
+                                onMouseLeaveRep
                               }) => {
   const middleRadius = innerRadius + (arcWidth / 2)
 
@@ -70,7 +63,7 @@ const Representatives = memo(({
       key={data.id}
       isHighlighted={isHighlighted}
       handleMouseOver={onHoverRepresentative(data)}
-      handleMouseLeave={onLeaveMouseRep}
+      handleMouseLeave={onMouseLeaveRep}
     />)}
   </g>)
 })

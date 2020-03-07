@@ -80,28 +80,25 @@ const RiksdagChart = props => {
     [numArcs, people, date]
   )
 
-  const reprText = Hovered.case(hovered, {
-    Representative: ({data}) => {
-      const name = `${data.first_name} ${data.last_name}`
-      return (<div className={"name-container"} style={{
-        position: "absolute",
-        bottom: chartBottomPadding - 10,
-        left: `${( chartWidth / 2 ) - (textWidth / 2)}px`,
-        width: `${textWidth}px`
-      }}>
-        <div className={"repr-image"}>
-          <img src={data.image} alt={`${name}, ${data.party}`}/>
-        </div>
-        <div className={"bold"}>
-          {name}
-        </div>
-        <div>
-          {data.district}
-        </div>
-      </div>)
-    },
-    otherwise: () => null
-  })
+  const reprText = hovered.representative != null ?
+    (<div className={"name-container"} style={{
+      position: "absolute",
+      bottom: chartBottomPadding - 10,
+      left: `${(chartWidth / 2) - (textWidth / 2)}px`,
+      width: `${textWidth}px`
+    }}>
+      <div className={"repr-image"}>
+        <img src={hovered.representative.image}
+             alt={`${hovered.representative.first_name} ${hovered.representative.last_name}, ${hovered.representative.party}`}/>
+      </div>
+      <div className={"bold"}>
+        {`${hovered.representative.first_name} ${hovered.representative.last_name}`}
+      </div>
+      <div>
+        {hovered.representative.district}
+      </div>
+    </div>)
+    : null
 
   const onHoverRepresentative = (rep) => () => dispatch(ChangeHover(Hovered.Representative(rep)))
   const onMouseLeaveRep = () => dispatch(ChangeHover(Hovered.Nothing()))

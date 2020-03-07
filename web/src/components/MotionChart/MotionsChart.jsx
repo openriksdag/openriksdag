@@ -4,10 +4,9 @@ import {values} from "ramda";
 import {useDispatch} from "react-redux";
 import {ChangeHover, Hovered} from "../../state/state";
 import {isInDocument, isReferencedIn} from "../../relation-helpers"
-import {CellMeasurer, CellMeasurerCache, List} from "react-virtualized"
 
 const Title = memo(props => {
-  const {data, type, handleMouseOver, handleMouseLeave} = props;
+  const {data, handleMouseOver, handleMouseLeave} = props;
   if (data.attachments[0]) {
     return (
       <div
@@ -26,20 +25,12 @@ const Title = memo(props => {
   }
 });
 
-const byHovered = (currentContainer, hovered) => (doc) =>
-  Hovered.case(hovered, {
-    Representative: ({data: repr}) => isInDocument(doc.intressent, repr.id),
-    Motion: ({data: motion}) => currentContainer === "Motions" ? true : isReferencedIn(doc, motion),
-    Proposition: ({data: proposition}) => currentContainer === "Proposals" ? true : isReferencedIn(doc, proposition),
-    Committee: ({name: committee}) => (currentContainer === "Motions" ? doc.organ : doc.mottagare) === committee,
-    Nothing: () => true
-  })
-
-const cache = new CellMeasurerCache({
-  defaultWidth: 144,
-  minHeight: 16,
-  fixedWidth: true
-})
+const byHovered = (currentContainer, {representative, motion, proposition, committee}) => (doc) =>
+  (representative != null && isInDocument(doc.intressent, representative.id)) ||
+  (motion != null && (currentContainer === "Motions" ? true : isReferencedIn(doc, motion))) ||
+  (proposition != null && (currentContainer === "Proposals" ? true : isReferencedIn(doc, proposition))) ||
+  (committee != null && (currentContainer === "Motions" ? doc.organ : doc.mottagare) === committee) ||
+  (representative == null && motion == null && proposition == null && committee == null)
 
 const MotionsChart = props => {
   const {type, description, reverse, data, hovered} = props;
@@ -63,30 +54,16 @@ const MotionsChart = props => {
 
       <figure className="squareContainer">
         <div className="motionContainer">
-          <List
-            height={165}
-            width={144}
-            rowHeight={cache.rowHeight}
-            deferredMeasurementCache={cache}
-            rowCount={filteredMotions.length}
-            rowRenderer={({index, key, parent}) =>
-              <CellMeasurer
-                key={key}
-                parent={parent}
-                columnIndex={0}
-                rowIndex={index}
-                cache={cache}
-              >
-                <Title
-                  key={key}
-                  data={filteredMotions[index]}
-                  type={type}
-                  hovered={hovered}
-                  handleMouseOver={handleMouseOver(filteredMotions[index], type)}
-                  handleMouseLeave={handleMouseLeave}
-                />
-              </CellMeasurer>}
-          />
+          {filteredMotions.map((motion) =>
+            <Title
+              key={motion.dok_id}
+              data={motion}
+              hovered={hovered}
+              handleMouseOver={handleMouseOver(motion, type)}
+              handleMouseLeave={handleMouseLeave}
+            />
+          )
+          }
         </div>
         <span className="motionType">{type}</span>
       </figure>

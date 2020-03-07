@@ -14,6 +14,7 @@ import RiksdagArc from "./RiksdagArc"
 import Representatives from "./Representatives"
 import {LogosArc} from "./LogosArc"
 import {Hovered} from "../../state/state"
+import {calculateArcs} from "./chart-helpers"
 
 const partyData = [
   {label: "V", name: "Vänsterpartiet", logo: vansterpartietLogo, color: "#9B0100"},
@@ -26,7 +27,9 @@ const partyData = [
   {label: "KD", name: "Kristdemokraterna", logo: kristdemokraternaLogo, color: "#1F3B96"}
 ]
 
-function arrangeRepresentativesInArcs(numArcs, validRoleStatuses, people, date) {
+const validRoleStatuses = ['Tjänstgörande', 'Ersättare']
+
+function arrangeRepresentativesInArcs(numArcs, people, date) {
   const isChamberMemberAsOf = (date) => ({party, roles}) =>
     (party !== "-" && roles.some(({organ, status, from, to}) =>
         organ === 'kam' && date >= from && date <= to && R.includes(status, validRoleStatuses)
@@ -70,11 +73,9 @@ const RiksdagChart = props => {
     textWidth = 150,
     arcWidth = ((chartHeight - innerRadius - chartTopPadding) / numArcs);
 
-  const validRoleStatuses = ['Tjänstgörande', 'Ersättare']
-
   const arcs = useMemo(
-    () => arrangeRepresentativesInArcs(numArcs, validRoleStatuses, people, date),
-    [numArcs, validRoleStatuses, people, date]
+    () => arrangeRepresentativesInArcs(numArcs, people, date),
+    [numArcs, people, date]
   )
 
   const reprText = Hovered.case(hovered, {
@@ -82,7 +83,7 @@ const RiksdagChart = props => {
       const name = `${data.first_name} ${data.last_name}`
       return (<div className={"name-container"} style={{
         position: "absolute",
-        bottom: chartBottomPadding,
+        bottom: chartBottomPadding - 10,
         left: `${( chartWidth / 2 ) - (textWidth / 2)}px`,
         width: `${textWidth}px`
       }}>
@@ -123,6 +124,7 @@ const RiksdagChart = props => {
         <Representatives
           key={`reps-${index}`}
           data={arcData}
+          arcs={calculateArcs(partyData, arcData)}
           parties={partyData}
           innerRadius={innerRadius + (arcWidth * index)}
           arcWidth={arcWidth}

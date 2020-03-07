@@ -1,15 +1,11 @@
-import {ChangeHover, Hovered} from "../../state/state"
-import React, {memo, useCallback, useMemo} from "react"
+import {Hovered} from "../../state/state"
+import React, {memo, useMemo} from "react"
 import * as R from "ramda"
-import {calculateArcs, degreesToRadians} from "./chart-helpers"
-import {useDispatch} from "react-redux"
+import {degreesToRadians} from "./chart-helpers"
 import {isInCommittee, isInDocument} from "../../relation-helpers"
 
-const Representative = memo(({repData, x, y, isHovered, isHighlighted, handleMouseOver, handleMouseLeave}) => {
-  const onMouseOver = useCallback(() => handleMouseOver(repData), [repData, handleMouseOver])
-  const onMouseLeave = useCallback(handleMouseLeave, [handleMouseLeave])
-
-  return <circle
+const Representative = memo(({x, y, isHighlighted, handleMouseOver, handleMouseLeave}) =>
+  <circle
     cx={x}
     cy={y}
     r={5}
@@ -18,11 +14,10 @@ const Representative = memo(({repData, x, y, isHovered, isHighlighted, handleMou
       fill: "rgba(255, 255, 255, 0.8)",
     }}
     className={
-      `representative ${isHovered ? "hover" : ""} ${isHighlighted ? "highlight" : ""}`}
-    onMouseOver={onMouseOver}
-    onMouseLeave={onMouseLeave}
-  />
-})
+      `representative ${isHighlighted ? "highlight" : ""}`}
+    onMouseOver={handleMouseOver}
+    onMouseLeave={handleMouseLeave}
+  />)
 
 const isHovered = (hovered, representative) =>
   Hovered.case(hovered, {
@@ -38,9 +33,17 @@ const isHighlighted = (hovered, searchDate, rep) =>
     otherwise: () => false
   })
 
-const Representatives = memo(({data, parties, innerRadius, arcWidth, cx, cy, hovered, searchDate, arcs}) => {
-  const dispatch = useDispatch();
-
+const Representatives = memo(({
+                                innerRadius,
+                                arcWidth,
+                                cx,
+                                cy,
+                                hovered,
+                                searchDate,
+                                arcs,
+                                onHoverRepresentative,
+                                onLeaveMouseRep
+                              }) => {
   const middleRadius = innerRadius + (arcWidth / 2)
 
   const repsData = useMemo(() => R.flatten(
@@ -58,21 +61,16 @@ const Representatives = memo(({data, parties, innerRadius, arcWidth, cx, cy, hov
           isHovered: isHovered(hovered, repr)
         }
       })
-    })), [data, middleRadius, arcs])
-
-  const handleMouseOver = (rep) => dispatch(ChangeHover(Hovered.Representative(rep)))
-  const handleMouseLeave = () => dispatch(ChangeHover(Hovered.Nothing()))
+    })), [hovered, middleRadius, arcs, searchDate])
 
   return (<g transform={`translate(${cx} ${cy})`}>
-    {repsData.map(({data, x, y, isHighlighted, isHovered}) => <Representative
+    {repsData.map(({data, x, y, isHighlighted}) => <Representative
       x={x}
       y={y}
       key={data.id}
-      isHovered={isHovered}
       isHighlighted={isHighlighted}
-      repData={data}
-      handleMouseOver={handleMouseOver}
-      handleMouseLeave={handleMouseLeave}
+      handleMouseOver={onHoverRepresentative(data)}
+      handleMouseLeave={onLeaveMouseRep}
     />)}
   </g>)
 })

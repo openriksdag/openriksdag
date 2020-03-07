@@ -1,19 +1,20 @@
-import React, {useMemo} from "react";
+import React, {memo, useCallback, useMemo} from "react";
 import "./MotionsChart.css";
 import {values} from "ramda";
-import {useDispatch, useSelector} from "react-redux";
+import {useDispatch} from "react-redux";
 import {ChangeHover, Hovered} from "../../state/state";
 import {isInDocument, isReferencedIn} from "../../relation-helpers"
 
-const Title = props => {
-  const {data, type, dispatch, hovered} = props;
-  const handleMouseLeave = () => dispatch(ChangeHover(Hovered.Nothing()));
-  const handleMouseEnter = () =>
+const Title = memo(props => {
+  const {data, type} = props;
+  const dispatch = useDispatch()
+  const handleMouseLeave = useCallback(() => dispatch(ChangeHover(Hovered.Nothing())), [dispatch]);
+  const handleMouseEnter = useCallback(() =>
     dispatch(
       ChangeHover(
         type === "Motions" ? Hovered.Motion(data) : Hovered.Proposition(data)
       )
-    );
+    ), [type, data, dispatch]);
   if (data.attachments[0]) {
     return (
       <div
@@ -22,7 +23,7 @@ const Title = props => {
         onMouseEnter={handleMouseEnter}
         onMouseLeave={handleMouseLeave}
       >
-        <a target="_blank" href={data.attachments[0].url}>
+        <a target="_blank" rel="noopener noreferrer" href={data.attachments[0].url}>
           {data.attachments[0].titel}
         </a>
       </div>
@@ -30,7 +31,7 @@ const Title = props => {
   } else {
     return null;
   }
-};
+});
 
 const byHovered = (currentContainer, hovered) => (doc) =>
   Hovered.case(hovered, {
@@ -43,7 +44,6 @@ const byHovered = (currentContainer, hovered) => (doc) =>
 
 const MotionsChart = props => {
   const {type, description, reverse, data, hovered} = props;
-  const dispatch = useDispatch();
   const motions = useMemo(() => values(data), [data]);
 
   return (
@@ -60,7 +60,6 @@ const MotionsChart = props => {
               key={d.dok_id}
               data={d}
               type={type}
-              dispatch={dispatch}
               hovered={hovered}
             />
           ))}

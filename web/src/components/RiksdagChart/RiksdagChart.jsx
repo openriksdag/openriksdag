@@ -13,8 +13,9 @@ import kristdemokraternaLogo from '../../images/logo-kd-large.jpg'
 import RiksdagArc from "./RiksdagArc"
 import Representatives from "./Representatives"
 import {LogosArc} from "./LogosArc"
-import {Hovered} from "../../state/state"
+import {ChangeHover, Hovered} from "../../state/state"
 import {calculateArcs} from "./chart-helpers"
+import {useDispatch} from "react-redux"
 
 const partyData = [
   {label: "V", name: "Vänsterpartiet", logo: vansterpartietLogo, color: "#9B0100"},
@@ -63,6 +64,7 @@ function arrangeRepresentativesInArcs(numArcs, people, date) {
 
 const RiksdagChart = props => {
   const {people, date, hovered} = props;
+  const dispatch = useDispatch()
 
   const numArcs = 10,
     chartWidth = 700,
@@ -88,7 +90,7 @@ const RiksdagChart = props => {
         width: `${textWidth}px`
       }}>
         <div className={"repr-image"}>
-          <img src={data.image} />
+          <img src={data.image} alt={`${name}, ${data.party}`}/>
         </div>
         <div className={"bold"}>
           {name}
@@ -100,6 +102,9 @@ const RiksdagChart = props => {
     },
     otherwise: () => null
   })
+
+  const onHoverRepresentative = (rep) => () => dispatch(ChangeHover(Hovered.Representative(rep)))
+  const onMouseLeaveRep = () => dispatch(ChangeHover(Hovered.Nothing()))
 
   return <div className="pie-container">
     <svg width={chartWidth} height={chartHeight + chartBottomPadding}>
@@ -132,6 +137,8 @@ const RiksdagChart = props => {
           cy={chartHeight}
           hovered={hovered}
           searchDate={date}
+          onHoverRepresentative={onHoverRepresentative}
+          onMouseLeaveRep={onMouseLeaveRep}
         />)}
     </svg>
     {reprText}

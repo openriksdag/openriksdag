@@ -26,17 +26,14 @@ const makeUnion = (name, branches) => {
   const caseFn = (obj, cases) => {
     if (obj == null || obj.tag == null) {
       // Actually an error but fuck that
-      return null
+      throw new Error(`Expecting object created by ${name}`)
     }
-    const cases_ = R.zipObj(
-      R.map(mkTag, R.keys(cases)),
-      R.values(cases)
-    )
-    const handler = cases_[obj.tag]
+    const tag = obj.tag.split('/')[1]
+    const handler = cases[tag]
     if (handler == null && typeof(cases['otherwise']) === 'function') {
       return cases['otherwise'](obj)
     } else if (handler == null) {
-      throw new Error(`Cases must be exhaustive, but case for ${obj.tag} was not found. Use 'otherwise' to handle missing cases`)
+      throw new Error(`Cases must be exhaustive, but case for ${tag} was not found. Use 'otherwise' to handle missing cases`)
     } else {
       return handler(obj)
     }

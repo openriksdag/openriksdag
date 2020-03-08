@@ -1,6 +1,8 @@
 import React from "react";
 import "./Layout.css";
 import gitlogo from "../../images/github.png";
+// import { Link } from 'react-router-dom';
+// import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 const Layout = ({ children }) => {
   return (
@@ -21,7 +23,9 @@ const Layout = ({ children }) => {
       <div className="navbar">
         <div className="rotation-wrapper-outer">
           <div className="rotation-wrapper-inner">
-            <div className="link">About us</div>
+            <div className="link">
+              <a href="../../">About us</a>
+            </div>
           </div>
         </div>
         <div className="rotation-wrapper-outer">

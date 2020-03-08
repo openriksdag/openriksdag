@@ -6,7 +6,7 @@ import Committees from "./components/CommitteesChart/Committees";
 import MotionsChart from "./components/MotionChart/MotionsChart";
 import { useSelector } from "react-redux";
 // import Arrow from './components/Arrow/Arrow';
-import Arrow from './components/Arrow/ArrowWrapper';
+import Arrow from './components/Arrow/Arrow';
 import AboutUs from './components/AboutUs/AboutUs';
 
 function App(props) {
@@ -21,9 +21,9 @@ function App(props) {
   return (
     <Layout>
       <div className="top-section">
-        {/* <Arrow /> */}
+        <Arrow index={0} />
         <RiksdagChart people={peopleData} hovered={hovered} date={searchDate} />
-
+        <Arrow index={3} />
       </div>
 
       <div className="mid-section">
@@ -33,6 +33,7 @@ function App(props) {
           data={motionsData}
           hovered={hovered}
         />
+        {/* <Arrow index={4} /> */}
         <GovernmentChart />
         <MotionsChart
           type="Proposals"
@@ -43,8 +44,9 @@ function App(props) {
         />
       </div>
       <div className="buttom-section">
-
+        <Arrow index={1} />
         <Committees />
+        <Arrow index={2} />
 
       </div>
 

@@ -14,8 +14,8 @@ function App(props) {
     peopleData,
     motionsData,
     propoData,
-    hovered,
-    searchDate
+    searchDate,
+    hovered
   } = useSelector(s => s);
 
   return (

@@ -40,20 +40,16 @@ const byHoverAndSelection = (currentContainer,
                              {representative: hoveredRep, motion: hoveredMotion, proposition: hoveredProp, committee: hoveredCommittee},
                              {representative: selectedRep, motion: selectedMotion, proposition: selectedProp, committee: selectedCommittee},
 ) => (doc) =>
-  ((hoveredRep != null && isInDocument(doc.intressent, hoveredRep.id))
-    || (selectedRep != null && isInDocument(doc.intressent, selectedRep.id))) ||
-  ((selectedRep == null
-    && selectedCommittee == null
-    && (hoveredMotion != null
-      && (currentContainer === "Motions" ? true : isReferencedIn(doc, hoveredMotion))))
-    || (selectedMotion === doc)) ||
-  ((selectedRep == null
-    && selectedCommittee == null
-    && (hoveredProp != null
-      && (currentContainer === "Proposals" ? true : isReferencedIn(doc, hoveredProp))))
-    || (selectedProp === doc)) ||
-  ((hoveredCommittee != null && (currentContainer === "Motions" ? doc.organ : doc.mottagare) === hoveredCommittee)
-    || (selectedCommittee != null && (currentContainer === "Motions" ? doc.organ : doc.mottagare) === selectedCommittee))
+  (selectedRep != null && isInDocument(doc.intressent, selectedRep.id))
+  || (hoveredRep != null && selectedRep == null && isInDocument(doc.intressent, hoveredRep.id))
+  || (selectedCommittee != null && (currentContainer === "Motions" ? doc.organ : doc.mottagare) === selectedCommittee)
+  || (hoveredCommittee != null && selectedCommittee == null && (currentContainer === "Motions" ? doc.organ : doc.mottagare) === hoveredCommittee)
+  || (currentContainer === "Motions" && selectedMotion === doc)
+  || (currentContainer === "Proposals" && selectedProp === doc)
+  || (currentContainer === "Motions" && hoveredProp != null && isReferencedIn(doc, hoveredProp))
+  || (currentContainer === "Proposals" && hoveredMotion != null && isReferencedIn(doc, hoveredMotion))
+  || (currentContainer === "Motions" && selectedProp != null && isReferencedIn(doc, selectedProp))
+  || (currentContainer === "Proposals" && selectedMotion != null && isReferencedIn(doc, selectedMotion))
 
 
 const MotionsChart = props => {
@@ -88,7 +84,7 @@ const MotionsChart = props => {
               hovered={hovered}
               handleMouseOver={handleMouseOver(motion, type)}
               handleMouseLeave={handleMouseLeave}
-              onClick={handleClick((motion, type))}
+              onClick={handleClick(motion, type)}
             />
           ))}
         </div>

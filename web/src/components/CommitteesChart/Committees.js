@@ -1,6 +1,6 @@
 import React from 'react';
 import {useDispatch, useSelector} from "react-redux"
-import {ChangeHover, Hovered} from '../../state/state'
+import {ChangeHover, Select, Selected} from '../../state/state'
 import {isInCommittee} from "../../relation-helpers"
 
 const committeeData = [
@@ -36,9 +36,14 @@ const Committee = ({
                      isHovered,
                      onHover,
                      onLeaveHover,
-                     isHighlighted
+                     isHighlighted,
+                     onClick
                    }) =>
-  (<g onMouseOver={onHover} onMouseLeave={onLeaveHover}>
+  (<g
+    onMouseOver={onHover}
+    onMouseLeave={onLeaveHover}
+    onClick={onClick}
+  >
     <circle cx={cx}
             cy={cy}
             r={committeeRadius}
@@ -49,15 +54,18 @@ const Committee = ({
 
 const Committees = (props) => {
   const dispatch = useDispatch()
-  const {hovered, searchDate} = useSelector(state => state)
+  const {hovered, searchDate, selected} = useSelector(state => state)
 
   const height = 300, width = 400
 
   const isHovered = (name) => hovered.committee != null && hovered.committee === name
 
-
   const isHighlighted = (name) =>
-    (hovered.representative != null && isInCommittee(hovered.representative, name, searchDate))
+    (selected.committee === name)
+    || (selected.representative == null && hovered.representative != null && isInCommittee(hovered.representative, name, searchDate))
+    || (selected.representative != null && isInCommittee(selected.representative, name, searchDate))
+    || (selected.motion != null && selected.motion.organ === name)
+    || (selected.proposition != null && selected.proposition.mottagare === name)
 
   return (<svg viewBox={`0 0 ${width} ${height}`} height={height} width={width}>
     {committeeData.map(({cx, cy, nameSv, shortName}) =>
@@ -67,9 +75,11 @@ const Committees = (props) => {
         cy={cy}
         name={{sv: nameSv, short: shortName}}
         isHovered={isHovered(shortName)}
-        onHover={() => dispatch(ChangeHover(Hovered.Committee(shortName)))}
-        onLeaveHover={() => dispatch(ChangeHover(Hovered.Nothing()))}
-        isHighlighted={isHighlighted(shortName)}/>
+        onHover={() => dispatch(ChangeHover(Selected.Committee(shortName)))}
+        onLeaveHover={() => dispatch(ChangeHover(Selected.Nothing()))}
+        isHighlighted={isHighlighted(shortName)}
+        onClick={() => dispatch(Select(Selected.Committee(shortName)))}
+      />
     )}
   </svg>)
 }

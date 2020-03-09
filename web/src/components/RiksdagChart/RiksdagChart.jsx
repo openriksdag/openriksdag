@@ -13,7 +13,7 @@ import kristdemokraternaLogo from '../../images/logo-kd-large.jpg'
 import RiksdagArc from "./RiksdagArc"
 import Representatives from "./Representatives"
 import {LogosArc} from "./LogosArc"
-import {ChangeHover, Hovered} from "../../state/state"
+import {ChangeHover, Select, Selected} from "../../state/state"
 import {calculateArcs} from "./chart-helpers"
 import {useDispatch} from "react-redux"
 
@@ -63,7 +63,7 @@ function arrangeRepresentativesInArcs(numArcs, people, date) {
 }
 
 const RiksdagChart = props => {
-  const {people, date, hovered} = props;
+  const {people, date, hovered, selected} = props;
   const dispatch = useDispatch()
 
   const numArcs = 10,
@@ -80,7 +80,11 @@ const RiksdagChart = props => {
     [numArcs, people, date]
   )
 
-  const reprText = hovered.representative != null ?
+  const currentRep = hovered.representative != null
+    ? hovered.representative : selected.representative != null
+      ? selected.representative : null
+
+  const reprText = currentRep != null ?
     (<div className={"name-container"} style={{
       position: "absolute",
       bottom: chartBottomPadding - 10,
@@ -88,22 +92,24 @@ const RiksdagChart = props => {
       width: `${textWidth}px`
     }}>
       <div className={"repr-image"}>
-        <img src={hovered.representative.image}
-             alt={`${hovered.representative.first_name} ${hovered.representative.last_name}, ${hovered.representative.party}`}/>
+        <img src={currentRep.image}
+             alt={`${currentRep.first_name} ${currentRep.last_name}, ${currentRep.party}`}/>
       </div>
       <div className={"bold"}>
-        {`${hovered.representative.first_name} ${hovered.representative.last_name}`}
+        {`${currentRep.first_name} ${currentRep.last_name}`}
       </div>
       <div>
-        {hovered.representative.district}
+        {currentRep.district}
       </div>
     </div>)
     : null
 
-  const onHoverRepresentative = (rep) => () => dispatch(ChangeHover(Hovered.Representative(rep)))
-  const onMouseLeaveRep = () => dispatch(ChangeHover(Hovered.Nothing()))
+  const onHoverRepresentative = (rep) => () => dispatch(ChangeHover(Selected.Representative(rep)))
+  const onMouseLeaveRep = () => dispatch(ChangeHover(Selected.Nothing()))
+  const onClickRep = (rep) => () => dispatch(Select(Selected.Representative(rep)))
 
   return <div className="pie-container">
+    {reprText}
     <svg width={chartWidth} height={chartHeight + chartBottomPadding}>
       {arcs.map((arcData, index) =>
         <RiksdagArc
@@ -133,12 +139,13 @@ const RiksdagChart = props => {
           cx={chartWidth / 2}
           cy={chartHeight}
           hovered={hovered}
+          selected={selected}
           searchDate={date}
           onHoverRepresentative={onHoverRepresentative}
           onMouseLeaveRep={onMouseLeaveRep}
+          onClick={onClickRep}
         />)}
     </svg>
-    {reprText}
   </div>;
 };
 

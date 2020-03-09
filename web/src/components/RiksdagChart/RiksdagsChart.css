@@ -1,10 +1,27 @@
 .pie-container {
-  position: relative;
+    position: relative;
+}
+
+.pie-container .representative {
+    stroke-width: 2;
+    fill: rgba(255, 255, 255, 0.67);
 }
 
 .pie-container .representative:hover {
     stroke-width: 2;
-    stroke: rgba(255, 255, 255, 0.7);
+    stroke: rgba(255, 255, 255, 0.8);
+    fill: grey;
+}
+
+.pie-container .representative.selected {
+    stroke-width: 2;
+    stroke: rgba(255, 255, 255, 0.8);
+    fill: rgba(255, 255, 255, 0.8);
+}
+
+.pie-container .representative.disabled {
+    stroke-width: 2;
+    fill: rgba(255, 255, 255, 0.4);
 }
 
 .pie-container .representative.highlight {
@@ -25,11 +42,12 @@
     height: 50px;
     margin: auto;
 }
+
 .pie-container .name-container .repr-image img {
     border-radius: 50%;
 }
 
 .pie-chart {
-  position: absolute;
-  bottom: 0;
+    position: absolute;
+    bottom: 0;
 }

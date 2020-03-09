@@ -1,5 +1,6 @@
 .layout {
   display: flex;
+  justify-content: center;
 }
 
 .title {
@@ -25,7 +26,7 @@
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  width: calc(100% - 50px);
+  width: calc(90vw - 50px);
   margin: 20px 0;
 }
 
@@ -46,12 +47,47 @@
   width: 50px;
   padding: 100% 0px;
 }
-.link {
+.link-wrapper {
   display: block;
   transform-origin: top left;
   transform: rotate(90deg) translate(0, -100%);
   margin-left: 30%;
   white-space: nowrap;
+}
+
+.link{
+  color: white;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #F3D024;
+  text-decoration: none;
+ 
+}
+
+.title-link{
+  color: black;
+  text-decoration: none;
+}
+
+.title-link:hover{
+  color: grey;
+  text-decoration: none;
+}
+
+.about-project-content{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  width: calc(100% - 50px);
+  margin: 20px 0;
+}
+.about-project-content span{
+
+  width:800px;
+  text-align:left;
 }
 
 #git {
@@ -66,12 +102,15 @@ img {
   width: 55%;
 }
 
+.chart {
+  width: 100%;
+}
 .top-section {
   align-items: flex-end;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  width: calc(100vw - 50px);
+  width: 85%;
   margin: auto;
 }
 
@@ -80,7 +119,7 @@ img {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  width: calc(100vw - 50px);
+  width: 100%;
   margin: 20px 0;
 }
 
@@ -89,11 +128,26 @@ img {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  width: calc(100vw - 50px);
+  width: 100%;
   margin: 20px 0;
 }
 
 .government-arrow {
   position: absolute;
-  left: 25vw;
+  left: 33%;
 }
+
+.arrow-position-1{
+  position: absolute;
+  left:14%;
+}
+
+.arrow-position-2{
+  position: absolute;
+  right:20%;
+}
+
+.arrow-disable{
+  display:none;
+}
+

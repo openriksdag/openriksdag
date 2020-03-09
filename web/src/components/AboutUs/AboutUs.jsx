@@ -6,6 +6,7 @@ import Martin from "../../images/Martin.png";
 import Yoav from "../../images/Yoav.png";
 import "./AboutUs.css";
 
+
 const AboutUs = () => {
     return (
         <div className="middle-section">
@@ -48,6 +49,7 @@ const AboutUs = () => {
 
             </div>
         </div>
+
     )
 
 }

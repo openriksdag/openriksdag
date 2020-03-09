@@ -1,71 +1,119 @@
-import React, {memo, useMemo} from "react"
-import * as R from "ramda"
-import {degreesToRadians} from "./chart-helpers"
-import {isInCommittee, isInDocument} from "../../relation-helpers"
+import React, { memo, useMemo } from "react";
+import * as R from "ramda";
+import { degreesToRadians } from "./chart-helpers";
+import { isInCommittee, isInDocument } from "../../relation-helpers";
 
-const Representative = memo(({x, y, isHighlighted, handleMouseOver, handleMouseLeave}) =>
-  <circle
-    cx={x}
-    cy={y}
-    r={5}
-    style={{
-      position: "absolute",
-      fill: "rgba(255, 255, 255, 0.8)",
-    }}
-    className={
-      `representative ${isHighlighted ? "highlight" : ""}`}
-    onMouseOver={handleMouseOver}
-    onMouseLeave={handleMouseLeave}
-  />)
+const Representative = memo(
+  ({
+    x,
+    y,
+    isHighlighted,
+    handleMouseOver,
+    handleMouseLeave,
+    onClick,
+    isSelected,
+    isDisabled
+  }) => (
+    <circle
+      cx={x}
+      cy={y}
+      r={5}
+      style={{
+        position: "absolute"
+      }}
+      className={`representative ${isHighlighted ? "highlight" : ""} ${
+        isSelected ? "selected" : ""
+      } ${isDisabled ? "disabled" : ""}`}
+      onMouseOver={handleMouseOver}
+      onMouseLeave={handleMouseLeave}
+      onClick={onClick}
+    />
+  )
+);
 
-const isHovered = ({representative: hovered}, representative) =>
-  hovered != null && hovered.id === representative.id
+const isSelected = ({ representative: selected }, representative) =>
+  selected != null && selected.id === representative.id;
 
-const isHighlighted = ({committee, motion, proposition}, searchDate, rep) =>
-  (committee != null && isInCommittee(rep, committee, searchDate)) ||
-  (motion != null && isInDocument(motion.intressent, rep.id)) ||
-  (proposition != null && isInDocument(proposition.intressent, rep.id))
+const isDisabled = ({ representative: selected }, representative) =>
+  selected != null && selected.id !== representative.id;
 
-const Representatives = memo(({
-                                innerRadius,
-                                arcWidth,
-                                cx,
-                                cy,
-                                hovered,
-                                searchDate,
-                                arcs,
-                                onHoverRepresentative,
-                                onMouseLeaveRep
-                              }) => {
-  const middleRadius = innerRadius + (arcWidth / 2)
+const isHighlighted = (hovered, selected, searchDate, rep) =>
+  (selected.committee == null &&
+    hovered.committee != null &&
+    isInCommittee(rep, hovered.committee, searchDate)) ||
+  (selected.committee != null &&
+    isInCommittee(rep, selected.committee, searchDate)) ||
+  (hovered.motion != null && isInDocument(hovered.motion.intressent, rep.id)) ||
+  (selected.motion != null && isInDocument(selected.motion.intressent, rep.id));
 
-  const repsData = useMemo(() => R.flatten(
-    arcs.map(({startAngle, endAngle, data}) => {
-      const {reps, count} = data
-      const totalAngle = endAngle - startAngle;
-      const reprAngle = totalAngle / count;
-      return reps.map((repr, index) => {
-        const angle = (startAngle + (reprAngle / 2)) + (reprAngle * index) - degreesToRadians(90)
-        return {
-          data: repr,
-          x: middleRadius * Math.cos(angle),
-          y: middleRadius * Math.sin(angle),
-          isHighlighted: isHighlighted(hovered, searchDate, repr),
-          isHovered: isHovered(hovered, repr)
-        }
-      })
-    })), [hovered, middleRadius, arcs, searchDate])
+const Representatives = memo(
+  ({
+    innerRadius,
+    arcWidth,
+    cx,
+    cy,
+    hovered,
+    selected,
+    searchDate,
+    arcs,
+    onHoverRepresentative,
+    onMouseLeaveRep,
+    onClick
+  }) => {
+    const middleRadius = innerRadius + arcWidth / 2;
 
-  return (<g transform={`translate(${cx} ${cy})`}>
-    {repsData.map(({data, x, y, isHighlighted}) => <Representative
-      x={x}
-      y={y}
-      key={data.id}
-      isHighlighted={isHighlighted}
-      handleMouseOver={onHoverRepresentative(data)}
-      handleMouseLeave={onMouseLeaveRep}
-    />)}
-  </g>)
-})
+    const repsData = useMemo(
+      () =>
+        R.flatten(
+          arcs.map(({ startAngle, endAngle, data }) => {
+            const { reps, count } = data;
+            const totalAngle = endAngle - startAngle;
+            const reprAngle = totalAngle / count;
+            return reps.map((repr, index) => {
+              const angle =
+                startAngle +
+                reprAngle / 2 +
+                reprAngle * index -
+                degreesToRadians(90);
+              return {
+                data: repr,
+                x: middleRadius * Math.cos(angle),
+                y: middleRadius * Math.sin(angle),
+                isHighlighted: isHighlighted(
+                  hovered,
+                  selected,
+                  searchDate,
+                  repr
+                ),
+                isSelected: isSelected(selected, repr),
+                isDisabled: isDisabled(selected, repr)
+              };
+            });
+          })
+        ),
+      [hovered, middleRadius, arcs, searchDate, selected]
+    );
 
-export default Representatives
+    return (
+      <g transform={`translate(${cx} ${cy})`}>
+        {repsData.map(
+          ({ data, x, y, isHighlighted, isSelected, isDisabled }) => (
+            <Representative
+              x={x}
+              y={y}
+              key={data.id}
+              isHighlighted={isHighlighted}
+              isSelected={isSelected}
+              isDisabled={isDisabled}
+              handleMouseOver={onHoverRepresentative(data)}
+              handleMouseLeave={onMouseLeaveRep}
+              onClick={onClick(data)}
+            />
+          )
+        )}
+      </g>
+    );
+  }
+);
+
+export default Representatives;

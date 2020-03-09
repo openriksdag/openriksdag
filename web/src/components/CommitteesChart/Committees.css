@@ -1,7 +1,13 @@
 .committees g.committee circle {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 .committees g.committee text {
-    cursor: pointer;
+  cursor: pointer;
+}
+
+.committee-info {
+  position: absolute;
+  bottom: 20vh;
+  right: 30vw;
 }

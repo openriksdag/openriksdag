@@ -15,9 +15,8 @@ const Title = memo(props => {
         className="motion"
         onMouseEnter={handleMouseOver}
         onMouseLeave={handleMouseLeave}
-        onClick={onClick}
       >
-        <div className="motionTitle">
+        <div className="motionTitle" onClick={onClick}>
           {data.attachments[0].titel} <br />
         </div>
         <div className="motionLink">

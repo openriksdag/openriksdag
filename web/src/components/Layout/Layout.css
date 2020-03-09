@@ -1,5 +1,6 @@
 .layout {
   display: flex;
+  justify-content: center;
 }
 
 .title {
@@ -25,7 +26,7 @@
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  width: calc(100% - 50px);
+  width: calc(90vw - 50px);
   margin: 20px 0;
 }
 
@@ -66,12 +67,15 @@ img {
   width: 55%;
 }
 
+.chart {
+  width: 100%;
+}
 .top-section {
   align-items: flex-end;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  width: calc(100vw - 50px);
+  width: 85%;
   margin: auto;
 }
 
@@ -80,7 +84,7 @@ img {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  width: calc(100vw - 50px);
+  width: 100%;
   margin: 20px 0;
 }
 
@@ -89,11 +93,11 @@ img {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  width: calc(100vw - 50px);
+  width: 100%;
   margin: 20px 0;
 }
 
 .government-arrow {
   position: absolute;
-  left: 25vw;
+  left: 33%;
 }

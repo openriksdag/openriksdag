@@ -3,16 +3,16 @@ import * as d3 from "d3";
 export default class Government {
   constructor(element) {
     const data = [
-      { "cx": "10", "cy": "0" },
-      { "cx": "-15", "cy": "40" },
-      { "cx": "35", "cy": "40" },
-      { "cx": "-40", "cy": "80" },
-      { "cx": "10", "cy": "80" },
-      { "cx": "60", "cy": "80" },
-      { "cx": "-70", "cy": "120" },
-      { "cx": "-20", "cy": "120" },
-      { "cx": "30", "cy": "120" },
-      { "cx": "80", "cy": "120" }
+      { "cx": "10", "cy": "0", "description": "Labor Ministry" },
+      { "cx": "-15", "cy": "40", "description": "Finance Ministry" },
+      { "cx": "35", "cy": "40", "description": "Defense Ministry" },
+      { "cx": "-40", "cy": "80", "description": "Infrastructure Ministry" },
+      { "cx": "10", "cy": "80", "description": "Justice Ministry" },
+      { "cx": "60", "cy": "80", "description": "Culture Ministry" },
+      { "cx": "-70", "cy": "120", "description": "Environment Ministry" },
+      { "cx": "-20", "cy": "120", "description": "Commerce Ministry" },
+      { "cx": "30", "cy": "120", "description": "Social Affair Ministry" },
+      { "cx": "80", "cy": "120", "description": "Education Ministry" }
     ];
 
     var margin = { top: 10, right: 10, buttom: 10, left: 10 },
@@ -27,47 +27,6 @@ export default class Government {
       .append("g")
       .attr("transform", "translate(175,40)");
 
-    // svg
-    //   .append("path")
-    //   .attr("class", "triangle")
-    //   .attr(
-    //     "d",
-    //     "M 0 " +
-    //     -height / 3 +
-    //     " L " +
-    //     -width / 3 +
-    //     " " +
-    //     height / 3 +
-    //     "L " +
-    //     width / 3 +
-    //     " " +
-    //     height / 3 +
-    //     " Z"
-    //   )
-    //   .style("fill", "#EA222A")
-    //   .attr("transform", "translate(8,40)");
-
-    // svg.append("svg:defs").append("svg:marker")
-    //   .attr("id", "triangle")
-    //   .attr("refX", 6)
-    //   .attr("refY", 6)
-    //   .attr("markerWidth", 30)
-    //   .attr("markerHeight", 30)
-    //   .attr("markerUnits", "userSpaceOnUse")
-    //   .attr("orient", "auto")
-    //   .append("path")
-    //   .attr("d", "M 0 0 12 6 0 12 3 6")
-    //   .style("fill", "#999999");
-
-    // svg.append("line")
-    //   .attr("x1", 10)
-    //   .attr("y1", 10)
-    //   .attr("x2", 20)
-    //   .attr("y2", 20)
-    //   .attr("stroke-width", 2)
-    //   .attr("stroke", "#999999")
-    //   .attr("marker-end", "url(#triangle)");
-
     const circles = svg.selectAll("circle")
       .data(data);
 
@@ -76,22 +35,83 @@ export default class Government {
       .attr("cy", d => d.cy)
       .attr("r", "20")
       .attr("fill", "white")
-    // .on("mouseover", function () {
-    //   d3.select(this).attr("fill", "#999999")
-    // })
-    // .on("mouseout", function () {
-    //   d3.select(this).attr("fill", "white")
-    // })
+      // .on("mouseover", function () {
+      //   d3.select(this).attr("fill", "#999999")
+      // })
+      // .on("mouseout", function () {
+      //   d3.select(this).attr("fill", "white")
+      // })
+      .on('mouseover', function () {
+        tooltip.style("display", null)
+        d3.select(this).attr("fill", "#999999")
+      })
+      .on('mouseout', function () {
+        tooltip.style("display", "none")
+        d3.select(this).attr("fill", "white")
+      })
+      .on('mousemove', function (d) {
+        var xPos = d3.mouse(this)[0] - 15;
+        var yPos = d3.mouse(this)[1] + 15;
+        console.log("mouseover");
+
+        tooltip.attr("transform", "translate(" + xPos + "," + yPos + ")");
+        tooltip.select("text").text(d.description).each(wrap);
+
+      })
+
+
+    var tooltip = svg.append("g")
+      .attr("class", tooltip)
+      .style("display", "none")
+
+    tooltip.append("rect")
+      .attr("x", -15)
+      .attr("y", 0)
+      .attr("width", 150)
+      .attr("height", 25)
+      .attr("rx", "5")
+      .attr("fill", "#ECECEC")
+
+    tooltip.append("text")
+      .attr("x", 15)
+      .attr("dy", "1.2em")
+      .style("font-size", "0.8em")
+      .style("background-color", "grey")
+
+
+    svg.append("text")
+      .attr("x", "-45")
+      .attr("y", "180")
+      .attr("fill", "black")
+      .text("GOVERNMENT")
+
+    function wrap() {
+      var text = d3.select(this)
+      text.each(function () {
+        var text = d3.select(this),
+          words = text.text().split(/\s+/).reverse(),
+          word,
+          line = [],
+          lineNumber = 0,
+          lineHeight = 0.1, // ems
+          y = text.attr("y"),
+          dy = parseFloat(text.attr("dy")),
+          tspan = text.text(null).append("tspan").attr("x", 0).attr("y", y).attr("dy", dy + "em");
+        while (word = words.pop()) {
+          line.push(word);
+          tspan.text(line.join(" "));
+          if (tspan.node().getComputedTextLength() > 300) {
+            line.pop();
+            tspan.text(line.join(" "));
+            line = [word];
+            tspan = text.append("tspan").attr("x", 0).attr("y", y).attr("dy", ++lineNumber * lineHeight + dy + "em").text(word);
+          }
+        }
+      });
+    }
+
+
 
   }
 }
 
-function rightRoundedRect(x, y, width, height, radius) {
-  return "M" + x + "," + y
-    + "h" + (width - radius)
-    + "a" + radius + "," + radius + " 0 0 1 " + radius + "," + radius
-    + "v" + (height - 2 * radius)
-    + "a" + radius + "," + radius + " 0 0 1 " + -radius + "," + radius
-    + "h" + (radius - width)
-    + "z";
-}

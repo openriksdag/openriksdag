@@ -9,8 +9,6 @@
   width: 100px;
   padding: 12px;
   text-align: end;
-}
-#description {
   text-transform: uppercase;
   font-size: 10pt;
 }
@@ -27,12 +25,13 @@
   justify-content: center;
   align-items: center;
   position: relative;
-  width: 144px;
-  height: 165px;
+  width: 200px;
+  height: 250px;
   background-color: #eaeaea;
-  border: solid #eaeaea 1px;
+  border: solid #eaeaea 4px;
   margin: 0;
   padding: 0px;
+  border-radius: 5px;
 }
 
 .motionType {
@@ -46,6 +45,7 @@
   position: absolute;
   display: flex;
   overflow-y: scroll;
+  overflow-x: hidden;
   width: 100%;
   height: 100%;
   flex-wrap: wrap;
@@ -53,18 +53,30 @@
 }
 
 .motion {
+  display: flex;
   background-color: white;
   width: 100%;
   margin: 3px;
   overflow: clip;
-  font-size: 7pt;
+  font-size: 8pt;
   padding: 3px;
+  border: solid white 1px;
+  border-radius: 5px;
 }
 .motion:hover {
-  border: solid grey 1px;
-  padding: 2px;
+  border-color: green;
 }
 
-a {
-  text-decoration: none;
+.motionTitle {
+  width: 95%;
+}
+.motionLink {
+  width: 5%;
+  height: 100%;
+  align-items: center;
+  justify-self: flex-end;
+  padding-left: 10px;
+}
+.motionLink img {
+  width: 10px;
 }

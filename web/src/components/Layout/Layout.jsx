@@ -23,9 +23,7 @@ const Layout = ({ children }) => {
       <div className="navbar">
         <div className="rotation-wrapper-outer">
           <div className="rotation-wrapper-inner">
-            <div className="link">
-              <a href="../../">About us</a>
-            </div>
+            <div className="link">About us</div>
           </div>
         </div>
         <div className="rotation-wrapper-outer">

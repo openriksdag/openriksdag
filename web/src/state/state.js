@@ -3,7 +3,7 @@ import propoData from "../data/propositions.json";
 import motionsData from "../data/motions.json";
 import {configureStore, createAction, createReducer} from "@reduxjs/toolkit";
 import makeUnion from "./union";
-import {original} from "immer"
+import {isDraft, original} from "immer"
 
 export const Selected = makeUnion("Selected", {
   Nothing: () => ({}),
@@ -46,7 +46,7 @@ const reducer = createReducer(initialState, {
   }),
   [Select.type]: (state, action) => {
     const selected = state.selected
-    const toggle = (current, newVal) => original(current) !== newVal ? newVal : null
+    const toggle = (current, newVal) => (isDraft(current) ? original(current) : current) !== newVal ? newVal : null
     return ({
       ...state,
       selected: Selected.case(action.payload, {

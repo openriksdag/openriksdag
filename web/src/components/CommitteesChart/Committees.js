@@ -1,6 +1,6 @@
 import React from 'react';
 import {useDispatch, useSelector} from "react-redux"
-import {ChangeHover, Hovered} from '../../state/state'
+import {ChangeHover, Selected} from '../../state/state'
 import {isInCommittee} from "../../relation-helpers"
 
 const committeeData = [
@@ -67,8 +67,8 @@ const Committees = (props) => {
         cy={cy}
         name={{sv: nameSv, short: shortName}}
         isHovered={isHovered(shortName)}
-        onHover={() => dispatch(ChangeHover(Hovered.Committee(shortName)))}
-        onLeaveHover={() => dispatch(ChangeHover(Hovered.Nothing()))}
+        onHover={() => dispatch(ChangeHover(Selected.Committee(shortName)))}
+        onLeaveHover={() => dispatch(ChangeHover(Selected.Nothing()))}
         isHighlighted={isHighlighted(shortName)}/>
     )}
   </svg>)

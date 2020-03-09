@@ -15,14 +15,15 @@ function App(props) {
     motionsData,
     propoData,
     searchDate,
-    hovered
+    hovered,
+    selected,
   } = useSelector(s => s);
 
   return (
     <Layout>
       <div className="top-section">
         <Arrow index={0} />
-        <RiksdagChart people={peopleData} hovered={hovered} date={searchDate} />
+        <RiksdagChart people={peopleData} hovered={hovered} selected={selected} date={searchDate} />
         <Arrow index={3} />
       </div>
 
@@ -32,6 +33,7 @@ function App(props) {
           description="Motions and Proposals"
           data={motionsData}
           hovered={hovered}
+          selected={selected}
         />
         <div className="government-arrow">
           <Arrow index={4} />
@@ -43,6 +45,7 @@ function App(props) {
           description="Proposals for decision"
           data={propoData}
           hovered={hovered}
+          selected={selected}
           reverse
         />
       </div>

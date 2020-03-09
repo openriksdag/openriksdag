@@ -4,6 +4,7 @@ import { values } from "ramda";
 import { useDispatch } from "react-redux";
 import { ChangeHover, Hovered } from "../../state/state";
 import { isInDocument, isReferencedIn } from "../../relation-helpers";
+import extLink from "../../images/ext-link.png";
 
 const Title = memo(props => {
   const { data, handleMouseOver, handleMouseLeave } = props;
@@ -12,21 +13,21 @@ const Title = memo(props => {
       <div
         key={data.dok_id}
         className="motion"
-        /*onMouseEnter={handleMouseOver}
-        onMouseLeave={handleMouseLeave}*/
+        onMouseEnter={handleMouseOver}
+        onMouseLeave={handleMouseLeave}
       >
-        <div onClick={handleMouseOver}>
+        <div className="motionTitle">
           {data.attachments[0].titel} <br />
-          <br />
         </div>
-
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href={data.attachments[0].url}
-        >
-          <div className="motionLink"> Läs mer / Read more</div>
-        </a>
+        <div className="motionLink">
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            href={data.attachments[0].url}
+          >
+            <img src={extLink} alt="Read more" />
+          </a>
+        </div>
       </div>
     );
   } else {

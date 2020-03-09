@@ -1,0 +1,7 @@
+.committees g.committee circle {
+    cursor: pointer;
+}
+
+.committees g.committee text {
+    cursor: pointer;
+}

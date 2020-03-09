@@ -1,4 +1,5 @@
 import React from 'react';
+import './Committees.css';
 import {useDispatch, useSelector} from "react-redux"
 import {ChangeHover, Select, Selected} from '../../state/state'
 import {isInCommittee} from "../../relation-helpers"
@@ -40,6 +41,7 @@ const Committee = ({
                      onClick
                    }) =>
   (<g
+    className={"committee"}
     onMouseOver={onHover}
     onMouseLeave={onLeaveHover}
     onClick={onClick}
@@ -67,7 +69,7 @@ const Committees = (props) => {
     || (selected.motion != null && selected.motion.organ === name)
     || (selected.proposition != null && selected.proposition.mottagare === name)
 
-  return (<svg viewBox={`0 0 ${width} ${height}`} height={height} width={width}>
+  return (<svg viewBox={`0 0 ${width} ${height}`} height={height} width={width} className={"committees"}>
     {committeeData.map(({cx, cy, nameSv, shortName}) =>
       <Committee
         key={`committee-${shortName}`}

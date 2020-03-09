@@ -5,6 +5,7 @@
 .pie-container .representative {
     stroke-width: 2;
     fill: rgba(255, 255, 255, 0.67);
+    cursor: pointer;
 }
 
 .pie-container .representative:hover {

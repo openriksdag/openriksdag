@@ -1,0 +1,30 @@
+.arrow {
+    display: block;
+    position: relative;
+}
+
+.arrow .label {
+    position: absolute;
+    color: #D4D4D4;
+}
+
+.arrow.arrow-representative .label {
+    left: 55px;
+    top: 38px;
+    text-align: right;
+}
+
+.arrow.arrow-motion .label {
+    left: 0;
+    top: 110px;
+}
+
+.arrow.arrow-proposition .label {
+    left: 0;
+    top: 62px;
+}
+.arrow.arrow-committee .label {
+    left: 0;
+    top: 0;
+}
+

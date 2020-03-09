@@ -30,7 +30,7 @@ const committeeRadius = 25,
     text: "white",
     hover: "black",
     highlight: "black"
-  }
+  };
 
 const Committee = ({
   cx,
@@ -41,39 +41,59 @@ const Committee = ({
   onLeaveHover,
   isHighlighted,
   onClick
-}) =>
-  (<g
-    className={"committee"}
-    onMouseOver={onHover}
-    onMouseLeave={onLeaveHover}
-    onClick={onClick}
-  >
-    <circle cx={cx}
-      cy={cy}
-      r={committeeRadius}
-      fill={isHovered ? committeeColors.hover : isHighlighted ? committeeColors.highlight : committeeColors.background}
-    />
-    <text x={cx} y={cy + 5} textAnchor={'middle'} fill={committeeColors.text}>{shortName}</text>
-  </g>)
+}) => (
+    <g
+      className={"committee"}
+      onMouseOver={onHover}
+      onMouseLeave={onLeaveHover}
+      onClick={onClick}
+    >
+      <circle
+        cx={cx}
+        cy={cy}
+        r={committeeRadius}
+        fill={
+          isHovered
+            ? committeeColors.hover
+            : isHighlighted
+              ? committeeColors.highlight
+              : committeeColors.background
+        }
+      />
+      <text x={cx} y={cy + 5} textAnchor={"middle"} fill={committeeColors.text}>
+        {shortName}
+      </text>
+    </g>
+  );
 
-const Committees = (props) => {
-  const dispatch = useDispatch()
-  const { hovered, searchDate, selected } = useSelector(state => state)
+const Committees = props => {
+  const dispatch = useDispatch();
+  const { hovered, searchDate, selected } = useSelector(state => state);
 
-  const height = 300, width = 400
+  const height = 300,
+    width = 400;
 
-  const isHovered = (name) => hovered.committee != null && hovered.committee === name
+  const isHovered = name =>
+    hovered.committee != null && hovered.committee === name;
 
-  const isHighlighted = (name) =>
-    (selected.committee === name)
-    || (selected.representative == null && hovered.representative != null && isInCommittee(hovered.representative, name, searchDate))
-    || (selected.representative != null && isInCommittee(selected.representative, name, searchDate))
-    || (selected.motion != null && selected.motion.organ === name)
-    || (selected.proposition != null && selected.proposition.mottagare === name)
+  const isHighlighted = name =>
+    selected.committee === name ||
+    (selected.representative == null &&
+      hovered.representative != null &&
+      isInCommittee(hovered.representative, name, searchDate)) ||
+    (selected.representative != null &&
+      isInCommittee(selected.representative, name, searchDate)) ||
+    (selected.motion != null && selected.motion.organ === name) ||
+    (selected.proposition != null && selected.proposition.organ === name);
 
   return (
-    <svg viewBox={`0 0 ${width} ${height}`} height={height} width={width} className={"committees"}>
-      {committeeData.map(({ cx, cy, nameSv, shortName }) =>
+    <svg
+      viewBox={`0 0 ${width} ${height}`}
+      height={height}
+      width={width}
+      className={"committees"}
+    >
+      {committeeData.map(({ cx, cy, nameSv, shortName }) => (
         <Committee
           key={`committee-${shortName}`}
           cx={cx}
@@ -85,8 +105,8 @@ const Committees = (props) => {
           isHighlighted={isHighlighted(shortName)}
           onClick={() => dispatch(Select(Selected.Committee(shortName)))}
         />
-      )}
-      <text x="190" y="260" fill="black" textAnchor={'middle'}>COMMITTEES</text>
-    </svg>)
-}
-export default Committees
+      ))}
+    </svg>
+  );
+};
+export default Committees;

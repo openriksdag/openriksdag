@@ -3,28 +3,34 @@ import * as R from "ramda"
 import {degreesToRadians} from "./chart-helpers"
 import {isInCommittee, isInDocument} from "../../relation-helpers"
 
-const Representative = memo(({x, y, isHighlighted, handleMouseOver, handleMouseLeave}) =>
+const Representative = memo(({x, y, isHighlighted, handleMouseOver, handleMouseLeave, onClick, isSelected, isDisabled}) =>
   <circle
     cx={x}
     cy={y}
     r={5}
     style={{
       position: "absolute",
-      fill: "rgba(255, 255, 255, 0.8)",
     }}
     className={
-      `representative ${isHighlighted ? "highlight" : ""}`}
+      `representative ${isHighlighted ? "highlight" : ""} ${isSelected ? "selected" : ""} ${isDisabled ? "disabled" : ""}`}
     onMouseOver={handleMouseOver}
     onMouseLeave={handleMouseLeave}
+    onClick={onClick}
   />)
 
-const isHovered = ({representative: hovered}, representative) =>
-  hovered != null && hovered.id === representative.id
+const isSelected = ({representative: selected}, representative) =>
+  selected != null && selected.id === representative.id
 
-const isHighlighted = ({committee, motion, proposition}, searchDate, rep) =>
-  (committee != null && isInCommittee(rep, committee, searchDate)) ||
-  (motion != null && isInDocument(motion.intressent, rep.id)) ||
-  (proposition != null && isInDocument(proposition.intressent, rep.id))
+const isDisabled = ({representative: selected}, representative) =>
+  selected != null && selected.id !== representative.id
+
+const isHighlighted = (hovered, selected, searchDate, rep) =>
+  (selected.committee == null && hovered.committee != null && isInCommittee(rep, hovered.committee, searchDate))
+  || (selected.committee != null && isInCommittee(rep, selected.committee, searchDate))
+  || (hovered.motion != null && isInDocument(hovered.motion.intressent, rep.id))
+  || (selected.motion != null && isInDocument(selected.motion.intressent, rep.id))
+  || (hovered.proposition != null && isInDocument(hovered.proposition.intressent, rep.id))
+  || (selected.proposition != null && isInDocument(selected.proposition.intressent, rep.id))
 
 const Representatives = memo(({
                                 innerRadius,
@@ -32,10 +38,12 @@ const Representatives = memo(({
                                 cx,
                                 cy,
                                 hovered,
+                                selected,
                                 searchDate,
                                 arcs,
                                 onHoverRepresentative,
-                                onMouseLeaveRep
+                                onMouseLeaveRep,
+                                onClick
                               }) => {
   const middleRadius = innerRadius + (arcWidth / 2)
 
@@ -50,20 +58,24 @@ const Representatives = memo(({
           data: repr,
           x: middleRadius * Math.cos(angle),
           y: middleRadius * Math.sin(angle),
-          isHighlighted: isHighlighted(hovered, searchDate, repr),
-          isHovered: isHovered(hovered, repr)
+          isHighlighted: isHighlighted(hovered, selected, searchDate, repr),
+          isSelected: isSelected(selected, repr),
+          isDisabled: isDisabled(selected, repr),
         }
       })
-    })), [hovered, middleRadius, arcs, searchDate])
+    })), [hovered, middleRadius, arcs, searchDate, selected])
 
   return (<g transform={`translate(${cx} ${cy})`}>
-    {repsData.map(({data, x, y, isHighlighted}) => <Representative
+    {repsData.map(({data, x, y, isHighlighted, isSelected, isDisabled}) => <Representative
       x={x}
       y={y}
       key={data.id}
       isHighlighted={isHighlighted}
+      isSelected={isSelected}
+      isDisabled={isDisabled}
       handleMouseOver={onHoverRepresentative(data)}
       handleMouseLeave={onMouseLeaveRep}
+      onClick={onClick(data)}
     />)}
   </g>)
 })

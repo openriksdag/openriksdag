@@ -17,26 +17,22 @@ function App(props) {
     motionsData,
     propoData,
     searchDate,
-    hovered
+    hovered,
+    selected,
   } = useSelector(s => s);
 
   return (
 
     <BrowserRouter>
-      {/* <Route path="/" render={() => (
-        // <Layout />
-      )} /> */}
+
       <Route path="/about" render={() => (
         <Layout>
-
           <AboutUs />
           <div className="arrow-disable">
             <Arrow index={4} />
           </div>
-
         </Layout>
-      )
-      } />
+      )} />
 
       <Route path="/project" render={() => (
         <Layout>
@@ -45,17 +41,15 @@ function App(props) {
           <div className="arrow-disable">
             <Arrow index={4} />
           </div>
-
-
         </Layout>
-
       )} />
 
       <Route exact path="/" render={() => (
+
         <Layout>
           <div className="top-section">
             <Arrow index={0} />
-            <RiksdagChart people={peopleData} hovered={hovered} date={searchDate} />
+            <RiksdagChart people={peopleData} hovered={hovered} selected={selected} date={searchDate} />
             <Arrow index={3} />
           </div>
 
@@ -65,82 +59,31 @@ function App(props) {
               description="Motions and Proposals"
               data={motionsData}
               hovered={hovered}
+              selected={selected}
             />
-            <div className="arrow-position-4">
+            <div className="government-arrow">
               <Arrow index={4} />
             </div>
             <GovernmentChart />
+
             <MotionsChart
               type="Proposals"
               description="Proposals for decision"
               data={propoData}
               hovered={hovered}
+              selected={selected}
               reverse
             />
           </div>
-
-          <div className="buttom-section">
-            <div className="arrow-position-1">
-              <Arrow index={1} />
-            </div>
+          <div className="bottom-section">
+            <Arrow index={1} />
             <Committees />
-            <div className="arrow-position-2">
-              <Arrow index={2} />
-            </div>
+            <Arrow index={2} />
           </div>
-
         </Layout>
 
       )} />
-
     </BrowserRouter>
-
-    // <Layout>
-    //   <div className="top-section">
-
-    //     <Arrow index={0} />
-    //     <RiksdagChart people={peopleData} hovered={hovered} date={searchDate} />
-    //     <Arrow index={3} />
-    //   </div>
-
-    //   <div className="mid-section">
-    //     <MotionsChart
-    //       type="Motions"
-    //       description="Motions and Proposals"
-    //       data={motionsData}
-    //       hovered={hovered}
-    //     />
-    //     <div className="arrow-position-4">
-    //       <Arrow index={4} />
-    //     </div>
-    //     <GovernmentChart />
-
-
-
-
-    //     <MotionsChart
-    //       type="Proposals"
-    //       description="Proposals for decision"
-    //       data={propoData}
-    //       hovered={hovered}
-    //       reverse
-    //     />
-    //   </div>
-    //   <div className="buttom-section">
-    //     <div className="arrow-position-1">
-    //       <Arrow index={1} />
-    //     </div>
-    //     <Committees />
-    //     <div className="arrow-position-2">
-    //       <Arrow index={2} />
-    //     </div>
-
-
-    //   </div>
-
-
-
-    // </Layout>
   );
 }
 

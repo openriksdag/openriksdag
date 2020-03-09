@@ -1,13 +1,13 @@
 import React, { memo, useCallback, useMemo } from "react";
 import "./MotionsChart.css";
-import { values } from "ramda";
-import { useDispatch } from "react-redux";
-import { ChangeHover, Hovered } from "../../state/state";
-import { isInDocument, isReferencedIn } from "../../relation-helpers";
+import {values} from "ramda";
+import {useDispatch} from "react-redux";
+import {ChangeHover, Select, Selected} from "../../state/state";
+import {isInDocument, isReferencedIn} from "../../relation-helpers"
 import extLink from "../../images/ext-link.png";
 
 const Title = memo(props => {
-  const { data, handleMouseOver, handleMouseLeave } = props;
+  const {data, handleMouseOver, handleMouseLeave, onClick} = props;
   if (data.attachments[0]) {
     return (
       <div
@@ -15,6 +15,7 @@ const Title = memo(props => {
         className="motion"
         onMouseEnter={handleMouseOver}
         onMouseLeave={handleMouseLeave}
+        onClick={onClick}
       >
         <div className="motionTitle">
           {data.attachments[0].titel} <br />
@@ -35,42 +36,38 @@ const Title = memo(props => {
   }
 });
 
-const byHovered = (
-  currentContainer,
-  { representative, motion, proposition, committee }
-) => doc =>
-  (representative != null && isInDocument(doc.intressent, representative.id)) ||
-  (motion != null &&
-    (currentContainer === "Motions" ? true : isReferencedIn(doc, motion))) ||
-  (proposition != null &&
-    (currentContainer === "Proposals"
-      ? true
-      : isReferencedIn(doc, proposition))) ||
-  (committee != null &&
-    (currentContainer === "Motions" ? doc.organ : doc.mottagare) ===
-      committee) ||
-  (representative == null &&
-    motion == null &&
-    proposition == null &&
-    committee == null);
+const byHoverAndSelection = (currentContainer,
+                             {representative: hoveredRep, motion: hoveredMotion, proposition: hoveredProp, committee: hoveredCommittee},
+                             {representative: selectedRep, motion: selectedMotion, proposition: selectedProp, committee: selectedCommittee},
+) => (doc) =>
+  (selectedRep != null && isInDocument(doc.intressent, selectedRep.id))
+  || (hoveredRep != null && selectedRep == null && isInDocument(doc.intressent, hoveredRep.id))
+  || (selectedCommittee != null && (currentContainer === "Motions" ? doc.organ : doc.mottagare) === selectedCommittee)
+  || (hoveredCommittee != null && selectedCommittee == null && (currentContainer === "Motions" ? doc.organ : doc.mottagare) === hoveredCommittee)
+  || (currentContainer === "Motions" && selectedMotion === doc)
+  || (currentContainer === "Proposals" && selectedProp === doc)
+  || (currentContainer === "Motions" && hoveredProp != null && isReferencedIn(doc, hoveredProp))
+  || (currentContainer === "Proposals" && hoveredMotion != null && isReferencedIn(doc, hoveredMotion))
+  || (currentContainer === "Motions" && selectedProp != null && isReferencedIn(doc, selectedProp))
+  || (currentContainer === "Proposals" && selectedMotion != null && isReferencedIn(doc, selectedMotion))
+
 
 const MotionsChart = props => {
-  const { type, description, reverse, data, hovered } = props;
+  const {type, description, reverse, data, hovered, selected} = props;
   const motions = useMemo(() => values(data), [data]);
-  const filteredMotions = motions.filter(byHovered(type, hovered));
+  const filteredMotions = motions.filter(byHoverAndSelection(type, hovered, selected))
 
-  const dispatch = useDispatch();
-  const handleMouseLeave = useCallback(
-    () => dispatch(ChangeHover(Hovered.Nothing())),
-    [dispatch]
-  );
-
+  const dispatch = useDispatch()
+  const handleMouseLeave = useCallback(() => dispatch(ChangeHover(Selected.Nothing())), [dispatch]);
   const handleMouseOver = (data, type) => () =>
     dispatch(
       ChangeHover(
-        type === "Motions" ? Hovered.Motion(data) : Hovered.Proposition(data)
+        type === "Motions" ? Selected.Motion(data) : Selected.Proposition(data)
       )
     );
+
+  const handleClick = (data, type) => () => dispatch(
+    Select(type === "Motions" ? Selected.Motion(data) : Selected.Proposition(data)))
 
   return (
     <div className={reverse ? "wrapper reverse" : "wrapper"}>
@@ -87,6 +84,7 @@ const MotionsChart = props => {
               hovered={hovered}
               handleMouseOver={handleMouseOver(motion, type)}
               handleMouseLeave={handleMouseLeave}
+              onClick={handleClick(motion, type)}
             />
           ))}
         </div>

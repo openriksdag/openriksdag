@@ -76,12 +76,12 @@ export default class Government {
       .attr("cy", d => d.cy)
       .attr("r", "20")
       .attr("fill", "white")
-      .on("mouseover", function () {
-        d3.select(this).attr("fill", "#999999")
-      })
-      .on("mouseout", function () {
-        d3.select(this).attr("fill", "white")
-      })
+    // .on("mouseover", function () {
+    //   d3.select(this).attr("fill", "#999999")
+    // })
+    // .on("mouseout", function () {
+    //   d3.select(this).attr("fill", "white")
+    // })
 
   }
 }

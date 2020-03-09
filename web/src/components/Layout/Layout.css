@@ -46,12 +46,47 @@
   width: 50px;
   padding: 100% 0px;
 }
-.link {
+.link-wrapper {
   display: block;
   transform-origin: top left;
   transform: rotate(90deg) translate(0, -100%);
   margin-left: 30%;
   white-space: nowrap;
+}
+
+.link{
+  color: white;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #F3D024;
+  text-decoration: none;
+ 
+}
+
+.title-link{
+  color: black;
+  text-decoration: none;
+}
+
+.title-link:hover{
+  color: grey;
+  text-decoration: none;
+}
+
+.about-project-content{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  width: calc(100% - 50px);
+  margin: 20px 0;
+}
+.about-project-content span{
+
+  width:800px;
+  text-align:left;
 }
 
 #git {
@@ -95,9 +130,10 @@ img {
   margin: 20px 0;
 }
 
+
 .arrow-position-4{
   position: absolute;
-  left:25%;
+  left:30%;
 }
 
 .arrow-position-1{
@@ -110,4 +146,7 @@ img {
   right:20%;
 }
 
+.arrow-disable{
+  display:none;
+}
 

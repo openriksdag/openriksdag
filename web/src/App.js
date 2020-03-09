@@ -29,7 +29,7 @@ function App(props) {
         <Layout>
           <AboutUs />
           <div className="arrow-disable">
-            <Arrow index={4} />
+            <svg></svg>
           </div>
         </Layout>
       )} />
@@ -39,7 +39,7 @@ function App(props) {
 
           <AboutProject />
           <div className="arrow-disable">
-            <Arrow index={4} />
+            <svg></svg>
           </div>
         </Layout>
       )} />
@@ -48,9 +48,9 @@ function App(props) {
 
         <Layout>
           <div className="top-section">
-            <Arrow index={0} shownFor={'representative'} hovered={hovered} selected={selected}/>
-            <RiksdagChart people={peopleData} hovered={hovered} selected={selected} date={searchDate}/>
-            <Arrow index={3} shownFor={'proposition'} hovered={hovered} selected={selected}/>
+            <Arrow index={0} shownFor={'representative'} hovered={hovered} selected={selected} />
+            <RiksdagChart people={peopleData} hovered={hovered} selected={selected} date={searchDate} />
+            <Arrow index={3} shownFor={'proposition'} hovered={hovered} selected={selected} />
           </div>
 
           <div className="mid-section">
@@ -62,7 +62,7 @@ function App(props) {
               selected={selected}
             />
             <div className="government-arrow">
-              <Arrow index={4} shownFor={'government'} hovered={hovered} selected={selected}/>
+              <Arrow index={4} shownFor={'government'} hovered={hovered} selected={selected} />
             </div>
             <GovernmentChart />
 
@@ -76,9 +76,9 @@ function App(props) {
             />
           </div>
           <div className="bottom-section">
-            <Arrow index={1} shownFor={'motion'} hovered={hovered} selected={selected}/>
-            <Committees/>
-            <Arrow index={2} shownFor={'committee'} hovered={hovered} selected={selected}/>
+            <Arrow index={1} shownFor={'motion'} hovered={hovered} selected={selected} />
+            <Committees />
+            <Arrow index={2} shownFor={'committee'} hovered={hovered} selected={selected} />
           </div>
         </Layout>
 

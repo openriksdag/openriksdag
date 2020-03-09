@@ -106,6 +106,7 @@ const Committees = props => {
           onClick={() => dispatch(Select(Selected.Committee(shortName)))}
         />
       ))}
+      <text x="190" y="260" fill="black" textAnchor={'middle'}>COMMITTEES</text>
     </svg>
   );
 };

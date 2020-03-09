@@ -1,12 +1,13 @@
-import React, {memo, useCallback, useMemo} from "react";
+import React, { memo, useCallback, useMemo } from "react";
 import "./MotionsChart.css";
-import {values} from "ramda";
-import {useDispatch} from "react-redux";
-import {ChangeHover, Hovered} from "../../state/state";
-import {isInDocument, isReferencedIn} from "../../relation-helpers"
+import { values } from "ramda";
+import { useDispatch } from "react-redux";
+import { ChangeHover, Hovered } from "../../state/state";
+import { isInDocument, isReferencedIn } from "../../relation-helpers";
+import extLink from "../../images/ext-link.png";
 
 const Title = memo(props => {
-  const {data, handleMouseOver, handleMouseLeave} = props;
+  const { data, handleMouseOver, handleMouseLeave } = props;
   if (data.attachments[0]) {
     return (
       <div
@@ -15,9 +16,18 @@ const Title = memo(props => {
         onMouseEnter={handleMouseOver}
         onMouseLeave={handleMouseLeave}
       >
-        <a target="_blank" rel="noopener noreferrer" href={data.attachments[0].url}>
-          {data.attachments[0].titel}
-        </a>
+        <div className="motionTitle">
+          {data.attachments[0].titel} <br />
+        </div>
+        <div className="motionLink">
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            href={data.attachments[0].url}
+          >
+            <img src={extLink} alt="Read more" />
+          </a>
+        </div>
       </div>
     );
   } else {
@@ -25,36 +35,52 @@ const Title = memo(props => {
   }
 });
 
-const byHovered = (currentContainer, {representative, motion, proposition, committee}) => (doc) =>
+const byHovered = (
+  currentContainer,
+  { representative, motion, proposition, committee }
+) => doc =>
   (representative != null && isInDocument(doc.intressent, representative.id)) ||
-  (motion != null && (currentContainer === "Motions" ? true : isReferencedIn(doc, motion))) ||
-  (proposition != null && (currentContainer === "Proposals" ? true : isReferencedIn(doc, proposition))) ||
-  (committee != null && (currentContainer === "Motions" ? doc.organ : doc.mottagare) === committee) ||
-  (representative == null && motion == null && proposition == null && committee == null)
+  (motion != null &&
+    (currentContainer === "Motions" ? true : isReferencedIn(doc, motion))) ||
+  (proposition != null &&
+    (currentContainer === "Proposals"
+      ? true
+      : isReferencedIn(doc, proposition))) ||
+  (committee != null &&
+    (currentContainer === "Motions" ? doc.organ : doc.mottagare) ===
+      committee) ||
+  (representative == null &&
+    motion == null &&
+    proposition == null &&
+    committee == null);
 
 const MotionsChart = props => {
-  const {type, description, reverse, data, hovered} = props;
+  const { type, description, reverse, data, hovered } = props;
   const motions = useMemo(() => values(data), [data]);
-  const filteredMotions = motions.filter(byHovered(type, hovered))
+  const filteredMotions = motions.filter(byHovered(type, hovered));
 
-  const dispatch = useDispatch()
-  const handleMouseLeave = useCallback(() => dispatch(ChangeHover(Hovered.Nothing())), [dispatch]);
+  const dispatch = useDispatch();
+  const handleMouseLeave = useCallback(
+    () => dispatch(ChangeHover(Hovered.Nothing())),
+    [dispatch]
+  );
+
   const handleMouseOver = (data, type) => () =>
     dispatch(
       ChangeHover(
         type === "Motions" ? Hovered.Motion(data) : Hovered.Proposition(data)
       )
-    )
+    );
 
   return (
     <div className={reverse ? "wrapper reverse" : "wrapper"}>
       <div className={reverse ? "infoContainer flipText" : "infoContainer"}>
-        <span id="description">{description}</span>
+        {description}
       </div>
 
-      <figure className="squareContainer">
+      <div className="squareContainer">
         <div className="motionContainer">
-          {filteredMotions.map((motion) =>
+          {filteredMotions.map(motion => (
             <Title
               key={motion.dok_id}
               data={motion}
@@ -62,11 +88,10 @@ const MotionsChart = props => {
               handleMouseOver={handleMouseOver(motion, type)}
               handleMouseLeave={handleMouseLeave}
             />
-          )
-          }
+          ))}
         </div>
         <span className="motionType">{type}</span>
-      </figure>
+      </div>
     </div>
   );
 };

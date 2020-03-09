@@ -66,18 +66,17 @@ img {
   width: 55%;
 }
 
-.top-section{
-  align-items:flex-end;
-  display:flex;
-  flex-direction:row;
-  justify-content: center;
+.top-section {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
   width: calc(100vw - 50px);
   margin: auto;
-
 }
 
 .mid-section {
-  align-items:center;
+  align-items: center;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -85,29 +84,16 @@ img {
   margin: 20px 0;
 }
 
-
-.buttom-section {
-  align-items:flex-start;
+.bottom-section {
+  align-items: flex-start;
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-evenly;
   width: calc(100vw - 50px);
   margin: 20px 0;
 }
 
-.arrow-position-4{
+.government-arrow {
   position: absolute;
-  left:25%;
+  left: 25vw;
 }
-
-.arrow-position-1{
-  position: absolute;
-  left:14%;
-}
-
-.arrow-position-2{
-  position: absolute;
-  right:20%;
-}
-
-

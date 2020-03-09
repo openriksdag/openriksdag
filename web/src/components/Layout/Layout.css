@@ -67,6 +67,7 @@ img {
 }
 
 .top-section{
+  align-items:flex-end;
   display:flex;
   flex-direction:row;
   justify-content: center;
@@ -76,6 +77,7 @@ img {
 }
 
 .mid-section {
+  align-items:center;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -84,12 +86,28 @@ img {
 }
 
 
-/* .buttom-section {
+.buttom-section {
+  align-items:flex-start;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: center;
   width: calc(100vw - 50px);
   margin: 20px 0;
-} */
+}
+
+.arrow-position-4{
+  position: absolute;
+  left:350px;
+}
+
+.arrow-position-1{
+  position: absolute;
+  left:220px;
+}
+
+.arrow-position-2{
+  position: absolute;
+  right:250px;
+}
 
 

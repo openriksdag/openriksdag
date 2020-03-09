@@ -21,6 +21,7 @@ function App(props) {
   return (
     <Layout>
       <div className="top-section">
+
         <Arrow index={0} />
         <RiksdagChart people={peopleData} hovered={hovered} date={searchDate} />
         <Arrow index={3} />
@@ -33,8 +34,14 @@ function App(props) {
           data={motionsData}
           hovered={hovered}
         />
-        {/* <Arrow index={4} /> */}
+        <div className="arrow-position-4">
+          <Arrow index={4} />
+        </div>
         <GovernmentChart />
+
+
+
+
         <MotionsChart
           type="Proposals"
           description="Proposals for decision"
@@ -44,9 +51,14 @@ function App(props) {
         />
       </div>
       <div className="buttom-section">
-        <Arrow index={1} />
+        <div className="arrow-position-1">
+          <Arrow index={1} />
+        </div>
         <Committees />
-        <Arrow index={2} />
+        <div className="arrow-position-2">
+          <Arrow index={2} />
+        </div>
+
 
       </div>
 

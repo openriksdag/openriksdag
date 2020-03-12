@@ -2,6 +2,23 @@ import * as R from "ramda"
 
 const capitalize = str => str.substr(0, 1).toUpperCase() + str.substr(1, str.length)
 
+// Creates an namespace for constructors, "isX" functions and a "case" function.
+// Example:
+//
+//    const Maybe = makeUnion('Maybe', {
+//                      Nothing: () => {},
+//                      Just: (val) => ({val}),
+//                  })
+//     const just = Maybe.Just(3)
+//     const nothing = Maybe.Nothing()
+//     Maybe.isJust(just) === true
+//     Maybe.isNothing(just) === false
+//     Maybe.case(just, {
+//                    Just: ({val}) => val * 5,
+//                    Nothing: () => 0,
+//                 /* otherwise: () => 0 */
+//               })
+//
 const makeUnion = (name, branches) => {
   const branchNames = R.keys(branches)
   const branchCtors = R.values(branches)

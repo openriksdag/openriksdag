@@ -80,3 +80,61 @@
 .motionLink img {
   width: 10px;
 }
+
+.betankande {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 100%;
+    margin: 3px;
+    overflow: auto;
+    font-size: 8pt;
+    padding: 3px;
+    border: solid white 1px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.betankande .betankandeHeader {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    width: 100%;
+}
+
+.betankande .betankandePoints {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.betankande .betankandePoints .pointsListTitle {
+    text-align: center;
+    margin: 4px;
+    padding-bottom: 8px;
+    border-bottom: #D4D4D4 solid 1px;
+}
+
+.betankande .betankandePoint {
+    margin: 4px;
+    padding-bottom: 8px;
+    border-bottom: #D4D4D4 solid 1px;
+}
+.betankande .betankandePoint:hover {
+    border-bottom: #505050 solid 1px;
+}
+.betankande .betankandePoint.selected {
+    border-bottom: #505050 solid 1px;
+}
+
+.betankande .betankandePoint .pointTitle span {
+    display: inline;
+    margin-right: 4px;
+}
+.betankande .betankandePoint .pointTitle .pointTitleContent {
+    font-style: italic;
+}
+
+.betankande .betankandePoint .pointDecision span {
+    display: inline;
+    margin-right: 3px;
+}

@@ -30,7 +30,7 @@ function App(props) {
           <Layout>
             <AboutUs />
             <div className="arrow-disable">
-              <Arrow index={4} />
+              <svg></svg>
             </div>
           </Layout>
         )}
@@ -42,7 +42,7 @@ function App(props) {
           <Layout>
             <AboutProject />
             <div className="arrow-disable">
-              <Arrow index={4} />
+              <svg></svg>
             </div>
           </Layout>
         )}
@@ -77,7 +77,7 @@ function App(props) {
             <div className="mid-section">
               <MotionsChart
                 type="Motions"
-                description="Motions and Proposals"
+                description="Motions and propositions"
                 data={motionsData}
                 hovered={hovered}
                 selected={selected}
@@ -109,7 +109,6 @@ function App(props) {
                 selected={selected}
               />
               <Committees />
-              <CommitteeInfo hovered={hovered} selected={selected} />
               <Arrow
                 index={2}
                 shownFor={"committee"}

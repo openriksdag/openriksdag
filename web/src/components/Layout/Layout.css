@@ -55,28 +55,27 @@
   white-space: nowrap;
 }
 
-.link{
+.link {
   color: white;
   text-decoration: none;
 }
 
 .link:hover {
-  color: #F3D024;
+  color: #f3d024;
   text-decoration: none;
- 
 }
 
-.title-link{
+.title-link {
   color: black;
   text-decoration: none;
 }
 
-.title-link:hover{
+.title-link:hover {
   color: grey;
   text-decoration: none;
 }
 
-.about-project-content{
+.about-project-content {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -84,10 +83,9 @@
   width: calc(100% - 50px);
   margin: 20px 0;
 }
-.about-project-content span{
-
-  width:800px;
-  text-align:left;
+.about-project-content span {
+  width: 800px;
+  text-align: left;
 }
 
 #git {
@@ -105,6 +103,21 @@ img {
 .chart {
   width: 100%;
 }
+
+@media screen and (max-width: 1200px) {
+  .chart {
+    display: none;
+  }
+  .navbar {
+    display: none;
+  }
+}
+@media screen and (min-width: 1201px) {
+  .screenInfo {
+    display: none;
+  }
+}
+
 .top-section {
   align-items: flex-end;
   display: flex;
@@ -137,17 +150,16 @@ img {
   left: 33%;
 }
 
-.arrow-position-1{
+.arrow-position-1 {
   position: absolute;
-  left:14%;
+  left: 14%;
 }
 
-.arrow-position-2{
+.arrow-position-2 {
   position: absolute;
-  right:20%;
+  right: 20%;
 }
 
-.arrow-disable{
-  display:none;
+.arrow-disable {
+  display: none;
 }
-

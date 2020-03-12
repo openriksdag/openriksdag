@@ -51,7 +51,7 @@ const Betakande = memo(props => {
             </a>
           </div>
         </div>
-        {!isSelected && data.points && <span onClick={onClick}>{`${data.points.length} points`}</span>}
+        {!isSelected && data.points && <span onClick={onClick}>{`${data.points.length} voting points`}</span>}
         {isSelected && data.points ?
           (< Points
             isSelected={isSelected}

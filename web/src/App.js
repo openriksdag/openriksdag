@@ -109,12 +109,16 @@ function App(props) {
                 selected={selected}
               />
               <Committees />
+
               <Arrow
                 index={2}
                 shownFor={"committee"}
                 hovered={hovered}
                 selected={selected}
               />
+            </div>
+            <div className="show-info">
+              <CommitteeInfo selected={selected} hovered={hovered} />
             </div>
           </Layout>
         )}

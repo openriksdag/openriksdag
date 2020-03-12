@@ -7,7 +7,7 @@
 }
 
 .committee-info {
-  position: absolute;
-  bottom: 20vh;
-  right: 30vw;
+  width: 35%;
+  text-align: right;
+  padding: 24px;
 }

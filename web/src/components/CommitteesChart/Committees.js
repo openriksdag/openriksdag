@@ -191,7 +191,7 @@ const Committees = props => {
   const { hovered, searchDate, selected } = useSelector(state => state);
 
   const height = 300,
-    width = 400;
+    width = 380;
 
   const isHovered = name =>
     hovered.committee != null && hovered.committee === name;
@@ -226,7 +226,7 @@ const Committees = props => {
           onClick={() => dispatch(Select(Selected.Committee(shortName)))}
         />
       ))}
-      <text x="190" y="260" fill="black" textAnchor={"middle"}>
+      <text x="190" y="60" fill="black" textAnchor={"middle"}>
         COMMITTEES
       </text>
     </svg>

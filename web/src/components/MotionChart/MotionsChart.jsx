@@ -6,25 +6,29 @@ import {ChangeHover, Select, Selected} from "../../state/state";
 import {isInDocument, isReferencedIn} from "../../relation-helpers";
 import extLink from "../../images/ext-link.png";
 
-function Points({data}) {
+function Points({data, onMouseOver, onClick}) {
   return <div className="betankandePoints">
-    {sortBy((p) => parseInt(p['punkt']), data.points).map(point => (
-      <div key={`point-${point['punkt']}`} className="betankandePoint">
-        <div className="pointTitle">
-          <span>{point['punkt']}.</span>
-          <span>{point['rubrik']}</span>
+    {sortBy((p) => parseInt(p['punkt']), data.points).map(
+      ({punkt: pointNr, votering_id: voteId, rubrik: title, vinnare: result, beslutstyp: decisionType}) => (
+        <div key={`point-${pointNr}`} className="betankandePoint"
+             onMouseOver={voteId != null ? () => onMouseOver(voteId, data) : null}
+             onClick={voteId != null ? () => onClick(voteId, data) : null}
+        >
+          <div className="pointTitle">
+            <span>{pointNr}.</span>
+            <span>{title}</span>
+          </div>
+          <div className="pointDecision">
+            <span>{result === 'utskottet' ? 'Approved' : result == null ? 'No decision' : 'Proviso'}</span>
+            <span>{decisionType != null ? decisionType === 'röstning' ? 'by voting' : 'by acclamation' : ''}</span>
+          </div>
         </div>
-        <div className="pointDecision">
-          <span>{point['vinnare'] === 'utskottet' ? 'Approved' : point['vinnare'] == null ? 'No decision' : 'Proviso'}</span>
-          <span>{point['beslutstyp'] != null ? point['beslutstyp'] === 'röstning' ? 'by voting' : 'by acclamation' : ''}</span>
-        </div>
-      </div>
-    ))}
+      ))}
   </div>
 }
 
 const Betakande = memo(props => {
-  const {data, isSelected, handleMouseOver, handleMouseLeave, onClick} = props;
+  const {data, isSelected, handleMouseOver, handleMouseOverVote, handleMouseLeave, onClick, onClickVote} = props;
   if (data.attachments[0]) {
     return (
       <div
@@ -47,8 +51,15 @@ const Betakande = memo(props => {
             </a>
           </div>
         </div>
-        {!isSelected && data.points && <span>{`${data.points.length} points`}</span>}
-        {isSelected && data.points && (< Points isSelected={isSelected} data={data}/>)}
+        {!isSelected && data.points && <span onClick={onClick}>{`${data.points.length} points`}</span>}
+        {isSelected && data.points ?
+          (< Points
+            isSelected={isSelected}
+            data={data}
+            onMouseOver={handleMouseOverVote}
+            onClick={onClickVote}
+          />)
+          : null}
       </div>
     );
   } else {
@@ -152,6 +163,18 @@ const MotionsChart = props => {
       )
     );
 
+  const handleMouseOverVote = (voteId, parent) => dispatch(
+    ChangeHover(
+      Selected.Voting(voteId, parent)
+    )
+  )
+
+  const handleClickOnVote = (voteId, parent) => dispatch(
+    Select(
+      Selected.Voting(voteId, parent)
+    )
+  )
+
   const betankandeRenderer = bet => (
     <Betakande
       key={bet.dok_id}
@@ -159,7 +182,9 @@ const MotionsChart = props => {
       hovered={hovered}
       handleMouseOver={handleMouseOver(bet, type)}
       handleMouseLeave={handleMouseLeave}
+      handleMouseOverVote={handleMouseOverVote}
       onClick={handleClick(bet, type)}
+      onClickVote={handleClickOnVote}
       isSelected={selected.proposition != null && selected.proposition.dok_id === bet.dok_id}
     />
   )

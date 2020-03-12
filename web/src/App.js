@@ -3,6 +3,7 @@ import RiksdagChart from "./components/RiksdagChart/RiksdagChart";
 import Layout from "./components/Layout/Layout";
 import GovernmentChart from "./components/GovernmentChart/GovernmentWrapper";
 import Committees from "./components/CommitteesChart/Committees";
+import CommitteeInfo from "./components/CommitteesChart/CommitteeInfo";
 import MotionsChart from "./components/MotionChart/MotionsChart";
 import { useSelector } from "react-redux";
 // import Arrow from './components/Arrow/Arrow';
@@ -108,12 +109,16 @@ function App(props) {
                 selected={selected}
               />
               <Committees />
+
               <Arrow
                 index={2}
                 shownFor={"committee"}
                 hovered={hovered}
                 selected={selected}
               />
+            </div>
+            <div className="show-info">
+              <CommitteeInfo selected={selected} hovered={hovered} />
             </div>
           </Layout>
         )}

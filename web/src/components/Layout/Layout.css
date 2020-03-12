@@ -163,3 +163,11 @@ img {
 .arrow-disable {
   display: none;
 }
+
+.show-info {
+  position: absolute;
+  width: calc(90vw - 150px);
+  bottom: 2vh;
+  display: flex;
+  justify-content: flex-end;
+}

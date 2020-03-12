@@ -107,21 +107,31 @@
     flex-direction: column;
     width: 100%;
 }
-
-.betankande .betankandePoint {
-    margin: 5px;
+.betankande .betankandePoints .pointsListTitle {
+    text-align: center;
+    margin: 4px;
+    padding-bottom: 8px;
     border-bottom: #D4D4D4 solid 1px;
 }
-.betankande .betankandePoint:first-child {
-    border-top: #D4D4D4 solid 1px;
+
+.betankande .betankandePoint {
+    margin: 4px;
+    padding-bottom: 8px;
+    border-bottom: #D4D4D4 solid 1px;
 }
 .betankande .betankandePoint:hover {
+    border-bottom: #505050 solid 1px;
+}
+.betankande .betankandePoint.selected {
     border-bottom: #505050 solid 1px;
 }
 
 .betankande .betankandePoint .pointTitle span {
     display: inline;
-    margin-right: 3px;
+    margin-right: 4px;
+}
+.betankande .betankandePoint .pointTitle .pointTitleContent {
+    font-style: italic;
 }
 
 .betankande .betankandePoint .pointDecision span {

@@ -6,17 +6,19 @@ import {ChangeHover, Select, Selected} from "../../state/state";
 import {isInDocument, isReferencedIn} from "../../relation-helpers";
 import extLink from "../../images/ext-link.png";
 
-function Points({data, onMouseOver, onClick}) {
+function Points({data, onMouseOver, onClick, selectedVote}) {
   return <div className="betankandePoints">
+    <span className="pointsListTitle">Voting Points</span>
     {sortBy((p) => parseInt(p['punkt']), data.points).map(
       ({punkt: pointNr, votering_id: voteId, rubrik: title, vinnare: result, beslutstyp: decisionType}) => (
-        <div key={`point-${pointNr}`} className="betankandePoint"
+        <div key={`point-${pointNr}`}
+             className={`betankandePoint ${selectedVote != null && selectedVote === voteId ? "selected" : ""}`}
              onMouseOver={voteId != null ? () => onMouseOver(voteId, data) : null}
              onClick={voteId != null ? () => onClick(voteId, data) : null}
         >
           <div className="pointTitle">
             <span>{pointNr}.</span>
-            <span>{title}</span>
+            <span className="pointTitleContent">{title}</span>
           </div>
           <div className="pointDecision">
             <span>{result === 'utskottet' ? 'Approved' : result == null ? 'No decision' : 'Proviso'}</span>
@@ -28,7 +30,7 @@ function Points({data, onMouseOver, onClick}) {
 }
 
 const Betakande = memo(props => {
-  const {data, isSelected, handleMouseOver, handleMouseOverVote, handleMouseLeave, onClick, onClickVote} = props;
+  const {data, isSelected, handleMouseOver, handleMouseOverVote, handleMouseLeave, onClick, onClickVote, selectedVote} = props;
   if (data.attachments[0]) {
     return (
       <div
@@ -58,6 +60,7 @@ const Betakande = memo(props => {
             data={data}
             onMouseOver={handleMouseOverVote}
             onClick={onClickVote}
+            selectedVote={selectedVote}
           />)
           : null}
       </div>
@@ -186,6 +189,7 @@ const MotionsChart = props => {
       onClick={handleClick(bet, type)}
       onClickVote={handleClickOnVote}
       isSelected={selected.proposition != null && selected.proposition.dok_id === bet.dok_id}
+      selectedVote={selected.voting}
     />
   )
 

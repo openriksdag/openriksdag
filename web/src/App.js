@@ -17,6 +17,7 @@ function App(props) {
     peopleData,
     motionsData,
     propoData,
+    votes,
     searchDate,
     hovered,
     selected
@@ -62,6 +63,7 @@ function App(props) {
               />
               <RiksdagChart
                 people={peopleData}
+                votes={votes}
                 hovered={hovered}
                 selected={selected}
                 date={searchDate}

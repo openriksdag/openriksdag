@@ -1,9 +1,11 @@
 import peopleData from "../data/people.json";
 import propoData from "../data/betankande.json";
 import motionsData from "../data/motions.json";
+import votes from "../data/votes_by_id.json";
 import {configureStore, createAction, createReducer} from "@reduxjs/toolkit";
 import makeUnion from "./union";
 import {isDraft, original} from "immer";
+import * as R from "ramda"
 
 export const Selected = makeUnion("Selected", {
   Nothing: () => ({}),
@@ -22,10 +24,17 @@ const initialSelected = {
   voting: null,
 };
 
+const processVotes = (votes) => {
+  const votesOnly = R.map(item => item.votes, votes)
+  const votesByVoter = (votesList) => R.map(item => item.vote, R.indexBy(item => item.intressent_id, votesList))
+  return R.map(votesByVoter, votesOnly)
+}
+
 const initialState = {
   peopleData,
   motionsData,
   propoData,
+  votes: processVotes(votes),
   hovered: initialSelected,
   selected: initialSelected,
   searchDate: "2020-02-01"

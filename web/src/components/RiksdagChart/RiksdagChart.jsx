@@ -63,7 +63,7 @@ function arrangeRepresentativesInArcs(numArcs, people, date) {
 }
 
 const RiksdagChart = props => {
-  const {people, date, hovered, selected} = props;
+  const {people, date, hovered, selected, votes} = props;
   const dispatch = useDispatch()
 
   const numArcs = 10,
@@ -144,6 +144,7 @@ const RiksdagChart = props => {
           onHoverRepresentative={onHoverRepresentative}
           onMouseLeaveRep={onMouseLeaveRep}
           onClick={onClickRep}
+          votes={votes}
         />)}
     </svg>
   </div>;

@@ -1,19 +1,21 @@
-import React, { memo, useMemo } from "react";
+import React, {memo, useMemo} from "react";
 import * as R from "ramda";
-import { degreesToRadians } from "./chart-helpers";
-import { isInCommittee, isInDocument } from "../../relation-helpers";
+import classnames from 'classnames'
+import {degreesToRadians} from "./chart-helpers";
+import {isInCommittee, isInDocument} from "../../relation-helpers";
 
 const Representative = memo(
   ({
-    x,
-    y,
-    isHighlighted,
-    handleMouseOver,
-    handleMouseLeave,
-    onClick,
-    isSelected,
-    isDisabled
-  }) => (
+     x,
+     y,
+     isHighlighted,
+     handleMouseOver,
+     handleMouseLeave,
+     onClick,
+     isSelected,
+     isDisabled,
+     vote
+   }) => (
     <circle
       cx={x}
       cy={y}
@@ -21,9 +23,15 @@ const Representative = memo(
       style={{
         position: "absolute"
       }}
-      className={`representative ${isHighlighted ? "highlight" : ""} ${
-        isSelected ? "selected" : ""
-      } ${isDisabled ? "disabled" : ""}`}
+      className={classnames(
+        { representative: true,
+          highlight: isHighlighted,
+          selected: isSelected,
+          disabled: isDisabled,
+          vote: vote != null,
+          [vote]: vote != null
+        }
+      )}
       onMouseOver={handleMouseOver}
       onMouseLeave={handleMouseLeave}
       onClick={onClick}
@@ -31,10 +39,10 @@ const Representative = memo(
   )
 );
 
-const isSelected = ({ representative: selected }, representative) =>
+const isSelected = ({representative: selected}, representative) =>
   selected != null && selected.id === representative.id;
 
-const isDisabled = ({ representative: selected }, representative) =>
+const isDisabled = ({representative: selected}, representative) =>
   selected != null && selected.id !== representative.id;
 
 const isHighlighted = (hovered, selected, searchDate, rep) =>
@@ -46,27 +54,34 @@ const isHighlighted = (hovered, selected, searchDate, rep) =>
   (hovered.motion != null && isInDocument(hovered.motion.intressent, rep.id)) ||
   (selected.motion != null && isInDocument(selected.motion.intressent, rep.id));
 
+const getVote = (id, {voting}, votes) =>
+  voting != null ?
+    votes[voting][id] :
+    null
+
 const Representatives = memo(
   ({
-    innerRadius,
-    arcWidth,
-    cx,
-    cy,
-    hovered,
-    selected,
-    searchDate,
-    arcs,
-    onHoverRepresentative,
-    onMouseLeaveRep,
-    onClick
-  }) => {
+     innerRadius,
+     arcWidth,
+     cx,
+     cy,
+     hovered,
+     selected,
+     votes,
+     searchDate,
+     arcs,
+     onHoverRepresentative,
+     onMouseLeaveRep,
+     onClick
+
+   }) => {
     const middleRadius = innerRadius + arcWidth / 2;
 
     const repsData = useMemo(
       () =>
         R.flatten(
-          arcs.map(({ startAngle, endAngle, data }) => {
-            const { reps, count } = data;
+          arcs.map(({startAngle, endAngle, data}) => {
+            const {reps, count} = data;
             const totalAngle = endAngle - startAngle;
             const reprAngle = totalAngle / count;
             return reps.map((repr, index) => {
@@ -86,18 +101,19 @@ const Representatives = memo(
                   repr
                 ),
                 isSelected: isSelected(selected, repr),
-                isDisabled: isDisabled(selected, repr)
+                isDisabled: isDisabled(selected, repr),
+                vote: getVote(repr.id, selected, votes)
               };
             });
           })
         ),
-      [hovered, middleRadius, arcs, searchDate, selected]
+      [hovered, middleRadius, arcs, searchDate, selected, votes]
     );
 
     return (
       <g transform={`translate(${cx} ${cy})`}>
         {repsData.map(
-          ({ data, x, y, isHighlighted, isSelected, isDisabled }) => (
+          ({data, x, y, isHighlighted, isSelected, isDisabled, vote}) => (
             <Representative
               x={x}
               y={y}
@@ -108,6 +124,7 @@ const Representatives = memo(
               handleMouseOver={onHoverRepresentative(data)}
               handleMouseLeave={onMouseLeaveRep}
               onClick={onClick(data)}
+              vote={vote}
             />
           )
         )}

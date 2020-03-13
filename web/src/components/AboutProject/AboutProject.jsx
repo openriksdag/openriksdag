@@ -18,7 +18,7 @@ const AboutProject = () => {
                 <p className="project-text">
                     The project was made as a part of the Information
                     Visualization course, DH2321, at the Royal Institute of
-                    Technology in Stockholm, Sweden.
+                    Technology in Stockholm, Sweden, and deployed in march 2020.
                 </p>
             </span>
         </div>

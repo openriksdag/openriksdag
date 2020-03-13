@@ -13,7 +13,7 @@ const AboutUs = () => {
                 The Open Riksdag team is made up of five master’s students of
                 interaction design at the Royal Institute of Technology in
                 Stockholm, Sweden. The project was made as a part of the
-                Information Visualization course, DH2321.
+                Information Visualization course, DH2321, in the spring of 2020.
             </div>
             <div className="profiles">
                 <div className="profile">

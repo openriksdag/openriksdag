@@ -17,3 +17,26 @@ export function calculateArcs(parties, data) {
   }))
   return pieBuilder(dataAsPieInput)
 }
+
+const votesToClassName = {
+  'Ja': 'vote-yes',
+  'Nej': 'vote-no',
+  'Frånvarande': 'vote-abstained',
+  'Avstår': 'vote-absent',
+  [undefined]: 'vote-irrelevant'
+}
+
+export const votesPrettyText = {
+  'vote-yes': 'voted Yes',
+  'vote-no': 'voted No',
+  'vote-abstained': 'Abstained',
+  'vote-absent': 'was Absent',
+  'vote-irrelevant': 'was not in parliament'
+}
+
+const mapVoteToClass = voteInSv => votesToClassName[voteInSv]
+
+export const getVote = (id, {voting}, votes) =>
+  voting != null ?
+    mapVoteToClass(votes[voting][id])
+    : null

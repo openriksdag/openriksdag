@@ -41,7 +41,9 @@ const Committee = ({
           : committeeColors.background
       }
     />
-    <text x={cx} y={cy + 5} textAnchor={"middle"} fill={committeeColors.text}>
+    <text x={cx} y={cy + 5} textAnchor={"middle"} fill={committeeColors.text}
+          onClick={onClick}
+    >
       {shortName}
     </text>
   </g>

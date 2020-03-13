@@ -127,6 +127,21 @@ img {
   margin: auto;
 }
 
+.top-section > div.votes-and-arrow {
+    width: 150px;
+    justify-self: stretch;
+    align-self: normal;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.top-section > div.votes-and-arrow .spacer {
+    flex-grow: 1;
+}
+.top-section > div.votes-and-arrow .arrow {
+    align-self: flex-end;
+}
+
 .mid-section {
   align-items: center;
   display: flex;

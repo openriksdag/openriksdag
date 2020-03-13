@@ -14,8 +14,9 @@ import RiksdagArc from "./RiksdagArc"
 import Representatives from "./Representatives"
 import {LogosArc} from "./LogosArc"
 import {ChangeHover, Select, Selected} from "../../state/state"
-import {calculateArcs} from "./chart-helpers"
+import {calculateArcs, getVote, votesPrettyText} from "./chart-helpers"
 import {useDispatch} from "react-redux"
+import {isChamberMemberAsOf} from "../../relation-helpers"
 
 const partyData = [
   {label: "V", name: "Vänsterpartiet", logo: vansterpartietLogo, color: "#9B0100"},
@@ -28,17 +29,10 @@ const partyData = [
   {label: "KD", name: "Kristdemokraterna", logo: kristdemokraternaLogo, color: "#1F3B96"}
 ]
 
-const validRoleStatuses = ['Tjänstgörande', 'Ersättare']
-
 function arrangeRepresentativesInArcs(numArcs, people, date) {
-  const isChamberMemberAsOf = (date) => ({party, roles}) =>
-    (party !== "-" && roles.some(({organ, status, from, to}) =>
-        organ === 'kam' && date >= from && date <= to && R.includes(status, validRoleStatuses)
-      )
-    )
 
   const membersByParty = R.groupBy(x => x.party,
-    R.filter(isChamberMemberAsOf(date), R.values(people))
+    R.filter(isChamberMemberAsOf(date), people)
   )
 
   const arcSeats = R.range(0, numArcs).map(i => 22 + i * 3)
@@ -84,6 +78,8 @@ const RiksdagChart = props => {
     ? hovered.representative : selected.representative != null
       ? selected.representative : null
 
+  const currentVoting = selected.voting != null && votes[selected.voting] != null ? votes[selected.voting] : null
+
   const reprText = currentRep != null ?
     (<div className={"name-container"} style={{
       position: "absolute",
@@ -95,10 +91,11 @@ const RiksdagChart = props => {
         <img src={currentRep.image}
              alt={`${currentRep.first_name} ${currentRep.last_name}, ${currentRep.party}`}/>
       </div>
+      {currentVoting != null ? <div className="vote">{votesPrettyText[getVote(currentRep.id, selected, votes)]}</div> : null}
       <div className={"bold"}>
         {`${currentRep.first_name} ${currentRep.last_name}`}
       </div>
-      <div>
+      <div className="district">
         {currentRep.district}
       </div>
     </div>)

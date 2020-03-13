@@ -1,0 +1,80 @@
+.votes-legend {
+    margin-top: 24px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    font-size: smaller;
+}
+
+.votes-legend > div {
+    display: flex;
+    flex-direction: row;
+}
+.votes-legend > div:first-child > span {
+    font-size: x-small;
+}
+.votes-legend > div > span {
+    flex-grow: 1;
+    text-align: center;
+}
+.votes-legend > div > *:first-child {
+    margin: 4px;
+}
+.votes-legend > div > span:nth-child(2) {
+    flex-basis: 50%;
+    text-align: left;
+}
+.votes-legend > div:last-child > span:nth-child(2) {
+    flex-basis: 75%;
+}
+
+.votes-legend div.vote-yes {
+    align-self: center;
+    display: inline-block;
+    height: 6px;
+    width: 6px;
+    border-radius: 100%;
+    background: white;
+    border: black 2px solid;
+}
+
+.votes-legend div.vote-no {
+    align-self: center;
+    display: inline-block;
+    height: 6px;
+    width: 6px;
+    border-radius: 100%;
+    background: black;
+    border: black 2px solid;
+}
+
+.votes-legend svg.vote-abstained {
+    align-self: center;
+}
+.votes-legend .vote-abstained circle {
+    display: inline-block;
+    position: relative;
+    fill: black;
+    border: black 2px solid;
+}
+.votes-legend div.vote-abstained line {
+    fill: white;
+}
+.votes-legend div.vote-absent {
+    align-self: center;
+    display: inline-block;
+    height: 6px;
+    width: 6px;
+    border-radius: 100%;
+    background: #a7a7a7;
+    border: #a7a7a7 2px solid;
+}
+.votes-legend div.vote-not-member {
+    align-self: center;
+    display: inline-block;
+    height: 6px;
+    width: 6px;
+    border-radius: 100%;
+    background: #fbfbfb;
+    border: #eaeaea 2px solid;
+}

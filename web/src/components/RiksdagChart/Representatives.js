@@ -1,7 +1,7 @@
 import React, {memo, useMemo} from "react";
 import * as R from "ramda";
 import classnames from 'classnames'
-import {degreesToRadians} from "./chart-helpers";
+import {degreesToRadians, getVote} from "./chart-helpers";
 import {isInCommittee, isInDocument} from "../../relation-helpers";
 
 const Representative = memo(
@@ -38,7 +38,9 @@ const Representative = memo(
     </circle>
     return (
       vote === 'vote-abstained' ?
-        <g>
+        <g onMouseOver={handleMouseOver}
+           onMouseLeave={handleMouseLeave}
+           onClick={onClick}>
           {circle}
           <line x1={x - 2.5} x2={x + 2.5} y1={y} y2={y} stroke={'#FFFFFF'} strokeWidth={3}/>
         </g>
@@ -61,21 +63,6 @@ const isHighlighted = (hovered, selected, searchDate, rep) =>
     isInCommittee(rep, selected.committee, searchDate)) ||
   (hovered.motion != null && isInDocument(hovered.motion.intressent, rep.id)) ||
   (selected.motion != null && isInDocument(selected.motion.intressent, rep.id));
-
-const votesToClassName = {
-  'Ja': 'vote-yes',
-  'Nej': 'vote-no',
-  'Frånvarande': 'vote-abstained',
-  'Avstår': 'vote-absent',
-  [undefined]: 'vote-irrelevant'
-}
-
-const mapVoteToClass = voteInSv => votesToClassName[voteInSv]
-
-const getVote = (id, {voting}, votes) =>
-  voting != null ?
-    mapVoteToClass(votes[voting][id])
-    : null
 
 const Representatives = memo(
   ({

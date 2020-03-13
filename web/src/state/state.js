@@ -6,6 +6,7 @@ import {configureStore, createAction, createReducer} from "@reduxjs/toolkit";
 import makeUnion from "./union";
 import {isDraft, original} from "immer";
 import * as R from "ramda"
+import {isChamberMemberAsOf} from "../relation-helpers"
 
 export const Selected = makeUnion("Selected", {
   Nothing: () => ({}),
@@ -30,14 +31,16 @@ const processVotes = (votes) => {
   return R.map(votesByVoter, votesOnly)
 }
 
+const searchDate = "2020-02-01"
+
 const initialState = {
-  peopleData,
+  peopleData: R.filter(isChamberMemberAsOf(searchDate), R.values(peopleData)),
   motionsData,
   propoData,
   votes: processVotes(votes),
   hovered: initialSelected,
   selected: initialSelected,
-  searchDate: "2020-02-01"
+  searchDate: searchDate
 };
 
 export const ChangeHover = createAction("ChangeHover");

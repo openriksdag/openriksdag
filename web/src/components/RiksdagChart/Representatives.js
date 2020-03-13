@@ -15,8 +15,8 @@ const Representative = memo(
      isSelected,
      isDisabled,
      vote
-   }) => (
-    <circle
+   }) => {
+    const circle = <circle
       cx={x}
       cy={y}
       r={5}
@@ -24,19 +24,27 @@ const Representative = memo(
         position: "absolute"
       }}
       className={classnames(
-        { representative: true,
+        {
+          representative: true,
           highlight: isHighlighted,
           selected: isSelected,
           disabled: isDisabled,
-          vote: vote != null,
           [vote]: vote != null
         }
       )}
       onMouseOver={handleMouseOver}
       onMouseLeave={handleMouseLeave}
-      onClick={onClick}
-    />
-  )
+      onClick={onClick}>
+    </circle>
+    return (
+      vote === 'vote-abstained' ?
+        <g>
+          {circle}
+          <line x1={x - 2.5} x2={x + 2.5} y1={y} y2={y} stroke={'#FFFFFF'} strokeWidth={3}/>
+        </g>
+        : circle
+    )
+  }
 );
 
 const isSelected = ({representative: selected}, representative) =>
@@ -54,10 +62,20 @@ const isHighlighted = (hovered, selected, searchDate, rep) =>
   (hovered.motion != null && isInDocument(hovered.motion.intressent, rep.id)) ||
   (selected.motion != null && isInDocument(selected.motion.intressent, rep.id));
 
+const votesToClassName = {
+  'Ja': 'vote-yes',
+  'Nej': 'vote-no',
+  'Frånvarande': 'vote-abstained',
+  'Avstår': 'vote-absent',
+  [undefined]: 'vote-irrelevant'
+}
+
+const mapVoteToClass = voteInSv => votesToClassName[voteInSv]
+
 const getVote = (id, {voting}, votes) =>
   voting != null ?
-    votes[voting][id] :
-    null
+    mapVoteToClass(votes[voting][id])
+    : null
 
 const Representatives = memo(
   ({

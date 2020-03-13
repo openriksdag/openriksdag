@@ -12,8 +12,8 @@ const AboutProject = () => {
                     attempt to increase transparency and further strengthen the
                     confidence of the general public in democratic processes.
                     Open Riksdags vision is to make politics accessible for
-                    everyone and through visualizing complex data, providing
-                    value for the novice and the political deep-diver alike.
+                    everyone and through visualizing complex data, provide value
+                    for the novice and the political deep-diver alike.
                 </p>
                 <p className="project-text">
                     The project was made as a part of the Information

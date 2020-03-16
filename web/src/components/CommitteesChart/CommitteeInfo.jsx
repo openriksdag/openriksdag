@@ -1,13 +1,12 @@
 import React from "react";
-import committeeData from "../../data/committees.json";
+import { committeeData } from "../../data/committees.js";
 
-const CommitteeInfo = ({ hovered, selected }) => {
-  const shownFor = "committee";
+const CommitteeInfo = ({ hovered, selected, shownFor }) => {
   const hoveredItem = hovered[shownFor];
   const selectedItem = selected[shownFor];
 
   return (
-    (selectedItem || hoveredItem) && (
+    (hoveredItem || selectedItem) && (
       <div className="committee-info">
         <h2>
           {
@@ -28,10 +27,10 @@ const CommitteeInfo = ({ hovered, selected }) => {
           }
         </h3>
         <p>
-          The 15 parliamentary committees consist of 17 members each and ensure
-          that all motions and propositions are considered thoroughly before any
-          decisions are taken. In addition to the members, each committee hires
-          independent experts to bring insight in complex matters.
+          The 15 parliamentary committees ensure that all motions and
+          propositions are considered thoroughly before any decisions are taken.
+          In addition to its 17 members, each committee hires independent
+          experts to bring insight in complex matters.
         </p>
       </div>
     )

@@ -135,6 +135,21 @@ function App(props) {
                 shownFor={"committee"}
                 hovered={hovered}
               />
+              <CommitteeInfo
+                selected={selected}
+                shownFor={"motion"}
+                hovered={hovered}
+              />
+              {/* <CommitteeInfo
+                selected={selected}
+                shownFor={"representatives"}
+                hovered={hovered}
+              />
+              <CommitteeInfo
+                selected={selected}
+                shownFor={"government"}
+                hovered={hovered}
+              /> */}
             </div>
           </Layout>
         )}

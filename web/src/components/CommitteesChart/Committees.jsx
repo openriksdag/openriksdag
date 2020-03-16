@@ -46,6 +46,8 @@ const Committee = ({
       y={cy + 5}
       textAnchor={"middle"}
       fill={committeeColors.text}
+      onMouseOver={onHover}
+      onMouseLeave={onLeaveHover}
       onClick={onClick}
     >
       {shortName}

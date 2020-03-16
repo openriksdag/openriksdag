@@ -2,7 +2,7 @@ import React from "react";
 import "./Committees.css";
 import { useDispatch, useSelector } from "react-redux";
 import { ChangeHover, Select, Selected } from "../../state/state";
-import { committeeData } from "../../data/committees.js";
+import committeeData from "../../data/committees.json";
 import { isInCommittee } from "../../relation-helpers";
 
 const committeeRadius = 25,
@@ -41,15 +41,7 @@ const Committee = ({
           : committeeColors.background
       }
     />
-    <text
-      x={cx}
-      y={cy + 5}
-      textAnchor={"middle"}
-      fill={committeeColors.text}
-      onMouseOver={onHover}
-      onMouseLeave={onLeaveHover}
-      onClick={onClick}
-    >
+    <text x={cx} y={cy + 5} textAnchor={"middle"} fill={committeeColors.text}>
       {shortName}
     </text>
   </g>

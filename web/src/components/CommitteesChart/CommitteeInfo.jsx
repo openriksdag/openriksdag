@@ -1,5 +1,5 @@
 import React from "react";
-import { committeeData } from "../../data/committees.js";
+import committeeData from "../../data/committees.json";
 
 const CommitteeInfo = ({ hovered, selected, shownFor }) => {
   const hoveredItem = hovered[shownFor];

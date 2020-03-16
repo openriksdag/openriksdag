@@ -7,14 +7,14 @@
 }
 
 .committee-info {
-  width: 25%;
+  width: 30%;
   text-align: right;
-  padding: 24px;
+  padding: 12px 24px;
   background-color: rgba(255, 255, 255, 0.9);
 }
 
 .committee-info p {
-  font-size: 10pt;
+  font-size: 9pt;
   margin-top: 6px;
 }
 

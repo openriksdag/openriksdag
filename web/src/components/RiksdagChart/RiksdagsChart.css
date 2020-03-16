@@ -29,6 +29,29 @@
     stroke-width: 2;
     stroke: rgba(0, 0, 0, 0.7);
 }
+.pie-container .representative.vote {
+    fill: rgba(255, 255, 255, 0.4);
+}
+.pie-container .representative.vote-yes {
+    fill: rgba(255, 255, 255, 1.0);
+    stroke: rgba(0, 0, 0, 1);
+}
+.pie-container .representative.vote-no {
+    fill: rgba(0, 0, 0, 1.0);
+}
+.pie-container .representative.vote-abstained {
+    fill: rgba(0, 0, 0, 1.0);
+}
+.pie-container .representative.vote-abstained {
+    content:'-'
+}
+.pie-container .representative.vote-absent {
+    fill: rgba(255, 255, 255, 0.4);
+}
+.pie-container .representative.vote-irrelevant {
+    fill: rgba(255, 255, 255, 0.0);
+    stroke: rgba(255, 255, 255, 0.1);
+}
 
 .pie-container .bold {
     font-weight: bold;
@@ -36,6 +59,15 @@
 
 .pie-container .name-container div {
     text-align: center;
+}
+
+.pie-container .name-container .district {
+    font-size: small;
+}
+
+.pie-container .name-container .vote {
+    font-size: small;
+    font-weight: bold;
 }
 
 .pie-container .name-container .repr-image {

@@ -5,18 +5,19 @@ import GovernmentChart from "./components/GovernmentChart/GovernmentWrapper";
 import Committees from "./components/CommitteesChart/Committees";
 import CommitteeInfo from "./components/CommitteesChart/CommitteeInfo";
 import MotionsChart from "./components/MotionChart/MotionsChart";
-import { useSelector } from "react-redux";
-// import Arrow from './components/Arrow/Arrow';
+import {useSelector} from "react-redux";
 import Arrow from "./components/Arrow/Arrow";
 import AboutUs from "./components/AboutUs/AboutUs";
-import { Route, BrowserRouter } from "react-router-dom";
+import {Route, BrowserRouter} from "react-router-dom";
 import AboutProject from "./components/AboutProject/AboutProject";
+import VotesLegend from "./components/RiksdagChart/VotesLegend"
 
 function App(props) {
   const {
     peopleData,
     motionsData,
     propoData,
+    votes,
     searchDate,
     hovered,
     selected
@@ -28,7 +29,7 @@ function App(props) {
         path="/about"
         render={() => (
           <Layout>
-            <AboutUs />
+            <AboutUs/>
             <div className="arrow-disable">
               <svg></svg>
             </div>
@@ -40,7 +41,7 @@ function App(props) {
         path="/project"
         render={() => (
           <Layout>
-            <AboutProject />
+            <AboutProject/>
             <div className="arrow-disable">
               <svg></svg>
             </div>
@@ -62,16 +63,27 @@ function App(props) {
               />
               <RiksdagChart
                 people={peopleData}
+                votes={votes}
                 hovered={hovered}
                 selected={selected}
                 date={searchDate}
               />
-              <Arrow
-                index={3}
-                shownFor={"proposition"}
-                hovered={hovered}
-                selected={selected}
-              />
+              <div className="votes-and-arrow">
+                {selected.voting != null ?
+                  <VotesLegend
+                    people={peopleData}
+                    voting={selected.voting}
+                    votes={votes}/>
+                  : null
+                }
+                <div className="spacer"/>
+                <Arrow
+                  index={3}
+                  shownFor={"proposition"}
+                  hovered={hovered}
+                  selected={selected}
+                />
+              </div>
             </div>
 
             <div className="mid-section">
@@ -90,7 +102,7 @@ function App(props) {
                   selected={selected}
                 />
               </div>
-              <GovernmentChart />
+              <GovernmentChart/>
 
               <MotionsChart
                 type="Proposals"
@@ -108,7 +120,7 @@ function App(props) {
                 hovered={hovered}
                 selected={selected}
               />
-              <Committees />
+              <Committees/>
 
               <Arrow
                 index={2}
@@ -118,7 +130,7 @@ function App(props) {
               />
             </div>
             <div className="show-info">
-              <CommitteeInfo selected={selected} hovered={hovered} />
+              <CommitteeInfo selected={selected} hovered={hovered}/>
             </div>
           </Layout>
         )}

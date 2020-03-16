@@ -1,19 +1,27 @@
-.middle-section{
-    display:flex;
-    flex-direction:row;
+.middle-section {
+    display: flex;
+    flex-direction: column;
     justify-content: center;
-    margin:auto 100px auto 100px;
+    margin: auto 80px auto 80px;
     text-align: center;
 }
 
+.infotext {
+    margin: -40px 300px 60px 300px;
+    text-align: left;
+}
+.profiles {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
 
-figure{
+figure {
     position: relative;
     top: 0px;
     background-size: cover;
     margin-bottom: 20px;
     float: left;
-    
 }
 
 figure img {
@@ -25,9 +33,24 @@ figure img {
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     border-radius: 50%;
-  }
+}
 
-  span{
-      margin:auto;
-      display:block;
-  }
+span {
+    margin: auto;
+    display: block;
+}
+
+.name {
+    margin: 0px -20px 0px -20px;
+    font-weight: bold;
+    font-size: 14pt;
+}
+
+.titles {
+    font-weight: bold;
+    font-size: 11pt;
+}
+
+p {
+    font-size: 10pt;
+}

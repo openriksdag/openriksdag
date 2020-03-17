@@ -33,7 +33,6 @@ const ministryRadius = 20,
     }
 
 
-
 const Tooltip = ({ name }) => (
     <svg>
         <g className="tooltip">

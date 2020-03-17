@@ -1,11 +1,11 @@
 .about-project-content {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    margin: auto auto 300px auto;
-    font-size: 14pt;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto auto 300px auto;
+  font-size: 14pt;
 }
 
 .project-text {
-    font-size: 14pt;
+  font-size: 14pt;
 }

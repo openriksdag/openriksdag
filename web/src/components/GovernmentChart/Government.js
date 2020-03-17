@@ -1,20 +1,33 @@
 import * as d3 from "d3";
+import img1 from "../../images/Binyuan.png"
+import office from "../../images/office.png"
+import finance from "../../images/finance.png"
+import defense from "../../images/defence.png"
+import infrastructure from "../../images/infastructrue.png"
+import justice from "../../images/justice.png"
+import culture from "../../images/culture.png"
+import enviornment from "../../images/enviornment.png"
+import innovation from "../../images/innovation.png"
+import health from "../../images/health.png"
+import education from "../../images/education.png"
+import foreign from "../../images/health.png"
+import emplyment from "../../images/employment.png"
 
 export default class Government {
   constructor(element) {
     const data = [
-      { cx: -20, cy: 0, name_eng: "Prime Minister's Office", name: "Stats­minister" },
-      { cx: 30, cy: 0, name_eng: "Ministry of Finance", name: "Finans­departementet" },
-      { cx: -70, cy: 45, name_eng: "Ministry of Defense", name: "Försvars­departementet" },
-      { cx: -20, cy: 45, name_eng: "Ministry of Infrastructure", name: "Infrastruktur­departementet" },
-      { cx: 30, cy: 45, name_eng: "Ministry of Justice", name: "Justitie­departementet" },
-      { cx: 80, cy: 45, name_eng: "Ministry of Culture", name: "Kultur­departementet" },
-      { cx: -70, cy: 90, name_eng: "Ministry of the Environment", name: "Miljö­departementet" },
-      { cx: -20, cy: 90, name_eng: "Ministry of Enterprise and Innovation", name: "Närings­departementet" },
-      { cx: 30, cy: 90, name_eng: "Ministry of Health and Social Affairs", name: "Social­departementet" },
-      { cx: 80, cy: 90, name_eng: "Ministry of Education and Research", name: "Utbildnings­departementet" },
-      { cx: -20, cy: 135, name_eng: "Ministry of Foreign Affairs", name: "Utrikes­departementet" },
-      { cx: 30, cy: 135, name_eng: "Ministry of Employment", name: "Arbetsmarknads­­departementet" }
+      { cx: -20, cy: 0, name_eng: "Prime Minister's Office", name: "Stats­minister", icon: office },
+      { cx: 30, cy: 0, name_eng: "Ministry of Finance", name: "Finans­departementet", icon: finance },
+      { cx: -70, cy: 45, name_eng: "Ministry of Defense", name: "Försvars­departementet", icon: defense },
+      { cx: -20, cy: 45, name_eng: "Ministry of Infrastructure", name: "Infrastruktur­departementet", icon: infrastructure },
+      { cx: 30, cy: 45, name_eng: "Ministry of Justice", name: "Justitie­departementet", icon: justice },
+      { cx: 80, cy: 45, name_eng: "Ministry of Culture", name: "Kultur­departementet", icon: culture },
+      { cx: -70, cy: 90, name_eng: "Ministry of the Environment", name: "Miljö­departementet", icon: enviornment },
+      { cx: -20, cy: 90, name_eng: "Ministry of Enterprise and Innovation", name: "Närings­departementet", icon: innovation },
+      { cx: 30, cy: 90, name_eng: "Ministry of Health and Social Affairs", name: "Social­departementet", icon: health },
+      { cx: 80, cy: 90, name_eng: "Ministry of Education and Research", name: "Utbildnings­departementet", icon: education },
+      { cx: -20, cy: 135, name_eng: "Ministry of Foreign Affairs", name: "Utrikes­departementet", icon: foreign },
+      { cx: 30, cy: 135, name_eng: "Ministry of Employment", name: "Arbetsmarknads­­departementet", icon: emplyment }
 
     ];
 
@@ -33,19 +46,36 @@ export default class Government {
 
     const circles = svg.selectAll("circle")
       .data(data);
+    const images = svg.selectAll("image")
+      .data(data);
+
 
     circles.enter().append("circle")
       .attr("cx", d => d.cx)
       .attr("cy", d => d.cy)
       .attr("r", "20")
       .attr("fill", "white")
+
+
+
+    images.enter().append("image")
+      .attr("xlink:href", d => d.icon)
+      .attr("width", 25)
+      .attr("height", 25)
+      .attr("x", function (d) {
+        return d.cx - 12;
+      })
+      .attr("y", (d) => {
+        return d.cy - 12;
+      })
+      .attr("opacity", "40%")
       .on('mouseover', function () {
         tooltip.style("display", null)
-        d3.select(this).attr("fill", "#999999")
+        d3.select(this).attr("opacity", "100%")
       })
       .on('mouseout', function () {
         tooltip.style("display", "none")
-        d3.select(this).attr("fill", "white")
+        d3.select(this).attr("opacity", "40%")
       })
       .on('mousemove', function (d) {
         var xPos = d3.mouse(this)[0] - 15;

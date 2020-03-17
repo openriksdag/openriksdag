@@ -75,26 +75,8 @@
   text-decoration: none;
 }
 
-.about-project-content {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: center;
-  width: calc(100% - 50px);
-  margin: 20px 0;
-}
-.about-project-content span {
-  width: 800px;
-  text-align: left;
-}
 
-#git {
-  text-align: center;
-  position: fixed;
-  width: 50px;
-  bottom: 0;
-  margin-bottom: 20px;
-}
+
 
 img {
   width: 55%;
@@ -185,4 +167,43 @@ img {
   bottom: 2vh;
   display: flex;
   justify-content: flex-end;
+}
+
+
+
+/* about project */
+.about-project-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  width: calc(100% - 50px);
+  margin: 20px 0;
+}
+.about-project-content span {
+  width: 800px;
+  text-align: left;
+}
+
+#git {
+  text-align: center;
+  position: fixed;
+  width: 50px;
+  bottom: 0;
+  margin-bottom: 20px;
+}
+
+/* about us */
+.about-us-content{
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  margin: 20px 0;
+ 
+}
+
+.profiles{
+  padding-top:120px;
 }

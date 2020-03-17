@@ -9,12 +9,7 @@ import "./AboutUs.css";
 const AboutUs = () => {
     return (
         <div className="middle-section">
-            <div className="infotext">
-                The Open Riksdag team is made up of five master’s students of
-                interaction design at the Royal Institute of Technology in
-                Stockholm, Sweden. The project was made as a part of the
-                Information Visualization course, DH2321, in the spring of 2020.
-            </div>
+
             <div className="profiles">
                 <div className="profile">
                     <figure>
@@ -75,7 +70,7 @@ const AboutUs = () => {
                         <span className="name">Binyuan Lin</span>
                         <span>binyuan@kth.se</span>
                         <p className="titles">
-                            UX-designer / Front end developer
+                            Front end developer / UX-designer
                         </p>
                         <p>
                             UX-designer and artist extraordinaire. Binyuan’s

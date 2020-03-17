@@ -3,18 +3,18 @@ import * as d3 from "d3";
 export default class Government {
   constructor(element) {
     const data = [
-      { cx: -20, cy: 0, name_eng: "Ministry", name: "Stats­minister" },
-      { cx: 30, cy: 0, name_eng: "Finance Ministry", name: "Finans­departementet" },
-      { cx: -70, cy: 45, name_eng: "Defense Ministry", name: "Försvars­departementet" },
-      { cx: -20, cy: 45, name_eng: "Infrastructure Ministry", name: "Infrastruktur­departementet" },
-      { cx: 30, cy: 45, name_eng: "Justice Ministry", name: "Justitie­departementet" },
-      { cx: 80, cy: 45, name_eng: "Culture Ministry", name: "Kultur­departementet" },
-      { cx: -70, cy: 90, name_eng: "Environment Ministry", name: "Miljö­departementet" },
-      { cx: -20, cy: 90, name_eng: "Commerce Ministry", name: "Närings­departementet" },
-      { cx: 30, cy: 90, name_eng: "Social Affair Ministry", name: "Social­departementet" },
-      { cx: 80, cy: 90, name_eng: "Education Ministry", name: "Utbildnings­departementet" },
-      { cx: -20, cy: 135, name_eng: "Foreign Affair Ministry", name: "Utrikes­departementet" },
-      { cx: 30, cy: 135, name_eng: "Labor Ministry", name: "Arbetsmarknads­­departementet" }
+      { cx: -20, cy: 0, name_eng: "Prime Minister's Office", name: "Stats­minister" },
+      { cx: 30, cy: 0, name_eng: "Ministry of Finance", name: "Finans­departementet" },
+      { cx: -70, cy: 45, name_eng: "Ministry of Defense", name: "Försvars­departementet" },
+      { cx: -20, cy: 45, name_eng: "Ministry of Infrastructure", name: "Infrastruktur­departementet" },
+      { cx: 30, cy: 45, name_eng: "Ministry of Justice", name: "Justitie­departementet" },
+      { cx: 80, cy: 45, name_eng: "Ministry of Culture", name: "Kultur­departementet" },
+      { cx: -70, cy: 90, name_eng: "Ministry of the Environment", name: "Miljö­departementet" },
+      { cx: -20, cy: 90, name_eng: "Ministry of Enterprise and Innovation", name: "Närings­departementet" },
+      { cx: 30, cy: 90, name_eng: "Ministry of Health and Social Affairs", name: "Social­departementet" },
+      { cx: 80, cy: 90, name_eng: "Ministry of Education and Research", name: "Utbildnings­departementet" },
+      { cx: -20, cy: 135, name_eng: "Ministry of Foreign Affairs", name: "Utrikes­departementet" },
+      { cx: 30, cy: 135, name_eng: "Ministry of Employment", name: "Arbetsmarknads­­departementet" }
 
     ];
 
@@ -63,15 +63,15 @@ export default class Government {
       .style("display", "none")
 
     tooltip.append("rect")
-      .attr("x", -15)
+      .attr("x", -50)
       .attr("y", 0)
-      .attr("width", 150)
-      .attr("height", 25)
+      .attr("width", 160)
+      .attr("height", 40)
       .attr("rx", "5")
       .attr("fill", "#ECECEC")
 
     tooltip.append("text")
-      .attr("x", 15)
+      .attr("x", -100)
       .attr("dy", "1.2em")
       .style("font-size", "0.8em")
       .style("background-color", "grey")
@@ -94,15 +94,15 @@ export default class Government {
           lineHeight = 0.1, // ems
           y = text.attr("y"),
           dy = parseFloat(text.attr("dy")),
-          tspan = text.text(null).append("tspan").attr("x", 0).attr("y", y).attr("dy", dy + "em");
+          tspan = text.text(null).append("tspan").attr("x", -40).attr("y", y).attr("dy", dy + "em");
         while (word = words.pop()) {
           line.push(word);
           tspan.text(line.join(" "));
-          if (tspan.node().getComputedTextLength() > 300) {
+          if (tspan.node().getComputedTextLength() > 146) {
             line.pop();
             tspan.text(line.join(" "));
             line = [word];
-            tspan = text.append("tspan").attr("x", 0).attr("y", y).attr("dy", ++lineNumber * lineHeight + dy + "em").text(word);
+            tspan = text.append("tspan").attr("x", -40).attr("y", y).attr("dy", ++lineNumber * lineHeight + dy + "em").text(word);
           }
         }
       });

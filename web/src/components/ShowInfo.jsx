@@ -1,7 +1,7 @@
 import React from "react";
-import committeeData from "../../data/committees.json";
+import committeeData from "../data/committees.json";
 
-const CommitteeInfo = ({ hovered, selected, shownFor }) => {
+const ShowInfo = ({ hovered, selected, shownFor }) => {
   const hoveredItem = hovered[shownFor];
   const selectedItem = selected[shownFor];
 
@@ -39,9 +39,10 @@ const CommitteeInfo = ({ hovered, selected, shownFor }) => {
       );
     case "motion":
       return (
-        selectedItem && (
+        hoveredItem && (
           <div className="chart-info">
-            <h3>Motions and propositions</h3>
+            <h2>Motions &amp; Propositions</h2>
+            <h3>Click to select a motion or proposition</h3>
             <p>
               Propositions are submitted by the ministries in the government and
               can be proposals for changes in legislation or regarding any other
@@ -51,11 +52,12 @@ const CommitteeInfo = ({ hovered, selected, shownFor }) => {
           </div>
         )
       );
-    /* case "representatives":
+    case "representative":
       return (
         hoveredItem && (
           <div className="chart-info">
-            <h3>Riksdag</h3>
+            <h2>The Riksdag</h2>
+            <h3>Click to select a representative</h3>
             <p>
               The Riksdag has 349 members representing eight political parties
               who are elected every four years. This is where voting regarding
@@ -64,12 +66,27 @@ const CommitteeInfo = ({ hovered, selected, shownFor }) => {
             </p>
           </div>
         )
-      ); */
-    /*  case "government":
+      );
+    case "proposition":
       return (
         hoveredItem && (
           <div className="chart-info">
-            <h3>Government</h3>
+            <h2>Proposals for Decision</h2>
+            <h3>Click a proposal to see how representatives voted</h3>
+            <p>
+              The committees present proposals for decisions to be voted upon by
+              the Riksdag. These are based on the original propositions and
+              motions and have been worked through by the committee best suited
+              to the topic.
+            </p>
+          </div>
+        )
+      );
+    case "government":
+      return (
+        hoveredItem && (
+          <div className="chart-info">
+            <h2>Government</h2>
             <p>
               The party or parties that attains the highest percentage of votes
               may form a government and appoint ministers. Each of the eleven
@@ -78,10 +95,10 @@ const CommitteeInfo = ({ hovered, selected, shownFor }) => {
             </p>
           </div>
         )
-      ); */
+      );
     default:
       return null;
   }
 };
 
-export default CommitteeInfo;
+export default ShowInfo;

@@ -10,7 +10,7 @@ import enviornment from "../../images/enviornment.png"
 import innovation from "../../images/innovation.png"
 import health from "../../images/health.png"
 import education from "../../images/education.png"
-import foreign from "../../images/health.png"
+import foreign from "../../images/foreign.png"
 import emplyment from "../../images/employment.png"
 
 export default class Government {

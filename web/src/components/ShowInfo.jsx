@@ -42,7 +42,7 @@ const ShowInfo = ({ hovered, selected, shownFor }) => {
         hoveredItem && (
           <div className="chart-info">
             <h2>Motions &amp; Propositions</h2>
-            <h3>Select a motion or proposition by clicking on it</h3>
+            <h3>Click to select a motion or proposition</h3>
             <p>
               Propositions are submitted by the ministries in the government and
               can be proposals for changes in legislation or regarding any other
@@ -57,7 +57,7 @@ const ShowInfo = ({ hovered, selected, shownFor }) => {
         hoveredItem && (
           <div className="chart-info">
             <h2>The Riksdag</h2>
-            <h3>Select a representative by clicking on it</h3>
+            <h3>Click to select a representative</h3>
             <p>
               The Riksdag has 349 members representing eight political parties
               who are elected every four years. This is where voting regarding
@@ -72,7 +72,7 @@ const ShowInfo = ({ hovered, selected, shownFor }) => {
         hoveredItem && (
           <div className="chart-info">
             <h2>Proposals for Decision</h2>
-            <h3>See how representatives voted by clicking on a proposal</h3>
+            <h3>Click a proposal to see how representatives voted</h3>
             <p>
               The committees present proposals for decisions to be voted upon by
               the Riksdag. These are based on the original propositions and

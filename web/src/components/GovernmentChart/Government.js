@@ -20,7 +20,7 @@ export default class Government {
 
     var margin = { top: 10, right: 10, buttom: 10, left: 10 },
       width = 365,
-      height = 260,
+      height = 270,
       isHighlighted = 1;
 
     var svg = d3
@@ -29,7 +29,7 @@ export default class Government {
       .attr("height", height)
       .attr("width", width)
       .append("g")
-      .attr("transform", "translate(175,60)");
+      .attr("transform", "translate(178,70)");
 
     const circles = svg.selectAll("circle")
       .data(data);

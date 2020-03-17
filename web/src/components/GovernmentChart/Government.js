@@ -3,21 +3,25 @@ import * as d3 from "d3";
 export default class Government {
   constructor(element) {
     const data = [
-      { "cx": "10", "cy": "0", "description": "Labor Ministry" },
-      { "cx": "-15", "cy": "40", "description": "Finance Ministry" },
-      { "cx": "35", "cy": "40", "description": "Defense Ministry" },
-      { "cx": "-40", "cy": "80", "description": "Infrastructure Ministry" },
-      { "cx": "10", "cy": "80", "description": "Justice Ministry" },
-      { "cx": "60", "cy": "80", "description": "Culture Ministry" },
-      { "cx": "-70", "cy": "120", "description": "Environment Ministry" },
-      { "cx": "-20", "cy": "120", "description": "Commerce Ministry" },
-      { "cx": "30", "cy": "120", "description": "Social Affair Ministry" },
-      { "cx": "80", "cy": "120", "description": "Education Ministry" }
+      { cx: -20, cy: 0, name_eng: "Ministry", name: "Stats­minister" },
+      { cx: 30, cy: 0, name_eng: "Finance Ministry", name: "Finans­departementet" },
+      { cx: -70, cy: 45, name_eng: "Defense Ministry", name: "Försvars­departementet" },
+      { cx: -20, cy: 45, name_eng: "Infrastructure Ministry", name: "Infrastruktur­departementet" },
+      { cx: 30, cy: 45, name_eng: "Justice Ministry", name: "Justitie­departementet" },
+      { cx: 80, cy: 45, name_eng: "Culture Ministry", name: "Kultur­departementet" },
+      { cx: -70, cy: 90, name_eng: "Environment Ministry", name: "Miljö­departementet" },
+      { cx: -20, cy: 90, name_eng: "Commerce Ministry", name: "Närings­departementet" },
+      { cx: 30, cy: 90, name_eng: "Social Affair Ministry", name: "Social­departementet" },
+      { cx: 80, cy: 90, name_eng: "Education Ministry", name: "Utbildnings­departementet" },
+      { cx: -20, cy: 135, name_eng: "Foreign Affair Ministry", name: "Utrikes­departementet" },
+      { cx: 30, cy: 135, name_eng: "Labor Ministry", name: "Arbetsmarknads­­departementet" }
+
     ];
 
     var margin = { top: 10, right: 10, buttom: 10, left: 10 },
       width = 365,
-      height = 220;
+      height = 260,
+      isHighlighted = 1;
 
     var svg = d3
       .select(element)
@@ -25,7 +29,7 @@ export default class Government {
       .attr("height", height)
       .attr("width", width)
       .append("g")
-      .attr("transform", "translate(175,40)");
+      .attr("transform", "translate(175,60)");
 
     const circles = svg.selectAll("circle")
       .data(data);
@@ -35,12 +39,6 @@ export default class Government {
       .attr("cy", d => d.cy)
       .attr("r", "20")
       .attr("fill", "white")
-      // .on("mouseover", function () {
-      //   d3.select(this).attr("fill", "#999999")
-      // })
-      // .on("mouseout", function () {
-      //   d3.select(this).attr("fill", "white")
-      // })
       .on('mouseover', function () {
         tooltip.style("display", null)
         d3.select(this).attr("fill", "#999999")
@@ -55,7 +53,7 @@ export default class Government {
         console.log("mouseover");
 
         tooltip.attr("transform", "translate(" + xPos + "," + yPos + ")");
-        tooltip.select("text").text(d.description).each(wrap);
+        tooltip.select("text").text(d.name_eng).each(wrap);
 
       })
 
@@ -81,7 +79,7 @@ export default class Government {
 
     svg.append("text")
       .attr("x", "-45")
-      .attr("y", "180")
+      .attr("y", "200")
       .attr("fill", "black")
       .text("GOVERNMENT")
 
@@ -114,4 +112,5 @@ export default class Government {
 
   }
 }
+
 

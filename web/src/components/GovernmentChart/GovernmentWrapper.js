@@ -10,9 +10,9 @@ export default class GovernmentWrapper extends Component {
     render() {
         return (
             <div>
-                <div className="logo">
+                {/* <div className="logo">
                     <img src={logo} />
-                </div>
+                </div> */}
                 <div className="government" ref="governmentChart">
                 </div>
             </div>

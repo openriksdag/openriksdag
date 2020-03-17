@@ -201,9 +201,15 @@ img {
   justify-content: space-between;
   width: 100%;
   margin: 20px 0;
+  
  
 }
 
 .profiles{
   padding-top:120px;
+}
+
+.video-section{
+  padding-top:180px;
+  margin:auto;
 }

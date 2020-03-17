@@ -73,11 +73,10 @@ const AboutUs = () => {
                             Front end developer / UX-designer
                         </p>
                         <p>
-                            UX-designer and artist extraordinaire. Binyuan’s
-                            contribution to the team was of paramount importance
-                            as without her, the Open Riksdag page would look and
-                            handle like the nineties. She put in a lot of hours
-                            building prototypes to make sure that the team
+                            Being responsible of front-end and UX design was Binyuan’s
+                            main task. She contributed to creating prototype, general
+                            layout and routings for the website. She put in a lot of
+                            hours creating visuliaztion and make sure that the team
                             always had a clear goal to aim for.
                         </p>
                     </figure>

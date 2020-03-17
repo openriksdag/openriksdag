@@ -6,12 +6,16 @@ const AboutProject = () => {
 
     return (
         <div className="about-project-content">
-            <span>
-                <video width="800" controls>
-                    <source src={Video} type="video/mp4" />
-                    Your browser does not support HTML5 video.
+            <div className="video-section">
+
+                <span>
+                    <video width="800" controls>
+                        <source src={Video} type="video/mp4" />
+                        Your browser does not support HTML5 video.
         </video>
-            </span>
+                </span>
+            </div>
+
             <span>
                 <h2>Goals</h2>
                 <p className="project-text">
@@ -22,12 +26,8 @@ const AboutProject = () => {
                     politics accessible for everyone and through visualizing complex data,
                     provide value for the novice and the political deep-diver alike.
         </p>
+
                 <p className="project-text">
-                    The project was made as a part of the Information Visualization
-                    course, DH2321, at the Royal Institute of Technology in Stockholm,
-                    Sweden, and deployed in march 2020.
-        </p>
-                <p>
                     The Open Riksdag team is made up of five master’s students of
                     interaction design at the Royal Institute of Technology in
                     Stockholm, Sweden. The project was made as a part of the

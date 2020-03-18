@@ -14,6 +14,7 @@ export const Selected = makeUnion("Selected", {
   Committee: name => ({name}),
   Motion: data => ({data}),
   Proposition: data => ({data}),
+  Ministry: name => ({name}),
   Voting: (voteId, propositionData) => ({voteId, propositionData})
 });
 
@@ -23,6 +24,7 @@ const initialSelected = {
   motion: null,
   proposition: null,
   voting: null,
+  ministry: null,
 };
 
 const processVotes = (votes) => {
@@ -59,6 +61,7 @@ const reducer = createReducer(initialState, {
       Proposition: ({data}) => ({...initialSelected, proposition: data}),
       Motion: ({data}) => ({...initialSelected, motion: data}),
       Voting: ({voteId}) => ({...initialSelected, voting: voteId}),
+      Ministry: ({name}) => ({...initialSelected, ministry: name}),
       Nothing: () => initialSelected
     })
   }),
@@ -94,6 +97,10 @@ const reducer = createReducer(initialState, {
           ...initialSelected,
           proposition: propositionData,
           voting: toggle(selected.voting, voteId),
+        }),
+        Ministry: ({name}) => ({
+          ...initialSelected,
+          ministry: toggle(selected.ministry, name)
         }),
         Nothing: () => initialSelected
       })

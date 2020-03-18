@@ -5,10 +5,10 @@ import GovernmentChart from "./components/GovernmentChart/GovernmentWrapper";
 import Committees from "./components/CommitteesChart/Committees";
 import ShowInfo from "./components/ShowInfo";
 import MotionsChart from "./components/MotionChart/MotionsChart";
-import { useSelector } from "react-redux";
+import {useDispatch, useSelector} from "react-redux";
 import Arrow from "./components/Arrow/Arrow";
 import AboutUs from "./components/AboutUs/AboutUs";
-import { Route, BrowserRouter } from "react-router-dom";
+import {BrowserRouter, Route} from "react-router-dom";
 import AboutProject from "./components/AboutProject/AboutProject";
 import VotesLegend from "./components/RiksdagChart/VotesLegend";
 
@@ -23,13 +23,15 @@ function App(props) {
     selected
   } = useSelector(s => s);
 
+  const dispatch = useDispatch();
+
   return (
     <BrowserRouter>
       <Route
         path="/about"
         render={() => (
           <Layout>
-            <AboutUs />
+            <AboutUs/>
             <div className="arrow-disable">
               <svg></svg>
             </div>
@@ -41,7 +43,7 @@ function App(props) {
         path="/project"
         render={() => (
           <Layout>
-            <AboutProject />
+            <AboutProject/>
             <div className="arrow-disable">
               <svg></svg>
             </div>
@@ -76,7 +78,7 @@ function App(props) {
                     votes={votes}
                   />
                 ) : null}
-                <div className="spacer" />
+                <div className="spacer"/>
                 <Arrow
                   index={3}
                   shownFor={"proposition"}
@@ -102,7 +104,10 @@ function App(props) {
                   selected={selected}
                 />
               </div>
-              <GovernmentChart />
+              <GovernmentChart
+                dispatch={dispatch}
+                selected={selected}
+              />
 
               <MotionsChart
                 type="Proposals"
@@ -120,7 +125,7 @@ function App(props) {
                 hovered={hovered}
                 selected={selected}
               />
-              <Committees />
+              <Committees/>
 
               <Arrow
                 index={2}

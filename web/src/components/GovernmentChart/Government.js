@@ -14,7 +14,7 @@ import foreign from "../../images/foreign.png"
 import emplyment from "../../images/employment.png"
 
 export default class Government {
-  constructor(element) {
+  constructor(element, onHover, onLeaveHover, onClick, selected) {
     const data = [
       { cx: -20, cy: 0, name_eng: "Prime Minister's Office", name: "Stats­minister", icon: office },
       { cx: 30, cy: 0, name_eng: "Ministry of Finance", name: "Finans­departementet", icon: finance },
@@ -36,7 +36,7 @@ export default class Government {
       height = 270,
       isHighlighted = 1;
 
-    var svg = d3
+    const svg = d3
       .select(element)
       .append("svg")
       .attr("height", height)
@@ -54,8 +54,10 @@ export default class Government {
       .attr("cx", d => d.cx)
       .attr("cy", d => d.cy)
       .attr("r", "20")
-      .attr("fill", "white")
-
+      .attr("fill", d => selected.case({
+        Ministry: (name) => name === d.name ? "#999999" : "white",
+        otherwise: () => "white"
+      }))
 
 
     images.enter().append("image")
@@ -69,7 +71,7 @@ export default class Government {
         return d.cy - 12;
       })
       .attr("opacity", "40%")
-      .on('mouseover', function () {
+      .on('mouseover', function (data) {
         tooltip.style("display", null)
         d3.select(this).attr("opacity", "100%")
       })
@@ -78,18 +80,17 @@ export default class Government {
         d3.select(this).attr("opacity", "40%")
       })
       .on('mousemove', function (d) {
-        var xPos = d3.mouse(this)[0] - 15;
-        var yPos = d3.mouse(this)[1] + 15;
-        console.log("mouseover");
-
+        const xPos = d3.mouse(this)[0] - 15
+        const yPos = d3.mouse(this)[1] + 15
         tooltip.attr("transform", "translate(" + xPos + "," + yPos + ")");
         tooltip.select("text").text(d.name_eng).each(wrap);
-
+      })
+      .on('click', function (data) {
+        onClick(data.name)
       })
 
-
-    var tooltip = svg.append("g")
-      .attr("class", tooltip)
+    const tooltip = svg.append("g")
+      .attr("class", "tooltip")
       .style("display", "none")
 
     tooltip.append("rect")
@@ -114,9 +115,9 @@ export default class Government {
       .text("GOVERNMENT")
 
     function wrap() {
-      var text = d3.select(this)
+      const text = d3.select(this)
       text.each(function () {
-        var text = d3.select(this),
+        let text = d3.select(this),
           words = text.text().split(/\s+/).reverse(),
           word,
           line = [],
@@ -137,9 +138,6 @@ export default class Government {
         }
       });
     }
-
-
-
   }
 }
 

@@ -185,6 +185,11 @@ img {
   text-align: left;
 }
 
+.about-project-content p{
+  font-size:16px;
+  text-align: justify;
+}
+
 #git {
   text-align: center;
   position: fixed;
